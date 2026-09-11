@@ -112,11 +112,11 @@
    "published": true,
    "items": [
     {"type": "header", "title": "Week 1"},
-    {"type": "quiz", "ref": "q_m1_intro"},
-    {"type": "page", "ref": "p_m1_lesson_1"},
-    {"type": "quiz", "ref": "q_m1_check"},
-    {"type": "discussion", "ref": "d_m1"},
-    {"type": "assignment", "ref": "a_m1_essay"},
+    {"type": "quiz", "ref": "q_m1_intro", "week": 1},
+    {"type": "page", "ref": "p_m1_lesson_1", "week": 1},
+    {"type": "quiz", "ref": "q_m1_check", "week": 1},
+    {"type": "discussion", "ref": "d_m1", "week": 1},
+    {"type": "assignment", "ref": "a_m1_essay", "week": 2},
     {"type": "file", "ref": "teacher-resources/example-syllabus.txt", "title": "Syllabus (placeholder)"}
    ]
   },
