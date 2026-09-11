@@ -64,6 +64,7 @@ def build():
                     if f in s:
                         entry[f] = s[f]
                 entry['sidecar'] = 'cartridges/%s.json' % kid
+                entry['student_modules'] = sum(1 for m in s.get('modules', []) if m.get('published', True))
                 entry['warnings'] = len((s.get('verify') or {}).get('warnings') or [])
                 if not row.get('canvas_title'):
                     row['canvas_title'] = s.get('title')
