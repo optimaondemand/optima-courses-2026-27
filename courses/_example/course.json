@@ -1,0 +1,11 @@
+{
+ "code": "0000000",
+ "title": "Example Course (fixture)",
+ "grade": "0",
+ "subject": "Fixture",
+ "owner": "optimaondemand",
+ "note": "Synthetic placeholder content. Folders that start with an underscore are skipped by make_catalog.py; this one exists so check_repo.py can prove the toolchain builds, verifies and patches a cartridge without any real course content in the repo.",
+ "kits": [
+  {"id": "0000000-s1", "label": "Semester 1"}
+ ]
+}

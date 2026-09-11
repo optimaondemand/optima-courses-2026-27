@@ -1,0 +1,20 @@
+# Parked copy of the pull-request gate. The shared account's token lacks the
+# `workflow` scope, so this file cannot be pushed under .github/workflows/ from a
+# script. Install it once through the GitHub web UI:
+#   Actions -> New workflow -> set up a workflow yourself -> paste -> name it gate.yml
+# or copy it to .github/workflows/gate.yml and push from GitHub Desktop.
+name: gate
+on:
+  pull_request:
+  push:
+    branches: [main]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Repo gate (registry, specs, cartridges, catalog, fixture)
+        run: python _build/check_repo.py

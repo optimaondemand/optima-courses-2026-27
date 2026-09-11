@@ -1,0 +1,21 @@
+# Order matters: git applies the LAST matching line. Text rules first, binaries last.
+* text=auto eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.yml text eol=lf
+*.html text eol=lf
+*.imscc binary
+*.zip binary
+*.pdf binary
+*.docx binary
+*.pptx binary
+*.xlsx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.mp3 binary
+*.mp4 binary
+*.woff binary
+*.woff2 binary

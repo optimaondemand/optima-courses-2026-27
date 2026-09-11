@@ -1,0 +1,132 @@
+{
+ "course": {
+  "title": "Example Course Sem 1",
+  "code": "0000000",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {"id": "ag_practice", "title": "Practice", "weight": 40},
+  {"id": "ag_assessments", "title": "Assessments", "weight": 60}
+ ],
+ "rubrics": [
+  {
+   "id": "r_essay",
+   "title": "Example Essay Rubric",
+   "criteria": [
+    {"description": "Claim", "long_description": "The essay states one clear claim.", "points": 5,
+     "ratings": [{"description": "Full", "points": 5}, {"description": "Partial", "points": 3}, {"description": "None", "points": 0}]},
+    {"description": "Evidence", "long_description": "Two specific examples support the claim.", "points": 5,
+     "ratings": [{"description": "Full", "points": 5}, {"description": "Partial", "points": 3}, {"description": "None", "points": 0}]}
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_home",
+   "title": "Course Home",
+   "front_page": true,
+   "published": true,
+   "html": "<h2>Example Course</h2><p>Placeholder home page. The Course Kit widget replaces this body with the teacher's home page.</p><p><a href=\"{{modules}}\">Modules</a> &middot; <a href=\"{{module:m_1}}\">Module 1</a> &middot; <a href=\"{{syllabus}}\">Syllabus</a></p>"
+  },
+  {
+   "id": "p_m1_lesson_1",
+   "title": "Lesson 1: Placeholder",
+   "published": true,
+   "html": "<p>Placeholder lesson text. A real lesson page embeds its GitHub Pages lesson in an iframe:</p><iframe src=\"https://optimaondemand.github.io/\" width=\"100%\" height=\"600\" style=\"border:0\"></iframe><p>Next: <a href=\"{{assignment:a_m1_essay}}\">the essay</a>.</p>"
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a_m1_essay",
+   "title": "Module 1 Essay",
+   "group": "ag_assessments",
+   "points": 10,
+   "rubric": "r_essay",
+   "submission_types": "online_upload",
+   "allowed_extensions": "docx,pdf",
+   "published": true,
+   "html": "<p>Placeholder essay prompt. Submit one Word document. See the <a href=\"{{file:teacher-resources/example-syllabus.txt}}\">syllabus</a>.</p>"
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q_m1_check",
+   "title": "Module 1 Check-Up",
+   "group": "ag_practice",
+   "quiz_type": "assignment",
+   "points": 2,
+   "allowed_attempts": 2,
+   "shuffle_answers": true,
+   "published": true,
+   "description": "<p>Placeholder quiz description.</p>",
+   "questions": [
+    {"type": "multiple_choice", "text": "<p>Placeholder question one?</p>", "points": 1,
+     "answers": [{"text": "Right answer", "correct": true}, {"text": "Plausible wrong answer"}, {"text": "Another wrong answer"}],
+     "feedback_correct": "Yes.", "feedback_incorrect": "Look again at the placeholder."},
+    {"type": "true_false", "text": "<p>Placeholder statement is true.</p>", "points": 1,
+     "answers": [{"text": "True", "correct": true}, {"text": "False"}]}
+   ]
+  },
+  {
+   "id": "q_m1_intro",
+   "title": "Module 1 Intro Survey",
+   "quiz_type": "survey",
+   "points": 0,
+   "allowed_attempts": 1,
+   "published": true,
+   "description": "<p>Ungraded survey placeholder.</p>",
+   "questions": [
+    {"type": "essay", "text": "<p>Placeholder open question.</p>", "points": 0, "answers": []}
+   ]
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_m1",
+   "title": "Module 1 Discussion",
+   "graded": true,
+   "group": "ag_practice",
+   "points": 5,
+   "require_initial_post": true,
+   "published": true,
+   "html": "<p>Placeholder discussion prompt.</p>"
+  }
+ ],
+ "files": [
+  {"path": "teacher-resources/example-syllabus.txt", "src": "files/teacher-resources/example-syllabus.txt"}
+ ],
+ "modules": [
+  {
+   "id": "m_0",
+   "title": "Module 0: Start Here",
+   "published": true,
+   "items": [
+    {"type": "page", "ref": "p_home"},
+    {"type": "url", "title": "Optima Academy Online", "url": "https://optimaed.com/"}
+   ]
+  },
+  {
+   "id": "m_1",
+   "title": "Module 1: Placeholder",
+   "published": true,
+   "items": [
+    {"type": "header", "title": "Week 1"},
+    {"type": "quiz", "ref": "q_m1_intro"},
+    {"type": "page", "ref": "p_m1_lesson_1"},
+    {"type": "quiz", "ref": "q_m1_check"},
+    {"type": "discussion", "ref": "d_m1"},
+    {"type": "assignment", "ref": "a_m1_essay"},
+    {"type": "file", "ref": "teacher-resources/example-syllabus.txt", "title": "Syllabus (placeholder)"}
+   ]
+  },
+  {
+   "id": "m_tr",
+   "title": "Teacher Resources",
+   "published": false,
+   "items": [
+    {"type": "file", "ref": "teacher-resources/example-syllabus.txt"}
+   ]
+  }
+ ]
+}
