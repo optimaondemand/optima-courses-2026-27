@@ -4,11 +4,11 @@
  "code": "0701320",
  "title": "French 1 Sem 2",
  "file": "cartridges/0701320-s2.imscc",
- "bytes": 391788,
+ "bytes": 399949,
  "version": "2026.09.16",
- "built": "2026-09-16T18:32:13",
+ "built": "2026-09-16T18:45:47",
  "front_page": "wiki_content/course-home.html",
- "items": 142,
+ "items": 143,
  "modules": [
   {
    "id": "mod_start",
@@ -97,16 +97,24 @@
    "published": true,
    "items": 6,
    "xml": "course_settings/module_meta.xml"
+  },
+  {
+   "id": "mod_teacher",
+   "title": "Teacher Resources",
+   "gid": "gaeb96a4d7c224a709bbed50535f05ed5",
+   "published": false,
+   "items": 1,
+   "xml": "course_settings/module_meta.xml"
   }
  ],
  "counts": {
-  "pages": 105,
+  "pages": 106,
   "assignments": 9,
   "quizzes": 29,
   "discussions": 0,
   "files": 0,
-  "modules": 11,
-  "items": 142
+  "modules": 12,
+  "items": 143
  },
  "weights": [
   {
@@ -899,22 +907,22 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 173,
+   "resources": 174,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 39,
-    "webcontent": 105,
+    "webcontent": 106,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 29
    },
-   "organization_items": 142,
-   "modules": 11,
-   "module_items": 142,
+   "organization_items": 143,
+   "modules": 12,
+   "module_items": 143,
    "module_item_types": {
-    "WikiPage": 104,
+    "WikiPage": 105,
     "Quizzes::Quiz": 29,
     "Assignment": 9
    },
    "default_view": "wiki",
-   "pages": 105,
+   "pages": 106,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 6,
    "group_refs": 67,
@@ -926,5 +934,5 @@
   }
  },
  "status": "ready",
- "spec_sha": "fcb96c68615541a58a1eb33bfca56977953518396bf47f8bb886dd861a0a18a8"
+ "spec_sha": "57967ae73776993ff3f889713aa771ad14437a68f85fa2a25cefe82f48a7af42"
 }
