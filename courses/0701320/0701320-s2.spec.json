@@ -30,6 +30,11 @@
    "id": "ag_final",
    "title": "Semester 2 Final Exam",
    "weight": 10
+  },
+  {
+   "id": "ag_extra",
+   "title": "Extra Credit",
+   "weight": 0
   }
  ],
  "rubrics": [
@@ -14997,6 +15002,317 @@
      "text": "<p><strong>Une journ&eacute;e m&eacute;morable.</strong> Write 4&ndash;6 sentences in French about a memorable day in your past. Describe what the day was like &mdash; the weather, the place, how you felt &mdash; <em>and</em> tell what happened. You must use <strong>both</strong> the pass&eacute; compos&eacute; and the imparfait.</p><p><em>Don&rsquo;t forget the accents. If you cannot type them, copy from this strip:</em> <code>&eacute; &egrave; &ecirc; &euml; &middot; &agrave; &acirc; &middot; &icirc; &iuml; &middot; &ocirc; &middot; &ugrave; &ucirc; &uuml; &middot; &ccedil; &middot; &oelig;</code></p>"
     }
    ]
+  },
+  {
+   "id": "q_carte",
+   "title": "Carte de France Mastery &mdash; Extra Credit",
+   "quiz_type": "assignment",
+   "group": "ag_extra",
+   "allowed_attempts": -1,
+   "shuffle_answers": true,
+   "show_correct_answers": true,
+   "description": "<p>The once-a-semester map challenge. Name the region each city sits in. <strong>Unlimited attempts</strong> &mdash; your best score counts, so keep practising on the Carte de France map until you have all thirteen.</p><p><em>This is extra credit. It cannot lower your grade, and a top score is worth up to +1% on your semester grade.</em></p>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which region contains Paris?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Centre-Val de Loire",
+       "correct": false
+      },
+      {
+       "text": "Normandie",
+       "correct": false
+      },
+      {
+       "text": "Hauts-de-France",
+       "correct": false
+      },
+      {
+       "text": "Île-de-France",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which region contains Lyon?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Provence-Alpes-Côte d'Azur",
+       "correct": false
+      },
+      {
+       "text": "Occitanie",
+       "correct": false
+      },
+      {
+       "text": "Auvergne-Rhône-Alpes",
+       "correct": true
+      },
+      {
+       "text": "Bourgogne-Franche-Comté",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which region contains Bordeaux?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Occitanie",
+       "correct": false
+      },
+      {
+       "text": "Pays de la Loire",
+       "correct": false
+      },
+      {
+       "text": "Nouvelle-Aquitaine",
+       "correct": true
+      },
+      {
+       "text": "Centre-Val de Loire",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which region contains Marseille?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Provence-Alpes-Côte d'Azur",
+       "correct": true
+      },
+      {
+       "text": "Corse",
+       "correct": false
+      },
+      {
+       "text": "Occitanie",
+       "correct": false
+      },
+      {
+       "text": "Auvergne-Rhône-Alpes",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which region contains Lille?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Île-de-France",
+       "correct": false
+      },
+      {
+       "text": "Hauts-de-France",
+       "correct": true
+      },
+      {
+       "text": "Grand Est",
+       "correct": false
+      },
+      {
+       "text": "Normandie",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which region contains Strasbourg?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Bourgogne-Franche-Comté",
+       "correct": false
+      },
+      {
+       "text": "Hauts-de-France",
+       "correct": false
+      },
+      {
+       "text": "Auvergne-Rhône-Alpes",
+       "correct": false
+      },
+      {
+       "text": "Grand Est",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which region contains Nantes?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Bretagne",
+       "correct": false
+      },
+      {
+       "text": "Centre-Val de Loire",
+       "correct": false
+      },
+      {
+       "text": "Nouvelle-Aquitaine",
+       "correct": false
+      },
+      {
+       "text": "Pays de la Loire",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which region contains Rennes?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Centre-Val de Loire",
+       "correct": false
+      },
+      {
+       "text": "Normandie",
+       "correct": false
+      },
+      {
+       "text": "Bretagne",
+       "correct": true
+      },
+      {
+       "text": "Pays de la Loire",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which region contains Rouen / Caen?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Hauts-de-France",
+       "correct": false
+      },
+      {
+       "text": "Normandie",
+       "correct": true
+      },
+      {
+       "text": "Bretagne",
+       "correct": false
+      },
+      {
+       "text": "Pays de la Loire",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which region contains Dijon?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Grand Est",
+       "correct": false
+      },
+      {
+       "text": "Centre-Val de Loire",
+       "correct": false
+      },
+      {
+       "text": "Bourgogne-Franche-Comté",
+       "correct": true
+      },
+      {
+       "text": "Auvergne-Rhône-Alpes",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which region contains Toulouse?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Provence-Alpes-Côte d'Azur",
+       "correct": false
+      },
+      {
+       "text": "Occitanie",
+       "correct": true
+      },
+      {
+       "text": "Nouvelle-Aquitaine",
+       "correct": false
+      },
+      {
+       "text": "Auvergne-Rhône-Alpes",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which region contains Orléans / Tours?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Centre-Val de Loire",
+       "correct": true
+      },
+      {
+       "text": "Pays de la Loire",
+       "correct": false
+      },
+      {
+       "text": "Bourgogne-Franche-Comté",
+       "correct": false
+      },
+      {
+       "text": "Île-de-France",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is the island region south of the mainland?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Normandie",
+       "correct": false
+      },
+      {
+       "text": "Bretagne",
+       "correct": false
+      },
+      {
+       "text": "Provence-Alpes-Côte d'Azur",
+       "correct": false
+      },
+      {
+       "text": "Corse",
+       "correct": true
+      }
+     ]
+    }
+   ]
   }
  ],
  "modules": [
@@ -15900,6 +16216,11 @@
      "ref": "q_final",
      "week": 19,
      "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_carte",
+     "week": 19
     }
    ]
   }

@@ -4,11 +4,11 @@
  "code": "0701320",
  "title": "French 1 Sem 2",
  "file": "cartridges/0701320-s2.imscc",
- "bytes": 372857,
+ "bytes": 379931,
  "version": "2026.09.16",
- "built": "2026-09-16T15:49:28",
+ "built": "2026-09-16T18:03:03",
  "front_page": "wiki_content/course-home.html",
- "items": 141,
+ "items": 142,
  "modules": [
   {
    "id": "mod_start",
@@ -95,18 +95,18 @@
    "title": "R&eacute;vision finale &amp; Examen",
    "gid": "ged66ef7b1d88c7235813885a78a0bff6",
    "published": true,
-   "items": 5,
+   "items": 6,
    "xml": "course_settings/module_meta.xml"
   }
  ],
  "counts": {
   "pages": 105,
   "assignments": 9,
-  "quizzes": 28,
+  "quizzes": 29,
   "discussions": 0,
   "files": 0,
   "modules": 11,
-  "items": 141
+  "items": 142
  },
  "weights": [
   {
@@ -128,6 +128,10 @@
   {
    "title": "Semester 2 Final Exam",
    "weight": 10
+  },
+  {
+   "title": "Extra Credit",
+   "weight": 0
   }
  ],
  "groups": [
@@ -160,6 +164,12 @@
    "title": "Semester 2 Final Exam",
    "weight": 10.0,
    "position": 5
+  },
+  {
+   "id": "g546ad6931e37739887df0f752107dc6d",
+   "title": "Extra Credit",
+   "weight": 0.0,
+   "position": 6
   }
  ],
  "graded_items": [
@@ -856,6 +866,25 @@
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
+  },
+  {
+   "id": "q_carte",
+   "type": "quiz",
+   "title": "Carte de France Mastery &mdash; Extra Credit",
+   "gid": "g31a43cd6eb05e07ba736054924182d3f",
+   "xml": "g31a43cd6eb05e07ba736054924182d3f/assessment_meta.xml",
+   "module": "mod_m10",
+   "week": 19,
+   "kind": null,
+   "points": 13.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g546ad6931e37739887df0f752107dc6d",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
   }
  ],
  "settings": {
@@ -870,32 +899,32 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 171,
+   "resources": 173,
    "resource_types": {
-    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 38,
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 39,
     "webcontent": 105,
-    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 28
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 29
    },
-   "organization_items": 141,
+   "organization_items": 142,
    "modules": 11,
-   "module_items": 141,
+   "module_items": 142,
    "module_item_types": {
     "WikiPage": 104,
-    "Quizzes::Quiz": 28,
+    "Quizzes::Quiz": 29,
     "Assignment": 9
    },
    "default_view": "wiki",
    "pages": 105,
    "front_page": "wiki_content/course-home.html",
-   "assignment_groups": 5,
-   "group_refs": 65,
-   "quizzes": 28,
+   "assignment_groups": 6,
+   "group_refs": 67,
+   "quizzes": 29,
    "assignments": 9,
    "discussions": 0,
    "files": 0,
-   "points_listed": 1605.0
+   "points_listed": 1631.0
   }
  },
  "status": "ready",
- "spec_sha": "a43f36e61e32b579cdc4660310284db7f031abe129ffbabc3ea8030a9c9f2e60"
+ "spec_sha": "bad09e2c558d599eeaa9e89437d52c7b6c6353b4f3be64deeb5ba4f1c55ee4bd"
 }
