@@ -35,7 +35,11 @@ QUESTION = {"type": "multiple_choice|true_false|multiple_answers|short_answer|
             (extra right-hand choices with no left); each pair scores an equal share.
 
 ITEM = {"type": "page|assignment|quiz|discussion|url|header|file",
-        "ref": id-or-path, "title", "url", "new_tab", "indent", "published"}
+        "ref": id-or-path, "title", "url", "new_tab", "indent", "published",
+        "completion": "must_view|must_mark_done|must_submit|must_contribute"
+                      or {"type": "min_score", "min_score": 16}}
+  completion becomes the module's <completionRequirements> block. Optima lesson
+  pages carry "must_mark_done" (the Mark as Done button). Headers cannot.
 
 Link tokens allowed in any HTML. Canvas rewrites them to real course URLs on
 import, which is what lets a home page link to a module before the module exists:
@@ -65,6 +69,12 @@ TYPE_LAR = 'associatedcontent/imscc_xmlv1p1/learning-application-resource'
 TYPE_QTI = 'imsqti_xmlv1p2/imscc_xmlv1p1/assessment'
 TYPE_DT = 'imsdt_xmlv1p1'
 TYPE_WL = 'imswl_xmlv1p1'
+
+# Module item completion requirements, as Canvas writes them in
+# course_settings/module_meta.xml: a <completionRequirements> block after </items>,
+# each entry pointing at the *item* identifier. 'must_mark_done' is the Mark as Done
+# button every Optima lesson page carries.
+COMPLETION_TYPES = ('must_view', 'must_mark_done', 'must_submit', 'must_contribute', 'min_score')
 
 QUESTION_TYPES = {
     'multiple_choice': 'multiple_choice_question',
@@ -581,6 +591,7 @@ class Cartridge:
         for mpos, m in enumerate(self.spec.get('modules', []), 1):
             mg = self.G('module', m['id'])
             org_items = []
+            reqs = []
             mm.append('  <module identifier="%s">\n    <title>%s</title>\n    <workflow_state>%s</workflow_state>\n    <position>%d</position>\n'
                       '%s    <require_sequential_progress>%s</require_sequential_progress>\n    <locked>false</locked>\n    <items>'
                       % (mg, x(m['title']), 'active' if m.get('published', True) else 'unpublished', mpos,
@@ -638,7 +649,31 @@ class Cartridge:
                 mm.append('        <position>%d</position>\n        <new_tab>%s</new_tab>\n        <indent>%d</indent>\n        <link_settings_json>null</link_settings_json>\n      </item>'
                           % (ipos, b(it.get('new_tab', False)), int(it.get('indent', 0) or 0)))
                 org_items.append((ig, org_ref, title))
-            mm.append('    </items>\n  </module>')
+                cr = it.get('completion')
+                if cr:
+                    cr = {'type': cr} if isinstance(cr, str) else dict(cr)
+                    rt = cr.get('type')
+                    if t == 'header':
+                        self.errors.append('%s is a header and cannot carry a completion requirement' % where)
+                    elif rt not in COMPLETION_TYPES:
+                        self.errors.append('%s has unknown completion requirement %r' % (where, rt))
+                    elif rt == 'min_score' and cr.get('min_score') is None:
+                        self.errors.append('%s completion min_score needs a min_score' % where)
+                    else:
+                        reqs.append((ig, rt, cr.get('min_score')))
+            mm.append('    </items>')
+            if reqs:
+                mm.append('    <completionRequirements>')
+                for iid, rt, ms in reqs:
+                    if rt == 'min_score':
+                        mm.append('      <completionRequirement type="min_score">\n        <min_score>%s</min_score>\n'
+                                  '        <identifierref>%s</identifierref>\n      </completionRequirement>'
+                                  % (x('%.1f' % float(ms)), iid))
+                    else:
+                        mm.append('      <completionRequirement type="%s">\n        <identifierref>%s</identifierref>\n'
+                                  '      </completionRequirement>' % (rt, iid))
+                mm.append('    </completionRequirements>')
+            mm.append('  </module>')
             self.org.append((mg, m['title'], org_items))
         mm.append('</modules>\n')
         self.add('course_settings/module_meta.xml', '\n'.join(mm))

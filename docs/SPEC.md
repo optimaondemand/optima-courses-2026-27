@@ -97,7 +97,8 @@ Lesson media, videos, fonts and interactive pages stay in the course's lesson re
 GitHub Pages and are embedded from there.
 
 **modules** `[{id, title, published, sequential, unlock_at, items: [ITEM]}]` in the order
-students see them. ITEM `{type, ref, title, url, new_tab, indent, published, week}`:
+students see them. ITEM `{type, ref, title, url, new_tab, indent, published, week,
+completion}`:
 
 | type | ref | notes |
 |---|---|---|
@@ -105,6 +106,12 @@ students see them. ITEM `{type, ref, title, url, new_tab, indent, published, wee
 | `file` | the file's `path` | |
 | `url` | none; give `url` and `title` | external link |
 | `header` | none; give `title` | text sub-header inside the module |
+
+`completion` puts the item in the module's `<completionRequirements>` block, which is
+what draws the **Mark as done** button students use. It is a string — `must_view`,
+`must_mark_done`, `must_submit`, `must_contribute` — or `{"type": "min_score",
+"min_score": 16}` for a score gate. A header cannot carry one. Optima lesson pages take
+`must_mark_done`; leaving it off ships a course whose pages have no Mark as done button.
 
 `week` on an item (or `Week N` in its title) is what the widget's date panel uses to
 place due dates. `kind` is a free label (`quick-write`, `module-discussion`) the widget
