@@ -121,6 +121,12 @@ def main():
         'verify': {'ok': True, 'warnings': verify['warnings'], 'stats': verify['stats']},
         'status': 'ready',
         'spec_sha': spec_sha,
+        # figures link to course files BY PATH and the images are not in this cartridge;
+        # they arrive by the companion art pack (art_pack.py) from a login-gated store.
+        'art_pack': ({'folder': rep['art_pack']['folder'], 'root': rep['art_pack'].get('root'),
+                      'figures': len(rep['figures']), 'files': [f['path'] for f in rep['figures']],
+                      'cartridge': '%s-art-pack.imscc' % kit}
+                     if rep.get('figures') else None),
     }
     with open(os.path.join(ROOT, 'cartridges', kit + '.json'), 'w', encoding='utf-8') as fh:
         json.dump(side, fh, indent=1, ensure_ascii=False)

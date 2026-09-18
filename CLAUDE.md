@@ -20,6 +20,13 @@ the course in Canvas", "deploy", "push to Canvas" or "make it available to teach
    own rules; ask if they are not written down.
 4. Copy only the files the spec bundles into `courses/<code>/files/` (syllabus,
    teacher manual, at most a reference PDF). Never copy lesson media here.
+4b. **Licensed images (Artstor / Images on JSTOR, agency photographs) never enter this
+   repo, a lesson repo, or a cartridge here.** Declare each one as a `figure` on its page
+   (see `docs/SPEC.md`); the public kit renders a path link, and
+   `python _build/art_pack.py <kit>` builds the companion files-only cartridge that
+   carries the images. Write the art pack to OneDrive (`Claude's Workshop\Art Packs`),
+   never into this tree; the maintainer places it on the login-gated SharePoint store
+   and the teacher imports both. Caption fields come from the image's own XMP.
 5. `python _build/kit.py <kit>` until the gate prints `0 FAIL`.
 6. Optionally `python _build/import_test.py cartridges/<kit>.imscc "ZZ Kit test <kit> (delete me)"`
    and read the migration issues. Delete the scratch course.

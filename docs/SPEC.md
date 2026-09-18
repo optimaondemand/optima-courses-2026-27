@@ -96,6 +96,26 @@ absolute path. Keep bundled files small: syllabus, teacher manual, a reference P
 Lesson media, videos, fonts and interactive pages stay in the course's lesson repo on
 GitHub Pages and are embedded from there.
 
+**figures** on a page, assignment or discussion: `[{file, src, title, artist, date, medium,
+collection, credit, alt, description}]`. For **licensed images (Artstor / Images on JSTOR,
+agency photographs)** that may be shown to enrolled students but never published on an
+open website. Each figure renders as a Canvas-native block ABOVE the object's `html`:
+image, then an italic title with artist, date and medium, then a credit line. The `<img>`
+links to the course file **by path** (`course files/<folder>/<file>`), so the cartridge
+holds no image bytes and the link survives course copies. The images travel separately in
+the **art pack**, a files-only cartridge built by `python _build/art_pack.py <kit>` from the
+same spec and placed on a login-gated store (SharePoint), which the teacher imports into
+the same course. `file` is a bare name ending `.jpg` or `.png`; `src` is the source image
+relative to `art_pack.root`; `title` is required; `alt` is one factual clause. Caption
+fields come from the image's own metadata, never from memory. The `licensed` gate fails
+any cartridge or bundled file that carries a licence statement or an entry under the art
+folder.
+
+**art_pack** `{folder, root, note}` (top level). `folder` (default `art`) is the Canvas
+Files folder the figures link to and the art pack fills; it is hidden from the Files tab.
+`root` is the folder the figure `src` paths are read from, relative to the builder's
+OneDrive. Neither the sources nor the pack live in this repo.
+
 **modules** `[{id, title, published, sequential, unlock_at, items: [ITEM]}]` in the order
 students see them. ITEM `{type, ref, title, url, new_tab, indent, published, week,
 completion}`:

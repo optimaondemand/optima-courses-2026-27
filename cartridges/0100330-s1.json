@@ -4,9 +4,9 @@
  "code": "0100330",
  "title": "Art History and Criticism 1 Honors Sem 1",
  "file": "cartridges/0100330-s1.imscc",
- "bytes": 560282,
+ "bytes": 564492,
  "version": "2026.09.18",
- "built": "2026-09-18T08:59:25",
+ "built": "2026-09-18T09:17:04",
  "front_page": "wiki_content/course-home.html",
  "items": 76,
  "modules": [
@@ -882,5 +882,35 @@
   }
  },
  "status": "ready",
- "spec_sha": "afb8a8934d30c5f140e0b50518dd4e61d3e9fa6f7a7b0e6d5491d7a98b7d3929"
+ "spec_sha": "f0841e4361873e1cac65e92d20c86fbf0385afbd93f9f3be7040a116c92cbc2b",
+ "art_pack": {
+  "folder": "art",
+  "root": "Claude's Workshop/Art Builds_Summer 2026",
+  "figures": 22,
+  "files": [
+   "art/aqar-quf-ziggurat.jpg",
+   "art/bible-late-13th-century.jpg",
+   "art/book-of-hours.jpg",
+   "art/chogha-zanbil-ziggurat.jpg",
+   "art/franciscan-missal.jpg",
+   "art/great-herculaneum-woman.jpg",
+   "art/lascaux-chinese-horse.jpg",
+   "art/lascaux-cows-ceiling.jpg",
+   "art/narmer-palette-king-inspecting.jpg",
+   "art/narmer-palette-obverse.jpg",
+   "art/nike-of-samothrace.jpg",
+   "art/pyramids-giza-frith-1857.jpg",
+   "art/rome-floor-mosaic-via-casilina.jpg",
+   "art/san-vitale-justinian.jpg",
+   "art/san-vitale-theodora.jpg",
+   "art/santa-maria-maggiore-nave-mosaic.jpg",
+   "art/st-marks-venice-naya.jpg",
+   "art/stonehenge-caponigro-1972.jpg",
+   "art/stonehenge-general-view.jpg",
+   "art/stonehenge-reconstruction.jpg",
+   "art/uruk-ziggurat.jpg",
+   "art/venus-of-willendorf.jpg"
+  ],
+  "cartridge": "0100330-s1-art-pack.imscc"
+ }
 }

@@ -21,10 +21,28 @@ Spec (a dict, usually loaded from JSON):
                "group", "published", "questions": [QUESTION]}],
   "discussions": [{"id", "title", "html", "graded", "points", "group",
                    "published", "require_initial_post"}],
-  "files": [{"path": "folder/name.ext", "src": "local file path"}],
+  "files": [{"path": "folder/name.ext", "src": "local file path", "hidden": bool}],
   "modules": [{"id", "title", "published", "items": [ITEM]}],
-  "syllabus_html": str
+  "syllabus_html": str,
+  "art_pack": {"folder": "art", "root": "folder (under OneDrive) the figure images are read from"}
 }
+
+Pages, assignments and discussions may also carry "figures": [FIGURE].
+
+FIGURE = {"file": "narmer-palette.jpg", "src": "path under art_pack.root", "title",
+          "artist", "date", "medium", "collection", "credit", "alt", "description"}
+  Rendered as a Canvas-native figure ABOVE the object's html, whose <img> points at
+  $CANVAS_COURSE_REFERENCE$/file_contents/course%20files/<folder>/<file>: a PATH link,
+  resolved by Canvas at view time, so it survives course copies and does not care
+  which cartridge delivered the file. The image bytes are NEVER written into this
+  cartridge. They ship in a separate files-only cartridge (the art pack, built by
+  _build/art_pack.py from the same spec) that teachers import from a login-gated
+  store. Licensed images (Artstor) may not sit on the public store; see
+  check_repo.py's 'artstor' rule.
+
+A spec whose course carries "files_only": true builds a cartridge holding nothing but
+web_resources/ + files_meta.xml + canvas_export.txt (no settings, no modules), which
+Canvas imports into an existing course as files alone. That is the art pack.
 
 QUESTION = {"type": "multiple_choice|true_false|multiple_answers|short_answer|
                       essay|file_upload|text_only|matching",
@@ -149,6 +167,24 @@ class Cartridge:
         self.groups = {g['id']: g for g in s.get('assignment_groups', [])}
         self.rubrics = {r['id']: r for r in s.get('rubrics', [])}
         self.files = {f['path']: f for f in s.get('files', [])}
+        self.hidden_files = []  # (identifier, display_name) for files_meta.xml
+        self.art = dict(s.get('art_pack') or {})
+        self.art_folder = re.sub(r'[^A-Za-z0-9_-]+', '-', str(self.art.get('folder') or 'art')).strip('-') or 'art'
+        self.figures = {}       # file name -> figure dict (+ path); first occurrence wins
+        for coll, kind in (('pages', 'page'), ('assignments', 'assignment'), ('discussions', 'discussion')):
+            for o in s.get(coll, []):
+                for f in o.get('figures') or []:
+                    name = str(f.get('file') or '')
+                    if not name or '/' in name or '\\' in name or name.startswith('.') or '..' in name:
+                        self.errors.append('%s %s: figure file %r must be a bare file name' % (kind, o.get('id'), name))
+                        continue
+                    if not f.get('title'):
+                        self.errors.append('%s %s: figure %s has no title' % (kind, o.get('id'), name))
+                    path = '%s/%s' % (self.art_folder, name)
+                    if path in self.files:
+                        self.errors.append('%s %s: figure %s is also a bundled file; licensed images never ship in the public kit'
+                                           % (kind, o.get('id'), name))
+                    self.figures.setdefault(name, dict(f, path=path))
         for dup_name, coll in (('pages', s.get('pages', [])), ('assignments', s.get('assignments', [])),
                                ('quizzes', s.get('quizzes', [])), ('discussions', s.get('discussions', [])),
                                ('modules', s.get('modules', []))):
@@ -238,6 +274,40 @@ class Cartridge:
             self.errors.append('%s references unknown assignment group %r' % (where, gref))
         return self.G('group', gref)
 
+    # ---------------------------------------------------------------- figures
+    FIGURE_SRC = '$CANVAS_COURSE_REFERENCE$/file_contents/course%20files/'
+
+    def figure_html(self, figs):
+        """Canvas-native (inline styles only) figures, stacked, numbered when more than one."""
+        out = ['<div style="margin: 0 0 12px 0;">']
+        for i, f in enumerate(figs, 1):
+            name = str(f.get('file') or '')
+            src = self.FIGURE_SRC + urllib.parse.quote('%s/%s' % (self.art_folder, name))
+            alt = f.get('alt') or f.get('description') or f.get('title') or name
+            line = '<em>%s</em>' % x(f['title']) if f.get('title') else ''
+            for k in ('artist', 'date'):
+                if f.get(k):
+                    line += ', %s' % x(str(f[k]).strip())
+            if not line.endswith('.'):
+                line += '.'
+            tail = ' '.join(x(str(f[k])) + ('' if str(f[k]).rstrip().endswith('.') else '.') for k in ('medium', 'collection') if f.get(k))
+            credit = f.get('credit') or 'Image: Artstor Digital Library (JSTOR), for enrolled students of this course.'
+            label = ('<span style="color: #55C8E8; letter-spacing: 1px; font-size: 12px;">FIGURE %d</span><br>' % i) if len(figs) > 1 else ''
+            desc = ('<div style="margin-top: 6px; color: #333;">%s</div>' % x(f['description'])) if f.get('description') else ''
+            out.append(
+                '<div style="margin: 0 0 22px 0;">'
+                '<img src="%s" alt="%s" style="display: block; max-width: 100%%; max-height: 520px; height: auto; margin: 0 auto;" loading="lazy">'
+                '<div style="margin: 10px auto 0; max-width: 820px; font-family: \'Segoe UI\', Arial, sans-serif; color: #0E1C42; font-size: 15px; line-height: 1.45; text-align: center;">'
+                '%s%s %s%s<div style="margin-top: 4px; color: #666; font-size: 13px;">%s</div></div></div>'
+                % (src, x(alt), label, line, tail, desc, x(credit)))
+        out.append('</div>')
+        return '\n'.join(out)
+
+    def body(self, obj, where):
+        html = self.links(obj.get('html', ''), where)
+        figs = obj.get('figures') or []
+        return (self.figure_html(figs) + '\n' + html) if figs else html
+
     # ------------------------------------------------------------------ pages
     def build_pages(self):
         for p in self.spec.get('pages', []):
@@ -246,7 +316,7 @@ class Cartridge:
             path = 'wiki_content/%s.html' % slug
             state = 'active' if p.get('published', True) else 'unpublished'
             front = '<meta name="front_page" content="true"/>\n' if p.get('front_page') else ''
-            body = self.links(p.get('html', ''), 'page %s' % p['id'])
+            body = self.body(p, 'page %s' % p['id'])
             doc = ('<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n'
                    '<title>%s</title>\n<meta name="identifier" content="%s"/>\n'
                    '<meta name="editing_roles" content="teachers"/>\n'
@@ -327,7 +397,7 @@ class Cartridge:
             slug = slugify(a['title'])
             html_path = '%s/%s.html' % (g, slug)
             xml_path = '%s/assignment_settings.xml' % g
-            body = self.links(a.get('html', ''), 'assignment %s' % a['id'])
+            body = self.body(a, 'assignment %s' % a['id'])
             self.add(html_path,
                      '<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n'
                      '<title>Assignment: %s</title>\n</head>\n<body>\n%s\n</body>\n</html>\n' % (x(a['title']), body))
@@ -543,7 +613,7 @@ class Cartridge:
         for i, d in enumerate(self.spec.get('discussions', []), 1):
             g = self.G('discussion', d['id'])
             meta_id = self.G('discussionmeta', d['id'])
-            body = self.links(d.get('html', ''), 'discussion %s' % d['id'])
+            body = self.body(d, 'discussion %s' % d['id'])
             topic = (XML_HEAD + '<topic xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imsdt_v1p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" '
                      'xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imsdt_v1p1  http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imsdt_v1p1.xsd">\n'
                      '  <title>%s</title>\n  <text texttype="text/html">%s</text>\n</topic>\n' % (x(d['title']), x(body)))
@@ -584,6 +654,25 @@ class Cartridge:
                     data = fh.read()
             self.add(path, data)
             self.res(g, TYPE_WEB, href=path, files=[path])
+            if f.get('hidden'):
+                self.hidden_files.append((g, f['path'].rsplit('/', 1)[-1], f['path'].rsplit('/', 1)[0] if '/' in f['path'] else ''))
+
+    def files_meta_xml(self):
+        """course_settings/files_meta.xml as Canvas exports write it: hidden folders + hidden files.
+        Hidden = not listed in the Files tab for students, still served to a page that links it."""
+        if not self.hidden_files:
+            return None
+        folders = sorted({fold for _, _, fold in self.hidden_files if fold})
+        fm = [XML_HEAD + '<fileMeta %s>' % CANVAS_NS, '  <folders>']
+        for fold in folders:
+            fm.append('    <folder path="%s">\n      <hidden>true</hidden>\n    </folder>' % x(fold))
+        fm.append('  </folders>\n  <files>')
+        for g, name, _ in self.hidden_files:
+            fm.append('    <file identifier="%s">\n      <hidden>true</hidden>\n      <display_name>%s</display_name>\n      <category>uncategorized</category>\n    </file>' % (g, x(name)))
+        fm.append('  </files>\n</fileMeta>\n')
+        path = 'course_settings/files_meta.xml'
+        self.add(path, '\n'.join(fm))
+        return path
 
     # ---------------------------------------------------------------- modules
     def build_modules(self):
@@ -682,8 +771,21 @@ class Cartridge:
     def build_course_settings(self):
         c = self.course
         cg = self.G('course', self.code)
+        if c.get('files_only'):
+            files = []
+            fm = self.files_meta_xml()
+            if fm:
+                files.append(fm)
+            files.append('course_settings/canvas_export.txt')
+            self.add('course_settings/canvas_export.txt',
+                     'Built by optima-course-kit for %s (%s). Files only (art pack). Version %s.\n' % (c['title'], self.code, c.get('version', 'dev')))
+            self.resources.insert(0, dict(id=cg, type=TYPE_LAR, href='course_settings/canvas_export.txt', files=files, deps=[]))
+            return
         files = ['course_settings/course_settings.xml', 'course_settings/module_meta.xml',
                  'course_settings/assignment_groups.xml', 'course_settings/canvas_export.txt']
+        fm = self.files_meta_xml()
+        if fm:
+            files.insert(3, fm)
         weighted = bool(c.get('weighted')) or any(float(g.get('weight') or 0) > 0 for g in self.groups.values())
         if weighted:
             total = sum(float(g.get('weight') or 0) for g in self.groups.values())
@@ -780,14 +882,20 @@ class Cartridge:
 
     # ------------------------------------------------------------------ build
     def build(self, out_path):
-        self.build_pages()
-        self.build_assignments()
-        self.build_quizzes()
-        self.build_discussions()
+        files_only = bool(self.course.get('files_only'))
+        if not files_only:
+            self.build_pages()
+            self.build_assignments()
+            self.build_quizzes()
+            self.build_discussions()
         self.build_files()
-        self.build_modules()
+        if not files_only:
+            self.build_modules()
         self.build_course_settings()
         self.build_manifest()
+        if self.figures:
+            self.warnings.append('%d figure(s) link to %s/ in course files; teachers must also import the art pack'
+                                 % (len(self.figures), self.art_folder))
         if self.errors:
             raise SpecError('%d spec error(s):\n  ' % len(self.errors) + '\n  '.join(self.errors))
         os.makedirs(os.path.dirname(os.path.abspath(out_path)), exist_ok=True)
@@ -803,6 +911,8 @@ class Cartridge:
             front_page=('wiki_content/%s.html' % self.slugs[front[0]['id']]) if front else None,
             module_ids={m['id']: self.G('module', m['id']) for m in self.spec.get('modules', [])},
             index=self.item_index(),
+            figures=[self.figures[k] for k in sorted(self.figures)],
+            art_pack=dict(folder=self.art_folder, root=self.art.get('root')) if self.figures else None,
             warnings=self.warnings)
         return self.report
 

@@ -10,6 +10,8 @@ PASS / WARN / FAIL with its evidence. Exit 1 on any FAIL.
   catalog     catalog.json and .github/CODEOWNERS are what make_catalog.py would write now
   fixture     courses/_example builds and verifies into a temp folder (proves the toolchain, no real content)
   payload     total served bytes vs the GitHub Pages 1 GB ceiling
+  licensed    no cartridge or bundled file carries a licensed (Artstor / agency) image: figures link by
+              path and the images travel in the login-gated art pack (art_pack.py), never in this public repo
 
 usage: check_repo.py [--no-fixture]
 """
@@ -188,6 +190,50 @@ def check_cartridges(courses):
     return total
 
 
+LICENSED = re.compile(rb'Artstor Collection|about\.jstor\.org/terms|Scala|Art Resource, NY|Bridgeman Images|Magnum Photos', re.I)
+
+
+def check_licensed(courses):
+    """Licensed images never sit on the public store. Two independent looks: (1) every
+    web_resources entry in every cartridge, and every source under courses/<code>/files/,
+    is scanned for the licence strings Artstor and the agencies embed in image metadata;
+    (2) no cartridge carries an entry under its art-pack folder at all, whatever the bytes
+    say. Figures declared in a spec are fine: cc.py writes only a path link for them."""
+    problems, scanned, figures = [], 0, 0
+    if os.path.isdir(L.CARTRIDGES):
+        for fn in sorted(os.listdir(L.CARTRIDGES)):
+            if not fn.endswith('.imscc') or fn.startswith('_'):
+                continue
+            kid = fn[:-6]
+            side = L.read_json(L.sidecar_path(kid)) if os.path.exists(L.sidecar_path(kid)) else {}
+            folder = ((side.get('art_pack') or {}).get('folder') or 'art').strip('/') + '/'
+            figures += (side.get('art_pack') or {}).get('figures') or 0
+            try:
+                with zipfile.ZipFile(L.cartridge_path(kid)) as z:
+                    for n in z.namelist():
+                        if not n.startswith('web_resources/'):
+                            continue
+                        scanned += 1
+                        rel = n[len('web_resources/'):]
+                        if rel.startswith(folder):
+                            problems.append('%s carries %s (the art-pack folder; images ship only in the art pack)' % (kid, n))
+                        elif LICENSED.search(z.read(n)[:400000]):
+                            problems.append('%s: %s carries a licence statement (Artstor/agency image in a public cartridge)' % (kid, n))
+            except zipfile.BadZipFile:
+                pass
+    for d, c in courses:
+        fdir = os.path.join(d, 'files')
+        if os.path.isdir(fdir):
+            for dp, _, fns in os.walk(fdir):
+                for fn in fns:
+                    scanned += 1
+                    with open(os.path.join(dp, fn), 'rb') as fh:
+                        if LICENSED.search(fh.read(400000)):
+                            problems.append('%s carries a licence statement; remove it, declare it as a figure' % os.path.relpath(os.path.join(dp, fn), L.ROOT))
+    rule('licensed', not problems, '%d bundled file(s) scanned, %d figure(s) link by path, no licensed image in the store%s'
+         % (scanned, figures, ('; ' + '; '.join(problems[:8]) + (' ...' if len(problems) > 8 else '')) if problems else ''))
+
+
 def check_catalog():
     r = subprocess.run([PY, os.path.join(L.HERE, 'make_catalog.py'), '--check'], capture_output=True, text=True, encoding='utf-8', cwd=L.ROOT)
     rule('catalog', r.returncode == 0, (r.stdout + r.stderr).strip().replace('\n', ' | '))
@@ -220,6 +266,7 @@ def main():
     courses = check_registry()
     check_specs(courses)
     total = check_cartridges(courses)
+    check_licensed(courses)
     check_catalog()
     if '--no-fixture' not in sys.argv:
         check_fixture()
