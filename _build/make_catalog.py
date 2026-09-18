@@ -48,13 +48,28 @@ def build():
                'owner': c.get('owner', ''), 'kits': []}
         if c.get('canvas_title'):
             row['canvas_title'] = c['canvas_title']
+        # Optional: `level` (Honors, Standard, ...) and `family` (the shared title two
+        # levels have in common) group sibling courses in the widget's finder. When
+        # absent the widget reads the level out of the title.
+        for f in ('level', 'family'):
+            if c.get(f):
+                row[f] = str(c[f])
         for kit in c.get('kits', []):
             kid = kit.get('id', '')
             if not kid.startswith(code + '-') or not L.KIT_ID.match(kid):
-                problems.append('courses/%s: kit id %r must be %s-<s1|s2|q1..q4|t1..t3|full>' % (folder, kid, code))
+                problems.append('courses/%s: kit id %r must be %s-<s1|s2|q1..q4|t1..t3|full>[-live|-od]' % (folder, kid, code))
             if not kit.get('label'):
                 problems.append('courses/%s: kit %s has no label' % (folder, kid))
             entry = {'id': kid, 'label': kit.get('label')}
+            # Optional section type: `mode` in course.json, or the -live / -od id suffix.
+            m = L.KIT_ID.match(kid)
+            mode = str(kit.get('mode') or (m.group('mode') if m else '') or '').lower()
+            if mode and mode not in L.MODES:
+                problems.append('courses/%s: kit %s mode %r must be live or od' % (folder, kid, mode))
+            if mode and m and m.group('mode') and m.group('mode') != mode:
+                problems.append('courses/%s: kit %s id says %s but mode says %s' % (folder, kid, m.group('mode'), mode))
+            if mode:
+                entry['mode'] = mode
             if kit.get('canvas_course_id') is not None:
                 entry['canvas_course_id'] = kit['canvas_course_id']
             s = sidecars.get(kid)

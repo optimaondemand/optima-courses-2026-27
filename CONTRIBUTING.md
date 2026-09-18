@@ -30,6 +30,18 @@ teachers it is coming. Kit ids are `<code>-s1`, `<code>-s2`, `<code>-q1`..`q4`,
 `<code>-t1`..`t3` or `<code>-full`. Titles for modules and items come from the
 course's module maps (or the deployed Canvas course if one exists), never from taste.
 
+**Honors and standard** are separate CPALMS codes, so they are separate course
+folders. The widget lists them side by side and links one to the other from the
+course card; it reads the level out of the title ("English 1 Honors"). If a title
+does not say, add `"level": "Honors"` (or `"Standard"`) and, when two titles differ
+in more than the level word, the same `"family": "English 1"` to both course.json files.
+
+**Live and On-Demand.** One kit normally serves both section types. When a course
+really ships two versions, give each kit its own id with a suffix, `<code>-s1-live`
+and `<code>-s1-od` (or set `"mode": "live"` / `"od"` on the kit entry), and the
+widget shows a Live / On-Demand switch in its kit step. Kits without a mode stay
+visible under both.
+
 Put your GitHub username in `owner`. `make_catalog.py` writes it into
 `.github/CODEOWNERS`, so pull requests touching your folder request your review.
 
