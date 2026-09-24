@@ -21,7 +21,10 @@ Spec (a dict, usually loaded from JSON):
                "group", "published", "questions": [QUESTION]}],
   "discussions": [{"id", "title", "html", "graded", "points", "group",
                    "published", "require_initial_post"}],
-  "files": [{"path": "folder/name.ext", "src": "local file path", "hidden": bool}],
+  "files": [{"path": "folder/name.ext", "src": "local file path", "hidden": bool, "hidden_folder": bool}],
+      hidden_folder hides the file's FOLDER from the Files tab and leaves the file available, which is
+      what a path link ($CANVAS_COURSE_REFERENCE$/file_contents/...) needs: Canvas resolves such a link
+      only to a file whose state is available or public. hidden (file-level) breaks every path link to it.
   "modules": [{"id", "title", "published", "items": [ITEM]}],
   "syllabus_html": str,
   "art_pack": {"folder": "art", "root": "folder (under OneDrive) the figure images are read from"}
@@ -167,7 +170,8 @@ class Cartridge:
         self.groups = {g['id']: g for g in s.get('assignment_groups', [])}
         self.rubrics = {r['id']: r for r in s.get('rubrics', [])}
         self.files = {f['path']: f for f in s.get('files', [])}
-        self.hidden_files = []  # (identifier, display_name) for files_meta.xml
+        self.hidden_files = []  # (identifier, display_name, folder) for files_meta.xml
+        self.hidden_folders = set()  # folder paths hidden from the Files tab; their files stay available
         self.art = dict(s.get('art_pack') or {})
         self.art_folder = re.sub(r'[^A-Za-z0-9_-]+', '-', str(self.art.get('folder') or 'art')).strip('-') or 'art'
         self.figures = {}       # file name -> figure dict (+ path); first occurrence wins
@@ -656,13 +660,18 @@ class Cartridge:
             self.res(g, TYPE_WEB, href=path, files=[path])
             if f.get('hidden'):
                 self.hidden_files.append((g, f['path'].rsplit('/', 1)[-1], f['path'].rsplit('/', 1)[0] if '/' in f['path'] else ''))
+            if f.get('hidden_folder') and '/' in f['path']:
+                self.hidden_folders.add(f['path'].rsplit('/', 1)[0])
 
     def files_meta_xml(self):
         """course_settings/files_meta.xml as Canvas exports write it: hidden folders + hidden files.
-        Hidden = not listed in the Files tab for students, still served to a page that links it."""
-        if not self.hidden_files:
+        A hidden FOLDER is not listed in the Files tab; its files still resolve by path or by id.
+        A hidden FILE (file_state=hidden) resolves by id only: Folder#find_attachment_with_components
+        searches visible_file_attachments (available/public), so a path link to it 404s. Figures link
+        by path, so art packs use hidden_folder, never hidden."""
+        if not self.hidden_files and not self.hidden_folders:
             return None
-        folders = sorted({fold for _, _, fold in self.hidden_files if fold})
+        folders = sorted(self.hidden_folders | {fold for _, _, fold in self.hidden_files if fold})
         fm = [XML_HEAD + '<fileMeta %s>' % CANVAS_NS, '  <folders>']
         for fold in folders:
             fm.append('    <folder path="%s">\n      <hidden>true</hidden>\n    </folder>' % x(fold))

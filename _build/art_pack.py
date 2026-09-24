@@ -5,8 +5,9 @@
 The kit's spec declares figures on pages, assignments and discussions (see cc.py). The
 public cartridge renders each figure as a Canvas-native <img> that links to
 course files/<folder>/<file> BY PATH and never contains the image. This script builds
-the other half: a files-only .imscc holding exactly those images, hidden in the Files
-tab, that a teacher imports into the same course from a login-gated store (SharePoint).
+the other half: a files-only .imscc holding exactly those images in a Files folder that is
+hidden from the Files tab (the files themselves stay available: Canvas resolves a path link
+only to an available file, so a hidden file would break every figure), that a teacher imports into the same course from a login-gated store (SharePoint).
 
 Why two cartridges: the images are Artstor (Images on JSTOR) content. Paid access is
 not a right to republish, and the kit store is a public GitHub Pages site. Canvas
@@ -138,7 +139,7 @@ def main():
             missing.append('%s: %s' % (name, e)); continue
         if cls != 'artstor-collection':
             warns.append('%s: rights statement found = %s (%s)' % (name, cls, (stmt or 'none')[:90]))
-        files.append({'path': f['path'], 'bytes': data, 'hidden': True})
+        files.append({'path': f['path'], 'bytes': data, 'hidden_folder': True})
         manifest.append({'file': name, 'path': f['path'], 'src': os.path.relpath(p, root) if root and p.startswith(root) else p,
                          'source_bytes': len(raw), 'bytes': len(data), 'px': list(size),
                          'rights_class': cls, 'rights_statement': stmt, 'title': f.get('title'),
@@ -165,7 +166,9 @@ def main():
         for fl in files:
             assert z.read('web_resources/' + fl['path']) == fl['bytes']
         fm = z.read('course_settings/files_meta.xml').decode('utf-8')
-        assert fm.count('<hidden>true</hidden>') == len(files) + len({f['path'].rsplit('/', 1)[0] for f in files})
+        folders = {f['path'].rsplit('/', 1)[0] for f in files}
+        assert fm.count('<folder path=') == len(folders) and fm.count('<hidden>true</hidden>') == len(folders), fm[:400]
+        assert '<file identifier=' not in fm, 'a hidden FILE breaks the path link the kit page uses'
 
     man = {'kit': kit, 'built': datetime.datetime.now().isoformat(timespec='seconds'), 'cartridge': os.path.basename(out),
            'bytes': rep['bytes'], 'folder': cart.art_folder, 'root': root, 'figures': len(files),

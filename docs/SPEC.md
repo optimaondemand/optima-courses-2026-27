@@ -112,7 +112,9 @@ any cartridge or bundled file that carries a licence statement or an entry under
 folder.
 
 **art_pack** `{folder, root, note}` (top level). `folder` (default `art`) is the Canvas
-Files folder the figures link to and the art pack fills; it is hidden from the Files tab.
+Files folder the figures link to and the art pack fills; the folder is hidden from the Files tab
+but the files inside are not. Canvas resolves a path link (`file_contents/course files/...`)
+only to a file whose state is available, so a file marked hidden shows as a broken image.
 `root` is the folder the figure `src` paths are read from, relative to the builder's
 OneDrive. Neither the sources nor the pack live in this repo.
 
