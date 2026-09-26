@@ -76,7 +76,7 @@ to `points`.
 
 **quizzes** `[{id, title, description, quiz_type, points, allowed_attempts, shuffle_answers,
 show_correct_answers, group, published, due_at, unlock_at, lock_at, week, kind, questions}]`.
-`quiz_type` is `assignment` (graded), `practice_quiz`, `graded_survey` or `survey`
+`quiz_type` is `assignment` (graded), `practice_quiz`, `graded_survey` or `survey` `grading_type` (default `points`; `pass_fail` = complete/incomplete) applies to the assignment Canvas creates for an `assignment` or `graded_survey` quiz.
 (ungraded; the intro/outro pattern). `allowed_attempts: -1` means unlimited. `points`
 may be omitted; the build sums the questions.
 

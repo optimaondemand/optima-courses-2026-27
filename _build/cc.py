@@ -16,7 +16,7 @@ Spec (a dict, usually loaded from JSON):
   "assignments": [{"id", "title", "html", "points", "grading_type",
                    "submission_types", "group", "rubric", "published",
                    "allowed_extensions"}],
-  "quizzes": [{"id", "title", "description", "quiz_type", "points",
+  "quizzes": [{"id", "title", "description", "quiz_type", "points", "grading_type",
                "allowed_attempts", "shuffle_answers", "show_correct_answers",
                "group", "published", "questions": [QUESTION]}],
   "discussions": [{"id", "title", "html", "graded", "points", "group",
@@ -582,7 +582,7 @@ class Cartridge:
             assignment_block = ''
             if qtype in ('assignment', 'graded_survey'):
                 a = dict(id=q['id'], title=q['title'], group=q.get('group'), points=total,
-                         grading_type='points', submission_types='online_quiz', published=q.get('published', True),
+                         grading_type=q.get('grading_type', 'points'), submission_types='online_quiz', published=q.get('published', True),
                          due_at=q.get('due_at'), lock_at=q.get('lock_at'), unlock_at=q.get('unlock_at'))
                 extra = '  <quiz_identifierref>%s</quiz_identifierref>\n' % g
                 assignment_block = ('  <assignment identifier="%s">\n%s  </assignment>\n'
