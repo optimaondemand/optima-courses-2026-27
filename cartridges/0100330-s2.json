@@ -4,18 +4,18 @@
  "code": "0100330",
  "title": "Art History and Criticism 1 Honors Sem 2",
  "file": "cartridges/0100330-s2.imscc",
- "bytes": 527105,
- "version": "2026.09.26",
- "built": "2026-09-26T14:51:21",
+ "bytes": 543044,
+ "version": "2026.09.28",
+ "built": "2026-09-28T12:11:42",
  "front_page": "wiki_content/course-home.html",
- "items": 64,
+ "items": 68,
  "modules": [
   {
    "id": "m_u7",
    "title": "Module 7: Renaissance Art",
    "gid": "gd9887f32e77de0c5a83da229de51f53c",
    "published": true,
-   "items": 11,
+   "items": 12,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -23,7 +23,7 @@
    "title": "Module 8: Baroque & Rococo",
    "gid": "g8a51bafdfe189ee60f27e2fe518dda7b",
    "published": true,
-   "items": 11,
+   "items": 12,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -31,7 +31,7 @@
    "title": "Module 9: Neoclassicism, Romanticism & Realism",
    "gid": "g904330bf1623b2060572f1db7f792c52",
    "published": true,
-   "items": 11,
+   "items": 12,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -39,7 +39,7 @@
    "title": "Module 10: Impressionism & Post-Impressionism",
    "gid": "g582d15ebe2e7923907ca24bb2b9982ad",
    "published": true,
-   "items": 10,
+   "items": 11,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -68,13 +68,13 @@
   }
  ],
  "counts": {
-  "pages": 28,
+  "pages": 32,
   "assignments": 11,
   "quizzes": 15,
   "discussions": 5,
   "files": 2,
   "modules": 7,
-  "items": 64
+  "items": 68
  },
  "weights": [
   {
@@ -697,25 +697,25 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 82,
+   "resources": 86,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 32,
-    "webcontent": 30,
+    "webcontent": 34,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 15,
     "imsdt_xmlv1p1": 5
    },
-   "organization_items": 64,
+   "organization_items": 68,
    "modules": 7,
-   "module_items": 64,
+   "module_items": 68,
    "module_item_types": {
-    "WikiPage": 31,
+    "WikiPage": 35,
     "Quizzes::Quiz": 15,
     "DiscussionTopic": 5,
     "Assignment": 11,
     "Attachment": 2
    },
    "default_view": "wiki",
-   "pages": 28,
+   "pages": 32,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 3,
    "group_refs": 46,
@@ -727,6 +727,49 @@
   }
  },
  "status": "ready",
- "spec_sha": "4bddc07fd3fda18dd60d092d6228607907d75c81c6d01e6f703c01a2a55b1e77",
- "art_pack": null
+ "spec_sha": "83144db51ceacfe86c4f5d8e0c48ff58aaf39d9658e47dfedac5733f1d16f816",
+ "art_pack": {
+  "folder": "art",
+  "root": "Claude's Workshop/Art Builds_Summer 2026",
+  "figures": 36,
+  "files": [
+   "art/bernini-apollo-and-daphne.jpg",
+   "art/bernini-david-detail.jpg",
+   "art/bernini-david.jpg",
+   "art/caravaggio-calling-of-st-matthew.jpg",
+   "art/caravaggio-supper-at-emmaus.jpg",
+   "art/caravaggio-taking-of-christ.jpg",
+   "art/cassatt-the-tea.jpg",
+   "art/cezanne-banks-of-the-marne.jpg",
+   "art/david-oath-of-the-horatii.jpg",
+   "art/gericault-raft-of-the-medusa.jpg",
+   "art/klenze-landscape-castle-of-massa.jpg",
+   "art/last-supper-cenacolo.jpg",
+   "art/leonardo-circle-madonna-adoring-child.jpg",
+   "art/leonardo-self-portrait.jpg",
+   "art/leonardo-study-head-of-leda.jpg",
+   "art/michelangelo-david-head.jpg",
+   "art/mona-lisa.jpg",
+   "art/monet-impression-sunrise.jpg",
+   "art/perspective-diagram-loggia-1583.jpg",
+   "art/perspective-diagram-three-archways-1583.jpg",
+   "art/perspective-projection-doric-capital-1693.jpg",
+   "art/raphael-ansidei-madonna.jpg",
+   "art/raphael-pala-colonna.jpg",
+   "art/raphael-school-of-athens.jpg",
+   "art/raphael-study-saint-peter-hand.jpg",
+   "art/renaissance-portal-romulus-and-remus.jpg",
+   "art/renoir-view-at-guernsey.jpg",
+   "art/seurat-study-bathers-at-asnieres.jpg",
+   "art/sistine-chapel-ceiling.jpg",
+   "art/sistine-creation-of-adam-hands.jpg",
+   "art/sistine-creation-of-adam.jpg",
+   "art/st-bernardino-of-siena-engraving.jpg",
+   "art/versailles-bedchamber-of-louis-xiv.jpg",
+   "art/versailles-entrance-court.jpg",
+   "art/versailles-garden-facade.jpg",
+   "art/wilton-house-north-front.jpg"
+  ],
+  "cartridge": "0100330-s2-art-pack.imscc"
+ }
 }

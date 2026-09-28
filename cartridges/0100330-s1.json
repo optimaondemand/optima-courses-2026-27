@@ -4,18 +4,18 @@
  "code": "0100330",
  "title": "Art History and Criticism 1 Honors Sem 1",
  "file": "cartridges/0100330-s1.imscc",
- "bytes": 564492,
- "version": "2026.09.18",
- "built": "2026-09-18T09:17:04",
+ "bytes": 582607,
+ "version": "2026.09.28",
+ "built": "2026-09-28T12:11:36",
  "front_page": "wiki_content/course-home.html",
- "items": 76,
+ "items": 82,
  "modules": [
   {
    "id": "m_u1",
    "title": "Unit 1: Introduction to Art History & Criticism",
    "gid": "gd35c898d3a6af2da6d1e541f6a6878c4",
    "published": true,
-   "items": 10,
+   "items": 11,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -23,7 +23,7 @@
    "title": "Unit 2: Prehistoric Art",
    "gid": "ga7fc1a192da7ad4f90e1ca1b1b256e71",
    "published": true,
-   "items": 11,
+   "items": 12,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -31,7 +31,7 @@
    "title": "Unit 3: Ancient Egypt & Mesopotamia",
    "gid": "g6a9d72e0468347174f18da9d4a03d3b3",
    "published": true,
-   "items": 11,
+   "items": 12,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -39,7 +39,7 @@
    "title": "Unit 4: Ancient Greece",
    "gid": "g9c8d0f56a2bce860d81c286adea2473c",
    "published": true,
-   "items": 11,
+   "items": 12,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -47,7 +47,7 @@
    "title": "Unit 5: Ancient Rome",
    "gid": "gb9536173f21cb231fa07497ba9362a34",
    "published": true,
-   "items": 12,
+   "items": 13,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -55,7 +55,7 @@
    "title": "Unit 6: Byzantine, Islamic & Medieval Art",
    "gid": "g11082e6e1ff9c9207b2858e09c87f645",
    "published": true,
-   "items": 11,
+   "items": 12,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -76,13 +76,13 @@
   }
  ],
  "counts": {
-  "pages": 31,
+  "pages": 37,
   "assignments": 15,
   "quizzes": 18,
   "discussions": 6,
   "files": 2,
   "modules": 8,
-  "items": 76
+  "items": 82
  },
  "weights": [
   {
@@ -852,25 +852,25 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 97,
+   "resources": 103,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 40,
-    "webcontent": 33,
+    "webcontent": 39,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 18,
     "imsdt_xmlv1p1": 6
    },
-   "organization_items": 76,
+   "organization_items": 82,
    "modules": 8,
-   "module_items": 76,
+   "module_items": 82,
    "module_item_types": {
-    "WikiPage": 35,
+    "WikiPage": 41,
     "Quizzes::Quiz": 18,
     "Assignment": 15,
     "DiscussionTopic": 6,
     "Attachment": 2
    },
    "default_view": "wiki",
-   "pages": 31,
+   "pages": 37,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 3,
    "group_refs": 33,
@@ -882,33 +882,77 @@
   }
  },
  "status": "ready",
- "spec_sha": "f0841e4361873e1cac65e92d20c86fbf0385afbd93f9f3be7040a116c92cbc2b",
+ "spec_sha": "d789e22f8bdcd5759e483e36c0f02840007a9af428275a416ec35d624934d3e0",
  "art_pack": {
   "folder": "art",
   "root": "Claude's Workshop/Art Builds_Summer 2026",
-  "figures": 22,
+  "figures": 66,
   "files": [
+   "art/amiens-cathedral-west-facade.jpg",
+   "art/aqar-quf-ziggurat-general-view.jpg",
    "art/aqar-quf-ziggurat.jpg",
    "art/bible-late-13th-century.jpg",
+   "art/book-of-hours-shepherds.jpg",
    "art/book-of-hours.jpg",
+   "art/canterbury-cathedral-becket-window.jpg",
+   "art/canterbury-cathedral-exterior.jpg",
+   "art/canterbury-cathedral-warlow-etching.jpg",
+   "art/canterbury-cathedral-west-facade.jpg",
+   "art/caravaggio-calling-of-st-matthew.jpg",
+   "art/chogha-zanbil-ziggurat-front.jpg",
    "art/chogha-zanbil-ziggurat.jpg",
+   "art/colosseum-exterior.jpg",
+   "art/david-oath-of-the-horatii.jpg",
+   "art/etruscan-tomb-of-the-shields.jpg",
+   "art/forum-of-trajan-column.jpg",
+   "art/four-gospels-gavril.jpg",
    "art/franciscan-missal.jpg",
+   "art/gothic-cathedral-flying-buttresses.jpg",
+   "art/gothic-cathedral-portal.jpg",
    "art/great-herculaneum-woman.jpg",
+   "art/hadrian-statue-athenian-agora.jpg",
+   "art/hagia-sophia-apse-virgin-and-child.jpg",
+   "art/hagia-sophia-exterior.jpg",
+   "art/hagia-sophia-vestibule-mosaic.jpg",
+   "art/hellenistic-bust-of-a-man.jpg",
+   "art/hosios-loukas-baptism.jpg",
    "art/lascaux-chinese-horse.jpg",
    "art/lascaux-cows-ceiling.jpg",
+   "art/lascaux-nave-left-wall.jpg",
+   "art/lascaux-plan.jpg",
+   "art/le-puy-cathedral-capitals.jpg",
+   "art/mastaba-tomb-perneb-chapel.jpg",
+   "art/mastaba-tomb-perneb-relief.jpg",
+   "art/monet-impression-sunrise.jpg",
+   "art/narmer-palette-both-faces.jpg",
    "art/narmer-palette-king-inspecting.jpg",
    "art/narmer-palette-obverse.jpg",
    "art/nike-of-samothrace.jpg",
+   "art/notre-dame-paris-1865-photograph.jpg",
+   "art/notre-dame-paris-nave-section.jpg",
+   "art/notre-dame-paris-west-facade.jpg",
+   "art/pompeii-house-columns.jpg",
+   "art/pont-cysyllte-aqueduct-engraving.jpg",
    "art/pyramids-giza-frith-1857.jpg",
+   "art/raphael-school-of-athens.jpg",
    "art/rome-floor-mosaic-via-casilina.jpg",
+   "art/san-ciriaco-interior.jpg",
    "art/san-vitale-justinian.jpg",
    "art/san-vitale-theodora.jpg",
+   "art/santa-maria-in-trastevere-cavallini.jpg",
    "art/santa-maria-maggiore-nave-mosaic.jpg",
+   "art/st-john-lateran-apse-mosaic.jpg",
+   "art/st-marks-venice-doges-palace-1876.jpg",
    "art/st-marks-venice-naya.jpg",
+   "art/stonehenge-1901-leaning-stone.jpg",
    "art/stonehenge-caponigro-1972.jpg",
    "art/stonehenge-general-view.jpg",
+   "art/stonehenge-grand-conventional-festival.jpg",
    "art/stonehenge-reconstruction.jpg",
+   "art/temple-of-hercules-victor.jpg",
+   "art/temple-of-portunus.jpg",
    "art/uruk-ziggurat.jpg",
+   "art/venus-figure-sandstone.jpg",
    "art/venus-of-willendorf.jpg"
   ],
   "cartridge": "0100330-s1-art-pack.imscc"
