@@ -3494,18 +3494,22 @@
     },
     {
      "type": "short_answer",
-     "text": "<p>La Provence se trouve ______ sud de la France. &nbsp; (Fill-in: dans le)</p><p style=\"font-size:.9em;border-top:1px solid #ccc;padding-top:6px\"><em>Use these accents as necessary.</em><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&eacute; &agrave; &egrave; &ccedil; &ecirc; &ocirc; &icirc; &oelig; &ugrave; &euml; &iuml; &acirc; &uuml; &ucirc;</span><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&Eacute; &Agrave; &Ccedil; &Egrave; &Ecirc; &Icirc; &Ocirc; &Ugrave;</span></p>",
+     "text": "<p>La Provence se trouve ______ sud de la France.</p><p style=\"font-size:.9em;border-top:1px solid #ccc;padding-top:6px\"><em>Use these accents as necessary.</em><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&eacute; &agrave; &egrave; &ccedil; &ecirc; &ocirc; &icirc; &oelig; &ugrave; &euml; &iuml; &acirc; &uuml; &ucirc;</span><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&Eacute; &Agrave; &Ccedil; &Egrave; &Ecirc; &Icirc; &Ocirc; &Ugrave;</span></p>",
      "points": 1.0,
      "answers": [
       {
        "text": "dans le",
+       "correct": true
+      },
+      {
+       "text": "au",
        "correct": true
       }
      ]
     },
     {
      "type": "short_answer",
-     "text": "<p>La Bretagne est ______ ouest de la France. &nbsp; (Fill-in: &agrave; l')</p><p style=\"font-size:.9em;border-top:1px solid #ccc;padding-top:6px\"><em>Use these accents as necessary.</em><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&eacute; &agrave; &egrave; &ccedil; &ecirc; &ocirc; &icirc; &oelig; &ugrave; &euml; &iuml; &acirc; &uuml; &ucirc;</span><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&Eacute; &Agrave; &Ccedil; &Egrave; &Ecirc; &Icirc; &Ocirc; &Ugrave;</span></p>",
+     "text": "<p>La Bretagne est ______ ouest de la France.</p><p style=\"font-size:.9em;border-top:1px solid #ccc;padding-top:6px\"><em>Use these accents as necessary.</em><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&eacute; &agrave; &egrave; &ccedil; &ecirc; &ocirc; &icirc; &oelig; &ugrave; &euml; &iuml; &acirc; &uuml; &ucirc;</span><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&Eacute; &Agrave; &Ccedil; &Egrave; &Ecirc; &Icirc; &Ocirc; &Ugrave;</span></p>",
      "points": 1.0,
      "answers": [
       {
@@ -3514,6 +3518,10 @@
       },
       {
        "text": "a l'",
+       "correct": true
+      },
+      {
+       "text": "dans l'",
        "correct": true
       }
      ]
@@ -4086,11 +4094,15 @@
     },
     {
      "type": "short_answer",
-     "text": "<p>Complete: Nice se trouve ______ sud de la France. &nbsp; (Fill-in)</p><p style=\"font-size:.9em;border-top:1px solid #ccc;padding-top:6px\"><em>Use these accents as necessary.</em><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&eacute; &agrave; &egrave; &ccedil; &ecirc; &ocirc; &icirc; &oelig; &ugrave; &euml; &iuml; &acirc; &uuml; &ucirc;</span><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&Eacute; &Agrave; &Ccedil; &Egrave; &Ecirc; &Icirc; &Ocirc; &Ugrave;</span></p>",
+     "text": "<p>Complete: Nice se trouve ______ sud de la France.</p><p style=\"font-size:.9em;border-top:1px solid #ccc;padding-top:6px\"><em>Use these accents as necessary.</em><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&eacute; &agrave; &egrave; &ccedil; &ecirc; &ocirc; &icirc; &oelig; &ugrave; &euml; &iuml; &acirc; &uuml; &ucirc;</span><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&Eacute; &Agrave; &Ccedil; &Egrave; &Ecirc; &Icirc; &Ocirc; &Ugrave;</span></p>",
      "points": 1.0,
      "answers": [
       {
        "text": "dans le",
+       "correct": true
+      },
+      {
+       "text": "au",
        "correct": true
       }
      ]
@@ -7644,15 +7656,11 @@
        "correct": false
       },
       {
-       "text": "10h",
-       "correct": false
-      },
-      {
        "text": "17h",
        "correct": false
       },
       {
-       "text": "10h (dix heures)",
+       "text": "10h",
        "correct": true
       }
      ]
@@ -7843,10 +7851,6 @@
       },
       {
        "text": "feminine",
-       "correct": false
-      },
-      {
-       "text": "feminine (partie)",
        "correct": true
       }
      ]
@@ -7862,10 +7866,6 @@
       },
       {
        "text": "plural",
-       "correct": false
-      },
-      {
-       "text": "plural (nous sommes)",
        "correct": true
       }
      ]
@@ -8964,15 +8964,11 @@
      "points": 1.0,
      "answers": [
       {
-       "text": "ai visité",
-       "correct": false
-      },
-      {
        "text": "visitais",
        "correct": false
       },
       {
-       "text": "ai visité (passé composé)",
+       "text": "ai visité",
        "correct": true
       }
      ]
@@ -8988,10 +8984,6 @@
       },
       {
        "text": "était",
-       "correct": false
-      },
-      {
-       "text": "était (imparfait)",
        "correct": true
       }
      ]
@@ -9007,10 +8999,6 @@
       },
       {
        "text": "regardais",
-       "correct": false
-      },
-      {
-       "text": "regardais (imparfait)",
        "correct": true
       }
      ]
@@ -9026,10 +9014,6 @@
       },
       {
        "text": "allions",
-       "correct": false
-      },
-      {
-       "text": "allions (imparfait)",
        "correct": true
       }
      ]
@@ -9045,10 +9029,6 @@
       },
       {
        "text": "a commencé",
-       "correct": false
-      },
-      {
-       "text": "a commencé (passé composé)",
        "correct": true
       }
      ]
@@ -9064,10 +9044,6 @@
       },
       {
        "text": "faisait",
-       "correct": false
-      },
-      {
-       "text": "faisait (imparfait)",
        "correct": true
       }
      ]
@@ -12362,7 +12338,7 @@
     },
     {
      "type": "multiple_choice",
-     "text": "<p>Complete: Ce concert est ______ intéressant ______ l'autre (less…than).   moins / que</p>",
+     "text": "<p>Complete: Ce concert est ______ intéressant ______ l'autre (less…than).</p>",
      "points": 1.0,
      "answers": [
       {
