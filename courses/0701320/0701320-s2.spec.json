@@ -13297,7 +13297,7 @@
      "points": 1.0,
      "answers": [
       {
-       "text": "ai commenc&eacute;",
+       "text": "ai commencé",
        "correct": true
       },
       {
@@ -13312,7 +13312,7 @@
      "points": 1.0,
      "answers": [
       {
-       "text": "&eacute;tais",
+       "text": "étais",
        "correct": true
       },
       {
@@ -13349,7 +13349,7 @@
      "points": 1.0,
      "answers": [
       {
-       "text": "ai visit&eacute;",
+       "text": "ai visité",
        "correct": true
       },
       {
@@ -13364,7 +13364,7 @@
      "points": 1.0,
      "answers": [
       {
-       "text": "ai d&eacute;couvert",
+       "text": "ai découvert",
        "correct": true
       },
       {
@@ -13386,7 +13386,7 @@
    "questions": [
     {
      "type": "multiple_choice",
-     "text": "<p>Which tenses do you hear?</p>",
+     "text": "<p><audio controls src=\"https://optimaondemand.github.io/french1-lessons/audio/grammar/s2m9-synth-passe.mp3\"></audio></p><p>Which tenses do you hear?</p>",
      "points": 1.0,
      "answers": [
       {
@@ -13405,13 +13405,9 @@
     },
     {
      "type": "multiple_choice",
-     "text": "<p>When did the speaker start French?</p>",
+     "text": "<p><audio controls src=\"https://optimaondemand.github.io/french1-lessons/audio/grammar/s2m9-synth-passe.mp3\"></audio></p><p>When did the speaker start French?</p>",
      "points": 1.0,
      "answers": [
-      {
-       "text": "last year",
-       "correct": false
-      },
       {
        "text": "this morning",
        "correct": false
@@ -13421,20 +13417,16 @@
        "correct": false
       },
       {
-       "text": "last year (l'année dernière)",
+       "text": "last year",
        "correct": true
       }
      ]
     },
     {
      "type": "multiple_choice",
-     "text": "<p>How did the speaker feel at first?</p>",
+     "text": "<p><audio controls src=\"https://optimaondemand.github.io/french1-lessons/audio/grammar/s2m9-synth-passe.mp3\"></audio></p><p>How did the speaker feel at first?</p>",
      "points": 1.0,
      "answers": [
-      {
-       "text": "nervous",
-       "correct": false
-      },
       {
        "text": "bored",
        "correct": false
@@ -13444,14 +13436,14 @@
        "correct": false
       },
       {
-       "text": "nervous (nerveux)",
+       "text": "nervous",
        "correct": true
       }
      ]
     },
     {
      "type": "short_answer",
-     "text": "<p>Type exactly what you hear (French, with accents).</p><p style=\"font-size:.9em;border-top:1px solid #ccc;padding-top:6px\"><em>Use these accents as necessary.</em><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&eacute; &agrave; &egrave; &ccedil; &ecirc; &ocirc; &icirc; &oelig; &ugrave; &euml; &iuml; &acirc; &uuml; &ucirc;</span><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&Eacute; &Agrave; &Ccedil; &Egrave; &Ecirc; &Icirc; &Ocirc; &Ugrave;</span></p>",
+     "text": "<p><audio controls src=\"https://optimaondemand.github.io/french1-lessons/audio/grammar/s2m9-synth-passe.mp3\"></audio></p><p>Type exactly what you hear (French, with accents).</p><p style=\"font-size:.9em;border-top:1px solid #ccc;padding-top:6px\"><em>Use these accents as necessary.</em><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&eacute; &agrave; &egrave; &ccedil; &ecirc; &ocirc; &icirc; &oelig; &ugrave; &euml; &iuml; &acirc; &uuml; &ucirc;</span><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&Eacute; &Agrave; &Ccedil; &Egrave; &Ecirc; &Icirc; &Ocirc; &Ugrave;</span></p>",
      "points": 1.0,
      "answers": [
       {
@@ -13459,22 +13451,14 @@
        "correct": true
       },
       {
-       "text": "L'annee derniere",
-       "correct": true
-      },
-      {
-       "text": "j'ai commence le francais et j'etais nerveux.",
-       "correct": true
-      },
-      {
-       "text": "l'annee derniere, j'ai commence le francais et j'etais nerveux.",
+       "text": "L'annee derniere, j'ai commence le francais et j'etais nerveux.",
        "correct": true
       }
      ]
     },
     {
      "type": "multiple_choice",
-     "text": "<p>Combien a-t-elle appris cette année?</p>",
+     "text": "<p><audio controls src=\"https://optimaondemand.github.io/french1-lessons/audio/passage/s2m9-identite-02.mp3\"></audio></p><p>Combien a-t-elle appris cette année?</p>",
      "points": 1.0,
      "answers": [
       {
@@ -13493,7 +13477,7 @@
     },
     {
      "type": "multiple_choice",
-     "text": "<p>Au début, elle ______ très peu. (which imparfait verb do you hear?)</p>",
+     "text": "<p><audio controls src=\"https://optimaondemand.github.io/french1-lessons/audio/passage/s2m9-identite-02.mp3\"></audio></p><p>Au début, je ______ très peu. (which imparfait verb do you hear?)</p>",
      "points": 1.0,
      "answers": [
       {
@@ -13512,7 +13496,7 @@
     },
     {
      "type": "multiple_choice",
-     "text": "<p>Qu'a-t-elle visité?</p>",
+     "text": "<p><audio controls src=\"https://optimaondemand.github.io/french1-lessons/audio/passage/s2m9-identite-02.mp3\"></audio></p><p>Qu'a-t-elle visité?</p>",
      "points": 1.0,
      "answers": [
       {
@@ -13531,7 +13515,7 @@
     },
     {
      "type": "multiple_choice",
-     "text": "<p>“j'ai découvert la cuisine” is in the…</p>",
+     "text": "<p><audio controls src=\"https://optimaondemand.github.io/french1-lessons/audio/passage/s2m9-identite-02.mp3\"></audio></p><p>“j'ai découvert la cuisine” is in the…</p>",
      "points": 1.0,
      "answers": [
       {
@@ -13550,7 +13534,7 @@
     },
     {
      "type": "multiple_choice",
-     "text": "<p>What does “je la comprends mieux maintenant” mean?</p>",
+     "text": "<p><audio controls src=\"https://optimaondemand.github.io/french1-lessons/audio/grammar/s2m9-synth-pronom.mp3\"></audio></p><p>What does “je la comprends mieux maintenant” mean?</p>",
      "points": 1.0,
      "answers": [
       {
@@ -13569,7 +13553,7 @@
     },
     {
      "type": "multiple_choice",
-     "text": "<p>“la” replaces which noun?</p>",
+     "text": "<p><audio controls src=\"https://optimaondemand.github.io/french1-lessons/audio/grammar/s2m9-synth-pronom.mp3\"></audio></p><p>“la” replaces which noun?</p>",
      "points": 1.0,
      "answers": [
       {
@@ -13588,7 +13572,7 @@
     },
     {
      "type": "multiple_choice",
-     "text": "<p>How does the speaker feel about speaking French?</p>",
+     "text": "<p><audio controls src=\"https://optimaondemand.github.io/french1-lessons/audio/passage/s2m9-identite-03.mp3\"></audio></p><p>How does the speaker feel about speaking French?</p>",
      "points": 1.0,
      "answers": [
       {
@@ -13607,7 +13591,7 @@
     },
     {
      "type": "multiple_choice",
-     "text": "<p>What would she like to do one day?</p>",
+     "text": "<p><audio controls src=\"https://optimaondemand.github.io/french1-lessons/audio/passage/s2m9-identite-03.mp3\"></audio></p><p>What would she like to do one day?</p>",
      "points": 1.0,
      "answers": [
       {
