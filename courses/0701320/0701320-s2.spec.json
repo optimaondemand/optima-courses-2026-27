@@ -2046,23 +2046,26 @@
     },
     {
      "type": "short_answer",
-     "text": "<p>Mon fr&egrave;re est ______ (s&eacute;rieux) et ______ (travailleur).</p><p style=\"font-size:.9em;border-top:1px solid #ccc;padding-top:6px\"><em>Use these accents as necessary.</em><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&eacute; &agrave; &egrave; &ccedil; &ecirc; &ocirc; &icirc; &oelig; &ugrave; &euml; &iuml; &acirc; &uuml; &ucirc;</span><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&Eacute; &Agrave; &Ccedil; &Egrave; &Ecirc; &Icirc; &Ocirc; &Ugrave;</span></p>",
-     "points": 1.0,
+     "text": "<p>Mon fr&egrave;re est ______ (s&eacute;rieux) et travailleur.</p><p style=\"font-size:.9em;border-top:1px solid #ccc;padding-top:6px\"><em>Use these accents as necessary.</em><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&eacute; &agrave; &egrave; &ccedil; &ecirc; &ocirc; &icirc; &oelig; &ugrave; &euml; &iuml; &acirc; &uuml; &ucirc;</span><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&Eacute; &Agrave; &Ccedil; &Egrave; &Ecirc; &Icirc; &Ocirc; &Ugrave;</span></p>",
+     "points": 0.5,
      "answers": [
       {
-       "text": "sérieux, travailleur",
+       "text": "sérieux",
        "correct": true
       },
       {
        "text": "serieux",
        "correct": true
-      },
+      }
+     ]
+    },
+    {
+     "type": "short_answer",
+     "text": "<p>Mon fr&egrave;re est s&eacute;rieux et ______ (travailleur).</p><p style=\"font-size:.9em;border-top:1px solid #ccc;padding-top:6px\"><em>Use these accents as necessary.</em><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&eacute; &agrave; &egrave; &ccedil; &ecirc; &ocirc; &icirc; &oelig; &ugrave; &euml; &iuml; &acirc; &uuml; &ucirc;</span><br><span style=\"font-size:1.2em;letter-spacing:.12em;user-select:text\">&Eacute; &Agrave; &Ccedil; &Egrave; &Ecirc; &Icirc; &Ocirc; &Ugrave;</span></p>",
+     "points": 0.5,
+     "answers": [
       {
        "text": "travailleur",
-       "correct": true
-      },
-      {
-       "text": "serieux, travailleur",
        "correct": true
       }
      ]
