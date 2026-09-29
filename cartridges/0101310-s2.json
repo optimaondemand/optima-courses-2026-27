@@ -4,9 +4,9 @@
  "code": "0101310",
  "title": "2D Studio Art 2 Sem 2",
  "file": "cartridges/0101310-s2.imscc",
- "bytes": 662640,
- "version": "2026.09.18",
- "built": "2026-09-18T14:22:50",
+ "bytes": 664535,
+ "version": "2026.09.29",
+ "built": "2026-09-29T06:06:55",
  "front_page": "wiki_content/course-home.html",
  "items": 142,
  "modules": [
@@ -114,7 +114,7 @@
    "weight": 60
   },
   {
-   "title": "Skill Builders, VR & Quizzes",
+   "title": "Skill Builders, Critiques & Quizzes",
    "weight": 30
   },
   {
@@ -131,7 +131,7 @@
   },
   {
    "id": "gb44b8b1109222e7c43af95499c8849d2",
-   "title": "Skill Builders, VR & Quizzes",
+   "title": "Skill Builders, Critiques & Quizzes",
    "weight": 30.0,
    "position": 2
   },
@@ -182,7 +182,7 @@
   {
    "id": "a_s09_vr",
    "type": "assignment",
-   "title": "The Abstraction Path (VR Session)",
+   "title": "Transformation (Art Critique)",
    "gid": "gd55ac3a92de5770efdce3787572c096f",
    "xml": "gd55ac3a92de5770efdce3787572c096f/assignment_settings.xml",
    "module": "m_s09",
@@ -254,7 +254,7 @@
   {
    "id": "a_s10_vr",
    "type": "assignment",
-   "title": "The Sequence Gallery (VR Session)",
+   "title": "Visual Storytelling (Art Critique)",
    "gid": "g202ea928c28de6a2b7ac10eecbca70b6",
    "xml": "g202ea928c28de6a2b7ac10eecbca70b6/assignment_settings.xml",
    "module": "m_s10",
@@ -326,7 +326,7 @@
   {
    "id": "a_s11_vr",
    "type": "assignment",
-   "title": "The Poster Wall (VR Session)",
+   "title": "Design for Communication (Art Critique)",
    "gid": "g694fc2659fee344955d88738976573f7",
    "xml": "g694fc2659fee344955d88738976573f7/assignment_settings.xml",
    "module": "m_s11",
@@ -398,7 +398,7 @@
   {
    "id": "a_s12_vr",
    "type": "assignment",
-   "title": "Paint a Feeling (VR Session)",
+   "title": "Beyond Reality (Art Critique)",
    "gid": "g74f2331ae0e7c73934f3ee3ddb5e5d3c",
    "xml": "g74f2331ae0e7c73934f3ee3ddb5e5d3c/assignment_settings.xml",
    "module": "m_s12",
@@ -470,7 +470,7 @@
   {
    "id": "a_s13_vr",
    "type": "assignment",
-   "title": "The Dream Gallery (VR Session)",
+   "title": "Dream Worlds (Art Critique)",
    "gid": "gaba1ef7eb9445ee35820f068f90d46c4",
    "xml": "gaba1ef7eb9445ee35820f068f90d46c4/assignment_settings.xml",
    "module": "m_s13",
@@ -542,7 +542,7 @@
   {
    "id": "a_s14_vr",
    "type": "assignment",
-   "title": "Test Your Message (VR Session)",
+   "title": "Art & Society (Art Critique)",
    "gid": "gdfec9a81398e1a1051c8706c72a4c1f2",
    "xml": "gdfec9a81398e1a1051c8706c72a4c1f2/assignment_settings.xml",
    "module": "m_s14",
@@ -614,7 +614,7 @@
   {
    "id": "a_s15_vr",
    "type": "assignment",
-   "title": "The Materials Lab (VR Session)",
+   "title": "Experimental Studio (Art Critique)",
    "gid": "g655c6bb94ad2dd76d1a601752ee6527e",
    "xml": "g655c6bb94ad2dd76d1a601752ee6527e/assignment_settings.xml",
    "module": "m_s15",
@@ -686,7 +686,7 @@
   {
    "id": "a_s16_vr",
    "type": "assignment",
-   "title": "Curate an Influences Gallery (VR Session)",
+   "title": "Independent Investigation (Art Critique)",
    "gid": "g87bedca6982c41df0c7d97dd9ea8da12",
    "xml": "g87bedca6982c41df0c7d97dd9ea8da12/assignment_settings.xml",
    "module": "m_s16",
@@ -758,7 +758,7 @@
   {
    "id": "a_s17_vr",
    "type": "assignment",
-   "title": "The Capstone Critique Walk (VR Session)",
+   "title": "Capstone Studio (Art Critique)",
    "gid": "g13386152b36c71eb0826ebae5c8e0680",
    "xml": "g13386152b36c71eb0826ebae5c8e0680/assignment_settings.xml",
    "module": "m_s17",
@@ -830,7 +830,7 @@
   {
    "id": "a_s18_vr",
    "type": "assignment",
-   "title": "Hang Your Final Exhibition (VR Session)",
+   "title": "Portfolio & Exhibition (Art Critique)",
    "gid": "g80287ffc1d0ab861614165129b1f85af",
    "xml": "g80287ffc1d0ab861614165129b1f85af/assignment_settings.xml",
    "module": "m_s18",
@@ -1474,7 +1474,7 @@
   }
  },
  "status": "ready",
- "spec_sha": "0b8adb7249b2f073e73728ac99d74769ea782ecc3be638eb29e44298a983aeb9",
+ "spec_sha": "8c2695072de7137e02518849581c7fade0372fd82a924e9f8d2af72376ad4e27",
  "art_pack": {
   "folder": "art",
   "root": "Claude's Workshop/Art Builds_Summer 2026",
