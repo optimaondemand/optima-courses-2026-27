@@ -1,0 +1,7146 @@
+{
+ "course": {
+  "title": "Music 1 (3rd Grade) Sem 2",
+  "code": "5013090",
+  "default_view": "wiki",
+  "weighted": false,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_m19_annotate_or_sing",
+   "title": "Annotate or Sing Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Named or sang the notes",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Almost every note correct",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Most notes correct",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Few notes correct",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Followed the music",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "In order, start to finish",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Most of it in order",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Hard to tell where you were",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Clear and complete",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Easy to read or hear; whole piece",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Mostly clear; small part missing",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Hard to read or hear, or much missing",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m20_rhythmic_reading",
+   "title": "Rhythmic Reading Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Performed a pattern",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full pattern, correct",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Most of a pattern",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Unclear or missing",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Steady beat",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Steady the whole time",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Mostly steady",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Hard to follow",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Clear recording",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Easy to hear",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Mostly clear",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Hard to hear or will not play",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m21_k_pop_and_note_reading_challenge",
+   "title": "K-Pop and Note Reading Challenge Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Completed the note game",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Clear screenshot, 10 or more questions",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Screenshot shows a few questions",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No screenshot, or unclear",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Recorded the reading challenge",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Read all eight notes",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Read some of the notes",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No recording, or none read",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Clear and complete",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Both parts clear to see and hear",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Mostly clear; small piece missing",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Hard to see or hear, or parts missing",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m22_conducting_performance",
+   "title": "Conducting Performance Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Showed a conducting pattern",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Clear pattern, beat 1 moves down",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Pattern mostly works",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No clear pattern",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Kept a steady beat",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Steady the whole time",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Steady most of the time",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Hard to follow",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Recording is clear",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Easy to see and hear",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Mostly clear",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Hard to see or hear",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m24_strings_vivaldi_and_time_signatures",
+   "title": "Strings, Vivaldi, and Time Signatures Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "String fact",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Clear, interesting fact",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Simple fact",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No fact, or hard to follow",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Vivaldi fact",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Clear, fun fact about Vivaldi or The Four Seasons",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Simple fact",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No fact, or hard to follow",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Showed the time signatures",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "All three patterns, clearly",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "One or two patterns",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "None shown, or unclear",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m25_violin_and_viola",
+   "title": "Violin and Viola Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Violin fact",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Clear, correct fact",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Mostly correct fact",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No fact, or unclear",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Viola fact",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Clear, correct fact",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Mostly correct fact",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No fact, or unclear",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Practice exercise",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Performed with care and effort",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Performed at least the first part",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Little or no practice shown",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m26_cello_and_double_bass",
+   "title": "Cello and Double Bass Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Cello fact",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Clear, correct fact",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Fact a little unclear",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No fact, or not correct",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Double bass fact",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Clear, correct fact",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Fact a little unclear",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No fact, or not correct",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Practice exercise",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Reads the notes out loud clearly",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Reads most of the notes",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Reading missing or unclear",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m27_flute_oboe_and_prokofiev",
+   "title": "Flute, Oboe, and Prokofiev Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Flute and oboe comments",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Clear comment about both",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "A comment about one",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No clear comment",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Prokofiev comment",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Clear comment about Prokofiev and the story",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Short comment about the story",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No comment, or unclear",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Read the leap-intervals exercise",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "All thirds with correct note names",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Most note names",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Did not read the exercise",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m27_quarter_3_live_vr_experience",
+   "title": "Quarter 3 Live VR Experience Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Attendance",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "On time, stayed the whole session",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Came, stayed for most",
+       "long_description": "",
+       "points": 4
+      },
+      {
+       "description": "Came late or left early",
+       "long_description": "",
+       "points": 2
+      },
+      {
+       "description": "Did not attend",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Joining in",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Answered and took part",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Took part in most activities",
+       "long_description": "",
+       "points": 4
+      },
+      {
+       "description": "Watched, joined in a little",
+       "long_description": "",
+       "points": 2
+      },
+      {
+       "description": "Did not join in",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Reflection",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Clear sentence about what you did",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Short sentence",
+       "long_description": "",
+       "points": 4
+      },
+      {
+       "description": "A few words",
+       "long_description": "",
+       "points": 2
+      },
+      {
+       "description": "No reflection",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Music word",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Used a music word correctly",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Used a music word",
+       "long_description": "",
+       "points": 4
+      },
+      {
+       "description": "Tried, but no music word",
+       "long_description": "",
+       "points": 2
+      },
+      {
+       "description": "No sentence",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m28_clarinet_bassoon_and_intervals",
+   "title": "Clarinet, Bassoon, and Intervals Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Clarinet comment",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "A clear, true comment",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "A short comment, mostly right",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Little or none",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Bassoon comment",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "A clear, true comment",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "A short comment, mostly right",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Little or none",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Named the intervals",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "All pictures correct",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Most pictures correct",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Few or none correct",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m29_brass_and_accidentals",
+   "title": "Brass and Accidentals Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Trumpet or brass comment",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "A clear comment with a true fact",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "A short comment about brass or the trumpet",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No comment, or off topic",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Showed the three accidentals",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "All three shown clearly",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Two of three shown",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "One or none shown",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Explained what they do",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Tells what all three do",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Explains one or two",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No explanation, or unclear",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m30_french_horn_and_accidentals",
+   "title": "French Horn and Accidentals Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "French horn comment",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Clear comment on what is special and tricky",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "A short comment with one fact",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Little or none",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Labeled the notes",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "All letters correct",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Most letters correct",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Few or none correct",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Labeled the accidentals",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "All sharps and flats correct",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Most correct",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Few or none correct",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m31_trombone_and_reading_with_accidentals",
+   "title": "Trombone and Reading with Accidentals Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Trombone discovery",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "A clear, correct discovery",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "A short idea about the trombone",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Little written, or off topic",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Read Exercise 1",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "All notes and accidentals, clearly",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Most notes and accidentals",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Skips most, or no recording",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Read Exercise 2 from memory",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "All notes and accidentals, clearly",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Most notes from memory",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Skips most, or no recording",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m32_tuba_and_ear_training",
+   "title": "Tuba and Ear Training Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Tuba fact",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "A clear, true, important fact",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "A fact that is mostly correct",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No fact, or not about the tuba",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Sang the intervals",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Tried hard the whole way through",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Sang part of it",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Did not sing",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Recording is clear",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Easy to hear all the way",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Mostly easy to hear",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Hard to hear, or nothing recorded",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m33_percussion_and_major_scales",
+   "title": "Percussion and Major Scales Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Percussion fact",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Names an instrument, clear true fact",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Names an instrument, short fact",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No instrument or no fact",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Sang the scale",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "A full scale going up",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Most of the scale",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "A few notes, or none",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Recording is clear",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Clear and easy to hear",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Mostly works and can be heard",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Nothing to listen to",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m34_music_review_reflection_part_1",
+   "title": "Music Review Reflection, Part 1 Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Picked a review topic",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "A clear topic",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "A topic, a little unclear",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No topic named",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Explained what you learned",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Clearly explains what and why it helps",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Some explanation",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Little or none",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Clear and complete",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Clear and finished",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Mostly clear, a little short",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Hard to read or hear, or unfinished",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m35_music_review_reflection_part_2",
+   "title": "Music Review Reflection, Part 2 Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Picked a review topic",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "A clear topic from the review",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "A topic that mostly fits",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No clear topic, or off topic",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Explained what you learned",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Tells what and why it matters",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Tells a little",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Very little or none",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Clear and complete",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Easy to read or hear, a full thought",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Mostly clear, a little short",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Hard to read or hear, or unfinished",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m36_music_review_reflection_part_3",
+   "title": "Music Review Reflection, Part 3 Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Picked a review topic",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "One clear topic",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "A topic, a little unclear",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "No clear topic",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Explained what you learned",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Tells what and why it is interesting",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Tells a little",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Does not explain",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Clear and complete",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Clear and finished",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Mostly clear, a little hard to follow",
+       "long_description": "",
+       "points": 3
+      },
+      {
+       "description": "Hard to read or hear, or not finished",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m37_year_end_music_showcase",
+   "title": "Year-End Music Showcase Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Covers the topics",
+     "long_description": "",
+     "points": 10,
+     "ratings": [
+      {
+       "description": "Four or more clearly",
+       "long_description": "",
+       "points": 10
+      },
+      {
+       "description": "Two or three",
+       "long_description": "",
+       "points": 7
+      },
+      {
+       "description": "One topic",
+       "long_description": "",
+       "points": 4
+      }
+     ]
+    },
+    {
+     "description": "Uses music words",
+     "long_description": "",
+     "points": 10,
+     "ratings": [
+      {
+       "description": "Several, used correctly",
+       "long_description": "",
+       "points": 10
+      },
+      {
+       "description": "A couple",
+       "long_description": "",
+       "points": 7
+      },
+      {
+       "description": "Few or none",
+       "long_description": "",
+       "points": 4
+      }
+     ]
+    },
+    {
+     "description": "Clear and creative",
+     "long_description": "",
+     "points": 10,
+     "ratings": [
+      {
+       "description": "Easy to follow, fun to watch or hear",
+       "long_description": "",
+       "points": 10
+      },
+      {
+       "description": "Mostly clear",
+       "long_description": "",
+       "points": 7
+      },
+      {
+       "description": "Hard to follow",
+       "long_description": "",
+       "points": 4
+      }
+     ]
+    },
+    {
+     "description": "Effort and completeness",
+     "long_description": "",
+     "points": 10,
+     "ratings": [
+      {
+       "description": "Finished, with care and pride",
+       "long_description": "",
+       "points": 10
+      },
+      {
+       "description": "Finished the main parts",
+       "long_description": "",
+       "points": 7
+      },
+      {
+       "description": "Just started",
+       "long_description": "",
+       "points": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m37_quarter_4_live_vr_experience",
+   "title": "Quarter 4 Live VR Experience Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Attendance and presence",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "On time, stayed the whole session",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Stayed for most of it",
+       "long_description": "",
+       "points": 4
+      },
+      {
+       "description": "Came late or left early",
+       "long_description": "",
+       "points": 2
+      },
+      {
+       "description": "Did not attend",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Joining in",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Answered and took part",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Took part in most",
+       "long_description": "",
+       "points": 4
+      },
+      {
+       "description": "Watched, joined in a little",
+       "long_description": "",
+       "points": 2
+      },
+      {
+       "description": "Did not join in",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Reflection",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "A clear sentence about what you did",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "A short sentence",
+       "long_description": "",
+       "points": 4
+      },
+      {
+       "description": "A few words",
+       "long_description": "",
+       "points": 2
+      },
+      {
+       "description": "No reflection",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    },
+    {
+     "description": "Music word",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Used a music word correctly",
+       "long_description": "",
+       "points": 5
+      },
+      {
+       "description": "Used a music word",
+       "long_description": "",
+       "points": 4
+      },
+      {
+       "description": "Tried, but no music word",
+       "long_description": "",
+       "points": 2
+      },
+      {
+       "description": "No sentence",
+       "long_description": "",
+       "points": 1
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_m19_map",
+   "title": "Module 19 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module19_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 19 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module19_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m19_lesson",
+   "title": "Module 19 Lesson: Music Reading Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module19_Lesson_ReadingReview_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 19 Lesson: Music Reading Review\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module19_Lesson_ReadingReview_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m20_map",
+   "title": "Module 20 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module20_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 20 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module20_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m20_lesson",
+   "title": "Module 20 Lesson: Memorizing Rhythmic Notation",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module20_Lesson_RhythmicReading_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 20 Lesson: Memorizing Rhythmic Notation\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module20_Lesson_RhythmicReading_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m21_map",
+   "title": "Module 21 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module21_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 21 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module21_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m21_lesson",
+   "title": "Module 21 Lesson: K-Pop and Music Reading",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module21_Lesson_KPop_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 21 Lesson: K-Pop and Music Reading\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module21_Lesson_KPop_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m22_map",
+   "title": "Module 22 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module22_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 22 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module22_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m22_lesson",
+   "title": "Module 22 Lesson: Marking the Beat",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module22_Lesson_Conducting_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 22 Lesson: Marking the Beat\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module22_Lesson_Conducting_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m23_map",
+   "title": "Module 23 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module23_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 23 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module23_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m23_lesson",
+   "title": "Module 23 Lesson: Beating Patterns Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module23_Lesson_BeatPractice_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 23 Lesson: Beating Patterns Practice\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module23_Lesson_BeatPractice_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m24_map",
+   "title": "Module 24 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module24_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 24 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module24_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m24_lesson",
+   "title": "Module 24 Lesson: The Strings",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module24_Lesson_StringsOverview_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 24 Lesson: The Strings\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module24_Lesson_StringsOverview_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m25_map",
+   "title": "Module 25 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module25_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 25 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module25_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m25_lesson",
+   "title": "Module 25 Lesson: The Strings, Part II",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module25_Lesson_ViolinViola_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 25 Lesson: The Strings, Part II\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module25_Lesson_ViolinViola_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m26_map",
+   "title": "Module 26 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module26_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 26 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module26_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m26_lesson",
+   "title": "Module 26 Lesson: The Strings, Part III",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module26_Lesson_CelloDoubleBass_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 26 Lesson: The Strings, Part III\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module26_Lesson_CelloDoubleBass_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m27_map",
+   "title": "Module 27 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module27_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 27 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module27_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m27_lesson",
+   "title": "Module 27 Lesson: Woodwinds I (Q3 Live VR Experience)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module27_Lesson_Woodwinds1_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 27 Lesson: Woodwinds I (Q3 Live VR Experience)\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module27_Lesson_Woodwinds1_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m28_map",
+   "title": "Module 28 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module28_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 28 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module28_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m28_lesson",
+   "title": "Module 28 Lesson: Woodwinds II",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module28_Lesson_ClarinetBassoon_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 28 Lesson: Woodwinds II\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module28_Lesson_ClarinetBassoon_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m29_map",
+   "title": "Module 29 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module29_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 29 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module29_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m29_lesson",
+   "title": "Module 29 Lesson: Brass Family I: Trumpet and Accidentals",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module29_Lesson_TrumpetAccidentals_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 29 Lesson: Brass Family I: Trumpet and Accidentals\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module29_Lesson_TrumpetAccidentals_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m30_map",
+   "title": "Module 30 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module30_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 30 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module30_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m30_lesson",
+   "title": "Module 30 Lesson: Brass Instruments II",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module30_Lesson_FrenchHorn_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 30 Lesson: Brass Instruments II\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module30_Lesson_FrenchHorn_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m31_map",
+   "title": "Module 31 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module31_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 31 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module31_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m31_lesson",
+   "title": "Module 31 Lesson: Brass Instruments III",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module31_Lesson_Trombone_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 31 Lesson: Brass Instruments III\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module31_Lesson_Trombone_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m32_map",
+   "title": "Module 32 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module32_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 32 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module32_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m32_lesson",
+   "title": "Module 32 Lesson: Tuba & Ear Training",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module32_Lesson_TubaEarTraining_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 32 Lesson: Tuba &amp; Ear Training\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module32_Lesson_TubaEarTraining_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m33_map",
+   "title": "Module 33 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module33_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 33 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module33_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m33_lesson",
+   "title": "Module 33 Lesson: Percussion & Major Scales",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module33_Lesson_Percussion_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 33 Lesson: Percussion &amp; Major Scales\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module33_Lesson_Percussion_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m34_map",
+   "title": "Module 34 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module34_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 34 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module34_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m34_lesson",
+   "title": "Module 34 Lesson: Music Review Part 1",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module34_Lesson_MusicReview1_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 34 Lesson: Music Review Part 1\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module34_Lesson_MusicReview1_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m35_map",
+   "title": "Module 35 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module35_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 35 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module35_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m35_lesson",
+   "title": "Module 35 Lesson: Music Review Part 2",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module35_Lesson_MusicReview2_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 35 Lesson: Music Review Part 2\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module35_Lesson_MusicReview2_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m36_map",
+   "title": "Module 36 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module36_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 36 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module36_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m36_lesson",
+   "title": "Module 36 Lesson: Music Review Part 3",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module36_Lesson_MusicReview3_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 36 Lesson: Music Review Part 3\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module36_Lesson_MusicReview3_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m37_map",
+   "title": "Module 37 Map",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module37_0_ModuleMap.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 37 Map\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module37_0_ModuleMap.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  },
+  {
+   "id": "p_m37_lesson",
+   "title": "Module 37 Lesson: Final Music Review (Q4 Live VR Experience)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module37_Lesson_FinalReview_INTERACTIVE.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Module 37 Lesson: Final Music Review (Q4 Live VR Experience)\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module37_Lesson_FinalReview_INTERACTIVE.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a_m19_annotate_or_sing",
+   "title": "Annotate or Sing",
+   "points": 15.0,
+   "group": "ag_assignments",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module19_3_Assignment_AnnotateOrSing.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Annotate or Sing\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module19_3_Assignment_AnnotateOrSing.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 19,
+   "rubric": "r_m19_annotate_or_sing"
+  },
+  {
+   "id": "a_m20_rhythmic_reading",
+   "title": "Rhythmic Reading",
+   "points": 15.0,
+   "group": "ag_assignments",
+   "submission_types": "online_upload,media_recording",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module20_3_Assignment_RhythmicReading.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Rhythmic Reading\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module20_3_Assignment_RhythmicReading.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 20,
+   "rubric": "r_m20_rhythmic_reading"
+  },
+  {
+   "id": "a_m21_k_pop_and_note_reading_challenge",
+   "title": "K-Pop and Note Reading Challenge",
+   "points": 15.0,
+   "group": "ag_assignments",
+   "submission_types": "online_upload,media_recording",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module21_3_Assignment_KPopReadingChallenge.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"K-Pop and Note Reading Challenge\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module21_3_Assignment_KPopReadingChallenge.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 21,
+   "rubric": "r_m21_k_pop_and_note_reading_challenge"
+  },
+  {
+   "id": "a_m22_conducting_performance",
+   "title": "Conducting Performance",
+   "points": 15.0,
+   "group": "ag_assignments",
+   "submission_types": "online_upload,media_recording",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module22_3_Assignment_ConductingPerformance.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Conducting Performance\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module22_3_Assignment_ConductingPerformance.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 22,
+   "rubric": "r_m22_conducting_performance"
+  },
+  {
+   "id": "a_m24_strings_vivaldi_and_time_signatures",
+   "title": "Strings, Vivaldi, and Time Signatures",
+   "points": 15.0,
+   "group": "ag_assignments",
+   "submission_types": "online_upload,media_recording",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module24_3_Assignment_StringsVivaldi.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Strings, Vivaldi, and Time Signatures\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module24_3_Assignment_StringsVivaldi.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 24,
+   "rubric": "r_m24_strings_vivaldi_and_time_signatures"
+  },
+  {
+   "id": "a_m25_violin_and_viola",
+   "title": "Violin and Viola",
+   "points": 15.0,
+   "group": "ag_assignments",
+   "submission_types": "online_upload,media_recording",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module25_3_Assignment_ViolinViola.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Violin and Viola\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module25_3_Assignment_ViolinViola.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 25,
+   "rubric": "r_m25_violin_and_viola"
+  },
+  {
+   "id": "a_m26_cello_and_double_bass",
+   "title": "Cello and Double Bass",
+   "points": 15.0,
+   "group": "ag_assignments",
+   "submission_types": "online_upload,media_recording",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module26_3_Assignment_CelloDoubleBass.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Cello and Double Bass\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module26_3_Assignment_CelloDoubleBass.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 26,
+   "rubric": "r_m26_cello_and_double_bass"
+  },
+  {
+   "id": "a_m26_bonus_gaudeamus_igitur",
+   "title": "Bonus: Gaudeamus Igitur",
+   "points": 0.0,
+   "group": "ag_assignments",
+   "submission_types": "online_upload,media_recording",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module26_5_Bonus_GaudeamusIgitur.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Bonus: Gaudeamus Igitur\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module26_5_Bonus_GaudeamusIgitur.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 26,
+   "kind": "bonus"
+  },
+  {
+   "id": "a_m27_flute_oboe_and_prokofiev",
+   "title": "Flute, Oboe, and Prokofiev",
+   "points": 15.0,
+   "group": "ag_assignments",
+   "submission_types": "online_upload,media_recording",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module27_3_Assignment_FluteOboeProkofiev.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Flute, Oboe, and Prokofiev\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module27_3_Assignment_FluteOboeProkofiev.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 27,
+   "rubric": "r_m27_flute_oboe_and_prokofiev"
+  },
+  {
+   "id": "a_m27_quarter_3_live_vr_experience",
+   "title": "Quarter 3 Live VR Experience",
+   "points": 20.0,
+   "group": "ag_assignments",
+   "submission_types": "online_text_entry,online_upload",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module27_5_Q3VR_LiveExperience.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Quarter 3 Live VR Experience\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module27_5_Q3VR_LiveExperience.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 27,
+   "rubric": "r_m27_quarter_3_live_vr_experience"
+  },
+  {
+   "id": "a_m28_clarinet_bassoon_and_intervals",
+   "title": "Clarinet, Bassoon, and Intervals",
+   "points": 15.0,
+   "group": "ag_assignments",
+   "submission_types": "online_text_entry,online_upload",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module28_3_Assignment_ClarinetBassoonIntervals.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Clarinet, Bassoon, and Intervals\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module28_3_Assignment_ClarinetBassoonIntervals.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 28,
+   "rubric": "r_m28_clarinet_bassoon_and_intervals"
+  },
+  {
+   "id": "a_m29_brass_and_accidentals",
+   "title": "Brass and Accidentals",
+   "points": 15.0,
+   "group": "ag_assignments",
+   "submission_types": "online_text_entry,online_upload",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module29_3_Assignment_BrassAccidentals.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Brass and Accidentals\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module29_3_Assignment_BrassAccidentals.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 29,
+   "rubric": "r_m29_brass_and_accidentals"
+  },
+  {
+   "id": "a_m30_french_horn_and_accidentals",
+   "title": "French Horn and Accidentals",
+   "points": 15.0,
+   "group": "ag_assignments",
+   "submission_types": "online_text_entry,online_upload",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module30_3_Assignment_FrenchHornAccidentals.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"French Horn and Accidentals\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module30_3_Assignment_FrenchHornAccidentals.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 30,
+   "rubric": "r_m30_french_horn_and_accidentals"
+  },
+  {
+   "id": "a_m31_trombone_and_reading_with_accidentals",
+   "title": "Trombone and Reading with Accidentals",
+   "points": 15.0,
+   "group": "ag_assignments",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module31_3_Assignment_TromboneReading.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Trombone and Reading with Accidentals\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module31_3_Assignment_TromboneReading.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 31,
+   "rubric": "r_m31_trombone_and_reading_with_accidentals"
+  },
+  {
+   "id": "a_m32_tuba_and_ear_training",
+   "title": "Tuba and Ear Training",
+   "points": 15.0,
+   "group": "ag_assignments",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module32_3_Assignment_TubaEarTraining.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Tuba and Ear Training\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module32_3_Assignment_TubaEarTraining.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 32,
+   "rubric": "r_m32_tuba_and_ear_training"
+  },
+  {
+   "id": "a_m33_percussion_and_major_scales",
+   "title": "Percussion and Major Scales",
+   "points": 15.0,
+   "group": "ag_assignments",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module33_3_Assignment_PercussionScales.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Percussion and Major Scales\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module33_3_Assignment_PercussionScales.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 33,
+   "rubric": "r_m33_percussion_and_major_scales"
+  },
+  {
+   "id": "a_m34_music_review_reflection_part_1",
+   "title": "Music Review Reflection, Part 1",
+   "points": 15.0,
+   "group": "ag_assignments",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module34_3_Assignment_ReviewReflection1.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Music Review Reflection, Part 1\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module34_3_Assignment_ReviewReflection1.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 34,
+   "rubric": "r_m34_music_review_reflection_part_1"
+  },
+  {
+   "id": "a_m35_music_review_reflection_part_2",
+   "title": "Music Review Reflection, Part 2",
+   "points": 15.0,
+   "group": "ag_assignments",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module35_3_Assignment_ReviewReflection2.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Music Review Reflection, Part 2\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module35_3_Assignment_ReviewReflection2.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 35,
+   "rubric": "r_m35_music_review_reflection_part_2"
+  },
+  {
+   "id": "a_m36_music_review_reflection_part_3",
+   "title": "Music Review Reflection, Part 3",
+   "points": 15.0,
+   "group": "ag_assignments",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module36_3_Assignment_ReviewReflection3.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Music Review Reflection, Part 3\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module36_3_Assignment_ReviewReflection3.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 36,
+   "rubric": "r_m36_music_review_reflection_part_3"
+  },
+  {
+   "id": "a_m37_year_end_music_showcase",
+   "title": "Year-End Music Showcase",
+   "points": 40.0,
+   "group": "ag_assignments",
+   "submission_types": "online_upload,media_recording",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module37_3_FinalProject.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Year-End Music Showcase\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module37_3_FinalProject.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 37,
+   "rubric": "r_m37_year_end_music_showcase"
+  },
+  {
+   "id": "a_m37_quarter_4_live_vr_experience",
+   "title": "Quarter 4 Live VR Experience",
+   "points": 20.0,
+   "group": "ag_assignments",
+   "submission_types": "online_text_entry,online_upload",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module37_4_Q4VR_LiveExperience.html\" style=\"width:100%; min-height:1600px; border:none;\" title=\"Quarter 4 Live VR Experience\" loading=\"lazy\" allow=\"autoplay; encrypted-media; fullscreen\"></iframe></p>\n<p style=\"font-size: 14px; color: #6b7a99;\">Page not showing? <a href=\"https://optimaondemand.github.io/mj-music-intermediate-1-s2/Module37_4_Q4VR_LiveExperience.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.</p>",
+   "published": true,
+   "week": 37,
+   "rubric": "r_m37_quarter_4_live_vr_experience"
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q_m19_module_19_quick_check",
+   "title": "Module 19 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 19,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>From bottom to top, the lines of the treble clef are...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) F, A, C, E",
+       "correct": false
+      },
+      {
+       "text": "B) A, B, C, D",
+       "correct": false
+      },
+      {
+       "text": "C) E, G, B, D, F",
+       "correct": true
+      },
+      {
+       "text": "D) D, E, F, G",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>From bottom to top, the spaces of the treble clef spell what word?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) FACE",
+       "correct": true
+      },
+      {
+       "text": "B) EGBDF",
+       "correct": false
+      },
+      {
+       "text": "C) DOG",
+       "correct": false
+      },
+      {
+       "text": "D) CAT",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How many beats does a whole note last?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) 1 beat",
+       "correct": false
+      },
+      {
+       "text": "B) 2 beats",
+       "correct": false
+      },
+      {
+       "text": "C) 4 beats",
+       "correct": true
+      },
+      {
+       "text": "D) half a beat",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How many beats does a quarter note last?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) 4 beats",
+       "correct": false
+      },
+      {
+       "text": "B) 2 beats",
+       "correct": false
+      },
+      {
+       "text": "C) half a beat",
+       "correct": false
+      },
+      {
+       "text": "D) 1 beat",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The sign p in music tells you to play...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) loud",
+       "correct": false
+      },
+      {
+       "text": "B) soft",
+       "correct": true
+      },
+      {
+       "text": "C) fast",
+       "correct": false
+      },
+      {
+       "text": "D) high",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The sign f in music tells you to play...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) soft",
+       "correct": false
+      },
+      {
+       "text": "B) slow",
+       "correct": false
+      },
+      {
+       "text": "C) low",
+       "correct": false
+      },
+      {
+       "text": "D) loud",
+       "correct": true
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m19_module_19_reflection",
+   "title": "Module 19 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 19,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Now that you finished Module 19: how well can you read the notes on the staff now? Answer in your own words.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about reading the note names, the beats, and the loud-and-soft signs?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Is there one thing about reading music that still feels a little fuzzy? Tell us what it is so we can help.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can name the lines (E, G, B, D, F) and spaces (FACE) on the treble clef.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can tell how many beats whole, half, quarter, and eighth notes get.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Reading music takes perseverance, which means sticking with something even when it is hard. Tell about a time this week when you kept practicing instead of giving up.</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m20_module_20_quick_check",
+   "title": "Module 20 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 20,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which word do we say for one quarter note?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) \"ti-ti\"",
+       "correct": false
+      },
+      {
+       "text": "B) \"ta\"",
+       "correct": true
+      },
+      {
+       "text": "C) \"ta-a-a\"",
+       "correct": false
+      },
+      {
+       "text": "D) \"shh\"",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>We say &quot;ti-ti&quot; for...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) one quarter note",
+       "correct": false
+      },
+      {
+       "text": "B) a rest",
+       "correct": false
+      },
+      {
+       "text": "C) two eighth notes",
+       "correct": true
+      },
+      {
+       "text": "D) a dotted half note",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How many beats does a dotted half note last?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) 3 beats",
+       "correct": true
+      },
+      {
+       "text": "B) 1 beat",
+       "correct": false
+      },
+      {
+       "text": "C) 2 beats",
+       "correct": false
+      },
+      {
+       "text": "D) half a beat",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A word or saying that helps you remember something is called a...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) beat",
+       "correct": false
+      },
+      {
+       "text": "B) rest",
+       "correct": false
+      },
+      {
+       "text": "C) staff",
+       "correct": false
+      },
+      {
+       "text": "D) mnemonic",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<p>A rest means you stay quiet for that beat.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The pattern of long and short sounds in music is called the...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) pitch",
+       "correct": false
+      },
+      {
+       "text": "B) rhythm",
+       "correct": true
+      },
+      {
+       "text": "C) melody",
+       "correct": false
+      },
+      {
+       "text": "D) color",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m20_module_20_reflection",
+   "title": "Module 20 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 20,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Now that you finished Module 20: how can tricks help us remember rhythms? Answer in your own words.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about reading a rhythm using words like &quot;ta&quot; and &quot;ti-ti&quot;?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is one thing about reading rhythms that still feels fuzzy to you? (It is okay if nothing does.)</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can say &quot;ta&quot; for a quarter note and &quot;ti-ti&quot; for two eighth notes.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I clapped and read a short rhythm pattern.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Reading rhythms takes perseverance, which means you keep trying even when it is tricky. Tell about a moment this week when you kept practicing a rhythm until it got easier.</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m21_module_21_quick_check",
+   "title": "Module 21 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 21,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is K-Pop?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) A kind of drum from Africa",
+       "correct": false
+      },
+      {
+       "text": "B) Popular music from South Korea",
+       "correct": true
+      },
+      {
+       "text": "C) A type of dance from Mexico",
+       "correct": false
+      },
+      {
+       "text": "D) A musical instrument",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The planned dance moves a group does together are called...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) a rest",
+       "correct": false
+      },
+      {
+       "text": "B) a clef",
+       "correct": false
+      },
+      {
+       "text": "C) choreography",
+       "correct": true
+      },
+      {
+       "text": "D) a hook",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The catchy part of a song that gets stuck in your head is the...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) hook",
+       "correct": true
+      },
+      {
+       "text": "B) staff",
+       "correct": false
+      },
+      {
+       "text": "C) rest",
+       "correct": false
+      },
+      {
+       "text": "D) clef",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<p>People enjoy K-Pop in many countries all around the world.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>On the treble clef, the space notes spell which word?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) CAGE",
+       "correct": false
+      },
+      {
+       "text": "B) BEAD",
+       "correct": false
+      },
+      {
+       "text": "C) DEAF",
+       "correct": false
+      },
+      {
+       "text": "D) FACE",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Music notes on the staff are...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) different in every country",
+       "correct": false
+      },
+      {
+       "text": "B) the same all around the world",
+       "correct": true
+      },
+      {
+       "text": "C) only used in South Korea",
+       "correct": false
+      },
+      {
+       "text": "D) only for K-Pop",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m21_module_21_reflection",
+   "title": "Module 21 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 21,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>This week's big question was: How is music the same all around the world? Answer in your own words.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about what K-Pop is and reading more notes on the treble clef?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Is there anything from this week that still feels fuzzy or hard? Tell us so we can help.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can explain what K-Pop is and where it comes from.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can read more notes on the treble clef.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Courtesy means treating people and their ideas with kindness and respect. Enjoying music from other countries, like K-Pop from South Korea, is one way we show courtesy to people who are different from us. Tell about a time you enjoyed something from another country, or a song or food you would like to try.</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m22_module_22_quick_check",
+   "title": "Module 22 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 22,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does a conductor do?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Plays the drums",
+       "correct": false
+      },
+      {
+       "text": "B) Sells the tickets",
+       "correct": false
+      },
+      {
+       "text": "C) Leads the musicians and keeps the beat",
+       "correct": true
+      },
+      {
+       "text": "D) Turns the pages",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The downbeat (beat 1) always moves which way?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Down",
+       "correct": true
+      },
+      {
+       "text": "B) Up",
+       "correct": false
+      },
+      {
+       "text": "C) In a circle",
+       "correct": false
+      },
+      {
+       "text": "D) It does not move",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A baton is...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) a kind of drum",
+       "correct": false
+      },
+      {
+       "text": "B) a song",
+       "correct": false
+      },
+      {
+       "text": "C) a thin stick the conductor holds",
+       "correct": true
+      },
+      {
+       "text": "D) a music book",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How many beats are in 4/4 time?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) 2 beats",
+       "correct": false
+      },
+      {
+       "text": "B) 3 beats",
+       "correct": false
+      },
+      {
+       "text": "C) 1 beat",
+       "correct": false
+      },
+      {
+       "text": "D) 4 beats",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The shape your hand makes as you mark the beats is called the...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) melody",
+       "correct": false
+      },
+      {
+       "text": "B) baton",
+       "correct": false
+      },
+      {
+       "text": "C) conducting pattern",
+       "correct": true
+      },
+      {
+       "text": "D) rest",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<p>The conductor helps all the musicians stay together on the same beat.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m22_module_22_reflection",
+   "title": "Module 22 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 22,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Now that you finished Module 22: how does a conductor help the music stay together? Answer in your own words.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about conducting the 2/4, 3/4, and 4/4 patterns?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>What part of conducting still feels a little fuzzy to you? (For example: the patterns, the downbeat, or counting the beats.)</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can explain what a conductor does and show that the downbeat moves down.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I conducted the 2/4, 3/4, and 4/4 patterns with my hand.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Keeping a steady beat takes self-government, which means controlling your own body and staying on track without anyone telling you. Tell about a time this week when you had to control your hand and your counting to keep the beat steady.</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m23_module_23_quick_check",
+   "title": "Module 23 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 23,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does tempo tell us about the music?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) How high or low the notes are",
+       "correct": false
+      },
+      {
+       "text": "B) How fast or slow the music goes",
+       "correct": true
+      },
+      {
+       "text": "C) How loud the music is",
+       "correct": false
+      },
+      {
+       "text": "D) How many singers there are",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A steady beat is most like...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) A loud cymbal crash",
+       "correct": false
+      },
+      {
+       "text": "B) A high singing voice",
+       "correct": false
+      },
+      {
+       "text": "C) A ticking clock",
+       "correct": true
+      },
+      {
+       "text": "D) A quiet rest",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How many beats are in the 4/4 beating pattern?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Four",
+       "correct": true
+      },
+      {
+       "text": "B) Two",
+       "correct": false
+      },
+      {
+       "text": "C) Three",
+       "correct": false
+      },
+      {
+       "text": "D) Six",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In 4/4 time, how many beats does a half note last?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) One beat",
+       "correct": false
+      },
+      {
+       "text": "B) Four beats",
+       "correct": false
+      },
+      {
+       "text": "C) Two beats",
+       "correct": true
+      },
+      {
+       "text": "D) Half of a beat",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<p>The first beat of every beating pattern goes straight down.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is a beating pattern?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) The words a singer sings",
+       "correct": false
+      },
+      {
+       "text": "B) How loud or soft the music is",
+       "correct": false
+      },
+      {
+       "text": "C) A list of your favorite songs",
+       "correct": false
+      },
+      {
+       "text": "D) The shape your hand draws to show each beat",
+       "correct": true
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m23_module_23_reflection",
+   "title": "Module 23 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 23,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>This week's big question: Can you keep a steady beat while you conduct and read at the same time? Answer in your own words. How did it go for you?</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about keeping a steady tempo while you conduct and read note values?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Is anything still fuzzy for you? Maybe a beating pattern (2/4, 3/4, or 4/4), or how long a note lasts? Tell what you want to practice more.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can mark the 2/4, 3/4, and 4/4 beating patterns with my hand.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can read music with mixed note values while I keep the beat.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Keeping a steady beat takes perseverance, which means you keep trying even when it is hard and you do not give up. Tell about a moment this week when you kept practicing until something got easier.</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m24_module_24_quick_check",
+   "title": "Module 24 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 24,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which group lists the four main string instruments?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Flute, clarinet, oboe, bassoon",
+       "correct": false
+      },
+      {
+       "text": "B) Violin, viola, cello, double bass",
+       "correct": true
+      },
+      {
+       "text": "C) Trumpet, trombone, tuba, horn",
+       "correct": false
+      },
+      {
+       "text": "D) Drum, cymbal, triangle, bell",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Drawing a bow across the strings is called...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) pizzicato",
+       "correct": false
+      },
+      {
+       "text": "B) tempo",
+       "correct": false
+      },
+      {
+       "text": "C) arco",
+       "correct": true
+      },
+      {
+       "text": "D) rest",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Plucking the strings with your finger is called...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) pizzicato",
+       "correct": true
+      },
+      {
+       "text": "B) arco",
+       "correct": false
+      },
+      {
+       "text": "C) beat",
+       "correct": false
+      },
+      {
+       "text": "D) pitch",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which section is the largest in the orchestra?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) The brass",
+       "correct": false
+      },
+      {
+       "text": "B) The drums",
+       "correct": false
+      },
+      {
+       "text": "C) The woodwinds",
+       "correct": false
+      },
+      {
+       "text": "D) The strings",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<p>Antonio Vivaldi wrote famous music called The Four Seasons.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is the smallest string instrument that plays the highest notes?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Cello",
+       "correct": false
+      },
+      {
+       "text": "B) Violin",
+       "correct": true
+      },
+      {
+       "text": "C) Double bass",
+       "correct": false
+      },
+      {
+       "text": "D) Viola",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m24_module_24_reflection",
+   "title": "Module 24 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 24,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Now that you finished Module 24: what makes the string family special? Answer in your own words.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about the string family and the two ways strings make sound (arco and pizzicato)?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Is anything still fuzzy or tricky about the strings, Vivaldi, or the conducting patterns? Tell us what, so we can help.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can name the four main string instruments.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can show the 2/4, 3/4, and 4/4 conducting patterns.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>The strings are the largest section, and they work together to serve the whole orchestra and make it sound full and beautiful. That is the virtue of service: helping a group be its best. Tell about one time you helped a group you are part of, like your family, your class, or a team.</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m25_module_25_quick_check",
+   "title": "Module 25 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 25,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which string instrument is the smallest and plays the highest notes?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) The violin",
+       "correct": true
+      },
+      {
+       "text": "B) The viola",
+       "correct": false
+      },
+      {
+       "text": "C) The cello",
+       "correct": false
+      },
+      {
+       "text": "D) The double bass",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The viola is a little bigger than the violin. How does it sound?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Higher and brighter",
+       "correct": false
+      },
+      {
+       "text": "B) Exactly the same",
+       "correct": false
+      },
+      {
+       "text": "C) Lower and warmer",
+       "correct": true
+      },
+      {
+       "text": "D) Too soft to hear",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which clef do both the violin and the viola read?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) The number line",
+       "correct": false
+      },
+      {
+       "text": "B) The color wheel",
+       "correct": false
+      },
+      {
+       "text": "C) The treble clef",
+       "correct": true
+      },
+      {
+       "text": "D) The calendar",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does a player draw across the strings to make a sound?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) A pencil",
+       "correct": false
+      },
+      {
+       "text": "B) A bow",
+       "correct": true
+      },
+      {
+       "text": "C) A ruler",
+       "correct": false
+      },
+      {
+       "text": "D) A drumstick",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<p>You hold both the violin and the viola under your chin.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is rosin used for?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) To paint the wood",
+       "correct": false
+      },
+      {
+       "text": "B) To tune the strings",
+       "correct": false
+      },
+      {
+       "text": "C) To clean the bridge",
+       "correct": false
+      },
+      {
+       "text": "D) To help the bow grip the strings",
+       "correct": true
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m25_module_25_reflection",
+   "title": "Module 25 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 25,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Now that you finished Module 25: how are the violin and viola alike, and how are they different? Answer in your own words.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about telling the violin and viola apart by size and sound?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Is anything still fuzzy about the violin, the viola, the treble clef, or the parts (bow, bridge, rosin)? Tell us what you would like to go over again.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can tell which instrument is smaller and plays higher (violin) and which is bigger and plays lower (viola).</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I know that both the violin and the viola read the treble clef.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Learning an instrument takes perseverance, which means you keep practicing even when something is hard. Tell about a part of this week's practice exercise that was tricky and how you kept going.</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m26_module_26_quick_check",
+   "title": "Module 26 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 26,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>How do you hold a cello to play it?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Under your chin",
+       "correct": false
+      },
+      {
+       "text": "B) On your shoulder",
+       "correct": false
+      },
+      {
+       "text": "C) Sitting down, between your knees",
+       "correct": true
+      },
+      {
+       "text": "D) Flat on a table",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which string instrument is the biggest and the lowest?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) The double bass",
+       "correct": true
+      },
+      {
+       "text": "B) The violin",
+       "correct": false
+      },
+      {
+       "text": "C) The viola",
+       "correct": false
+      },
+      {
+       "text": "D) The cello",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What word means plucking the strings with your fingers?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Tempo",
+       "correct": false
+      },
+      {
+       "text": "B) Forte",
+       "correct": false
+      },
+      {
+       "text": "C) Pizzicato",
+       "correct": true
+      },
+      {
+       "text": "D) Melody",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The deep, low notes of the double bass give the orchestra its...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) highest squeak",
+       "correct": false
+      },
+      {
+       "text": "B) fastest beat",
+       "correct": false
+      },
+      {
+       "text": "C) loudest crash",
+       "correct": false
+      },
+      {
+       "text": "D) strong foundation",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<p>The cello has a rich, warm sound.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>On the treble clef, the four spaces from bottom to top spell what word?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) DOG",
+       "correct": false
+      },
+      {
+       "text": "B) FACE",
+       "correct": true
+      },
+      {
+       "text": "C) NOTE",
+       "correct": false
+      },
+      {
+       "text": "D) BAND",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m26_module_26_reflection",
+   "title": "Module 26 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 26,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Now that you finished Module 26: why does an orchestra need low instruments like the cello and the double bass? Answer in your own words.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about telling the cello and the double bass apart and knowing how they sound?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Is anything still fuzzy or confusing about the cello, the double bass, or reading treble clef notes? Tell us so we can help.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can describe how the cello is played and how it sounds.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can explain why the double bass gives the orchestra its deep foundation.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>The low instruments do not always get the spotlight, but they serve the whole orchestra by holding up the sound underneath everyone else. Tell about a time you helped or served your family, your class, or a friend, even when no one noticed.</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m27_module_27_quick_check",
+   "title": "Module 27 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 27,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>How is the flute played?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Hit with a stick",
+       "correct": false
+      },
+      {
+       "text": "B) Pluck a string",
+       "correct": false
+      },
+      {
+       "text": "C) Held sideways and blown across a hole",
+       "correct": true
+      },
+      {
+       "text": "D) Blow through a double reed",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What gives the oboe its thin, reedy sound?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) A double reed",
+       "correct": true
+      },
+      {
+       "text": "B) A drum head",
+       "correct": false
+      },
+      {
+       "text": "C) A metal string",
+       "correct": false
+      },
+      {
+       "text": "D) No reed at all",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which family do the flute and the oboe belong to?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) The strings",
+       "correct": false
+      },
+      {
+       "text": "B) The percussion",
+       "correct": false
+      },
+      {
+       "text": "C) The woodwinds",
+       "correct": true
+      },
+      {
+       "text": "D) The brass",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Peter and the Wolf, which instrument plays the bird?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) The drum",
+       "correct": false
+      },
+      {
+       "text": "B) The oboe",
+       "correct": false
+      },
+      {
+       "text": "C) The trumpet",
+       "correct": false
+      },
+      {
+       "text": "D) The flute",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A leap of a third...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) stays on the same note",
+       "correct": false
+      },
+      {
+       "text": "B) skips one note",
+       "correct": true
+      },
+      {
+       "text": "C) moves to the very next note",
+       "correct": false
+      },
+      {
+       "text": "D) skips five notes",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<p>Prokofiev gave each character in Peter and the Wolf its own instrument.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m27_module_27_reflection",
+   "title": "Module 27 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 27,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Now that you finished Module 27: How can instruments tell a story? Answer in your own words.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about telling the flute and the oboe apart, and reading a leap of a third?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Is anything still fuzzy or tricky about the woodwinds, Prokofiev, or thirds? Tell us what, so we can help.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can tell the flute and the oboe apart by how they are played and how they sound.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can read a leap of a third on the staff.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Making a video where you talk and read note names out loud takes courage. Tell how it felt to record yourself for this assignment.</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m28_module_28_quick_check",
+   "title": "Module 28 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 28,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>The clarinet makes its sound with a...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Double reed",
+       "correct": false
+      },
+      {
+       "text": "B) Single reed",
+       "correct": true
+      },
+      {
+       "text": "C) Drum skin",
+       "correct": false
+      },
+      {
+       "text": "D) Metal string",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which woodwind is the lowest one, with a deep, buzzy sound?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) The clarinet",
+       "correct": false
+      },
+      {
+       "text": "B) The flute",
+       "correct": false
+      },
+      {
+       "text": "C) The bassoon",
+       "correct": true
+      },
+      {
+       "text": "D) The piccolo",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The bassoon makes its sound with a...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Double reed",
+       "correct": true
+      },
+      {
+       "text": "B) Single reed",
+       "correct": false
+      },
+      {
+       "text": "C) Bow",
+       "correct": false
+      },
+      {
+       "text": "D) Mouthpiece with no reed",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>An interval that steps to the very next note is a...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Third",
+       "correct": false
+      },
+      {
+       "text": "B) Fifth",
+       "correct": false
+      },
+      {
+       "text": "C) Octave",
+       "correct": false
+      },
+      {
+       "text": "D) Second",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>An interval that skips one note is a...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Second",
+       "correct": false
+      },
+      {
+       "text": "B) Third",
+       "correct": true
+      },
+      {
+       "text": "C) Unison",
+       "correct": false
+      },
+      {
+       "text": "D) Rest",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which instrument has the fun nickname &quot;licorice stick&quot;?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) The bassoon",
+       "correct": false
+      },
+      {
+       "text": "B) The drum",
+       "correct": false
+      },
+      {
+       "text": "C) The clarinet",
+       "correct": true
+      },
+      {
+       "text": "D) The harp",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m28_module_28_reflection",
+   "title": "Module 28 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 28,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Now that you finished Module 28: how do woodwinds make their different sounds? Answer in your own words.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about the clarinet, the bassoon, and naming a 2nd or a 3rd?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Is anything still a little fuzzy from this week? Tell me what you would like to go over again. (If nothing is fuzzy, that is great too.)</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can tell a single reed from a double reed.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can name an interval as a 2nd or a 3rd.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Learning to hear the difference between two reeds and two intervals takes perseverance, which means sticking with something even when it is tricky. Tell about a moment this week when you kept trying until something made sense.</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m29_module_29_quick_check",
+   "title": "Module 29 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 29,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>How do brass players make a sound?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) By hitting drums with sticks",
+       "correct": false
+      },
+      {
+       "text": "B) By buzzing their lips into a mouthpiece",
+       "correct": true
+      },
+      {
+       "text": "C) By plucking strings",
+       "correct": false
+      },
+      {
+       "text": "D) By shaking the instrument",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which instrument is the smallest and highest in the brass family?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) The tuba",
+       "correct": false
+      },
+      {
+       "text": "B) The trombone",
+       "correct": false
+      },
+      {
+       "text": "C) The trumpet",
+       "correct": true
+      },
+      {
+       "text": "D) The French horn",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How many valves does a trumpet have?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) 3",
+       "correct": true
+      },
+      {
+       "text": "B) 1",
+       "correct": false
+      },
+      {
+       "text": "C) 6",
+       "correct": false
+      },
+      {
+       "text": "D) 8",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does a sharp do to a note?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Lowers it",
+       "correct": false
+      },
+      {
+       "text": "B) Cancels it",
+       "correct": false
+      },
+      {
+       "text": "C) Makes it louder",
+       "correct": false
+      },
+      {
+       "text": "D) Raises it (makes it higher)",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does a flat do to a note?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Raises it",
+       "correct": false
+      },
+      {
+       "text": "B) Lowers it (makes it lower)",
+       "correct": true
+      },
+      {
+       "text": "C) Cancels it",
+       "correct": false
+      },
+      {
+       "text": "D) Makes it faster",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which accidental cancels a sharp or a flat and puts the note back to normal?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) A sharp",
+       "correct": false
+      },
+      {
+       "text": "B) A flat",
+       "correct": false
+      },
+      {
+       "text": "C) A natural",
+       "correct": true
+      },
+      {
+       "text": "D) A valve",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m29_module_29_reflection",
+   "title": "Module 29 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 29,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Now that you finished Module 29: how do brass players and accidentals change the sound? Answer in your own words.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about the trumpet and the three accidentals?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Is anything still fuzzy or tricky about the brass family or accidentals? Tell us what, so we can help.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can explain how brass players make a sound and name the trumpet.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can tell what a sharp, a flat, and a natural do to a note.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Trying a new sound, like buzzing your lips or drawing a brand-new symbol, takes courage. Tell about a moment this week when you tried something new even though it felt a little hard.</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m30_module_30_quick_check",
+   "title": "Module 30 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 30,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>The French horn is what kind of instrument?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) A string instrument",
+       "correct": false
+      },
+      {
+       "text": "B) A brass instrument",
+       "correct": true
+      },
+      {
+       "text": "C) A woodwind instrument",
+       "correct": false
+      },
+      {
+       "text": "D) A percussion instrument",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The long tubing on a French horn is...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) straight like a flute",
+       "correct": false
+      },
+      {
+       "text": "B) made of wood",
+       "correct": false
+      },
+      {
+       "text": "C) coiled into a circle",
+       "correct": true
+      },
+      {
+       "text": "D) flat like a board",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>While playing, the French horn player keeps one hand...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) inside the bell",
+       "correct": true
+      },
+      {
+       "text": "B) on the floor",
+       "correct": false
+      },
+      {
+       "text": "C) over the eyes",
+       "correct": false
+      },
+      {
+       "text": "D) in the air",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The French horn is known for a sound that is...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) loud and scratchy",
+       "correct": false
+      },
+      {
+       "text": "B) sharp and squeaky",
+       "correct": false
+      },
+      {
+       "text": "C) thin and buzzy",
+       "correct": false
+      },
+      {
+       "text": "D) warm and mellow",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A sharp does what to a note?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Lowers it",
+       "correct": false
+      },
+      {
+       "text": "B) Raises it",
+       "correct": true
+      },
+      {
+       "text": "C) Erases it",
+       "correct": false
+      },
+      {
+       "text": "D) Repeats it",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A natural sign does what?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Makes a note louder",
+       "correct": false
+      },
+      {
+       "text": "B) Makes a note faster",
+       "correct": false
+      },
+      {
+       "text": "C) Raises a note two steps",
+       "correct": false
+      },
+      {
+       "text": "D) Cancels a sharp or a flat",
+       "correct": true
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m30_module_30_reflection",
+   "title": "Module 30 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 30,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Now that you finished Module 30: what makes the French horn special and tricky? Answer in your own words.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about the French horn and reading sharps, flats, and naturals?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Was anything still fuzzy this week? It is okay to say so. Tell us one thing you would like to go over again.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can describe the French horn and tell why it is tricky to play.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can tell what a sharp, a flat, and a natural do to a note.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>The French horn is one of the trickiest instruments to play, and reading accidentals takes practice too. Perseverance means we keep trying even when something is hard. Tell about a time this week you kept going even when the work felt tricky.</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m31_module_31_quick_check",
+   "title": "Module 31 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 31,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>What makes the trombone different from every other brass instrument?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) It has the most valves",
+       "correct": false
+      },
+      {
+       "text": "B) It uses a slide instead of valves",
+       "correct": true
+      },
+      {
+       "text": "C) It is the smallest brass instrument",
+       "correct": false
+      },
+      {
+       "text": "D) It is made of wood",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The smooth slide from one note to another on a trombone is called a...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Valve",
+       "correct": false
+      },
+      {
+       "text": "B) Rest",
+       "correct": false
+      },
+      {
+       "text": "C) Glissando",
+       "correct": true
+      },
+      {
+       "text": "D) Beat",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How many slide positions does the trombone have?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Seven",
+       "correct": true
+      },
+      {
+       "text": "B) Three",
+       "correct": false
+      },
+      {
+       "text": "C) Two",
+       "correct": false
+      },
+      {
+       "text": "D) Ten",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does a sharp do to a note?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Lowers it a little",
+       "correct": false
+      },
+      {
+       "text": "B) Stops it",
+       "correct": false
+      },
+      {
+       "text": "C) Puts it back to normal",
+       "correct": false
+      },
+      {
+       "text": "D) Raises it a little",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which accidental puts a note back to its normal sound?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Sharp",
+       "correct": false
+      },
+      {
+       "text": "B) Natural",
+       "correct": true
+      },
+      {
+       "text": "C) Flat",
+       "correct": false
+      },
+      {
+       "text": "D) Slide",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<p>The trombone has a bold, powerful sound.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m31_module_31_reflection",
+   "title": "Module 31 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 31,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Now that you finished Module 31: how is the trombone different from every other brass instrument? Answer in your own words.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about the trombone and reading notes with accidentals?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Is there anything that still feels fuzzy or tricky this week? Tell us what you would like more practice with. (It is okay to say &quot;nothing.&quot;)</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can explain how the trombone uses a slide instead of valves.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can read notes out loud, including notes with accidentals.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Reading notes out loud from memory takes perseverance, which means sticking with something even when it feels hard. Tell about a moment this week when you kept trying and did not give up.</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m32_module_32_quick_check",
+   "title": "Module 32 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 32,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which brass instrument is the biggest and lowest?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) The trumpet",
+       "correct": false
+      },
+      {
+       "text": "B) The trombone",
+       "correct": false
+      },
+      {
+       "text": "C) The tuba",
+       "correct": true
+      },
+      {
+       "text": "D) The French horn",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is the wide, open end of the tuba called, where the sound comes out?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) The bell",
+       "correct": true
+      },
+      {
+       "text": "B) The bow",
+       "correct": false
+      },
+      {
+       "text": "C) The drum",
+       "correct": false
+      },
+      {
+       "text": "D) The string",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does ear training mean?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Cleaning your ears",
+       "correct": false
+      },
+      {
+       "text": "B) Playing music very loud",
+       "correct": false
+      },
+      {
+       "text": "C) Reading music with your eyes",
+       "correct": false
+      },
+      {
+       "text": "D) Learning to hear differences in music",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Music that is major often sounds...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) dark and sad",
+       "correct": false
+      },
+      {
+       "text": "B) bright and happy",
+       "correct": true
+      },
+      {
+       "text": "C) very quiet",
+       "correct": false
+      },
+      {
+       "text": "D) very slow",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Music that is minor often sounds...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) bright and happy",
+       "correct": false
+      },
+      {
+       "text": "B) very loud",
+       "correct": false
+      },
+      {
+       "text": "C) dark or a little sad",
+       "correct": true
+      },
+      {
+       "text": "D) very fast",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What do we call the space between two notes?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) A bell",
+       "correct": false
+      },
+      {
+       "text": "B) A drum",
+       "correct": false
+      },
+      {
+       "text": "C) A rest",
+       "correct": false
+      },
+      {
+       "text": "D) An interval",
+       "correct": true
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m32_module_32_reflection",
+   "title": "Module 32 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 32,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>This week's big question was: How can our ears tell happy music from sad music? Answer in your own words.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about telling when music sounds major (happy) or minor (sad)?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Is there anything about the tuba or about major and minor sounds that still feels fuzzy or confusing? Tell us what, so we can help.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can describe the tuba and tell why it is special in the brass family.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can tell when music sounds major (happy) or minor (sad).</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Careful listening takes self-government, which means staying calm and paying close attention even when it is hard. Tell about a time this week when you slowed down and really listened. How did it help you hear the difference between happy and sad sounds?</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m33_module_33_quick_check",
+   "title": "Module 33 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 33,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>The percussion family is anything you can...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) blow into",
+       "correct": false
+      },
+      {
+       "text": "B) hit, shake, or scrape",
+       "correct": true
+      },
+      {
+       "text": "C) bow with a string",
+       "correct": false
+      },
+      {
+       "text": "D) plug into a wall",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which one is PITCHED percussion that can play real notes?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Snare drum",
+       "correct": false
+      },
+      {
+       "text": "B) Cymbals",
+       "correct": false
+      },
+      {
+       "text": "C) Xylophone",
+       "correct": true
+      },
+      {
+       "text": "D) Bass drum",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which one is UNPITCHED percussion that just makes a sound?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Snare drum",
+       "correct": true
+      },
+      {
+       "text": "B) Xylophone",
+       "correct": false
+      },
+      {
+       "text": "C) Marimba",
+       "correct": false
+      },
+      {
+       "text": "D) Bells",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A major scale is a row of eight notes that sounds...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) scary and dark",
+       "correct": false
+      },
+      {
+       "text": "B) very quiet",
+       "correct": false
+      },
+      {
+       "text": "C) like one long note",
+       "correct": false
+      },
+      {
+       "text": "D) bright and happy",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The C major scale on a piano uses all the...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) black keys",
+       "correct": false
+      },
+      {
+       "text": "B) white keys",
+       "correct": true
+      },
+      {
+       "text": "C) pedals",
+       "correct": false
+      },
+      {
+       "text": "D) drums",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<p>A snare drum can play a whole tune like Do-Re-Mi.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m33_module_33_reflection",
+   "title": "Module 33 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 33,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Now that you finished Module 33: how is percussion different from the other families? Answer in your own words.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about telling pitched percussion from unpitched percussion and singing a major scale?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Is there anything about percussion or the major scale that still feels fuzzy or tricky? Tell us so we can help.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can tell pitched percussion from unpitched percussion.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I sang a major scale going up.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Singing a whole scale and getting every note right takes perseverance, which means to keep trying even when something is hard. Tell about a moment this week when you kept trying until you got it.</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m34_module_34_quick_check",
+   "title": "Module 34 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 34,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>How many beats does a quarter note get in 4/4 time?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) half a beat",
+       "correct": false
+      },
+      {
+       "text": "B) 1 beat",
+       "correct": true
+      },
+      {
+       "text": "C) 2 beats",
+       "correct": false
+      },
+      {
+       "text": "D) 4 beats",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which note value lasts the longest?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Eighth note",
+       "correct": false
+      },
+      {
+       "text": "B) Quarter note",
+       "correct": false
+      },
+      {
+       "text": "C) Half note",
+       "correct": false
+      },
+      {
+       "text": "D) Whole note",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A rest in music tells you to...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) play louder",
+       "correct": false
+      },
+      {
+       "text": "B) be silent",
+       "correct": true
+      },
+      {
+       "text": "C) play higher",
+       "correct": false
+      },
+      {
+       "text": "D) speed up",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a 4/4 time signature, how many beats are in each measure?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) 2",
+       "correct": false
+      },
+      {
+       "text": "B) 3",
+       "correct": false
+      },
+      {
+       "text": "C) 4",
+       "correct": true
+      },
+      {
+       "text": "D) 8",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The lines of the treble clef, from bottom to top, are E, G, B, D, F. Which saying helps you remember them?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Every Good Boy Does Fine",
+       "correct": true
+      },
+      {
+       "text": "B) Face the music",
+       "correct": false
+      },
+      {
+       "text": "C) All Cows Eat Grass",
+       "correct": false
+      },
+      {
+       "text": "D) Good Boys Do Fine Always",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The four spaces of the treble clef spell which word?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) BEAD",
+       "correct": false
+      },
+      {
+       "text": "B) CAGE",
+       "correct": false
+      },
+      {
+       "text": "C) DEAF",
+       "correct": false
+      },
+      {
+       "text": "D) FACE",
+       "correct": true
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m34_module_34_reflection",
+   "title": "Module 34 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 34,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Now that you finished your first review week: what part of music do you understand best now? Answer in your own words.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about rhythm, note values, and reading the treble clef staff?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Is there one part of this week's review that still feels fuzzy or tricky? Tell us what it is so we can help.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can name the note values (whole, half, quarter, eighth) and the beats each one gets.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can name the lines and spaces of the treble clef staff.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Reviewing on your own takes self-government, which means guiding yourself to do the work even when no one is watching. Tell how you guided yourself to review this week. What helped you stay on track?</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m35_module_35_quick_check",
+   "title": "Module 35 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 35,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which word means the tune you can hum or sing?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Rhythm",
+       "correct": false
+      },
+      {
+       "text": "B) Melody",
+       "correct": true
+      },
+      {
+       "text": "C) Harmony",
+       "correct": false
+      },
+      {
+       "text": "D) Tone",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What do dynamics tell us in music?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) The name of the song",
+       "correct": false
+      },
+      {
+       "text": "B) Who wrote the music",
+       "correct": false
+      },
+      {
+       "text": "C) How long the music is",
+       "correct": false
+      },
+      {
+       "text": "D) How loud or soft to play",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A crescendo means the music...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Slowly gets louder",
+       "correct": true
+      },
+      {
+       "text": "B) Stops",
+       "correct": false
+      },
+      {
+       "text": "C) Gets softer",
+       "correct": false
+      },
+      {
+       "text": "D) Gets faster",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which composer kept writing music even when he could not hear well?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Vivaldi",
+       "correct": false
+      },
+      {
+       "text": "B) Louis Armstrong",
+       "correct": false
+      },
+      {
+       "text": "C) Beethoven",
+       "correct": true
+      },
+      {
+       "text": "D) Dave Brubeck",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>On the treble clef, the space notes from bottom to top spell which word?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) EGBDF",
+       "correct": false
+      },
+      {
+       "text": "B) FACE",
+       "correct": true
+      },
+      {
+       "text": "C) DOG",
+       "correct": false
+      },
+      {
+       "text": "D) BEAD",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<p>Rhythm, melody, harmony, and tone are all parts of music.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m35_module_35_reflection",
+   "title": "Module 35 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 35,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Now that you finished Module 35: which musician or music idea will you remember most, and why? Answer in your own words.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about the parts of music, music symbols, and the composers you met?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Is there anything from this review week that still feels fuzzy or hard to remember? Tell us what, so we can help.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can name some parts of music, like rhythm, melody, harmony, and tone.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can remember some composers or musicians I met this year.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Reviewing and remembering what you learned takes responsibility. Tell one way you took responsibility for your own learning this week.</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m36_module_36_quick_check",
+   "title": "Module 36 Quick Check",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_assignments",
+   "published": true,
+   "week": 36,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>How many instrument families are there in an orchestra?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Two",
+       "correct": false
+      },
+      {
+       "text": "B) Three",
+       "correct": false
+      },
+      {
+       "text": "C) Four",
+       "correct": true
+      },
+      {
+       "text": "D) Ten",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A drum belongs to which instrument family?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Percussion",
+       "correct": true
+      },
+      {
+       "text": "B) Strings",
+       "correct": false
+      },
+      {
+       "text": "C) Brass",
+       "correct": false
+      },
+      {
+       "text": "D) Woodwinds",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A sad-sounding tune in music is called...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Major",
+       "correct": false
+      },
+      {
+       "text": "B) Sharp",
+       "correct": false
+      },
+      {
+       "text": "C) Minor",
+       "correct": true
+      },
+      {
+       "text": "D) Loud",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which accidental makes a note a little lower?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Sharp",
+       "correct": false
+      },
+      {
+       "text": "B) Natural",
+       "correct": false
+      },
+      {
+       "text": "C) Beat",
+       "correct": false
+      },
+      {
+       "text": "D) Flat",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<p>A natural sign takes away a sharp or a flat and brings the note back to plain.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does a conductor do?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A) Plays the drums",
+       "correct": false
+      },
+      {
+       "text": "B) Leads the music and shows the beat",
+       "correct": true
+      },
+      {
+       "text": "C) Writes the words",
+       "correct": false
+      },
+      {
+       "text": "D) Sells the tickets",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m36_module_36_reflection",
+   "title": "Module 36 Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 36,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>This was your last big review of the year. What is one music idea you feel proud to know now? Answer in your own words.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How sure do you feel about the four instrument families, happy and sad sounds, accidentals, and conducting?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "I've got it!",
+       "correct": false
+      },
+      {
+       "text": "Almost there",
+       "correct": false
+      },
+      {
+       "text": "I need more practice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Is there one topic from this week that still feels fuzzy to you? Tell which one, so your teacher can help.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can name the four instrument families.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can tell when music sounds happy (major) or sad (minor).</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Being a good music listener means showing courtesy: we listen quietly and clap when someone shares their music. Tell about a time you showed courtesy while someone played or sang.</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  },
+  {
+   "id": "q_m37_year_end_reflection",
+   "title": "Year-End Reflection",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": null,
+   "published": true,
+   "week": 37,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Think back to the very beginning of the year. What is something about music you understand now that you did not understand back then?</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How do you feel as a music scholar now?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Great! I learned so much.",
+       "correct": false
+      },
+      {
+       "text": "Pretty good.",
+       "correct": false
+      },
+      {
+       "text": "I want to keep practicing.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>What was your favorite thing we learned this year? (An instrument, a composer, a song, a music word, anything!)</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can name instruments from the four families (strings, woodwinds, brass, percussion).</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can read notes on the treble clef staff.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I can hear feelings in music (loud/soft, fast/slow, happy/sad).</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false
+      },
+      {
+       "text": "Getting there",
+       "correct": false
+      },
+      {
+       "text": "Not yet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>You worked hard all year long, which takes perseverance. What are you most proud of learning in music this year?</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "essay",
+     "text": "<p>Leave a short message about your year in music class. This is your final check-in for the year. Have a wonderful summer, music scholar!</p>",
+     "points": 0.0,
+     "answers": []
+    }
+   ],
+   "description": ""
+  }
+ ],
+ "discussions": [],
+ "files": [
+  {
+   "path": "Teacher Resources/MI1_Syllabus_TEACHER-EDITABLE_2026-2027.docx",
+   "src": "files/MI1_Syllabus_TEACHER-EDITABLE_2026-2027.docx"
+  }
+ ],
+ "modules": [
+  {
+   "id": "m_19",
+   "title": "Module 19: Music Reading Review",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m19_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m19_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m19_module_19_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m19_annotate_or_sing",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m19_module_19_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_20",
+   "title": "Module 20: Memorizing Rhythmic Notation",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m20_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m20_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m20_module_20_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m20_rhythmic_reading",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m20_module_20_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_21",
+   "title": "Module 21: K-Pop and Music Reading",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m21_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m21_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m21_module_21_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m21_k_pop_and_note_reading_challenge",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m21_module_21_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_22",
+   "title": "Module 22: Marking the Beat",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m22_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m22_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m22_module_22_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m22_conducting_performance",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m22_module_22_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_23",
+   "title": "Module 23: Beating Patterns Practice",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m23_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m23_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m23_module_23_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m23_module_23_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_24",
+   "title": "Module 24: The Strings",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m24_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m24_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m24_module_24_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m24_strings_vivaldi_and_time_signatures",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m24_module_24_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_25",
+   "title": "Module 25: The Strings, Part II",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m25_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m25_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m25_module_25_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m25_violin_and_viola",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m25_module_25_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_26",
+   "title": "Module 26: The Strings, Part III",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m26_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m26_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m26_module_26_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m26_cello_and_double_bass",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m26_module_26_reflection",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m26_bonus_gaudeamus_igitur",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_27",
+   "title": "Module 27: Woodwinds I (Q3 Live VR Experience)",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m27_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m27_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m27_module_27_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m27_flute_oboe_and_prokofiev",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m27_quarter_3_live_vr_experience",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m27_module_27_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_28",
+   "title": "Module 28: Woodwinds II",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m28_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m28_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m28_module_28_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m28_clarinet_bassoon_and_intervals",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m28_module_28_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_29",
+   "title": "Module 29: Brass Family I: Trumpet and Accidentals",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m29_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m29_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m29_module_29_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m29_brass_and_accidentals",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m29_module_29_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_30",
+   "title": "Module 30: Brass Instruments II",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m30_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m30_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m30_module_30_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m30_french_horn_and_accidentals",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m30_module_30_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_31",
+   "title": "Module 31: Brass Instruments III",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m31_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m31_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m31_module_31_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m31_trombone_and_reading_with_accidentals",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m31_module_31_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_32",
+   "title": "Module 32: Tuba & Ear Training",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m32_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m32_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m32_module_32_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m32_tuba_and_ear_training",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m32_module_32_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_33",
+   "title": "Module 33: Percussion & Major Scales",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m33_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m33_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m33_module_33_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m33_percussion_and_major_scales",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m33_module_33_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_34",
+   "title": "Module 34: Music Review Part 1",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m34_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m34_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m34_module_34_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m34_music_review_reflection_part_1",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m34_module_34_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_35",
+   "title": "Module 35: Music Review Part 2",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m35_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m35_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m35_module_35_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m35_music_review_reflection_part_2",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m35_module_35_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_36",
+   "title": "Module 36: Music Review Part 3",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m36_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m36_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m36_module_36_quick_check",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m36_music_review_reflection_part_3",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m36_module_36_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_37",
+   "title": "Module 37: Final Music Review (Q4 Live VR Experience)",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_m37_map",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m37_lesson",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m37_year_end_music_showcase",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m37_quarter_4_live_vr_experience",
+     "published": true,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m37_year_end_reflection",
+     "published": true,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_teacher",
+   "title": "Teacher Resources",
+   "published": false,
+   "sequential": false,
+   "items": [
+    {
+     "type": "file",
+     "ref": "Teacher Resources/MI1_Syllabus_TEACHER-EDITABLE_2026-2027.docx",
+     "published": false
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Built 2026-09-30 by assemble.py from 03Music Intermediate1\\04_Final\\Semester 2\\_S2_KIT_MANIFEST.json (module maps, lesson pages, .md quiz/survey specs). Pages, assignments and discussions are iframes to GitHub Pages repo optimaondemand/mj-music-intermediate-1-s2. Groups and item title patterns follow S1 Canvas course (Music 1 (3rd Grade) Sem 1). Graded quizzes do not show correct answers."
+ }
+}
