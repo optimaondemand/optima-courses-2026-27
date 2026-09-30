@@ -4,11 +4,11 @@
  "code": "0701320",
  "title": "French 1 Sem 2",
  "file": "cartridges/0701320-s2.imscc",
- "bytes": 423019,
- "version": "2026.09.29",
- "built": "2026-09-29T09:39:18",
+ "bytes": 428659,
+ "version": "2026.09.30",
+ "built": "2026-09-30T17:34:22",
  "front_page": "wiki_content/course-home.html",
- "items": 143,
+ "items": 152,
  "modules": [
   {
    "id": "mod_start",
@@ -23,7 +23,7 @@
    "title": "Module 1",
    "gid": "g98f2cb35273675cacdd9aaa00c0e9d43",
    "published": true,
-   "items": 15,
+   "items": 16,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -31,7 +31,7 @@
    "title": "Module 2",
    "gid": "g3604bf144a57b944018ad34268191526",
    "published": true,
-   "items": 15,
+   "items": 16,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -39,7 +39,7 @@
    "title": "Module 3",
    "gid": "g90358f9345d41f07d9fed9bc5b438f37",
    "published": true,
-   "items": 15,
+   "items": 16,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -47,7 +47,7 @@
    "title": "Module 4",
    "gid": "gafa245e4f316e5b2e5f1e520dbbab0cb",
    "published": true,
-   "items": 15,
+   "items": 16,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -55,7 +55,7 @@
    "title": "Module 5",
    "gid": "gbf7881db66188147254d480d3e15f88a",
    "published": true,
-   "items": 15,
+   "items": 16,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -63,7 +63,7 @@
    "title": "Module 6",
    "gid": "g5c8d1a4a492d3915b6d81415ba20efc4",
    "published": true,
-   "items": 15,
+   "items": 16,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -71,7 +71,7 @@
    "title": "Module 7",
    "gid": "g3e70fad6bc10c01138241f1182bdfb44",
    "published": true,
-   "items": 15,
+   "items": 16,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -79,7 +79,7 @@
    "title": "Module 8",
    "gid": "g3ae9a5f9cced146fc56e224d98a2a5ba",
    "published": true,
-   "items": 15,
+   "items": 16,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -87,7 +87,7 @@
    "title": "Module 9",
    "gid": "gafe37a1d890a8f8ef07c7aef28fb6def",
    "published": true,
-   "items": 15,
+   "items": 16,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -108,13 +108,13 @@
   }
  ],
  "counts": {
-  "pages": 106,
+  "pages": 115,
   "assignments": 9,
   "quizzes": 29,
   "discussions": 0,
   "files": 0,
   "modules": 12,
-  "items": 143
+  "items": 152
  },
  "weights": [
   {
@@ -907,22 +907,22 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 174,
+   "resources": 183,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 39,
-    "webcontent": 106,
+    "webcontent": 115,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 29
    },
-   "organization_items": 143,
+   "organization_items": 152,
    "modules": 12,
-   "module_items": 143,
+   "module_items": 152,
    "module_item_types": {
-    "WikiPage": 105,
+    "WikiPage": 114,
     "Quizzes::Quiz": 29,
     "Assignment": 9
    },
    "default_view": "wiki",
-   "pages": 106,
+   "pages": 115,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 6,
    "group_refs": 67,
@@ -934,6 +934,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "70acf8b48941b24888768ad0795369cc5d8be6306f76347185e18bb91551ec05",
+ "spec_sha": "f3dc41f9e0eee6794d4cada64e720dddea4513f290047e21050d306065033dba",
  "art_pack": null
 }
