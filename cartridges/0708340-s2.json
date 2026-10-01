@@ -4,11 +4,11 @@
  "code": "0708340",
  "title": "Spanish 1 Sem 2",
  "file": "cartridges/0708340-s2.imscc",
- "bytes": 458200,
+ "bytes": 464375,
  "version": "2026.10.01",
- "built": "2026-10-01T16:34:07",
+ "built": "2026-10-01T17:58:24",
  "front_page": "wiki_content/course-home.html",
- "items": 157,
+ "items": 166,
  "modules": [
   {
    "id": "mod_start",
@@ -23,7 +23,7 @@
    "title": "Module 1 — El tiempo y los planes",
    "gid": "g57b2907727f485634158a4211e08a954",
    "published": true,
-   "items": 17,
+   "items": 18,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -31,7 +31,7 @@
    "title": "Module 2 — La casa",
    "gid": "gac0b1ad5ae7fb444ffbfae00c5b58df2",
    "published": true,
-   "items": 17,
+   "items": 18,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -39,7 +39,7 @@
    "title": "Module 3 — La ciudad",
    "gid": "gd330d0ff1e0d0ff6da1bb3fe6b4caa16",
    "published": true,
-   "items": 17,
+   "items": 18,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -47,7 +47,7 @@
    "title": "Module 4 — La rutina diaria",
    "gid": "gba771be5cc9b105fc0b735fa8acf12a0",
    "published": true,
-   "items": 17,
+   "items": 18,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -55,7 +55,7 @@
    "title": "Module 5 — La comida",
    "gid": "gc78330996d4d7a0c14efd54c96d236c5",
    "published": true,
-   "items": 17,
+   "items": 18,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -63,7 +63,7 @@
    "title": "Module 6 — ¿Qué hiciste?",
    "gid": "g254f9e9f031454c9f3a64741dc62c6cb",
    "published": true,
-   "items": 17,
+   "items": 18,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -71,7 +71,7 @@
    "title": "Module 7 — De viaje",
    "gid": "g5f0400ed96f894a03bd05d3c07cbed33",
    "published": true,
-   "items": 17,
+   "items": 18,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -79,7 +79,7 @@
    "title": "Module 8 — La música y las fiestas",
    "gid": "ge75d94e29d58a6937ba30280bc57c9de",
    "published": true,
-   "items": 17,
+   "items": 18,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -87,7 +87,7 @@
    "title": "Module 9 — Mi experiencia · capstone",
    "gid": "g1286f02c4e13da6ef18a2b33a2ca05f0",
    "published": true,
-   "items": 18,
+   "items": 19,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -100,13 +100,13 @@
   }
  ],
  "counts": {
-  "pages": 103,
+  "pages": 112,
   "assignments": 9,
   "quizzes": 46,
   "discussions": 0,
   "files": 0,
   "modules": 11,
-  "items": 157
+  "items": 166
  },
  "weights": [
   {
@@ -1222,22 +1222,22 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 205,
+   "resources": 214,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 56,
-    "webcontent": 103,
+    "webcontent": 112,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 46
    },
-   "organization_items": 157,
+   "organization_items": 166,
    "modules": 11,
-   "module_items": 157,
+   "module_items": 166,
    "module_item_types": {
-    "WikiPage": 102,
+    "WikiPage": 111,
     "Quizzes::Quiz": 46,
     "Assignment": 9
    },
    "default_view": "wiki",
-   "pages": 103,
+   "pages": 112,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 6,
    "group_refs": 65,
@@ -1249,6 +1249,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "0017e2f15383156bff2d5f2e2581b484946d5c971228a4c24162c3d46b5eb7c2",
+ "spec_sha": "0f3a43fcd26ee6074be2b8dfcb02df1e5d016630c214094245889e6180a77884",
  "art_pack": null
 }
