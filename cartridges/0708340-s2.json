@@ -4,15 +4,15 @@
  "code": "0708340",
  "title": "Spanish 1 Sem 2",
  "file": "cartridges/0708340-s2.imscc",
- "bytes": 457195,
+ "bytes": 457360,
  "version": "2026.10.01",
- "built": "2026-10-01T16:10:49",
+ "built": "2026-10-01T16:16:51",
  "front_page": "wiki_content/course-home.html",
  "items": 156,
  "modules": [
   {
    "id": "mod_m01",
-   "title": "Module 1",
+   "title": "Module 1 — El tiempo y los planes",
    "gid": "g57b2907727f485634158a4211e08a954",
    "published": true,
    "items": 17,
@@ -20,7 +20,7 @@
   },
   {
    "id": "mod_m02",
-   "title": "Module 2",
+   "title": "Module 2 — La casa",
    "gid": "gac0b1ad5ae7fb444ffbfae00c5b58df2",
    "published": true,
    "items": 17,
@@ -28,7 +28,7 @@
   },
   {
    "id": "mod_m03",
-   "title": "Module 3",
+   "title": "Module 3 — La ciudad",
    "gid": "gd330d0ff1e0d0ff6da1bb3fe6b4caa16",
    "published": true,
    "items": 17,
@@ -36,7 +36,7 @@
   },
   {
    "id": "mod_m04",
-   "title": "Module 4",
+   "title": "Module 4 — La rutina diaria",
    "gid": "gba771be5cc9b105fc0b735fa8acf12a0",
    "published": true,
    "items": 17,
@@ -44,7 +44,7 @@
   },
   {
    "id": "mod_m05",
-   "title": "Module 5",
+   "title": "Module 5 — La comida",
    "gid": "gc78330996d4d7a0c14efd54c96d236c5",
    "published": true,
    "items": 17,
@@ -52,7 +52,7 @@
   },
   {
    "id": "mod_m06",
-   "title": "Module 6",
+   "title": "Module 6 — ¿Qué hiciste?",
    "gid": "g254f9e9f031454c9f3a64741dc62c6cb",
    "published": true,
    "items": 17,
@@ -60,7 +60,7 @@
   },
   {
    "id": "mod_m07",
-   "title": "Module 7",
+   "title": "Module 7 — De viaje",
    "gid": "g5f0400ed96f894a03bd05d3c07cbed33",
    "published": true,
    "items": 17,
@@ -68,7 +68,7 @@
   },
   {
    "id": "mod_m08",
-   "title": "Module 8",
+   "title": "Module 8 — La música y las fiestas",
    "gid": "ge75d94e29d58a6937ba30280bc57c9de",
    "published": true,
    "items": 17,
@@ -76,7 +76,7 @@
   },
   {
    "id": "mod_m09",
-   "title": "Module 9",
+   "title": "Module 9 — Mi experiencia · capstone",
    "gid": "g1286f02c4e13da6ef18a2b33a2ca05f0",
    "published": true,
    "items": 18,
@@ -1241,6 +1241,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "f75966b7782a1c962b8820f60d6bbd2873f2c6f239c660e1bc924b1a213d14a3",
+ "spec_sha": "b8325ec522aec2fd33c039b40303cad5b644e3e67d3b65f1678d49a44c3c527a",
  "art_pack": null
 }
