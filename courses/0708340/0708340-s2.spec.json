@@ -671,6 +671,11 @@
  ],
  "pages": [
   {
+   "id": "p_syllabus",
+   "title": "Syllabus — Semester 2",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/course-level/syllabus-s2.html\" style=\"width:100%;height:2600px;border:0\" title=\"Syllabus\"></iframe></p>"
+  },
+  {
    "id": "p_m01_vocab",
    "title": "Vocabulario — Module 1",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m01/vocabulario-m01.html\" style=\"width:100%;height:1900px;border:0\" title=\"Vocabulario\"></iframe></p>"
@@ -12793,6 +12798,18 @@
   }
  ],
  "modules": [
+  {
+   "id": "mod_start",
+   "title": "Start Here",
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_syllabus",
+     "week": 1,
+     "completion": "must_view"
+    }
+   ]
+  },
   {
    "id": "mod_m01",
    "title": "Module 1 — El tiempo y los planes",

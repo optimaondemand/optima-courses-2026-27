@@ -4,12 +4,20 @@
  "code": "0708340",
  "title": "Spanish 1 Sem 2",
  "file": "cartridges/0708340-s2.imscc",
- "bytes": 457360,
+ "bytes": 458200,
  "version": "2026.10.01",
- "built": "2026-10-01T16:16:51",
+ "built": "2026-10-01T16:34:07",
  "front_page": "wiki_content/course-home.html",
- "items": 156,
+ "items": 157,
  "modules": [
+  {
+   "id": "mod_start",
+   "title": "Start Here",
+   "gid": "g229b5dd520131c9eb81af303253b4451",
+   "published": true,
+   "items": 1,
+   "xml": "course_settings/module_meta.xml"
+  },
   {
    "id": "mod_m01",
    "title": "Module 1 — El tiempo y los planes",
@@ -92,13 +100,13 @@
   }
  ],
  "counts": {
-  "pages": 102,
+  "pages": 103,
   "assignments": 9,
   "quizzes": 46,
   "discussions": 0,
   "files": 0,
-  "modules": 10,
-  "items": 156
+  "modules": 11,
+  "items": 157
  },
  "weights": [
   {
@@ -1214,22 +1222,22 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 204,
+   "resources": 205,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 56,
-    "webcontent": 102,
+    "webcontent": 103,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 46
    },
-   "organization_items": 156,
-   "modules": 10,
-   "module_items": 156,
+   "organization_items": 157,
+   "modules": 11,
+   "module_items": 157,
    "module_item_types": {
+    "WikiPage": 102,
     "Quizzes::Quiz": 46,
-    "WikiPage": 101,
     "Assignment": 9
    },
    "default_view": "wiki",
-   "pages": 102,
+   "pages": 103,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 6,
    "group_refs": 65,
@@ -1241,6 +1249,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "b8325ec522aec2fd33c039b40303cad5b644e3e67d3b65f1678d49a44c3c527a",
+ "spec_sha": "0017e2f15383156bff2d5f2e2581b484946d5c971228a4c24162c3d46b5eb7c2",
  "art_pack": null
 }
