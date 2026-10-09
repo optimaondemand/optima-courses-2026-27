@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Chemistry I Honors &mdash; Course Syllabus</title>
+<style>
+  :root {
+    --navy: #0E1C42;
+    --cyan: #55C8E8;
+    --cyan-dk: #1B6A94;
+    --gold: #C7922C;
+    --paper: #ffffff;
+    --wash: #f4f6fa;
+    --line: #D0D9E8;
+    --ink: #1a2340;
+    --muted: #6b7a99;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 0; font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: var(--wash); color: var(--ink); line-height: 1.55; }
+  .sheet { max-width: 900px; margin: 0 auto; background: var(--paper); box-shadow: 0 2px 10px rgba(0,0,0,0.08); }
+
+  /* ---- Editing banner (teachers delete this before printing) ---- */
+  .edit-banner { background: #E8F6FB; border-bottom: 3px solid var(--cyan-dk); padding: 16px 34px; font-size: 13.5px; color: #123; }
+  .edit-banner h2 { margin: 0 0 6px; font-size: 15px; color: var(--navy); }
+  .edit-banner ul { margin: 6px 0 0; padding-left: 20px; }
+  .edit-banner li { margin: 3px 0; }
+  .edit-banner code { background: #fff; border: 1px solid var(--line); border-radius: 3px; padding: 1px 5px; font-size: 12.5px; }
+
+  /* ---- Editable field highlight ---- */
+  .fill { background: #FFF3CD; border-bottom: 1.5px dashed var(--gold); padding: 0 4px; border-radius: 2px; }
+
+  /* ---- Header ---- */
+  header.hero { background: var(--navy); border-bottom: 5px solid var(--cyan); padding: 26px 34px; }
+  .brandline { display: flex; align-items: center; gap: 14px; margin-bottom: 14px; }
+  .brandmark { width: 52px; height: 52px; border-radius: 50%; background: #fff; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+  .brandmark img { width: 50px; height: 40px; object-fit: contain; }
+  .brandname { font-size: 22px; color: #fff; line-height: 1.15; }
+  .brandsub { font-size: 12px; color: var(--cyan); }
+  .hero-row { display: flex; justify-content: space-between; align-items: flex-end; gap: 20px; flex-wrap: wrap; }
+  .hero h1 { font-size: 32px; color: #fff; margin: 4px 0 4px; line-height: 1.1; }
+  .hero .kick { font-size: 13px; color: var(--cyan); letter-spacing: 0.5px; text-transform: uppercase; }
+  .hero .tagline { font-size: 14px; color: #cdd7ea; margin-top: 4px; }
+  .pill { background: var(--gold); color: #2a1c00; font-size: 13px; font-weight: 600; padding: 8px 16px; border-radius: 20px; white-space: nowrap; }
+
+  /* ---- Info grid ---- */
+  .infogrid { display: grid; grid-template-columns: 1fr 1fr; gap: 0; background: #eef2f8; border-bottom: 2px solid var(--line); }
+  .infocell { padding: 12px 20px; border-bottom: 1px solid var(--line); }
+  .infocell:nth-child(odd) { border-right: 1px solid var(--line); }
+  .infolabel { font-size: 10.5px; color: var(--cyan-dk); letter-spacing: 0.6px; text-transform: uppercase; margin-bottom: 3px; }
+  .infoval { font-size: 15px; color: var(--navy); }
+
+  /* ---- Body ---- */
+  .body { padding: 8px 34px 34px; }
+  section { margin-top: 26px; }
+  h2.sec { font-size: 18px; color: var(--navy); text-transform: uppercase; letter-spacing: 0.5px; border-left: 4px solid var(--cyan); padding-left: 12px; margin: 0 0 12px; }
+  p { margin: 0 0 12px; font-size: 15px; }
+  .note { background: #FDF6E7; border: 1px solid #EAD9A8; border-radius: 6px; padding: 14px 18px; font-size: 14px; }
+  .note strong { color: var(--gold); }
+
+  ul.learn { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 8px 26px; }
+  ul.learn li { position: relative; padding-left: 20px; font-size: 14.5px; }
+  ul.learn li::before { content: ""; position: absolute; left: 0; top: 8px; width: 8px; height: 8px; border-radius: 50%; background: var(--cyan); }
+
+  table.tbl { width: 100%; border-collapse: collapse; font-size: 14px; }
+  table.tbl th { background: var(--navy); color: #fff; text-align: left; padding: 10px 12px; font-size: 12px; text-transform: uppercase; letter-spacing: 0.4px; }
+  table.tbl td { padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  table.tbl tr:nth-child(even) td { background: #f7f9fc; }
+  table.tbl .place { color: var(--cyan-dk); font-weight: 600; }
+  table.tbl .item { color: var(--navy); font-weight: 600; }
+
+  .stats { display: flex; gap: 14px; flex-wrap: wrap; }
+  .stat { flex: 1; min-width: 170px; background: #f7f9fc; border-top: 3px solid var(--gold); border-radius: 4px; padding: 14px 16px; }
+  .stat .pct { font-size: 26px; font-weight: 700; color: var(--navy); }
+  .stat .lbl { font-size: 13px; color: var(--ink); margin-top: 2px; }
+
+  .panel { background: #f7f9fc; border: 1px solid var(--line); border-radius: 8px; padding: 18px 20px; margin-top: 14px; }
+  .panel h3 { margin: 0 0 8px; font-size: 16px; color: var(--navy); }
+  .callout { display: flex; gap: 12px; align-items: flex-start; background: #E8F6FB; border-left: 4px solid var(--cyan-dk); border-radius: 4px; padding: 12px 16px; margin-top: 12px; font-size: 14px; }
+  .callout .ic { font-size: 20px; line-height: 1; }
+
+  .checks { list-style: none; padding: 0; margin: 0; }
+  .checks li { position: relative; padding-left: 30px; margin: 8px 0; font-size: 15px; }
+  .checks li::before { content: "\2713"; position: absolute; left: 0; top: 0; width: 20px; height: 20px; background: var(--cyan); color: #fff; border-radius: 4px; text-align: center; line-height: 20px; font-size: 13px; font-weight: 700; }
+
+  footer.foot { background: var(--navy); color: #9fb0cf; font-size: 12px; text-align: center; padding: 18px 34px; border-top: 4px solid var(--cyan); }
+  footer.foot a { color: var(--cyan); text-decoration: none; }
+
+  @media print {
+    body { background: #fff; }
+    .sheet { box-shadow: none; max-width: none; }
+    .edit-banner { display: none; }
+    .fill { background: transparent; border-bottom: none; padding: 0; }
+    section { break-inside: avoid; }
+  }
+  @media (max-width: 640px) {
+    .infogrid, ul.learn { grid-template-columns: 1fr; }
+    .infocell:nth-child(odd) { border-right: none; }
+  }
+</style>
+</head>
+<body>
+<div class="sheet">
+
+  <!-- ============================================================= -->
+  <!-- EDITING BANNER — teachers: read this, then DELETE before use  -->
+  <!-- ============================================================= -->
+  <div class="edit-banner">
+    <h2>How to customize this syllabus (no coding needed)</h2>
+    <p style="margin:0 0 8px;">This is the shared master syllabus for Chemistry I Honors. Make it yours in a few minutes &mdash; you do not need any special software.</p>
+    <ul>
+      <li><strong>To edit:</strong> open this file in <strong>Microsoft Word</strong> (File &rsaquo; Open &rsaquo; choose this <code>.html</code> file) <em>or</em> right-click &rsaquo; Open with &rsaquo; Notepad.</li>
+      <li>Every <span class="fill">highlighted yellow field</span> is a blank for you to fill in &mdash; your name, email, office hours, and your section's calendar. Replace the bracketed text; keep the rest.</li>
+      <li>If you would rather not add personal details, you can leave the defaults ("posted in Canvas") &mdash; the syllabus still works as written.</li>
+      <li><strong>To share with scholars:</strong> open the file in a web browser and use <strong>Print &rsaquo; Save as PDF</strong>, or paste the content into your Canvas Syllabus page.</li>
+      <li><strong>Delete this blue box</strong> before you publish. It is a note to you, not to scholars.</li>
+    </ul>
+  </div>
+
+  <!-- ============================== HEADER ============================== -->
+  <header class="hero">
+    <div class="brandline">
+      <div class="brandmark"><img src="https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png" alt="Optima Academy Online" /></div>
+      <div>
+        <div class="brandname">Optima Academy Online</div>
+        <div class="brandsub">An Education Experience Company</div>
+      </div>
+    </div>
+    <div class="hero-row">
+      <div class="hero">
+        <div class="kick">Course Syllabus</div>
+        <h1>Chemistry I Honors</h1>
+        <div class="tagline">How do humans investigate, understand, and explain the behavior of matter?</div>
+      </div>
+      <div class="pill">Full Year &middot; Grades 10&ndash;12</div>
+    </div>
+  </header>
+
+  <!-- ============================== INFO GRID ============================== -->
+  <div class="infogrid">
+    <div class="infocell">
+      <div class="infolabel">Facilitator</div>
+      <div class="infoval"><span class="fill">[Your name &mdash; or leave "Optima Academy Online Faculty"]</span></div>
+    </div>
+    <div class="infocell">
+      <div class="infolabel">Email &amp; Office</div>
+      <div class="infoval"><span class="fill">[your email]</span> &middot; 239.673.2801 (OAO Front Office)</div>
+    </div>
+    <div class="infocell">
+      <div class="infolabel">Florida Course</div>
+      <div class="infoval">Florida 2003350 &middot; 1.0 credit</div>
+    </div>
+    <div class="infocell">
+      <div class="infolabel">Office Hours</div>
+      <div class="infoval"><span class="fill">[days/times &mdash; or "posted in Canvas"]</span></div>
+    </div>
+    <div class="infocell">
+      <div class="infolabel">Grade Level / Prerequisite</div>
+      <div class="infoval">Grades 10&ndash;12 &middot; Biology</div>
+    </div>
+    <div class="infocell">
+      <div class="infolabel">Format</div>
+      <div class="infoval">On-Demand (also offered live on the VR campus)</div>
+    </div>
+  </div>
+
+  <div class="body">
+
+    <div class="note" style="margin-top:22px;">
+      <strong>About this syllabus.</strong> This is the plan for the course as designed &mdash; a full-year honors chemistry course built as nine modules plus a Getting Started module. On-Demand scholars pace through the modules across the four quarters of their enrolled year. On-Demand and live sections share the same content and expectations; exact pacing, scheduled dates, and a few activities may vary from section to section and term to term. Your facilitator confirms the specifics for your section.
+    </div>
+
+    <!-- ============================== OVERVIEW ============================== -->
+    <section>
+      <h2 class="sec">Course Overview</h2>
+      <p>Chemistry I Honors treats chemistry not as a list of facts and formulas but as a centuries-long investigation into the nature of matter, energy, and change. Across nine modules, scholars retrace and extend the same questions that challenged Democritus, Boyle, Lavoisier, Dalton, Mendeleev, the Curies, Rutherford, and Bohr &mdash; and connect them to research happening right now. The work is genuinely quantitative: <strong>every week scholars do real chemistry</strong>, calculating, analyzing data, interpreting models, and working problems, not just reading.</p>
+      <p>The year moves from <em>what matter is</em> (structure, atoms, the periodic table) to <em>why it changes</em> (bonding and reactions), to <em>how change is measured</em> (stoichiometry, gases, energy, solutions), to <em>how chemistry shapes our world</em> (equilibrium, acids and bases, electrochemistry, and nuclear chemistry). Each module pairs short interactive lessons with hands-on quantitative assignments, an immersive activity on Optima's VR campus, and a cumulative project scholars build and explain in their own words.</p>
+    </section>
+
+    <!-- ============================== OUTCOMES ============================== -->
+    <section>
+      <h2 class="sec">What Scholars Will Learn to Do</h2>
+      <ul class="learn">
+        <li>Measure and calculate with precision &mdash; SI units, significant figures, and dimensional analysis.</li>
+        <li>Explain the structure of the atom and how the atomic model changed as evidence accumulated.</li>
+        <li>Use the periodic table to predict properties and trends from electron arrangement.</li>
+        <li>Model how atoms bond and predict molecular shape and polarity.</li>
+        <li>Write and balance chemical equations and reason with the mole and conservation of mass.</li>
+        <li>Solve stoichiometry, molarity, gas-law, and calorimetry problems from data.</li>
+        <li>Relate intermolecular forces to the properties of liquids, solids, and solutions.</li>
+        <li>Apply equilibrium, Le Ch&acirc;telier's principle, and pH to real chemical systems.</li>
+        <li>Analyze redox, electrochemical cells, reaction rates, and nuclear change.</li>
+        <li>Argue from evidence &mdash; writing clear Claim&ndash;Evidence&ndash;Reasoning responses and lab reports.</li>
+      </ul>
+    </section>
+
+    <!-- ============================== PROJECTS ============================== -->
+    <section>
+      <h2 class="sec">Major Work &amp; Milestones</h2>
+      <p>Every module carries two substantial, teacher-reviewed pieces &mdash; a real piece of scientific writing and a cumulative VR project that scholars advance week by week and finish by narrating their own understanding on camera. Two cumulative exams anchor the year. The table shows where each lands; On-Demand scholars pace to their own enrolled term.</p>
+      <table class="tbl">
+        <thead>
+          <tr><th style="width:30%;">Milestone</th><th style="width:22%;">Course Place</th><th>What You Turn In</th></tr>
+        </thead>
+        <tbody>
+          <tr><td class="item">Density Lab Report</td><td class="place">Module 1</td><td>A written investigation of an unknown material's density &mdash; measurement, precision vs. accuracy, and percent error &mdash; produced in Word.</td></tr>
+          <tr><td class="item">"How the Atom Changed" Argument</td><td class="place">Module 2</td><td>An evidence-based argument for how and why the atomic model shifted from Thomson to Rutherford to Bohr.</td></tr>
+          <tr><td class="item">Module VR Project Videos</td><td class="place">Every module</td><td>An in-VR (or non-VR alternate) recording in which you explain and demonstrate the module's chemistry, referencing a 3D build you made.</td></tr>
+          <tr><td class="item">Semester 1 Review &amp; Exam</td><td class="place">After Module 4</td><td>A cumulative checkpoint over Modules 1&ndash;4 (matter, atoms, bonding, reactions &amp; stoichiometry).</td></tr>
+          <tr><td class="item">Le Ch&acirc;telier / Ocean-Acidification CER</td><td class="place">Module 7</td><td>A Claim&ndash;Evidence&ndash;Reasoning response applying equilibrium to a real-world system.</td></tr>
+          <tr><td class="item">"Powering the Future" Battery Argument</td><td class="place">Module 8</td><td>A reasoned argument for a battery/cell chemistry, weighing cell potential, redox behavior, and cost/benefit.</td></tr>
+          <tr><td class="item">Final Review &amp; Exam (course capstone)</td><td class="place">End of Module 9</td><td>A cumulative final emphasizing the second half of the course, closing with a nuclear cost&ndash;benefit question.</td></tr>
+        </tbody>
+      </table>
+      <div class="callout"><span class="ic">&#128197;</span><div><strong>Your section's calendar.</strong> Target dates for your term: <span class="fill">[add your section's milestone dates here, or write "see the Course Calendar in Canvas"]</span></div></div>
+    </section>
+
+    <!-- ============================== GRADING ============================== -->
+    <section>
+      <h2 class="sec">Assessment &amp; Grading</h2>
+      <p>Grades reward steady, honest work across four kinds of learning. Weekly reading checks and quantitative sets are low-stakes "easy points" for keeping up; the module writing and VR projects are where your understanding is judged most closely.</p>
+      <div class="stats">
+        <div class="stat"><div class="pct">35%</div><div class="lbl">Weekly reading checks &amp; hands-on quantitative work</div></div>
+        <div class="stat"><div class="pct">20%</div><div class="lbl">VR activities &amp; module VR project videos</div></div>
+        <div class="stat"><div class="pct">30%</div><div class="lbl">Module checkpoints, module exams &amp; cumulative exams</div></div>
+        <div class="stat"><div class="pct">15%</div><div class="lbl">Module writing assignments (CER, lab reports, arguments)</div></div>
+      </div>
+      <div class="callout"><span class="ic">&#9878;</span><div>These weights reflect the course as designed. <span class="fill">[Facilitators: adjust here only if your section's Canvas gradebook uses different weights.]</span></div></div>
+    </section>
+
+    <!-- ============================== DELIVERY ============================== -->
+    <section>
+      <h2 class="sec">How This Course Is Delivered</h2>
+      <p>This course is offered in two formats that share the same content, assignments, and expectations: an <strong>On-Demand (asynchronous)</strong> section you pace yourself, and a <strong>Live (synchronous)</strong> section that meets on a schedule on Optima's VR campus. Find the one that matches your enrollment.</p>
+
+      <div class="panel">
+        <h3>On-Demand (Asynchronous) Learning</h3>
+        <p style="margin-bottom:8px;">You move through the course at your own pace within each quarter, guided by due dates that keep you on track. All assignments for a quarter open at its start and close at its end. Because the course is On-Demand, there is no grade penalty for missing an individual due date &mdash; but any assignment not completed by the end of the quarter receives a zero, and assignments submitted in the final 14 days of a quarter receive a 10% deduction, so steady pacing matters.</p>
+        <p style="margin-bottom:8px;"><strong>Attendance is measured by assignment completion.</strong> Per school policy, a scholar who completes no assignment for ten consecutive school days, without notifying the school in advance, may be dropped from the course. Completion means a sincere attempt &mdash; real effort on real work. Rushed work, wrong or corrupted files, nonsense submissions, AI-generated filler, and word-salad responses do not count.</p>
+        <div class="callout"><span class="ic">&#128100;</span><div><strong>You are never on your own.</strong> A live facilitator grades your writing and VR projects, gives feedback, and hosts <span class="fill">[weekly study hall / VR workshop &mdash; day &amp; time, or "posted in Canvas"]</span>.</div></div>
+      </div>
+
+      <div class="panel">
+        <h3>Live (Synchronous) Learning</h3>
+        <p style="margin-bottom:8px;">You join scheduled class meetings on Optima's VR campus, where your teacher leads instruction in real time and you learn alongside classmates. The readings, assignments, and projects are the same as the On-Demand course; what differs is the pacing &mdash; a Live section moves through the material together on the class schedule, and class time is also used for discussion, lab demonstrations, and guided problem-solving.</p>
+        <p style="margin-bottom:8px;"><strong>Attendance is measured by presence and participation.</strong> You are expected to attend the scheduled sessions, on time and ready to take part. If you must miss a class, notify the school in advance; your teacher will tell you how to make up the work.</p>
+        <div class="callout"><span class="ic">&#127918;</span><div><strong>You meet regularly with a teacher.</strong> The class gathers <span class="fill">[days/times, or "posted in Canvas"]</span> in VR and on Microsoft Teams for live instruction and lab work.</div></div>
+      </div>
+    </section>
+
+    <!-- ============================== AI ============================== -->
+    <section>
+      <h2 class="sec">Appropriate Use of AI</h2>
+      <p>Optima scholars are preparing for a world shaped by artificial intelligence, and learning to use these tools with good judgment is part of that preparation. In chemistry, we treat AI as an <strong>instrument, not an oracle</strong>: you may use AI tools to explain a concept a different way, check a calculation, or brainstorm &mdash; unless a particular assignment says otherwise &mdash; but you must always <strong>verify what it tells you against real evidence and your own worked math</strong>. What AI may never do is the thinking or the work an assignment asks of you: a CER response, a lab report, a self-assessment, or a scientific argument must be genuinely your own. Submitting AI-generated text as your own work is dishonest and, as noted above, counts as an insincere attempt. When you do use an AI tool on an assignment, say so briefly. Above all, build the underlying skill yourself &mdash; the goal is to be able to judge whether an answer is any good, which you can only do if you can do the work without it.</p>
+    </section>
+
+    <!-- ============================== VR ============================== -->
+    <section>
+      <h2 class="sec">Learning in Virtual Reality</h2>
+      <p>Optima is a virtual-reality school. Alongside your Canvas coursework, you will join immersive sessions on Optima's VR campus, where you build atoms and molecules, run reactions, set up gas-law and calorimetry apparatus, and explore chemistry at a scale you could never see in an ordinary classroom. Each module you advance a cumulative VR build and, at the end, record yourself explaining the chemistry it shows. Keep your headset charged and ready, and treat the VR campus with the same courtesy and seriousness you would a physical lab. <strong>Every VR activity has a non-VR alternate</strong> that meets the same objectives &mdash; if you ever cannot get into VR, tell your facilitator so you do not fall behind.</p>
+    </section>
+
+    <!-- ============================== VIRTUE ============================== -->
+    <section>
+      <h2 class="sec">Being an Optima Scholar</h2>
+      <p>Optima's mission is an excellent, virtue-centered education, and virtue is at the center of this course as much as any other. Every scholar practices the seven virtues that shape life at Optima &mdash; <strong>courage, courtesy, honesty, perseverance, self-government, service, and responsibility</strong>. Chemistry gives each a home: <em>wonder</em> at the hidden order of matter, <em>perseverance</em> through models refined over centuries, <em>self-government</em> in the discipline of precise measurement, and <em>responsibility</em> for chemistry's power in the world &mdash; with <em>honesty</em>, letting evidence outweigh preference, running through all of it. In practice: do your own honest work; report data as you actually measured it; treat everyone you meet in writing, in discussion, and in VR with respect; come to office hours; and take responsibility for your own pacing and progress. You belong to a house and a community of scholars, not only to a course.</p>
+    </section>
+
+    <!-- ============================== NEEDS ============================== -->
+    <section>
+      <h2 class="sec">What You Need &amp; Staying Connected</h2>
+      <ul class="checks">
+        <li>A computer with reliable internet and access to <strong>Canvas</strong>.</li>
+        <li>A <strong>VR headset</strong>, charged and ready for the weekly immersive activities on Optima's VR campus.</li>
+        <li><strong>Microsoft 365</strong> (Word and Excel) with OneDrive, for the lab reports, arguments, and data tables you create and submit.</li>
+        <li>A scientific calculator, and a notebook for your digital or paper science-notebook work.</li>
+      </ul>
+      <p style="margin-top:12px;"><strong>Staying connected.</strong> Updates about this course are posted on the course's Canvas page; school-wide updates are posted in your Homeroom Canvas course. Check both regularly. Your facilitator holds office hours and is glad to help with the material, to meet you, or to talk through your plans &mdash; come by, or reach out any time by email at <span class="fill">[your email, or "the address posted in Canvas"]</span>.</p>
+    </section>
+
+  </div>
+
+  <footer class="foot">
+    Chemistry I Honors &middot; Florida course 2003350 &middot; Full-year honors course &middot; Optima Academy Online<br />
+    Built from the course content (Getting Started + 9 modules). Pacing and milestone dates vary by section and term; your facilitator confirms the specifics.
+  </footer>
+
+</div>
+</body>
+</html>

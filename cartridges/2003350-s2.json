@@ -4,20 +4,12 @@
  "code": "2003350",
  "title": "Chemistry I Honors Sem 2",
  "file": "cartridges/2003350-s2.imscc",
- "bytes": 1332106,
+ "bytes": 984563,
  "version": "2026.10.09",
- "built": "2026-10-09T14:30:32",
+ "built": "2026-10-09T14:38:15",
  "front_page": "wiki_content/course-home.html",
  "items": 203,
  "modules": [
-  {
-   "id": "m_start",
-   "title": "Start Here",
-   "gid": "geb790d79be5bad79264893bd50c566e8",
-   "published": true,
-   "items": 1,
-   "xml": "course_settings/module_meta.xml"
-  },
   {
    "id": "m_5",
    "title": "Module 5: Gas Laws & Thermochemistry",
@@ -71,17 +63,17 @@
    "title": "Teacher Resources",
    "gid": "gae8b196f4946b162ac147187e7e98e23",
    "published": false,
-   "items": 6,
+   "items": 7,
    "xml": "course_settings/module_meta.xml"
   }
  ],
  "counts": {
-  "pages": 51,
+  "pages": 50,
   "assignments": 72,
   "quizzes": 56,
   "discussions": 0,
-  "files": 1,
-  "modules": 8,
+  "files": 2,
+  "modules": 7,
   "items": 203
  },
  "weights": [
@@ -2500,7 +2492,9 @@
  "source": "spec 2003350-s2.spec.json",
  "verify": {
   "ok": true,
-  "warnings": [],
+  "warnings": [
+   "\"facilitator\" appears 7 time(s) in student-facing text"
+  ],
   "stats": {
    "resources": 237,
    "resource_types": {
@@ -2509,28 +2503,28 @@
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 56
    },
    "organization_items": 179,
-   "modules": 8,
+   "modules": 7,
    "module_items": 203,
    "module_item_types": {
-    "WikiPage": 50,
     "ContextModuleSubHeader": 24,
+    "WikiPage": 49,
     "Quizzes::Quiz": 56,
     "Assignment": 72,
-    "Attachment": 1
+    "Attachment": 2
    },
    "default_view": "wiki",
-   "pages": 51,
+   "pages": 50,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 4,
    "group_refs": 184,
    "quizzes": 56,
    "assignments": 72,
    "discussions": 0,
-   "files": 1,
+   "files": 2,
    "points_listed": 5220.0
   }
  },
  "status": "ready",
- "spec_sha": "758511078a3d45c13a36cef7b22b6c385e649db8b8267d28401012aebf122749",
+ "spec_sha": "2a2cb5c5c7282f00565d2bbe980862f014dac6fb9e5dfb4a091da65e09bf770c",
  "art_pack": null
 }
