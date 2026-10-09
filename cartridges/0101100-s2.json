@@ -4,9 +4,9 @@
  "code": "0101100",
  "title": "M/J Visual Art 1 Sem 2",
  "file": "cartridges/0101100-s2.imscc",
- "bytes": 436294,
+ "bytes": 567796,
  "version": "2026.10.09",
- "built": "2026-10-09T15:26:14",
+ "built": "2026-10-09T19:26:02",
  "front_page": "wiki_content/course-home.html",
  "items": 56,
  "modules": [
@@ -813,14 +813,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "a992e87681d76fa8ce7d5ad62ac356c852af386f30ed058de97a0d5928a02773",
- "art_pack": {
-  "folder": "art",
-  "root": "Claude's Workshop/Art Builds_Summer 2026",
-  "figures": 1,
-  "files": [
-   "art/maya-8-stucco-glyphs.jpg"
-  ],
-  "cartridge": "0101100-s2-art-pack.imscc"
- }
+ "spec_sha": "be3df5c87f3e7bdd1fe6138c5e5898384d3ddd98bd0026228156b8ce679d1d3c",
+ "art_pack": null
 }
