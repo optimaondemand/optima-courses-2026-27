@@ -4,11 +4,11 @@
  "code": "1210300",
  "title": "Probability and Statistics Honors Sem 2",
  "file": "cartridges/1210300-s2.imscc",
- "bytes": 1379024,
+ "bytes": 1377832,
  "version": "2026.10.09",
- "built": "2026-10-09T09:46:48",
+ "built": "2026-10-09T09:53:48",
  "front_page": "wiki_content/course-home.html",
- "items": 201,
+ "items": 183,
  "modules": [
   {
    "id": "m_0",
@@ -23,7 +23,7 @@
    "title": "Module 7: Seeing the Data — Data & Data Displays",
    "gid": "ga246ad5e6e40675ee5437c3b7efb0551",
    "published": true,
-   "items": 34,
+   "items": 31,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -31,7 +31,7 @@
    "title": "Module 8: Summaries That Tell the Truth — Descriptive Statistics",
    "gid": "gfb9e1b113040bca452c6715dd81ae060",
    "published": true,
-   "items": 34,
+   "items": 31,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -39,7 +39,7 @@
    "title": "Module 9: Order from Randomness — The Normal Distribution",
    "gid": "g5bcd372d6958391614e3a0dd1d2be3c6",
    "published": true,
-   "items": 24,
+   "items": 22,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -47,7 +47,7 @@
    "title": "Module 10: Moving Together — Bivariate Data & Regression",
    "gid": "gb3b5a0481d28962e9a5fb9a9a580d8fb",
    "published": true,
-   "items": 34,
+   "items": 31,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -55,7 +55,7 @@
    "title": "Module 11: Where Data Comes From — Sampling & Study Design",
    "gid": "gbc28f7d1678dafcc11629f8efe9b0967",
    "published": true,
-   "items": 34,
+   "items": 31,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -63,7 +63,7 @@
    "title": "Module 12: How Far Can We Trust a Sample? — Inference & Statistical Reasoning",
    "gid": "gb115238bf1eeaeb3486ec6326cb54fd6",
    "published": true,
-   "items": 34,
+   "items": 31,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -71,7 +71,7 @@
    "title": "Semester 2 Finals: From One Sample to a Population, Carefully",
    "gid": "gc137f563024d31e7e1b1a46b2fe595ee",
    "published": true,
-   "items": 3,
+   "items": 2,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -90,7 +90,7 @@
   "discussions": 0,
   "files": 3,
   "modules": 9,
-  "items": 201
+  "items": 183
  },
  "weights": [
   {
@@ -2499,11 +2499,10 @@
    },
    "organization_items": 183,
    "modules": 9,
-   "module_items": 201,
+   "module_items": 183,
    "module_item_types": {
     "WikiPage": 53,
     "Quizzes::Quiz": 63,
-    "ContextModuleSubHeader": 18,
     "Assignment": 64,
     "Attachment": 3
    },
@@ -2520,6 +2519,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "2bfda07562b9bbc1994656201553ccda6fb10d16e20dc2682639269b57d38cef",
+ "spec_sha": "77337e31744f368b1c4788175fbed8911ff87bd342209f90626892cf4985a366",
  "art_pack": null
 }
