@@ -4,11 +4,11 @@
  "code": "2000310",
  "title": "Biology 1 Sem 2",
  "file": "cartridges/2000310-s2.imscc",
- "bytes": 1030430,
+ "bytes": 1438194,
  "version": "2026.10.09",
- "built": "2026-10-09T12:24:50",
+ "built": "2026-10-09T12:46:05",
  "front_page": "wiki_content/course-home.html",
- "items": 313,
+ "items": 320,
  "modules": [
   {
    "id": "m_w16",
@@ -31,7 +31,7 @@
    "title": "Module 6: Evolution and Natural Selection · Week 3: Speciation & origins",
    "gid": "gd9099c4366b8ed519eb8ebf1e612a471",
    "published": true,
-   "items": 15,
+   "items": 16,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -63,7 +63,7 @@
    "title": "Module 7: Classification and Diversity of Life · Week 7: Plant, animal & viral diversity",
    "gid": "g5a106442ded6753b466fe3d574fd70d7",
    "published": true,
-   "items": 15,
+   "items": 16,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -87,7 +87,7 @@
    "title": "Module 8: Plant Biology · Week 10: Plant reproduction & response",
    "gid": "gb571e2e5f812b31a401d1a9a53152e27",
    "published": true,
-   "items": 15,
+   "items": 16,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -119,7 +119,7 @@
    "title": "Module 9: Human Body Systems · Week 14: Defense & integration",
    "gid": "g0fedc3fb7412012d0e5edf55447d4d2b",
    "published": true,
-   "items": 15,
+   "items": 16,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -143,7 +143,7 @@
    "title": "Module 10: Ecology and Environmental Science · Week 17: Biogeochemical cycles",
    "gid": "g54211455dd7dd0cec3c8032f1d31501a",
    "published": true,
-   "items": 15,
+   "items": 16,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -167,7 +167,7 @@
    "title": "Module 10: Ecology and Environmental Science · Week 20: Silent Spring & synthesis",
    "gid": "g8ce19bc0994674859be0b66a03886c1d",
    "published": true,
-   "items": 15,
+   "items": 16,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -183,7 +183,7 @@
    "title": "Teacher Resources",
    "gid": "g08b7d967fc3495b30d965be3f1a293c0",
    "published": false,
-   "items": 3,
+   "items": 4,
    "xml": "course_settings/module_meta.xml"
   }
  ],
@@ -191,10 +191,10 @@
   "pages": 164,
   "assignments": 128,
   "quizzes": 21,
-  "discussions": 0,
-  "files": 1,
+  "discussions": 6,
+  "files": 2,
   "modules": 22,
-  "items": 313
+  "items": 320
  },
  "weights": [
   {
@@ -2953,6 +2953,114 @@
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
+  },
+  {
+   "id": "d_m6",
+   "type": "discussion",
+   "title": "Discussion 6: Which Line of Evidence Persuades You Most?",
+   "gid": "g4e7ef1d2d0a95107c34ed3b88573112a",
+   "xml": "gbbd785613bf5777fd6d2e63895c98228.xml",
+   "module": "m_w18",
+   "week": 3,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g8bd1482475131895d1674a17ac498309",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_m7",
+   "type": "discussion",
+   "title": "Discussion 7: Is a Virus Alive? Making a Courteous Case",
+   "gid": "g4bf41469ad02e446fc53d9a420ada4f7",
+   "xml": "g74a6b6784373f4667eaa3481ac28fcb4.xml",
+   "module": "m_w22",
+   "week": 7,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g8bd1482475131895d1674a17ac498309",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_m8",
+   "type": "discussion",
+   "title": "Discussion 8: Can a Plant Sense Without a Brain?",
+   "gid": "g690d71cec139163efd399958b7f34cf1",
+   "xml": "ga91612cc7061b99cc7e14675f70eab39.xml",
+   "module": "m_w25",
+   "week": 10,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g8bd1482475131895d1674a17ac498309",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_m9",
+   "type": "discussion",
+   "title": "Discussion 9: Homeostasis and Self-Government",
+   "gid": "g1dedd69d1366ebbf43d94e3baf5097e0",
+   "xml": "g770bd672b4d0487b23db40942eb98548.xml",
+   "module": "m_w29",
+   "week": 14,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g8bd1482475131895d1674a17ac498309",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_m10a",
+   "type": "discussion",
+   "title": "Discussion 10A: The Wolves of Yellowstone: Cascade or Coincidence?",
+   "gid": "g07d34b16d59ae4c5b77c0c8000094949",
+   "xml": "g5d396627debeb0251d2dd2230222e421.xml",
+   "module": "m_w32",
+   "week": 17,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g8bd1482475131895d1674a17ac498309",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_m10b",
+   "type": "discussion",
+   "title": "Discussion 10B: Is the Land Ethic Science, Ethics, or Both?",
+   "gid": "ga658a29e8e68c7cfa6146f52a11a8534",
+   "xml": "g4f086827cec09d33129dfc815ad570fc.xml",
+   "module": "m_w35",
+   "week": 20,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g8bd1482475131895d1674a17ac498309",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
   }
  ],
  "settings": {
@@ -2967,34 +3075,36 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 336,
+   "resources": 349,
    "resource_types": {
-    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 150,
-    "webcontent": 165,
-    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 21
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 156,
+    "webcontent": 166,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 21,
+    "imsdt_xmlv1p1": 6
    },
-   "organization_items": 313,
+   "organization_items": 320,
    "modules": 22,
-   "module_items": 313,
+   "module_items": 320,
    "module_item_types": {
     "WikiPage": 163,
     "Assignment": 128,
     "Quizzes::Quiz": 21,
-    "Attachment": 1
+    "DiscussionTopic": 6,
+    "Attachment": 2
    },
    "default_view": "wiki",
    "pages": 164,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 5,
-   "group_refs": 170,
+   "group_refs": 176,
    "quizzes": 21,
    "assignments": 128,
-   "discussions": 0,
-   "files": 1,
-   "points_listed": 1864.0
+   "discussions": 6,
+   "files": 2,
+   "points_listed": 1924.0
   }
  },
  "status": "ready",
- "spec_sha": "13d1b84a84cd2e11af67e2f9e755559087c097b75ecf22b193116a5d6abef00d",
+ "spec_sha": "d25fd0ff1ca9efa0865db8856f7cdde6d501b7a59fb7575c213d9bd5940cee5e",
  "art_pack": null
 }
