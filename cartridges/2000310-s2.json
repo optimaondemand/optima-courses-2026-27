@@ -4,11 +4,11 @@
  "code": "2000310",
  "title": "Biology 1 Sem 2",
  "file": "cartridges/2000310-s2.imscc",
- "bytes": 982586,
+ "bytes": 1030430,
  "version": "2026.10.09",
- "built": "2026-10-09T11:55:40",
+ "built": "2026-10-09T12:24:50",
  "front_page": "wiki_content/course-home.html",
- "items": 311,
+ "items": 313,
  "modules": [
   {
    "id": "m_w16",
@@ -175,7 +175,7 @@
    "title": "Final Review & Exam · Week 21",
    "gid": "gb0ca77d56f0e3b8ddbbe98d0076eaee3",
    "published": true,
-   "items": 2,
+   "items": 3,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -183,18 +183,18 @@
    "title": "Teacher Resources",
    "gid": "g08b7d967fc3495b30d965be3f1a293c0",
    "published": false,
-   "items": 2,
+   "items": 3,
    "xml": "course_settings/module_meta.xml"
   }
  ],
  "counts": {
-  "pages": 163,
+  "pages": 164,
   "assignments": 128,
-  "quizzes": 20,
+  "quizzes": 21,
   "discussions": 0,
   "files": 1,
   "modules": 22,
-  "items": 311
+  "items": 313
  },
  "weights": [
   {
@@ -2934,6 +2934,25 @@
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
+  },
+  {
+   "id": "q_final",
+   "type": "quiz",
+   "title": "Semester 2 Final Exam",
+   "gid": "g31ae6fa964db505ee7df97d862bda3a0",
+   "xml": "g31ae6fa964db505ee7df97d862bda3a0/assessment_meta.xml",
+   "module": "m_w36",
+   "week": 21,
+   "kind": "final-exam",
+   "points": 88.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g4e500cfbf2d66f218df01206041b3f14",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
   }
  ],
  "settings": {
@@ -2948,34 +2967,34 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 333,
+   "resources": 336,
    "resource_types": {
-    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 149,
-    "webcontent": 164,
-    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 20
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 150,
+    "webcontent": 165,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 21
    },
-   "organization_items": 311,
+   "organization_items": 313,
    "modules": 22,
-   "module_items": 311,
+   "module_items": 313,
    "module_item_types": {
-    "WikiPage": 162,
+    "WikiPage": 163,
     "Assignment": 128,
-    "Quizzes::Quiz": 20,
+    "Quizzes::Quiz": 21,
     "Attachment": 1
    },
    "default_view": "wiki",
-   "pages": 163,
+   "pages": 164,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 5,
-   "group_refs": 168,
-   "quizzes": 20,
+   "group_refs": 170,
+   "quizzes": 21,
    "assignments": 128,
    "discussions": 0,
    "files": 1,
-   "points_listed": 1688.0
+   "points_listed": 1864.0
   }
  },
  "status": "ready",
- "spec_sha": "5ab699aff9f032e4a4d789930d3d563b143c55988a0c433b5296323123a35e63",
+ "spec_sha": "13d1b84a84cd2e11af67e2f9e755559087c097b75ecf22b193116a5d6abef00d",
  "art_pack": null
 }
