@@ -7557,6 +7557,1019 @@
    ],
    "group": "ag_vr",
    "week": 17
+  },
+  {
+   "id": "q_final",
+   "title": "Semester 2 Final Exam",
+   "description": "<p>Fifty questions, fifty points, one attempt, 90 minutes. Every question on this exam is drawn from the lesson quizzes you have already taken this semester &mdash; nothing here is new. Questions come from every module, in proportion to its size. Have your Desmos Scientific Calculator (desmos.com/scientific) and Excel open in other tabs, and pencil and paper at hand for summaries, tables, and interval work. Answer choices are shuffled; read each choice fully. When you finish, you are done with Probability and Statistics &mdash; well earned.</p>",
+   "quiz_type": "assignment",
+   "group": "ag_final",
+   "allowed_attempts": 1,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "week": 18,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these variables is categorical, even though its values are written as numbers?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "a student's height in centimeters"
+      },
+      {
+       "text": "a student's locker number",
+       "correct": true
+      },
+      {
+       "text": "the number of siblings a student has"
+      },
+      {
+       "text": "the minutes a student spent on homework"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A frequency table has categories with frequencies 12, 9, 6, and 3. What is the percent for the category with frequency 9?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "9%"
+      },
+      {
+       "text": "30%",
+       "correct": true
+      },
+      {
+       "text": "25%"
+      },
+      {
+       "text": "90%"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You want to compare the number of students in each of 12 school clubs. Which display is the better choice?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "a circle graph with 12 slices"
+      },
+      {
+       "text": "a bar chart",
+       "correct": true
+      },
+      {
+       "text": "a single number"
+      },
+      {
+       "text": "a circle graph, because it shows percents"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which dataset is best displayed with a line plot?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "the exact weights in grams of 400 apples"
+      },
+      {
+       "text": "the favorite colors of 30 students"
+      },
+      {
+       "text": "a student's height measured every month for five years"
+      },
+      {
+       "text": "the number of books read last month by each of 15 students",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A histogram uses bins in which each bin includes its left endpoint but not its right endpoint. A value of exactly 30 belongs in which bin?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "[20, 30)"
+      },
+      {
+       "text": "[30, 40)",
+       "correct": true
+      },
+      {
+       "text": "both [20, 30) and [30, 40)"
+      },
+      {
+       "text": "neither bin"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which statement describes a weakness of a box plot?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "it cannot show the median"
+      },
+      {
+       "text": "it can only be used for categorical data"
+      },
+      {
+       "text": "it can hide clusters or gaps inside the box",
+       "correct": true
+      },
+      {
+       "text": "it requires every individual value to be written on the graph"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a (made-up) town, monthly ice-cream sales and monthly swimming-pool visits are strongly associated. Which conclusion is justified by this data alone?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "ice-cream sales cause people to swim"
+      },
+      {
+       "text": "swimming causes people to buy ice cream"
+      },
+      {
+       "text": "the two variables are associated, but the data alone do not show that one causes the other",
+       "correct": true
+      },
+      {
+       "text": "the variables are unrelated"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A bar chart shows two bars, 52 and 55, on a vertical axis that starts at 50. How does this affect a reader's impression?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "it makes the difference between the bars look much larger than it is",
+       "correct": true
+      },
+      {
+       "text": "it makes the difference look smaller than it is"
+      },
+      {
+       "text": "it has no effect on the impression"
+      },
+      {
+       "text": "it makes the values larger"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>After inserting a column chart in Excel, which setting should you check to keep the chart honest?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "that the vertical axis minimum is 0",
+       "correct": true
+      },
+      {
+       "text": "that the bars are different colors"
+      },
+      {
+       "text": "that the chart has a legend"
+      },
+      {
+       "text": "that the chart is as wide as the page"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The data set 20, 22, 25, 26, 27 has mean 24 and median 25. If the largest value is changed from 27 to 270, which statement is true?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "the mean changes a great deal, but the median stays 25",
+       "correct": true
+      },
+      {
+       "text": "the median changes a great deal, but the mean stays 24"
+      },
+      {
+       "text": "both the mean and the median stay the same"
+      },
+      {
+       "text": "both the mean and the median change by the same amount"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Dana's score on a 50-point quiz is at the 80th percentile of her class. Which statement is correct?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Dana answered 80 percent of the questions correctly."
+      },
+      {
+       "text": "About 80 percent of the students in her class scored the same as or lower than Dana.",
+       "correct": true
+      },
+      {
+       "text": "About 80 percent of the students in her class scored higher than Dana."
+      },
+      {
+       "text": "Dana scored 40 points."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>For the data set 3, 5, 6, 8, 9, 11, 12, 40, use the median-of-each-half method for quartiles (Q1 = 5.5, Q3 = 11.5) and the 1.5 × IQR rule. In a box plot of these data, where does the upper whisker end?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "at 40"
+      },
+      {
+       "text": "at 20.5"
+      },
+      {
+       "text": "at 11.5"
+      },
+      {
+       "text": "at 12",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>When computing a standard deviation, why are the deviations from the mean squared before they are averaged?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "to make the answer a whole number"
+      },
+      {
+       "text": "because the mean is the middle value of the ordered data"
+      },
+      {
+       "text": "to remove outliers from the data"
+      },
+      {
+       "text": "because the deviations from the mean always add to zero, so they would cancel without squaring",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Twelve made-up scores are 10, 11, 12, 12, 13, 14, 86, 87, 88, 88, 89, 90. Both the mean and the median equal 50. Which statement is correct?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The scores are symmetric with one peak, so 50 is a typical score."
+      },
+      {
+       "text": "The score 50 is an outlier."
+      },
+      {
+       "text": "The scores are skewed right."
+      },
+      {
+       "text": "The scores form two clusters with a gap, so 50 describes no actual score.",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>An Excel summary of the commute times, in minutes, of 30 riders (a sample) shows: mean 62.4, median 55, Q1 41, Q3 70. Which conclusion and choice of summary is best supported?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The mean is above the median, so the data are skewed left; report the mean and standard deviation."
+      },
+      {
+       "text": "The mean is above the median, which suggests a right skew; the median and IQR are the safer summary of a typical rider.",
+       "correct": true
+      },
+      {
+       "text": "The mean and median are far apart, so the data must contain an error and should be thrown out."
+      },
+      {
+       "text": "The mean is above the median, so the data are symmetric; either summary is equally good."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A student surveys 12 students from School X and 12 students from School Y. In these samples, the median time spent on homework is 15 minutes higher at School X. Which conclusion is best supported by these data alone?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "School X assigns more homework because its teachers are stricter"
+      },
+      {
+       "text": "In these two samples the median is 15 minutes higher at School X, but this alone does not tell us whether the two whole schools differ",
+       "correct": true
+      },
+      {
+       "text": "the difference proves that the median homework time is 15 minutes higher for all students at School X"
+      },
+      {
+       "text": "the difference in the population must be zero because the samples are small"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a made-up list of 11 commute times in minutes, ten values lie between 12 and 35 and one value is 450. The 1.5 × IQR rule flags the 450, and the original record sheet is available. What is the best next step?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Delete the 450, because the rule flagged it."
+      },
+      {
+       "text": "Check the record sheet to find out why the value is 450, then correct it, set it aside with a stated reason, or keep it, and report what was done.",
+       "correct": true
+      },
+      {
+       "text": "Replace the 450 with the mean of the other ten values."
+      },
+      {
+       "text": "Keep it and report only the mean, since the mean uses every value."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A bar chart shows two group means, 52 and 55, with the vertical axis starting at 50. Which statement is correct?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The bars are drawn to scale, so the 55 bar is about 6 percent taller than the 52 bar."
+      },
+      {
+       "text": "The 55 bar looks 2.5 times as tall as the 52 bar, but 55 is only about 6 percent more than 52; starting the axis at 0 would be fair.",
+       "correct": true
+      },
+      {
+       "text": "The axis starts at 50, so the chart shows that the second group's mean is 2.5 times the first group's mean."
+      },
+      {
+       "text": "Cutting the axis changes the data, so the means are no longer 52 and 55."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A machine fills boxes so that the weights are approximately normal with a mean of 50 ounces and a standard deviation of 8 ounces. A box has a z-score of -1.5. What is its weight?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "62 ounces"
+      },
+      {
+       "text": "41.5 ounces"
+      },
+      {
+       "text": "38 ounces",
+       "correct": true
+      },
+      {
+       "text": "48.5 ounces"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following data sets is the poorest candidate for using the Empirical Rule (68–95–99.7)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "the heights of a large group of adults of the same age and sex, shown as a symmetric, single-humped histogram"
+      },
+      {
+       "text": "the lengths of repeated measurements of one object with a careful instrument, shown as a symmetric, single-humped histogram"
+      },
+      {
+       "text": "the waiting times at a service counter, shown as a histogram with most values short and a long tail to the right",
+       "correct": true
+      },
+      {
+       "text": "the fill weights of boxes from a machine, shown as a symmetric, single-humped histogram"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A machine fills jars so that the fill volumes are approximately normally distributed with mean 250 mL and standard deviation 3 mL. Using this model, about what percent of jars hold less than 247 mL?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "84.1%"
+      },
+      {
+       "text": "34.1%"
+      },
+      {
+       "text": "15.9%",
+       "correct": true
+      },
+      {
+       "text": "31.7%"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A large dataset (1,000 values) has a mean of 50 and a standard deviation of 10. The percents of values within 1, 2, and 3 standard deviations of the mean are 66%, 95%, and 99.6%. How do these compare with what a normal model predicts, and what do they suggest?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "They are close to 68%, 95%, and 99.7%, so this check gives no evidence against a normal model",
+       "correct": true
+      },
+      {
+       "text": "They are far below 68%, 95%, and 99.7%, so the data are clearly not normal"
+      },
+      {
+       "text": "They are far above 68%, 95%, and 99.7%, so the data are clearly not normal"
+      },
+      {
+       "text": "They prove the data are exactly normal"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A common rule of thumb says a normal curve can reasonably approximate a binomial distribution when both <em>np</em> and <em>n</em>(1 − <em>p</em>) are at least 10. Which binomial setting meets this rule of thumb?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "<em>n</em> = 50, <em>p</em> = 0.4",
+       "correct": true
+      },
+      {
+       "text": "<em>n</em> = 100, <em>p</em> = 0.03"
+      },
+      {
+       "text": "<em>n</em> = 40, <em>p</em> = 0.1"
+      },
+      {
+       "text": "<em>n</em> = 200, <em>p</em> = 0.02"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The battery lifetimes of a made-up device are approximately normally distributed with mean 400 hours and standard deviation 25 hours. Using this model, about what percent of batteries last between 390 hours and 440 hours?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "94.5%"
+      },
+      {
+       "text": "60.1%",
+       "correct": true
+      },
+      {
+       "text": "34.5%"
+      },
+      {
+       "text": "39.9%"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Nine points lie close to a rising straight line, and for those nine points alone r is about +0.99. A tenth point is then added far below the line at the right-hand end of the plot. Which effect on r is most likely?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "r stays about +0.99, because one point is a small share of the data"
+      },
+      {
+       "text": "r becomes about −0.99, because the new point is low"
+      },
+      {
+       "text": "r drops noticeably, because one far-off point can pull r away from +0.99",
+       "correct": true
+      },
+      {
+       "text": "r becomes exactly 0"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A straight line passes through the points (2, 24) and (10, 8). Which equation describes it?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "ŷ = 28 − 2<em>x</em>",
+       "correct": true
+      },
+      {
+       "text": "ŷ = 24 − 2<em>x</em>"
+      },
+      {
+       "text": "ŷ = 28 + 2<em>x</em>"
+      },
+      {
+       "text": "ŷ = 20 − 2<em>x</em>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A fitted line is ŷ = 12.5 + 3.2<em>x</em>, based on data with <em>x</em> from 1 to 10. What does the line predict at <em>x</em> = 7, and is the prediction an interpolation?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "34.9, and yes, it is an interpolation",
+       "correct": true
+      },
+      {
+       "text": "22.4, and yes, it is an interpolation"
+      },
+      {
+       "text": "34.9, and no, it is an extrapolation"
+      },
+      {
+       "text": "87.5, and yes, it is an interpolation"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A least-squares line is fitted to 8 constructed points. In order of <em>x</em> from smallest to largest, the residuals are positive for the first two points, negative for the next four points, and positive for the last two points. What is the best conclusion?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The residuals show random scatter, so the straight line is adequate."
+      },
+      {
+       "text": "The residuals form a curved pattern, so a straight line is not an adequate model for these data.",
+       "correct": true
+      },
+      {
+       "text": "The residuals fan out, so the line is accurate only for small <em>x</em>."
+      },
+      {
+       "text": "The line must have been computed incorrectly, because residuals cannot change sign."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A spreadsheet has the x values in cells A2:A11 and the y values in cells B2:B11. Which formula gives the slope of the least-squares line for predicting y from x?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "=SLOPE(A2:A11,B2:B11)"
+      },
+      {
+       "text": "=SLOPE(B2:B11,A2:A11)",
+       "correct": true
+      },
+      {
+       "text": "=CORREL(B2:B11,A2:A11)"
+      },
+      {
+       "text": "=RSQ(A2:A11,B2:B11)"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a made-up set of ten towns, the correlation between ice cream sales and pool incidents is about +0.88 overall. After splitting the towns into a warm-week group and a hot-week group, the correlation is about +0.19 within the warm group and about −0.08 within the hot group. Which conclusion is best supported?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Ice cream sales cause pool incidents, but only in warm weather"
+      },
+      {
+       "text": "Most of the overall association comes from the difference between the two weather groups, which is consistent with weather driving both variables",
+       "correct": true
+      },
+      {
+       "text": "There is no relationship between ice cream sales and pool incidents of any kind"
+      },
+      {
+       "text": "The within-group correlations prove that ice cream sales have exactly zero effect on pool incidents"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A student wants to fit <em>y</em> = <em>a</em>·<em>b</em><sup><em>x</em></sup> by taking ln of <em>y</em>, but one of the constructed <em>y</em> values is 0. What is the problem, and what is the honest response?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "There is no problem, because ln(0) = 0"
+      },
+      {
+       "text": "ln(0) does not exist, so that point cannot be transformed; the student should report the problem and say how it was handled rather than silently delete it",
+       "correct": true
+      },
+      {
+       "text": "ln(0) is a very large positive number, so the point will pull the line up and should be kept"
+      },
+      {
+       "text": "The problem is that the natural log can only be used on <em>x</em> values, never on <em>y</em>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which situation is best summarized with a two-way frequency table rather than a scatter plot?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The height (in inches) and arm span (in inches) of 30 students"
+      },
+      {
+       "text": "The hours of sleep and the quiz score of 25 students"
+      },
+      {
+       "text": "The age (in years) and the price (in dollars) of 40 used cars"
+      },
+      {
+       "text": "The grade level (9, 10, 11, or 12) and the lunch choice (cafeteria, packed, or off-campus) of 24 students",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A made-up survey of 400 club members asked two questions. Of the 150 members who bike to work, 60 also own a car. Of the 250 members who do not bike to work, 150 own a car. Of the members who own a car, what percent bike to work?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "40%"
+      },
+      {
+       "text": "15%"
+      },
+      {
+       "text": "About 28.6%",
+       "correct": true
+      },
+      {
+       "text": "60%"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A club president asks the five friends sitting nearest her whether they will attend a dance. Four say yes, and she announces, \"80% of the school will attend.\" Which response is the most careful?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Four of the five friends asked said yes; that is a statistic from a small, convenient sample, and it gives little reason to trust it as the share for the whole school",
+       "correct": true
+      },
+      {
+       "text": "She is right, because 4 divided by 5 is 0.80"
+      },
+      {
+       "text": "80% is the parameter, because every one of the five friends answered"
+      },
+      {
+       "text": "The statement would be correct if she rounded 80% to 100%"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A student uses =RANDBETWEEN to pick her sample and computes a sample mean. After she types a note in another cell, her sample mean changes. What should she have done after the draw?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Nothing, since RANDBETWEEN values stay fixed once they are drawn"
+      },
+      {
+       "text": "Press F9 until the mean looks close to the true value"
+      },
+      {
+       "text": "Copy the picks and use Paste Special &gt; Values to freeze them before computing anything from them",
+       "correct": true
+      },
+      {
+       "text": "Switch to =RAND, which does not recalculate"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following is a non-probability sampling method?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Drawing 50 names at random from a complete list"
+      },
+      {
+       "text": "Taking a random sample from each grade level, in proportion to the grade's size"
+      },
+      {
+       "text": "Choosing 5 classrooms at random and surveying every student in them"
+      },
+      {
+       "text": "Telling an interviewer to collect 40 responses from men and 40 from women, from whoever agrees to stop",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The owner of a made-up website invites visitors to vote on whether a new rule is fair. A total of 10,000 visitors respond, and the owner says, \"With this many responses, the result must be accurate.\" Which statement is best?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Yes, because 10,000 is larger than any sample a researcher would need"
+      },
+      {
+       "text": "Yes, because a large sample removes every kind of error"
+      },
+      {
+       "text": "No, because a sample larger than 1,000 is always biased"
+      },
+      {
+       "text": "No, because a large sample shrinks sampling variation but does not remove bias from self-selected responses",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A made-up call-in poll of a town reports 70% in favor of a proposal, while the true share in the town is 55%. The station repeats the same call-in method and collects 10 times as many calls. What is the best prediction?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The new result will be close to 55%, because more calls reduce bias"
+      },
+      {
+       "text": "The new result will still tend to lean above 55%, because more replies from the same self-selecting group do not remove the lean",
+       "correct": true
+      },
+      {
+       "text": "The new result will lean below 55%, because the bias reverses with more calls"
+      },
+      {
+       "text": "The new result will be exactly 55%"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A made-up game claims its coin is fair. It is flipped 50 times and lands heads 36 times. The exact chance of a result at least this far from 25 on either side (36 or more, or 14 or fewer) is 0.002602, about 1 in 384. Which statement is the most careful?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The result is not unusual, because 36 heads can happen with a fair coin"
+      },
+      {
+       "text": "The result proves the coin is rigged, because 0.002602 is less than 0.05"
+      },
+      {
+       "text": "The result is unusual under the claimed model, which is a strong reason to doubt the coin is fair, but it does not prove the coin is rigged",
+       "correct": true
+      },
+      {
+       "text": "The result proves that the next 50 flips will also give about 36 heads"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A made-up researcher selects 300 students at random from a school of 1,500 and records each student's weekly screen time and hours of sleep. No one is asked to change any habit. Which conclusion is best supported?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Less screen time causes more sleep for students at this school"
+      },
+      {
+       "text": "The result cannot be generalized because the students were not assigned to groups"
+      },
+      {
+       "text": "Because the sample is random, the study shows that screen time causes lost sleep"
+      },
+      {
+       "text": "Screen time and sleep may be associated among the school's students, but the study cannot show that one causes the other",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a made-up experiment, 60 subjects are randomly assigned to a new exercise plan or to no plan. Many subjects who find the plan unpleasant quit during the study and their final results are never recorded, while few subjects in the comparison group quit. Which statement is best?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Random assignment guarantees that dropout cannot affect the comparison"
+      },
+      {
+       "text": "Dropout is harmless as long as the group sizes at the start were equal"
+      },
+      {
+       "text": "Uneven dropout can leave the remaining groups unlike each other, so random assignment alone does not fully protect the comparison",
+       "correct": true
+      },
+      {
+       "text": "The study can no longer be called an experiment because some subjects quit"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A made-up researcher wants to know whether a new study routine causes higher quiz scores. She uses a random number generator to assign each of 60 volunteers to the new routine or the usual routine. What is the main purpose of the random assignment?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "To make the sample of volunteers representative of all students"
+      },
+      {
+       "text": "To make the two groups alike, on average, in both measured and unmeasured ways, so that a difference in scores is less likely to come from some other factor",
+       "correct": true
+      },
+      {
+       "text": "To guarantee that the new routine will produce higher scores"
+      },
+      {
+       "text": "To make the volunteers unaware of which routine they are using"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a made-up town, 30% of residents own a bicycle. For random samples of 100 residents, what is the standard error of the sample proportion?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "0.0021"
+      },
+      {
+       "text": "0.0458",
+       "correct": true
+      },
+      {
+       "text": "0.1449"
+      },
+      {
+       "text": "0.0300"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A made-up poll of 250 randomly chosen people has a margin of error of about 6.3 points (by the rule 100 ÷ √n). A second poll of the same kind surveys 1,000 people. About what is the second poll's margin of error?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "About 3.2 points, half as large, because the sample is four times as big",
+       "correct": true
+      },
+      {
+       "text": "About 1.6 points, one quarter as large, because the sample is four times as big"
+      },
+      {
+       "text": "About 5.0 points, because adding people only helps a little"
+      },
+      {
+       "text": "About 6.3 points, because the margin of error does not depend on the sample size"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A made-up random sample of 64 plants has a mean height of 72 cm, and the population standard deviation is known to be 10 cm. Which is the 90% confidence interval for the population mean height (use z* = 1.645)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "69.94 to 74.06 cm",
+       "correct": true
+      },
+      {
+       "text": "69.55 to 74.45 cm"
+      },
+      {
+       "text": "68.78 to 75.22 cm"
+      },
+      {
+       "text": "55.55 to 88.45 cm"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A researcher takes a random sample of 50 students who walk to school and a random sample of 60 students who ride the bus in a made-up district. The walkers' mean sleep time is higher, and a 95% range for the difference in means does not contain 0. Which conclusion is best supported?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Walking to school causes students to sleep more"
+      },
+      {
+       "text": "Students who ride the bus should be told to walk so that they sleep more"
+      },
+      {
+       "text": "A real difference in mean sleep between all walkers and all bus riders in the district is plausible, but the study does not show that walking is the cause",
+       "correct": true
+      },
+      {
+       "text": "The difference applies only to the 110 students in the samples and says nothing about the district"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a made-up randomized experiment, 40 seeds were assigned to each of two soil mixes. In mix A, 18 of the 40 seeds sprouted. In mix B, 27 of the 40 seeds sprouted. What is the observed difference in sprout proportions, B minus A?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "9"
+      },
+      {
+       "text": "0.45"
+      },
+      {
+       "text": "0.225",
+       "correct": true
+      },
+      {
+       "text": "0.675"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A test of a fair-coin claim uses a rule built to keep the false-alarm rate near 4%. Which change would most increase the chance of detecting a coin that really lands heads 60% of the time, while keeping the false-alarm rate near 4%?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Flip the coin 25 times instead of 100, with a rule of the same kind"
+      },
+      {
+       "text": "Use the same rule, but decide the cutoffs after seeing the data"
+      },
+      {
+       "text": "Tighten the rule so that it rejects only at far more extreme counts"
+      },
+      {
+       "text": "Flip the coin 400 times instead of 100, with a rule of the same kind",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A made-up headline says, \"Program doubles reading time.\" The report's own numbers show that average daily reading rose from 20 minutes to 22 minutes. By what percent did the average reading time rise?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "10%",
+       "correct": true
+      },
+      {
+       "text": "2%"
+      },
+      {
+       "text": "20%"
+      },
+      {
+       "text": "100%"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A made-up report measures 40 children aged 6 to 12 and fits the line height = 80 + 6.2 × age (height in centimeters, age in years). Using the line, the report predicts that a 30-year-old will be 266 cm tall. What is the best critique?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The prediction is an extrapolation far beyond the ages studied (6 to 12), and the impossible 266 cm shows the line does not hold there",
+       "correct": true
+      },
+      {
+       "text": "The line should have been fitted to a larger number of adults before it can be used at all"
+      },
+      {
+       "text": "The line must be wrong for children, because the slope is positive"
+      },
+      {
+       "text": "The prediction is acceptable, because the line fits the children well"
+      }
+     ]
+    }
+   ]
   }
  ],
  "discussions": [],
@@ -8692,6 +9705,12 @@
      "ref": "a_review",
      "week": 18,
      "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_final",
+     "week": 18,
+     "completion": "must_submit"
     }
    ]
   },
@@ -8716,6 +9735,6 @@
   }
  ],
  "source": {
-  "note": "Built 2026-10-09 from the Semester 2 content repo (optimaondemand/hs-probability-statistics-honors, main): module-07..12 folders, semester-2-finals, 00_FrontMatter; titles and order from plan.md and the module folders (no separate Module Maps); lessons on https://optimaondemand.github.io/hsps-widgets/s2-lessons/. Item weeks are semester weeks (course week 19 = week 1, finals = week 18). The Semester 2 Final Exam (50 questions drawn 9/9/6/9/9/8 from six question banks) is not in this kit: the cartridge format has no question-group draws; see the Final Exam Build Spec in Teacher Resources."
+  "note": "Built 2026-10-09 from the Semester 2 content repo (optimaondemand/hs-probability-statistics-honors, main): module-07..12 folders, semester-2-finals, 00_FrontMatter; titles and order from plan.md and the module folders (no separate Module Maps); lessons on https://optimaondemand.github.io/hsps-widgets/s2-lessons/. Item weeks are semester weeks (course week 19 = week 1, finals = week 18). The Semester 2 Final Exam in this kit is one fixed 50-question form (one question from each lesson quiz, 9/9/6/9/9/8, seed 2026100901) because the cartridge format has no question-group draws; it is listed in semester-2-finals/final-exam-form.md. Set the time limit (90 minutes) and one-question-at-a-time in Canvas; the cartridge cannot carry them."
  }
 }
