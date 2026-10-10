@@ -4,11 +4,11 @@
  "code": "1001310",
  "title": "English 1 (9th Grade) Sem 2",
  "file": "cartridges/1001310-s2.imscc",
- "bytes": 790952,
- "version": "2026.10.08",
- "built": "2026-10-08T06:23:21",
+ "bytes": 784039,
+ "version": "2026.10.10",
+ "built": "2026-10-10T10:41:06",
  "front_page": "wiki_content/course-home.html",
- "items": 199,
+ "items": 215,
  "modules": [
   {
    "id": "m_w01",
@@ -23,7 +23,7 @@
    "title": "Module 5: Short Stories · Week 2",
    "gid": "gb69fd447aebb1e0e5d7430800bf08709",
    "published": true,
-   "items": 8,
+   "items": 9,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -47,7 +47,7 @@
    "title": "Module 5: Short Stories · Week 5",
    "gid": "gef6dc63530a8f905a8850bfc7edaf4ee",
    "published": true,
-   "items": 9,
+   "items": 10,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -63,7 +63,7 @@
    "title": "Module 5: Short Stories · Week 7",
    "gid": "g579e93edc2b52c81b9f2871999872600",
    "published": true,
-   "items": 8,
+   "items": 9,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -71,7 +71,7 @@
    "title": "Module 5: Short Stories · Week 8",
    "gid": "ga7bfe864340e6b3b6cf52bc4cfd51bb5",
    "published": true,
-   "items": 9,
+   "items": 10,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -79,7 +79,7 @@
    "title": "Module 6: The Scarlet Letter · Week 1",
    "gid": "gda045dacb03136d4c3f10f4004c0098b",
    "published": true,
-   "items": 11,
+   "items": 12,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -87,7 +87,7 @@
    "title": "Module 6: The Scarlet Letter · Week 2",
    "gid": "gfce500d9065721d44dd9f81eaa0d6c2c",
    "published": true,
-   "items": 10,
+   "items": 11,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -103,7 +103,7 @@
    "title": "Module 6: The Scarlet Letter · Week 4",
    "gid": "gc64d5883d74617548ba3a455b71f19bf",
    "published": true,
-   "items": 9,
+   "items": 10,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -111,7 +111,7 @@
    "title": "Module 6: The Scarlet Letter · Week 5",
    "gid": "gb555f42cdc88f6106d60fb3d5dcacb16",
    "published": true,
-   "items": 9,
+   "items": 10,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -119,7 +119,7 @@
    "title": "Module 7: The Crucible · Week 1",
    "gid": "g9404ca92833aeb4f36da60ea2c7e7d6f",
    "published": true,
-   "items": 10,
+   "items": 11,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -135,7 +135,7 @@
    "title": "Module 7: The Crucible · Week 3",
    "gid": "gbad205f8eb8fc84796c4e42926549c74",
    "published": true,
-   "items": 8,
+   "items": 9,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -143,7 +143,7 @@
    "title": "Module 7: The Crucible · Week 4",
    "gid": "g5ee4c9dc2ef9be2a664bfce693a65c41",
    "published": true,
-   "items": 12,
+   "items": 14,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -151,7 +151,7 @@
    "title": "Module 7B: American Seminal Documents (Mississippi Standards) · Week 1",
    "gid": "g9b5cf52dd7460110dcbcac48ba7414cb",
    "published": false,
-   "items": 8,
+   "items": 9,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -159,7 +159,7 @@
    "title": "Module 7B: American Seminal Documents (Mississippi Standards) · Week 2",
    "gid": "g64ac44d8fc155db7dbb3c95a4898018c",
    "published": false,
-   "items": 7,
+   "items": 8,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -167,7 +167,7 @@
    "title": "Module 7B: American Seminal Documents (Mississippi Standards) · Week 3",
    "gid": "gd564a50b73e38819b68e3f23449703e3",
    "published": false,
-   "items": 9,
+   "items": 10,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -175,7 +175,7 @@
    "title": "Module 7B: American Seminal Documents (Mississippi Standards) · Week 4",
    "gid": "g67db36c849b3c5dd3827f46132bb77a7",
    "published": false,
-   "items": 12,
+   "items": 13,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -188,13 +188,13 @@
   }
  ],
  "counts": {
-  "pages": 116,
+  "pages": 132,
   "assignments": 31,
   "quizzes": 29,
   "discussions": 21,
   "files": 2,
   "modules": 22,
-  "items": 199
+  "items": 215
  },
  "weights": [
   {
@@ -1711,25 +1711,25 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 250,
+   "resources": 266,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 82,
-    "webcontent": 118,
+    "webcontent": 134,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 29,
     "imsdt_xmlv1p1": 21
    },
-   "organization_items": 199,
+   "organization_items": 215,
    "modules": 22,
-   "module_items": 199,
+   "module_items": 215,
    "module_item_types": {
-    "WikiPage": 115,
+    "WikiPage": 131,
     "Quizzes::Quiz": 29,
     "Assignment": 32,
     "DiscussionTopic": 21,
     "Attachment": 2
    },
    "default_view": "wiki",
-   "pages": 116,
+   "pages": 132,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 1,
    "group_refs": 110,
@@ -1741,6 +1741,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "9beadb439fcadb29098b761cdbc9d5c1e2390dfd9c2a18a37d476c55e328da78",
+ "spec_sha": "102a70e70ad3f8fb7343cfdac94f0cefbab443257026aa8425950ee5466eca92",
  "art_pack": null
 }
