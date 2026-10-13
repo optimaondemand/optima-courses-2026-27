@@ -1,0 +1,3613 @@
+{
+ "course": {
+  "title": "M/J Grade 6 Digital Discoveries Sem 1",
+  "code": "0200021",
+  "default_view": "wiki",
+  "weighted": false,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_quizzes-assessments",
+   "title": "Quizzes & Assessments",
+   "weight": 0
+  }
+ ],
+ "rubrics": [],
+ "pages": [
+  {
+   "id": "p_home",
+   "title": "Welcome — 6th Grade Digital Discoveries",
+   "published": true,
+   "html": "<h1>Welcome to 6th Grade Digital Discoveries</h1>\r\n<p><span class=\"badge\">CPALMS #0200021</span> <span class=\"badge\">Florida CS Standards SC.6.*</span></p>\r\n<p>Optima Academy Online — Grade 6 Digital Discoveries (CPALMS #0200021). An asynchronous, self-paced computer science course aligned to Florida Computer Science Standards (SC.6.*). Students explore digital communication, data and cyber safety, programming with Python, modeling and AI ethics, and complete a year-end capstone project.</p>\r\n\r\n<h2>What you'll learn this year</h2>\r\n<p>Across five units and 36 weeks, you'll move from everyday digital communication into the fundamentals of programming, modeling, and AI ethics — finishing with a year-end capstone where you put it all together.</p>\r\n\r\n<div class=\"unit-card\">\r\n  <h3>Course flow</h3>\r\n  <ul>\r\n    <li><strong>Unit 1 — Digital Foundations</strong> — Weeks 1–7. Digital communication, multimedia, file organization, productivity tools.</li>\r\n    <li><strong>Unit 2 — Data &amp; Cyber Safety</strong> — Weeks 9–18. The journey of data, permissions, phishing, encryption, source evaluation, and digital wellness.</li>\r\n    <li><strong>Unit 3 — Programming</strong> — Weeks 19–28. Computational thinking, flowcharts, Python data types, conditionals, loops, functions, debugging.</li>\r\n    <li><strong>Unit 4 — Modeling, Design &amp; AI</strong> — Weeks 29–33. Simulation, the engineering design process, AI fundamentals, ethics, and human-AI collaboration.</li>\r\n    <li><strong>Unit 5 — Capstone &amp; Course Final</strong> — Weeks 35–36. Careers in computing, year-end capstone project, and course final.</li>\r\n  </ul>\r\n</div>\r\n\r\n<h2>How each week works</h2>\r\n<ul>\r\n  <li><strong>Reading</strong> — the concept page introducing the week's topic and vocabulary.</li>\r\n  <li><strong>Activity</strong> — an interactive practice task (scenarios, sorting, decision-making) that reinforces the reading.</li>\r\n  <li><strong>Quiz</strong> — 5 multiple-choice questions, 3 attempts, instant feedback. Best attempt is kept.</li>\r\n</ul>\r\n<p>At the end of each unit, a longer summative <strong>Unit Assessment</strong> checks your mastery. Unit 5 ends with the cumulative <strong>Course Final</strong>.</p>\r\n\r\n<h2>Getting started</h2>\r\n<ol>\r\n  <li>Click <strong>Modules</strong> in the left sidebar — that's the main navigation for this course.</li>\r\n  <li>Open the <strong>Course Syllabus</strong> page (in the Start Here module) to see the full week-by-week plan.</li>\r\n  <li>Start with Unit 1, Week 1 and complete each week's reading → activity → quiz in order.</li>\r\n</ol>\r\n\r\n<p class=\"meta\">Optima Academy Online · Grade 6 Digital Discoveries</p>"
+  },
+  {
+   "id": "p_syllabus",
+   "title": "Course Syllabus — 6th Grade Digital Discoveries",
+   "published": true,
+   "html": "<h1>Course Syllabus</h1>\r\n<p class=\"meta\">6th Grade Digital Discoveries · CPALMS #0200021 · Asynchronous self-paced</p>\r\n\r\n<h2>Course description</h2>\r\n<p>Optima Academy Online — Grade 6 Digital Discoveries (CPALMS #0200021). An asynchronous, self-paced computer science course aligned to Florida Computer Science Standards (SC.6.*). Students explore digital communication, data and cyber safety, programming with Python, modeling and AI ethics, and complete a year-end capstone project.</p>\r\n\r\n<h2>Grading</h2>\r\n<table>\r\n  <tr><th>Component</th><th>Per item</th><th>Attempts</th><th>Policy</th></tr>\r\n  <tr><td>Weekly Quizzes</td><td>5 pts (5 × 1 pt)</td><td>3</td><td>Best attempt kept</td></tr>\r\n  <tr><td>Unit Assessments</td><td>10–15 pts</td><td>2</td><td>Best attempt kept</td></tr>\r\n  <tr><td>Capstone Project (Unit 5)</td><td>Per project rubric</td><td>1 submission</td><td>Rubric-graded</td></tr>\r\n</table>\r\n\r\n<h2>Units &amp; weekly contents</h2>\r\n<p class=\"meta\">Navigate to each item from the <strong>Modules</strong> page in the left sidebar.</p>\r\n<div class=\"unit-card\">\r\n  <h3>Unit 1 — Digital Foundations</h3>\r\n  <p class=\"meta\">Weeks 1–7. Digital communication, multimedia, file organization, productivity tools.</p>\r\n  <ul>\r\n    <li><strong>Week 1</strong>\r\n      <ul>\r\n        <li>Week 1 — Digital Communication Basics</li>\r\n        <li>Week 1 Activity — Pick the Right Channel</li>\r\n        <li>Week 1 Quiz — Digital Communication Basics</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 2</strong>\r\n      <ul>\r\n        <li>Week 2 — Digital Communication in Practice</li>\r\n        <li>Week 2 Activity — Revise the Message</li>\r\n        <li>Week 2 Quiz — Digital Communication in Practice</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 3</strong>\r\n      <ul>\r\n        <li>Week 3 — Introduction to Multimedia Design</li>\r\n        <li>Week 3 Activity — Design Decisions</li>\r\n        <li>Week 3 Quiz — Introduction to Multimedia Design</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 4</strong>\r\n      <ul>\r\n        <li>Week 4 — Building Multimedia Projects</li>\r\n        <li>Week 4 Activity — Studio Critic</li>\r\n        <li>Week 4 Quiz — Building Multimedia Projects</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 5</strong>\r\n      <ul>\r\n        <li>Week 5 — File Types &amp; Digital Organization</li>\r\n        <li>Week 5 Activity — File Detective</li>\r\n        <li>Week 5 Quiz — File Types and Digital Organization</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 6</strong>\r\n      <ul>\r\n        <li>Week 6 — Productivity Software &amp; Collaboration Tools</li>\r\n        <li>Week 6 Activity — Pick Your Tool</li>\r\n        <li>Week 6 Quiz — Productivity Software and Collaboration</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 7</strong>\r\n      <ul>\r\n        <li>Week 7 — Unit 1 Review &amp; Project</li>\r\n        <li>Week 7 Activity — Unit 1 Review Game</li>\r\n        <li>Week 7 Practice Quiz — Unit 1 Review</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Summative Assessment</strong>\r\n      <ul>\r\n        <li>Unit 1 Summative Assessment — Digital Foundations</li>\r\n      </ul>\r\n    </li>\r\n  </ul>\r\n</div>\r\n<div class=\"unit-card\">\r\n  <h3>Unit 2 — Data &amp; Cyber Safety</h3>\r\n  <p class=\"meta\">Weeks 9–18. The journey of data, permissions, phishing, encryption, source evaluation, and digital wellness.</p>\r\n  <ul>\r\n    <li><strong>Week 9</strong>\r\n      <ul>\r\n        <li>Week 9 — The Journey of Data</li>\r\n        <li>Week 9 Activity — Trace the Data Journey</li>\r\n        <li>Week 9 Quiz — The Journey of Data</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 10</strong>\r\n      <ul>\r\n        <li>Week 10 — Data Access &amp; Permissions</li>\r\n        <li>Week 10 Activity — Pick the Right Role</li>\r\n        <li>Week 10 Quiz — Data Access &amp; Permissions</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 11</strong>\r\n      <ul>\r\n        <li>Week 11 — Phishing, Social Engineering &amp; Privacy</li>\r\n        <li>Week 11 Activity — Spot the Phish</li>\r\n        <li>Week 11 Quiz — Phishing, Social Engineering &amp; Privacy</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 12</strong>\r\n      <ul>\r\n        <li>Week 12 — Encryption &amp; Digital Identity</li>\r\n        <li>Week 12 Activity — Crack the Code</li>\r\n        <li>Week 12 Quiz — Encryption &amp; Digital Identity</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 13</strong>\r\n      <ul>\r\n        <li>Week 13 — Evaluating Online Sources</li>\r\n        <li>Week 13 Activity — Source Detective</li>\r\n        <li>Week 13 Quiz — Evaluating Online Sources</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 14</strong>\r\n      <ul>\r\n        <li>Week 14 — Digital Wellness &amp; Screen Time</li>\r\n        <li>Week 14 Activity — Build Your Balance</li>\r\n        <li>Week 14 Quiz — Digital Wellness &amp; Screen Time</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 15</strong>\r\n      <ul>\r\n        <li>Week 15 — Cyber Safety PSA Project Guide</li>\r\n        <li>Week 15 — PSA Planning Activity</li>\r\n        <li>Week 15 — Rubric &amp; Submission Checklist</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 16</strong>\r\n      <ul>\r\n        <li>Week 16 — Unit 2 Review</li>\r\n        <li>Week 16 Activity — Unit 2 Mixed Review</li>\r\n        <li>Week 16 Practice Quiz — Unit 2 Review</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 18</strong>\r\n      <ul>\r\n        <li>Week 18 — Semester 1 Reflection &amp; Midpoint Check</li>\r\n        <li>Week 18 Self-Assessment — Semester 1 Reflection</li>\r\n        <li>Week 18 Quiz — Semester 1 Review</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Summative Assessment</strong>\r\n      <ul>\r\n        <li>Unit 2 Assessment — Data &amp; Cyber Safety</li>\r\n      </ul>\r\n    </li>\r\n  </ul>\r\n</div>\r\n<div class=\"unit-card\">\r\n  <h3>Unit 3 — Programming</h3>\r\n  <p class=\"meta\">Weeks 19–28. Computational thinking, flowcharts, Python data types, conditionals, loops, functions, debugging.</p>\r\n  <ul>\r\n    <li><strong>Week 19</strong>\r\n      <ul>\r\n        <li>Week 19 — Introduction to Computational Thinking</li>\r\n        <li>Week 19 Activity — Think Like a Programmer</li>\r\n        <li>Week 19 Quiz — Introduction to Computational Thinking</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 20</strong>\r\n      <ul>\r\n        <li>Week 20 — Flowcharts &amp; Algorithm Design</li>\r\n        <li>Week 20 Activity — Flowchart Detective</li>\r\n        <li>Week 20 Quiz — Flowcharts &amp; Algorithm Design</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 21</strong>\r\n      <ul>\r\n        <li>Week 21 — Python Basics: Data Types &amp; Variables</li>\r\n        <li>Week 21 Activity — Type Detective</li>\r\n        <li>Week 21 Quiz — Python Basics: Data Types &amp; Variables</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 22</strong>\r\n      <ul>\r\n        <li>Week 22 — Science, Technology &amp; Society Connections</li>\r\n        <li>Week 22 Activity — Tech &amp; Society: Make the Call</li>\r\n        <li>Week 22 Quiz — Science, Technology &amp; Society</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 23</strong>\r\n      <ul>\r\n        <li>Week 23 — Logic: Conditionals &amp; Making Programs Choose</li>\r\n        <li>Week 23 Activity — Predict the Branch</li>\r\n        <li>Week 23 Quiz: Logic — Conditionals</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 24</strong>\r\n      <ul>\r\n        <li>Week 24 — Loops: The Power of Repetition</li>\r\n        <li>Week 24 Activity — Loop Logic</li>\r\n        <li>Week 24 Quiz — Loops</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 25</strong>\r\n      <ul>\r\n        <li>Week 25 — Functions &amp; Modular Programming</li>\r\n        <li>Week 25 Activity — Function Architect</li>\r\n        <li>Week 25 Quiz — Functions &amp; Modular Programming</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 26</strong>\r\n      <ul>\r\n        <li>Week 26 — Debugging &amp; The Software Lifecycle</li>\r\n        <li>Week 26 Activity — Bug Hunter</li>\r\n        <li>Week 26 Quiz — Debugging &amp; The Software Lifecycle</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 27</strong>\r\n      <ul>\r\n        <li>Week 27 — Unit 3 Review: From Idea to Code</li>\r\n        <li>Week 27 Activity — Unit 3 Mixer</li>\r\n        <li>Week 27 Quiz — Unit 3 Review</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 28</strong>\r\n      <ul>\r\n        <li>Unit 3 Assessment — Programming Fundamentals</li>\r\n      </ul>\r\n    </li>\r\n  </ul>\r\n</div>\r\n<div class=\"unit-card\">\r\n  <h3>Unit 4 — Modeling, Design &amp; AI</h3>\r\n  <p class=\"meta\">Weeks 29–33. Simulation, the engineering design process, AI fundamentals, ethics, and human-AI collaboration.</p>\r\n  <ul>\r\n    <li><strong>Week 29</strong>\r\n      <ul>\r\n        <li>Week 29 — Digital Modeling &amp; Simulation</li>\r\n        <li>Week 29 Activity — Model This!</li>\r\n        <li>Week 29 Quiz — Digital Modeling &amp; Simulation</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 30</strong>\r\n      <ul>\r\n        <li>Week 30 — Engineering Design Process</li>\r\n        <li>Week 30 Activity — Design Critique</li>\r\n        <li>Week 30 Quiz — Engineering Design Process</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 31</strong>\r\n      <ul>\r\n        <li>Week 31 — Human-AI Collaboration</li>\r\n        <li>Week 31 Activity — Who Should Do This?</li>\r\n        <li>Week 31 Quiz — Human-AI Collaboration</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 32</strong>\r\n      <ul>\r\n        <li>Week 32 — AI Fundamentals &amp; Ethics</li>\r\n        <li>Week 32 Activity — Ethical AI Decisions</li>\r\n        <li>Week 32 Quiz — AI Fundamentals &amp; Ethics</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 33</strong>\r\n      <ul>\r\n        <li>Week 33 — Unit 4 Review &amp; AI Perspectives Project</li>\r\n        <li>Week 33 Activity — AI Perspectives Project Guide</li>\r\n        <li>Week 33 Quiz — Unit 4 Review</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Summative Assessment</strong>\r\n      <ul>\r\n        <li>Unit 4 Assessment — Modeling &amp; AI</li>\r\n      </ul>\r\n    </li>\r\n  </ul>\r\n</div>\r\n<div class=\"unit-card\">\r\n  <h3>Unit 5 — Capstone &amp; Course Final</h3>\r\n  <p class=\"meta\">Weeks 35–36. Careers in computing, year-end capstone project, and course final.</p>\r\n  <ul>\r\n    <li><strong>Week 35</strong>\r\n      <ul>\r\n        <li>Week 35 — Careers in Computing &amp; Digital Citizenship</li>\r\n        <li>Week 35 Activity — Career Sleuth!</li>\r\n        <li>Week 35 Quiz — Careers in Computing &amp; Digital Citizenship</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 36</strong>\r\n      <ul>\r\n        <li>Week 36 — Year-End Capstone &amp; Course Final</li>\r\n        <li>Week 36 Activity — Year-End Capstone Project Guide</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Summative Assessment</strong>\r\n      <ul>\r\n        <li>Course Final Assessment — Digital Discoveries</li>\r\n      </ul>\r\n    </li>\r\n  </ul>\r\n</div>\r\n<p class=\"meta\">Standards alignment: SC.6.CC.* (Computational Communication), SC.6.CS.* (Computer Science), SC.6.DA.* (Data Analysis), SC.6.PA.* (Programming Applications), SC.6.AI.* (AI &amp; Ethics).</p>"
+  },
+  {
+   "id": "p_week-01-reading",
+   "title": "Week 1 — Digital Communication Basics",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 1 — Digital Communication Basics</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-01-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-01-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 1 — Digital Communication Basics\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-01-activity",
+   "title": "Week 1 Activity — Pick the Right Channel",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 1 Activity — Pick the Right Channel</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-01-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-01-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 1 Activity — Pick the Right Channel\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-02-reading",
+   "title": "Week 2 — Digital Communication in Practice",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 2 — Digital Communication in Practice</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-02-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-02-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 2 — Digital Communication in Practice\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-02-activity",
+   "title": "Week 2 Activity — Revise the Message",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 2 Activity — Revise the Message</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-02-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-02-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 2 Activity — Revise the Message\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-03-reading",
+   "title": "Week 3 — Introduction to Multimedia Design",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 3 — Introduction to Multimedia Design</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-03-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-03-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 3 — Introduction to Multimedia Design\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-03-activity",
+   "title": "Week 3 Activity — Design Decisions",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 3 Activity — Design Decisions</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-03-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-03-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 3 Activity — Design Decisions\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-04-reading",
+   "title": "Week 4 — Building Multimedia Projects",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 4 — Building Multimedia Projects</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-04-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-04-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 4 — Building Multimedia Projects\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-04-activity",
+   "title": "Week 4 Activity — Studio Critic",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 4 Activity — Studio Critic</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-04-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-04-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 4 Activity — Studio Critic\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-05-reading",
+   "title": "Week 5 — File Types & Digital Organization",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 5 — File Types &amp; Digital Organization</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-05-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-05-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 5 — File Types &amp; Digital Organization\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-05-activity",
+   "title": "Week 5 Activity — File Detective",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 5 Activity — File Detective</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-05-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-05-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 5 Activity — File Detective\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-06-reading",
+   "title": "Week 6 — Productivity Software & Collaboration Tools",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 6 — Productivity Software &amp; Collaboration Tools</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-06-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-06-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 6 — Productivity Software &amp; Collaboration Tools\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-06-activity",
+   "title": "Week 6 Activity — Pick Your Tool",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 6 Activity — Pick Your Tool</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-06-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-06-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 6 Activity — Pick Your Tool\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-07-reading",
+   "title": "Week 7 — Unit 1 Review & Project",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 7 — Unit 1 Review &amp; Project</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-07-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-07-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 7 — Unit 1 Review &amp; Project\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-07-activity",
+   "title": "Week 7 Activity — Unit 1 Review Game",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 7 Activity — Unit 1 Review Game</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-07-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit1/week-07-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 7 Activity — Unit 1 Review Game\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-09-reading",
+   "title": "Week 9 — The Journey of Data",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 9 — The Journey of Data</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-09-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-09-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 9 — The Journey of Data\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-09-activity",
+   "title": "Week 9 Activity — Trace the Data Journey",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 9 Activity — Trace the Data Journey</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-09-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-09-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 9 Activity — Trace the Data Journey\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-10-reading",
+   "title": "Week 10 — Data Access & Permissions",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 10 — Data Access &amp; Permissions</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-10-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-10-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 10 — Data Access &amp; Permissions\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-10-activity",
+   "title": "Week 10 Activity — Pick the Right Role",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 10 Activity — Pick the Right Role</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-10-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-10-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 10 Activity — Pick the Right Role\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-11-reading",
+   "title": "Week 11 — Phishing, Social Engineering & Privacy",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 11 — Phishing, Social Engineering &amp; Privacy</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-11-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-11-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 11 — Phishing, Social Engineering &amp; Privacy\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-11-activity",
+   "title": "Week 11 Activity — Spot the Phish",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 11 Activity — Spot the Phish</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-11-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-11-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 11 Activity — Spot the Phish\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-12-reading",
+   "title": "Week 12 — Encryption & Digital Identity",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 12 — Encryption &amp; Digital Identity</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-12-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-12-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 12 — Encryption &amp; Digital Identity\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-12-activity",
+   "title": "Week 12 Activity — Crack the Code",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 12 Activity — Crack the Code</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-12-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-12-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 12 Activity — Crack the Code\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-13-reading",
+   "title": "Week 13 — Evaluating Online Sources",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 13 — Evaluating Online Sources</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-13-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-13-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 13 — Evaluating Online Sources\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-13-activity",
+   "title": "Week 13 Activity — Source Detective",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 13 Activity — Source Detective</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-13-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-13-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 13 Activity — Source Detective\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-14-reading",
+   "title": "Week 14 — Digital Wellness & Screen Time",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 14 — Digital Wellness &amp; Screen Time</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-14-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-14-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 14 — Digital Wellness &amp; Screen Time\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-14-activity",
+   "title": "Week 14 Activity — Build Your Balance",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 14 Activity — Build Your Balance</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-14-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-14-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 14 Activity — Build Your Balance\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-15-project-guide",
+   "title": "Week 15 — Cyber Safety PSA Project Guide",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 15 — Cyber Safety PSA Project Guide</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-15-project-guide.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-15-project-guide.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 15 — Cyber Safety PSA Project Guide\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-15-planning-activity",
+   "title": "Week 15 — PSA Planning Activity",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 15 — PSA Planning Activity</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-15-planning-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-15-planning-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 15 — PSA Planning Activity\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-15-rubric-checklist",
+   "title": "Week 15 — Rubric & Submission Checklist",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 15 — Rubric &amp; Submission Checklist</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-15-rubric-checklist.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-15-rubric-checklist.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 15 — Rubric &amp; Submission Checklist\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-16-reading",
+   "title": "Week 16 — Unit 2 Review",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 16 — Unit 2 Review</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-16-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-16-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 16 — Unit 2 Review\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-16-activity",
+   "title": "Week 16 Activity — Unit 2 Mixed Review",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 16 Activity — Unit 2 Mixed Review</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-16-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-16-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 16 Activity — Unit 2 Mixed Review\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-18-reading",
+   "title": "Week 18 — Semester 1 Reflection & Midpoint Check",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 18 — Semester 1 Reflection &amp; Midpoint Check</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-18-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-18-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 18 — Semester 1 Reflection &amp; Midpoint Check\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-18-activity",
+   "title": "Week 18 Self-Assessment — Semester 1 Reflection",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 18 Self-Assessment — Semester 1 Reflection</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-18-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit2/week-18-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 18 Self-Assessment — Semester 1 Reflection\"></iframe>\r\n</p>"
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_week-1-quiz-digital-communication-basics",
+   "title": "Week 1 Quiz — Digital Communication Basics",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following is the <strong>BEST</strong> example of <strong>synchronous</strong> digital communication?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Posting a reply to a discussion board the night before class",
+       "correct": false,
+       "feedback": "<p>❌ Discussion posts are <strong>asynchronous</strong> — they're read whenever the reader gets to them, not in real time.</p>"
+      },
+      {
+       "text": "Sending an email to your teacher about homework",
+       "correct": false,
+       "feedback": "<p>❌ Email is <strong>asynchronous</strong> — the sender and receiver are not online at the same time.</p>"
+      },
+      {
+       "text": "Joining a live video class with your teacher and classmates",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Live video calls are synchronous: everyone is present and communicating in real time. (SC.6.CC.1.1)</p>"
+      },
+      {
+       "text": "Leaving a voicemail for a friend",
+       "correct": false,
+       "feedback": "<p>❌ A voicemail is <strong>asynchronous</strong> — the friend listens to it later, not while you speak.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is a <strong>data packet</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A folder that stores all of your digital files",
+       "correct": false,
+       "feedback": "<p>❌ That describes storage or a directory, not a data packet.</p>"
+      },
+      {
+       "text": "A password that protects your messages",
+       "correct": false,
+       "feedback": "<p>❌ That describes encryption or authentication, not a data packet.</p>"
+      },
+      {
+       "text": "A small chunk of information that travels across a network",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Data packets are small pieces of a larger message that travel separately across a network and are reassembled at the destination. (SC.6.CC.1.1)</p>"
+      },
+      {
+       "text": "A type of router used to connect devices",
+       "correct": false,
+       "feedback": "<p>❌ Routers <em>direct</em> packets — they aren't packets themselves.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You need to send a detailed question to your science teacher about an upcoming project. Which tool is <strong>MOST</strong> appropriate?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A quick text message with abbreviations",
+       "correct": false,
+       "feedback": "<p>❌ A text with abbreviations is too informal for a teacher — the tone won't match the audience.</p>"
+      },
+      {
+       "text": "An email written in a clear, polite tone",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Email is asynchronous, professional, and leaves a written record — ideal for a detailed question to a teacher. (SC.6.CC.1.1)</p>"
+      },
+      {
+       "text": "A reaction emoji on a class post",
+       "correct": false,
+       "feedback": "<p>❌ A single emoji can't carry a full question. The teacher won't know what you're asking.</p>"
+      },
+      {
+       "text": "A live video call at midnight",
+       "correct": false,
+       "feedback": "<p>❌ Synchronous calls require both people present — and late-night timing isn't appropriate for a teacher.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which statement <strong>BEST</strong> describes <strong>asynchronous</strong> communication?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Both people must be online at the same time to communicate",
+       "correct": false,
+       "feedback": "<p>❌ That describes <strong>synchronous</strong>, not asynchronous. The prefix \"a-\" means \"not\" — asynchronous means NOT together in time.</p>"
+      },
+      {
+       "text": "Messages are sent and received at different times, not in real time",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Asynchronous = not together in time. Emails and discussion posts are classic examples. (SC.6.CC.1.1)</p>"
+      },
+      {
+       "text": "Asynchronous communication only works for video calls",
+       "correct": false,
+       "feedback": "<p>❌ Video calls are typically <strong>synchronous</strong>, which is the opposite of asynchronous.</p>"
+      },
+      {
+       "text": "Asynchronous communication requires a special kind of network",
+       "correct": false,
+       "feedback": "<p>❌ Asynchronous tools use the same networks as synchronous ones. The difference is in timing, not hardware.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In digital communication, what is the role of a <strong>router</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It creates new messages on behalf of the sender",
+       "correct": false,
+       "feedback": "<p>❌ Routers don't write messages — they move them.</p>"
+      },
+      {
+       "text": "It stores all data packets permanently on a server",
+       "correct": false,
+       "feedback": "<p>❌ That describes storage or archiving, not routing.</p>"
+      },
+      {
+       "text": "It directs data packets to the correct destination across a network",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A router is like a digital traffic cop — it reads each packet's destination and sends it along the fastest route. (SC.6.CC.1.1)</p>"
+      },
+      {
+       "text": "It converts text messages into voice messages",
+       "correct": false,
+       "feedback": "<p>❌ That's voice-to-text software — not a router.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-2-quiz-digital-communication-in-practice",
+   "title": "Week 2 Quiz — Digital Communication in Practice",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does the word <strong>\"netiquette\"</strong> mean?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A special kind of internet connection",
+       "correct": false,
+       "feedback": "<p>❌ That describes hardware or network speed — not a behavior rule.</p>"
+      },
+      {
+       "text": "The unwritten rules of respectful online communication",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> \"Netiquette\" blends \"network\" and \"etiquette\" — it's the code of polite online conduct. (SC.6.CC.1.1)</p>"
+      },
+      {
+       "text": "A software that blocks bad messages",
+       "correct": false,
+       "feedback": "<p>❌ That describes a filter or moderation tool, not netiquette.</p>"
+      },
+      {
+       "text": "The name of a popular social media app",
+       "correct": false,
+       "feedback": "<p>❌ Netiquette isn't an app — it's a set of behavior norms.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The <strong>3 C's</strong> of effective digital writing are:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Creativity, caution, curiosity",
+       "correct": false,
+       "feedback": "<p>❌ Good qualities, but not the 3 C's of digital writing.</p>"
+      },
+      {
+       "text": "Color, contrast, clarity",
+       "correct": false,
+       "feedback": "<p>❌ Clarity is correct, but color and contrast belong to visual design, not writing.</p>"
+      },
+      {
+       "text": "Clarity, concision, courtesy",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Clarity (be understood), concision (respect the reader's time), courtesy (kind tone). (SC.6.CC.1.1)</p>"
+      },
+      {
+       "text": "Confidence, charm, cleverness",
+       "correct": false,
+       "feedback": "<p>❌ These sound nice, but they are not the 3 C's of digital writing.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You just wrote an <strong>angry reply</strong> to a discussion post. What is the <strong>WISEST</strong> action?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Save it as a draft, wait at least 30 minutes, and reread it before sending",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> This is the virtue of <strong>temperance</strong> in action — pausing before reacting. If the message still fits after the break, send. If not, you saved yourself. (SC.6.CC.1.1)</p>"
+      },
+      {
+       "text": "Post it right away while you still feel strongly about it",
+       "correct": false,
+       "feedback": "<p>❌ Messages written in strong emotion almost always sound worse the next day. This breaks the virtue of temperance.</p>"
+      },
+      {
+       "text": "Send it privately to a few friends first",
+       "correct": false,
+       "feedback": "<p>❌ Now multiple people have a copy they could share. Not a safer path — a riskier one.</p>"
+      },
+      {
+       "text": "Type it in ALL CAPS so your point is clear",
+       "correct": false,
+       "feedback": "<p>❌ ALL CAPS reads like shouting and breaks netiquette — this makes the problem worse, not better.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which version of \"I can't make practice today\" has the <strong>BEST</strong> tone for a <strong>teacher or coach</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"cant come 2 practice, sry\"",
+       "correct": false,
+       "feedback": "<p>❌ Too casual and abbreviated for a teacher or coach. The tone doesn't fit the audience.</p>"
+      },
+      {
+       "text": "\"WHY DOES EVERYONE THINK I CAN COME TO EVERYTHING\"",
+       "correct": false,
+       "feedback": "<p>❌ ALL CAPS = shouting. Tone is also accusatory, not respectful.</p>"
+      },
+      {
+       "text": "\"Hi Coach, I won't be able to attend practice today due to a family commitment. I'll be there Wednesday. Thank you.\"",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Formal, respectful, specific — tone matches the audience. Includes greeting, reason, plan, and thanks. (SC.6.CC.1.1)</p>"
+      },
+      {
+       "text": "\"not coming today 🙃\"",
+       "correct": false,
+       "feedback": "<p>❌ Too curt and too casual. Missing greeting, reason, and any courtesy for a coach or teacher.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The classical virtue of <strong>prudence</strong>, applied to digital communication, means:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Being brave enough to post your real opinions",
+       "correct": false,
+       "feedback": "<p>❌ That's closer to fortitude (courage), not prudence.</p>"
+      },
+      {
+       "text": "Wisely choosing the right action at the right moment — the right tool, audience, and timing",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Prudence is practical wisdom. Online, it's asking \"Is this the right channel? Right time? Right audience?\" before acting. (SC.6.CC.1.1)</p>"
+      },
+      {
+       "text": "Treating every person fairly and equally",
+       "correct": false,
+       "feedback": "<p>❌ That describes the virtue of <em>justice</em> — important, but a different virtue.</p>"
+      },
+      {
+       "text": "Staying calm when you're angry",
+       "correct": false,
+       "feedback": "<p>❌ Close! That's <em>temperance</em> (self-control), not prudence (wise choice). Prudence decides; temperance restrains.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-3-quiz-introduction-to-multimedia-design",
+   "title": "Week 3 Quiz — Introduction to Multimedia Design",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does <strong>\"multimedia\"</strong> mean?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Content that uses only video",
+       "correct": false,
+       "feedback": "<p>❌ Video alone is one medium. Multimedia means MORE than one type combined.</p>"
+      },
+      {
+       "text": "Content that uses only audio",
+       "correct": false,
+       "feedback": "<p>❌ Audio alone is one medium. Multimedia combines two or more types on purpose.</p>"
+      },
+      {
+       "text": "Content that combines two or more types of media (text, images, audio, video) on purpose",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> \"Multi-\" means \"many.\" Multimedia is many media types working together. (SC.6.CC.2.1)</p>"
+      },
+      {
+       "text": "Content that uses only text",
+       "correct": false,
+       "feedback": "<p>❌ Text alone is one medium. The whole point of multimedia is combining types.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The three classical <strong>rhetorical purposes</strong> of communication — first identified by Aristotle — are:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Inform, confuse, frustrate",
+       "correct": false,
+       "feedback": "<p>❌ \"Confuse\" and \"frustrate\" aren't real rhetorical purposes — and good designers avoid both!</p>"
+      },
+      {
+       "text": "Inform, persuade, entertain",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Aristotle's framework, still used today: teach (inform), change what people think or do (persuade), or delight (entertain). (SC.6.CC.2.1)</p>"
+      },
+      {
+       "text": "Type, click, scroll",
+       "correct": false,
+       "feedback": "<p>❌ Those are user actions, not communication purposes.</p>"
+      },
+      {
+       "text": "Sketch, code, present",
+       "correct": false,
+       "feedback": "<p>❌ Those are creative steps, not rhetorical purposes.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're designing a slideshow for <strong>kindergarten students</strong>. Which choice shows the BEST audience awareness?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Long paragraphs of text on every slide",
+       "correct": false,
+       "feedback": "<p>❌ Kindergarteners can't read paragraphs. Wrong audience.</p>"
+      },
+      {
+       "text": "A 20-page report with footnotes",
+       "correct": false,
+       "feedback": "<p>❌ Reports with footnotes fit a college audience, not 5-year-olds.</p>"
+      },
+      {
+       "text": "Big, friendly images and one short sentence per slide",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Audience-first design: big visuals + simple language match a kindergarten audience perfectly. (SC.6.CC.2.1)</p>"
+      },
+      {
+       "text": "A black-and-white scientific diagram with no labels",
+       "correct": false,
+       "feedback": "<p>❌ No engagement, no warmth, and no help reading — totally mismatched to a kindergarten audience.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The MAIN reason designers create a <strong>storyboard</strong> before opening any digital software is:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Storyboards are required by school rules",
+       "correct": false,
+       "feedback": "<p>❌ Storyboards aren't required by rules — smart designers choose them because they save time and effort.</p>"
+      },
+      {
+       "text": "Sketches are cheap to change; finished video work is expensive to redo",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> That's why every studio in the world uses storyboards: catch problems while changes still cost seconds, not hours. (SC.6.CC.2.1)</p>"
+      },
+      {
+       "text": "Storyboards look prettier than the final project",
+       "correct": false,
+       "feedback": "<p>❌ Storyboards are usually rough on purpose. The point is planning, not beauty.</p>"
+      },
+      {
+       "text": "Storyboards always have to be in color",
+       "correct": false,
+       "feedback": "<p>❌ Storyboards are typically pencil sketches with notes. Color isn't required at this stage.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><strong>Integration</strong> in multimedia design means:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Adding more ingredients than necessary",
+       "correct": false,
+       "feedback": "<p>❌ More isn't better — integration is about how the parts work together, not how many you have.</p>"
+      },
+      {
+       "text": "Using exactly the same color throughout",
+       "correct": false,
+       "feedback": "<p>❌ That's one tiny aspect of style. Integration is bigger — all ingredients supporting one idea.</p>"
+      },
+      {
+       "text": "When all the ingredients (text, visuals, audio) support the same idea instead of fighting each other",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Integrated work feels coherent — every ingredient says the same thing. (SC.6.CC.2.1)</p>"
+      },
+      {
+       "text": "Removing all images so only text remains",
+       "correct": false,
+       "feedback": "<p>❌ That's not integration — that's deletion. Integration keeps the ingredients but makes them work together.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-4-quiz-building-multimedia-projects",
+   "title": "Week 4 Quiz — Building Multimedia Projects",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p><strong>Aesthetic unity</strong> in a multimedia project means:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Every page uses different colors and fonts to keep things interesting",
+       "correct": false,
+       "feedback": "<p>❌ The opposite! Variety on every page kills unity. The whole point is consistent choices across pages.</p>"
+      },
+      {
+       "text": "Including as many colors and fonts as possible",
+       "correct": false,
+       "feedback": "<p>❌ More isn't better. Aesthetic unity comes from RESTRAINT — a small fixed palette and font pair.</p>"
+      },
+      {
+       "text": "Every page feels like part of the same project — same colors, same fonts, same layout style",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Aesthetic unity is the visual signal that one designer made one project. (SC.6.CC.2.1)</p>"
+      },
+      {
+       "text": "Using the most expensive design software available",
+       "correct": false,
+       "feedback": "<p>❌ Tools don't create unity. Discipline does — you can make unified work in any tool, even free ones.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The recommended size of a project <strong>color palette</strong> is:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "At least 10 colors, the more the better",
+       "correct": false,
+       "feedback": "<p>❌ Too many colors creates visual chaos. Real designers keep palettes small.</p>"
+      },
+      {
+       "text": "Exactly 1 color",
+       "correct": false,
+       "feedback": "<p>❌ One color is too restrictive — you can't show emphasis, backgrounds, or accents.</p>"
+      },
+      {
+       "text": "About 3–5 colors used consistently across the project",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> 3–5 colors is the sweet spot — enough variety to show emphasis, few enough to feel unified. (SC.6.CC.2.1)</p>"
+      },
+      {
+       "text": "A new color for every page",
+       "correct": false,
+       "feedback": "<p>❌ A new palette per page is the opposite of aesthetic unity.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is the STRONGEST piece of peer feedback?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"Good job!\"",
+       "correct": false,
+       "feedback": "<p>❌ Vague — your classmate doesn't know what to keep doing or how to improve.</p>"
+      },
+      {
+       "text": "\"On page 2, the text is hard to read against the photo — could you add a darker background behind the words?\"",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Specific (names the page and problem), kind (offers a solution), and actionable. Classic strong Glow/Grow. (SC.6.CC.2.1)</p>"
+      },
+      {
+       "text": "\"It's bad.\"",
+       "correct": false,
+       "feedback": "<p>❌ Vague AND unkind. Tells your classmate nothing useful.</p>"
+      },
+      {
+       "text": "\"Change everything.\"",
+       "correct": false,
+       "feedback": "<p>❌ Overwhelming and not specific. Strong feedback names ONE thing at a time.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You and a teammate are co-editing a Canva project. You disagree with their photo choice. The BEST first action is:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Silently delete and replace the photo with your own choice",
+       "correct": false,
+       "feedback": "<p>❌ Silently overwriting a teammate's work breaks trust. Always communicate first.</p>"
+      },
+      {
+       "text": "Stop working on the project",
+       "correct": false,
+       "feedback": "<p>❌ Quitting on a small disagreement is unfair to your teammate and the work.</p>"
+      },
+      {
+       "text": "Leave a Canva comment explaining your concern and suggesting an alternative",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Comments protect collaboration. They give your teammate a chance to respond before changes happen. (SC.6.CC.2.1)</p>"
+      },
+      {
+       "text": "Tell the teacher first before talking to your teammate",
+       "correct": false,
+       "feedback": "<p>❌ Save the teacher for big issues. Small disagreements are best handled inside the team using comments.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The 6th item on the FINAL QUALITY CHECKLIST asks you to confirm:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Page count is at least 10",
+       "correct": false,
+       "feedback": "<p>❌ More pages doesn't mean better. Page count isn't on the checklist.</p>"
+      },
+      {
+       "text": "Background music is exactly 30 seconds",
+       "correct": false,
+       "feedback": "<p>❌ Music length isn't a checklist item. Integration covers whether music FITS the project.</p>"
+      },
+      {
+       "text": "Every collaborator is credited and any borrowed images or sounds are attributed",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Honest credit (justice in action) and attribution of borrowed work are non-negotiable for honest design. (SC.6.CC.2.1)</p>"
+      },
+      {
+       "text": "The project took at least one week to make",
+       "correct": false,
+       "feedback": "<p>❌ Time isn't a checklist item. A great project is great whether it took 30 minutes or 3 weeks.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-5-quiz-file-types-and-digital-organization",
+   "title": "Week 5 Quiz — File Types and Digital Organization",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>A <strong>file extension</strong> (like .docx or .mp3) tells the computer:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The author's name",
+       "correct": false,
+       "feedback": "<p>❌ Authors aren't part of the extension. The extension is always after the dot.</p>"
+      },
+      {
+       "text": "Where the file is stored",
+       "correct": false,
+       "feedback": "<p>❌ Storage location is in the file path, not the extension.</p>"
+      },
+      {
+       "text": "What kind of file it is and which app should open it",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Extensions match files to apps. Without the extension, the computer often can't tell what to do. (SC.6.CO.1.1)</p>"
+      },
+      {
+       "text": "The size of the file",
+       "correct": false,
+       "feedback": "<p>❌ File size is shown separately. Extensions describe TYPE, not size.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which file extension belongs to the <strong>AUDIO</strong> family?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": ".docx",
+       "correct": false,
+       "feedback": "<p>❌ .docx is a document format (Microsoft Word).</p>"
+      },
+      {
+       "text": ".mp3",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> .mp3 is the universal audio format used for music, podcasts, and voice memos. (SC.6.CO.1.1)</p>"
+      },
+      {
+       "text": ".png",
+       "correct": false,
+       "feedback": "<p>❌ .png is an image format.</p>"
+      },
+      {
+       "text": ".stl",
+       "correct": false,
+       "feedback": "<p>❌ .stl is a 3D model format (used for 3D printing).</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You finished a 4-page essay. Your teacher asks you to submit it in a format that <strong>LOCKS the layout</strong> and works on any device. Which format is BEST?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": ".txt",
+       "correct": false,
+       "feedback": "<p>❌ .txt strips out all formatting (no bold, fonts, or layout). The opposite of locked.</p>"
+      },
+      {
+       "text": ".mp4",
+       "correct": false,
+       "feedback": "<p>❌ .mp4 is a video format. Your essay isn't a video.</p>"
+      },
+      {
+       "text": ".pdf",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> PDFs preserve fonts, spacing, and layout exactly, on any device. The standard for finished, formal submissions. (SC.6.CO.1.1)</p>"
+      },
+      {
+       "text": ".stl",
+       "correct": false,
+       "feedback": "<p>❌ .stl is for 3D models, not text documents.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which file name BEST follows the 4 rules of good naming (specific, no spaces, dated/versioned, keeps extension)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Untitled.docx",
+       "correct": false,
+       "feedback": "<p>❌ Not specific. \"Untitled\" tells you nothing about the contents.</p>"
+      },
+      {
+       "text": "final FINAL FINAL v2 (3) latest.docx",
+       "correct": false,
+       "feedback": "<p>❌ Spaces, redundant words, and confused versioning. This is what bad naming looks like!</p>"
+      },
+      {
+       "text": "civil-war-essay-v3-2026-04-27.docx",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Specific (topic), no spaces (hyphens), versioned and dated, and keeps the .docx extension. (SC.6.CO.1.1)</p>"
+      },
+      {
+       "text": "My File",
+       "correct": false,
+       "feedback": "<p>❌ Not specific, contains a space, AND no extension. Worst of all worlds.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does it mean to <strong>compress</strong> a file?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "To delete the file",
+       "correct": false,
+       "feedback": "<p>❌ Compression doesn't delete the file. It shrinks it.</p>"
+      },
+      {
+       "text": "To rename the file",
+       "correct": false,
+       "feedback": "<p>❌ Renaming changes the label, not the size. Different concept.</p>"
+      },
+      {
+       "text": "To shrink the file's size, so it takes less storage and sends faster",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Compression rearranges or simplifies data so files use less space — crucial for sharing photos and videos online. (SC.6.CO.1.1)</p>"
+      },
+      {
+       "text": "To open the file in a new app",
+       "correct": false,
+       "feedback": "<p>❌ Opening just means viewing the contents. Compression changes the file itself.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-6-quiz-productivity-software-and-collaboration",
+   "title": "Week 6 Quiz — Productivity Software and Collaboration",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>The MAIN difference between Microsoft Word and Google Docs is:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Word has color, Google Docs is black-and-white",
+       "correct": false,
+       "feedback": "<p>❌ Both apps support full color formatting.</p>"
+      },
+      {
+       "text": "Google Docs is illegal in some countries",
+       "correct": false,
+       "feedback": "<p>❌ Both are legal worldwide. Not the difference.</p>"
+      },
+      {
+       "text": "Word is desktop software (often offline); Google Docs is cloud software built for live collaboration in a browser",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Word's strengths are offline/layout; Docs' strengths are live collaboration and cloud access. (SC.6.CO.1.1)</p>"
+      },
+      {
+       "text": "Word is for kids, Google Docs is for adults",
+       "correct": false,
+       "feedback": "<p>❌ Both apps are used by people of all ages.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><strong>Cloud storage</strong> means:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Files stored in the sky on actual clouds",
+       "correct": false,
+       "feedback": "<p>❌ The name is metaphorical! The cloud is very physical — warehouses on the ground.</p>"
+      },
+      {
+       "text": "Files stored only on your phone",
+       "correct": false,
+       "feedback": "<p>❌ Phone-only storage is local, not cloud.</p>"
+      },
+      {
+       "text": "Files stored on far-away servers in data centers, accessible from any device with internet",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The cloud is real — data centers full of computers. Cloud files follow you across devices. (SC.6.CO.1.1)</p>"
+      },
+      {
+       "text": "A type of internet browser",
+       "correct": false,
+       "feedback": "<p>❌ Browsers are software that loads websites. Different thing entirely.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're proofreading a friend's essay. You want to suggest edits WITHOUT permanently changing their words. Which feature should you use?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Real-time co-editing",
+       "correct": false,
+       "feedback": "<p>❌ Co-editing changes the text directly. You don't want to overwrite your friend's words yet.</p>"
+      },
+      {
+       "text": "Suggesting mode (Track Changes)",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Suggesting mode shows your edits as PROPOSED changes — your friend can accept or reject each one. Perfect for proofreading. (SC.6.CO.1.2)</p>"
+      },
+      {
+       "text": "Export to PDF",
+       "correct": false,
+       "feedback": "<p>❌ PDF export creates a locked file. You can't easily suggest edits inside a finished PDF.</p>"
+      },
+      {
+       "text": "Print and shred the document",
+       "correct": false,
+       "feedback": "<p>❌ Don't shred your friend's essay! That deletes the work entirely.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your teammate accidentally deleted three paragraphs of your shared Google Doc. Which feature can rescue the deleted text?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Real-time co-editing",
+       "correct": false,
+       "feedback": "<p>❌ Co-editing is for typing simultaneously. It doesn't rewind history.</p>"
+      },
+      {
+       "text": "Comments",
+       "correct": false,
+       "feedback": "<p>❌ Comments add notes — they don't restore deleted text.</p>"
+      },
+      {
+       "text": "Version history",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Version history is an automatic record of past versions. Find a version from before the accident and restore. The ultimate undo. (SC.6.CO.1.2)</p>"
+      },
+      {
+       "text": "Delete the whole document and start over",
+       "correct": false,
+       "feedback": "<p>❌ That makes it worse — you'd lose all the GOOD work too. Use version history instead.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which statement about TRADEOFFS between productivity tools is MOST accurate?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Microsoft Word is best for everything",
+       "correct": false,
+       "feedback": "<p>❌ No tool is best for everything. That's the meaning of \"tradeoff.\"</p>"
+      },
+      {
+       "text": "Google Docs is best for everything",
+       "correct": false,
+       "feedback": "<p>❌ Same answer — neither tool is universally better.</p>"
+      },
+      {
+       "text": "Each tool has strengths and weaknesses; the smart choice depends on the job",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Tradeoffs are the truth of every tool. Smart digital citizens think in tradeoffs, not absolutes. (SC.6.CO.1.1)</p>"
+      },
+      {
+       "text": "Tools don't have tradeoffs",
+       "correct": false,
+       "feedback": "<p>❌ Every tool has tradeoffs. That's the core idea of this week.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-7-practice-quiz-unit-1-review",
+   "title": "Week 7 Practice Quiz — Unit 1 Review",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>(Week 1)</em> Which is the BEST example of <strong>synchronous</strong> digital communication?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "An email sent overnight",
+       "correct": false,
+       "feedback": "<p>❌ Email is asynchronous — sender and receiver aren't online together. Reread <strong>Week 1</strong>.</p>"
+      },
+      {
+       "text": "A discussion board post replied to next morning",
+       "correct": false,
+       "feedback": "<p>❌ Discussion posts are asynchronous — read whenever the reader gets to them. Reread <strong>Week 1</strong>.</p>"
+      },
+      {
+       "text": "A live video class with your teacher and 20 classmates",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Live video is synchronous — everyone is present and communicating in real time. (SC.6.CC.1.1)</p>"
+      },
+      {
+       "text": "A voicemail",
+       "correct": false,
+       "feedback": "<p>❌ Voicemails are asynchronous — listened to later. Reread <strong>Week 1</strong>.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>(Week 3)</em> Aristotle's three classical <strong>rhetorical purposes</strong> are:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Inform, confuse, frustrate",
+       "correct": false,
+       "feedback": "<p>❌ Confusion and frustration aren't real purposes! Reread <strong>Week 3</strong>.</p>"
+      },
+      {
+       "text": "Inform, persuade, entertain",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Aristotle's framework: teach (inform), change what people think or do (persuade), delight (entertain). (SC.6.CC.2.1)</p>"
+      },
+      {
+       "text": "Type, click, scroll",
+       "correct": false,
+       "feedback": "<p>❌ Those are user actions, not rhetorical purposes. Reread <strong>Week 3</strong>.</p>"
+      },
+      {
+       "text": "Sketch, code, present",
+       "correct": false,
+       "feedback": "<p>❌ Those are creative steps, not rhetorical purposes. Reread <strong>Week 3</strong>.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>(Week 4)</em> <strong>Aesthetic unity</strong> in a multimedia project means:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Every page uses different colors and fonts to keep things interesting",
+       "correct": false,
+       "feedback": "<p>❌ The opposite! Variety on every page kills unity. Reread <strong>Week 4</strong>.</p>"
+      },
+      {
+       "text": "Including as many colors and fonts as possible",
+       "correct": false,
+       "feedback": "<p>❌ More isn't better. Aesthetic unity comes from RESTRAINT. Reread <strong>Week 4</strong>.</p>"
+      },
+      {
+       "text": "Every page feels like part of the same project — same colors, same fonts, same layout style",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Aesthetic unity is the visual signal that one designer made one project. (SC.6.CC.2.1)</p>"
+      },
+      {
+       "text": "Using the most expensive design software available",
+       "correct": false,
+       "feedback": "<p>❌ Tools don't create unity — discipline does. Reread <strong>Week 4</strong>.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>(Week 5)</em> A <strong>file extension</strong> (like .docx or .mp3) tells the computer:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The author's name",
+       "correct": false,
+       "feedback": "<p>❌ Authors aren't part of the extension. Reread <strong>Week 5</strong>.</p>"
+      },
+      {
+       "text": "Where the file is stored",
+       "correct": false,
+       "feedback": "<p>❌ Storage location is in the file path, not the extension. Reread <strong>Week 5</strong>.</p>"
+      },
+      {
+       "text": "What kind of file it is and which app should open it",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Extensions match files to apps. Without the extension, the computer often can't tell what to do. (SC.6.CO.1.1)</p>"
+      },
+      {
+       "text": "The size of the file",
+       "correct": false,
+       "feedback": "<p>❌ File size is shown separately. Extensions describe TYPE, not size. Reread <strong>Week 5</strong>.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>(Week 6)</em> Your teammate accidentally deleted three paragraphs of your shared Google Doc. Which feature can rescue the deleted text?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Real-time co-editing",
+       "correct": false,
+       "feedback": "<p>❌ Co-editing is for typing simultaneously — doesn't rewind history. Reread <strong>Week 6</strong>.</p>"
+      },
+      {
+       "text": "Comments",
+       "correct": false,
+       "feedback": "<p>❌ Comments add notes; they don't restore deleted text. Reread <strong>Week 6</strong>.</p>"
+      },
+      {
+       "text": "Version history",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Version history is an automatic record of past versions. The ultimate undo. (SC.6.CO.1.2)</p>"
+      },
+      {
+       "text": "Delete the whole document and start over",
+       "correct": false,
+       "feedback": "<p>❌ That makes it worse — you'd lose all the GOOD work too. Reread <strong>Week 6</strong>.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_unit-1-summative-assessment-digital-foundations",
+   "title": "Unit 1 Summative Assessment — Digital Foundations",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is the BEST example of <strong>asynchronous</strong> communication?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A live Zoom class with 25 students",
+       "correct": false,
+       "feedback": "<p>❌ Zoom is synchronous — everyone is present at the same time.</p>"
+      },
+      {
+       "text": "An email read the next morning",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Email is the classic asynchronous example — sender and receiver are not online simultaneously. (SC.6.CC.1.1)</p>"
+      },
+      {
+       "text": "A live video call with grandma",
+       "correct": false,
+       "feedback": "<p>❌ Video calls are synchronous.</p>"
+      },
+      {
+       "text": "A voice chat during an online game",
+       "correct": false,
+       "feedback": "<p>❌ Voice chat is synchronous — both parties speak in real time.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is a <strong>data packet</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A folder that stores all of your digital files",
+       "correct": false,
+       "feedback": "<p>❌ That describes storage, not a packet.</p>"
+      },
+      {
+       "text": "A type of router that connects devices",
+       "correct": false,
+       "feedback": "<p>❌ Routers DIRECT packets — they aren't packets themselves.</p>"
+      },
+      {
+       "text": "A small chunk of a message that travels across a network",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Data packets are tiny pieces of a message that travel separately and are reassembled at the destination. (SC.6.CC.1.1)</p>"
+      },
+      {
+       "text": "A password that protects your messages",
+       "correct": false,
+       "feedback": "<p>❌ That describes encryption, not a packet.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You need to send your science teacher a <strong>detailed</strong> question about an upcoming project. Which channel is MOST appropriate?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A quick text with abbreviations",
+       "correct": false,
+       "feedback": "<p>❌ Too informal for a teacher and not appropriate for class questions.</p>"
+      },
+      {
+       "text": "An email written in a clear, polite tone",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Email is asynchronous, professional, and leaves a written record — ideal for a detailed teacher question. (SC.6.CC.1.1)</p>"
+      },
+      {
+       "text": "A reaction emoji on a class post",
+       "correct": false,
+       "feedback": "<p>❌ An emoji can't carry a full question.</p>"
+      },
+      {
+       "text": "A live video call at midnight",
+       "correct": false,
+       "feedback": "<p>❌ Synchronous calls require both people present — and late at night isn't appropriate for a teacher.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which version of \"I can't make practice today\" has the BEST tone for a <strong>teacher or coach</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"cant come 2 practice, sry\"",
+       "correct": false,
+       "feedback": "<p>❌ Too casual and abbreviated for a teacher or coach.</p>"
+      },
+      {
+       "text": "\"WHY DOES EVERYONE THINK I CAN COME TO EVERYTHING\"",
+       "correct": false,
+       "feedback": "<p>❌ ALL CAPS = shouting; tone is also accusatory.</p>"
+      },
+      {
+       "text": "\"Hi Coach, I won't be able to attend practice today due to a family commitment. I'll be there Wednesday. Thank you.\"",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Formal, respectful, specific — tone matches the audience. (SC.6.CC.1.1)</p>"
+      },
+      {
+       "text": "\"not coming today 🙃\"",
+       "correct": false,
+       "feedback": "<p>❌ Too curt and too casual; missing greeting and courtesy.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Sofia wants to clap back at someone she disagrees with online. She closes the app and decides to think about it overnight instead. Which classical virtue is she practicing MOST?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Justice",
+       "correct": false,
+       "feedback": "<p>❌ Justice is fairness — that's not what Sofia is showing.</p>"
+      },
+      {
+       "text": "Temperance",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Temperance is self-control and restraint, especially when emotions run hot. Sofia paused before reacting — textbook temperance. (SC.6.CC.1.1)</p>"
+      },
+      {
+       "text": "Prudence",
+       "correct": false,
+       "feedback": "<p>❌ Close — prudence is choosing wisely. The specific skill Sofia shows (holding back strong feelings) is temperance. Prudence decides; temperance restrains.</p>"
+      },
+      {
+       "text": "Fortitude",
+       "correct": false,
+       "feedback": "<p>❌ Fortitude is courage. Sofia isn't being brave here; she's holding back.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A 30-second video shows a hungry shelter dog with sad music and ends with \"Adopt today. Save a life.\" What is the MAIN <strong>rhetorical purpose</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "To inform",
+       "correct": false,
+       "feedback": "<p>❌ Some facts may appear, but the goal is action, not just teaching.</p>"
+      },
+      {
+       "text": "To entertain",
+       "correct": false,
+       "feedback": "<p>❌ Sad music + shelter dog isn't designed to amuse.</p>"
+      },
+      {
+       "text": "To persuade",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Emotional visuals + music + a clear call to action = persuasion. (SC.6.CC.2.1)</p>"
+      },
+      {
+       "text": "To confuse",
+       "correct": false,
+       "feedback": "<p>❌ Confusion isn't a real rhetorical purpose. The three are inform, persuade, entertain.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're designing a slideshow for <strong>kindergarten students</strong>. Which choice shows the BEST audience awareness?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Long paragraphs of text on every slide",
+       "correct": false,
+       "feedback": "<p>❌ Kindergarteners can't read paragraphs.</p>"
+      },
+      {
+       "text": "A 20-page report with footnotes",
+       "correct": false,
+       "feedback": "<p>❌ That fits a college audience, not 5-year-olds.</p>"
+      },
+      {
+       "text": "Big, friendly images and one short sentence per slide",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Audience-first design: big visuals + simple language match a kindergarten audience perfectly. (SC.6.CC.2.1)</p>"
+      },
+      {
+       "text": "A black-and-white scientific diagram with no labels",
+       "correct": false,
+       "feedback": "<p>❌ No engagement and no help reading.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The MAIN reason designers create a <strong>storyboard</strong> before opening any digital software is:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Storyboards are required by school rules",
+       "correct": false,
+       "feedback": "<p>❌ Smart designers choose storyboards because they save time.</p>"
+      },
+      {
+       "text": "Sketches are cheap to change; finished video work is expensive to redo",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Catch problems while changes still cost seconds, not hours. (SC.6.CC.2.1)</p>"
+      },
+      {
+       "text": "Storyboards look prettier than the final project",
+       "correct": false,
+       "feedback": "<p>❌ Storyboards are usually rough on purpose.</p>"
+      },
+      {
+       "text": "Storyboards always have to be in color",
+       "correct": false,
+       "feedback": "<p>❌ Storyboards are typically pencil sketches with notes.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><strong>Aesthetic unity</strong> in a multimedia project means:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Every page uses different colors and fonts to keep things interesting",
+       "correct": false,
+       "feedback": "<p>❌ The opposite! Variety on every page kills unity.</p>"
+      },
+      {
+       "text": "Including as many colors and fonts as possible",
+       "correct": false,
+       "feedback": "<p>❌ More isn't better. Aesthetic unity comes from RESTRAINT.</p>"
+      },
+      {
+       "text": "Every page feels like part of the same project — same colors, same fonts, same layout style",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Aesthetic unity is the visual signal that one designer made one project. (SC.6.CC.2.1)</p>"
+      },
+      {
+       "text": "Using the most expensive design software available",
+       "correct": false,
+       "feedback": "<p>❌ Tools don't create unity — discipline does.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is the STRONGEST piece of peer feedback?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"Good job!\"",
+       "correct": false,
+       "feedback": "<p>❌ Vague — your classmate doesn't know what to keep doing.</p>"
+      },
+      {
+       "text": "\"On page 2, the text is hard to read against the photo — could you add a darker background behind the words?\"",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Specific, kind, actionable. Classic strong Glow/Grow. (SC.6.CC.2.1)</p>"
+      },
+      {
+       "text": "\"It's bad.\"",
+       "correct": false,
+       "feedback": "<p>❌ Vague AND unkind.</p>"
+      },
+      {
+       "text": "\"Change everything.\"",
+       "correct": false,
+       "feedback": "<p>❌ Overwhelming and not specific. Strong feedback names ONE thing at a time.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A <strong>file extension</strong> (like .docx or .mp3) tells the computer:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The author's name",
+       "correct": false,
+       "feedback": "<p>❌ Authors aren't part of the extension.</p>"
+      },
+      {
+       "text": "Where the file is stored",
+       "correct": false,
+       "feedback": "<p>❌ Storage location is in the file path, not the extension.</p>"
+      },
+      {
+       "text": "What kind of file it is and which app should open it",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Extensions match files to apps. (SC.6.CO.1.1)</p>"
+      },
+      {
+       "text": "The size of the file",
+       "correct": false,
+       "feedback": "<p>❌ File size is shown separately. Extensions describe TYPE.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A friend sends you a file called <code>dragon-model.stl</code>. What is this file MOST likely?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A song about dragons",
+       "correct": false,
+       "feedback": "<p>❌ Songs use audio extensions like .mp3, .wav.</p>"
+      },
+      {
+       "text": "A 3D model — possibly for a 3D printer or a game",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> .stl is a classic 3D model format used for 3D printing and CAD tools. (SC.6.CO.1.1)</p>"
+      },
+      {
+       "text": "A short video clip of a dragon",
+       "correct": false,
+       "feedback": "<p>❌ Videos use .mp4, .mov, .webm.</p>"
+      },
+      {
+       "text": "A typed essay about dragons",
+       "correct": false,
+       "feedback": "<p>❌ Essays use document formats like .docx or .pdf.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which file name BEST follows the 4 rules of good naming (specific, no spaces, dated/versioned, keeps extension)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Untitled.docx",
+       "correct": false,
+       "feedback": "<p>❌ Not specific.</p>"
+      },
+      {
+       "text": "final FINAL FINAL v2 (3) latest.docx",
+       "correct": false,
+       "feedback": "<p>❌ Spaces, redundant words, confused versioning.</p>"
+      },
+      {
+       "text": "civil-war-essay-v3-2026-04-27.docx",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Specific, no spaces, versioned and dated, and keeps the .docx extension. (SC.6.CO.1.1)</p>"
+      },
+      {
+       "text": "My File",
+       "correct": false,
+       "feedback": "<p>❌ Not specific, has a space, AND no extension.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><strong>Cloud storage</strong> means:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Files stored in the sky on actual clouds",
+       "correct": false,
+       "feedback": "<p>❌ The name is metaphorical! The cloud is very physical.</p>"
+      },
+      {
+       "text": "Files stored only on your phone",
+       "correct": false,
+       "feedback": "<p>❌ Phone-only storage is local, not cloud.</p>"
+      },
+      {
+       "text": "Files stored on far-away servers in data centers, accessible from any device with internet",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The cloud is real — data centers full of computers. (SC.6.CO.1.1)</p>"
+      },
+      {
+       "text": "A type of internet browser",
+       "correct": false,
+       "feedback": "<p>❌ Browsers load websites — different thing entirely.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're proofreading a friend's essay. You want to suggest edits WITHOUT permanently changing their words. Which feature should you use?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Real-time co-editing",
+       "correct": false,
+       "feedback": "<p>❌ Co-editing changes the text directly. You don't want to overwrite your friend's words.</p>"
+      },
+      {
+       "text": "Comments",
+       "correct": false,
+       "feedback": "<p>❌ Comments are great for asking questions, but they don't SHOW the edit you're suggesting.</p>"
+      },
+      {
+       "text": "Suggesting mode (Track Changes)",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Suggesting mode shows your edits as PROPOSED changes — your friend can accept or reject each one. Perfect for proofreading. (SC.6.CO.1.2)</p>"
+      },
+      {
+       "text": "Export to PDF",
+       "correct": false,
+       "feedback": "<p>❌ PDF export creates a locked file. You can't easily suggest edits inside a finished PDF.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-9-quiz-the-journey-of-data",
+   "title": "Week 9 Quiz — The Journey of Data",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>A song file is sitting on your phone, untouched, in your music folder. Which state is that data in?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Data in motion",
+       "correct": false,
+       "feedback": "<p>❌ Data in motion is <strong>traveling</strong> across a network. The song file isn't moving — it's just stored.</p>"
+      },
+      {
+       "text": "Data at rest",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Data at rest means stored on a device and not actively moving or being processed. (SC.6.CS.1.1)</p>"
+      },
+      {
+       "text": "Data in use",
+       "correct": false,
+       "feedback": "<p>❌ Data in use means open in an app and being read or processed. The file is not open right now.</p>"
+      },
+      {
+       "text": "Data in transit",
+       "correct": false,
+       "feedback": "<p>❌ \"In transit\" is another way to describe data in motion — but the song isn't moving. It's at rest.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is the <strong>BEST</strong> example of <strong>cloud storage</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A USB stick plugged into your laptop",
+       "correct": false,
+       "feedback": "<p>❌ A USB stick is <strong>local storage</strong> — it lives on your physical device.</p>"
+      },
+      {
+       "text": "The hard drive built into a desktop computer",
+       "correct": false,
+       "feedback": "<p>❌ A built-in hard drive is <strong>local storage</strong> — it sits inside the computer itself.</p>"
+      },
+      {
+       "text": "A Google Drive folder you can open from any device with internet",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Cloud storage lives on a remote server you reach over the internet — Google Drive, OneDrive, iCloud, and Dropbox are all examples. (SC.6.CS.1.1)</p>"
+      },
+      {
+       "text": "An SD card inside a digital camera",
+       "correct": false,
+       "feedback": "<p>❌ An SD card is <strong>local storage</strong> — a tiny chip that lives in the device.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your home Wi-Fi connects your laptop, phone, and smart TV — all in your house. What kind of network is that?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "WAN (Wide Area Network)",
+       "correct": false,
+       "feedback": "<p>❌ A WAN connects networks across cities, states, or countries. A home network is much smaller.</p>"
+      },
+      {
+       "text": "LAN (Local Area Network)",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A LAN connects devices in <em>one place</em> — like a single home, school, or office. (SC.6.CS.1.1)</p>"
+      },
+      {
+       "text": "A database",
+       "correct": false,
+       "feedback": "<p>❌ A database is an organized collection of data — not a type of network.</p>"
+      },
+      {
+       "text": "A server farm",
+       "correct": false,
+       "feedback": "<p>❌ A server farm is a building full of servers, not the kind of network in your house.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is the main job of a <strong>server</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "To send Wi-Fi signals around your house",
+       "correct": false,
+       "feedback": "<p>❌ That's a router or wireless access point — not a server.</p>"
+      },
+      {
+       "text": "To store data and serve it to many users at once",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A server is a powerful computer built to <em>serve</em> data to many users at the same time. (SC.6.CS.1.1)</p>"
+      },
+      {
+       "text": "To translate languages on the internet",
+       "correct": false,
+       "feedback": "<p>❌ Translation apps do that — not servers as a whole.</p>"
+      },
+      {
+       "text": "To plug in printers and external mice",
+       "correct": false,
+       "feedback": "<p>❌ USB hubs and ports do that. A server's job is much bigger — storing and delivering data to many users.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You search Canvas for the words \"ancient Rome.\" Your search words become a request that the app sends to a database. What is that request called?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A query",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A query is a request that tells a database what data to find and return. (SC.6.CS.1.1)</p>"
+      },
+      {
+       "text": "A packet",
+       "correct": false,
+       "feedback": "<p>❌ A packet is a small chunk of data traveling on a network — not a search instruction.</p>"
+      },
+      {
+       "text": "A LAN",
+       "correct": false,
+       "feedback": "<p>❌ A LAN is a Local Area Network — not a search request.</p>"
+      },
+      {
+       "text": "A server",
+       "correct": false,
+       "feedback": "<p>❌ A server is the computer that stores or delivers data — not the question you ask it.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-10-quiz-data-access-permissions",
+   "title": "Week 10 Quiz — Data Access & Permissions",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>You want your dad to <strong>read</strong> your essay but NOT change any of your sentences. Which role should you give him?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Owner",
+       "correct": false,
+       "feedback": "<p>❌ Owner has full control — including delete and re-share. Way more than needed for \"just read it.\"</p>"
+      },
+      {
+       "text": "Editor",
+       "correct": false,
+       "feedback": "<p>❌ Editor can change your sentences. You said you don't want him doing that.</p>"
+      },
+      {
+       "text": "Viewer",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Viewer is read-only — he can open and read but cannot change anything. (SC.6.CS.1.2)</p>"
+      },
+      {
+       "text": "Commenter",
+       "correct": false,
+       "feedback": "<p>❌ Commenter could leave comments on your file. If you only want him to read silently, Viewer is the tighter choice.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your teacher wants to leave feedback on your draft but should NOT rewrite your sentences. Which role gives her exactly what she needs?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Editor",
+       "correct": false,
+       "feedback": "<p>❌ Editor can rewrite your sentences directly. The question said she shouldn't.</p>"
+      },
+      {
+       "text": "Viewer",
+       "correct": false,
+       "feedback": "<p>❌ Viewer is read-only — she couldn't leave feedback at all.</p>"
+      },
+      {
+       "text": "Commenter",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Commenter can read and leave comments or suggestions, but cannot change the actual content. (SC.6.CS.1.2)</p>"
+      },
+      {
+       "text": "Owner",
+       "correct": false,
+       "feedback": "<p>❌ Owner has full control of the file, including delete. Far too much access for a feedback role.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is the <strong>principle of least privilege</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Always give every user the highest possible role so nothing breaks",
+       "correct": false,
+       "feedback": "<p>❌ That's the OPPOSITE of least privilege — and a recipe for accidents and leaks.</p>"
+      },
+      {
+       "text": "Give every user exactly the access they need to do their job — and nothing more",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Match the role to the real need — no extra access. The fewer keys floating around, the safer your data. (SC.6.CS.1.2)</p>"
+      },
+      {
+       "text": "Only the IT admin should ever have access to anything",
+       "correct": false,
+       "feedback": "<p>❌ That would block real work. Least privilege means right-sizing access, not eliminating it.</p>"
+      },
+      {
+       "text": "Default to \"Anyone with the link\" so people don't have to ask",
+       "correct": false,
+       "feedback": "<p>❌ That's the most-privilege setting, not least privilege. It's the kind of mistake that causes real-world data leaks.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sharing setting is the <strong>MOST risky</strong> for a private file you don't want strangers to see?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Specific people, role: Viewer",
+       "correct": false,
+       "feedback": "<p>❌ Very safe — only the people you list can find it, and they can only read.</p>"
+      },
+      {
+       "text": "Anyone in your school, role: Viewer",
+       "correct": false,
+       "feedback": "<p>❌ Some risk, since everyone in your school can find it — but the public still can't.</p>"
+      },
+      {
+       "text": "Anyone with the link, role: Editor",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The most dangerous combo — anyone who gets the link can not only read but also change your file. (SC.6.CS.1.2)</p>"
+      },
+      {
+       "text": "Specific people, role: Editor",
+       "correct": false,
+       "feedback": "<p>❌ Reasonable for a small trusted group — only the named people can find it, even if they can edit.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your sister leaves her laptop open and signed into her email. You see a private message from her teacher about her grades. What is the right thing to do?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Read the message — her email is right there in front of you",
+       "correct": false,
+       "feedback": "<p>❌ Just because you CAN see it doesn't mean you SHOULD. That's the whole idea of ethical access.</p>"
+      },
+      {
+       "text": "Look away, close the laptop, and let her know it was open",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Treat other people's private data the way you'd want them to treat yours — close the door and walk away. (SC.6.CS.1.2)</p>"
+      },
+      {
+       "text": "Read it and screenshot it, in case it's useful later",
+       "correct": false,
+       "feedback": "<p>❌ Even worse — now you've made a copy of someone else's private data without permission.</p>"
+      },
+      {
+       "text": "Reply to the teacher on her behalf to be helpful",
+       "correct": false,
+       "feedback": "<p>❌ You'd be impersonating her — and using her account without permission. Big trust break.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-11-quiz-phishing-social-engineering-privacy",
+   "title": "Week 11 Quiz — Phishing, Social Engineering & Privacy",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following is the <strong>BEST</strong> definition of <strong>phishing</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A type of fishing app for your phone",
+       "correct": false,
+       "feedback": "<p>❌ Phishing is NOT a real fishing app — the spelling comes from a hacker term, but it's a scam, not a sport.</p>"
+      },
+      {
+       "text": "A scam that uses fake messages to trick people into giving up passwords or personal info",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Phishing uses fake messages — emails, texts, DMs — to trick people into handing over secret info. (SC.6.CS.1.3)</p>"
+      },
+      {
+       "text": "A virus that damages computer hardware",
+       "correct": false,
+       "feedback": "<p>❌ That describes a hardware-damaging virus. Phishing tricks PEOPLE — not the hardware itself.</p>"
+      },
+      {
+       "text": "A way to back up your files to the cloud",
+       "correct": false,
+       "feedback": "<p>❌ That's cloud backup — a totally different topic and not a scam.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which piece of information should be classified as <strong>CONFIDENTIAL</strong> — never shared with anyone online, no matter who claims to be asking?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Your favorite music genre",
+       "correct": false,
+       "feedback": "<p>❌ Music tastes are PUBLIC — totally fine to share.</p>"
+      },
+      {
+       "text": "The name of your school",
+       "correct": false,
+       "feedback": "<p>❌ A school name is generally PUBLIC — printed on jerseys, posted on websites.</p>"
+      },
+      {
+       "text": "Your password and the 6-digit MFA code that just texted to your phone",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Passwords and MFA codes are CONFIDENTIAL. Real companies will NEVER ask for them — anyone who does is trying to scam you. (SC.6.CS.1.4)</p>"
+      },
+      {
+       "text": "Your favorite sports team",
+       "correct": false,
+       "feedback": "<p>❌ Sports preferences are PUBLIC — already visible on your profile or already known.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is the <strong>STRONGEST</strong> password?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "password123",
+       "correct": false,
+       "feedback": "<p>❌ One of the most common passwords in the world. A computer cracks it in under a second.</p>"
+      },
+      {
+       "text": "qwerty",
+       "correct": false,
+       "feedback": "<p>❌ The top 5 letters on a keyboard. Computers try this in their first 100 guesses.</p>"
+      },
+      {
+       "text": "orange-lamp-tiger-cloud-9",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A long passphrase with random words and a number is hard to guess and would take longer than the age of the universe to brute-force. (SC.6.CS.2.1)</p>"
+      },
+      {
+       "text": "your first name + the year you were born",
+       "correct": false,
+       "feedback": "<p>❌ Way too easy to guess if a phisher knows even a little about you. Avoid name + birthdate combos.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does <strong>multi-factor authentication (MFA)</strong> protect you against, even if a scammer steals your password?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Slow internet speeds",
+       "correct": false,
+       "feedback": "<p>❌ MFA isn't about speed — it's about identity.</p>"
+      },
+      {
+       "text": "Account takeover by an attacker who has only your password",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Even if a phisher steals your password, they can't log in without the second factor (a code on your phone). (SC.6.CS.2.1)</p>"
+      },
+      {
+       "text": "Lost device damage and broken screens",
+       "correct": false,
+       "feedback": "<p>❌ MFA doesn't protect physical devices — it protects access to your accounts.</p>"
+      },
+      {
+       "text": "Battery drain on your phone",
+       "correct": false,
+       "feedback": "<p>❌ MFA has nothing to do with battery life.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're at a coffee shop on free public Wi-Fi. Which activity is the <strong>LEAST safe</strong> to do on this network?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Reading a public news article",
+       "correct": false,
+       "feedback": "<p>❌ Reading public news is low-risk on any network — you're not exposing private credentials.</p>"
+      },
+      {
+       "text": "Watching a YouTube video",
+       "correct": false,
+       "feedback": "<p>❌ Watching public videos is low-risk — no private logins involved.</p>"
+      },
+      {
+       "text": "Logging into your bank account and transferring money",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Banking and other sensitive logins on public Wi-Fi can be intercepted. Wait until you're on a trusted network. (SC.6.HS.1.1)</p>"
+      },
+      {
+       "text": "Checking the weather",
+       "correct": false,
+       "feedback": "<p>❌ Looking up public info isn't risky. The danger is logging into accounts with sensitive data.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-12-quiz-encryption-digital-identity",
+   "title": "Week 12 Quiz — Encryption & Digital Identity",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is the <strong>main purpose</strong> of encryption?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "To make data load faster on the internet",
+       "correct": false,
+       "feedback": "<p>❌ Encryption isn't about speed — it adds a small bit of work, not less.</p>"
+      },
+      {
+       "text": "To scramble a message so only the right person can read it",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Encryption turns plaintext into ciphertext that's unreadable without the key. (SC.6.CS.1.5)</p>"
+      },
+      {
+       "text": "To delete old messages automatically",
+       "correct": false,
+       "feedback": "<p>❌ Encryption doesn't delete anything — it scrambles messages so only the right person can read them.</p>"
+      },
+      {
+       "text": "To store data permanently in the cloud",
+       "correct": false,
+       "feedback": "<p>❌ That's cloud storage. Encryption is about protecting messages, not where they live.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Using a Caesar cipher with a <strong>shift of 3</strong>, what does the ciphertext <strong>FDW</strong> decrypt to (shift each letter back 3)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "DOG",
+       "correct": false,
+       "feedback": "<p>❌ Shift each letter back 3: F→C, D→A, W→T = CAT, not DOG.</p>"
+      },
+      {
+       "text": "CAT",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> F→C, D→A, W→T. The plaintext is CAT. (SC.6.CS.1.5)</p>"
+      },
+      {
+       "text": "BAT",
+       "correct": false,
+       "feedback": "<p>❌ Close, but B is shift-back 4 from F. With shift 3, F goes back to C — so the answer starts with C, not B.</p>"
+      },
+      {
+       "text": "CAR",
+       "correct": false,
+       "feedback": "<p>❌ First two letters are right (CA), but W shifts back 3 to T — not R.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does the <strong>\"s\"</strong> in <strong>https://</strong> tell you about a website connection?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It means the site is faster than other sites",
+       "correct": false,
+       "feedback": "<p>❌ The \"s\" has nothing to do with speed. It stands for SECURE.</p>"
+      },
+      {
+       "text": "It means the connection is encrypted (secure) so data is scrambled while it travels",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> HTTPS means encryption is protecting the connection. Without HTTPS, your password would travel as plaintext. (SC.6.CS.1.5)</p>"
+      },
+      {
+       "text": "It means the site is owned by the school",
+       "correct": false,
+       "feedback": "<p>❌ The \"s\" doesn't say anything about who owns the site — it's about encryption.</p>"
+      },
+      {
+       "text": "Nothing — http and https are exactly the same",
+       "correct": false,
+       "feedback": "<p>❌ HTTPS and HTTP are very different. HTTPS is encrypted; HTTP is plaintext. The \"s\" makes a big difference.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is the <strong>SAFEST</strong> username for a public game leaderboard?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "SophiaMartinez_2014",
+       "correct": false,
+       "feedback": "<p>❌ Real first name + last name + birth year is way too much PII for a public profile.</p>"
+      },
+      {
+       "text": "SophiaM_OakRidgeMS",
+       "correct": false,
+       "feedback": "<p>❌ Real name + the school you attend is enough for a stranger to find you in real life.</p>"
+      },
+      {
+       "text": "BlueDragon42",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Memorable, but no real name, school, or birthday — keeps your identity private. (SC.6.CS.1.6)</p>"
+      },
+      {
+       "text": "7thGrade_Rm104_Sophia",
+       "correct": false,
+       "feedback": "<p>❌ Even more dangerous — that points to a specific school, classroom, AND name.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is an example of a <strong>PASSIVE</strong> digital footprint — data collected automatically, not posted by you on purpose?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A discussion-board reply you typed",
+       "correct": false,
+       "feedback": "<p>❌ That's an ACTIVE footprint — you wrote and posted it on purpose.</p>"
+      },
+      {
+       "text": "A photo you uploaded to your profile",
+       "correct": false,
+       "feedback": "<p>❌ Active — you chose to upload it.</p>"
+      },
+      {
+       "text": "A list of YouTube videos you've watched, tracked by the app",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> You didn't post your watch history — the app collected it automatically. That's a passive footprint. (SC.6.CS.1.6)</p>"
+      },
+      {
+       "text": "A bio sentence you wrote on your profile",
+       "correct": false,
+       "feedback": "<p>❌ Active — those words went up because you typed them.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-13-quiz-evaluating-online-sources",
+   "title": "Week 13 Quiz — Evaluating Online Sources",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does the <strong>\"A\" for Authority</strong> in the CRAAP test ask you to check?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "When the article was last updated",
+       "correct": false,
+       "feedback": "<p>❌ That's CURRENCY (the first C in CRAAP), not Authority.</p>"
+      },
+      {
+       "text": "Whether the article fits your specific question",
+       "correct": false,
+       "feedback": "<p>❌ That's RELEVANCE — the R in CRAAP.</p>"
+      },
+      {
+       "text": "Who wrote it and what makes them an expert",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Authority asks about the AUTHOR — their name, credentials, and qualification to write on the topic. (SC.6.HS.1.2)</p>"
+      },
+      {
+       "text": "Why the website exists in the first place",
+       "correct": false,
+       "feedback": "<p>❌ That's PURPOSE — the P in CRAAP.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which top-level domain (TLD) is restricted <strong>only</strong> to U.S. government agencies?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": ".com",
+       "correct": false,
+       "feedback": "<p>❌ Anyone can register a .com — it's the most open TLD on the internet.</p>"
+      },
+      {
+       "text": ".org",
+       "correct": false,
+       "feedback": "<p>❌ Originally for non-profits, but now anyone can register .org.</p>"
+      },
+      {
+       "text": ".gov",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Only U.S. government agencies can use .gov — like nasa.gov, usa.gov, weather.gov. (SC.6.HS.1.2)</p>"
+      },
+      {
+       "text": ".edu",
+       "correct": false,
+       "feedback": "<p>❌ .edu is restricted, but to U.S. accredited SCHOOLS (universities and some K-12), not to the government.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is <strong>lateral reading</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Reading the same article over and over until you remember it",
+       "correct": false,
+       "feedback": "<p>❌ Re-reading the same page doesn't fact-check it — you need OTHER sources for that.</p>"
+      },
+      {
+       "text": "Leaving the page to fact-check it on other trusted sources",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Lateral reading means leaving the page and searching what other trusted sources say about the site or claim. Fact-checkers use this all the time. (SC.6.HS.1.2)</p>"
+      },
+      {
+       "text": "Reading by holding the screen sideways",
+       "correct": false,
+       "feedback": "<p>❌ Lateral reading isn't about screen orientation — it's about checking sources against each other.</p>"
+      },
+      {
+       "text": "Skipping every other paragraph to save time",
+       "correct": false,
+       "feedback": "<p>❌ That's skim-reading. Lateral reading means cross-checking with OTHER sources.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A pop-up screams: \"YOUR COMPUTER IS INFECTED — call 1-800-FAKE-NOW immediately!\" What is the BEST move?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Call the number to fix the problem",
+       "correct": false,
+       "feedback": "<p>❌ Real Microsoft and Apple NEVER show pop-ups asking you to call a phone number. The pop-up itself is the scam.</p>"
+      },
+      {
+       "text": "Pay them with a gift card so they help faster",
+       "correct": false,
+       "feedback": "<p>❌ Gift-card payment to \"tech support\" is a flashing-red sign of a scam. Real companies don't take gift cards.</p>"
+      },
+      {
+       "text": "Close the pop-up; don't call. If it won't close, force-quit the browser and tell a trusted adult.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Fake tech support pop-ups are common scams. Close, don't call, and ask a trusted adult if it won't close. (SC.6.HS.1.4)</p>"
+      },
+      {
+       "text": "Click through every option in the pop-up to find a \"decline\" button",
+       "correct": false,
+       "feedback": "<p>❌ Clicking through pop-ups often installs malware. Don't engage — just close.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're writing a 6th-grade report on the history of NASA. Which is the <strong>BEST</strong> source to cite?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "An anonymous fan blog with no dates and no citations",
+       "correct": false,
+       "feedback": "<p>❌ No author, no dates, no citations — that fails most of CRAAP.</p>"
+      },
+      {
+       "text": "A YouTube comment thread arguing about space",
+       "correct": false,
+       "feedback": "<p>❌ Comments aren't sources — no author, no facts, no review.</p>"
+      },
+      {
+       "text": "nasa.gov — NASA's own official .gov website",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> NASA's own .gov website is a primary source — high authority on its own programs and citation-quality. (SC.6.HS.1.2)</p>"
+      },
+      {
+       "text": "A Pinterest board with cool space pictures and no captions",
+       "correct": false,
+       "feedback": "<p>❌ Pinterest re-shares images without source info. Not citation-quality.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-14-quiz-digital-wellness-screen-time",
+   "title": "Week 14 Quiz — Digital Wellness & Screen Time",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following is the <strong>BEST</strong> example of <strong>active</strong> screen time?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Endlessly scrolling Reels and Shorts",
+       "correct": false,
+       "feedback": "<p>❌ Endless scrolling is the textbook example of PASSIVE screen time, not active.</p>"
+      },
+      {
+       "text": "Watching reaction videos auto-play in the background",
+       "correct": false,
+       "feedback": "<p>❌ Background auto-play is the most passive form of screen use.</p>"
+      },
+      {
+       "text": "Coding a small project or video-calling Grandma",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Coding (creating) and video-calling (genuinely connecting) are textbook active screen time. (SC.6.HS.2.2)</p>"
+      },
+      {
+       "text": "Falling asleep with a movie on",
+       "correct": false,
+       "feedback": "<p>❌ That's passive — and combined with sleep disruption, it's a wellness double-whammy.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why does using your phone in bed at night make it harder to fall asleep?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The phone is too heavy to hold for long",
+       "correct": false,
+       "feedback": "<p>❌ Phone weight isn't the issue. The issue is light affecting your sleep hormones.</p>"
+      },
+      {
+       "text": "Blue light from the screen suppresses melatonin and tells your brain it's daytime",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Blue light suppresses melatonin and pushes back the sleep signal in your brain. (SC.6.HS.2.2)</p>"
+      },
+      {
+       "text": "Phones drain the oxygen in your room",
+       "correct": false,
+       "feedback": "<p>❌ Phones don't change room oxygen. The mechanism is light, not air.</p>"
+      },
+      {
+       "text": "Apps secretly broadcast caffeine",
+       "correct": false,
+       "feedback": "<p>❌ Not a real thing. The real mechanism is blue-light suppression of melatonin.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does the <strong>20-20-20 rule</strong> recommend for digital eye strain?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Use 20 different apps every 20 minutes",
+       "correct": false,
+       "feedback": "<p>❌ App-switching has nothing to do with eye strain. The rule is about distance breaks.</p>"
+      },
+      {
+       "text": "Every 20 minutes, look at something 20 feet away for 20 seconds",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Quick distance breaks every 20 minutes give your eye muscles a chance to relax. (SC.6.HS.2.2)</p>"
+      },
+      {
+       "text": "Limit yourself to 20 minutes of screen time per day",
+       "correct": false,
+       "feedback": "<p>❌ The rule isn't a daily total — it's a break schedule for whatever screen time you DO have.</p>"
+      },
+      {
+       "text": "Look at a screen for 20 hours and then take 20 minutes off",
+       "correct": false,
+       "feedback": "<p>❌ That's way too much screen time. The rule is much smaller and more frequent.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is <strong>doomscrolling</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A new video game where you scroll through dungeons",
+       "correct": false,
+       "feedback": "<p>❌ Doomscrolling isn't a video game — it's a real-world habit researchers study.</p>"
+      },
+      {
+       "text": "Scrolling through bad-news headlines, often late at night, until you feel anxious",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Doomscrolling is reading bad news after bad news, often late at night, leaving you anxious about things that aren't actually happening to you. (SC.6.HS.2.2)</p>"
+      },
+      {
+       "text": "Scrolling really, really fast on a touchscreen",
+       "correct": false,
+       "feedback": "<p>❌ Scroll speed has nothing to do with the term. It's about WHAT you scroll, not HOW fast.</p>"
+      },
+      {
+       "text": "A built-in phone setting that locks your screen",
+       "correct": false,
+       "feedback": "<p>❌ Doomscrolling is a behavior, not a phone setting.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is the <strong>BEST</strong> habit for keeping your phone from wrecking your sleep?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"I'll try to use my phone less at night\"",
+       "correct": false,
+       "feedback": "<p>❌ That's a wish, not a habit. Vague intentions rarely change behavior.</p>"
+      },
+      {
+       "text": "Plug your phone in across the room at 9 p.m. and use a real alarm clock",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Concrete, specific, and removes the temptation. That's how habits actually stick. (SC.6.HS.2.2)</p>"
+      },
+      {
+       "text": "Sleep with your phone under your pillow but try not to check it",
+       "correct": false,
+       "feedback": "<p>❌ If the phone is right there, you'll check it. Distance is the whole point.</p>"
+      },
+      {
+       "text": "Put your phone face-down right next to your bed",
+       "correct": false,
+       "feedback": "<p>❌ Better than face-up, but the phone is still right there to grab. Across-the-room is the stronger habit.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-16-practice-quiz-unit-2-review",
+   "title": "Week 16 Practice Quiz — Unit 2 Review",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're typing into a Google Doc, words appearing as you type. What state is the document data in?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Data at rest",
+       "correct": false,
+       "feedback": "<p>❌ At rest means stored and not active. The doc is open and changing right now.</p>"
+      },
+      {
+       "text": "Data in motion",
+       "correct": false,
+       "feedback": "<p>❌ In motion means traveling on a network. Editing is processing, not traveling.</p>"
+      },
+      {
+       "text": "Data in use",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Data being read or processed by an open app is in use. (SC.6.CS.1.1)</p>"
+      },
+      {
+       "text": "Data in transit",
+       "correct": false,
+       "feedback": "<p>❌ \"In transit\" is another way to say in motion. Editing isn't traveling.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is the <strong>principle of least privilege</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Always give every user the highest possible role so nothing breaks",
+       "correct": false,
+       "feedback": "<p>❌ That's the OPPOSITE of least privilege — and a recipe for accidents and leaks.</p>"
+      },
+      {
+       "text": "Give every user exactly the access they need to do their job — and nothing more",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Match the role to the real need — no extra access. The fewer keys floating around, the safer your data. (SC.6.CS.1.2)</p>"
+      },
+      {
+       "text": "Only the IT admin should ever have access to anything",
+       "correct": false,
+       "feedback": "<p>❌ That would block real work. Least privilege means right-sizing access, not eliminating it.</p>"
+      },
+      {
+       "text": "Default to \"Anyone with the link\" so people don't have to ask",
+       "correct": false,
+       "feedback": "<p>❌ That's the most-privilege setting, not least privilege.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is the <strong>STRONGEST</strong> password?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "password123",
+       "correct": false,
+       "feedback": "<p>❌ One of the most common passwords in the world. Cracked in under a second.</p>"
+      },
+      {
+       "text": "orange-lamp-tiger-cloud-9",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A long passphrase with random words and a number is hard to guess and brute-force. (SC.6.CS.2.1)</p>"
+      },
+      {
+       "text": "qwerty",
+       "correct": false,
+       "feedback": "<p>❌ The top 5 letters on a keyboard. Computers try this first.</p>"
+      },
+      {
+       "text": "your first name + the year you were born",
+       "correct": false,
+       "feedback": "<p>❌ Way too easy to guess if a phisher knows even a little about you.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does the <strong>\"s\"</strong> in <strong>https://</strong> tell you about a website connection?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It means the site is faster than other sites",
+       "correct": false,
+       "feedback": "<p>❌ The \"s\" has nothing to do with speed. It stands for SECURE.</p>"
+      },
+      {
+       "text": "It means the connection is encrypted (secure) so data is scrambled while it travels",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> HTTPS means encryption is protecting the connection. (SC.6.CS.1.5)</p>"
+      },
+      {
+       "text": "Nothing — http and https are exactly the same",
+       "correct": false,
+       "feedback": "<p>❌ HTTPS is encrypted; HTTP is plaintext. Big difference.</p>"
+      },
+      {
+       "text": "It means the site is owned by the school",
+       "correct": false,
+       "feedback": "<p>❌ The \"s\" doesn't say anything about who owns the site.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is <strong>lateral reading</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Reading the same article over and over until you remember it",
+       "correct": false,
+       "feedback": "<p>❌ Re-reading the same page doesn't fact-check it.</p>"
+      },
+      {
+       "text": "Leaving the page to fact-check it on other trusted sources",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Lateral reading means leaving the page and searching what other trusted sources say. (SC.6.HS.1.2)</p>"
+      },
+      {
+       "text": "Reading by holding the screen sideways",
+       "correct": false,
+       "feedback": "<p>❌ Lateral reading isn't about screen orientation.</p>"
+      },
+      {
+       "text": "Skipping every other paragraph to save time",
+       "correct": false,
+       "feedback": "<p>❌ That's skim-reading. Lateral reading means cross-checking with OTHER sources.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-18-quiz-semester-1-review",
+   "title": "Week 18 Quiz — Semester 1 Review",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>From Unit 1: Which of the following is the BEST example of <strong>asynchronous</strong> communication?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A live Zoom class with 20 students",
+       "correct": false,
+       "feedback": "<p>❌ Zoom is synchronous — everyone is present at the same time.</p>"
+      },
+      {
+       "text": "An email sent Tuesday night, read Wednesday morning",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Email is classic asynchronous communication — sender and receiver are not online at the same time. (SC.6.CC.1.1)</p>"
+      },
+      {
+       "text": "A FaceTime call with your grandparent",
+       "correct": false,
+       "feedback": "<p>❌ FaceTime is synchronous — both people are on the call together.</p>"
+      },
+      {
+       "text": "A voice chat during an online game",
+       "correct": false,
+       "feedback": "<p>❌ Voice chat is synchronous — you both speak in real time.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>From Unit 2: A photo file is sitting on your phone, untouched in your camera roll. What state is that data in?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Data in motion",
+       "correct": false,
+       "feedback": "<p>❌ Data in motion is traveling across a network. The photo isn't moving.</p>"
+      },
+      {
+       "text": "Data at rest",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Data at rest means stored on a device and not actively moving or being processed. (SC.6.CS.1.1)</p>"
+      },
+      {
+       "text": "Data in use",
+       "correct": false,
+       "feedback": "<p>❌ Data in use means open in an app and being read or processed. The photo isn't open right now.</p>"
+      },
+      {
+       "text": "Data in transit",
+       "correct": false,
+       "feedback": "<p>❌ \"In transit\" is another way to describe data in motion — but the photo isn't moving.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>From Unit 2: Which of these should be classified as <strong>CONFIDENTIAL</strong> information — never shared online, no matter who claims to ask?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Your favorite music genre",
+       "correct": false,
+       "feedback": "<p>❌ Music tastes are PUBLIC — fine to share.</p>"
+      },
+      {
+       "text": "The name of your school",
+       "correct": false,
+       "feedback": "<p>❌ A school name is generally PUBLIC — printed on jerseys and websites.</p>"
+      },
+      {
+       "text": "Your password and the 6-digit MFA code that just texted to your phone",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Passwords and MFA codes are CONFIDENTIAL. Real companies will NEVER ask for them. (SC.6.CS.1.4)</p>"
+      },
+      {
+       "text": "Your favorite NBA team",
+       "correct": false,
+       "feedback": "<p>❌ Sports preferences are PUBLIC.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>From Unit 2: What is <strong>lateral reading</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Reading the same article over and over until you remember it",
+       "correct": false,
+       "feedback": "<p>❌ Re-reading the same page doesn't fact-check it.</p>"
+      },
+      {
+       "text": "Leaving the page to fact-check it on other trusted sources",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Lateral reading means leaving the page and searching what other trusted sources say. (SC.6.HS.1.2)</p>"
+      },
+      {
+       "text": "Reading by holding the screen sideways",
+       "correct": false,
+       "feedback": "<p>❌ Lateral reading isn't about screen orientation.</p>"
+      },
+      {
+       "text": "Skipping every other paragraph to save time",
+       "correct": false,
+       "feedback": "<p>❌ That's skim-reading. Lateral reading means cross-checking with OTHER sources.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does <strong>metacognition</strong> mean?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Memorizing as many vocabulary words as possible",
+       "correct": false,
+       "feedback": "<p>❌ Memorizing facts is just memorizing — not metacognition.</p>"
+      },
+      {
+       "text": "Thinking about your own thinking — what you know, how you learned it, what's still unclear",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Metacognition is the reflective thinking about your own learning that powers real growth. (ELA.K12.EE.5.1)</p>"
+      },
+      {
+       "text": "Cheating on assignments to get a higher grade",
+       "correct": false,
+       "feedback": "<p>❌ Definitely not. Metacognition is honest reflection on YOUR learning.</p>"
+      },
+      {
+       "text": "Watching educational videos at 2x speed",
+       "correct": false,
+       "feedback": "<p>❌ Speed has nothing to do with metacognition. The point is THINKING about your thinking.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_unit-2-assessment-data-cyber-safety",
+   "title": "Unit 2 Assessment — Data & Cyber Safety",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following is the <strong>BEST</strong> example of <strong>data in motion</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A photo file sitting in your phone's camera roll, untouched for months",
+       "correct": false,
+       "feedback": "<p>❌ That's data AT REST — stored on a device and not moving.</p>"
+      },
+      {
+       "text": "A Canvas message traveling from your laptop, through Wi-Fi, to your teacher's screen",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Data traveling between devices over a network is in motion. (SC.6.CS.1.1)</p>"
+      },
+      {
+       "text": "A Google Doc that's open and you're typing into it",
+       "correct": false,
+       "feedback": "<p>❌ That's data IN USE — open in an app and being processed.</p>"
+      },
+      {
+       "text": "An mp3 song saved to a USB stick on your desk",
+       "correct": false,
+       "feedback": "<p>❌ That's data AT REST — stored on a USB drive, not moving.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're heading to a remote campsite for a week with no Wi-Fi or cell signal. You want to listen to 50 of your favorite songs. Which storage choice makes the most sense?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Stream the songs from a cloud music service",
+       "correct": false,
+       "feedback": "<p>❌ Streaming needs an internet connection — which you won't have at the campsite.</p>"
+      },
+      {
+       "text": "Save the songs in cloud storage like Google Drive",
+       "correct": false,
+       "feedback": "<p>❌ Cloud storage also needs internet to reach the files. Same problem as streaming.</p>"
+      },
+      {
+       "text": "Download the songs to local storage on your phone",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Local storage works without internet. Once they're on your device, you can play them anywhere. (SC.6.CS.1.1)</p>"
+      },
+      {
+       "text": "Email the songs to yourself before you leave",
+       "correct": false,
+       "feedback": "<p>❌ Even if the email arrived, you'd still need internet to open the attachments.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A school district has five separate campuses, all sharing one student-records system. Which type of network connects the campuses?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "LAN (Local Area Network)",
+       "correct": false,
+       "feedback": "<p>❌ A LAN connects devices in ONE place — like a single building. Five separate campuses are too far apart.</p>"
+      },
+      {
+       "text": "WAN (Wide Area Network)",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A WAN connects multiple LANs across cities, states, or countries — like a five-campus district. (SC.6.CS.1.1)</p>"
+      },
+      {
+       "text": "A USB connection",
+       "correct": false,
+       "feedback": "<p>❌ USB connects two devices physically. It can't reach across multiple campuses.</p>"
+      },
+      {
+       "text": "A database",
+       "correct": false,
+       "feedback": "<p>❌ A database is an organized collection of data — not a type of network.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You finish a personal essay and want your dad to <strong>read</strong> it but NOT change any of your sentences. Which role should you give him?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Owner",
+       "correct": false,
+       "feedback": "<p>❌ Owner has full control — including delete and re-share. Way more than needed for \"just read it.\"</p>"
+      },
+      {
+       "text": "Editor",
+       "correct": false,
+       "feedback": "<p>❌ Editor can change your sentences. You said you don't want him doing that.</p>"
+      },
+      {
+       "text": "Viewer",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Viewer is read-only — he can open and read but cannot change anything. (SC.6.CS.1.2)</p>"
+      },
+      {
+       "text": "Commenter",
+       "correct": false,
+       "feedback": "<p>❌ Commenter could leave comments on your file. If you only want him to read silently, Viewer is the tighter choice.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sharing setting is the <strong>MOST RISKY</strong> for a private file you don't want strangers to see?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Specific people, role: Viewer",
+       "correct": false,
+       "feedback": "<p>❌ Very safe — only the people you list can find it, and they can only read.</p>"
+      },
+      {
+       "text": "Anyone in your school, role: Viewer",
+       "correct": false,
+       "feedback": "<p>❌ Some risk, since everyone in your school can find it — but the public still can't.</p>"
+      },
+      {
+       "text": "Anyone with the link, role: Editor",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The most dangerous combo — anyone who gets the link can not only read but also change your file. (SC.6.CS.1.2)</p>"
+      },
+      {
+       "text": "Specific people, role: Editor",
+       "correct": false,
+       "feedback": "<p>❌ Reasonable for a small trusted group — only the named people can find it, even if they can edit.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A DM says: \"Hi, I work at Discord. Send me your password AND your 6-digit MFA code right now or you'll lose your account!\" What's the right move?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Send the password and code so you don't lose the account",
+       "correct": false,
+       "feedback": "<p>❌ Real Discord employees NEVER ask for your password or MFA code. The whole point of those is that you keep them secret.</p>"
+      },
+      {
+       "text": "Don't send anything. Block, report, and tell a trusted adult.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Authority + urgency + asking for password and MFA code = textbook phishing. Block, report, tell a trusted adult. (SC.6.CS.1.3)</p>"
+      },
+      {
+       "text": "Send only the password — that's safer",
+       "correct": false,
+       "feedback": "<p>❌ Still a no. Even one piece of confidential info is too much to give a stranger.</p>"
+      },
+      {
+       "text": "Reply asking for proof they're really from Discord",
+       "correct": false,
+       "feedback": "<p>❌ Don't engage with phishers — anything you say can be used to keep the trick going. Just block and report.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following should be classified as <strong>CONFIDENTIAL</strong> information — never shared with anyone online, no matter who claims to be asking?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Your favorite music genre",
+       "correct": false,
+       "feedback": "<p>❌ Music tastes are PUBLIC — totally fine to share.</p>"
+      },
+      {
+       "text": "The name of your school",
+       "correct": false,
+       "feedback": "<p>❌ A school name is generally PUBLIC — printed on jerseys, posted on websites.</p>"
+      },
+      {
+       "text": "Your password and the 6-digit MFA code that just texted to your phone",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Passwords and MFA codes are CONFIDENTIAL. Real companies will NEVER ask for them. (SC.6.CS.1.4)</p>"
+      },
+      {
+       "text": "Your favorite NBA team",
+       "correct": false,
+       "feedback": "<p>❌ Sports preferences are PUBLIC — already visible on profiles or already known.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does <strong>multi-factor authentication (MFA)</strong> protect you against, even if a scammer steals your password?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Slow internet speeds",
+       "correct": false,
+       "feedback": "<p>❌ MFA isn't about speed — it's about identity.</p>"
+      },
+      {
+       "text": "Account takeover by an attacker who has only your password",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Even if a phisher steals your password, they can't log in without the second factor (a code on your phone). (SC.6.CS.2.1)</p>"
+      },
+      {
+       "text": "Lost device damage and broken screens",
+       "correct": false,
+       "feedback": "<p>❌ MFA doesn't protect physical devices — it protects access to your accounts.</p>"
+      },
+      {
+       "text": "Battery drain on your phone",
+       "correct": false,
+       "feedback": "<p>❌ MFA has nothing to do with battery life.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is the <strong>main purpose</strong> of encryption?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "To make data load faster on the internet",
+       "correct": false,
+       "feedback": "<p>❌ Encryption isn't about speed — it adds a small bit of work, not less.</p>"
+      },
+      {
+       "text": "To scramble a message so only the right person can read it",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Encryption turns plaintext into ciphertext that's unreadable without the key. (SC.6.CS.1.5)</p>"
+      },
+      {
+       "text": "To delete old messages automatically",
+       "correct": false,
+       "feedback": "<p>❌ Encryption doesn't delete anything — it scrambles messages so only the right person can read them.</p>"
+      },
+      {
+       "text": "To store data permanently in the cloud",
+       "correct": false,
+       "feedback": "<p>❌ That's cloud storage. Encryption is about protecting messages, not where they live.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Using a Caesar cipher with a <strong>shift of 3</strong>, what does the ciphertext <strong>FDW</strong> decrypt to (shift each letter back 3)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "DOG",
+       "correct": false,
+       "feedback": "<p>❌ Shift each letter back 3: F→C, D→A, W→T = CAT, not DOG.</p>"
+      },
+      {
+       "text": "CAT",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> F→C, D→A, W→T. The plaintext is CAT. (SC.6.CS.1.5)</p>"
+      },
+      {
+       "text": "BAT",
+       "correct": false,
+       "feedback": "<p>❌ Close, but B is shift-back 4 from F. With shift 3, F goes back to C — so the answer starts with C, not B.</p>"
+      },
+      {
+       "text": "CAR",
+       "correct": false,
+       "feedback": "<p>❌ First two letters are right (CA), but W shifts back 3 to T — not R.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is an example of a <strong>PASSIVE</strong> digital footprint — data collected automatically, not posted by you on purpose?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A discussion-board reply you typed",
+       "correct": false,
+       "feedback": "<p>❌ That's an ACTIVE footprint — you wrote and posted it on purpose.</p>"
+      },
+      {
+       "text": "A photo you uploaded to your profile",
+       "correct": false,
+       "feedback": "<p>❌ Active — you chose to upload it.</p>"
+      },
+      {
+       "text": "A list of YouTube videos you've watched, tracked by the app",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> You didn't post your watch history — the app collected it automatically. That's a passive footprint. (SC.6.CS.1.6)</p>"
+      },
+      {
+       "text": "A bio sentence you wrote on your profile",
+       "correct": false,
+       "feedback": "<p>❌ Active — those words went up because you typed them.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which top-level domain (TLD) is restricted <strong>only</strong> to U.S. government agencies?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": ".com",
+       "correct": false,
+       "feedback": "<p>❌ Anyone can register a .com — it's the most open TLD.</p>"
+      },
+      {
+       "text": ".org",
+       "correct": false,
+       "feedback": "<p>❌ Originally for non-profits, but now anyone can register .org.</p>"
+      },
+      {
+       "text": ".gov",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Only U.S. government agencies can use .gov — like nasa.gov, usa.gov, weather.gov. (SC.6.HS.1.2)</p>"
+      },
+      {
+       "text": ".edu",
+       "correct": false,
+       "feedback": "<p>❌ .edu is restricted to U.S. accredited SCHOOLS, not the government.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A pop-up screams: \"YOUR COMPUTER IS INFECTED — call 1-800-FAKE-NOW immediately!\" What is the BEST move?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Call the number to fix the problem",
+       "correct": false,
+       "feedback": "<p>❌ Real Microsoft and Apple NEVER show pop-ups asking you to call a phone number. The pop-up itself is the scam.</p>"
+      },
+      {
+       "text": "Close the pop-up; don't call. If it won't close, force-quit the browser and tell a trusted adult.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Fake tech-support pop-ups are common scams. Close, don't call, and ask a trusted adult if it won't close. (SC.6.HS.1.4)</p>"
+      },
+      {
+       "text": "Pay them with a gift card so they help faster",
+       "correct": false,
+       "feedback": "<p>❌ Gift-card payment to \"tech support\" is a flashing-red sign of a scam. Real companies don't take gift cards.</p>"
+      },
+      {
+       "text": "Click through every option in the pop-up",
+       "correct": false,
+       "feedback": "<p>❌ Clicking through pop-ups often installs malware. Don't engage — just close.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following is the <strong>BEST</strong> example of <strong>active</strong> screen time?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Endlessly scrolling Reels and Shorts",
+       "correct": false,
+       "feedback": "<p>❌ Endless scrolling is the textbook example of PASSIVE screen time, not active.</p>"
+      },
+      {
+       "text": "Watching reaction videos auto-play in the background",
+       "correct": false,
+       "feedback": "<p>❌ Background auto-play is the most passive form of screen use.</p>"
+      },
+      {
+       "text": "Coding a small project or video-calling Grandma",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Coding (creating) and video-calling (genuinely connecting) are textbook active screen time. (SC.6.HS.2.2)</p>"
+      },
+      {
+       "text": "Falling asleep with a movie on",
+       "correct": false,
+       "feedback": "<p>❌ That's passive — and combined with sleep disruption, a wellness double-whammy.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why does using your phone in bed at night make it harder to fall asleep?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The phone is too heavy to hold for long",
+       "correct": false,
+       "feedback": "<p>❌ Phone weight isn't the issue. The issue is light affecting your sleep hormones.</p>"
+      },
+      {
+       "text": "Blue light from the screen suppresses melatonin and tells your brain it's daytime",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Blue light suppresses melatonin and pushes back the sleep signal in your brain. (SC.6.HS.2.2)</p>"
+      },
+      {
+       "text": "Phones drain the oxygen in your room",
+       "correct": false,
+       "feedback": "<p>❌ Phones don't change room oxygen. The mechanism is light, not air.</p>"
+      },
+      {
+       "text": "Apps secretly broadcast caffeine",
+       "correct": false,
+       "feedback": "<p>❌ Not a real thing. The real mechanism is blue-light suppression of melatonin.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  }
+ ],
+ "discussions": [],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_start-here",
+   "title": "Start Here",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_home",
+     "title": "Welcome — Course Home",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_syllabus",
+     "title": "Course Syllabus",
+     "week": 1,
+     "completion": "must_mark_done"
+    }
+   ]
+  },
+  {
+   "id": "m_unit-1-digital-foundations",
+   "title": "Unit 1 — Digital Foundations",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_week-01-reading",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-01-activity",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-1-quiz-digital-communication-basics",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-02-reading",
+     "week": 2,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-02-activity",
+     "week": 2,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-2-quiz-digital-communication-in-practice",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-03-reading",
+     "week": 3,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-03-activity",
+     "week": 3,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-3-quiz-introduction-to-multimedia-design",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-04-reading",
+     "week": 4,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-04-activity",
+     "week": 4,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-4-quiz-building-multimedia-projects",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-05-reading",
+     "week": 5,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-05-activity",
+     "week": 5,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-5-quiz-file-types-and-digital-organization",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-06-reading",
+     "week": 6,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-06-activity",
+     "week": 6,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-6-quiz-productivity-software-and-collaboration",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-07-reading",
+     "week": 7,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-07-activity",
+     "week": 7,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-7-practice-quiz-unit-1-review",
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_unit-1-summative-assessment-digital-foundations",
+     "week": 7,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_unit-2-data-cyber-safety",
+   "title": "Unit 2 — Data & Cyber Safety",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_week-09-reading",
+     "week": 9,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-09-activity",
+     "week": 9,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-9-quiz-the-journey-of-data",
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-10-reading",
+     "week": 10,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-10-activity",
+     "week": 10,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-10-quiz-data-access-permissions",
+     "week": 10,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-11-reading",
+     "week": 11,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-11-activity",
+     "week": 11,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-11-quiz-phishing-social-engineering-privacy",
+     "week": 11,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-12-reading",
+     "week": 12,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-12-activity",
+     "week": 12,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-12-quiz-encryption-digital-identity",
+     "week": 12,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-13-reading",
+     "week": 13,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-13-activity",
+     "week": 13,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-13-quiz-evaluating-online-sources",
+     "week": 13,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-14-reading",
+     "week": 14,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-14-activity",
+     "week": 14,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-14-quiz-digital-wellness-screen-time",
+     "week": 14,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-15-project-guide",
+     "week": 15,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-15-planning-activity",
+     "week": 15,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-15-rubric-checklist",
+     "week": 15,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-16-reading",
+     "week": 16,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-16-activity",
+     "week": 16,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-16-practice-quiz-unit-2-review",
+     "week": 16,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-18-reading",
+     "week": 18,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-18-activity",
+     "week": 18,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-18-quiz-semester-1-review",
+     "week": 18,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_unit-2-assessment-data-cyber-safety",
+     "week": 18,
+     "completion": "must_submit"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Course build 6th Grade Digital Discoveries (build_imscc.py -> 6th-grade-digital-discoveries.imscc, 2026-05-14); readings and activities iframe facevedoOE.github.io/oao-digital-discoveries-gr6. Imported by optima-course-kit/_build/imscc_to_spec.py from 6th-grade-digital-discoveries.imscc (cartridge title '6th Grade Digital Discoveries'), modules [1, 2, 3] of 6 in cartridge order; titles, publish state, points, groups and question content exactly as the cartridge ships them."
+ }
+}

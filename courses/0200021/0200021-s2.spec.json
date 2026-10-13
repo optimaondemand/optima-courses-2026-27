@@ -1,0 +1,4046 @@
+{
+ "course": {
+  "title": "M/J Grade 6 Digital Discoveries Sem 2",
+  "code": "0200021",
+  "default_view": "wiki",
+  "weighted": false,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_quizzes-assessments",
+   "title": "Quizzes & Assessments",
+   "weight": 0
+  }
+ ],
+ "rubrics": [],
+ "pages": [
+  {
+   "id": "p_home",
+   "title": "Welcome — 6th Grade Digital Discoveries",
+   "published": true,
+   "html": "<h1>Welcome to 6th Grade Digital Discoveries</h1>\r\n<p><span class=\"badge\">CPALMS #0200021</span> <span class=\"badge\">Florida CS Standards SC.6.*</span></p>\r\n<p>Optima Academy Online — Grade 6 Digital Discoveries (CPALMS #0200021). An asynchronous, self-paced computer science course aligned to Florida Computer Science Standards (SC.6.*). Students explore digital communication, data and cyber safety, programming with Python, modeling and AI ethics, and complete a year-end capstone project.</p>\r\n\r\n<h2>What you'll learn this year</h2>\r\n<p>Across five units and 36 weeks, you'll move from everyday digital communication into the fundamentals of programming, modeling, and AI ethics — finishing with a year-end capstone where you put it all together.</p>\r\n\r\n<div class=\"unit-card\">\r\n  <h3>Course flow</h3>\r\n  <ul>\r\n    <li><strong>Unit 1 — Digital Foundations</strong> — Weeks 1–7. Digital communication, multimedia, file organization, productivity tools.</li>\r\n    <li><strong>Unit 2 — Data &amp; Cyber Safety</strong> — Weeks 9–18. The journey of data, permissions, phishing, encryption, source evaluation, and digital wellness.</li>\r\n    <li><strong>Unit 3 — Programming</strong> — Weeks 19–28. Computational thinking, flowcharts, Python data types, conditionals, loops, functions, debugging.</li>\r\n    <li><strong>Unit 4 — Modeling, Design &amp; AI</strong> — Weeks 29–33. Simulation, the engineering design process, AI fundamentals, ethics, and human-AI collaboration.</li>\r\n    <li><strong>Unit 5 — Capstone &amp; Course Final</strong> — Weeks 35–36. Careers in computing, year-end capstone project, and course final.</li>\r\n  </ul>\r\n</div>\r\n\r\n<h2>How each week works</h2>\r\n<ul>\r\n  <li><strong>Reading</strong> — the concept page introducing the week's topic and vocabulary.</li>\r\n  <li><strong>Activity</strong> — an interactive practice task (scenarios, sorting, decision-making) that reinforces the reading.</li>\r\n  <li><strong>Quiz</strong> — 5 multiple-choice questions, 3 attempts, instant feedback. Best attempt is kept.</li>\r\n</ul>\r\n<p>At the end of each unit, a longer summative <strong>Unit Assessment</strong> checks your mastery. Unit 5 ends with the cumulative <strong>Course Final</strong>.</p>\r\n\r\n<h2>Getting started</h2>\r\n<ol>\r\n  <li>Click <strong>Modules</strong> in the left sidebar — that's the main navigation for this course.</li>\r\n  <li>Open the <strong>Course Syllabus</strong> page (in the Start Here module) to see the full week-by-week plan.</li>\r\n  <li>Start with Unit 1, Week 1 and complete each week's reading → activity → quiz in order.</li>\r\n</ol>\r\n\r\n<p class=\"meta\">Optima Academy Online · Grade 6 Digital Discoveries</p>"
+  },
+  {
+   "id": "p_syllabus",
+   "title": "Course Syllabus — 6th Grade Digital Discoveries",
+   "published": true,
+   "html": "<h1>Course Syllabus</h1>\r\n<p class=\"meta\">6th Grade Digital Discoveries · CPALMS #0200021 · Asynchronous self-paced</p>\r\n\r\n<h2>Course description</h2>\r\n<p>Optima Academy Online — Grade 6 Digital Discoveries (CPALMS #0200021). An asynchronous, self-paced computer science course aligned to Florida Computer Science Standards (SC.6.*). Students explore digital communication, data and cyber safety, programming with Python, modeling and AI ethics, and complete a year-end capstone project.</p>\r\n\r\n<h2>Grading</h2>\r\n<table>\r\n  <tr><th>Component</th><th>Per item</th><th>Attempts</th><th>Policy</th></tr>\r\n  <tr><td>Weekly Quizzes</td><td>5 pts (5 × 1 pt)</td><td>3</td><td>Best attempt kept</td></tr>\r\n  <tr><td>Unit Assessments</td><td>10–15 pts</td><td>2</td><td>Best attempt kept</td></tr>\r\n  <tr><td>Capstone Project (Unit 5)</td><td>Per project rubric</td><td>1 submission</td><td>Rubric-graded</td></tr>\r\n</table>\r\n\r\n<h2>Units &amp; weekly contents</h2>\r\n<p class=\"meta\">Navigate to each item from the <strong>Modules</strong> page in the left sidebar.</p>\r\n<div class=\"unit-card\">\r\n  <h3>Unit 1 — Digital Foundations</h3>\r\n  <p class=\"meta\">Weeks 1–7. Digital communication, multimedia, file organization, productivity tools.</p>\r\n  <ul>\r\n    <li><strong>Week 1</strong>\r\n      <ul>\r\n        <li>Week 1 — Digital Communication Basics</li>\r\n        <li>Week 1 Activity — Pick the Right Channel</li>\r\n        <li>Week 1 Quiz — Digital Communication Basics</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 2</strong>\r\n      <ul>\r\n        <li>Week 2 — Digital Communication in Practice</li>\r\n        <li>Week 2 Activity — Revise the Message</li>\r\n        <li>Week 2 Quiz — Digital Communication in Practice</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 3</strong>\r\n      <ul>\r\n        <li>Week 3 — Introduction to Multimedia Design</li>\r\n        <li>Week 3 Activity — Design Decisions</li>\r\n        <li>Week 3 Quiz — Introduction to Multimedia Design</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 4</strong>\r\n      <ul>\r\n        <li>Week 4 — Building Multimedia Projects</li>\r\n        <li>Week 4 Activity — Studio Critic</li>\r\n        <li>Week 4 Quiz — Building Multimedia Projects</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 5</strong>\r\n      <ul>\r\n        <li>Week 5 — File Types &amp; Digital Organization</li>\r\n        <li>Week 5 Activity — File Detective</li>\r\n        <li>Week 5 Quiz — File Types and Digital Organization</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 6</strong>\r\n      <ul>\r\n        <li>Week 6 — Productivity Software &amp; Collaboration Tools</li>\r\n        <li>Week 6 Activity — Pick Your Tool</li>\r\n        <li>Week 6 Quiz — Productivity Software and Collaboration</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 7</strong>\r\n      <ul>\r\n        <li>Week 7 — Unit 1 Review &amp; Project</li>\r\n        <li>Week 7 Activity — Unit 1 Review Game</li>\r\n        <li>Week 7 Practice Quiz — Unit 1 Review</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Summative Assessment</strong>\r\n      <ul>\r\n        <li>Unit 1 Summative Assessment — Digital Foundations</li>\r\n      </ul>\r\n    </li>\r\n  </ul>\r\n</div>\r\n<div class=\"unit-card\">\r\n  <h3>Unit 2 — Data &amp; Cyber Safety</h3>\r\n  <p class=\"meta\">Weeks 9–18. The journey of data, permissions, phishing, encryption, source evaluation, and digital wellness.</p>\r\n  <ul>\r\n    <li><strong>Week 9</strong>\r\n      <ul>\r\n        <li>Week 9 — The Journey of Data</li>\r\n        <li>Week 9 Activity — Trace the Data Journey</li>\r\n        <li>Week 9 Quiz — The Journey of Data</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 10</strong>\r\n      <ul>\r\n        <li>Week 10 — Data Access &amp; Permissions</li>\r\n        <li>Week 10 Activity — Pick the Right Role</li>\r\n        <li>Week 10 Quiz — Data Access &amp; Permissions</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 11</strong>\r\n      <ul>\r\n        <li>Week 11 — Phishing, Social Engineering &amp; Privacy</li>\r\n        <li>Week 11 Activity — Spot the Phish</li>\r\n        <li>Week 11 Quiz — Phishing, Social Engineering &amp; Privacy</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 12</strong>\r\n      <ul>\r\n        <li>Week 12 — Encryption &amp; Digital Identity</li>\r\n        <li>Week 12 Activity — Crack the Code</li>\r\n        <li>Week 12 Quiz — Encryption &amp; Digital Identity</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 13</strong>\r\n      <ul>\r\n        <li>Week 13 — Evaluating Online Sources</li>\r\n        <li>Week 13 Activity — Source Detective</li>\r\n        <li>Week 13 Quiz — Evaluating Online Sources</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 14</strong>\r\n      <ul>\r\n        <li>Week 14 — Digital Wellness &amp; Screen Time</li>\r\n        <li>Week 14 Activity — Build Your Balance</li>\r\n        <li>Week 14 Quiz — Digital Wellness &amp; Screen Time</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 15</strong>\r\n      <ul>\r\n        <li>Week 15 — Cyber Safety PSA Project Guide</li>\r\n        <li>Week 15 — PSA Planning Activity</li>\r\n        <li>Week 15 — Rubric &amp; Submission Checklist</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 16</strong>\r\n      <ul>\r\n        <li>Week 16 — Unit 2 Review</li>\r\n        <li>Week 16 Activity — Unit 2 Mixed Review</li>\r\n        <li>Week 16 Practice Quiz — Unit 2 Review</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 18</strong>\r\n      <ul>\r\n        <li>Week 18 — Semester 1 Reflection &amp; Midpoint Check</li>\r\n        <li>Week 18 Self-Assessment — Semester 1 Reflection</li>\r\n        <li>Week 18 Quiz — Semester 1 Review</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Summative Assessment</strong>\r\n      <ul>\r\n        <li>Unit 2 Assessment — Data &amp; Cyber Safety</li>\r\n      </ul>\r\n    </li>\r\n  </ul>\r\n</div>\r\n<div class=\"unit-card\">\r\n  <h3>Unit 3 — Programming</h3>\r\n  <p class=\"meta\">Weeks 19–28. Computational thinking, flowcharts, Python data types, conditionals, loops, functions, debugging.</p>\r\n  <ul>\r\n    <li><strong>Week 19</strong>\r\n      <ul>\r\n        <li>Week 19 — Introduction to Computational Thinking</li>\r\n        <li>Week 19 Activity — Think Like a Programmer</li>\r\n        <li>Week 19 Quiz — Introduction to Computational Thinking</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 20</strong>\r\n      <ul>\r\n        <li>Week 20 — Flowcharts &amp; Algorithm Design</li>\r\n        <li>Week 20 Activity — Flowchart Detective</li>\r\n        <li>Week 20 Quiz — Flowcharts &amp; Algorithm Design</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 21</strong>\r\n      <ul>\r\n        <li>Week 21 — Python Basics: Data Types &amp; Variables</li>\r\n        <li>Week 21 Activity — Type Detective</li>\r\n        <li>Week 21 Quiz — Python Basics: Data Types &amp; Variables</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 22</strong>\r\n      <ul>\r\n        <li>Week 22 — Science, Technology &amp; Society Connections</li>\r\n        <li>Week 22 Activity — Tech &amp; Society: Make the Call</li>\r\n        <li>Week 22 Quiz — Science, Technology &amp; Society</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 23</strong>\r\n      <ul>\r\n        <li>Week 23 — Logic: Conditionals &amp; Making Programs Choose</li>\r\n        <li>Week 23 Activity — Predict the Branch</li>\r\n        <li>Week 23 Quiz: Logic — Conditionals</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 24</strong>\r\n      <ul>\r\n        <li>Week 24 — Loops: The Power of Repetition</li>\r\n        <li>Week 24 Activity — Loop Logic</li>\r\n        <li>Week 24 Quiz — Loops</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 25</strong>\r\n      <ul>\r\n        <li>Week 25 — Functions &amp; Modular Programming</li>\r\n        <li>Week 25 Activity — Function Architect</li>\r\n        <li>Week 25 Quiz — Functions &amp; Modular Programming</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 26</strong>\r\n      <ul>\r\n        <li>Week 26 — Debugging &amp; The Software Lifecycle</li>\r\n        <li>Week 26 Activity — Bug Hunter</li>\r\n        <li>Week 26 Quiz — Debugging &amp; The Software Lifecycle</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 27</strong>\r\n      <ul>\r\n        <li>Week 27 — Unit 3 Review: From Idea to Code</li>\r\n        <li>Week 27 Activity — Unit 3 Mixer</li>\r\n        <li>Week 27 Quiz — Unit 3 Review</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 28</strong>\r\n      <ul>\r\n        <li>Unit 3 Assessment — Programming Fundamentals</li>\r\n      </ul>\r\n    </li>\r\n  </ul>\r\n</div>\r\n<div class=\"unit-card\">\r\n  <h3>Unit 4 — Modeling, Design &amp; AI</h3>\r\n  <p class=\"meta\">Weeks 29–33. Simulation, the engineering design process, AI fundamentals, ethics, and human-AI collaboration.</p>\r\n  <ul>\r\n    <li><strong>Week 29</strong>\r\n      <ul>\r\n        <li>Week 29 — Digital Modeling &amp; Simulation</li>\r\n        <li>Week 29 Activity — Model This!</li>\r\n        <li>Week 29 Quiz — Digital Modeling &amp; Simulation</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 30</strong>\r\n      <ul>\r\n        <li>Week 30 — Engineering Design Process</li>\r\n        <li>Week 30 Activity — Design Critique</li>\r\n        <li>Week 30 Quiz — Engineering Design Process</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 31</strong>\r\n      <ul>\r\n        <li>Week 31 — Human-AI Collaboration</li>\r\n        <li>Week 31 Activity — Who Should Do This?</li>\r\n        <li>Week 31 Quiz — Human-AI Collaboration</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 32</strong>\r\n      <ul>\r\n        <li>Week 32 — AI Fundamentals &amp; Ethics</li>\r\n        <li>Week 32 Activity — Ethical AI Decisions</li>\r\n        <li>Week 32 Quiz — AI Fundamentals &amp; Ethics</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 33</strong>\r\n      <ul>\r\n        <li>Week 33 — Unit 4 Review &amp; AI Perspectives Project</li>\r\n        <li>Week 33 Activity — AI Perspectives Project Guide</li>\r\n        <li>Week 33 Quiz — Unit 4 Review</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Summative Assessment</strong>\r\n      <ul>\r\n        <li>Unit 4 Assessment — Modeling &amp; AI</li>\r\n      </ul>\r\n    </li>\r\n  </ul>\r\n</div>\r\n<div class=\"unit-card\">\r\n  <h3>Unit 5 — Capstone &amp; Course Final</h3>\r\n  <p class=\"meta\">Weeks 35–36. Careers in computing, year-end capstone project, and course final.</p>\r\n  <ul>\r\n    <li><strong>Week 35</strong>\r\n      <ul>\r\n        <li>Week 35 — Careers in Computing &amp; Digital Citizenship</li>\r\n        <li>Week 35 Activity — Career Sleuth!</li>\r\n        <li>Week 35 Quiz — Careers in Computing &amp; Digital Citizenship</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Week 36</strong>\r\n      <ul>\r\n        <li>Week 36 — Year-End Capstone &amp; Course Final</li>\r\n        <li>Week 36 Activity — Year-End Capstone Project Guide</li>\r\n      </ul>\r\n    </li>\r\n    <li><strong>Summative Assessment</strong>\r\n      <ul>\r\n        <li>Course Final Assessment — Digital Discoveries</li>\r\n      </ul>\r\n    </li>\r\n  </ul>\r\n</div>\r\n<p class=\"meta\">Standards alignment: SC.6.CC.* (Computational Communication), SC.6.CS.* (Computer Science), SC.6.DA.* (Data Analysis), SC.6.PA.* (Programming Applications), SC.6.AI.* (AI &amp; Ethics).</p>"
+  },
+  {
+   "id": "p_week-19-reading",
+   "title": "Week 19 — Introduction to Computational Thinking",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 19 — Introduction to Computational Thinking</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-19-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-19-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 19 — Introduction to Computational Thinking\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-19-activity",
+   "title": "Week 19 Activity — Think Like a Programmer",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 19 Activity — Think Like a Programmer</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-19-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-19-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 19 Activity — Think Like a Programmer\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-20-reading",
+   "title": "Week 20 — Flowcharts & Algorithm Design",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 20 — Flowcharts &amp; Algorithm Design</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-20-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-20-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 20 — Flowcharts &amp; Algorithm Design\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-20-activity",
+   "title": "Week 20 Activity — Flowchart Detective",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 20 Activity — Flowchart Detective</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-20-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-20-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 20 Activity — Flowchart Detective\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-21-reading",
+   "title": "Week 21 — Python Basics: Data Types & Variables",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 21 — Python Basics: Data Types &amp; Variables</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-21-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-21-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 21 — Python Basics: Data Types &amp; Variables\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-21-activity",
+   "title": "Week 21 Activity — Type Detective",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 21 Activity — Type Detective</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-21-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-21-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 21 Activity — Type Detective\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-22-reading",
+   "title": "Week 22 — Science, Technology & Society Connections",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 22 — Science, Technology &amp; Society Connections</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-22-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-22-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 22 — Science, Technology &amp; Society Connections\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-22-activity",
+   "title": "Week 22 Activity — Tech & Society: Make the Call",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 22 Activity — Tech &amp; Society: Make the Call</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-22-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-22-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 22 Activity — Tech &amp; Society: Make the Call\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-23-reading",
+   "title": "Week 23 — Logic: Conditionals & Making Programs Choose",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 23 — Logic: Conditionals &amp; Making Programs Choose</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-23-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-23-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 23 — Logic: Conditionals &amp; Making Programs Choose\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-23-activity",
+   "title": "Week 23 Activity — Predict the Branch",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 23 Activity — Predict the Branch</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-23-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-23-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 23 Activity — Predict the Branch\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-24-reading",
+   "title": "Week 24 — Loops: The Power of Repetition",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 24 — Loops: The Power of Repetition</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-24-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-24-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 24 — Loops: The Power of Repetition\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-24-activity",
+   "title": "Week 24 Activity — Loop Logic",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 24 Activity — Loop Logic</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-24-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-24-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 24 Activity — Loop Logic\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-25-reading",
+   "title": "Week 25 — Functions & Modular Programming",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 25 — Functions &amp; Modular Programming</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-25-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-25-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 25 — Functions &amp; Modular Programming\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-25-activity",
+   "title": "Week 25 Activity — Function Architect",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 25 Activity — Function Architect</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-25-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-25-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 25 Activity — Function Architect\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-26-reading",
+   "title": "Week 26 — Debugging & The Software Lifecycle",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 26 — Debugging &amp; The Software Lifecycle</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-26-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-26-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 26 — Debugging &amp; The Software Lifecycle\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-26-activity",
+   "title": "Week 26 Activity — Bug Hunter",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 26 Activity — Bug Hunter</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-26-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-26-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 26 Activity — Bug Hunter\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-27-reading",
+   "title": "Week 27 — Unit 3 Review: From Idea to Code",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 27 — Unit 3 Review: From Idea to Code</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-27-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-27-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 27 — Unit 3 Review: From Idea to Code\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-27-activity",
+   "title": "Week 27 Activity — Unit 3 Mixer",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 27 Activity — Unit 3 Mixer</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-27-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit3/week-27-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 27 Activity — Unit 3 Mixer\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-29-reading",
+   "title": "Week 29 — Digital Modeling & Simulation",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 29 — Digital Modeling &amp; Simulation</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-29-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-29-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 29 — Digital Modeling &amp; Simulation\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-29-activity",
+   "title": "Week 29 Activity — Model This!",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 29 Activity — Model This!</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-29-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-29-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 29 Activity — Model This!\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-30-reading",
+   "title": "Week 30 — Engineering Design Process",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 30 — Engineering Design Process</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-30-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-30-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 30 — Engineering Design Process\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-30-activity",
+   "title": "Week 30 Activity — Design Critique",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 30 Activity — Design Critique</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-30-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-30-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 30 Activity — Design Critique\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-31-reading",
+   "title": "Week 31 — Human-AI Collaboration",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 31 — Human-AI Collaboration</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-31-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-31-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 31 — Human-AI Collaboration\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-31-activity",
+   "title": "Week 31 Activity — Who Should Do This?",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 31 Activity — Who Should Do This?</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-31-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-31-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 31 Activity — Who Should Do This?\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-32-reading",
+   "title": "Week 32 — AI Fundamentals & Ethics",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 32 — AI Fundamentals &amp; Ethics</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-32-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-32-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 32 — AI Fundamentals &amp; Ethics\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-32-activity",
+   "title": "Week 32 Activity — Ethical AI Decisions",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 32 Activity — Ethical AI Decisions</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-32-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-32-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 32 Activity — Ethical AI Decisions\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-33-reading",
+   "title": "Week 33 — Unit 4 Review & AI Perspectives Project",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 33 — Unit 4 Review &amp; AI Perspectives Project</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-33-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-33-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 33 — Unit 4 Review &amp; AI Perspectives Project\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-33-activity",
+   "title": "Week 33 Activity — AI Perspectives Project Guide",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 33 Activity — AI Perspectives Project Guide</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-33-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit4/week-33-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 33 Activity — AI Perspectives Project Guide\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-35-reading",
+   "title": "Week 35 — Careers in Computing & Digital Citizenship",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 35 — Careers in Computing &amp; Digital Citizenship</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit5/week-35-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit5/week-35-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 35 — Careers in Computing &amp; Digital Citizenship\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-35-activity",
+   "title": "Week 35 Activity — Career Sleuth!",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 35 Activity — Career Sleuth!</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit5/week-35-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit5/week-35-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 35 Activity — Career Sleuth!\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-36-reading",
+   "title": "Week 36 — Year-End Capstone & Course Final",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 36 — Year-End Capstone &amp; Course Final</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit5/week-36-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit5/week-36-reading.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 36 — Year-End Capstone &amp; Course Final\"></iframe>\r\n</p>"
+  },
+  {
+   "id": "p_week-36-activity",
+   "title": "Week 36 Activity — Year-End Capstone Project Guide",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\r\n  <strong>Week 36 Activity — Year-End Capstone Project Guide</strong> — interactive lesson. Trouble viewing below?\r\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit5/week-36-activity.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\r\n</p>\r\n<p>\r\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr6/Unit5/week-36-activity.html\"\r\n          width=\"100%\"\r\n          height=\"900\"\r\n          frameborder=\"0\"\r\n          allowfullscreen=\"allowfullscreen\"\r\n          allow=\"fullscreen\"\r\n          loading=\"lazy\"\r\n          style=\"border:0;width:100%;min-height:900px;display:block\"\r\n          title=\"Week 36 Activity — Year-End Capstone Project Guide\"></iframe>\r\n</p>"
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_week-19-quiz-introduction-to-computational-thinking",
+   "title": "Week 19 Quiz — Introduction to Computational Thinking",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following <strong>BEST</strong> describes <strong>computational thinking</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A way to fix broken computers and replace hardware parts",
+       "correct": false,
+       "feedback": "<p>❌ That's computer <em>repair</em>. Computational thinking is a <strong>way of thinking about problems</strong>, not a hardware skill.</p>"
+      },
+      {
+       "text": "A method for solving problems by decomposing them, finding patterns, abstracting essentials, and writing clear steps",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Computational thinking is the four-pillar problem-solving toolkit — decomposition, pattern recognition, abstraction, and algorithm design — that works in any language. (SC.K12.CTR.1.1)</p>"
+      },
+      {
+       "text": "Memorizing the rules of a programming language like Python",
+       "correct": false,
+       "feedback": "<p>❌ Memorizing language rules is just one small part of programming. Computational thinking is broader — it works <em>before</em> you ever pick a language.</p>"
+      },
+      {
+       "text": "Building physical computer hardware in a workshop",
+       "correct": false,
+       "feedback": "<p>❌ Hardware engineering is its own field. Computational thinking is about problem-solving, not building physical machines.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which scenario shows <strong>decomposition</strong> at work?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Asking your friend to do the entire research project for you",
+       "correct": false,
+       "feedback": "<p>❌ That's <em>delegation</em>, not decomposition. The big problem hasn't been broken down into smaller parts — it's just been handed off.</p>"
+      },
+      {
+       "text": "Splitting a research project into smaller jobs: pick a topic, gather sources, write a draft, edit, format",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> One big problem becomes five smaller ones, each one easy to start. That's textbook decomposition. (SC.K12.CTR.1.1)</p>"
+      },
+      {
+       "text": "Writing a long paragraph about the topic without stopping",
+       "correct": false,
+       "feedback": "<p>❌ Writing without stopping isn't breaking the problem down — it's just diving in. There are no smaller pieces identified.</p>"
+      },
+      {
+       "text": "Reading a textbook from front to back without taking notes",
+       "correct": false,
+       "feedback": "<p>❌ Reading is gathering information, not breaking the project into parts. No decomposition happened.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why is <strong>pattern recognition</strong> so useful in computer science?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It lets you reuse a solution that already works on similar problems",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Once you've spotted the pattern in a problem, you can reuse the same shape of solution on every similar problem you meet. That saves time and reduces mistakes. (SC.K12.CTR.2.1)</p>"
+      },
+      {
+       "text": "It makes the computer's processor physically faster",
+       "correct": false,
+       "feedback": "<p>❌ Pattern recognition is a <em>thinking skill</em>, not a hardware upgrade. Processor speed is a separate physical thing.</p>"
+      },
+      {
+       "text": "It removes the need to ever write algorithms",
+       "correct": false,
+       "feedback": "<p>❌ Pattern recognition <em>helps</em> us write algorithms — it doesn't replace them. You still need clear, ordered steps.</p>"
+      },
+      {
+       "text": "It hides the bugs in your code so they don't show up",
+       "correct": false,
+       "feedback": "<p>❌ Pattern recognition has nothing to do with hiding bugs. We track bugs by debugging — a different skill (Week 26!).</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is the <strong>BEST</strong> example of <strong>abstraction</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A video game that includes every detail of a real city — every leaf, brick, and stoplight",
+       "correct": false,
+       "feedback": "<p>❌ That's the <em>opposite</em> of abstraction — that's keeping every detail. Abstraction throws unimportant details away.</p>"
+      },
+      {
+       "text": "A subway map that shows only the stations and lines, not the real distances or curves",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A subway map is the classic example of abstraction: it keeps the details that matter (lines and stops) and drops the ones that don't (real distances, curves). (SC.K12.CTR.5.1)</p>"
+      },
+      {
+       "text": "Counting every single leaf on a tree before drawing it",
+       "correct": false,
+       "feedback": "<p>❌ Counting every leaf is keeping all the details. Abstraction would be drawing the tree as a green blob and a brown trunk.</p>"
+      },
+      {
+       "text": "Memorizing every fact about every classmate before a test",
+       "correct": false,
+       "feedback": "<p>❌ Memorizing everything is the opposite of abstraction. Abstraction means keeping only what matters for <em>this</em> task.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following is <strong>NOT</strong> a required trait of an algorithm?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It eventually stops — it is finite",
+       "correct": false,
+       "feedback": "<p>❌ Being finite IS a required trait — an algorithm must eventually stop. So this is a real trait, not the answer.</p>"
+      },
+      {
+       "text": "It has clear, ordered steps",
+       "correct": false,
+       "feedback": "<p>❌ Clear ordered steps ARE a required trait of every algorithm. So this is a real trait, not the answer.</p>"
+      },
+      {
+       "text": "It must be written in the Python programming language",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Algorithms are language-independent — you can write the same algorithm as plain steps, in pseudocode, in Python, in JavaScript, or in any other language. The language is just how we <em>express</em> the algorithm. (SC.K12.CTR.1.1)</p>"
+      },
+      {
+       "text": "It produces an output (an answer, a result, or an action)",
+       "correct": false,
+       "feedback": "<p>❌ Producing an output IS a required trait. So this is a real trait, not the answer.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-20-quiz-flowcharts-algorithm-design",
+   "title": "Week 20 Quiz — Flowcharts & Algorithm Design",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which flowchart shape marks the <strong>START</strong> or <strong>END</strong> of an algorithm?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Rectangle",
+       "correct": false,
+       "feedback": "<p>❌ Rectangles are for <em>process</em> steps (calculations, actions). Not for marking start or end.</p>"
+      },
+      {
+       "text": "Diamond",
+       "correct": false,
+       "feedback": "<p>❌ Diamonds ask yes/no questions and split the path. Not for start or end.</p>"
+      },
+      {
+       "text": "Oval (terminator)",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The oval (also called a \"terminator\") is the only shape used for START and END. (SC.K12.CTR.1.1)</p>"
+      },
+      {
+       "text": "Parallelogram",
+       "correct": false,
+       "feedback": "<p>❌ Parallelograms are for getting input or showing output. Not for start or end.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is a <strong>diamond</strong> shape used for in a flowchart?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Showing information to the user (output)",
+       "correct": false,
+       "feedback": "<p>❌ Output is the parallelogram's job (Input/Output shape). The diamond does something different.</p>"
+      },
+      {
+       "text": "Marking the start of the program",
+       "correct": false,
+       "feedback": "<p>❌ Starting the program is the oval's job (terminator). Not the diamond.</p>"
+      },
+      {
+       "text": "Connecting two arrows together",
+       "correct": false,
+       "feedback": "<p>❌ Plain arrows connect shapes together — diamonds are not connectors.</p>"
+      },
+      {
+       "text": "Asking a yes/no question that splits the path",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Every diamond holds a yes/no question. It always has TWO arrows leaving — one for YES, one for NO. (SC.K12.CTR.2.1)</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How many arrows should leave a single <strong>decision diamond</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Exactly two — one for YES, one for NO",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A diamond ALWAYS has exactly two arrows leaving — labeled YES and NO. That's what makes it a \"decision.\" (SC.K12.CTR.2.1)</p>"
+      },
+      {
+       "text": "Exactly one — flowcharts always have a single path",
+       "correct": false,
+       "feedback": "<p>❌ Flowcharts can branch — that's the whole point of a diamond. One outgoing arrow would mean no decision.</p>"
+      },
+      {
+       "text": "Three or more, one for each possible answer",
+       "correct": false,
+       "feedback": "<p>❌ A diamond is for yes/no questions only — that means exactly two outcomes.</p>"
+      },
+      {
+       "text": "None — the diamond only receives arrows",
+       "correct": false,
+       "feedback": "<p>❌ Diamonds receive AND send arrows. Without outgoing arrows the flow would dead-end at the question.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're translating this pseudocode to a flowchart:</p><pre style=\"background:#0E1C42; color:#e5e7eb; padding:10px 14px; border-radius:6px; font-size:13px;\">IF temperature &gt; 80 THEN\n    PRINT \"It's hot!\"</pre><p>How many shapes (besides terminators and arrows) does this need?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Just one — only the IF",
+       "correct": false,
+       "feedback": "<p>❌ The PRINT is a separate step — it shows up only on the YES branch and needs its own shape.</p>"
+      },
+      {
+       "text": "Two — a diamond for the IF and a parallelogram for the PRINT",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> One diamond for the IF condition, one parallelogram for the PRINT (output). Each step needs its matching shape. (SC.K12.CTR.3.1)</p>"
+      },
+      {
+       "text": "Three — two diamonds and one rectangle",
+       "correct": false,
+       "feedback": "<p>❌ There's only ONE decision here (\"temperature &gt; 80?\"), not two. And a PRINT is a parallelogram, not a rectangle.</p>"
+      },
+      {
+       "text": "None — pseudocode and flowcharts can't be translated",
+       "correct": false,
+       "feedback": "<p>❌ Pseudocode and flowcharts ARE translatable — they describe the same algorithm in different forms.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why does every flowchart need a <strong>terminator (oval)</strong> at the start AND at the end?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Because flowcharts crash without ovals",
+       "correct": false,
+       "feedback": "<p>❌ Flowcharts don't \"crash\" — they're pictures, not running programs. The reason is about clarity.</p>"
+      },
+      {
+       "text": "Because Canvas requires it as a file format",
+       "correct": false,
+       "feedback": "<p>❌ Canvas doesn't enforce flowchart shapes. The convention exists because it makes charts readable.</p>"
+      },
+      {
+       "text": "Because terminators show where to begin reading the chart and where the algorithm ends",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Without START and END terminators, a reader has no idea where the algorithm begins or finishes. Terminators are the bookends of every flowchart. (SC.K12.CTR.1.1)</p>"
+      },
+      {
+       "text": "Because diamonds need ovals to work properly",
+       "correct": false,
+       "feedback": "<p>❌ Diamonds work fine on their own — they don't depend on ovals. Terminators serve a different role: marking begin/end.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-21-quiz-python-basics-data-types-variables",
+   "title": "Week 21 Quiz — Python Basics: Data Types & Variables",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Python, what is a <strong>variable</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A math problem the computer has to solve",
+       "correct": false,
+       "feedback": "<p>❌ Variables don't run calculations on their own — they store values for later use.</p>"
+      },
+      {
+       "text": "A labeled box that stores a value the program can use later",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A variable is a name (the label) attached to a value (the contents). The contents can change as the program runs. (SC.6.PE.1.1)</p>"
+      },
+      {
+       "text": "A built-in Python function for printing text",
+       "correct": false,
+       "feedback": "<p>❌ That describes <code>print()</code>, not a variable.</p>"
+      },
+      {
+       "text": "Another word for a comment in the code",
+       "correct": false,
+       "feedback": "<p>❌ Comments start with <code>#</code> and are ignored by Python — that's not a variable.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Python, what does the <strong>assignment operator</strong> (<code>=</code>) do?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It checks whether two values are equal",
+       "correct": false,
+       "feedback": "<p>❌ That describes the <strong>equality operator</strong>, written <code>==</code>. The single <code>=</code> is different.</p>"
+      },
+      {
+       "text": "It performs subtraction",
+       "correct": false,
+       "feedback": "<p>❌ Subtraction uses the <code>-</code> operator. The <code>=</code> sign isn't math.</p>"
+      },
+      {
+       "text": "It stores the value on the right into the variable on the left",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Read <code>=</code> as \"gets the value of.\" <code>score = 10</code> means \"the variable score gets the value 10.\" (SC.6.PE.1.1)</p>"
+      },
+      {
+       "text": "It deletes the variable",
+       "correct": false,
+       "feedback": "<p>❌ Python doesn't delete a variable just by writing <code>=</code>. The <code>del</code> keyword is for that — but you don't need it yet.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What data type is the literal value <code>\"3.14\"</code> in Python? (Pay close attention to the <strong>quotes</strong>!)</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "float",
+       "correct": false,
+       "feedback": "<p>❌ Without quotes, <code>3.14</code> would be a float. With quotes, it's text — Python doesn't peek inside the quotes to check.</p>"
+      },
+      {
+       "text": "int",
+       "correct": false,
+       "feedback": "<p>❌ ints are whole numbers. <code>\"3.14\"</code> has a decimal point AND is wrapped in quotes — neither fits int.</p>"
+      },
+      {
+       "text": "string (str)",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Anything wrapped in quotes is a <strong>string</strong>, even if the characters inside happen to look like a number. (SC.6.PE.1.1)</p>"
+      },
+      {
+       "text": "bool",
+       "correct": false,
+       "feedback": "<p>❌ Booleans only hold <code>True</code> or <code>False</code>. <code>\"3.14\"</code> is neither.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Python runs:</p><pre><code>x = \"Code\"\ny = \"Quest\"\nprint(x + y)</code></pre><p>What appears on the screen?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "CodeQuest",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> When <code>+</code> is used between two strings, Python <em>concatenates</em> them — sticks them end-to-end with no space. The result is a string. (SC.6.PE.1.1)</p>"
+      },
+      {
+       "text": "Code Quest (with a space between)",
+       "correct": false,
+       "feedback": "<p>❌ Python doesn't add a space when you use <code>+</code>. The strings join exactly as they are.</p>"
+      },
+      {
+       "text": "An error — you can't add strings",
+       "correct": false,
+       "feedback": "<p>❌ You can! For strings, <code>+</code> means \"join together\" rather than \"add up numerically.\"</p>"
+      },
+      {
+       "text": "Code+Quest",
+       "correct": false,
+       "feedback": "<p>❌ The <code>+</code> is the instruction, not part of the result. It disappears when Python builds the joined string.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why do programmers use <strong>descriptive variable names</strong> like <code>high_score</code> instead of single letters like <code>x</code>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Python runs descriptive names faster",
+       "correct": false,
+       "feedback": "<p>❌ Variable names don't change how fast the code runs. Python treats <code>x</code> and <code>high_score</code> the same speed-wise.</p>"
+      },
+      {
+       "text": "Single-letter names break the assignment operator",
+       "correct": false,
+       "feedback": "<p>❌ Single letters like <code>x</code> are perfectly LEGAL in Python — they're just hard for humans to read.</p>"
+      },
+      {
+       "text": "Descriptive names make code easier to read and understand later for yourself and others",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Code is read way more often than it's written. A name like <code>high_score</code> tells future-you (and your teammates) exactly what's in the box. (SC.6.PE.1.1)</p>"
+      },
+      {
+       "text": "Python won't accept variable names shorter than three letters",
+       "correct": false,
+       "feedback": "<p>❌ Python is fine with one-letter names. The community just discourages them because they're unclear.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-22-quiz-science-technology-society",
+   "title": "Week 22 Quiz — Science, Technology & Society",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>In technology, what does ETHICS mostly mean?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Knowing how to fix a broken computer",
+       "correct": false
+      },
+      {
+       "text": "Thinking about what is right and fair when our tech choices affect other people",
+       "correct": true
+      },
+      {
+       "text": "Memorizing all the rules of one programming language",
+       "correct": false
+      },
+      {
+       "text": "Building the fastest possible processor",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following is the BEST example of AUTOMATION?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A human cashier scanning items by hand",
+       "correct": false
+      },
+      {
+       "text": "A teacher grading every essay personally",
+       "correct": false
+      },
+      {
+       "text": "A self-checkout lane at the grocery store that scans items and takes payment with no cashier",
+       "correct": true
+      },
+      {
+       "text": "A friend texting you a reminder",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does the term DIGITAL DIVIDE describe?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The split between Apple and Android phone users",
+       "correct": false
+      },
+      {
+       "text": "The difference between websites and mobile apps",
+       "correct": false
+      },
+      {
+       "text": "The gap between people who have fast, reliable internet and modern devices and people who don't — and the unfair effects that gap creates",
+       "correct": true
+      },
+      {
+       "text": "The line between online games and real-life sports",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is an ACCESSIBILITY tool?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A graphics card that makes games run faster",
+       "correct": false
+      },
+      {
+       "text": "A high-end gaming mouse with extra buttons",
+       "correct": false
+      },
+      {
+       "text": "A 4K monitor for sharper movies",
+       "correct": false
+      },
+      {
+       "text": "A screen reader that reads text aloud for people who are blind or have low vision",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which statement BEST describes the relationship between technology and society?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Technology controls society — society has no say",
+       "correct": false
+      },
+      {
+       "text": "Society controls technology — technology has no effect on us",
+       "correct": false
+      },
+      {
+       "text": "Technology and society shape each other in a two-way relationship: tech changes how we live, and our needs, laws, and choices change tech back",
+       "correct": true
+      },
+      {
+       "text": "Technology and society have nothing to do with each other",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-23-quiz-logic-conditionals",
+   "title": "Week 23 Quiz: Logic — Conditionals",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>In pseudocode, what is the difference between <code>==</code> and <code>=</code>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "They mean the same thing — both compare two values.",
+       "correct": false
+      },
+      {
+       "text": "== compares two values (asks \"are they equal?\"); = assigns a value (sets a variable).",
+       "correct": true
+      },
+      {
+       "text": "= compares two values; == assigns a value.",
+       "correct": false
+      },
+      {
+       "text": "== is only used for text; = is only used for numbers.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Given <code>age = 15</code>, which branch of this code runs?</p><pre>IF age &gt;= 16 THEN\n    PRINT \"can drive\"\nELSE\n    PRINT \"too young\"\nEND IF</pre>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The IF branch runs — prints \"can drive\".",
+       "correct": false
+      },
+      {
+       "text": "Both branches run, one after the other.",
+       "correct": false
+      },
+      {
+       "text": "The ELSE branch runs — prints \"too young\".",
+       "correct": true
+      },
+      {
+       "text": "Neither branch runs because 15 doesn't equal 16.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Given <code>n = 50</code>, what does this code print?</p><pre>IF n &gt; 100 THEN\n    PRINT \"huge\"\nELIF n &gt; 10 THEN\n    PRINT \"medium\"\nELSE\n    PRINT \"small\"\nEND IF</pre>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"huge\"",
+       "correct": false
+      },
+      {
+       "text": "\"medium\"",
+       "correct": true
+      },
+      {
+       "text": "\"small\"",
+       "correct": false
+      },
+      {
+       "text": "Both \"medium\" and \"small\"",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why is ELIF useful instead of writing many separate IF statements?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "ELIF is faster — it skips to the answer instantly.",
+       "correct": false
+      },
+      {
+       "text": "ELIF lets you check more conditions than IF allows.",
+       "correct": false
+      },
+      {
+       "text": "ELIF works even when conditions overlap, but separate IFs do not.",
+       "correct": false
+      },
+      {
+       "text": "With ELIF, only the first true branch runs and the rest are skipped — separate IFs would each be checked and could all run.",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a flowchart, which shape represents a place where the program has to make a yes/no decision (a \"decision diamond\")?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "An oval (rounded ends).",
+       "correct": false
+      },
+      {
+       "text": "A rectangle.",
+       "correct": false
+      },
+      {
+       "text": "A diamond (a square turned 45 degrees with a yes/no question inside, with two arrows leading out).",
+       "correct": true
+      },
+      {
+       "text": "A circle with an arrow inside it.",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-24-quiz-loops",
+   "title": "Week 24 Quiz — Loops",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div>What does a <strong>loop</strong> do that running a line of code once does NOT do?</div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It runs faster than any other line of code",
+       "correct": false
+      },
+      {
+       "text": "It repeats a block of code multiple times until a condition tells it to stop",
+       "correct": true
+      },
+      {
+       "text": "It deletes the code after running it once",
+       "correct": false
+      },
+      {
+       "text": "It turns words into numbers",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div>You're writing a program that should keep asking the user for a password UNTIL they type the correct one. Which kind of loop is the right tool?</div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A for loop with range(1) — exactly one try",
+       "correct": false
+      },
+      {
+       "text": "A for loop with range(3) — exactly three tries",
+       "correct": false
+      },
+      {
+       "text": "A while loop that repeats while the password is wrong",
+       "correct": true
+      },
+      {
+       "text": "No loop — just write the question once",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div>How many times does the body of this loop run?</div><pre style=\"background:#f3f4f6;padding:10px 14px;border-radius:6px;font-family:Consolas,monospace;font-size:14px;\">for i in range(5):\n    print(\"hi\")</pre>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "0 times — it never enters the loop",
+       "correct": false
+      },
+      {
+       "text": "4 times",
+       "correct": false
+      },
+      {
+       "text": "5 times",
+       "correct": true
+      },
+      {
+       "text": "6 times",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div>What is wrong with this code?</div><pre style=\"background:#f3f4f6;padding:10px 14px;border-radius:6px;font-family:Consolas,monospace;font-size:14px;\">counter = 1\nwhile counter &lt; 5:\n    print(\"hello\")</pre>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Nothing — it works perfectly.",
+       "correct": false
+      },
+      {
+       "text": "The word \"while\" should be \"for\"",
+       "correct": false
+      },
+      {
+       "text": "It is an infinite loop — counter is never updated, so the condition stays true forever",
+       "correct": true
+      },
+      {
+       "text": "It will print \"hello\" exactly 5 times",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div>Which of these is the BEST example of a real-world <strong>loop at scale</strong>?</div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A calculator adding 2 + 2 a single time",
+       "correct": false
+      },
+      {
+       "text": "A recommendation feed (like TikTok or YouTube) scoring millions of videos for each user",
+       "correct": true
+      },
+      {
+       "text": "A teacher writing one comment on one student's paper",
+       "correct": false
+      },
+      {
+       "text": "A doorbell ringing once when a guest arrives",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-25-quiz-functions-modular-programming",
+   "title": "Week 25 Quiz — Functions & Modular Programming",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Python, what does the <strong><code>def</code></strong> keyword do?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It deletes a variable from memory.",
+       "correct": false
+      },
+      {
+       "text": "It defines a new function — telling Python the function's name and what it does.",
+       "correct": true
+      },
+      {
+       "text": "It runs a function that has already been defined.",
+       "correct": false
+      },
+      {
+       "text": "It prints text to the screen.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In this code:</p><pre>def greet(name):\n    print(\"Hello, \" + name)\n\ngreet(\"Maya\")</pre><p>Which statement is correct about <strong><code>name</code></strong> and <strong><code>\"Maya\"</code></strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"Maya\" is the parameter; name is the argument.",
+       "correct": false
+      },
+      {
+       "text": "Both name and \"Maya\" are parameters.",
+       "correct": false
+      },
+      {
+       "text": "name is the parameter (the placeholder in the definition); \"Maya\" is the argument (the actual value passed in when calling).",
+       "correct": true
+      },
+      {
+       "text": "There are no parameters or arguments — only variables.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does a <strong><code>return</code></strong> statement actually DO inside a function?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It prints the value to the screen for the user to see.",
+       "correct": false
+      },
+      {
+       "text": "It hands a value back to whoever called the function and ends the function immediately.",
+       "correct": true
+      },
+      {
+       "text": "It restarts the function from the beginning.",
+       "correct": false
+      },
+      {
+       "text": "It saves the function permanently to a file.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why is the <strong>DRY principle</strong> (Don't Repeat Yourself) important for programmers?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "DRY makes programs feel more interesting to read.",
+       "correct": false
+      },
+      {
+       "text": "When you write a piece of logic only once (inside a function), there's only one place to fix it later, and far less code to maintain.",
+       "correct": true
+      },
+      {
+       "text": "DRY is required by Python — the language refuses to run programs with repetition.",
+       "correct": false
+      },
+      {
+       "text": "DRY makes your code run hundreds of times faster automatically.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Read this code:</p><pre>def cheer():\n    print(\"Let's go!\")</pre><p>What is the <strong>difference</strong> between <em>defining</em> this function and <em>calling</em> it?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "There is no difference — defining and calling do the same thing.",
+       "correct": false
+      },
+      {
+       "text": "Defining (def cheer():) tells Python the recipe but does NOT run it; calling (cheer()) actually runs the body.",
+       "correct": true
+      },
+      {
+       "text": "Defining runs the function once; calling runs it again.",
+       "correct": false
+      },
+      {
+       "text": "Calling a function deletes its definition forever.",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-26-quiz-debugging-the-software-lifecycle",
+   "title": "Week 26 Quiz — Debugging & The Software Lifecycle",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div>A student writes the line <code>if score &gt; 90</code> (with no colon at the end). Python refuses to run the program at all and prints <em>SyntaxError: expected ':'</em>. What KIND of bug is this?</div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A logic error",
+       "correct": false
+      },
+      {
+       "text": "A syntax error",
+       "correct": true
+      },
+      {
+       "text": "A runtime error",
+       "correct": false
+      },
+      {
+       "text": "A hardware error",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div>A program runs without any error message and prints that the average of 80, 90, and 100 is <strong>203.33</strong>. What KIND of bug is this?</div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A syntax error",
+       "correct": false
+      },
+      {
+       "text": "A runtime error",
+       "correct": false
+      },
+      {
+       "text": "A logic error",
+       "correct": true
+      },
+      {
+       "text": "A network error",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div>You run a program and it prints: <code>NameError: name 'scor' is not defined — line 14</code>. What is the BEST first debugging step?</div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Read the error message — it tells you exactly what and where the bug is",
+       "correct": true
+      },
+      {
+       "text": "Delete the whole program and start over",
+       "correct": false
+      },
+      {
+       "text": "Add 100 print statements before reading anything",
+       "correct": false
+      },
+      {
+       "text": "Restart your computer",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div>A team writes down: <em>\"Our app will help students track homework. Audience: grades 6–8. Features: due-date reminders, subject filter, streak counter.\"</em> No code has been written yet. Which lifecycle phase is this?</div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Code",
+       "correct": false
+      },
+      {
+       "text": "Test",
+       "correct": false
+      },
+      {
+       "text": "Plan",
+       "correct": true
+      },
+      {
+       "text": "Maintain",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div>Why is <strong>ITERATION</strong> such an important idea in software development?</div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It guarantees a program will never have any bugs ever",
+       "correct": false
+      },
+      {
+       "text": "It means programmers only ever write code one time and never touch it again",
+       "correct": false
+      },
+      {
+       "text": "It removes the need for a planning phase",
+       "correct": false
+      },
+      {
+       "text": "Real users always find new problems and the world keeps changing, so software has to keep improving in small cycles",
+       "correct": true
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-27-quiz-unit-3-review",
+   "title": "Week 27 Quiz — Unit 3 Review",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which shape in a flowchart is used to ASK a yes-or-no question that splits the path two ways?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Oval / pill",
+       "correct": false
+      },
+      {
+       "text": "Rectangle",
+       "correct": false
+      },
+      {
+       "text": "Diamond",
+       "correct": true
+      },
+      {
+       "text": "Parallelogram",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Look at this Python line:</p><pre>score = \"100\"</pre><p>What TYPE is the variable <code>score</code> now?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "int (integer)",
+       "correct": false
+      },
+      {
+       "text": "str (string)",
+       "correct": true
+      },
+      {
+       "text": "bool (boolean)",
+       "correct": false
+      },
+      {
+       "text": "float (decimal)",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A program runs:</p><pre>IF age >= 13:\n    print(\"teen\")\nELIF age >= 6:\n    print(\"kid\")\nELSE:\n    print(\"little\")</pre><p>What does it print when <code>age = 10</code>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "teen",
+       "correct": false
+      },
+      {
+       "text": "teen and kid",
+       "correct": false
+      },
+      {
+       "text": "kid",
+       "correct": true
+      },
+      {
+       "text": "little",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does this Python code print?</p><pre>def double(n):\n    return n * 2\n\nfor i in range(3):\n    print(double(i))</pre>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "2, 4, 6",
+       "correct": false
+      },
+      {
+       "text": "0, 2, 4",
+       "correct": true
+      },
+      {
+       "text": "0, 1, 2",
+       "correct": false
+      },
+      {
+       "text": "6",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A student writes a Python program. It runs without crashing, but it always prints the wrong total. What kind of bug is this MOST LIKELY?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Syntax error",
+       "correct": false
+      },
+      {
+       "text": "Runtime error",
+       "correct": false
+      },
+      {
+       "text": "Logic error",
+       "correct": true
+      },
+      {
+       "text": "Hardware error",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_unit-3-assessment-programming-fundamentals",
+   "title": "Unit 3 Assessment — Programming Fundamentals",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following <strong>BEST</strong> describes <strong>computational thinking</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Memorizing programming languages like Python",
+       "correct": false,
+       "feedback": "<p>❌ CT is a way of thinking about problems, not memorization of any language.</p>"
+      },
+      {
+       "text": "A four-pillar approach: decompose problems, find patterns, abstract essentials, and write algorithms",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The four pillars of CT — decomposition, pattern recognition, abstraction, and algorithm design — work together on any problem.</p>"
+      },
+      {
+       "text": "Building computer hardware in a workshop",
+       "correct": false,
+       "feedback": "<p>❌ Hardware is engineering. CT is about problem-solving, not building physical machines.</p>"
+      },
+      {
+       "text": "Writing perfect code with no bugs the first time",
+       "correct": false,
+       "feedback": "<p>❌ Even great programmers write bugs. CT helps you think clearly — bug-free isn't the goal.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You've been asked to plan a multi-day school field trip. Which choice shows the BEST use of <strong>decomposition</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Ask one teacher to handle every detail",
+       "correct": false,
+       "feedback": "<p>❌ That's delegation, not decomposition. The big problem hasn't been broken down into pieces.</p>"
+      },
+      {
+       "text": "Split the trip into sub-problems: transportation, food, lodging, activities, safety",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> One big problem becomes five smaller, solvable problems. That's decomposition. (SC.K12.CTR.1.1)</p>"
+      },
+      {
+       "text": "Brainstorm randomly without any structure",
+       "correct": false,
+       "feedback": "<p>❌ Random brainstorming isn't decomposition — there's no structure or breakdown.</p>"
+      },
+      {
+       "text": "Just show up and improvise",
+       "correct": false,
+       "feedback": "<p>❌ Improvising is the OPPOSITE of decomposition. No problem-breakdown happened.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A streaming app shows you \"you might also like...\" recommendations. Which CT pillar is the app most relying on?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Decomposition",
+       "correct": false,
+       "feedback": "<p>❌ Decomposition is breaking a problem into parts. Recommendations are about spotting similarities.</p>"
+      },
+      {
+       "text": "Pattern recognition",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The app finds patterns in your viewing history and matches them to other users' patterns. (SC.K12.CTR.2.1)</p>"
+      },
+      {
+       "text": "Abstraction",
+       "correct": false,
+       "feedback": "<p>❌ Abstraction is hiding details. Here, the app is matching shapes — that's pattern recognition.</p>"
+      },
+      {
+       "text": "Algorithm finite-ness",
+       "correct": false,
+       "feedback": "<p>❌ Finite-ness is a TRAIT of algorithms, not a pillar of CT.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which flowchart shape is used for both the <strong>START</strong> and the <strong>END</strong> of an algorithm?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Diamond",
+       "correct": false,
+       "feedback": "<p>❌ Diamonds ask yes/no questions and split the path. Not for start or end.</p>"
+      },
+      {
+       "text": "Rectangle",
+       "correct": false,
+       "feedback": "<p>❌ Rectangles are for process steps (calculations, actions). Not start or end.</p>"
+      },
+      {
+       "text": "Oval (terminator)",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The oval (terminator) is the only shape used for START and END. (SC.K12.CTR.1.1)</p>"
+      },
+      {
+       "text": "Parallelogram",
+       "correct": false,
+       "feedback": "<p>❌ Parallelograms are for input or output — not start or end.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A correctly drawn <strong>decision diamond</strong> in a flowchart MUST have:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Exactly one outgoing arrow",
+       "correct": false,
+       "feedback": "<p>❌ One outgoing arrow means no decision happened. The diamond exists to SPLIT the path.</p>"
+      },
+      {
+       "text": "Exactly two outgoing arrows, labeled YES and NO",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Diamonds are yes/no — exactly two paths out, one for YES and one for NO. (SC.K12.CTR.2.1)</p>"
+      },
+      {
+       "text": "Three or more outgoing arrows",
+       "correct": false,
+       "feedback": "<p>❌ A diamond is for yes/no only — exactly two outcomes.</p>"
+      },
+      {
+       "text": "No outgoing arrows; only incoming ones",
+       "correct": false,
+       "feedback": "<p>❌ Without outgoing arrows, the flow would dead-end. Diamonds always have arrows leaving.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A flowchart and a piece of pseudocode for the same task:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Are completely different algorithms",
+       "correct": false,
+       "feedback": "<p>❌ The same algorithm can be drawn OR written. The form is different; the algorithm is the same.</p>"
+      },
+      {
+       "text": "Are two different ways to express the same algorithm",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Flowchart, pseudocode, and real code are three forms of the SAME algorithm. (SC.K12.CTR.3.1)</p>"
+      },
+      {
+       "text": "Cannot be translated between each other",
+       "correct": false,
+       "feedback": "<p>❌ They CAN be translated — that's a major skill of programming.</p>"
+      },
+      {
+       "text": "Mean different things to a computer when run",
+       "correct": false,
+       "feedback": "<p>❌ Neither flowchart nor pseudocode \"runs.\" Real code runs. All three describe the same algorithm.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is the data type of <code>True</code> in Python?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Integer (int)",
+       "correct": false,
+       "feedback": "<p>❌ Integers are whole numbers. <code>True</code> is yes/no — that's a different type.</p>"
+      },
+      {
+       "text": "String (str)",
+       "correct": false,
+       "feedback": "<p>❌ Strings have quotes (<code>\"True\"</code> would be a string). <code>True</code> without quotes is something else.</p>"
+      },
+      {
+       "text": "Boolean (bool)",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Booleans hold YES/NO, ON/OFF, TRUE/FALSE. <code>True</code> and <code>False</code> are the only two boolean values. (SC.6.PE.1.1)</p>"
+      },
+      {
+       "text": "Float",
+       "correct": false,
+       "feedback": "<p>❌ Floats are numbers with decimals (3.14, 2.0). <code>True</code> isn't a number.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is the BEST example of the <strong>digital divide</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Using a smartphone to text a friend",
+       "correct": false,
+       "feedback": "<p>❌ Texting is using technology. The digital divide is about UNEQUAL ACCESS to technology.</p>"
+      },
+      {
+       "text": "Some students having reliable home internet while others don't",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The digital divide is the gap between people who have reliable access to technology (especially internet) and people who don't. (SC.6.PE.1.3)</p>"
+      },
+      {
+       "text": "The difference between Apple and Android operating systems",
+       "correct": false,
+       "feedback": "<p>❌ Apple vs Android is platform choice — both are widely available. Digital divide is about access, not preference.</p>"
+      },
+      {
+       "text": "A new computer being faster than an old computer",
+       "correct": false,
+       "feedback": "<p>❌ Speed differences happen but aren't the digital divide. The divide is about who has access at all.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Python, what does the <code>==</code> operator do (note: this is different from <code>=</code>)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Assigns a value to a variable",
+       "correct": false,
+       "feedback": "<p>❌ A SINGLE <code>=</code> assigns. DOUBLE <code>==</code> compares. Easy mix-up — but they do different things!</p>"
+      },
+      {
+       "text": "Compares two values for equality and returns True or False",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> <code>==</code> asks \"are these two equal?\" and returns <code>True</code> or <code>False</code>. (SC.6.PE.1.4)</p>"
+      },
+      {
+       "text": "Adds two numbers together",
+       "correct": false,
+       "feedback": "<p>❌ <code>+</code> adds. <code>==</code> compares.</p>"
+      },
+      {
+       "text": "Divides one number by another",
+       "correct": false,
+       "feedback": "<p>❌ <code>/</code> divides. <code>==</code> compares.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Read this pseudocode:</p><pre style=\"background:#0E1C42; color:#e5e7eb; padding:10px 14px; border-radius:6px; font-size:13px;\">SET age = 14\nIF age &gt;= 13 THEN\n    PRINT \"Welcome!\"\nELSE\n    PRINT \"Too young.\"</pre><p>What is printed?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"Too young.\"",
+       "correct": false,
+       "feedback": "<p>❌ 14 IS &gt;= 13 (it's bigger), so the YES branch runs — not the ELSE.</p>"
+      },
+      {
+       "text": "\"Welcome!\"",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> 14 &gt;= 13 is TRUE, so the IF branch runs and prints \"Welcome!\". The ELSE is skipped. (SC.6.PE.1.4)</p>"
+      },
+      {
+       "text": "Both messages print",
+       "correct": false,
+       "feedback": "<p>❌ IF/ELSE only takes ONE branch — never both.</p>"
+      },
+      {
+       "text": "Nothing prints",
+       "correct": false,
+       "feedback": "<p>❌ Either the IF branch or the ELSE branch always runs. One of the two messages prints.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How many times will the body of this loop run?</p><pre style=\"background:#0E1C42; color:#e5e7eb; padding:10px 14px; border-radius:6px; font-size:13px;\">for i in range(5):\n    print(\"Hi\")</pre>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "4 times",
+       "correct": false,
+       "feedback": "<p>❌ Off-by-one trap! <code>range(5)</code> produces 0, 1, 2, 3, 4 — that's FIVE numbers.</p>"
+      },
+      {
+       "text": "5 times",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> <code>range(5)</code> gives 0, 1, 2, 3, 4 — exactly 5 numbers, so the body runs 5 times. (SC.6.PE.1.9)</p>"
+      },
+      {
+       "text": "6 times",
+       "correct": false,
+       "feedback": "<p>❌ <code>range(5)</code> stops BEFORE 5. It doesn't include 5 itself.</p>"
+      },
+      {
+       "text": "0 times",
+       "correct": false,
+       "feedback": "<p>❌ The loop runs at least once with these inputs. Trace through carefully.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>When TikTok shows you an endless feed of recommended videos, what core programming concept is at work?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A loop running through a list of videos, scoring and showing them one at a time",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Endless feeds are loops — for every user, every session, the app loops through millions of videos and ranks each one. Loops are how computers handle huge data fast. (SC.6.PE.1.11)</p>"
+      },
+      {
+       "text": "A single function call that runs once",
+       "correct": false,
+       "feedback": "<p>❌ A single call wouldn't keep showing more videos — that's why we need a LOOP that repeats.</p>"
+      },
+      {
+       "text": "A flowchart drawn by an artist for each user",
+       "correct": false,
+       "feedback": "<p>❌ Flowcharts are diagrams for humans. The actual feed is code that loops.</p>"
+      },
+      {
+       "text": "A debugger checking each video for errors",
+       "correct": false,
+       "feedback": "<p>❌ Debuggers find bugs — they don't generate feeds. The feed itself is built with a loop.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which line correctly DEFINES a function in Python?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "",
+       "correct": false,
+       "feedback": "<p>❌ Some languages use <code>function</code>, but Python uses <code>def</code>. Close, but not Python.</p>"
+      },
+      {
+       "text": "",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Python uses <code>def</code> followed by the function name, parameters in parentheses, and a colon. (SC.6.PE.1.7)</p>"
+      },
+      {
+       "text": "",
+       "correct": false,
+       "feedback": "<p>❌ Python's keyword is <code>def</code>, not <code>define</code>. And it needs a colon at the end.</p>"
+      },
+      {
+       "text": "",
+       "correct": false,
+       "feedback": "<p>❌ That's not how any common programming language defines functions. Python uses <code>def</code>.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Look at this code:</p><pre style=\"background:#0E1C42; color:#e5e7eb; padding:10px 14px; border-radius:6px; font-size:13px;\">def greet(name):\n    print(\"Hi\", name)\n\ngreet(\"Maya\")</pre><p>What is <code>name</code>, and what is <code>\"Maya\"</code>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The placeholder name in the <code>def</code> is a <strong>parameter</strong>. The actual value passed in when you CALL the function is an <strong>argument</strong>. (SC.6.PE.1.7)</p>"
+      },
+      {
+       "text": "Both are parameters",
+       "correct": false,
+       "feedback": "<p>❌ Only the placeholder in the <code>def</code> is a parameter. The actual value passed in is an argument.</p>"
+      },
+      {
+       "text": "Both are arguments",
+       "correct": false,
+       "feedback": "<p>❌ Only the value passed in (<code>\"Maya\"</code>) is an argument. The placeholder in the <code>def</code> is a parameter.</p>"
+      },
+      {
+       "text": "",
+       "correct": false,
+       "feedback": "<p>❌ The function name is <code>greet</code>. <code>name</code> is its parameter, <code>\"Maya\"</code> is the argument passed in.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Python statement <code>if x = 5:</code> causes the program to refuse to run at all (Python won't even start). What KIND of bug is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Logic error — the math is wrong",
+       "correct": false,
+       "feedback": "<p>❌ A logic error means the code runs but gets the wrong answer. Here the program refuses to RUN — that's a different kind of bug.</p>"
+      },
+      {
+       "text": "Runtime error — happens only sometimes when the program runs",
+       "correct": false,
+       "feedback": "<p>❌ Runtime errors happen DURING execution. Here the program won't even start — Python catches the bug before it runs.</p>"
+      },
+      {
+       "text": "Syntax error — the line breaks Python's grammar rules",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Inside an <code>if</code>, Python expects a comparison (<code>==</code>), not an assignment (<code>=</code>). That's a grammar/syntax violation, caught BEFORE the program runs. (SC.6.PE.3.5)</p>"
+      },
+      {
+       "text": "Network error — the internet is down",
+       "correct": false,
+       "feedback": "<p>❌ This bug is in the code, not the network. Network errors are about connectivity, not syntax.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-29-quiz-digital-modeling-simulation",
+   "title": "Week 29 Quiz — Digital Modeling & Simulation",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following <strong>BEST</strong> describes a <strong>digital model</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "An exact, perfect copy of something real, with every detail included",
+       "correct": false,
+       "feedback": "<p>❌ A model is <strong>simplified</strong>, not perfect — that's the whole point. A perfect copy would be the real thing, not a model.</p>"
+      },
+      {
+       "text": "A simplified version of something real, built from numbers and rules so we can study or predict it",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A digital model is a simplified version of something real, built from numbers and rules so we can study or predict it. (SC.6.PE.3.1)</p>"
+      },
+      {
+       "text": "Any photograph saved on a computer",
+       "correct": false,
+       "feedback": "<p>❌ A photo is a static image. A model is something you can run, change, and use to predict behavior.</p>"
+      },
+      {
+       "text": "A piece of computer hardware shaped like the thing it represents",
+       "correct": false,
+       "feedback": "<p>❌ Digital models are made of code, numbers, and rules — not physical hardware shaped like the subject.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You are building a model that predicts how long a snowman will last on a sunny day. Which is the <strong>BEST</strong> example of a <strong>variable</strong> in this model?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The freezing point of water (0°C)",
+       "correct": false,
+       "feedback": "<p>❌ The freezing point of water is a <em>constant</em> — it doesn't change. A variable is something that <strong>can</strong> change.</p>"
+      },
+      {
+       "text": "Outside temperature, which changes by hour and by day",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Outside temperature changes — that's exactly what a variable is. The model checks the variable to predict how fast the snowman melts. (SC.6.PE.3.1)</p>"
+      },
+      {
+       "text": "The number of pi (π)",
+       "correct": false,
+       "feedback": "<p>❌ π is a mathematical constant — it never changes. Variables are values that can change inside a model.</p>"
+      },
+      {
+       "text": "The standard chemical formula for water (H₂O)",
+       "correct": false,
+       "feedback": "<p>❌ A chemical formula is a fixed fact, not a value that changes during the simulation.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Engineers run simulations of new airplane designs <strong>before</strong> building real planes. Which is the <strong>BEST</strong> reason for doing that?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Building real planes is illegal until a simulation is done",
+       "correct": false,
+       "feedback": "<p>❌ Building real planes isn't illegal — engineers do build and test them. The point is that simulations let them try ideas <em>first</em>, cheaply and safely.</p>"
+      },
+      {
+       "text": "Simulations let engineers test many designs cheaply and safely, without risking real planes, time, or lives",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The big value of simulation is the safe, cheap \"what if?\" — you can explore many designs without committing real time, money, or lives. (SC.6.ET.1.1)</p>"
+      },
+      {
+       "text": "Simulations always predict the future perfectly",
+       "correct": false,
+       "feedback": "<p>❌ Simulations are powerful but never perfect. They're useful precisely because they help us prepare, not because they predict everything.</p>"
+      },
+      {
+       "text": "Real planes don't work as well as simulated ones",
+       "correct": false,
+       "feedback": "<p>❌ Real planes are the goal — simulations are just a step on the way. The reason for simulating first is risk and cost reduction.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is an example of <strong>haptic feedback</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A bright color on a screen",
+       "correct": false,
+       "feedback": "<p>❌ Color is visual feedback. <strong>Haptic</strong> feedback is something you <em>feel</em> — usually a vibration or motion.</p>"
+      },
+      {
+       "text": "A loud sound from speakers",
+       "correct": false,
+       "feedback": "<p>❌ Sound is auditory feedback, not haptic. Haptic = touch / feel.</p>"
+      },
+      {
+       "text": "Your phone vibrating to alert you to a new message",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A vibration is haptic feedback — information you feel through your sense of touch. (SC.6.ET.1.1)</p>"
+      },
+      {
+       "text": "A spoken voice from a smart speaker",
+       "correct": false,
+       "feedback": "<p>❌ A spoken voice is auditory output. Haptic feedback is felt through touch, not heard.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're building a model of city traffic to help reduce rush-hour jams. Which detail is <strong>BEST</strong> to abstract away (leave out)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The number of cars entering each highway each minute",
+       "correct": false,
+       "feedback": "<p>❌ Cars per minute is one of the most important variables for traffic — you'd never abstract that away.</p>"
+      },
+      {
+       "text": "The average speed limit on each road",
+       "correct": false,
+       "feedback": "<p>❌ Speed limits directly affect how fast traffic moves. Definitely keep this in the model.</p>"
+      },
+      {
+       "text": "The exact paint color of each car",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Paint color doesn't change how traffic flows — that's exactly the kind of detail a good model abstracts away. (SC.6.PE.3.1)</p>"
+      },
+      {
+       "text": "The location of major intersections",
+       "correct": false,
+       "feedback": "<p>❌ Intersections are where jams form. The model needs to know where they are.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-30-quiz-engineering-design-process",
+   "title": "Week 30 Quiz — Engineering Design Process",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following lists the five steps of the <strong>engineering design process</strong> in the correct order?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Build a prototype → Identify the need → Research → Improve → Develop solutions",
+       "correct": false,
+       "feedback": "<p>❌ You can't build a prototype before you know what problem you're solving. The process always starts by identifying the need.</p>"
+      },
+      {
+       "text": "Identify the need → Research → Develop solutions → Build a prototype and test → Gather feedback and improve",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The five steps are: identify the need → research → develop solutions → build a prototype and test → gather feedback and improve. The cycle then loops back. (SC.6.PE.3.2)</p>"
+      },
+      {
+       "text": "Research → Identify the need → Test → Develop solutions → Improve",
+       "correct": false,
+       "feedback": "<p>❌ Research can't come before you know what to research. You have to identify the need first.</p>"
+      },
+      {
+       "text": "Improve → Test → Develop → Research → Identify the need",
+       "correct": false,
+       "feedback": "<p>❌ That's the order reversed. The cycle starts with identifying the need; you can't improve a design before it exists.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A class is designing a robot that <strong>must reach the end of a maze in under 90 seconds</strong> and <strong>must be built using only the parts in the school's robotics kit</strong>. Which statement is <strong>BEST</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Both rules are criteria — they describe what success looks like.",
+       "correct": false,
+       "feedback": "<p>❌ Not quite. Criteria describe what success looks like; constraints are limits you can't cross. The parts-kit rule is a limit, not a goal.</p>"
+      },
+      {
+       "text": "The 90-second time limit is a criterion (success goal); the parts-kit rule is a constraint (a limit).",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> \"Reach the end in under 90 seconds\" is the success goal — that's a criterion. \"Use only the school's robotics kit\" is a hard limit you can't cross — that's a constraint. (SC.6.PE.3.2)</p>"
+      },
+      {
+       "text": "Both rules are constraints — they're both limits.",
+       "correct": false,
+       "feedback": "<p>❌ The 90-second rule is the goal, not a limit. Goals are criteria; limits are constraints. The two rules play different roles.</p>"
+      },
+      {
+       "text": "The parts-kit rule is a criterion, and the time limit is a constraint.",
+       "correct": false,
+       "feedback": "<p>❌ Reversed. The 90-second rule defines success (criterion); the parts-kit rule limits how you may build (constraint).</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which statement <strong>BEST</strong> describes <strong>iteration</strong> in the engineering design process?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Doing the design once and never changing it.",
+       "correct": false,
+       "feedback": "<p>❌ Almost no real design is finished on the first try. Doing it once is the opposite of iteration.</p>"
+      },
+      {
+       "text": "Starting over from scratch every time, with no memory of past attempts.",
+       "correct": false,
+       "feedback": "<p>❌ Iteration carries lessons forward — that's the whole point. Starting over with no memory wastes the feedback you collected.</p>"
+      },
+      {
+       "text": "Going around the design cycle again, using what you learned last time to make the next version better.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Iteration means looping the cycle again with what you learned last time. Each iteration should make the design better. (SC.6.PE.3.3)</p>"
+      },
+      {
+       "text": "A sign of failure that good engineers avoid.",
+       "correct": false,
+       "feedback": "<p>❌ Iteration is the opposite of failure — it's how excellence is actually built. Real engineers iterate on purpose.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your team has a working video-game prototype. The team has played it and it runs fine, but no one outside the team has ever tried it. What is the <strong>BEST</strong> next step in the design process?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Declare the prototype final — if the team likes it, it's ready.",
+       "correct": false,
+       "feedback": "<p>❌ The team built it — of course they like it. The point of testing is to expose the design to people who didn't build it.</p>"
+      },
+      {
+       "text": "Add 30 more features before showing anyone the game.",
+       "correct": false,
+       "feedback": "<p>❌ Adding features without testing what you have just buries the bugs deeper. Test first, then improve.</p>"
+      },
+      {
+       "text": "Get external testers to play it, gather feedback, and use that feedback to improve the design.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Step 4–5 of the cycle: get external testers, gather feedback, and improve. A working prototype is exactly when external testing is most valuable. (SC.6.PE.3.3)</p>"
+      },
+      {
+       "text": "Throw the prototype away and start a different game.",
+       "correct": false,
+       "feedback": "<p>❌ A working prototype is a victory — don't throw it out before you've even tested it. Iterate on what you have first.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A teammate says: <em>\"Our design works perfectly on the first try. We don't need to test it or change it — it's already finished.\"</em> Which response is <strong>BEST</strong>, based on the engineering design process?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Agree — if it works, it's done.",
+       "correct": false,
+       "feedback": "<p>❌ \"Works for us\" almost never means \"works for everyone.\" The team built it, so they know how to use it. Real users will surprise you.</p>"
+      },
+      {
+       "text": "Even a \"finished\" design usually needs more testing and iteration. Getting outside feedback almost always reveals problems we can't see ourselves.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The fifth step of the cycle exists precisely because designs that look \"finished\" almost always have problems the designers can't see. Iteration is a virtue, not a sign of failure. (SC.6.PE.3.3)</p>"
+      },
+      {
+       "text": "Agree, but only if no one has complained yet.",
+       "correct": false,
+       "feedback": "<p>❌ \"No one has complained\" usually just means no one has tested it. Silence isn't proof of success.</p>"
+      },
+      {
+       "text": "Disagree, and throw the design out completely just to be safe.",
+       "correct": false,
+       "feedback": "<p>❌ Trashing the whole design without testing is just as wasteful as shipping it without testing. The right move is to gather feedback and iterate.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-31-quiz-human-ai-collaboration",
+   "title": "Week 31 Quiz — Human-AI Collaboration",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following is a <strong>real</strong> use of AI you've probably already encountered?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A streaming service suggesting your next song or video based on what you've watched",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Recommendation systems learn from your activity to predict what you'll like next — a real, everyday AI application. (SC.6.ET.3.2)</p>"
+      },
+      {
+       "text": "A wall calendar showing the date",
+       "correct": false,
+       "feedback": "<p>❌ A wall calendar is a printed object — no AI involved.</p>"
+      },
+      {
+       "text": "A pencil sharpener",
+       "correct": false,
+       "feedback": "<p>❌ A pencil sharpener is a simple mechanical tool. AI it isn't.</p>"
+      },
+      {
+       "text": "A glow-in-the-dark sticker",
+       "correct": false,
+       "feedback": "<p>❌ A glow-in-the-dark sticker uses chemistry, not AI.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is a <strong>uniquely human strength</strong> that AI does not match well?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Performing the same calculation a million times without errors",
+       "correct": false,
+       "feedback": "<p>❌ Repetition without errors is a machine strength — humans get tired and slip.</p>"
+      },
+      {
+       "text": "Empathy and ethical judgment in unfamiliar situations",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Empathy and ethical judgment in new situations are uniquely human strengths. (SC.6.ET.3.2)</p>"
+      },
+      {
+       "text": "Spotting tiny patterns in millions of data points",
+       "correct": false,
+       "feedback": "<p>❌ Pattern matching at huge scale is a machine strength.</p>"
+      },
+      {
+       "text": "Operating 24 hours a day without rest",
+       "correct": false,
+       "feedback": "<p>❌ Operating without rest is something machines do well — humans need sleep.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is a <strong>machine strength</strong> humans cannot match alone?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Choosing the perfect comforting words for a frightened child",
+       "correct": false,
+       "feedback": "<p>❌ Empathy and tone in real-time emotional support are human strengths.</p>"
+      },
+      {
+       "text": "Reading thousands of pages and finding one specific phrase in a fraction of a second",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Searching huge volumes of text in fractions of a second is a classic machine strength. (SC.6.ET.3.2)</p>"
+      },
+      {
+       "text": "Resolving a moral dilemma between two friends",
+       "correct": false,
+       "feedback": "<p>❌ Moral dilemmas between people are deeply human territory.</p>"
+      },
+      {
+       "text": "Inventing a new birthday tradition for your family",
+       "correct": false,
+       "feedback": "<p>❌ Inventing meaningful traditions involves creativity and emotional context — human territory.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"Human-in-the-loop\" means a human stays involved in a decision the AI participates in. Which scenario <strong>most clearly</strong> requires human-in-the-loop?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Sorting your camera roll into folders",
+       "correct": false,
+       "feedback": "<p>❌ Sorting photos is low-stakes — automation alone is fine here.</p>"
+      },
+      {
+       "text": "A medical AI deciding to deny treatment to a patient based on a scan",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Denying medical treatment is high-stakes — a human doctor must stay in the loop. (SC.6.ET.3.2)</p>"
+      },
+      {
+       "text": "An auto-correct feature suggesting word fixes",
+       "correct": false,
+       "feedback": "<p>❌ Auto-correct is a low-stakes suggestion you can accept or ignore — fine for automation.</p>"
+      },
+      {
+       "text": "A music app shuffling your playlist",
+       "correct": false,
+       "feedback": "<p>❌ Shuffling a playlist is low-stakes — automation is fine.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>An AI tool offers to write your friend's college essay. They ask if they should use it. What's the most <strong>prudent</strong> response?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Yes — it's faster and easier; what could go wrong?",
+       "correct": false,
+       "feedback": "<p>❌ Prudence asks \"what could go wrong?\" — the friend could face dishonesty consequences and lose the chance to learn from doing the work.</p>"
+      },
+      {
+       "text": "Encourage them to write it themselves so the essay shows their real thinking — a college admissions reader is trying to learn about",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Prudence (wise foresight) recognizes that the essay's whole point is to share <em>the friend's</em> thinking. (SC.6.ET.3.2)</p>"
+      },
+      {
+       "text": "Yes, but only if they remove the AI's name from the file",
+       "correct": false,
+       "feedback": "<p>❌ Hiding the source doesn't change the deeper issue — the essay isn't actually their work.</p>"
+      },
+      {
+       "text": "Don't say anything; it's not your problem",
+       "correct": false,
+       "feedback": "<p>❌ Silence isn't prudence. A good friend offers honest, careful counsel.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-32-quiz-ai-fundamentals-ethics",
+   "title": "Week 32 Quiz — AI Fundamentals & Ethics",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following <strong>BEST</strong> describes <strong>machine learning</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A programmer types in every rule the software needs to follow, by hand",
+       "correct": false,
+       "feedback": "<p>❌ That describes <em>traditional programming</em>, not machine learning. Machine learning is special because the rules come from <strong>patterns in data</strong>, not from a programmer typing them in.</p>"
+      },
+      {
+       "text": "Software that improves at a task by being shown lots of examples (training data) instead of being given hand-written rules",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Machine learning is software that gets better at a task by being shown lots of examples — it learns the pattern from data instead of being told the rules. (SC.6.ET.2.1)</p>"
+      },
+      {
+       "text": "A robot that physically learns by walking around a classroom",
+       "correct": false,
+       "feedback": "<p>❌ Machine learning isn't about a physical robot — it's about how the software inside is built. It \"learns\" from data, not from walking around.</p>"
+      },
+      {
+       "text": "Any program that runs on a fast computer",
+       "correct": false,
+       "feedback": "<p>❌ Speed alone doesn't make a program AI. The defining trait of machine learning is that it adjusts itself based on examples.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is <strong>BEST</strong> described as <strong>learning-based</strong> software (rather than rules-based)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A microwave that runs for exactly 30 seconds when you press \"30 sec\"",
+       "correct": false,
+       "feedback": "<p>❌ A microwave timer is rules-based — it follows a fixed countdown. It doesn't learn from how you've used it before.</p>"
+      },
+      {
+       "text": "A traffic light cycling green-yellow-red on a fixed timer",
+       "correct": false,
+       "feedback": "<p>❌ A timed traffic light is rules-based — the schedule is fixed by humans. It doesn't adjust itself to traffic patterns it observes.</p>"
+      },
+      {
+       "text": "A streaming app that recommends your next show based on what you and people like you have watched",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A recommender uses your past behavior — and patterns from millions of other users — to predict what you'll like next. That's classic learning-based AI. (SC.6.ET.2.1)</p>"
+      },
+      {
+       "text": "A calculator computing 7 × 8",
+       "correct": false,
+       "feedback": "<p>❌ A calculator is rules-based — 7 × 8 always equals 56. It doesn't get better at multiplication after a million uses.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these everyday tools is the <strong>BEST</strong> example of a <strong>generative AI</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A chatbot that writes a brand-new poem about your dog when you ask it to",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Generative AI creates new text, images, audio, or video by predicting what should come next based on training data. A chatbot writing a poem is a textbook case. (SC.6.ET.2.1)</p>"
+      },
+      {
+       "text": "A pocket calculator",
+       "correct": false,
+       "feedback": "<p>❌ A calculator follows fixed math rules. It doesn't generate anything new — it computes a known answer.</p>"
+      },
+      {
+       "text": "A digital clock",
+       "correct": false,
+       "feedback": "<p>❌ A digital clock just displays the current time. No learning, no generation — just a counter.</p>"
+      },
+      {
+       "text": "A flashlight app that turns the camera light on and off",
+       "correct": false,
+       "feedback": "<p>❌ A flashlight app is rules-based: tap = on, tap = off. No AI involved.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A company's AI hiring tool consistently rejects qualified women applicants. The team realizes the model was trained mostly on past hires — who were mostly men. What is this an example of, and what's the BEST first step?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It's an example of an AI being \"objective\" — there's nothing to fix",
+       "correct": false,
+       "feedback": "<p>❌ An AI that copies an unfair pattern is <em>not</em> objective — it's biased. \"Objective\" describes the math, not the outcome.</p>"
+      },
+      {
+       "text": "It's an example of",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Bias from biased training data is a textbook AI ethics problem. The fix is to identify the bias, retrain on better data, and keep a human in the loop. (SC.6.ET.2.2)</p>"
+      },
+      {
+       "text": "It's a privacy problem — the AI shouldn't see résumés at all",
+       "correct": false,
+       "feedback": "<p>❌ Privacy is a real AI concern, but the issue here is different — the AI is making unfair decisions because of biased data, not because of who can see the résumés.</p>"
+      },
+      {
+       "text": "It's an ownership problem — someone owns the wrong résumés",
+       "correct": false,
+       "feedback": "<p>❌ Ownership is about who controls a creation. This problem is about <em>fairness</em> in how the AI evaluates people — that's bias.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Late at night, your friend asks: \"Can I just feed your essay into ChatGPT and have it write mine in the same style? Tomorrow's the deadline.\" Using <strong>Socratic / virtue-ethics</strong> reasoning — especially <em>prudence</em> — what is the BEST response?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Send the essay without comment — friends help friends",
+       "correct": false,
+       "feedback": "<p>❌ Prudence asks you to think past the next moment — the consequences for your friend, for you, for the teacher's trust. \"Friends help friends\" doesn't include helping each other cheat.</p>"
+      },
+      {
+       "text": "Yell at them and refuse to talk to them again",
+       "correct": false,
+       "feedback": "<p>❌ Prudence and friendship aren't opposites. You can decline AND be kind. Anger isn't a virtue here.</p>"
+      },
+      {
+       "text": "Decline kindly, name the integrity issue, and offer to help them outline their own essay even though it's late",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> That's prudence, justice, and friendship working together — naming the issue, declining the shortcut, AND offering real help. Exactly the kind of choice the cardinal virtues point toward. (SC.6.ET.2.2)</p>"
+      },
+      {
+       "text": "Use ChatGPT to write your friend's essay for them yourself, so at least you control the result",
+       "correct": false,
+       "feedback": "<p>❌ Doing the cheating yourself doesn't fix the problem — it just transfers the dishonesty from your friend to you. Prudence rules that out too.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-33-quiz-unit-4-review",
+   "title": "Week 33 Quiz — Unit 4 Review",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>(Week 29 review) A digital model of a pond uses sliders for rainfall, sun, and temperature, and shows water level and fish count changing in response. The sliders represent the model's:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Outputs — what the model produces",
+       "correct": false,
+       "feedback": "<p>❌ The water level and fish count are the outputs — what the model <em>produces</em>. The sliders are the inputs you control.</p>"
+      },
+      {
+       "text": "Variables — values that can change to see how the model responds",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Sliders let the user change values — that's the textbook definition of a variable. (SC.6.PE.3.1)</p>"
+      },
+      {
+       "text": "Constants — values that never change",
+       "correct": false,
+       "feedback": "<p>❌ Constants don't change — sliders are designed precisely to let values change.</p>"
+      },
+      {
+       "text": "Conditions — IF/THEN rules",
+       "correct": false,
+       "feedback": "<p>❌ Conditions are the IF/THEN rules wired into the model. The sliders feed values <em>into</em> those rules but aren't the rules themselves.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>(Week 30 review) Your team has built a working prototype of a school-bus tracking app and three students have used it for a week. They report it crashes when they switch from Wi-Fi to cellular data. What is the <strong>BEST</strong> next step in the engineering design process?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Ship it — three users isn't a lot of testers",
+       "correct": false,
+       "feedback": "<p>❌ Shipping a known-broken product isn't engineering — it's hoping. The whole point of a prototype is to find problems and fix them.</p>"
+      },
+      {
+       "text": "Use the feedback to revise and iterate — fix the crash and test again",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The \"Test\" stage feeds straight into \"Improve\" — gather feedback, fix the crash, test again. That's iteration. (SC.6.PE.3.2)</p>"
+      },
+      {
+       "text": "Scrap the project entirely",
+       "correct": false,
+       "feedback": "<p>❌ A working prototype with one fixable bug isn't a failed project. Iteration is meant for exactly this.</p>"
+      },
+      {
+       "text": "Ignore the feedback — design choices belong to the team, not testers",
+       "correct": false,
+       "feedback": "<p>❌ Real testers found a real bug. Ignoring user feedback skips the most valuable step in the design cycle.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>(Week 31 review) Which task is BEST suited for a machine working alone, with little or no human in the loop?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Deciding whether to grant someone parole",
+       "correct": false,
+       "feedback": "<p>❌ Parole decisions are high-stakes ethical judgments — they require a human in the loop, not a fully automated machine.</p>"
+      },
+      {
+       "text": "Sorting 500,000 photos by which contain a cat",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> High-volume, low-judgment pattern recognition is exactly where machines shine on their own. (SC.6.ET.3.2)</p>"
+      },
+      {
+       "text": "Comforting a grieving family member",
+       "correct": false,
+       "feedback": "<p>❌ Comforting someone takes empathy — a uniquely human strength. Outsourcing this to a machine wouldn't be kind.</p>"
+      },
+      {
+       "text": "Diagnosing a complicated medical case",
+       "correct": false,
+       "feedback": "<p>❌ Complicated medical cases use AI tools to assist — but a human doctor remains in the loop. This is collaboration, not solo machine work.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>(Week 32 review) A friend tells you they used an AI tool to write their entire history essay and submitted it as their own work. Which response BEST reflects the cardinal virtue of <strong>fortitude</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Use AI for your own essay too — it's faster",
+       "correct": false,
+       "feedback": "<p>❌ Doing the same shortcut isn't fortitude — it's giving up on the harder, more rewarding path.</p>"
+      },
+      {
+       "text": "Say nothing and let them deal with it",
+       "correct": false,
+       "feedback": "<p>❌ Silence may feel safer, but it's not fortitude. Fortitude shows up in <em>your own</em> choices first.</p>"
+      },
+      {
+       "text": "Choose to write your own essay — even though it's harder — because doing the hard work is part of becoming a better writer",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Fortitude = persevering through hard work even when an easier path is available. Choosing to do your own writing is the virtue at work. (SC.6.ET.2.2)</p>"
+      },
+      {
+       "text": "Report them anonymously without ever talking to them first",
+       "correct": false,
+       "feedback": "<p>❌ Reporting without talking first might be motivated by something — but it isn't an example of fortitude as a virtue you practice on yourself.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>(Synthesis) Which statement BEST captures how learning-based AI relates to the digital models you studied in Week 29?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Learning-based AI has no connection to digital models",
+       "correct": false,
+       "feedback": "<p>❌ The connection is the whole point of Section 3 of this week's reading — learning-based AI <em>is</em> a kind of model.</p>"
+      },
+      {
+       "text": "A learning-based AI is a digital model whose conditions were learned from data instead of written by hand",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Both have variables and produce outputs. The difference is just where the conditions came from — written vs learned. (SC.6.PE.3.1, SC.6.ET.2.1)</p>"
+      },
+      {
+       "text": "Learning-based AI replaces all earlier kinds of digital models",
+       "correct": false,
+       "feedback": "<p>❌ Rules-based models still outperform learning-based ones for many tasks (calculators, thermostats, traffic lights). They coexist.</p>"
+      },
+      {
+       "text": "Digital models cannot have variables; only AI does",
+       "correct": false,
+       "feedback": "<p>❌ Variables are foundational to <em>all</em> digital models, including the rules-based ones from Week 29.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_unit-4-assessment-modeling-ai",
+   "title": "Unit 4 Assessment — Modeling & AI",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>A <strong>simulation</strong> is BEST described as:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A wild guess about what might happen",
+       "correct": false,
+       "feedback": "<p>❌ Simulations are not guesses — they're structured runs of a model with rules and variables.</p>"
+      },
+      {
+       "text": "What happens when a digital model is run and shows how it behaves over time or under different inputs",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A simulation is the running of a digital model. (SC.6.PE.3.1)</p>"
+      },
+      {
+       "text": "A static picture stored on a computer",
+       "correct": false,
+       "feedback": "<p>❌ Static images don't change. Simulations show change over time or under different inputs.</p>"
+      },
+      {
+       "text": "A list of facts about something real",
+       "correct": false,
+       "feedback": "<p>❌ A list of facts is just data. A simulation runs rules over data and produces new behavior.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is an example of a <strong>condition</strong> in a digital model?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "score = 0",
+       "correct": false,
+       "feedback": "<p>❌ That's a variable being given a starting value, not a condition. Conditions are IF/THEN rules.</p>"
+      },
+      {
+       "text": "IF score > 100 THEN level up",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> An IF/THEN rule is the textbook example of a condition. (SC.6.PE.3.1)</p>"
+      },
+      {
+       "text": "player_name = \"Alex\"",
+       "correct": false,
+       "feedback": "<p>❌ Setting a variable to a string is just an assignment, not a condition.</p>"
+      },
+      {
+       "text": "lives = 3",
+       "correct": false,
+       "feedback": "<p>❌ Another variable assignment, not a condition. Conditions check something with IF.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>When a game controller buzzes after your character takes damage, that is an example of:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Gesture tracking",
+       "correct": false,
+       "feedback": "<p>❌ Gesture tracking reads body or hand motion. The buzz is something you feel, not motion you make.</p>"
+      },
+      {
+       "text": "Voice input",
+       "correct": false,
+       "feedback": "<p>❌ Voice input is spoken commands. A controller buzz is felt, not heard.</p>"
+      },
+      {
+       "text": "Haptic feedback",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Haptic feedback is information you feel through vibration or motion. (SC.6.ET.1.1)</p>"
+      },
+      {
+       "text": "Typing on a keyboard",
+       "correct": false,
+       "feedback": "<p>❌ Typing is text input. Haptic feedback is felt through your sense of touch.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which step comes <strong>FIRST</strong> in the engineering design process?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Build a prototype",
+       "correct": false,
+       "feedback": "<p>❌ You need to know what problem you're solving before you start building. Prototypes come later.</p>"
+      },
+      {
+       "text": "Identify the need or problem",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Identifying the need/problem comes first. The whole rest of the cycle depends on naming what you're solving. (SC.6.PE.3.2)</p>"
+      },
+      {
+       "text": "Test the design with users",
+       "correct": false,
+       "feedback": "<p>❌ Testing happens after a prototype exists, which happens after the problem is identified.</p>"
+      },
+      {
+       "text": "Improve the design",
+       "correct": false,
+       "feedback": "<p>❌ Improving requires that something has been tested first. That's much later in the cycle.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your design team has $50 to spend on parts. This $50 limit is BEST described as a:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Criterion (a measure of success)",
+       "correct": false,
+       "feedback": "<p>❌ A criterion measures whether the design works (e.g., \"must support 5 kg\"). A budget cap is a limit, not a success measure.</p>"
+      },
+      {
+       "text": "Constraint (a limit you must work within)",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A budget limit constrains what you can do — that's a constraint. (SC.6.PE.3.3)</p>"
+      },
+      {
+       "text": "Prototype",
+       "correct": false,
+       "feedback": "<p>❌ A prototype is a working draft of the design itself, not a budget limit.</p>"
+      },
+      {
+       "text": "Iteration",
+       "correct": false,
+       "feedback": "<p>❌ Iteration is going around the design cycle again. Not a description of a $50 cap.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You test your prototype, find a real bug, and now must decide what to do. Which response BEST reflects the design process?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Ship the buggy version anyway",
+       "correct": false,
+       "feedback": "<p>❌ Shipping known bugs isn't engineering — it's hoping. The whole point of testing is to find issues so you can fix them.</p>"
+      },
+      {
+       "text": "Throw away all your work and start completely from scratch",
+       "correct": false,
+       "feedback": "<p>❌ One bug rarely justifies starting over. Iteration means refining what you have, not throwing it away.</p>"
+      },
+      {
+       "text": "Revise the design to fix the bug, then test again — iterate",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The Test → Improve loop is the engine of design. Iteration takes you from rough draft to polished work. (SC.6.PE.3.3)</p>"
+      },
+      {
+       "text": "Hide the bug from your testers",
+       "correct": false,
+       "feedback": "<p>❌ Hiding a real bug fails your users. Honesty about what works and what doesn't is part of good design.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these tasks plays to a uniquely <strong>human</strong> strength that machines do not match?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Sorting one million photos by which contain a cat",
+       "correct": false,
+       "feedback": "<p>❌ Pattern recognition at huge scale is a machine strength.</p>"
+      },
+      {
+       "text": "Comforting a friend whose pet just died",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Empathy in real grief is uniquely human. (SC.6.ET.3.2)</p>"
+      },
+      {
+       "text": "Multiplying two six-digit numbers in under a second",
+       "correct": false,
+       "feedback": "<p>❌ Calculators have done that since the 1970s — pure machine strength.</p>"
+      },
+      {
+       "text": "Spotting fraud across thousands of credit-card transactions per second",
+       "correct": false,
+       "feedback": "<p>❌ Machines do this in milliseconds. Humans can't keep up at that scale.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these tasks plays to a <strong>machine</strong> strength that humans cannot match alone?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Choosing the right comforting words for a frightened child",
+       "correct": false,
+       "feedback": "<p>❌ Empathy and tone in real-time emotional support are human strengths.</p>"
+      },
+      {
+       "text": "Scanning thousands of medical images per second to flag suspicious spots",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> High-volume pattern recognition at speed is exactly where machines outperform humans. (SC.6.ET.3.2)</p>"
+      },
+      {
+       "text": "Deciding whether a parolee should be released",
+       "correct": false,
+       "feedback": "<p>❌ Parole is high-stakes ethical judgment — must keep a human in the loop.</p>"
+      },
+      {
+       "text": "Resolving a moral dilemma about loyalty between two friends",
+       "correct": false,
+       "feedback": "<p>❌ Moral dilemmas about relationships are deeply human territory.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following tasks <strong>most clearly requires</strong> a human in the loop, not a fully automated machine?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Sorting thumbnails of vacation photos",
+       "correct": false,
+       "feedback": "<p>❌ Low-stakes, repetitive sorting is fine for machines.</p>"
+      },
+      {
+       "text": "A fitness watch counting daily steps",
+       "correct": false,
+       "feedback": "<p>❌ A step counter is a simple sensor + math — automation is exactly right for this.</p>"
+      },
+      {
+       "text": "Deciding whether someone is hired for a teaching job",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Hiring decisions affect people's lives and have a history of biased automation. A human must stay in the loop. (SC.6.ET.3.2)</p>"
+      },
+      {
+       "text": "Adding up the total cost of items in a shopping cart",
+       "correct": false,
+       "feedback": "<p>❌ Adding up totals is straightforward arithmetic — no human judgment needed.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A simple calculator computing 9 + 5 is BEST described as:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Learning-based software that improves with each calculation",
+       "correct": false,
+       "feedback": "<p>❌ A calculator doesn't improve from data. The math operations are fixed.</p>"
+      },
+      {
+       "text": "Rules-based software that follows fixed instructions",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A calculator runs hand-written rules for math. Nothing about it learns. (SC.6.ET.2.1)</p>"
+      },
+      {
+       "text": "Generative AI",
+       "correct": false,
+       "feedback": "<p>❌ Generative AI creates new content. A calculator isn't generative — it gives one fixed answer.</p>"
+      },
+      {
+       "text": "A trained machine learning model",
+       "correct": false,
+       "feedback": "<p>❌ Machine learning models train on data. A basic calculator doesn't.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><strong>Machine learning</strong> is BEST described as:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Software that follows pre-written rules typed in by a programmer",
+       "correct": false,
+       "feedback": "<p>❌ That describes RULES-BASED software, not learning-based. The whole difference is whether the rules came from data or a human.</p>"
+      },
+      {
+       "text": "Software that improves itself by spotting patterns in data",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Machine learning systems get better by training on data instead of being told every rule. (SC.6.ET.2.1)</p>"
+      },
+      {
+       "text": "A team of human teachers who write code together",
+       "correct": false,
+       "feedback": "<p>❌ Machine learning is software, not a group of teachers.</p>"
+      },
+      {
+       "text": "Hardware that can read minds",
+       "correct": false,
+       "feedback": "<p>❌ ML doesn't read minds. It looks for statistical patterns in data you give it.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>An AI hiring tool keeps unfairly rejecting qualified women applicants. Where did this <strong>bias</strong> most likely come from?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The brand of laptop the AI runs on",
+       "correct": false,
+       "feedback": "<p>❌ Hardware brand has nothing to do with bias.</p>"
+      },
+      {
+       "text": "The training data — historical hiring records were already biased, so the AI learned the bias",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Bias in AI almost always comes from biased training data. The model is only as just as the data that taught it. (SC.6.ET.2.2)</p>"
+      },
+      {
+       "text": "The time of day the candidate applied",
+       "correct": false,
+       "feedback": "<p>❌ Time of day isn't where bias enters the system.</p>"
+      },
+      {
+       "text": "A magic property of computers",
+       "correct": false,
+       "feedback": "<p>❌ There's no magic — bias has a clear cause: the data used to train the model.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You set a daily limit on social-media scrolling so the recommendation algorithm doesn't keep you up past midnight. Which cardinal virtue does this BEST reflect?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Prudence",
+       "correct": false,
+       "feedback": "<p>❌ Prudence is wise foresight — it could be involved, but the specific virtue of moderating use is temperance.</p>"
+      },
+      {
+       "text": "Justice",
+       "correct": false,
+       "feedback": "<p>❌ Justice is about fairness toward others. Limiting your own scrolling is about restraining yourself.</p>"
+      },
+      {
+       "text": "Fortitude",
+       "correct": false,
+       "feedback": "<p>❌ Fortitude is perseverance through hard work. This isn't about persevering — it's about restraining excess.</p>"
+      },
+      {
+       "text": "Temperance",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Temperance is the virtue of moderation — choosing the right amount, not the maximum amount. (SC.6.ET.2.2)</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which statement BEST captures the big idea of Unit 4?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "AI will replace humans in every task in the next decade",
+       "correct": false,
+       "feedback": "<p>❌ Unit 4 made the opposite case — humans bring strengths machines don't, and high-stakes calls keep a human in the loop.</p>"
+      },
+      {
+       "text": "Modeling, design, and AI are powerful tools that work best when guided by human judgment and the cardinal virtues",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The whole arc of Unit 4 was: powerful tools + human virtues = wise use. (All Unit 4 standards)</p>"
+      },
+      {
+       "text": "The cardinal virtues have nothing to do with technology",
+       "correct": false,
+       "feedback": "<p>❌ Unit 4 spent significant time linking the cardinal virtues to ethical use of technology — the connection is the point.</p>"
+      },
+      {
+       "text": "Digital simulations always perfectly replace real-world testing",
+       "correct": false,
+       "feedback": "<p>❌ Simulations are useful but never perfect — they help us prepare; real-world testing still matters.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which statement BEST describes a learning-based AI?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It is magical and impossible to understand",
+       "correct": false,
+       "feedback": "<p>❌ Learning-based AI has clear, explainable mechanics — it's a model trained on data.</p>"
+      },
+      {
+       "text": "It is software with no rules at all",
+       "correct": false,
+       "feedback": "<p>❌ Learning-based AI does have rules — they were just learned from data, not typed by hand.</p>"
+      },
+      {
+       "text": "It is a digital model whose conditions were learned from data, not handwritten by a programmer",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A learning-based AI is just a digital model where the conditions came from training data instead of being handwritten. (SC.6.PE.3.1, SC.6.ET.2.1)</p>"
+      },
+      {
+       "text": "It is a piece of physical hardware",
+       "correct": false,
+       "feedback": "<p>❌ AI is software, not hardware. It runs on hardware but it isn't itself a physical thing.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_week-35-quiz-careers-in-computing-digital-citizenship",
+   "title": "Week 35 Quiz — Careers in Computing & Digital Citizenship",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Maria's job is to make sure that when you tap a button in an app, it feels right — that the layout, color, words, and flow guide you naturally and work for people with all kinds of abilities. Which CS career is Maria <strong>MOST</strong> likely in?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Cybersecurity analyst",
+       "correct": false,
+       "feedback": "<p>❌ Cybersecurity analysts protect systems from attack. Maria's work is about how the app feels, not defense.</p>"
+      },
+      {
+       "text": "UX designer",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> UX designers shape how a product feels and flows for the people using it — including making it accessible. (SC.6.ET.1.2)</p>"
+      },
+      {
+       "text": "Data scientist",
+       "correct": false,
+       "feedback": "<p>❌ Data scientists find patterns in big data sets. Maria's focus is the user experience, not the data.</p>"
+      },
+      {
+       "text": "Network administrator",
+       "correct": false,
+       "feedback": "<p>❌ Network admins keep computers and Wi-Fi connected. That's important work, but it's not about how apps feel to use.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Daniela never finished college. Over four years she taught herself to code, built a public portfolio of real projects, and contributed to open-source software. Which statement about her chances of becoming a software engineer is <strong>MOST</strong> accurate?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It's impossible — every software engineer must have a four-year CS degree",
+       "correct": false,
+       "feedback": "<p>❌ This is a common myth. Many software engineers came in through bootcamps, self-teaching, or apprenticeships.</p>"
+      },
+      {
+       "text": "Self-teaching with a strong portfolio of real projects is a recognized path into software engineering — many engineers came in this way",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Self-teaching with a real portfolio is a legitimate path — practice on real problems is the common thread across every route into CS. (SC.6.ET.1.2)</p>"
+      },
+      {
+       "text": "Only a bootcamp counts — anything else is just a hobby",
+       "correct": false,
+       "feedback": "<p>❌ Bootcamps are one good path, but they're not the only one. Self-teaching, apprenticeship, and the degree path all work.</p>"
+      },
+      {
+       "text": "She'll have to start over from scratch with a brand-new four-year CS degree before anyone will consider her",
+       "correct": false,
+       "feedback": "<p>❌ She doesn't have to start over. Many companies hire based on demonstrated skill — a polished portfolio is real evidence.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're a security engineer at a streaming company. You discover a critical bug that would let anyone steal user passwords. What is the <strong>MOST ethical FIRST move</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Quietly sell the bug to whoever offers the most money",
+       "correct": false,
+       "feedback": "<p>❌ Selling a vulnerability to attackers harms real users. That's a clear ethical failure.</p>"
+      },
+      {
+       "text": "Post the exact bug publicly on social media before the company can react",
+       "correct": false,
+       "feedback": "<p>❌ Public disclosure before a fix is in place actually exposes users to attackers. Responsible disclosure goes to the company first.</p>"
+      },
+      {
+       "text": "Report it to your security team and leadership immediately, then help patch it before users are harmed",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Report internally first, then help patch the bug before users are harmed. This is responsible disclosure — the ethical heart of cybersecurity. (SC.6.TI.2.1)</p>"
+      },
+      {
+       "text": "Wait a year to see if anyone else finds it first",
+       "correct": false,
+       "feedback": "<p>❌ Waiting just leaves users exposed. Speed protects people; hesitation harms them.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A classmate posts a video of themselves tripping and spilling lunch everywhere. Comments are piling up making fun of them. What is the <strong>MOST PRUDENT</strong> response, in the classical sense of prudence (wise foresight)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Pile on with a clever joke — everyone else is doing it",
+       "correct": false,
+       "feedback": "<p>❌ Piling on harms a real person for a small social reward. Prudence pauses before the joke.</p>"
+      },
+      {
+       "text": "Screenshot and share to a group chat so even more people see it",
+       "correct": false,
+       "feedback": "<p>❌ Amplifying someone's bad day is the opposite of prudence — it makes the harm bigger.</p>"
+      },
+      {
+       "text": "Don't pile on. If it feels right, send the person a private message that's kind",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Prudence is the pause before publishing — and a small private kindness is justice in action. (SC.6.TI.1.1)</p>"
+      },
+      {
+       "text": "Tell yourself it's \"just the internet\" and leave a sneaky negative emoji",
+       "correct": false,
+       "feedback": "<p>❌ A \"sneaky\" negative reaction still adds harm. Prudence asks whether the click helps a real person — not whether it can be hidden.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You feel like scrolling for another hour, but you're tired and have homework. You put the phone down. Which of the four cardinal virtues did you <strong>most clearly</strong> practice?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Prudence — wise foresight",
+       "correct": false,
+       "feedback": "<p>❌ Prudence is the pause before deciding. The act of stopping when you've had enough is closer to temperance.</p>"
+      },
+      {
+       "text": "Justice — giving people what is owed",
+       "correct": false,
+       "feedback": "<p>❌ Justice is about how you treat others. This choice was about how you treat yourself.</p>"
+      },
+      {
+       "text": "Temperance — self-mastery, knowing what is enough",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Temperance is the virtue of knowing your limit and choosing it. Putting the phone down when enough is enough is temperance in action. (SC.6.TI.1.1)</p>"
+      },
+      {
+       "text": "Fortitude — courage in hardship",
+       "correct": false,
+       "feedback": "<p>❌ Fortitude does help, but the lead virtue here — knowing what is enough — is temperance.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  },
+  {
+   "id": "q_course-final-assessment-digital-discoveries",
+   "title": "Course Final Assessment — Digital Discoveries",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following is the <strong>BEST</strong> example of <strong>asynchronous</strong> communication?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A live phone call",
+       "correct": false,
+       "feedback": "<p>❌ A phone call is <em>synchronous</em> — both people must be there at the same time.</p>"
+      },
+      {
+       "text": "A video chat with a classmate happening right now",
+       "correct": false,
+       "feedback": "<p>❌ Video chat is synchronous — it happens live, in real time.</p>"
+      },
+      {
+       "text": "An email you send tonight and your friend reads tomorrow morning",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Email is asynchronous — sender and reader don't have to be available at the same moment.</p>"
+      },
+      {
+       "text": "Two people talking face to face in the same room",
+       "correct": false,
+       "feedback": "<p>❌ Talking face to face is synchronous — both people are present at the same time.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>When you send a video clip to a friend across the internet, the data is <strong>MOST</strong> likely:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Sent as one giant file along a single fixed path from your phone to theirs",
+       "correct": false,
+       "feedback": "<p>❌ The internet doesn't use one big file along one fixed path — packets are far more flexible and reliable.</p>"
+      },
+      {
+       "text": "Split into small chunks called packets that travel different paths and are reassembled at the destination",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Data is split into packets that hop between routers along different paths and reassemble at the destination. (Unit 1)</p>"
+      },
+      {
+       "text": "Hand-carried by a network technician between buildings",
+       "correct": false,
+       "feedback": "<p>❌ Network technicians don't hand-carry data — it travels electronically as packets.</p>"
+      },
+      {
+       "text": "Stored only on your phone until your friend manually downloads it",
+       "correct": false,
+       "feedback": "<p>❌ Sending is not just storage — the data moves across networks as packets, automatically.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You send a friend a long, thoughtful message. They reply only \"k.\" What's the <strong>MOST charitable</strong> way to handle it?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Assume they're angry and stop talking to them",
+       "correct": false,
+       "feedback": "<p>❌ Jumping to \"they're angry\" without checking is the trap text messages set. Ask first.</p>"
+      },
+      {
+       "text": "Tone is hard to read in short texts — ask before assuming, or wait until you can talk in person",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Short texts strip out tone. The wise move is to check before assuming the worst. (Unit 1)</p>"
+      },
+      {
+       "text": "Send \"fine, bye then\" and end the friendship",
+       "correct": false,
+       "feedback": "<p>❌ Escalating in response to a one-letter reply is exactly the spiral good digital communication tries to avoid.</p>"
+      },
+      {
+       "text": "Decide every \"k.\" in the world definitely means hatred",
+       "correct": false,
+       "feedback": "<p>❌ Texts are short and ambiguous — that's a feature, not a hidden code for hatred.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You get an email that says <em>\"URGENT: your account is locked. Click here NOW to fix it.\"</em> The link goes to a slightly misspelled version of your bank's web address. This is <strong>MOST</strong> likely:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Your bank just changed its website name",
+       "correct": false,
+       "feedback": "<p>❌ Banks don't change their web address by slightly misspelling it. That's a phishing red flag.</p>"
+      },
+      {
+       "text": "A phishing attempt designed to steal your login and password",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Urgency + misspelled URL + \"click NOW\" is the classic phishing recipe. Don't click — open the real site directly. (Unit 2)</p>"
+      },
+      {
+       "text": "A normal software update message",
+       "correct": false,
+       "feedback": "<p>❌ Software updates don't come from outside emails pushing urgency and links to misspelled URLs.</p>"
+      },
+      {
+       "text": "A friend playing a harmless joke",
+       "correct": false,
+       "feedback": "<p>❌ Friends don't typically send fake bank lockout emails. This is a phishing pattern.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is the <strong>STRONGEST</strong> password choice for a personal account?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "password123",
+       "correct": false,
+       "feedback": "<p>❌ \"password123\" is on every list of cracked passwords. A bot would guess it in milliseconds.</p>"
+      },
+      {
+       "text": "Your birthday",
+       "correct": false,
+       "feedback": "<p>❌ Birthdays are easy for anyone who knows you (or scrapes social media) to guess.</p>"
+      },
+      {
+       "text": "A long unique phrase you don't use on any other site",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Long + unique + not reused is the recipe for a strong password. (Unit 2)</p>"
+      },
+      {
+       "text": "Your pet's name",
+       "correct": false,
+       "feedback": "<p>❌ Pet names are often posted publicly. They're easy to find and easy to guess.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You see a stranger online getting roasted in the comments for a small mistake. What's the <strong>BEST</strong> digital-citizen response?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Pile on with a clever joke of your own",
+       "correct": false,
+       "feedback": "<p>❌ Piling on harms a real person for a small social reward. Good digital citizenship pauses first.</p>"
+      },
+      {
+       "text": "Screenshot it and post to your own feed",
+       "correct": false,
+       "feedback": "<p>❌ Amplifying someone's bad day is the opposite of being a good digital citizen.</p>"
+      },
+      {
+       "text": "Don't add to the harm — and if it feels right, defend or message kindly",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Don't add to the harm; if appropriate, defend or message kindly. That's digital citizenship in action. (Unit 2)</p>"
+      },
+      {
+       "text": "Tag five friends to come laugh too",
+       "correct": false,
+       "feedback": "<p>❌ Pulling more people into the pile-on is the opposite of what a good citizen does.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a program you write: <code>score = 0</code>. Later: <code>score = score + 10</code>. The <code>score</code> in this code is a:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Function",
+       "correct": false,
+       "feedback": "<p>❌ A function is a named reusable block of code. <code>score</code> is just a name holding a value.</p>"
+      },
+      {
+       "text": "Loop",
+       "correct": false,
+       "feedback": "<p>❌ A loop repeats a block of code. <code>score</code> doesn't repeat — it holds a value.</p>"
+      },
+      {
+       "text": "Variable",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A variable is a named box that holds a value that can change. (Unit 3)</p>"
+      },
+      {
+       "text": "Comment",
+       "correct": false,
+       "feedback": "<p>❌ A comment is text the computer ignores. <code>score</code> is real code that the computer uses.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A program contains: <code>IF temperature &gt; 32 THEN turn on cooler</code>. The variable <code>temperature</code> equals <code>28</code>. What does the program do?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It turns the cooler on",
+       "correct": false,
+       "feedback": "<p>❌ The condition requires temperature greater than 32. With temperature = 28, the IF is false.</p>"
+      },
+      {
+       "text": "It does NOT turn the cooler on",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> 28 is not greater than 32, so the IF is false and the cooler stays off. (Unit 3)</p>"
+      },
+      {
+       "text": "It changes the value of temperature to 32",
+       "correct": false,
+       "feedback": "<p>❌ The IF only checks the value — it doesn't change it.</p>"
+      },
+      {
+       "text": "It crashes",
+       "correct": false,
+       "feedback": "<p>❌ There's nothing here to crash. A clean false IF just skips the THEN block.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A <strong>loop</strong> in a program is <strong>MOST</strong> useful when you want to:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Save the program for later",
+       "correct": false,
+       "feedback": "<p>❌ Saving a program is what a file-save command does — not a loop.</p>"
+      },
+      {
+       "text": "Repeat a block of code (a specific number of times, or for each item in a list)",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Loops repeat code — a counted number of times, or once per item in a list. (Unit 3)</p>"
+      },
+      {
+       "text": "Send a message to another computer",
+       "correct": false,
+       "feedback": "<p>❌ That's networking. Loops are about repetition inside one program.</p>"
+      },
+      {
+       "text": "Stop the program forever",
+       "correct": false,
+       "feedback": "<p>❌ Loops don't stop programs — they repeat blocks of code.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your program crashes with an error message. What is the <strong>MOST productive first move</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Delete the whole program and start over",
+       "correct": false,
+       "feedback": "<p>❌ Deleting throws away every clue. Read first, fix second.</p>"
+      },
+      {
+       "text": "Read the error message carefully — it usually tells you where to look",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The error message is the program's letter to you. Read it — most of the answer is in it. (Unit 3)</p>"
+      },
+      {
+       "text": "Run the same code again unchanged and hope for a different result",
+       "correct": false,
+       "feedback": "<p>❌ Same code + same data = same crash. Read the error and change something.</p>"
+      },
+      {
+       "text": "Blame the computer",
+       "correct": false,
+       "feedback": "<p>❌ The computer is doing exactly what you wrote. The bug is almost always in the code, not the machine.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A <strong>digital model</strong> is <strong>BEST</strong> described as:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "An exact, perfect copy of something real with every detail",
+       "correct": false,
+       "feedback": "<p>❌ A model is simplified, not perfect — that's the whole point.</p>"
+      },
+      {
+       "text": "A simplified version of something real, built from numbers and rules so we can study or predict it",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A digital model is numbers + rules, built to study or predict the real thing. (Unit 4)</p>"
+      },
+      {
+       "text": "A photograph saved on a computer",
+       "correct": false,
+       "feedback": "<p>❌ A photo is static. A model can be run and changed.</p>"
+      },
+      {
+       "text": "A piece of hardware shaped like the thing it represents",
+       "correct": false,
+       "feedback": "<p>❌ Digital models are code, not hardware shaped like an object.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're modeling how long a snowman lasts on a sunny day. Which is the <strong>BEST</strong> example of a <strong>variable</strong> in this model?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The freezing point of water (0°C)",
+       "correct": false,
+       "feedback": "<p>❌ The freezing point of water doesn't change — it's a constant.</p>"
+      },
+      {
+       "text": "Outdoor temperature (changes hour by hour)",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Outdoor temperature changes hour by hour — that's exactly what a variable is. (Unit 4)</p>"
+      },
+      {
+       "text": "The mathematical value of pi",
+       "correct": false,
+       "feedback": "<p>❌ Pi is a mathematical constant — it never changes.</p>"
+      },
+      {
+       "text": "The chemical formula for water (H₂O)",
+       "correct": false,
+       "feedback": "<p>❌ A chemical formula is a fixed fact, not a value that changes during a simulation.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which step typically comes <strong>FIRST</strong> in the engineering design process?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Build the final product",
+       "correct": false,
+       "feedback": "<p>❌ Building comes much later. Engineering starts with understanding the problem.</p>"
+      },
+      {
+       "text": "Identify the problem and define its criteria and constraints",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Define the problem and its criteria/constraints first. Everything else follows. (Unit 4 · Week 30)</p>"
+      },
+      {
+       "text": "Run a final user test",
+       "correct": false,
+       "feedback": "<p>❌ Testing comes after design and prototype. First you need a problem to solve.</p>"
+      },
+      {
+       "text": "Ship the product and write the marketing copy",
+       "correct": false,
+       "feedback": "<p>❌ Shipping is the last step, not the first.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>An AI system flags a patient as \"high risk\" for a serious illness. Following the <strong>human-in-the-loop</strong> principle, what should happen next?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Treatment begins automatically based on the AI's flag",
+       "correct": false,
+       "feedback": "<p>❌ Automatic treatment based on an AI flag removes the human from the loop — exactly what the principle says to avoid.</p>"
+      },
+      {
+       "text": "A doctor reviews the flag, talks with the patient, and decides what to do",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> A human-in-the-loop design keeps a doctor accountable for the call — the AI assists, the doctor decides. (Unit 4)</p>"
+      },
+      {
+       "text": "The patient is automatically emailed a diagnosis",
+       "correct": false,
+       "feedback": "<p>❌ Auto-emailing a diagnosis skips the human conversation that real care requires.</p>"
+      },
+      {
+       "text": "The AI's confidence score is trusted with no human review",
+       "correct": false,
+       "feedback": "<p>❌ Trusting confidence scores with no review is the opposite of human-in-the-loop.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A company builds an AI hiring tool by training it on past hiring decisions. The past hires were 90% from one demographic group. Which problem is <strong>MOST</strong> likely?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The AI will perform perfectly because past data is always trustworthy",
+       "correct": false,
+       "feedback": "<p>❌ Past data carries past biases. \"Always trustworthy\" is exactly the AI ethics warning sign.</p>"
+      },
+      {
+       "text": "The AI may carry forward and amplify the bias of past decisions, treating new applicants unfairly",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Trained on biased history, an AI will repeat and amplify that bias — this is the textbook AI-ethics problem. (Unit 4)</p>"
+      },
+      {
+       "text": "The AI will hire applicants completely at random",
+       "correct": false,
+       "feedback": "<p>❌ A trained AI doesn't hire at random — it follows patterns it learned from the data.</p>"
+      },
+      {
+       "text": "The AI will refuse to hire anyone at all",
+       "correct": false,
+       "feedback": "<p>❌ A normally-trained AI doesn't refuse to hire — it carries the patterns of the data it was trained on.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're modeling traffic flow on a highway. Which detail is <strong>BEST</strong> to abstract away (leave out)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Cars per minute entering each ramp",
+       "correct": false,
+       "feedback": "<p>❌ Cars-per-minute is one of the most important variables for traffic flow. Keep it.</p>"
+      },
+      {
+       "text": "Number of lanes",
+       "correct": false,
+       "feedback": "<p>❌ Number of lanes directly affects how much traffic the road can carry. Keep it.</p>"
+      },
+      {
+       "text": "The paint color of each car",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Paint color doesn't affect traffic flow — it's exactly the kind of irrelevant detail abstraction removes. (Unit 4)</p>"
+      },
+      {
+       "text": "Average speed limit on each road",
+       "correct": false,
+       "feedback": "<p>❌ Speed limit directly affects how fast traffic moves. Keep it.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Whose job is it to find patterns in large amounts of data to answer questions like \"what's happening?\" and \"what might happen next?\"</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Cybersecurity analyst",
+       "correct": false,
+       "feedback": "<p>❌ Cybersecurity is about defense, not finding patterns in data sets to answer business questions.</p>"
+      },
+      {
+       "text": "Data scientist",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Finding patterns in data and predicting \"what might happen next\" is the data scientist's calling. (Unit 5)</p>"
+      },
+      {
+       "text": "UX designer",
+       "correct": false,
+       "feedback": "<p>❌ UX designers shape how products feel to use — not data analysis.</p>"
+      },
+      {
+       "text": "Network administrator",
+       "correct": false,
+       "feedback": "<p>❌ Network admins keep computers and networks running — not the same as data analysis.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which statement about paths into a CS career is <strong>MOST</strong> accurate?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Only a four-year CS degree leads to a real CS career",
+       "correct": false,
+       "feedback": "<p>❌ This is a common myth. Many engineers came in through bootcamps, self-teaching, or apprenticeships.</p>"
+      },
+      {
+       "text": "Multiple paths work — degree, bootcamp, self-teaching, apprenticeship — and the common thread is practice on real problems",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Multiple paths into CS exist, and the common thread is real practice on real problems. (Unit 5)</p>"
+      },
+      {
+       "text": "You must start before age 10 to have any chance",
+       "correct": false,
+       "feedback": "<p>❌ Lots of working engineers started after age 10 — even after age 30 or 40. Age is not the barrier.</p>"
+      },
+      {
+       "text": "The internet age made it impossible for adults to learn CS",
+       "correct": false,
+       "feedback": "<p>❌ The internet actually makes self-teaching easier than ever. Adults learn CS every day.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A security engineer discovers a critical bug in their company's product. What is the <strong>MOST ethical FIRST move</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Sell the bug secretly to the highest bidder",
+       "correct": false,
+       "feedback": "<p>❌ Selling a vulnerability harms real users — a clear ethical failure.</p>"
+      },
+      {
+       "text": "Post it publicly on social media before the company can react",
+       "correct": false,
+       "feedback": "<p>❌ Public disclosure before a fix exposes users. Responsible disclosure goes to the company first.</p>"
+      },
+      {
+       "text": "Report it internally and help patch it before users are harmed",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Responsible disclosure: report internally, then patch before users are harmed. (Unit 5)</p>"
+      },
+      {
+       "text": "Use it to peek at colleagues' accounts",
+       "correct": false,
+       "feedback": "<p>❌ Using a bug to snoop on coworkers is an abuse of trust. Don't do it.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You feel like scrolling for another hour, but you're tired and have homework. You close the app and go finish your work. Which of the four cardinal virtues did you <strong>most clearly</strong> practice?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Prudence — wise foresight",
+       "correct": false,
+       "feedback": "<p>❌ Prudence is the pause before deciding. The act of stopping when you've had enough is closer to temperance.</p>"
+      },
+      {
+       "text": "Justice — giving people what is owed",
+       "correct": false,
+       "feedback": "<p>❌ Justice is about how you treat others. This choice was about how you treat yourself.</p>"
+      },
+      {
+       "text": "Temperance — self-mastery, knowing what is enough",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Temperance is knowing your limit and choosing it. Putting the phone down when enough is enough is temperance in action. (Unit 5)</p>"
+      },
+      {
+       "text": "Fortitude — courage in hardship",
+       "correct": false,
+       "feedback": "<p>❌ Fortitude helps, but the lead virtue here — knowing what is enough — is temperance.</p>"
+      }
+     ]
+    }
+   ],
+   "group": "ag_quizzes-assessments"
+  }
+ ],
+ "discussions": [],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_start-here",
+   "title": "Start Here",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_home",
+     "title": "Welcome — Course Home",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_syllabus",
+     "title": "Course Syllabus",
+     "week": 1,
+     "completion": "must_mark_done"
+    }
+   ]
+  },
+  {
+   "id": "m_unit-3-programming",
+   "title": "Unit 3 — Programming",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_week-19-reading",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-19-activity",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-19-quiz-introduction-to-computational-thinking",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-20-reading",
+     "week": 2,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-20-activity",
+     "week": 2,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-20-quiz-flowcharts-algorithm-design",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-21-reading",
+     "week": 3,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-21-activity",
+     "week": 3,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-21-quiz-python-basics-data-types-variables",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-22-reading",
+     "week": 4,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-22-activity",
+     "week": 4,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-22-quiz-science-technology-society",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-23-reading",
+     "week": 5,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-23-activity",
+     "week": 5,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-23-quiz-logic-conditionals",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-24-reading",
+     "week": 6,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-24-activity",
+     "week": 6,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-24-quiz-loops",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-25-reading",
+     "week": 7,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-25-activity",
+     "week": 7,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-25-quiz-functions-modular-programming",
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-26-reading",
+     "week": 8,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-26-activity",
+     "week": 8,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-26-quiz-debugging-the-software-lifecycle",
+     "week": 8,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-27-reading",
+     "week": 9,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-27-activity",
+     "week": 9,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-27-quiz-unit-3-review",
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_unit-3-assessment-programming-fundamentals",
+     "week": 9,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_unit-4-modeling-design-ai",
+   "title": "Unit 4 — Modeling, Design & AI",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_week-29-reading",
+     "week": 11,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-29-activity",
+     "week": 11,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-29-quiz-digital-modeling-simulation",
+     "week": 11,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-30-reading",
+     "week": 12,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-30-activity",
+     "week": 12,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-30-quiz-engineering-design-process",
+     "week": 12,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-31-reading",
+     "week": 13,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-31-activity",
+     "week": 13,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-31-quiz-human-ai-collaboration",
+     "week": 13,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-32-reading",
+     "week": 14,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-32-activity",
+     "week": 14,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-32-quiz-ai-fundamentals-ethics",
+     "week": 14,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-33-reading",
+     "week": 15,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-33-activity",
+     "week": 15,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-33-quiz-unit-4-review",
+     "week": 15,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_unit-4-assessment-modeling-ai",
+     "week": 15,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_unit-5-capstone-course-final",
+   "title": "Unit 5 — Capstone & Course Final",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_week-35-reading",
+     "week": 17,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-35-activity",
+     "week": 17,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_week-35-quiz-careers-in-computing-digital-citizenship",
+     "week": 17,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-36-reading",
+     "week": 18,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_week-36-activity",
+     "week": 18,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_course-final-assessment-digital-discoveries",
+     "week": 18,
+     "completion": "must_submit"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Course build 6th Grade Digital Discoveries (build_imscc.py -> 6th-grade-digital-discoveries.imscc, 2026-05-14); readings and activities iframe facevedoOE.github.io/oao-digital-discoveries-gr6. Imported by optima-course-kit/_build/imscc_to_spec.py from 6th-grade-digital-discoveries.imscc (cartridge title '6th Grade Digital Discoveries'), modules [1, 4, 5, 6] of 6 in cartridge order; titles, publish state, points, groups and question content exactly as the cartridge ships them."
+ }
+}
