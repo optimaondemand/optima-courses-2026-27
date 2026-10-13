@@ -1,0 +1,3558 @@
+{
+ "course": {
+  "title": "M/J Grade 8 Digital Discoveries Sem 2",
+  "code": "0200023",
+  "default_view": "wiki",
+  "weighted": false,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_activities",
+   "title": "Activities",
+   "weight": 0
+  },
+  {
+   "id": "ag_quizzes",
+   "title": "Quizzes & Assessments",
+   "weight": 0
+  }
+ ],
+ "rubrics": [],
+ "pages": [
+  {
+   "id": "p_home",
+   "title": "Welcome — Course Home",
+   "front_page": true,
+   "published": true,
+   "html": "<iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/welcome.html\"\n        width=\"100%\"\n        height=\"900\"\n        frameborder=\"0\"\n        allowfullscreen=\"allowfullscreen\"\n        allow=\"fullscreen\"\n        loading=\"lazy\"\n        style=\"border:0;width:100%;min-height:900px;display:block\"\n        title=\"Welcome — Course Home\"></iframe>\n<p style=\"font-size:13px;color:#0E5568;margin-top:8px\">\n  Trouble viewing? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/welcome.html\" target=\"_blank\" rel=\"noopener\">Open this page in a new tab</a>.\n</p>"
+  },
+  {
+   "id": "p_syllabus",
+   "title": "Course Syllabus",
+   "published": true,
+   "html": "<iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/syllabus.html\"\n        width=\"100%\"\n        height=\"900\"\n        frameborder=\"0\"\n        allowfullscreen=\"allowfullscreen\"\n        allow=\"fullscreen\"\n        loading=\"lazy\"\n        style=\"border:0;width:100%;min-height:900px;display:block\"\n        title=\"Course Syllabus\"></iframe>\n<p style=\"font-size:13px;color:#0E5568;margin-top:8px\">\n  Trouble viewing? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/syllabus.html\" target=\"_blank\" rel=\"noopener\">Open this page in a new tab</a>.\n</p>"
+  },
+  {
+   "id": "p_w19_reading",
+   "title": "Week 19 — Decomposition & Pseudocode",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 19 — Decomposition &amp; Pseudocode</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-19-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-19-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 19 — Decomposition &amp; Pseudocode\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_w20_reading",
+   "title": "Week 20 — Flowcharts & Algorithm Design",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 20 — Flowcharts &amp; Algorithm Design</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-20-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-20-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 20 — Flowcharts &amp; Algorithm Design\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_w21_reading",
+   "title": "Week 21 — Variables, Data Types & Expressions",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 21 — Variables, Data Types &amp; Expressions</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-21-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-21-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 21 — Variables, Data Types &amp; Expressions\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_w22_reading",
+   "title": "Week 22 — Conditionals (if/else)",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 22 — Conditionals (if/else)</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-22-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-22-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 22 — Conditionals (if/else)\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_w23_reading",
+   "title": "Week 23 — Loops",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 23 — Loops</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-23-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-23-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 23 — Loops\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_w24_reading",
+   "title": "Week 24 — Functions & App Prototyping",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 24 — Functions &amp; App Prototyping</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-24-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-24-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 24 — Functions &amp; App Prototyping\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_tr_w19_key",
+   "title": "Week 19 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 19 Quiz — Decomposition &amp; Pseudocode\n=========================================\n\nQ1. [SC.8.PE.1.2]\n   Which of the following BEST describes decomposition?\n   ✅ Breaking a big problem into smaller manageable subproblems you can solve one at a time\n\nQ2. [SC.8.PE.1.2]\n   You decompose a soccer team into goalkeeper, defenders, midfielders, and attackers. Which decomposition strategy is this?\n   ✅ By role — different actors doing different parts of the same job\n\nQ3. [SC.8.PE.1.5]\n   Which of the following BEST describes pseudocode?\n   ✅ A plain-language plan for an algorithm — readable by anyone, no specific programming syntax required\n\nQ4. [SC.K12.CTR.2.1]\n   Why do professional engineers write pseudocode before writing real code on non-trivial problems?\n   ✅ Pseudocode catches logic errors before syntax errors AND lets non-programmers review the plan. Both are major productivity wins.\n\nQ5. [MA.K12.MTR.1.1]\n   An edge case in pseudocode is best described as:\n   ✅ An unusual input or situation that could break your plan — empty input, wrong type, way-too-large numbers, missing data\n\n</pre>"
+  },
+  {
+   "id": "p_tr_w20_key",
+   "title": "Week 20 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 20 Quiz — Flowcharts &amp; Algorithm Design\n============================================\n\nQ1. [SC.8.PE.1.5]\n   Which of the following BEST describes a flowchart?\n   ✅ A visual diagram of an algorithm using standard shapes connected by arrows\n\nQ2. [SC.8.PE.1.5]\n   Which flowchart symbol represents a YES/NO decision?\n   ✅ Diamond — always has TWO arrows leaving it (one for YES, one for NO)\n\nQ3. [SC.8.PE.1.6]\n   Which flowchart symbol represents INPUT or OUTPUT (data crossing into or out of the program)?\n   ✅ Parallelogram — getting user input, reading a sensor, displaying a result, saving to a file\n\nQ4. [SC.K12.CTR.3.1]\n   An algorithm that converts Celsius to Fahrenheit follows the same exact steps every time. What flowchart shape is this?\n   ✅ Linear — same steps every time, no decisions. Rectangles in a row from START to END.\n\nQ5. [MA.K12.MTR.1.1]\n   Your friend&#x27;s flowchart has a diamond labeled &quot;IS IT RAINING?&quot; with only ONE arrow leaving it. What&#x27;s the issue?\n   ✅ Every decision diamond must have TWO arrows — one for YES and one for NO. A one-arrow diamond is a broken flowchart.\n\n</pre>"
+  },
+  {
+   "id": "p_tr_w21_key",
+   "title": "Week 21 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 21 Quiz — Variables, Data Types &amp; Expressions\n==================================================\n\nQ1. [SC.8.PE.1.1]\n   Which of the following BEST describes a variable in programming?\n   ✅ A named storage location that holds a value the program can read or change\n\nQ2. [SC.8.PE.1.8]\n   Which value would BEST be stored as a string?\n   ✅ &quot;Welcome to school!&quot; (text wrapped in quotes)\n\nQ3. [SC.8.PE.1.8]\n   Which value would BEST be stored as a boolean?\n   ✅ True (the user is logged in)\n\nQ4. [SC.8.PE.1.1]\n   What&#x27;s the difference between = and == in code?\n   ✅ = is assignment (&quot;put this value into the variable&quot;); == is comparison (&quot;is the left side equal to the right side?&quot;)\n\nQ5. [ELA.K12.EE.1.1]\n   Which of the following is the BEST variable name for storing a player&#x27;s current score?\n   ✅ current_score (descriptive, lowercase, underscores)\n\n</pre>"
+  },
+  {
+   "id": "p_tr_w22_key",
+   "title": "Week 22 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 22 Quiz — Conditionals (if/else)\n=====================================\n\nQ1. [SC.8.PE.1.4]\n   Which of the following BEST describes a conditional in programming?\n   ✅ Code that runs only when a specific condition is true — the if/else statement\n\nQ2. [SC.8.PE.1.9]\n   You need to assign letter grades A, B, C, D, F based on a score. Which conditional form fits best?\n   ✅ if / elif / elif / elif / else — five branches, one for each grade\n\nQ3. [SC.8.PE.1.4]\n   You want access ONLY if the user is logged in AND at least 18 years old. Which combinator fits?\n   ✅ AND — both conditions must be true simultaneously\n\nQ4. [SC.8.PE.1.4]\n   A classmate writes: &#x27;If today is a weekend AND a holiday, school is closed.&#x27; What&#x27;s wrong?\n   ✅ Should be OR — school is closed if today is a weekend OR a holiday. AND is too narrow.\n\nQ5. [SC.K12.CTR.4.1]\n   Your code has if statements nested 6 levels deep. What&#x27;s the BEST advice?\n   ✅ Refactor — combine conditions with AND, extract helpers, or restructure. Senior engineers see 4+ levels and immediately rework the logic.\n\n</pre>"
+  },
+  {
+   "id": "p_tr_w23_key",
+   "title": "Week 23 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 23 Quiz — Loops\n====================\n\nQ1. [SC.8.PE.1.4]\n   Which of the following BEST describes a loop?\n   ✅ Code that repeats — runs the same block multiple times until a stop condition is met\n\nQ2. [SC.8.PE.1.10]\n   You need to print &quot;hello&quot; exactly 10 times. Which loop type fits BEST?\n   ✅ for-count — for i in range(10): runs the body exactly 10 times\n\nQ3. [SC.8.PE.1.10]\n   You want to keep asking for a password until the user enters the correct one. Which loop type fits BEST?\n   ✅ while — keep asking until the condition (correct password) is met\n\nQ4. [SC.8.PE.1.11]\n   Your code says while count &amp;lt; 10: print(count) but never updates count inside the body. What happens?\n   ✅ Infinite loop — the condition stays true forever because count never changes, and the program freezes\n\nQ5. [MA.K12.MTR.2.1]\n   You write for i in range(10): — how many iterations does the loop run?\n   ✅ 10 — i takes values 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 (not including 10)\n\n</pre>"
+  },
+  {
+   "id": "p_tr_w24_key",
+   "title": "Week 24 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 24 Quiz — Functions &amp; App Prototyping\n==========================================\n\nQ1. [SC.8.PE.1.3]\n   Which of the following BEST describes a function?\n   ✅ A named, reusable block of code — defined once, called many times — that takes inputs, does work, and optionally returns a value\n\nQ2. [SC.8.PE.1.3]\n   In def calculate_tip(total, rate): — what does (total, rate) represent?\n   ✅ The parameters — the inputs the function expects when you call it\n\nQ3. [SC.8.PE.1.12]\n   Which of the following is a Python BUILT-IN function?\n   ✅ print() — comes with Python, no def required\n\nQ4. [SC.K12.CTR.5.1]\n   Your function calculate_grade also sends emails AND writes to a database. What&#x27;s the BEST description of the problem?\n   ✅ Violates single-purpose: the function does THREE things. Split it into calculate_grade, send_grade_email, and save_grade_to_db.\n\nQ5. [SC.8.PE.1.7]\n   You&#x27;re prototyping a homework tracker app. Which is the BEST initial decomposition into functions?\n   ✅ Four small functions: add_assignment, list_assignments, mark_done, show_summary — each does one thing\n\n</pre>"
+  },
+  {
+   "id": "p_w25_reading",
+   "title": "Week 25 — Data Collection & Logging",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 25 — Data Collection &amp; Logging</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-25-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-25-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 25 — Data Collection &amp; Logging\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_w26_reading",
+   "title": "Week 26 — Spreadsheets & Visualization",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 26 — Spreadsheets &amp; Visualization</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-26-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-26-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 26 — Spreadsheets &amp; Visualization\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_w27_reading",
+   "title": "Week 27 — Databases Intro",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 27 — Databases Intro</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-27-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-27-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 27 — Databases Intro\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_w28_reading",
+   "title": "Week 28 — Object-Oriented Programming Intro",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 28 — Object-Oriented Programming Intro</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-28-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-28-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 28 — Object-Oriented Programming Intro\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_w29_reading",
+   "title": "Week 29 — VR Science Simulations",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 29 — VR Science Simulations</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-29-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-29-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 29 — VR Science Simulations\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_w30_reading",
+   "title": "Week 30 — Model Trade-offs",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 30 — Model Trade-offs</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-30-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-30-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 30 — Model Trade-offs\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_tr_w25_key",
+   "title": "Week 25 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 25 Quiz — Data Collection &amp; Logging\n========================================\n\nQ1. [SC.8.PE.2.1]\n   Which of the following BEST describes data collection?\n   ✅ The process of gathering raw information so it can be analyzed later — the first stage of every data project\n\nQ2. [SC.8.PE.2.1]\n   You want to know how 8th graders FEEL about a new lunch menu. Which data source fits BEST?\n   ✅ Survey — ask students directly, record their opinions\n\nQ3. [SC.8.PE.2.2]\n   You&#x27;re tracking how long 30 students play a math game daily for 30 days. Which logging approach fits BEST?\n   ✅ Automated — let the game&#x27;s software log start/stop times with timestamps\n\nQ4. [SC.K12.CTR.6.1]\n   Your spreadsheet has dates in three formats: &#x27;5/2/2026&#x27;, &#x27;May 2, 2026&#x27;, &#x27;2026-05-02&#x27;. What&#x27;s the issue?\n   ✅ Inconsistent date formats — pick ONE (ISO 8601 &quot;YYYY-MM-DD&quot; is best) and stick to it everywhere\n\nQ5. [MA.K12.MTR.2.1]\n   Your dataset shows one student with a height of 8 feet 6 inches. What&#x27;s the BEST response?\n   ✅ Spot-check the outlier — likely a data-entry typo (maybe meant 5&#x27;6&quot;). Investigate before trusting.\n\n</pre>"
+  },
+  {
+   "id": "p_tr_w26_key",
+   "title": "Week 26 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 26 Quiz — Spreadsheets &amp; Visualization\n===========================================\n\nQ1. [SC.8.PE.2.4]\n   Which formula adds up the values in cells A1 through A10?\n   ✅ =SUM(A1:A10) — uses a range, scales to any size\n\nQ2. [SC.8.PE.2.4]\n   You want to see only students with score &amp;gt;= 80, without losing the other rows. Which operation?\n   ✅ Filter — temporarily hide rows below 80; underlying data stays intact\n\nQ3. [SC.8.PE.2.5]\n   You want to show how a school&#x27;s enrollment has changed each year from 2015 to 2025. Which chart type fits BEST?\n   ✅ Line chart — connects each year&#x27;s data point to show the trend\n\nQ4. [MA.K12.MTR.5.1]\n   Your friend&#x27;s bar chart compares 95% and 97%. The Y-axis starts at 94, making the 97 bar look 3x taller. What&#x27;s the issue?\n   ✅ Truncated axis — starts at 94 instead of 0, exaggerating a 2-point difference. Fix by starting Y-axis at 0.\n\nQ5. [ELA.K12.EE.4.1]\n   You&#x27;re sending a grade report home to a parent who wants to know exactly what their student got on each assignment. Table or chart?\n   ✅ Table — exact values for each assignment, easy to look up\n\n</pre>"
+  },
+  {
+   "id": "p_tr_w27_key",
+   "title": "Week 27 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 27 Quiz — Databases Intro\n==============================\n\nQ1. [SC.8.PE.2.5]\n   Which of the following BEST describes a database?\n   ✅ Software built to store, organize, and search large amounts of data — often used by many people at once\n\nQ2. [SC.8.PE.2.5]\n   In a &#x27;students&#x27; database table, what does ONE ROW represent?\n   ✅ One specific student&#x27;s entry — their name, ID, grade, and other info\n\nQ3. [SC.8.PE.2.4]\n   Two students are both named &#x27;Alex Smith.&#x27; How does the database tell them apart?\n   ✅ By their PRIMARY KEY — usually a unique student ID number. No two rows share the same primary key.\n\nQ4. [SC.8.PE.2.4]\n   What is SQL?\n   ✅ Structured Query Language — the most common language for asking databases questions, invented at IBM in the 1970s\n\nQ5. [SC.K12.CTR.6.1]\n   Instagram has 2 billion users. Why don&#x27;t they store all their data in a Google Sheet?\n   ✅ A 2-billion-row spreadsheet would be unreadable, slow, and crash. Databases scale to billions of rows AND let millions of users read/write simultaneously.\n\n</pre>"
+  },
+  {
+   "id": "p_tr_w28_key",
+   "title": "Week 28 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 28 Quiz — Object-Oriented Programming Intro\n================================================\n\nQ1. [SC.8.PE.3.2]\n   Which of the following BEST describes Object-Oriented Programming?\n   ✅ A way of organizing code by bundling related data and the actions that work on it into reusable &#x27;objects&#x27;\n\nQ2. [SC.8.PE.3.2]\n   Which BEST describes the difference between a class and an object?\n   ✅ A class is the BLUEPRINT for a kind of thing; an object (instance) is an actual thing built from that blueprint\n\nQ3. [SC.8.PE.3.2]\n   In a Player class, which of these is an ATTRIBUTE?\n   ✅ name — a string of text the player is known by\n\nQ4. [SC.8.PE.3.2]\n   In a Player class, which of these is a METHOD?\n   ✅ level_up() — an action that increases the player&#x27;s level\n\nQ5. [SC.K12.CTR.6.1]\n   You&#x27;re building a game with 50 enemy types, each with different stats and abilities. Which approach fits BEST?\n   ✅ Object-oriented — define an Enemy base class and one class per enemy type, using inheritance for shared behavior\n\n</pre>"
+  },
+  {
+   "id": "p_tr_w29_key",
+   "title": "Week 29 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 29 Quiz — VR Science Simulations\n=====================================\n\nQ1. [SC.8.PE.3.1]\n   Which BEST describes a simulation?\n   ✅ A computer model of a real-world process you can study safely and repeatedly\n\nQ2. [SC.8.PE.3.1]\n   You want to study what&#x27;s inside an active volcano. Which &#x27;why VR&#x27; category fits?\n   ✅ Too dangerous — real exploration could injure or kill. VR removes the risk.\n\nQ3. [SC.8.PE.3.1]\n   You want to walk inside a single human cell. Which &#x27;why VR&#x27; category fits?\n   ✅ Too small — cells need electron microscopes to even see, and you can&#x27;t walk into one. VR shrinks you down.\n\nQ4. [SC.8.PE.2.3]\n   A VR heart simulation shows blood flowing the WRONG direction through the chambers. What&#x27;s the issue?\n   ✅ Violates the ACCURATE trait — the model must match real science, or it teaches incorrect concepts confidently\n\nQ5. [SC.K12.CTR.7.1]\n   Which is the MOST accurate framing of VR simulations vs real labs?\n   ✅ Each has strengths — VR for impossible/dangerous things, real labs for hands-on skills. Use both for the right purposes.\n\n</pre>"
+  },
+  {
+   "id": "p_tr_w30_key",
+   "title": "Week 30 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 30 Quiz — Model Trade-offs\n===============================\n\nQ1. [SC.8.PE.3.3]\n   Statistician George Box famously said: &#x27;All models are ____, but some are useful.&#x27; What word fills the blank?\n   ✅ wrong — every model is a simplified version of reality, leaving things out on purpose\n\nQ2. [SC.8.PE.3.3]\n   A virus model predicts a slow infection rate. The real virus spreads much faster because people panic-buy and crowd into stores. What category did the model leave out?\n   ✅ Human factors — behavior, decisions, emotions. Human behavior often changes outcomes more than the underlying science.\n\nQ3. [SC.K12.CTR.7.1]\n   A financial model in 2007 assumed housing prices would NEVER drop nationwide. In 2008, they did, and the model&#x27;s predictions catastrophically failed. What kind of error?\n   ✅ Dangerous oversimplification — the model excluded a possibility that turned out to dominate the outcome\n\nQ4. [MA.K12.MTR.5.1]\n   Why is the TESTABLE PREDICTIONS trait so important for honest models?\n   ✅ Testable predictions let you check whether the model is actually right against future reality\n\nQ5. [MA.K12.MTR.7.1]\n   You see an AI claim &#x27;I am 99% confident X will happen&#x27; without any disclosure. Which question should you ask FIRST?\n   ✅ What&#x27;s the scope, what was left out, and how would I know if the model is wrong? The three audit questions from this week.\n\n</pre>"
+  },
+  {
+   "id": "p_w31_reading",
+   "title": "Week 31 — Software Development Lifecycle",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 31 — Software Development Lifecycle</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-31-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-31-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 31 — Software Development Lifecycle\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_w32_reading",
+   "title": "Week 32 — Design Thinking & User Research",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 32 — Design Thinking &amp; User Research</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-32-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-32-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 32 — Design Thinking &amp; User Research\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_w33_reading",
+   "title": "Week 33 — Collaborative Coding Simulation",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 33 — Collaborative Coding Simulation</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-33-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-33-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 33 — Collaborative Coding Simulation\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_w34_reading",
+   "title": "Week 34 — Iterative Improvement & Versioning",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 34 — Iterative Improvement &amp; Versioning</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-34-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-34-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 34 — Iterative Improvement &amp; Versioning\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_w35_reading",
+   "title": "Week 35 — Debugging Strategies",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 35 — Debugging Strategies</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-35-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-35-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 35 — Debugging Strategies\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_w36_reading",
+   "title": "Week 36 — Capstone Project & Course Final",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Lato',Arial,sans-serif;font-size:14px;color:#0E5568\">\n  <strong>Week 36 — Capstone Project &amp; Course Final</strong> — interactive lesson. Trouble viewing below?\n  <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-36-reading.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-36-reading.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 36 — Capstone Project &amp; Course Final\"></iframe>\n</p>"
+  },
+  {
+   "id": "p_tr_w31_key",
+   "title": "Week 31 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 31 Quiz — Software Development Lifecycle\n=============================================\n\nQ1. [SC.8.PE.4.1]\n   Which of the following BEST describes the Software Development Lifecycle (SDLC)?\n   ✅ The professional process for building software — from idea to deployed and maintained product\n\nQ2. [SC.8.PE.4.1]\n   Your team writes down what the software must do, for whom, and by when. Which SDLC stage is this?\n   ✅ Plan — requirements gathering is the planning stage. Deliverable: a list of features and constraints.\n\nQ3. [SC.8.PE.4.2]\n   You have a working prototype. You give it to 5 classmates and write down where they get stuck. Which SDLC stage?\n   ✅ Test — running real users through the prototype and gathering feedback is the test-stage deliverable\n\nQ4. [SC.8.PE.4.2]\n   A startup builds a new social-media app and expects to learn from users and pivot many times. Which SDLC variant fits BEST?\n   ✅ Agile — short 1-4 week sprints, repeat plan/build/test with adjusted requirements each cycle\n\nQ5. [MA.K12.MTR.3.1]\n   A classmate wants to build &#x27;the next Instagram with AI, AR, video calls, and 100 themes&#x27; for a 5-week capstone. What&#x27;s the BEST advice?\n   ✅ Cut scope dramatically — pick ONE small feature like &#x27;photo-with-caption&#x27; and ship that. Finishing small beats not finishing big.\n\n</pre>"
+  },
+  {
+   "id": "p_tr_w32_key",
+   "title": "Week 32 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 32 Quiz — Design Thinking &amp; User Research\n==============================================\n\nQ1. [SC.8.PE.4.2]\n   Which BEST describes design thinking?\n   ✅ A user-centered problem-solving process that starts with deep understanding of the user, not with technology or features\n\nQ2. [SC.8.PE.4.2]\n   You sit down with three 8th graders and ask them to walk you through how they currently track homework. Which design-thinking stage?\n   ✅ Empathize — interviewing real users to understand their behaviors and frustrations\n\nQ3. [SC.8.PE.4.2]\n   You&#x27;re writing &#x27;How might we help 8th graders track homework so they never miss an assignment?&#x27; Which stage?\n   ✅ Define — turning user research into a clear problem statement. The &#x27;How might we...&#x27; format is the classic.\n\nQ4. [MA.K12.MTR.4.1]\n   Your interview script asks: &#x27;Would you use an app that tracks homework?&#x27; Why is this BAD?\n   ✅ It&#x27;s a closed question that invites a polite &#x27;yes&#x27; — and it asks about your SOLUTION, not the user&#x27;s problem\n\nQ5. [ELA.K12.EE.3.1]\n   A user says one of your features confuses them. You&#x27;re confident the feature is well-designed. What&#x27;s the BEST response?\n   ✅ Believe the user, ask follow-up questions about WHY, and treat it as data for the next iteration\n\n</pre>"
+  },
+  {
+   "id": "p_tr_w33_key",
+   "title": "Week 33 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 33 Quiz — Collaborative Coding Simulation\n==============================================\n\nQ1. [SC.8.PE.4.2]\n   Which of the following BEST describes how real software is built?\n   ✅ Teams of people collaborating — writing, reviewing, and improving code together\n\nQ2. [SC.8.PE.4.2]\n   Which BEST describes pair programming?\n   ✅ Two people at one computer — one typing (Driver), one thinking ahead and catching mistakes (Navigator), switching roles every 10-20 min\n\nQ3. [SC.8.PE.4.2]\n   Your team of 5 needs to figure out a tricky new architecture decision together. Which collaboration pattern fits BEST?\n   ✅ Mob programming — whole team on one computer, one screen. Used for hard decisions where each perspective matters.\n\nQ4. [MA.K12.MTR.6.1]\n   Why is it important to switch roles (Driver and Navigator) every 10-20 minutes during pair programming?\n   ✅ Switching keeps both engaged AND ensures both understand the code. Knowledge spreads.\n\nQ5. [ELA.K12.EE.6.1]\n   Your teammate&#x27;s pull request has a bug. Which is the BEST feedback?\n   ✅ &#x27;I noticed that when the input is empty, this function might crash — could we add a check at line 12?&#x27;\n\n</pre>"
+  },
+  {
+   "id": "p_tr_w34_key",
+   "title": "Week 34 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 34 Quiz — Iterative Improvement &amp; Versioning\n=================================================\n\nQ1. [SC.8.PE.4.3]\n   Which of the following BEST describes version control?\n   ✅ A system that records every change to a project — who, when, and what — so you can review history, undo, and combine work\n\nQ2. [SC.8.PE.4.3]\n   Which BEST describes a Git commit?\n   ✅ A permanent named snapshot of your project, with a message explaining what changed and why\n\nQ3. [SC.8.PE.4.3]\n   You want to try a risky new feature WITHOUT breaking the main version. Which Git concept fits?\n   ✅ Branch — an independent line of work that doesn&#x27;t affect main until merged\n\nQ4. [MA.K12.MTR.6.1]\n   Which is the BEST commit message?\n   ✅ &#x27;Fix login form crash when password is empty&#x27;\n\nQ5. [MA.K12.MTR.3.1]\n   You&#x27;re about to push. A teammate already pushed to the same branch. What&#x27;s the BEST move?\n   ✅ Pull first to get their changes, resolve any conflicts locally, then push\n\n</pre>"
+  },
+  {
+   "id": "p_tr_w35_key",
+   "title": "Week 35 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 35 Quiz — Debugging Strategies\n===================================\n\nQ1. [SC.8.PE.4.2]\n   Which of the following BEST describes a bug in software?\n   ✅ A flaw in the code that causes incorrect behavior. Named after a moth jammed in the 1947 Harvard Mark II computer.\n\nQ2. [SC.8.PE.4.2]\n   Your code RUNS, but crashes when the user enters 0. The error: &#x27;ZeroDivisionError&#x27;. What bug category?\n   ✅ Runtime error — code that looks fine but crashes WHEN it runs, often because of unexpected values like zero\n\nQ3. [SC.8.PE.4.3]\n   Your code runs without crashing, but the average of [2, 4, 6] comes out to 6 instead of 4. What category?\n   ✅ Logic error — code runs without crashing but produces the WRONG answer. The hardest category to find because nothing visibly breaks.\n\nQ4. [MA.K12.MTR.3.1]\n   Your app crashes when a user&#x27;s name has an apostrophe (like &quot;O&#x27;Brien&quot;). A teammate says &#x27;just strip all apostrophes.&#x27; What&#x27;s wrong with that fix?\n   ✅ It&#x27;s a symptom patch. Stripping apostrophes breaks real names AND leaves the underlying string-handling bug, which will cause crashes with other special characters too.\n\nQ5. [MA.K12.MTR.6.1]\n   You fixed a bug. What&#x27;s the BEST next step before moving on?\n   ✅ Add a regression test that triggers the original bug, so if it ever comes back, you&#x27;ll know immediately\n\n</pre>"
+  },
+  {
+   "id": "p_tr_w36_key",
+   "title": "Week 36 Answer Key (teacher only)",
+   "published": false,
+   "html": "<pre style=\"white-space:pre-wrap;font-family:Consolas,monospace\">Week 36 — Course Final\n======================\n\nQ1. [SC.8.CS.2.3]\n   (Unit 1 — Digital Identity) Which BEST describes a digital footprint?\n   ✅ The complete trail of data you leave online — both active (what you post) and passive (what&#x27;s recorded automatically)\n\nQ2. [SC.8.CS.2.3]\n   (Unit 2 — Networks &amp;amp; Privacy) You&#x27;re on open coffee-shop Wi-Fi visiting https://yourbank.com. Which encryption protects you?\n   ✅ HTTPS — gives end-to-end browser-to-server encryption regardless of the underlying network\n\nQ3. [SC.8.ET.1.1]\n   (Unit 3 — Emerging Tech) Which BEST describes modern AI?\n   ✅ Computer systems that learn patterns from massive amounts of data and use those patterns to do tasks once thought to require human intelligence\n\nQ4. [SC.8.PE.1.7]\n   (Unit 4 — Programming) You need a conditional that picks one of FIVE possible outcomes based on a score. Which form fits BEST?\n   ✅ if / elif / elif / elif / else chain — built for picking ONE outcome from many\n\nQ5. [SC.8.PE.2.5]\n   (Unit 5 — Data &amp;amp; Simulation) Why doesn&#x27;t Instagram store all 2 billion users&#x27; data in a Google Sheet?\n   ✅ A 2-billion-row spreadsheet would be unreadable, slow, and crash. Databases scale to billions AND let millions of users read/write simultaneously.\n\n</pre>"
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a_w19_activity",
+   "title": "Week 19 Activity — Decompose & Pseudocode",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-19-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-19-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 19 Activity — Decompose &amp; Pseudocode\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_w20_activity",
+   "title": "Week 20 Activity — Flowchart Symbols & Paths",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-20-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-20-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 20 Activity — Flowchart Symbols &amp; Paths\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_w21_activity",
+   "title": "Week 21 Activity — Variables & Expressions",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-21-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-21-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 21 Activity — Variables &amp; Expressions\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_w22_activity",
+   "title": "Week 22 Activity — Conditionals Drill",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-22-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-22-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 22 Activity — Conditionals Drill\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_w23_activity",
+   "title": "Week 23 Activity — Loops Drill",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-23-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-23-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 23 Activity — Loops Drill\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_w24_activity",
+   "title": "Week 24 Activity — Functions & Mini-App Calls",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-24-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/week-24-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 24 Activity — Functions &amp; Mini-App Calls\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_u4_vr",
+   "title": "Unit 4 VR Build — Algorithm Arcade (Arthur VR)",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this VR build</h2>\n<ol>\n  <li>Read the full build instructions below and create your space in <strong>Arthur (VR)</strong>. Plan on about <strong>20&ndash;30 minutes</strong>.</li>\n  <li><strong>No headset?</strong> Do the <strong>no-VR version</strong> described in the instructions (a slide or short doc) &mdash; it earns the same credit.</li>\n  <li>Submit your work however you like &mdash; <strong>record a video</strong> of your walkthrough, <strong>upload a file</strong> (your slide/doc or a screen recording), or <strong>type</strong> a link to it.</li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the instructions? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/unit-4-vr-algorithm-arcade.html\" target=\"_blank\" rel=\"noopener\">Open them in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit4/unit-4-vr-algorithm-arcade.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Unit 4 VR Build — Algorithm Arcade (Arthur VR)\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_w25_activity",
+   "title": "Week 25 Activity — Data Collection Calls",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-25-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-25-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 25 Activity — Data Collection Calls\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_w26_activity",
+   "title": "Week 26 Activity — Sheets & Chart Calls",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-26-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-26-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 26 Activity — Sheets &amp; Chart Calls\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_w27_activity",
+   "title": "Week 27 Activity — Database Vocabulary & Queries",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-27-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-27-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 27 Activity — Database Vocabulary &amp; Queries\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_w28_activity",
+   "title": "Week 28 Activity — OOP Vocabulary & Class Design",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-28-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-28-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 28 Activity — OOP Vocabulary &amp; Class Design\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_w29_activity",
+   "title": "Week 29 Activity — Simulation Scenarios",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-29-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-29-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 29 Activity — Simulation Scenarios\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_w30_activity",
+   "title": "Week 30 Activity — Model Audit",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-30-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/week-30-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 30 Activity — Model Audit\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_u5_vr",
+   "title": "Unit 5 VR Build — Data Observatory (Arthur VR)",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this VR build</h2>\n<ol>\n  <li>Read the full build instructions below and create your space in <strong>Arthur (VR)</strong>. Plan on about <strong>20&ndash;30 minutes</strong>.</li>\n  <li><strong>No headset?</strong> Do the <strong>no-VR version</strong> described in the instructions (a slide or short doc) &mdash; it earns the same credit.</li>\n  <li>Submit your work however you like &mdash; <strong>record a video</strong> of your walkthrough, <strong>upload a file</strong> (your slide/doc or a screen recording), or <strong>type</strong> a link to it.</li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the instructions? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/unit-5-vr-data-observatory.html\" target=\"_blank\" rel=\"noopener\">Open them in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit5/unit-5-vr-data-observatory.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Unit 5 VR Build — Data Observatory (Arthur VR)\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_w31_activity",
+   "title": "Week 31 Activity — SDLC Stages & Choices",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-31-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-31-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 31 Activity — SDLC Stages &amp; Choices\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_w32_activity",
+   "title": "Week 32 Activity — User Research Calls",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-32-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-32-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 32 Activity — User Research Calls\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_w33_activity",
+   "title": "Week 33 Activity — Team Coding Calls",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-33-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-33-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 33 Activity — Team Coding Calls\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_w34_activity",
+   "title": "Week 34 Activity — Git Basics Drill",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-34-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-34-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 34 Activity — Git Basics Drill\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_w35_activity",
+   "title": "Week 35 Activity — Debug the Bug",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-35-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-35-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 35 Activity — Debug the Bug\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_w36_activity",
+   "title": "Week 36 Activity — Capstone Submission Audit",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this activity</h2>\n<ol>\n  <li>Play the interactive activity below until you finish all rounds and see your final score.</li>\n  <li>Submit your work however you like — <strong>type it in</strong>, <strong>record a video/audio</strong>, or <strong>upload a file</strong>. Include:\n    <ul>\n      <li>Your final score / XP.</li>\n      <li>A 2–3 sentence reflection: what you learned and one thing that surprised you.</li>\n    </ul>\n  </li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the activity? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-36-activity.html\" target=\"_blank\" rel=\"noopener\">Open it in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/week-36-activity.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Week 36 Activity — Capstone Submission Audit\"></iframe>\n</p>"
+  },
+  {
+   "id": "a_u6_vr",
+   "title": "Unit 6 VR Build — Capstone Showcase (Arthur VR)",
+   "points": 10,
+   "group": "ag_activities",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true,
+   "html": "<h2>How to complete this VR build</h2>\n<ol>\n  <li>Read the full build instructions below and create your space in <strong>Arthur (VR)</strong>. Plan on about <strong>20&ndash;30 minutes</strong>.</li>\n  <li><strong>No headset?</strong> Do the <strong>no-VR version</strong> described in the instructions (a slide or short doc) &mdash; it earns the same credit.</li>\n  <li>Submit your work however you like &mdash; <strong>record a video</strong> of your walkthrough, <strong>upload a file</strong> (your slide/doc or a screen recording), or <strong>type</strong> a link to it.</li>\n  <li>Click <strong>Submit Assignment</strong>.</li>\n</ol>\n<p style=\"margin-top:16px;font-size:14px;color:#0E5568\">\n  Trouble seeing the instructions? <a href=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/unit-6-vr-capstone-showcase.html\" target=\"_blank\" rel=\"noopener\">Open them in a new tab</a>.\n</p>\n<p>\n  <iframe src=\"https://facevedoOE.github.io/oao-digital-discoveries-gr8/Unit6/unit-6-vr-capstone-showcase.html\"\n          width=\"100%\"\n          height=\"900\"\n          frameborder=\"0\"\n          allowfullscreen=\"allowfullscreen\"\n          allow=\"fullscreen\"\n          loading=\"lazy\"\n          style=\"border:0;width:100%;min-height:900px;display:block\"\n          title=\"Unit 6 VR Build — Capstone Showcase (Arthur VR)\"></iframe>\n</p>"
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q_w19",
+   "title": "Week 19 Quiz — Decomposition & Pseudocode",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following <strong>BEST</strong> describes <strong>decomposition</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Translating English into Python",
+       "correct": false,
+       "feedback": "<p>❌ That's translation. Decomposition happens BEFORE translation — it's the planning step.</p>"
+      },
+      {
+       "text": "Breaking a big problem into smaller manageable subproblems you can solve one at a time",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Decomposition is the first move of computational thinking. Cooks, architects, engineers, and programmers all use it.</p>"
+      },
+      {
+       "text": "Deleting old code",
+       "correct": false,
+       "feedback": "<p>❌ Decomposition isn't about deletion. It's a planning move.</p>"
+      },
+      {
+       "text": "A decoration style for websites",
+       "correct": false,
+       "feedback": "<p>❌ Different concept entirely. Decomposition is about breaking problems down.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You decompose a soccer team into goalkeeper, defenders, midfielders, and attackers. Which decomposition <strong>strategy</strong> is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "By step — sequence of ordered actions",
+       "correct": false,
+       "feedback": "<p>❌ Steps are time-ordered actions. Soccer positions are different actors.</p>"
+      },
+      {
+       "text": "By role — different actors doing different parts of the same job",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> By role decomposition. Each position has its own subproblems. Standard for team-based or actor-based situations.</p>"
+      },
+      {
+       "text": "By feature",
+       "correct": false,
+       "feedback": "<p>❌ Features are software components. These are roles.</p>"
+      },
+      {
+       "text": "By data",
+       "correct": false,
+       "feedback": "<p>❌ Data is information. These are people-based roles.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following <strong>BEST</strong> describes <strong>pseudocode</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A specific programming language with strict syntax",
+       "correct": false,
+       "feedback": "<p>❌ That's real code. Pseudocode has no fixed syntax.</p>"
+      },
+      {
+       "text": "A plain-language plan for an algorithm — readable by anyone, no specific programming syntax required",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Pseudocode is the planning step between idea and real code. Anyone can review it, including non-programmers.</p>"
+      },
+      {
+       "text": "Code that pretends to be real but doesn't run",
+       "correct": false,
+       "feedback": "<p>❌ Pseudocode isn't pretending — it's deliberately language-agnostic for the planning stage.</p>"
+      },
+      {
+       "text": "The first draft of a finished program",
+       "correct": false,
+       "feedback": "<p>❌ Pseudocode is the PLAN, not a draft of code. Real code comes after pseudocode is reviewed.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><strong>Why</strong> do professional engineers write pseudocode before writing real code on non-trivial problems?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "There's no good reason — it's a waste of time",
+       "correct": false,
+       "feedback": "<p>❌ Senior engineers spend MORE time planning, not less. The 5-15 minutes of pseudocode saves hours of debugging.</p>"
+      },
+      {
+       "text": "Pseudocode catches logic errors before syntax errors AND lets non-programmers review the plan. Both are major productivity wins.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Logic errors are way harder to find buried in syntax. And pseudocode is the only stage where non-programmers can meaningfully review.</p>"
+      },
+      {
+       "text": "Pseudocode is required by law",
+       "correct": false,
+       "feedback": "<p>❌ It's a professional best practice, not a legal requirement.</p>"
+      },
+      {
+       "text": "Real code is slower to type",
+       "correct": false,
+       "feedback": "<p>❌ Real code is fast to type once the plan is solid. Pseudocode provides the plan.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>An <strong>edge case</strong> in pseudocode is best described as:</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The most common normal use of the program",
+       "correct": false,
+       "feedback": "<p>❌ The common case is the happy path. Edge cases are the unusual ones.</p>"
+      },
+      {
+       "text": "An unusual input or situation that could break your plan — empty input, wrong type, way-too-large numbers, missing data",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Edge cases are where bugs love to hide. Listing them in pseudocode catches most of them before they become real bugs.</p>"
+      },
+      {
+       "text": "A type of font",
+       "correct": false,
+       "feedback": "<p>❌ Different concept entirely. Edge cases are about input handling.</p>"
+      },
+      {
+       "text": "The corner of the screen",
+       "correct": false,
+       "feedback": "<p>❌ Screen position isn't what 'edge case' means in programming. It refers to unusual inputs.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_w20",
+   "title": "Week 20 Quiz — Flowcharts & Algorithm Design",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following <strong>BEST</strong> describes a <strong>flowchart</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A bar chart showing program data",
+       "correct": false,
+       "feedback": "<p>❌ Bar charts show data values. Flowcharts show the steps of an algorithm.</p>"
+      },
+      {
+       "text": "A visual diagram of an algorithm using standard shapes connected by arrows",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Flowcharts show the structure of an algorithm. Same logic as pseudocode, different format. Branches and paths become visible at a glance.</p>"
+      },
+      {
+       "text": "A spreadsheet of grades",
+       "correct": false,
+       "feedback": "<p>❌ Spreadsheets store data. Flowcharts show algorithm structure.</p>"
+      },
+      {
+       "text": "A type of website color scheme",
+       "correct": false,
+       "feedback": "<p>❌ Different concept entirely.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which flowchart symbol represents a <strong>YES/NO decision</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Oval",
+       "correct": false,
+       "feedback": "<p>❌ Ovals mark START and END.</p>"
+      },
+      {
+       "text": "Diamond — always has TWO arrows leaving it (one for YES, one for NO)",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The diamond is the decision symbol. Every diamond must have both YES and NO arrows.</p>"
+      },
+      {
+       "text": "Parallelogram",
+       "correct": false,
+       "feedback": "<p>❌ Parallelograms represent input/output, not decisions.</p>"
+      },
+      {
+       "text": "Rectangle",
+       "correct": false,
+       "feedback": "<p>❌ Rectangles represent processes (actions), not decisions.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which flowchart symbol represents <strong>INPUT or OUTPUT</strong> (data crossing into or out of the program)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Rectangle (process)",
+       "correct": false,
+       "feedback": "<p>❌ Rectangles are for internal actions, not data crossing the boundary.</p>"
+      },
+      {
+       "text": "Parallelogram — getting user input, reading a sensor, displaying a result, saving to a file",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Parallelograms specifically represent the boundaries where data crosses into or out of the program.</p>"
+      },
+      {
+       "text": "Oval",
+       "correct": false,
+       "feedback": "<p>❌ Ovals are for START/END.</p>"
+      },
+      {
+       "text": "Triangle",
+       "correct": false,
+       "feedback": "<p>❌ Triangles aren't a standard flowchart symbol.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>An algorithm that converts Celsius to Fahrenheit follows the same exact steps every time. What flowchart <strong>shape</strong> is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Branching — many decision diamonds",
+       "correct": false,
+       "feedback": "<p>❌ Same steps every time = no decisions needed. That's linear.</p>"
+      },
+      {
+       "text": "Linear — same steps every time, no decisions. Rectangles in a row from START to END.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Celsius-to-Fahrenheit is the textbook linear example. Multiply, add, done.</p>"
+      },
+      {
+       "text": "Random",
+       "correct": false,
+       "feedback": "<p>❌ Algorithms aren't random — they're linear or branching.</p>"
+      },
+      {
+       "text": "Recursive",
+       "correct": false,
+       "feedback": "<p>❌ Not a standard flowchart-shape category. The relevant distinction is linear vs branching.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your friend's flowchart has a diamond labeled \"IS IT RAINING?\" with <strong>only ONE arrow</strong> leaving it. What's the issue?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Diamonds should only have one arrow leaving",
+       "correct": false,
+       "feedback": "<p>❌ Diamonds must always have TWO arrows — YES and NO.</p>"
+      },
+      {
+       "text": "Every decision diamond must have TWO arrows — one for YES and one for NO. A one-arrow diamond is a broken flowchart.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The whole point of a diamond is the split. Without two arrows, it's not a real decision. One of the most common flowchart mistakes.</p>"
+      },
+      {
+       "text": "The label should be in lowercase",
+       "correct": false,
+       "feedback": "<p>❌ Capitalization isn't the issue.</p>"
+      },
+      {
+       "text": "Diamonds aren't used anymore in modern flowcharts",
+       "correct": false,
+       "feedback": "<p>❌ Diamonds are still the standard decision symbol.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_w21",
+   "title": "Week 21 Quiz — Variables, Data Types & Expressions",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following <strong>BEST</strong> describes a <strong>variable</strong> in programming?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A math problem",
+       "correct": false,
+       "feedback": "<p>❌ A variable isn't a problem — it's a labeled storage location.</p>"
+      },
+      {
+       "text": "A named storage location that holds a value the program can read or change",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Variables are labeled boxes. You put a value in, give it a name, and use the name throughout the program.</p>"
+      },
+      {
+       "text": "A type of bug in code",
+       "correct": false,
+       "feedback": "<p>❌ Different concept. Variables are core building blocks; bugs are mistakes.</p>"
+      },
+      {
+       "text": "An HTML tag",
+       "correct": false,
+       "feedback": "<p>❌ HTML tags are part of web pages. Variables are part of programs.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which value would BEST be stored as a <strong>string</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "42 (a whole number)",
+       "correct": false,
+       "feedback": "<p>❌ 42 is an integer, not a string.</p>"
+      },
+      {
+       "text": "\"Welcome to school!\" (text wrapped in quotes)",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Strings hold text — letters, words, sentences. Always wrapped in quotes.</p>"
+      },
+      {
+       "text": "True",
+       "correct": false,
+       "feedback": "<p>❌ True is a boolean. Strings are text in quotes.</p>"
+      },
+      {
+       "text": "3.14",
+       "correct": false,
+       "feedback": "<p>❌ 3.14 is a float (decimal number), not a string.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which value would BEST be stored as a <strong>boolean</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "100",
+       "correct": false,
+       "feedback": "<p>❌ 100 is a number. Booleans hold only True or False.</p>"
+      },
+      {
+       "text": "\"yes\" (with quotes)",
+       "correct": false,
+       "feedback": "<p>❌ \"yes\" with quotes is a string. Booleans are the literal values True or False, no quotes.</p>"
+      },
+      {
+       "text": "True (the user is logged in)",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Booleans hold exactly True or False — the foundation of yes/no logic in any program.</p>"
+      },
+      {
+       "text": "\"True\" (the word in quotes)",
+       "correct": false,
+       "feedback": "<p>❌ \"True\" with quotes is a string. The boolean is True (no quotes). Subtle but important difference.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What's the difference between <code>=</code> and <code>==</code> in code?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "They mean the same thing",
+       "correct": false,
+       "feedback": "<p>❌ Different operators, different jobs. Confusing them is one of the most common beginner bugs.</p>"
+      },
+      {
+       "text": "= is assignment (\"put this value into the variable\"); == is comparison (\"is the left side equal to the right side?\")",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Single equals sets a value. Double equals asks a question. x=5 sets x to 5. x==5 asks \"does x equal 5?\"</p>"
+      },
+      {
+       "text": "= compares; == assigns",
+       "correct": false,
+       "feedback": "<p>❌ Backwards. = assigns; == compares.</p>"
+      },
+      {
+       "text": "== is no longer used in modern code",
+       "correct": false,
+       "feedback": "<p>❌ Both are still essential. They just do different jobs.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following is the <strong>BEST</strong> variable name for storing a player's current score?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "x (a single letter)",
+       "correct": false,
+       "feedback": "<p>❌ Too short and meaningless. A reviewer has no idea what x represents.</p>"
+      },
+      {
+       "text": "current_score (descriptive, lowercase, underscores)",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Descriptive, follows Python convention (lowercase + underscores), perfect length.</p>"
+      },
+      {
+       "text": "the_current_score_of_the_player_in_this_round (very long)",
+       "correct": false,
+       "feedback": "<p>❌ Too long. Hard to type, slow to read.</p>"
+      },
+      {
+       "text": "TheScore (mixed case, no underscore)",
+       "correct": false,
+       "feedback": "<p>❌ Not the standard convention in Python and most languages. Use lowercase with underscores.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_w22",
+   "title": "Week 22 Quiz — Conditionals (if/else)",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following BEST describes a <strong>conditional</strong> in programming?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Code that always runs the same way",
+       "correct": false,
+       "feedback": "<p>❌ That's linear code. Conditionals make decisions.</p>"
+      },
+      {
+       "text": "Code that runs only when a specific condition is true — the if/else statement",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Conditionals are how programs make decisions. Same idea as the decision diamond from Week 20 flowcharts, written in code.</p>"
+      },
+      {
+       "text": "A type of variable",
+       "correct": false,
+       "feedback": "<p>❌ Variables store values. Conditionals make decisions.</p>"
+      },
+      {
+       "text": "A data type",
+       "correct": false,
+       "feedback": "<p>❌ Conditionals are about logic, not data types.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You need to assign letter grades A, B, C, D, F based on a score. Which conditional <strong>form</strong> fits best?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Simple if (no else, no elif)",
+       "correct": false,
+       "feedback": "<p>❌ Simple if only handles one case. Five grades = five cases.</p>"
+      },
+      {
+       "text": "if / elif / elif / elif / else — five branches, one for each grade",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> if/elif/else is built for picking ONE outcome from many. Cleanest fit for letter grades.</p>"
+      },
+      {
+       "text": "Nested if four levels deep",
+       "correct": false,
+       "feedback": "<p>❌ Possible but messy. The if/elif chain is cleaner.</p>"
+      },
+      {
+       "text": "No conditional needed",
+       "correct": false,
+       "feedback": "<p>❌ Choosing between five different grades requires conditional logic.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You want access ONLY if the user is logged in AND at least 18 years old. Which <strong>combinator</strong> fits?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "OR — at least one must be true",
+       "correct": false,
+       "feedback": "<p>❌ OR would allow anyone with EITHER condition. The text says BOTH are required.</p>"
+      },
+      {
+       "text": "AND — both conditions must be true simultaneously",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> AND is the strict combinator. Both must be true. Use it when ALL criteria are required.</p>"
+      },
+      {
+       "text": "ELSE",
+       "correct": false,
+       "feedback": "<p>❌ ELSE is a branch keyword, not a combinator.</p>"
+      },
+      {
+       "text": "ELIF",
+       "correct": false,
+       "feedback": "<p>❌ ELIF chains conditions, not combines them within one. Use AND for combining.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A classmate writes: 'If today is a weekend AND a holiday, school is closed.' What's wrong?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Nothing — the logic is correct",
+       "correct": false,
+       "feedback": "<p>❌ Many holidays fall on weekdays. The AND would only close school for holidays that happen ON weekends.</p>"
+      },
+      {
+       "text": "Should be OR — school is closed if today is a weekend OR a holiday. AND is too narrow.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Classic AND/OR confusion bug. Either condition should close school. The wrong combinator silently does the wrong thing.</p>"
+      },
+      {
+       "text": "Should use nested if",
+       "correct": false,
+       "feedback": "<p>❌ Nesting wouldn't fix the AND/OR issue. The combinator is wrong.</p>"
+      },
+      {
+       "text": "Should use a list instead",
+       "correct": false,
+       "feedback": "<p>❌ Lists store values; they don't make decisions. The fix is changing AND to OR.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your code has if statements nested <strong>6 levels deep</strong>. What's the BEST advice?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Add more nesting",
+       "correct": false,
+       "feedback": "<p>❌ More nesting makes it worse. 6 levels is already a code smell.</p>"
+      },
+      {
+       "text": "Refactor — combine conditions with AND, extract helpers, or restructure. Senior engineers see 4+ levels and immediately rework the logic.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Heavy nesting is one of the clearest code smells. 2 levels is fine; 3 is the warning zone; 6 needs to be flattened.</p>"
+      },
+      {
+       "text": "Nesting doesn't matter",
+       "correct": false,
+       "feedback": "<p>❌ Nesting absolutely matters for readability and bug risk. Code review would flag it.</p>"
+      },
+      {
+       "text": "Delete all the conditionals",
+       "correct": false,
+       "feedback": "<p>❌ Deleting conditionals loses the program's logic. Refactor, don't delete.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_w23",
+   "title": "Week 23 Quiz — Loops",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following BEST describes a <strong>loop</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Code that runs exactly once",
+       "correct": false,
+       "feedback": "<p>❌ That's just normal code. A loop specifically REPEATS.</p>"
+      },
+      {
+       "text": "Code that repeats — runs the same block multiple times until a stop condition is met",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Loops are repetition. They're how programs scale to lots of data, run game frames, and retry operations.</p>"
+      },
+      {
+       "text": "A type of variable",
+       "correct": false,
+       "feedback": "<p>❌ Variables store; loops repeat.</p>"
+      },
+      {
+       "text": "An error",
+       "correct": false,
+       "feedback": "<p>❌ Loops are intentional, not errors.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You need to print \"hello\" exactly <strong>10 times</strong>. Which loop type fits BEST?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "while — keep going until the user says stop",
+       "correct": false,
+       "feedback": "<p>❌ while is for unknown-length repetition. You know exactly 10 — use for-count.</p>"
+      },
+      {
+       "text": "for-count — for i in range(10): runs the body exactly 10 times",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> for-count is the textbook choice when you know the exact count.</p>"
+      },
+      {
+       "text": "Infinite loop",
+       "correct": false,
+       "feedback": "<p>❌ Infinite loops are bugs, not solutions.</p>"
+      },
+      {
+       "text": "do-while",
+       "correct": false,
+       "feedback": "<p>❌ do-while is for when you want at least one run before checking. Not the most natural choice for a known count.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You want to keep asking for a password <strong>until the user enters the correct one</strong>. Which loop type fits BEST?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "for-count — run 10 times then stop",
+       "correct": false,
+       "feedback": "<p>❌ for-count is for KNOWN counts. You don't know how many tries.</p>"
+      },
+      {
+       "text": "while — keep asking until the condition (correct password) is met",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> while is the right tool when you don't know the count in advance. Repeat until something happens.</p>"
+      },
+      {
+       "text": "Infinite loop",
+       "correct": false,
+       "feedback": "<p>❌ An infinite loop wouldn't stop even when they got it right.</p>"
+      },
+      {
+       "text": "if statement",
+       "correct": false,
+       "feedback": "<p>❌ if only checks once. You need to repeat checking — that's a loop.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your code says <code>while count &lt; 10: print(count)</code> but never updates <code>count</code> inside the body. What happens?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It works fine",
+       "correct": false,
+       "feedback": "<p>❌ count never changes, so the condition stays true forever. Classic infinite loop.</p>"
+      },
+      {
+       "text": "Infinite loop — the condition stays true forever because count never changes, and the program freezes",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Every while loop body MUST update something that moves toward the stop condition.</p>"
+      },
+      {
+       "text": "The program runs once and exits",
+       "correct": false,
+       "feedback": "<p>❌ It doesn't exit on its own. The condition stays true.</p>"
+      },
+      {
+       "text": "Python automatically fixes it",
+       "correct": false,
+       "feedback": "<p>❌ Python doesn't auto-fix loops. You have to write a correct stop condition yourself.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You write <code>for i in range(10):</code> — how many <strong>iterations</strong> does the loop run?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "11 — values 0 through 10 inclusive",
+       "correct": false,
+       "feedback": "<p>❌ range(10) does NOT include 10. The off-by-one trap.</p>"
+      },
+      {
+       "text": "10 — i takes values 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 (not including 10)",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> range(10) starts at 0 and stops BEFORE 10. Ten iterations total. Forgetting that range is exclusive of the end is the most common off-by-one bug.</p>"
+      },
+      {
+       "text": "9",
+       "correct": false,
+       "feedback": "<p>❌ Ten iterations, not nine. Off-by-one in the other direction.</p>"
+      },
+      {
+       "text": "1",
+       "correct": false,
+       "feedback": "<p>❌ Way fewer than 10 iterations. range(10) runs 10 times.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_w24",
+   "title": "Week 24 Quiz — Functions & App Prototyping",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following BEST describes a <strong>function</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A type of variable",
+       "correct": false,
+       "feedback": "<p>❌ Variables store values. Functions are reusable blocks of CODE.</p>"
+      },
+      {
+       "text": "A named, reusable block of code — defined once, called many times — that takes inputs, does work, and optionally returns a value",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Functions are the fundamental building block of every real program.</p>"
+      },
+      {
+       "text": "A type of error",
+       "correct": false,
+       "feedback": "<p>❌ Functions are the structure of programs, not errors.</p>"
+      },
+      {
+       "text": "Another word for an if statement",
+       "correct": false,
+       "feedback": "<p>❌ if statements are conditionals. Functions package reusable code.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In <code>def calculate_tip(total, rate):</code> — what does <code>(total, rate)</code> represent?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The function's name",
+       "correct": false,
+       "feedback": "<p>❌ The name is calculate_tip. (total, rate) are the parameters.</p>"
+      },
+      {
+       "text": "The parameters — the inputs the function expects when you call it",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> total and rate are parameters. When you call the function, actual values (arguments) get assigned to these names.</p>"
+      },
+      {
+       "text": "A return value",
+       "correct": false,
+       "feedback": "<p>❌ Return values are sent back FROM the function, not provided as input.</p>"
+      },
+      {
+       "text": "A list of all variables in the program",
+       "correct": false,
+       "feedback": "<p>❌ Just the inputs for this specific function, not the whole program.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following is a Python <strong>BUILT-IN</strong> function?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "calculate_tip(total, rate)",
+       "correct": false,
+       "feedback": "<p>❌ Custom function — you'd have to define it yourself.</p>"
+      },
+      {
+       "text": "print() — comes with Python, no def required",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> print, len, sum, max, min, input, etc. are built-in. They ship with the language.</p>"
+      },
+      {
+       "text": "send_email(to, body)",
+       "correct": false,
+       "feedback": "<p>❌ Custom. Sending email requires custom logic.</p>"
+      },
+      {
+       "text": "add_assignment(name)",
+       "correct": false,
+       "feedback": "<p>❌ Custom — specific to a homework tracker app you'd be writing.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your function <code>calculate_grade</code> also sends emails AND writes to a database. What's the BEST description of the problem?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Nothing is wrong — multi-purpose functions are fine",
+       "correct": false,
+       "feedback": "<p>❌ Multi-purpose functions are a code smell — hard to test, hard to reuse.</p>"
+      },
+      {
+       "text": "Violates single-purpose: the function does THREE things. Split it into calculate_grade, send_grade_email, and save_grade_to_db.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> One function = one job. If you can't summarize the function in one verb, it's doing too much.</p>"
+      },
+      {
+       "text": "The function name is too short",
+       "correct": false,
+       "feedback": "<p>❌ The name is fine. The issue is doing too many things.</p>"
+      },
+      {
+       "text": "It needs more print statements",
+       "correct": false,
+       "feedback": "<p>❌ Print statements don't fix the structural problem.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're prototyping a <strong>homework tracker app</strong>. Which is the BEST initial decomposition into functions?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "One giant function called do_everything()",
+       "correct": false,
+       "feedback": "<p>❌ Single function = no decomposition. You lose every benefit of functions.</p>"
+      },
+      {
+       "text": "Four small functions: add_assignment, list_assignments, mark_done, show_summary — each does one thing",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Decompose into single-purpose functions. Each is small, testable, and reusable. Glue them together in a tiny main() = working prototype.</p>"
+      },
+      {
+       "text": "No functions at all",
+       "correct": false,
+       "feedback": "<p>❌ Same problem as do_everything() — no organization, no reuse.</p>"
+      },
+      {
+       "text": "Twenty-five one-line functions",
+       "correct": false,
+       "feedback": "<p>❌ Going too small breaks functions into noise. The sweet spot is meaningful chunks.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_w25",
+   "title": "Week 25 Quiz — Data Collection & Logging",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following BEST describes <strong>data collection</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Deleting old data to save space",
+       "correct": false,
+       "feedback": "<p>❌ Deletion isn't collection. Collection gathers data.</p>"
+      },
+      {
+       "text": "The process of gathering raw information so it can be analyzed later — the first stage of every data project",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Collection is stage one — and where most data-quality problems start.</p>"
+      },
+      {
+       "text": "Charting data after analysis is done",
+       "correct": false,
+       "feedback": "<p>❌ Charting is visualization, not collection.</p>"
+      },
+      {
+       "text": "Encrypting data for security",
+       "correct": false,
+       "feedback": "<p>❌ Encryption protects data. Collection gathers it.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You want to know how 8th graders <strong>FEEL</strong> about a new lunch menu. Which data source fits BEST?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Sensor — measure cafeteria temperature",
+       "correct": false,
+       "feedback": "<p>❌ Sensors measure physical readings, not feelings.</p>"
+      },
+      {
+       "text": "Survey — ask students directly, record their opinions",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Surveys are purpose-built for opinions and self-reports.</p>"
+      },
+      {
+       "text": "System log — count cafeteria logins",
+       "correct": false,
+       "feedback": "<p>❌ Logins don't reveal opinions.</p>"
+      },
+      {
+       "text": "Public dataset — search government data",
+       "correct": false,
+       "feedback": "<p>❌ No public dataset has 8th-grader opinions about YOUR specific school's new menu.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're tracking how long 30 students play a math game daily for 30 days. Which <strong>logging</strong> approach fits BEST?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Manual — students write their times in a notebook",
+       "correct": false,
+       "feedback": "<p>❌ Error-prone at 900 entries. Students forget or exaggerate.</p>"
+      },
+      {
+       "text": "Automated — let the game's software log start/stop times with timestamps",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> High-volume, repetitive data fits automated logging. Software captures every event with timestamps.</p>"
+      },
+      {
+       "text": "No logging — just remember",
+       "correct": false,
+       "feedback": "<p>❌ Memory fails after a few days.</p>"
+      },
+      {
+       "text": "Take notes in a paper notebook",
+       "correct": false,
+       "feedback": "<p>❌ Same problem as manual — too many entries for handwritten tracking.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your spreadsheet has dates in three formats: '5/2/2026', 'May 2, 2026', '2026-05-02'. What's the issue?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "No issue — dates work in any format",
+       "correct": false,
+       "feedback": "<p>❌ Mixed formats are a major data-quality problem.</p>"
+      },
+      {
+       "text": "Inconsistent date formats — pick ONE (ISO 8601 \"YYYY-MM-DD\" is best) and stick to it everywhere",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Consistency is the single biggest factor in clean data. Mixed formats break sorting and analysis.</p>"
+      },
+      {
+       "text": "All three should be in different columns",
+       "correct": false,
+       "feedback": "<p>❌ Same kind of data (a date) belongs in ONE column with ONE format.</p>"
+      },
+      {
+       "text": "The font size is wrong",
+       "correct": false,
+       "feedback": "<p>❌ Font isn't the issue. Format consistency is.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your dataset shows one student with a height of <strong>8 feet 6 inches</strong>. What's the BEST response?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Trust it — must be accurate",
+       "correct": false,
+       "feedback": "<p>❌ An 8'6\" 8th-grader would be the tallest person in recorded history. Investigate.</p>"
+      },
+      {
+       "text": "Spot-check the outlier — likely a data-entry typo (maybe meant 5'6\"). Investigate before trusting.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Outliers can be real-but-rare OR errors. Always check. 8'6\" is biologically implausible; a typo is far more likely.</p>"
+      },
+      {
+       "text": "Delete the entire dataset",
+       "correct": false,
+       "feedback": "<p>❌ Way too drastic. Just investigate and correct the one row.</p>"
+      },
+      {
+       "text": "Ignore the whole column",
+       "correct": false,
+       "feedback": "<p>❌ One bad row doesn't ruin the column. Fix that row.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_w26",
+   "title": "Week 26 Quiz — Spreadsheets & Visualization",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which formula adds up the values in cells <strong>A1 through A10</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "=A1+A2+A3 (typing each)",
+       "correct": false,
+       "feedback": "<p>❌ Works for 3 cells but breaks at 10 or 1000. Use SUM with a range.</p>"
+      },
+      {
+       "text": "=SUM(A1:A10) — uses a range, scales to any size",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> SUM with range notation A1:A10 covers all cells. Most common spreadsheet formula.</p>"
+      },
+      {
+       "text": "SUM(A1:A10) — no equals sign",
+       "correct": false,
+       "feedback": "<p>❌ Without the leading =, the cell treats it as text. Always start formulas with =.</p>"
+      },
+      {
+       "text": "=ADD(A1,A10) — only the endpoints",
+       "correct": false,
+       "feedback": "<p>❌ That would add only A1 and A10, missing everything in between.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You want to see only students with score &gt;= 80, <strong>without losing the other rows</strong>. Which operation?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Sort — reorder by score",
+       "correct": false,
+       "feedback": "<p>❌ Sort reorders but doesn't hide anything.</p>"
+      },
+      {
+       "text": "Filter — temporarily hide rows below 80; underlying data stays intact",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Filter is non-destructive. Original data preserved; view shows just what you want.</p>"
+      },
+      {
+       "text": "Delete — remove under-80 rows",
+       "correct": false,
+       "feedback": "<p>❌ Delete is destructive. Filter is the right tool.</p>"
+      },
+      {
+       "text": "Pivot table",
+       "correct": false,
+       "feedback": "<p>❌ Pivot tables aggregate. They don't filter individual rows.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You want to show how a school's enrollment has changed each year from <strong>2015 to 2025</strong>. Which chart type fits BEST?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Pie chart — one slice per year",
+       "correct": false,
+       "feedback": "<p>❌ Pies show parts of a whole, not change over time. 10 slices is unreadable.</p>"
+      },
+      {
+       "text": "Line chart — connects each year's data point to show the trend",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Line charts shine when the X-axis is time.</p>"
+      },
+      {
+       "text": "Single bar of the average",
+       "correct": false,
+       "feedback": "<p>❌ Loses all year-by-year information. You wanted to show change over time.</p>"
+      },
+      {
+       "text": "Word cloud",
+       "correct": false,
+       "feedback": "<p>❌ Word clouds don't show numeric trends.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your friend's bar chart compares <strong>95% and 97%</strong>. The Y-axis starts at 94, making the 97 bar look 3x taller. What's the issue?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Truncated axis — starts at 94 instead of 0, exaggerating a 2-point difference. Fix by starting Y-axis at 0.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> One of the most common misleading-chart tricks. Truthful quantitative bar charts start Y-axis at zero.</p>"
+      },
+      {
+       "text": "Colors are wrong",
+       "correct": false,
+       "feedback": "<p>❌ The issue is the truncated axis, not color.</p>"
+      },
+      {
+       "text": "School A is much better than School B",
+       "correct": false,
+       "feedback": "<p>❌ Numerical difference is 2 points. The chart fools your eye.</p>"
+      },
+      {
+       "text": "Nothing — truncated axes are fine for bars",
+       "correct": false,
+       "feedback": "<p>❌ Truthful quantitative bar charts need a zero baseline.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're sending a grade report home to a parent who wants to know exactly what their student got on each assignment. <strong>Table or chart</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Chart — pictures are friendlier",
+       "correct": false,
+       "feedback": "<p>❌ Charts are great for trends but not for exact values. The parent wants specifics.</p>"
+      },
+      {
+       "text": "Table — exact values for each assignment, easy to look up",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Tables shine when the reader needs EXACT values. Parents want precise scores.</p>"
+      },
+      {
+       "text": "Pie chart of all grades",
+       "correct": false,
+       "feedback": "<p>❌ Doesn't show individual assignments. Tables do.</p>"
+      },
+      {
+       "text": "No data — just say 'they did fine'",
+       "correct": false,
+       "feedback": "<p>❌ Parents want specifics. 'Fine' isn't useful.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_w27",
+   "title": "Week 27 Quiz — Databases Intro",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following BEST describes a <strong>database</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A type of website",
+       "correct": false,
+       "feedback": "<p>❌ Websites USE databases, but the database itself is storage and search software.</p>"
+      },
+      {
+       "text": "Software built to store, organize, and search large amounts of data — often used by many people at once",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Databases run behind every app and site you use. Built for huge data sizes and many simultaneous users.</p>"
+      },
+      {
+       "text": "Another word for spreadsheet",
+       "correct": false,
+       "feedback": "<p>❌ Different scale and different rules. Spreadsheets vs databases is a real distinction.</p>"
+      },
+      {
+       "text": "A type of programming language",
+       "correct": false,
+       "feedback": "<p>❌ SQL is the language for querying databases, but the database itself is the storage software.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a 'students' database table, what does <strong>ONE ROW</strong> represent?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "All students combined",
+       "correct": false,
+       "feedback": "<p>❌ All students would be all the rows. ONE row = one student.</p>"
+      },
+      {
+       "text": "One specific student's entry — their name, ID, grade, and other info",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Each row is one record. Sometimes called a 'record' or 'tuple.'</p>"
+      },
+      {
+       "text": "A column",
+       "correct": false,
+       "feedback": "<p>❌ Columns are vertical (one per data field). Rows are horizontal (one per student).</p>"
+      },
+      {
+       "text": "The entire database",
+       "correct": false,
+       "feedback": "<p>❌ Way bigger than one row.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Two students are both named 'Alex Smith.' How does the database tell them apart?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "By looking at all their other columns until something is different",
+       "correct": false,
+       "feedback": "<p>❌ Slow and unreliable. Databases have a specific column for this.</p>"
+      },
+      {
+       "text": "By their PRIMARY KEY — usually a unique student ID number. No two rows share the same primary key.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Names can repeat; primary keys never do. Lets the system pinpoint any row instantly.</p>"
+      },
+      {
+       "text": "Names are always unique",
+       "correct": false,
+       "feedback": "<p>❌ Names absolutely repeat in real data. That's why primary keys exist.</p>"
+      },
+      {
+       "text": "They can't be told apart",
+       "correct": false,
+       "feedback": "<p>❌ Primary keys solve this. That's their purpose.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is <strong>SQL</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A type of database",
+       "correct": false,
+       "feedback": "<p>❌ SQL is the LANGUAGE used to query databases, not a database itself.</p>"
+      },
+      {
+       "text": "Structured Query Language — the most common language for asking databases questions, invented at IBM in the 1970s",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> SQL (pronounced 'sequel' or 'S-Q-L') is the dominant query language. 50+ years old and still used by virtually every database professional.</p>"
+      },
+      {
+       "text": "A type of spreadsheet formula",
+       "correct": false,
+       "feedback": "<p>❌ Spreadsheets have their own formula language. SQL is specifically for databases.</p>"
+      },
+      {
+       "text": "A new language from 2024",
+       "correct": false,
+       "feedback": "<p>❌ SQL is from the 1970s — older than most current programming languages.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Instagram has <strong>2 billion users</strong>. Why don't they store all their data in a Google Sheet?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Spreadsheets are too expensive",
+       "correct": false,
+       "feedback": "<p>❌ Cost isn't the issue. Scale and concurrency are.</p>"
+      },
+      {
+       "text": "A 2-billion-row spreadsheet would be unreadable, slow, and crash. Databases scale to billions of rows AND let millions of users read/write simultaneously.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Spreadsheets win for personal/small data. Databases win when scale or concurrent users come into play.</p>"
+      },
+      {
+       "text": "Spreadsheets don't allow photos",
+       "correct": false,
+       "feedback": "<p>❌ Cells can hold links to photos. The issue is scale and concurrency.</p>"
+      },
+      {
+       "text": "Spreadsheets only work on weekdays",
+       "correct": false,
+       "feedback": "<p>❌ They work every day. The issue is scale.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_w28",
+   "title": "Week 28 Quiz — Object-Oriented Programming Intro",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following BEST describes <strong>Object-Oriented Programming</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A way of keeping data and actions completely separate",
+       "correct": false,
+       "feedback": "<p>❌ That's procedural programming. OOP bundles them together.</p>"
+      },
+      {
+       "text": "A way of organizing code by bundling related data and the actions that work on it into reusable 'objects'",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Instead of loose variables and functions, OOP creates objects that contain both.</p>"
+      },
+      {
+       "text": "A type of database",
+       "correct": false,
+       "feedback": "<p>❌ Different concept. Databases store data; OOP organizes code.</p>"
+      },
+      {
+       "text": "A web design framework",
+       "correct": false,
+       "feedback": "<p>❌ Frameworks USE OOP; OOP itself is a general code-organization style.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which BEST describes the difference between a <strong>class</strong> and an <strong>object</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "They mean the same thing",
+       "correct": false,
+       "feedback": "<p>❌ Different concepts. The class is the blueprint; objects are built from it.</p>"
+      },
+      {
+       "text": "A class is the BLUEPRINT for a kind of thing; an object (instance) is an actual thing built from that blueprint",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Player class = blueprint. 'alex', 'sam', 'jordan' = three Player objects built from it. Define once, instantiate many times.</p>"
+      },
+      {
+       "text": "Objects come first, then classes describe them",
+       "correct": false,
+       "feedback": "<p>❌ Backwards. You define the class first.</p>"
+      },
+      {
+       "text": "Classes only describe animals",
+       "correct": false,
+       "feedback": "<p>❌ Classes describe anything — people, books, posts, products, network connections.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a <strong>Player</strong> class, which of these is an <strong>ATTRIBUTE</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "level_up() — a method that increases the level",
+       "correct": false,
+       "feedback": "<p>❌ Methods are actions. Attributes are data.</p>"
+      },
+      {
+       "text": "name — a string of text the player is known by",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Attributes are pieces of data inside the object — name, score, level, health.</p>"
+      },
+      {
+       "text": "Player — the class itself",
+       "correct": false,
+       "feedback": "<p>❌ The class is the blueprint, not an attribute.</p>"
+      },
+      {
+       "text": "take_damage(amount) — a method that reduces health",
+       "correct": false,
+       "feedback": "<p>❌ That's a method.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a <strong>Player</strong> class, which of these is a <strong>METHOD</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "score — the player's current points",
+       "correct": false,
+       "feedback": "<p>❌ That's an attribute.</p>"
+      },
+      {
+       "text": "level_up() — an action that increases the player's level",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Methods are verb-style actions that live inside the object. They read and change attributes.</p>"
+      },
+      {
+       "text": "name — a string",
+       "correct": false,
+       "feedback": "<p>❌ That's an attribute, not a method.</p>"
+      },
+      {
+       "text": "Player — the class itself",
+       "correct": false,
+       "feedback": "<p>❌ The class is the blueprint.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're building a game with <strong>50 enemy types</strong>, each with different stats and abilities. Which approach fits BEST?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Procedural — one giant if/else chain that runs different code per enemy type",
+       "correct": false,
+       "feedback": "<p>❌ Possible but quickly unmanageable. OOP is designed for this kind of problem.</p>"
+      },
+      {
+       "text": "Object-oriented — define an Enemy base class and one class per enemy type, using inheritance for shared behavior",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> OOP shines for many-kinds-of-things problems. Each enemy gets its own class. Easy to add new enemies later.</p>"
+      },
+      {
+       "text": "No code at all — just write enemies on paper",
+       "correct": false,
+       "feedback": "<p>❌ Not a real solution. You're building a game.</p>"
+      },
+      {
+       "text": "One Enemy class with hard-coded behavior for all 50 types in if/else",
+       "correct": false,
+       "feedback": "<p>❌ Defeats the point. One class per type (or base + inheritance) is way cleaner.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_w29",
+   "title": "Week 29 Quiz — VR Science Simulations",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which BEST describes a <strong>simulation</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A real-world experiment performed in a lab",
+       "correct": false,
+       "feedback": "<p>❌ That's a hands-on lab. A simulation is a COMPUTER MODEL.</p>"
+      },
+      {
+       "text": "A computer model of a real-world process you can study safely and repeatedly",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Simulations model reality in software. Safe, repeatable, no real-world risk.</p>"
+      },
+      {
+       "text": "A game with no purpose",
+       "correct": false,
+       "feedback": "<p>❌ Simulations are purposeful — learning, research, design.</p>"
+      },
+      {
+       "text": "Another word for video",
+       "correct": false,
+       "feedback": "<p>❌ Videos play one fixed thing. Simulations are interactive.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You want to study what's inside an <strong>active volcano</strong>. Which 'why VR' category fits?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Too small",
+       "correct": false,
+       "feedback": "<p>❌ Volcanoes are huge. Size isn't the issue.</p>"
+      },
+      {
+       "text": "Too dangerous — real exploration could injure or kill. VR removes the risk.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Volcanoes, deep ocean, nuclear cores, lightning — all too dangerous to visit. VR lets you walk safely.</p>"
+      },
+      {
+       "text": "Too slow",
+       "correct": false,
+       "feedback": "<p>❌ Active volcanoes erupt fast, not slowly.</p>"
+      },
+      {
+       "text": "Too rare",
+       "correct": false,
+       "feedback": "<p>❌ Active volcanoes are observed regularly. Safety is the issue.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You want to walk inside a single <strong>human cell</strong>. Which 'why VR' category fits?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Too big",
+       "correct": false,
+       "feedback": "<p>❌ Cells are about 10 microns — far too SMALL to see without microscopes.</p>"
+      },
+      {
+       "text": "Too small — cells need electron microscopes to even see, and you can't walk into one. VR shrinks you down.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> VR is the only way to walk inside something microscopic.</p>"
+      },
+      {
+       "text": "Too dangerous",
+       "correct": false,
+       "feedback": "<p>❌ Cells aren't dangerous. The issue is scale.</p>"
+      },
+      {
+       "text": "Too rare",
+       "correct": false,
+       "feedback": "<p>❌ Cells are everywhere. Scale is the issue.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A VR heart simulation shows blood flowing the <strong>WRONG direction</strong> through the chambers. What's the issue?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Nothing — VR is just for fun",
+       "correct": false,
+       "feedback": "<p>❌ Educational VR teaches something. Wrong science teaches wrong concepts.</p>"
+      },
+      {
+       "text": "Violates the ACCURATE trait — the model must match real science, or it teaches incorrect concepts confidently",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Accuracy is non-negotiable for educational simulations. A pretty but wrong simulation is worse than no simulation.</p>"
+      },
+      {
+       "text": "VR doesn't have to be accurate",
+       "correct": false,
+       "feedback": "<p>❌ Educational VR absolutely has to be accurate.</p>"
+      },
+      {
+       "text": "The graphics need to be brighter",
+       "correct": false,
+       "feedback": "<p>❌ Graphics aren't the issue. The model is wrong.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is the <strong>MOST accurate</strong> framing of VR simulations vs real labs?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "VR is always better than real labs",
+       "correct": false,
+       "feedback": "<p>❌ Each has strengths. Real labs are better for hands-on skills.</p>"
+      },
+      {
+       "text": "Each has strengths — VR for impossible/dangerous things, real labs for hands-on skills. Use both for the right purposes.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The honest framing. VR shines where real labs can't go. Real labs shine for physical skill-building. Strong teachers use both.</p>"
+      },
+      {
+       "text": "Real labs are always better than VR",
+       "correct": false,
+       "feedback": "<p>❌ Real labs can't access things too dangerous, big, small, slow, or rare. VR can.</p>"
+      },
+      {
+       "text": "There's no difference",
+       "correct": false,
+       "feedback": "<p>❌ They're complementary, not equivalent.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_w30",
+   "title": "Week 30 Quiz — Model Trade-offs",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Statistician George Box famously said: 'All models are <strong>____</strong>, but some are useful.' What word fills the blank?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "fast",
+       "correct": false,
+       "feedback": "<p>❌ Speed isn't the point. Models are always SIMPLIFIED.</p>"
+      },
+      {
+       "text": "wrong — every model is a simplified version of reality, leaving things out on purpose",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> The most-quoted sentence in modeling. All models are wrong in some way; useful ones simplify cleverly.</p>"
+      },
+      {
+       "text": "perfect",
+       "correct": false,
+       "feedback": "<p>❌ Opposite of the quote.</p>"
+      },
+      {
+       "text": "expensive",
+       "correct": false,
+       "feedback": "<p>❌ Cost isn't the focus. Truth and usefulness are.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A virus model predicts a slow infection rate. The real virus spreads <strong>much faster</strong> because people panic-buy and crowd into stores. What category did the model leave out?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Simplification",
+       "correct": false,
+       "feedback": "<p>❌ Specific category — it's about people's behavior shifting the outcome.</p>"
+      },
+      {
+       "text": "Human factors — behavior, decisions, emotions. Human behavior often changes outcomes more than the underlying science.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> One of the most common failures in epidemic, traffic, and economic models. Captured the biology; missed the sociology.</p>"
+      },
+      {
+       "text": "Time scale",
+       "correct": false,
+       "feedback": "<p>❌ Time scale is the model's range, not human reactions.</p>"
+      },
+      {
+       "text": "Randomness",
+       "correct": false,
+       "feedback": "<p>❌ Random fluctuations aren't the issue. Coordinated behavior is.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A financial model in 2007 assumed housing prices would <strong>NEVER drop nationwide</strong>. In 2008, they did, and the model's predictions catastrophically failed. What kind of error?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Useful simplification — fine to ignore unlikely events",
+       "correct": false,
+       "feedback": "<p>❌ The omitted event broke everything. That's the textbook definition of dangerous oversimplification.</p>"
+      },
+      {
+       "text": "Dangerous oversimplification — the model excluded a possibility that turned out to dominate the outcome",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> When the 'rare' thing happens, the model that excluded it fails dramatically. The 2008 crisis and Fukushima are famous examples.</p>"
+      },
+      {
+       "text": "Random bad luck",
+       "correct": false,
+       "feedback": "<p>❌ Not random. A systematic gap in the model's assumptions.</p>"
+      },
+      {
+       "text": "Just one of those things",
+       "correct": false,
+       "feedback": "<p>❌ The right framing: the model wasn't designed to handle that case.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why is the <strong>TESTABLE PREDICTIONS</strong> trait so important for honest models?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Testable predictions let you check whether the model is actually right against future reality",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Without testability, models can drift from reality forever without anyone noticing. 'By date X, value Y will be Z' is checkable. Vague statements aren't.</p>"
+      },
+      {
+       "text": "Testable predictions aren't important",
+       "correct": false,
+       "feedback": "<p>❌ One of the four core traits. Without testability, you can't validate the model.</p>"
+      },
+      {
+       "text": "Because tests are fun",
+       "correct": false,
+       "feedback": "<p>❌ Not the point. The point is verifying against real-world outcomes.</p>"
+      },
+      {
+       "text": "Because untestable models always work",
+       "correct": false,
+       "feedback": "<p>❌ Backwards. Untestable models are the LEAST trustworthy.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You see an AI claim 'I am 99% confident X will happen' without any disclosure. Which <strong>question</strong> should you ask FIRST?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "What graphics card did it use?",
+       "correct": false,
+       "feedback": "<p>❌ Hardware isn't the issue. Trustworthiness is.</p>"
+      },
+      {
+       "text": "What's the scope, what was left out, and how would I know if the model is wrong? The three audit questions from this week.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> If a modeler can't or won't answer those three, that's a red flag. Confident claims without disclosure are exactly the dangerous oversimplification pattern.</p>"
+      },
+      {
+       "text": "Trust it because it sounds confident",
+       "correct": false,
+       "feedback": "<p>❌ Confidence isn't trustworthiness. Honest models name their limits.</p>"
+      },
+      {
+       "text": "Ignore all models forever",
+       "correct": false,
+       "feedback": "<p>❌ Many models are useful. But always audit before trusting.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_w31",
+   "title": "Week 31 Quiz — Software Development Lifecycle",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following BEST describes the <strong>Software Development Lifecycle (SDLC)</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A specific programming language",
+       "correct": false,
+       "feedback": "<p>❌ SDLC is a PROCESS, not a language.</p>"
+      },
+      {
+       "text": "The professional process for building software — from idea to deployed and maintained product",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> SDLC names the stages every real project moves through. Different teams use different variants.</p>"
+      },
+      {
+       "text": "A type of computer hardware",
+       "correct": false,
+       "feedback": "<p>❌ Hardware is physical. SDLC is a process.</p>"
+      },
+      {
+       "text": "A new app",
+       "correct": false,
+       "feedback": "<p>❌ Not a product — a process.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your team writes down what the software must do, for whom, and by when. Which SDLC <strong>stage</strong> is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Build",
+       "correct": false,
+       "feedback": "<p>❌ Build means writing code, not defining what the code should do.</p>"
+      },
+      {
+       "text": "Plan — requirements gathering is the planning stage. Deliverable: a list of features and constraints.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Skipping this is the most common cause of failed projects.</p>"
+      },
+      {
+       "text": "Test",
+       "correct": false,
+       "feedback": "<p>❌ Testing comes after building.</p>"
+      },
+      {
+       "text": "Deploy",
+       "correct": false,
+       "feedback": "<p>❌ Deploy is releasing finished software.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You have a working prototype. You give it to 5 classmates and write down where they get stuck. Which SDLC <strong>stage</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Plan",
+       "correct": false,
+       "feedback": "<p>❌ Plan is the FIRST stage.</p>"
+      },
+      {
+       "text": "Test — running real users through the prototype and gathering feedback is the test-stage deliverable",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Connects to Week 14's '5 user test cycle.' Bugs caught here are 100x cheaper than bugs caught after deployment.</p>"
+      },
+      {
+       "text": "Design",
+       "correct": false,
+       "feedback": "<p>❌ Design produces wireframes/structure. You already built.</p>"
+      },
+      {
+       "text": "Deploy",
+       "correct": false,
+       "feedback": "<p>❌ Deploy is releasing to actual users. Testing with classmates first.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A startup builds a new social-media app and expects to learn from users and <strong>pivot many times</strong>. Which SDLC variant fits BEST?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Waterfall — lock everything in a 12-month plan",
+       "correct": false,
+       "feedback": "<p>❌ Bad fit. By month 12, things will have changed.</p>"
+      },
+      {
+       "text": "Agile — short 1-4 week sprints, repeat plan/build/test with adjusted requirements each cycle",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Agile is built for environments where requirements evolve. Most modern apps use it.</p>"
+      },
+      {
+       "text": "Avoid all process",
+       "correct": false,
+       "feedback": "<p>❌ No process doesn't scale. Agile is still process, just flexible.</p>"
+      },
+      {
+       "text": "Wait until requirements never change",
+       "correct": false,
+       "feedback": "<p>❌ They never will. Agile accepts change as normal.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A classmate wants to build 'the next Instagram with AI, AR, video calls, and 100 themes' for a 5-week capstone. What's the <strong>BEST</strong> advice?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Go for it — bigger ambitions are better",
+       "correct": false,
+       "feedback": "<p>❌ Too-ambitious scope is the #1 reason real projects fail.</p>"
+      },
+      {
+       "text": "Cut scope dramatically — pick ONE small feature like 'photo-with-caption' and ship that. Finishing small beats not finishing big.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Senior engineers obsess over scope. 'Smallest version that proves the idea' is the right mindset.</p>"
+      },
+      {
+       "text": "Spend more hours",
+       "correct": false,
+       "feedback": "<p>❌ More hours can't overcome a scope that's literally too big for the timeline.</p>"
+      },
+      {
+       "text": "Skip planning",
+       "correct": false,
+       "feedback": "<p>❌ Skipping planning makes the scope problem worse, not better.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_w32",
+   "title": "Week 32 Quiz — Design Thinking & User Research",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which BEST describes <strong>design thinking</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Coming up with cool features first, then finding users",
+       "correct": false,
+       "feedback": "<p>❌ That's the OPPOSITE of design thinking.</p>"
+      },
+      {
+       "text": "A user-centered problem-solving process that starts with deep understanding of the user, not with technology or features",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Design thinking begins with empathy, not engineering. The user's actual problem drives every decision afterward.</p>"
+      },
+      {
+       "text": "Just making things look pretty",
+       "correct": false,
+       "feedback": "<p>❌ Visual design is one part, but design thinking goes deeper.</p>"
+      },
+      {
+       "text": "A type of UI framework",
+       "correct": false,
+       "feedback": "<p>❌ Frameworks USE design thinking. Design thinking itself is a process.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You sit down with three 8th graders and ask them to walk you through how they currently track homework. Which design-thinking <strong>stage</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Prototype",
+       "correct": false,
+       "feedback": "<p>❌ You're not building yet — you're listening.</p>"
+      },
+      {
+       "text": "Empathize — interviewing real users to understand their behaviors and frustrations",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Empathize is the first stage. The output is notes on user pains, needs, and behaviors in their own words.</p>"
+      },
+      {
+       "text": "Define",
+       "correct": false,
+       "feedback": "<p>❌ Define comes AFTER empathize.</p>"
+      },
+      {
+       "text": "Test",
+       "correct": false,
+       "feedback": "<p>❌ Test means showing a prototype to users.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're writing 'How might we help 8th graders track homework so they never miss an assignment?' Which <strong>stage</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Empathize",
+       "correct": false,
+       "feedback": "<p>❌ Empathize is gathering input. You're synthesizing now.</p>"
+      },
+      {
+       "text": "Define — turning user research into a clear problem statement. The 'How might we...' format is the classic.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Define is the synthesis stage.</p>"
+      },
+      {
+       "text": "Ideate",
+       "correct": false,
+       "feedback": "<p>❌ Ideate is brainstorming solutions.</p>"
+      },
+      {
+       "text": "Prototype",
+       "correct": false,
+       "feedback": "<p>❌ Prototype is building a rough version.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your interview script asks: 'Would you use an app that tracks homework?' Why is this <strong>BAD</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It's too long",
+       "correct": false,
+       "feedback": "<p>❌ Length isn't the issue. Structure is.</p>"
+      },
+      {
+       "text": "It's a closed question that invites a polite 'yes' — and it asks about your SOLUTION, not the user's problem",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> People are polite. They'll say 'sure!' and you'll build the wrong thing. Open questions about the problem reveal truth.</p>"
+      },
+      {
+       "text": "The word 'homework' is too vague",
+       "correct": false,
+       "feedback": "<p>❌ Vocabulary isn't the issue.</p>"
+      },
+      {
+       "text": "All questions are bad",
+       "correct": false,
+       "feedback": "<p>❌ Open-ended questions about the problem are great.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A user says one of your features confuses them. You're confident the feature is well-designed. What's the <strong>BEST</strong> response?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Explain why the feature is actually clear",
+       "correct": false,
+       "feedback": "<p>❌ Defending the design is wrong. The user's experience IS the truth. If they're confused, the design is confusing.</p>"
+      },
+      {
+       "text": "Believe the user, ask follow-up questions about WHY, and treat it as data for the next iteration",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Humility in the face of user feedback is the hardest and most important design-thinking trait.</p>"
+      },
+      {
+       "text": "Tell them they're wrong",
+       "correct": false,
+       "feedback": "<p>❌ Worst possible response — breaks trust AND misses the data point.</p>"
+      },
+      {
+       "text": "Ignore the feedback",
+       "correct": false,
+       "feedback": "<p>❌ Then user research becomes theater.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_w33",
+   "title": "Week 33 Quiz — Collaborative Coding Simulation",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following BEST describes how <strong>real software is built</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "One lone coder working alone in a basement",
+       "correct": false,
+       "feedback": "<p>❌ Movie image, not reality. Even 'solo' developers rely on huge libraries written by others.</p>"
+      },
+      {
+       "text": "Teams of people collaborating — writing, reviewing, and improving code together",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Every meaningful piece of software is a team effort. Collaboration matters as much as coding.</p>"
+      },
+      {
+       "text": "Robots writing code with no humans",
+       "correct": false,
+       "feedback": "<p>❌ AI tools help, but humans still lead software design and review.</p>"
+      },
+      {
+       "text": "Only one developer at a time per company",
+       "correct": false,
+       "feedback": "<p>❌ Real companies have many developers working together.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which BEST describes <strong>pair programming</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Two people working on separate features at separate computers",
+       "correct": false,
+       "feedback": "<p>❌ That's divide-and-merge or solo. Pairing means TWO at ONE computer.</p>"
+      },
+      {
+       "text": "Two people at one computer — one typing (Driver), one thinking ahead and catching mistakes (Navigator), switching roles every 10-20 min",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Pair programming is the textbook two-on-one pattern. Both contribute; both learn.</p>"
+      },
+      {
+       "text": "Two people pairing up at lunch",
+       "correct": false,
+       "feedback": "<p>❌ Different kind of pairing — this is the coding practice.</p>"
+      },
+      {
+       "text": "One coding, one watching Netflix",
+       "correct": false,
+       "feedback": "<p>❌ Both are actively engaged. Netflix breaks the value of pairing.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your team of 5 needs to figure out a tricky <strong>new architecture decision</strong> together. Which collaboration pattern fits BEST?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Divide & merge — split the work 5 ways",
+       "correct": false,
+       "feedback": "<p>❌ Architecture decisions need everyone's input, not splitting.</p>"
+      },
+      {
+       "text": "Mob programming — whole team on one computer, one screen. Used for hard decisions where each perspective matters.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Mob programming gathers the whole team for the hardest problems.</p>"
+      },
+      {
+       "text": "Async — think alone for a week",
+       "correct": false,
+       "feedback": "<p>❌ Too slow and disconnected for hard collective decisions.</p>"
+      },
+      {
+       "text": "Solo — one person decides",
+       "correct": false,
+       "feedback": "<p>❌ Single-person architecture decisions often miss what others would catch.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why is it important to <strong>switch roles</strong> (Driver and Navigator) every 10-20 minutes during pair programming?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Switching wastes time — never switch",
+       "correct": false,
+       "feedback": "<p>❌ Without switches, pairing devolves into 'one codes, one watches.'</p>"
+      },
+      {
+       "text": "Switching keeps both engaged AND ensures both understand the code. Knowledge spreads.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Switching is one of the most important pairing habits. Balances effort and ensures deep shared understanding.</p>"
+      },
+      {
+       "text": "Just a polite formality",
+       "correct": false,
+       "feedback": "<p>❌ Real practical benefit, not politeness.</p>"
+      },
+      {
+       "text": "Only when someone is tired",
+       "correct": false,
+       "feedback": "<p>❌ Regular timed switches keep things working. Waiting for tiredness is too late.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your teammate's pull request has a bug. Which is the <strong>BEST</strong> feedback?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "'This is terrible code, fix it.'",
+       "correct": false,
+       "feedback": "<p>❌ Attacks the person, gives no specifics. Damages trust and helps nothing.</p>"
+      },
+      {
+       "text": "'I noticed that when the input is empty, this function might crash — could we add a check at line 12?'",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Specific, kind, about the CODE (not the person), and proposes a path forward.</p>"
+      },
+      {
+       "text": "'You should know better.'",
+       "correct": false,
+       "feedback": "<p>❌ Attacks the person. Useless and harmful.</p>"
+      },
+      {
+       "text": "'I'll just rewrite this myself.'",
+       "correct": false,
+       "feedback": "<p>❌ Bypasses the teammate's learning. Review is meant to help both people grow.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_w34",
+   "title": "Week 34 Quiz — Iterative Improvement & Versioning",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following BEST describes <strong>version control</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A backup system that keeps one extra copy of your files",
+       "correct": false,
+       "feedback": "<p>❌ Backups keep one extra copy. Version control keeps ALL versions over time.</p>"
+      },
+      {
+       "text": "A system that records every change to a project — who, when, and what — so you can review history, undo, and combine work",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Version control is far more powerful than backups. The foundation of modern software development.</p>"
+      },
+      {
+       "text": "A type of antivirus software",
+       "correct": false,
+       "feedback": "<p>❌ Different category.</p>"
+      },
+      {
+       "text": "A way to permanently delete files",
+       "correct": false,
+       "feedback": "<p>❌ Opposite — version control SAVES every version.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which BEST describes a Git <strong>commit</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Pressing Cmd+S to save a file",
+       "correct": false,
+       "feedback": "<p>❌ Saving puts the current file on disk. A commit is more — a permanent project snapshot with a message.</p>"
+      },
+      {
+       "text": "A permanent named snapshot of your project, with a message explaining what changed and why",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Commits are the fundamental unit of Git. Each is a navigable point in history.</p>"
+      },
+      {
+       "text": "Deleting a file",
+       "correct": false,
+       "feedback": "<p>❌ Different action.</p>"
+      },
+      {
+       "text": "Sending a file by email",
+       "correct": false,
+       "feedback": "<p>❌ Email and commits are unrelated.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You want to try a risky new feature WITHOUT breaking the main version. Which Git concept fits?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Commit",
+       "correct": false,
+       "feedback": "<p>❌ Commits are snapshots, not lines of work.</p>"
+      },
+      {
+       "text": "Branch — an independent line of work that doesn't affect main until merged",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Branches are how teams safely isolate risky work. Main stays stable; the feature branch holds experiments.</p>"
+      },
+      {
+       "text": "Pull",
+       "correct": false,
+       "feedback": "<p>❌ Pull downloads others' work. Doesn't isolate changes.</p>"
+      },
+      {
+       "text": "Delete the repo",
+       "correct": false,
+       "feedback": "<p>❌ Way too drastic. Branches solve this without losing anything.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is the <strong>BEST</strong> commit message?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "'asdf'",
+       "correct": false,
+       "feedback": "<p>❌ Means nothing. Future-you and teammates can't navigate history with this.</p>"
+      },
+      {
+       "text": "'Fix login form crash when password is empty'",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Specific, action-oriented, explains what changed. Anyone reading history understands immediately.</p>"
+      },
+      {
+       "text": "'changes'",
+       "correct": false,
+       "feedback": "<p>❌ Too vague. Every commit is 'changes' by definition.</p>"
+      },
+      {
+       "text": "'updated stuff'",
+       "correct": false,
+       "feedback": "<p>❌ Almost as vague.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You're about to push. A teammate already pushed to the same branch. What's the <strong>BEST</strong> move?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Push immediately — your changes are most important",
+       "correct": false,
+       "feedback": "<p>❌ Causes merge conflicts at best, overwrites teammate work at worst.</p>"
+      },
+      {
+       "text": "Pull first to get their changes, resolve any conflicts locally, then push",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Pull-before-push is one of the most important Git habits. Prevents conflicts and respects teammate work.</p>"
+      },
+      {
+       "text": "Delete the whole repo",
+       "correct": false,
+       "feedback": "<p>❌ Drastic. Pull and merge is the standard fix.</p>"
+      },
+      {
+       "text": "Force-push to overwrite their work",
+       "correct": false,
+       "feedback": "<p>❌ Destroys teammate work. Major collaboration violation.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_w35",
+   "title": "Week 35 Quiz — Debugging Strategies",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following BEST describes a <strong>bug</strong> in software?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "An actual insect on the keyboard",
+       "correct": false,
+       "feedback": "<p>❌ Term comes from a real moth in 1947, but today 'bug' means a code flaw.</p>"
+      },
+      {
+       "text": "A flaw in the code that causes incorrect behavior. Named after a moth jammed in the 1947 Harvard Mark II computer.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Bugs are code flaws — logic errors, typos, incorrect assumptions. The historical origin is a real moth.</p>"
+      },
+      {
+       "text": "A new app feature",
+       "correct": false,
+       "feedback": "<p>❌ Features are intentional. Bugs are unintended behavior.</p>"
+      },
+      {
+       "text": "A type of password",
+       "correct": false,
+       "feedback": "<p>❌ Different category entirely.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your code RUNS, but crashes when the user enters <strong>0</strong>. The error: 'ZeroDivisionError'. What bug category?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Syntax error",
+       "correct": false,
+       "feedback": "<p>❌ Syntax errors stop code from running at all. This code runs — it crashes during execution.</p>"
+      },
+      {
+       "text": "Runtime error — code that looks fine but crashes WHEN it runs, often because of unexpected values like zero",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Runtime errors happen during execution. Fix: check what values flow through when the crash happens.</p>"
+      },
+      {
+       "text": "Off-by-one",
+       "correct": false,
+       "feedback": "<p>❌ Off-by-one is about loop boundaries.</p>"
+      },
+      {
+       "text": "Integration bug",
+       "correct": false,
+       "feedback": "<p>❌ Integration bugs are between pieces of code.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your code runs without crashing, but the average of <code>[2, 4, 6]</code> comes out to <strong>6 instead of 4</strong>. What category?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Syntax error",
+       "correct": false,
+       "feedback": "<p>❌ Syntax errors stop code from running. This code runs.</p>"
+      },
+      {
+       "text": "Logic error — code runs without crashing but produces the WRONG answer. The hardest category to find because nothing visibly breaks.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Logic errors are the trickiest. Trace through with example inputs to find them.</p>"
+      },
+      {
+       "text": "Runtime error",
+       "correct": false,
+       "feedback": "<p>❌ Runtime errors crash. This code doesn't crash.</p>"
+      },
+      {
+       "text": "No bug — that's the right answer",
+       "correct": false,
+       "feedback": "<p>❌ Average of [2,4,6] is 4, not 6. So 6 is wrong.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your app crashes when a user's name has an apostrophe (like \"O'Brien\"). A teammate says 'just strip all apostrophes.' What's <strong>wrong</strong> with that fix?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Nothing — fast fix is best",
+       "correct": false,
+       "feedback": "<p>❌ Fast fixes without root causes come back to bite. 'O'Brien' would become 'OBrien'.</p>"
+      },
+      {
+       "text": "It's a symptom patch. Stripping apostrophes breaks real names AND leaves the underlying string-handling bug, which will cause crashes with other special characters too.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Root cause matters. Fix the underlying issue and ALL special characters work. Symptom patches breed more bugs.</p>"
+      },
+      {
+       "text": "Apostrophes are illegal in names",
+       "correct": false,
+       "feedback": "<p>❌ Apostrophes are normal in real names.</p>"
+      },
+      {
+       "text": "Delete the database",
+       "correct": false,
+       "feedback": "<p>❌ Way too drastic.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You fixed a bug. What's the <strong>BEST</strong> next step before moving on?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Just move on",
+       "correct": false,
+       "feedback": "<p>❌ Bugs love to come back. Without a test, the same bug can re-appear silently.</p>"
+      },
+      {
+       "text": "Add a regression test that triggers the original bug, so if it ever comes back, you'll know immediately",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Regression tests are how teams keep bugs dead. Any future change that re-introduces the bug fails the test.</p>"
+      },
+      {
+       "text": "Delete the code that had the bug",
+       "correct": false,
+       "feedback": "<p>❌ Too drastic. The fix already addresses the bug.</p>"
+      },
+      {
+       "text": "Brag publicly",
+       "correct": false,
+       "feedback": "<p>❌ Tempting but not what professional engineers actually do.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_w36",
+   "title": "Week 36 — Course Final",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_quizzes",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>(Unit 1 — Digital Identity) Which BEST describes a <strong>digital footprint</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Only what you post on purpose",
+       "correct": false,
+       "feedback": "<p>❌ That's just the ACTIVE layer. Footprints include the passive layer too.</p>"
+      },
+      {
+       "text": "The complete trail of data you leave online — both active (what you post) and passive (what's recorded automatically)",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Footprints have an active AND a passive layer. Both are searchable.</p>"
+      },
+      {
+       "text": "An actual footprint at the beach",
+       "correct": false,
+       "feedback": "<p>❌ Wrong kind of footprint!</p>"
+      },
+      {
+       "text": "Only photos",
+       "correct": false,
+       "feedback": "<p>❌ Photos are one piece — footprints include searches, tags, account activity, and more.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>(Unit 2 — Networks &amp; Privacy) You're on open coffee-shop Wi-Fi visiting <strong>https://yourbank.com</strong>. Which encryption protects you?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Wi-Fi (WPA) — open Wi-Fi is fully encrypted",
+       "correct": false,
+       "feedback": "<p>❌ Open Wi-Fi has NO encryption between device and router.</p>"
+      },
+      {
+       "text": "HTTPS — gives end-to-end browser-to-server encryption regardless of the underlying network",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Others on the Wi-Fi see THAT you visited the bank, but not what you typed.</p>"
+      },
+      {
+       "text": "No encryption is working",
+       "correct": false,
+       "feedback": "<p>❌ HTTPS is encrypting your session.</p>"
+      },
+      {
+       "text": "Only your phone case",
+       "correct": false,
+       "feedback": "<p>❌ Physical cases don't encrypt anything.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>(Unit 3 — Emerging Tech) Which BEST describes <strong>modern AI</strong>?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Robots with consciousness and feelings",
+       "correct": false,
+       "feedback": "<p>❌ Science fiction, not current technology.</p>"
+      },
+      {
+       "text": "Computer systems that learn patterns from massive amounts of data and use those patterns to do tasks once thought to require human intelligence",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Pattern recognition at huge scale. Useful, impressive, but not 'thinking' like humans.</p>"
+      },
+      {
+       "text": "Magic",
+       "correct": false,
+       "feedback": "<p>❌ Math + data + compute. Understanding the mechanism helps you use it well.</p>"
+      },
+      {
+       "text": "A type of database",
+       "correct": false,
+       "feedback": "<p>❌ Databases store; AI learns patterns and generates outputs.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>(Unit 4 — Programming) You need a conditional that picks one of FIVE possible outcomes based on a score. Which form fits BEST?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Simple if (no else, no elif)",
+       "correct": false,
+       "feedback": "<p>❌ Simple if handles one case. Five outcomes = five branches.</p>"
+      },
+      {
+       "text": "if / elif / elif / elif / else chain — built for picking ONE outcome from many",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> if/elif/else is the cleanest fit for grade-style decisions across multiple branches.</p>"
+      },
+      {
+       "text": "Nested if four levels deep",
+       "correct": false,
+       "feedback": "<p>❌ Possible but messy. if/elif chain is cleaner.</p>"
+      },
+      {
+       "text": "No conditional",
+       "correct": false,
+       "feedback": "<p>❌ Choosing between five outcomes requires conditional logic.</p>"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>(Unit 5 — Data &amp; Simulation) Why doesn't Instagram store all 2 billion users' data in a Google Sheet?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Spreadsheets are too expensive",
+       "correct": false,
+       "feedback": "<p>❌ Cost isn't the issue. Scale and concurrency are.</p>"
+      },
+      {
+       "text": "A 2-billion-row spreadsheet would be unreadable, slow, and crash. Databases scale to billions AND let millions of users read/write simultaneously.",
+       "correct": true,
+       "feedback": "<p>✅ <strong>Correct!</strong> Spreadsheets win for personal/small data. Databases win at scale.</p>"
+      },
+      {
+       "text": "Spreadsheets don't allow photos",
+       "correct": false,
+       "feedback": "<p>❌ They can hold links. The issue is scale.</p>"
+      },
+      {
+       "text": "Sheets only work weekdays",
+       "correct": false,
+       "feedback": "<p>❌ Spreadsheets work every day.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "discussions": [],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_0",
+   "title": "Start Here",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_home",
+     "completion": "must_view"
+    },
+    {
+     "type": "page",
+     "ref": "p_syllabus",
+     "completion": "must_view"
+    }
+   ]
+  },
+  {
+   "id": "m_u4",
+   "title": "Unit 4 — Programming & Computational Thinking",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_w19_reading",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w19_activity",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w19",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_w20_reading",
+     "week": 2,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w20_activity",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w20",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_w21_reading",
+     "week": 3,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w21_activity",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w21",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_w22_reading",
+     "week": 4,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w22_activity",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w22",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_w23_reading",
+     "week": 5,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w23_activity",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w23",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_w24_reading",
+     "week": 6,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w24_activity",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w24",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u4_vr",
+     "week": 6,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_u5",
+   "title": "Unit 5 — Data, Science & Simulation",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_w25_reading",
+     "week": 7,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w25_activity",
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w25",
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_w26_reading",
+     "week": 8,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w26_activity",
+     "week": 8,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w26",
+     "week": 8,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_w27_reading",
+     "week": 9,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w27_activity",
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w27",
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_w28_reading",
+     "week": 10,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w28_activity",
+     "week": 10,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w28",
+     "week": 10,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_w29_reading",
+     "week": 11,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w29_activity",
+     "week": 11,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w29",
+     "week": 11,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_w30_reading",
+     "week": 12,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w30_activity",
+     "week": 12,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w30",
+     "week": 12,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u5_vr",
+     "week": 12,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_u6",
+   "title": "Unit 6 — Software Development & Design Thinking",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_w31_reading",
+     "week": 13,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w31_activity",
+     "week": 13,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w31",
+     "week": 13,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_w32_reading",
+     "week": 14,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w32_activity",
+     "week": 14,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w32",
+     "week": 14,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_w33_reading",
+     "week": 15,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w33_activity",
+     "week": 15,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w33",
+     "week": 15,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_w34_reading",
+     "week": 16,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w34_activity",
+     "week": 16,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w34",
+     "week": 16,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_w35_reading",
+     "week": 17,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w35_activity",
+     "week": 17,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w35",
+     "week": 17,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_w36_reading",
+     "week": 18,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w36_activity",
+     "week": 18,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w36",
+     "week": 18,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u6_vr",
+     "week": 18,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_tr",
+   "title": "Teacher Resources",
+   "published": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_tr_w19_key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_w20_key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_w21_key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_w22_key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_w23_key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_w24_key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_w25_key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_w26_key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_w27_key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_w28_key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_w29_key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_w30_key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_w31_key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_w32_key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_w33_key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_w34_key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_w35_key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_w36_key"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Generated by oao-digital-discoveries-gr8/tools/kit_spec.py --semester 2 from the course folder (Unit4, Unit5, Unit6). Unit titles, item discovery, order, page titles and iframe bodies come from build_imscc.py, which produced Digital_Discoveries_Grade8.imscc: each week is a reading Page, an activity Assignment (10 pts, Activities) and a 5-question Quiz (Quizzes & Assessments, 3 attempts) from the QTI zip; one Arthur VR build Assignment per unit. Lessons iframe facevedoOE.github.io. Weeks are relative to the first week of the semester. Answer keys are unpublished Teacher Resources pages. Standards codes stripped from quiz feedback."
+ }
+}
