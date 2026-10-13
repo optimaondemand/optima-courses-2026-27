@@ -1,0 +1,2165 @@
+{
+ "course": {
+  "title": "M/J Grade 7 Digital Discoveries Sem 2",
+  "code": "0200022",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_async",
+   "title": "Asynchronous / Independent Work",
+   "weight": 70
+  },
+  {
+   "id": "ag_projects",
+   "title": "Projects & Capstone Portfolio",
+   "weight": 30
+  }
+ ],
+ "rubrics": [],
+ "pages": [
+  {
+   "id": "p_home",
+   "title": "Welcome — Course Home",
+   "front_page": true,
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Welcome — Course Home</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/00-home.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/00-home.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Welcome — Course Home\"></iframe></p>"
+  },
+  {
+   "id": "p_syllabus",
+   "title": "Course Syllabus",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Course Syllabus</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/00-syllabus.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/00-syllabus.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Course Syllabus\"></iframe></p>"
+  },
+  {
+   "id": "p_u6_overview",
+   "title": "Unit 6 Overview",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Unit 6 Overview</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-06/index.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-06/index.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Unit 6 Overview\"></iframe></p>"
+  },
+  {
+   "id": "p_u6_reading-turing",
+   "title": "Unit 6 Reading — Turing: Can Machines Think?",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Unit 6 Reading — Turing: Can Machines Think?</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-06/reading-turing.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-06/reading-turing.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Unit 6 Reading — Turing: Can Machines Think?\"></iframe></p>"
+  },
+  {
+   "id": "p_u6_lesson_1",
+   "title": "Lesson 1 — The Imitation Game",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 1 — The Imitation Game</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-06/lesson-01-turing.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-06/lesson-01-turing.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 1 — The Imitation Game\"></iframe></p>"
+  },
+  {
+   "id": "p_u6_lesson_2",
+   "title": "Lesson 2 — Tracing a Program",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 2 — Tracing a Program</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-06/lesson-02-tracing.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-06/lesson-02-tracing.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 2 — Tracing a Program\"></iframe></p>"
+  },
+  {
+   "id": "p_u6_lesson_3",
+   "title": "Lesson 3 — Predicting Behavior",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 3 — Predicting Behavior</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-06/lesson-03-predicting.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-06/lesson-03-predicting.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 3 — Predicting Behavior\"></iframe></p>"
+  },
+  {
+   "id": "p_u6_lesson_4",
+   "title": "Lesson 4 — Three Ways to Go Wrong",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 4 — Three Ways to Go Wrong</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-06/lesson-04-errors.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-06/lesson-04-errors.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 4 — Three Ways to Go Wrong\"></iframe></p>"
+  },
+  {
+   "id": "p_u6_assessment",
+   "title": "Unit 6 Assessment",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Unit 6 Assessment</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-06/assessment.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-06/assessment.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Unit 6 Assessment\"></iframe></p>"
+  },
+  {
+   "id": "p_tr_u6_answer-key",
+   "title": "Unit 6 Answer Key (teacher only)",
+   "published": false,
+   "html": "<h2>Unit 6 Quiz — Answer Key (teacher only)</h2>\n<blockquote>Letters are canonical positions in the QTI. Canvas <strong>shuffles answer order</strong> on delivery.</blockquote>\n<table style=\"border-collapse:collapse;width:100%\">\n<tr><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">#</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Item</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Benchmark</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Correct answer</th></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">1</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">What tracing means</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.3.6</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>C</strong> — follow by hand, recording each variable</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">2</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Trace x = 3; ×2; +1</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.3.6</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>A</strong> — 7</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">3</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Euclid for a=20, b=8</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.3.6</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>D</strong> — 4</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">4</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Predict password shape (length=4)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.2.1</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>B</strong> — exactly 4 characters, random content</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">5</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Which input triggers the warning</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.2.1</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>C</strong> — length = 5</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">6</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Why predict before running</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.2.1</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>A</strong> — proves understanding of inputs</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">7</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Missing quote, won&#x27;t start</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.8</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>D</strong> — syntax</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">8</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Runs fine, wrong answer</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.8</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>B</strong> — logical</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">9</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Crashes mid-run on ÷0</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.8</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>A</strong> — runtime</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">10</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Written trace (a=24, b=9)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.3.6 (+2.1, 1.8)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Manual, <code>rubric.md</code>. Expected: (24,9)→r=6→(9,6); (9,6)→r=3→(6,3); (6,3)→r=0→(3,0); <strong>says 3</strong></td></tr>\n</table>\n<p><strong>Auto-graded:</strong> Q1–Q9 (1 pt each). <strong>Q10</strong> essay is manual (3 pts).</p>"
+  },
+  {
+   "id": "p_tr_u6_rubric",
+   "title": "Unit 6 Rubric (teacher only)",
+   "published": false,
+   "html": "<h2>Unit 6 — “Trace and Report” Rubric</h2>\n<p><strong>Task:</strong> Trace Euclid&#x27;s algorithm for a = 24, b = 9 with a full trace table; state the final output; explain each loop line in plain words; judge which error type a trace-vs-run mismatch would suggest.</p>\n<p><strong>Primary benchmark:</strong> SC.7.PE.3.6 (perform program tracing to predict the behavior of programs). <strong>Also evidenced:</strong> SC.7.PE.2.1 (predict outputs), SC.7.PE.1.8 (error types).</p>\n<p><strong>Expected trace:</strong> (24, 9) → r = 6 → (9, 6) → r = 3 → (6, 3) → r = 0 → (3, 0); the program says <strong>3</strong>.</p>\n<table style=\"border-collapse:collapse;width:100%\">\n<tr><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Criterion</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">4 — Exemplary</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">3 — Proficient</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">2 — Developing</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">1 — Beginning</th></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Trace table</strong> (PE.3.6)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Every pass present; every a/b/r value correct</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Complete with ≤1 arithmetic slip</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Table attempted; passes missing or several errors</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">No usable table</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Final output</strong> (PE.2.1)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Correct (3), clearly stated</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Correct but buried</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Wrong but consistent with their table</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Missing/unjustified</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Plain-words explanation</strong></td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Each loop line explained accurately in own words</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Mostly accurate</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Vague or partly wrong</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Missing</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Error-type judgment</strong> (PE.1.8)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Names a type with sound reasoning (typically logical)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Names a plausible type</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Names a type, weak reasoning</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Missing</td></tr>\n</table>\n<p><strong>Suggested scoring:</strong> 16 pts (4 × 4). Insincere/nonsense submissions earn no credit.</p>"
+  },
+  {
+   "id": "p_u7_overview",
+   "title": "Unit 7 Overview",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Unit 7 Overview</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-07/index.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-07/index.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Unit 7 Overview\"></iframe></p>"
+  },
+  {
+   "id": "p_u7_lesson_1",
+   "title": "Lesson 1 — The Pattern in the Sunflower",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 1 — The Pattern in the Sunflower</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-07/lesson-01-fibonacci.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-07/lesson-01-fibonacci.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 1 — The Pattern in the Sunflower\"></iframe></p>"
+  },
+  {
+   "id": "p_u7_lesson_2",
+   "title": "Lesson 2 — The Loop",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 2 — The Loop</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-07/lesson-02-loops.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-07/lesson-02-loops.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 2 — The Loop\"></iframe></p>"
+  },
+  {
+   "id": "p_u7_lesson_3",
+   "title": "Lesson 3 — Two Ways to Build It",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 3 — Two Ways to Build It</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-07/lesson-03-two-ways.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-07/lesson-03-two-ways.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 3 — Two Ways to Build It\"></iframe></p>"
+  },
+  {
+   "id": "p_u7_lesson_4",
+   "title": "Lesson 4 — Building with Blocks",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 4 — Building with Blocks</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-07/lesson-04-blocks.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-07/lesson-04-blocks.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 4 — Building with Blocks\"></iframe></p>"
+  },
+  {
+   "id": "p_u7_lesson_5",
+   "title": "Lesson 5 — The Build",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 5 — The Build</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-07/lesson-05-build.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-07/lesson-05-build.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 5 — The Build\"></iframe></p>"
+  },
+  {
+   "id": "p_u7_assessment",
+   "title": "Unit 7 Assessment",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Unit 7 Assessment</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-07/assessment.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-07/assessment.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Unit 7 Assessment\"></iframe></p>"
+  },
+  {
+   "id": "p_tr_u7_answer-key",
+   "title": "Unit 7 Answer Key (teacher only)",
+   "published": false,
+   "html": "<h2>Unit 7 Quiz — Answer Key (teacher only)</h2>\n<blockquote>Letters are canonical positions in the QTI. Canvas <strong>shuffles answer order</strong> on delivery. No essay item — the unit&#x27;s constructed response is the <strong>Unit 7 Project</strong> (Projects 30% group).</blockquote>\n<table style=\"border-collapse:collapse;width:100%\">\n<tr><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">#</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Item</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Benchmark</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Correct answer</th></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">1</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Fibonacci rule</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.11</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>B</strong> — add the two numbers before</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">2</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">&quot;Iterative&quot; means</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.11</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>C</strong> — uses a loop to repeat a step</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">3</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">100 terms: iterative vs written-out</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.11</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>A</strong> — same few lines at any length</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">4</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">for each animal … say animal</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.2</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>D</strong> — cat, then dog, then owl</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">5</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Every loop&#x27;s two questions</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.2</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>B</strong> — what repeats? what stops it?</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">6</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Infinite loop = logical error (T/F)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.2</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>True</strong></td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">7</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">if (score &gt; 10) then… is a</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.6</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>C</strong> — conditional statement</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">8</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">&quot;My Block&quot; is the block version of a</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.6</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>B</strong> — function</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">9</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Trace: repeat 5 × change by 2</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.6</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>A</strong> — 10</td></tr>\n</table>\n<p><strong>Auto-graded:</strong> Q1–Q9 (1 pt each). The <strong>project</strong> is graded separately with <code>rubric.md</code>.</p>"
+  },
+  {
+   "id": "p_tr_u7_rubric",
+   "title": "Unit 7 Rubric (teacher only)",
+   "published": false,
+   "html": "<h2>Unit 7 — Build Project Rubric (Projects 30% group)</h2>\n<p><strong>Task:</strong> Build a Scratch program using, at least once each: a loop, a conditional, a variable the student creates and changes, an expression — plus a short deliberately <strong>non-iterative</strong> section with a one-sentence justification. Submit the project file/link and a 1–2 minute recorded walkthrough, including a one-sentence bug story.</p>\n<p><strong>Primary benchmark:</strong> SC.7.PE.1.6 (develop problem solutions using a block programming language — looping behavior, conditional statements, expressions, variables and functions). <strong>Also evidenced:</strong> SC.7.PE.1.11 (iterative &amp; non-iterative structures), SC.7.PE.1.2 (iteration), SC.7.PE.1.8 (error identified in the bug story), SC.K12.CTR.1.1.</p>\n<table style=\"border-collapse:collapse;width:100%\">\n<tr><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Criterion</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">4 — Exemplary</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">3 — Proficient</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">2 — Developing</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">1 — Beginning</th></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Required elements</strong> (PE.1.6)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">All five present, working, and used meaningfully</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">All five present and working</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">One missing or non-functional</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Several missing</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Iterative + non-iterative</strong> (PE.1.11)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Both present; the non-iterative choice sensibly justified</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Both present; justification thin</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">One of the two missing</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Neither deliberate</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Program quality</strong></td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Runs cleanly start to finish; small and finished</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Runs with minor rough edges</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Runs partially</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Does not run</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Walkthrough &amp; bug story</strong></td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Clear recording pointing at each element; honest bug story naming the error type</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Recording covers most elements; bug story present</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Recording unclear or bug story missing</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">No recording</td></tr>\n</table>\n<p><strong>Suggested scoring:</strong> 16 pts scaled to the assignment&#x27;s 20 points. Ambition is welcome, but completeness beats scope. Insincere/nonsense submissions earn no credit.</p>"
+  },
+  {
+   "id": "p_u8_overview",
+   "title": "Unit 8 Overview",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Unit 8 Overview</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-08/index.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-08/index.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Unit 8 Overview\"></iframe></p>"
+  },
+  {
+   "id": "p_u8_reading-first-bug",
+   "title": "Unit 8 Primary Source — The First Computer Bug (1947)",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Unit 8 Primary Source — The First Computer Bug (1947)</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-08/reading-first-bug.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-08/reading-first-bug.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Unit 8 Primary Source — The First Computer Bug (1947)\"></iframe></p>"
+  },
+  {
+   "id": "p_u8_lesson_1",
+   "title": "Lesson 1 — The Bug Hunt",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 1 — The Bug Hunt</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-08/lesson-01-bug-hunt.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-08/lesson-01-bug-hunt.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 1 — The Bug Hunt\"></iframe></p>"
+  },
+  {
+   "id": "p_u8_lesson_2",
+   "title": "Lesson 2 — The Life Cycle",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 2 — The Life Cycle</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-08/lesson-02-sdlc.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-08/lesson-02-sdlc.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 2 — The Life Cycle\"></iframe></p>"
+  },
+  {
+   "id": "p_u8_lesson_3",
+   "title": "Lesson 3 — The Blueprint",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 3 — The Blueprint</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-08/lesson-03-classes.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-08/lesson-03-classes.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 3 — The Blueprint\"></iframe></p>"
+  },
+  {
+   "id": "p_u8_assessment",
+   "title": "Unit 8 Assessment",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Unit 8 Assessment</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-08/assessment.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-08/assessment.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Unit 8 Assessment\"></iframe></p>"
+  },
+  {
+   "id": "p_tr_u8_answer-key",
+   "title": "Unit 8 Answer Key (teacher only)",
+   "published": false,
+   "html": "<h2>Unit 8 Quiz — Answer Key (teacher only)</h2>\n<blockquote>Letters are canonical positions in the QTI. Canvas <strong>shuffles answer order</strong> on delivery.</blockquote>\n<table style=\"border-collapse:collapse;width:100%\">\n<tr><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">#</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Item</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Benchmark</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Correct answer</th></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">1</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Origin of &quot;debugging&quot; (1947 moth)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.8</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>B</strong> — moth found and taped into the logbook</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">2</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Runs fine, total too high → suspect</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.8</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>C</strong> — logical error; trace the math</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">3</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Systematic debugging</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.8</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>A</strong> — observe → locate → name → fix one &amp; re-test</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">4</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SDLC phases in order</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.4.1</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>D</strong> — Plan → Design → Build → Test → Launch → Maintain</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">5</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Sketching screens before code</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.4.1</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>B</strong> — Design</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">6</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Why &quot;cycle&quot; (T/F)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.4.1</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>True</strong></td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">7</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">A class is…</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.3.4</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>A</strong> — the outline/blueprint objects are made from</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">8</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">rex (&quot;Rex&quot;, 3, beagle) is…</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.3.4</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>C</strong> — an object with its own attribute values</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">9</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">name/age/breed are…</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.3.4</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>B</strong> — attributes</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">10</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Repair report (essay)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.8 (+4.1, 3.4)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Manual, <code>rubric.md</code>. Expected: line 4 <strong>logical</strong> (− should be +); line 5 <strong>runtime</strong> (count is 0 → ÷0; set count = 3 / guard it); line 6 <strong>syntax</strong> (unclosed quote; also &quot;aver&quot; should be the variable average). Phase: <strong>Test</strong>.</td></tr>\n</table>\n<p><strong>Auto-graded:</strong> Q1–Q9 (1 pt each). <strong>Q10</strong> essay is manual (3 pts).</p>"
+  },
+  {
+   "id": "p_tr_u8_rubric",
+   "title": "Unit 8 Rubric (teacher only)",
+   "published": false,
+   "html": "<h2>Unit 8 — “Repair Report” Rubric</h2>\n<p><strong>Task:</strong> For the three-bug program (assessment page): name each bug&#x27;s type, line, and fix; name the SDLC phase whose job is catching bugs; define a class in one sentence.</p>\n<p><strong>Primary benchmark:</strong> SC.7.PE.1.8 (identify types of programming errors — applied in debugging). <strong>Also evidenced:</strong> SC.7.PE.4.1 (SDLC), SC.7.PE.3.4 (class concept), ELA.K12.EE.5.1.</p>\n<p><strong>Expected findings:</strong></p>\n<ul><li>Line 4 — <strong>logical</strong>: <code>total = total − s</code> subtracts; should be <code>+</code>. Runs fine, answer wrong.</li><li>Line 5 — <strong>runtime</strong>: <code>count</code> was never set (0) → division by zero crashes. Fix: set count to the</li></ul>\n<p>number of scores (3) or guard the division.</p>\n<ul><li>Line 6 — <strong>syntax</strong>: unclosed quotation mark (and the text &quot;aver&quot; instead of the variable). Won&#x27;t start.</li><li>Phase: <strong>Test</strong> (accept &quot;testing&quot;; maintenance also credited if reasoned as post-launch discovery).</li></ul>\n<table style=\"border-collapse:collapse;width:100%\">\n<tr><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Criterion</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">4 — Exemplary</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">3 — Proficient</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">2 — Developing</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">1 — Beginning</th></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Bugs found &amp; typed</strong> (PE.1.8)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">All three: correct type, line, and a working fix</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">All three found; ≤1 slip in type or fix</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Two found</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">One or none</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Fixes</strong></td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Each fix would truly cure the bug</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Fixes mostly sound</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Fixes vague</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">No usable fixes</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>SDLC phase</strong> (PE.4.1)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Test named with a reason</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Test named</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Wrong phase, plausible reasoning</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Missing</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Class definition</strong> (PE.3.4)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">One clear sentence using outline/objects/attributes</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Accurate definition</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Partially right</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Missing/wrong</td></tr>\n</table>\n<p><strong>Suggested scoring:</strong> 16 pts (4 × 4). Insincere/nonsense submissions earn no credit.</p>"
+  },
+  {
+   "id": "p_u9_overview",
+   "title": "Unit 9 Overview",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Unit 9 Overview</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-09/index.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-09/index.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Unit 9 Overview\"></iframe></p>"
+  },
+  {
+   "id": "p_u9_lesson_1",
+   "title": "Lesson 1 — The Model & the World",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 1 — The Model &amp; the World</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-09/lesson-01-models.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-09/lesson-01-models.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 1 — The Model &amp; the World\"></iframe></p>"
+  },
+  {
+   "id": "p_u9_lesson_2",
+   "title": "Lesson 2 — Turning the Dials",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 2 — Turning the Dials</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-09/lesson-02-tweak.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-09/lesson-02-tweak.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 2 — Turning the Dials\"></iframe></p>"
+  },
+  {
+   "id": "p_u9_lesson_3",
+   "title": "Lesson 3 — The Honest Experiment",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 3 — The Honest Experiment</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-09/lesson-03-hypotheses.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-09/lesson-03-hypotheses.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 3 — The Honest Experiment\"></iframe></p>"
+  },
+  {
+   "id": "p_u9_assessment",
+   "title": "Unit 9 Assessment",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Unit 9 Assessment</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-09/assessment.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-09/assessment.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Unit 9 Assessment\"></iframe></p>"
+  },
+  {
+   "id": "p_tr_u9_answer-key",
+   "title": "Unit 9 Answer Key (teacher only)",
+   "published": false,
+   "html": "<h2>Unit 9 Quiz — Answer Key (teacher only)</h2>\n<blockquote>Letters are canonical positions in the QTI. Canvas <strong>shuffles answer order</strong> on delivery. No essay — the unit&#x27;s constructed response is the <strong>Simulation Investigation</strong> (Projects 30% group).</blockquote>\n<table style=\"border-collapse:collapse;width:100%\">\n<tr><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">#</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Item</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Benchmark</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Correct answer</th></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">1</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">What a simulation is</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.3.2</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>B</strong> — a model set in motion by a program</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">2</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Changing food 20→40 is…</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.3.2</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>C</strong> — modifying a parameter</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">3</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Models leave things out</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.3.2</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>A</strong> — deliberate focus + known limits</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">4</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Testable hypothesis</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.3.3</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>D</strong> — the doubling claim</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">5</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Fair test of food</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.3.3</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>A</strong> — change only food</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">6</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Report refutations honestly (T/F)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.3.3</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>True</strong></td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">7</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Powers in the meadow rule</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.6</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>B</strong> — conditional + expressions + variables</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">8</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">What turns the world per round</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.6</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>C</strong> — a loop</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">9</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Trace 10 rabbits, food 16</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.6</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>A</strong> — 8, then 8 (shrink once, hold)</td></tr>\n</table>\n<p><strong>Auto-graded:</strong> Q1–Q9 (1 pt each). The <strong>project</strong> is graded separately with <code>rubric.md</code>.</p>"
+  },
+  {
+   "id": "p_tr_u9_rubric",
+   "title": "Unit 9 Rubric (teacher only)",
+   "published": false,
+   "html": "<h2>Unit 9 — Simulation Investigation Rubric (Projects 30% group)</h2>\n<p><strong>Task:</strong> State a precise hypothesis; modify a simulation (the Rabbit Meadow, a PhET sim, or a Scratch simulation of the student&#x27;s own) to test it fairly; record the runs; report an honest conclusion. Submitted as a short findings report + a 1–2 minute recorded walkthrough.</p>\n<p><strong>Primary benchmarks:</strong> SC.7.PE.3.2 (modify and create a simulation to analyze and illustrate a concept in depth) and SC.7.PE.3.3 (use modeling and simulations to test scientific hypotheses). <strong>Also evidenced:</strong> SC.7.PE.1.6 (if built in Scratch), SC.K12.CTR.6.1/7.1, MA.K12.MTR.7.1.</p>\n<table style=\"border-collapse:collapse;width:100%\">\n<tr><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Criterion</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">4 — Exemplary</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">3 — Proficient</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">2 — Developing</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">1 — Beginning</th></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Hypothesis</strong> (PE.3.3)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Precise and measurable; names the parameter and the expected effect</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Testable, slightly loose</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Vague claim</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">No real hypothesis</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Fair modification</strong> (PE.3.2)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">One parameter (or rule) changed deliberately; the rest held; runs recorded before/after</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Fair test with a minor lapse</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Multiple things changed at once</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">No controlled comparison</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Data &amp; findings</strong></td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Runs recorded accurately; the comparison clearly shown</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Recorded with small gaps</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Partial data</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">No usable record</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Honest conclusion</strong></td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">States supported/refuted exactly, notes the model&#x27;s limits (what it leaves out)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Correct verdict</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Verdict unclear or overstated</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Conclusion contradicts the data</td></tr>\n</table>\n<p><strong>Suggested scoring:</strong> 16 pts scaled to the assignment&#x27;s 20 points. A refuted hypothesis honestly reported scores as well as a supported one. Insincere/nonsense submissions earn no credit.</p>"
+  },
+  {
+   "id": "p_u10_overview",
+   "title": "Unit 10 Overview",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Unit 10 Overview</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-10/index.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-10/index.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Unit 10 Overview\"></iframe></p>"
+  },
+  {
+   "id": "p_u10_lesson_1",
+   "title": "Lesson 1 — Vague, but Exciting",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 1 — Vague, but Exciting</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-10/lesson-01-the-proposal.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-10/lesson-01-the-proposal.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 1 — Vague, but Exciting\"></iframe></p>"
+  },
+  {
+   "id": "p_u10_lesson_2",
+   "title": "Lesson 2 — The Craftsman's Tools",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 2 — The Craftsman&#x27;s Tools</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-10/lesson-02-design-tools.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-10/lesson-02-design-tools.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 2 — The Craftsman&#x27;s Tools\"></iframe></p>"
+  },
+  {
+   "id": "p_u10_lesson_3",
+   "title": "Lesson 3 — Gathering the Year",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 3 — Gathering the Year</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-10/lesson-03-portfolio.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-10/lesson-03-portfolio.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 3 — Gathering the Year\"></iframe></p>"
+  },
+  {
+   "id": "p_u10_lesson_4",
+   "title": "Lesson 4 — Polish & Peers",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 4 — Polish &amp; Peers</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-10/lesson-04-polish.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-10/lesson-04-polish.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 4 — Polish &amp; Peers\"></iframe></p>"
+  },
+  {
+   "id": "p_u10_lesson_5",
+   "title": "Lesson 5 — The Presentation",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Lesson 5 — The Presentation</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-10/lesson-05-presentation.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-10/lesson-05-presentation.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Lesson 5 — The Presentation\"></iframe></p>"
+  },
+  {
+   "id": "p_u10_assessment",
+   "title": "Unit 10 Assessment",
+   "published": true,
+   "html": "<p style=\"margin:0 0 8px 0;font-family:'Wix Madefor Text',Segoe UI,Arial,sans-serif;font-size:14px;color:#0E5568\"><strong>Unit 10 Assessment</strong> — interactive lesson. Trouble viewing below? <a href=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-10/assessment.html\" target=\"_blank\" rel=\"noopener\">Open in a new tab</a>.</p>\n<p><iframe src=\"https://facevedooe.github.io/oao-digital-discoveries-gr7/canvas/unit-10/assessment.html\" width=\"100%\" height=\"900\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" loading=\"lazy\" style=\"border:0;width:100%;min-height:900px;display:block\" title=\"Unit 10 Assessment\"></iframe></p>"
+  },
+  {
+   "id": "p_tr_u10_answer-key",
+   "title": "Unit 10 Answer Key (teacher only)",
+   "published": false,
+   "html": "<h2>Unit 10 Quiz — Answer Key (teacher only)</h2>\n<blockquote>Letters are canonical positions in the QTI. Canvas <strong>shuffles answer order</strong> on delivery. No essay — the unit&#x27;s constructed response is the <strong>Capstone Portfolio</strong> (Projects 30% group).</blockquote>\n<table style=\"border-collapse:collapse;width:100%\">\n<tr><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">#</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Item</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Benchmark</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Correct answer</th></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">1</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">The 1989 proposal became…</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.7</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>B</strong> — the World Wide Web</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">2</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Kinds of online content</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.7</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>C</strong> — webpages, portfolios, multimedia artifacts</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">3</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">The <code>&lt;a href&gt;</code> tag creates…</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.7</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>A</strong> — a hyperlink</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">4</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Well-designed page has…</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.PE.1.7</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>D</strong> — headings, contrast, alt text, restraint</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">5</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Team building one shared page</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.CC.1.1</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>C</strong> — the tool&#x27;s sharing, one page, roles</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">6</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Specific warm feedback helps more (T/F)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.CC.1.1</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>True</strong></td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">7</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Builds/maintains webpages</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.TI.1.4</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>A</strong> — web developer</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">8</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Analyzing a career path means…</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.TI.1.4</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>B</strong> — duties, preparation, outlook, reliable source</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">9</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Loves hypotheses + models → career</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">SC.7.TI.1.4</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>C</strong> — data / simulation scientist</td></tr>\n</table>\n<p><strong>Auto-graded:</strong> Q1–Q9 (1 pt each). The <strong>capstone</strong> is graded separately with <code>rubric.md</code>.</p>"
+  },
+  {
+   "id": "p_tr_u10_rubric",
+   "title": "Unit 10 Rubric (teacher only)",
+   "published": false,
+   "html": "<h2>Unit 10 — Capstone Portfolio Rubric (Projects 30% group · final entry)</h2>\n<p><strong>Task:</strong> A published digital portfolio (welcome page + 4–6 artifacts from across the year, each with an introduction naming the skill it shows and one lesson learned; tools and sources credited), plus a 2–4 minute <strong>recorded presentation</strong> and the final written reflection (good/true/beautiful + the virtue it demanded).</p>\n<p><strong>Primary benchmark:</strong> SC.7.PE.1.7 (create online content using advanced design tools — webpages, digital portfolios, multimedia artifacts). <strong>Also evidenced:</strong> SC.7.CC.1.1 (multimedia tools), SC.7.TI.1.4 (careers reflection where present), ELA.K12.EE.1.1 (credit/citation), EE.5.1 (format &amp; quality), EE.6.1 (voice &amp; tone), SC.K12.CTR.3.1.</p>\n<table style=\"border-collapse:collapse;width:100%\">\n<tr><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">Criterion</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">4 — Exemplary</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">3 — Proficient</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">2 — Developing</th><th style=\"border:1px solid #d9e3eb;padding:6px 8px;text-align:left;background:#f4f7fa\">1 — Beginning</th></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Curation</strong></td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Welcome + 4–6 artifacts spanning distinct skills; every artifact introduced (what/skill/lesson learned)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">All parts present; introductions thinner</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Fewer artifacts or missing introductions</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">A pile, not a portfolio</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Craft &amp; accessibility</strong> (PE.1.7)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Clean headings, readable contrast, alt text on all images, restrained design</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Minor lapses</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Several design/accessibility gaps</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Hard to read or navigate</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Recorded presentation</strong> (EE.6.1)</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">2–4 min; own voice; two artifacts examined closely; honest year-in-one-thought</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Complete with rough edges</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Very short, or reads a script flatly</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Missing</td></tr>\n<tr><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\"><strong>Honesty &amp; credit</strong></td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Reflection candid (hard parts included); tools/sources credited</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Reflection + credit present</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">One missing</td><td style=\"border:1px solid #d9e3eb;padding:6px 8px;vertical-align:top\">Both missing / not own work</td></tr>\n</table>\n<p><strong>Suggested scoring:</strong> 16 pts scaled to the assignment&#x27;s 30 points. This is the year&#x27;s largest single grade — but the standard is the same as ever: good, true, and beautiful, honestly presented. Insincere/nonsense submissions earn no credit.</p>"
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a_u6_l1-discussion-turing",
+   "title": "Lesson 1 Discussion — Can Machines Think?",
+   "html": "<p>This is an <strong>online discussion</strong>. Read the assigned opening of Turing's\n<em>\"Computing Machinery and Intelligence\"</em> (1950) and <strong>one objection</strong> of your\nchoice — the \"Lady Lovelace\" objection connects directly to Unit 5.</p>\n\n<p><strong>Where to find the reading:</strong> open the <strong>Unit 6 Reading — “Turing: Can Machines\nThink?”</strong> page in this module. It links the free full text and tells you exactly which parts to\nread (the opening on the imitation game, plus one objection from the section “Contrary Views on the\nMain Question”). Direct link to the reading:\n<a href=\"https://archive.org/details/MIND--COMPUTING-MACHINERY-AND-INTELLIGENCE\" target=\"_blank\" rel=\"noopener\">archive.org — Computing Machinery and Intelligence ↗</a> (free, no account).</p>\n<p><strong>Post to the discussion board, then reply to a classmate:</strong></p>\n<ol>\n  <li>In your own words, why did Turing replace \"Can machines think?\" with the imitation game?</li>\n  <li>State the objection you read, and Turing's reply to it — then say whether <em>you</em> find his reply convincing, with a reason.</li>\n  <li>Reply thoughtfully to at least one classmate — especially one who chose a different objection.</li>\n</ol>\n<p>You may type, upload, or record your response.</p>\n<p><em>Graded on: an accurate account of the game; a fair summary of one objection and reply; your own reasoned judgment; a courteous, substantive reply to a peer.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u6_l2-trace-euclid",
+   "title": "Lesson 2 Activity — Trace It Yourself",
+   "html": "<p>You watched the trace stepper run Euclid's algorithm. Now trace it yourself.</p>\n<p><strong>Submit (text, file, or media):</strong></p>\n<ol>\n  <li>Trace Euclid's algorithm for <strong>a = 36, b = 10</strong>. Write the full <strong>trace table</strong> — one row per pass, with the values of a, b, and r — and state what the program says.</li>\n  <li>Trace it again for a pair of numbers <strong>you choose</strong>.</li>\n  <li>In one sentence: what tells you the loop is about to stop?</li>\n</ol>\n<p><em>Graded on: complete, correct trace tables; correct final outputs; the stop condition identified.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u6_l3-predict-sections",
+   "title": "Lesson 3 Activity — Sections in Your Own Words",
+   "html": "<p>You matched the password randomizer's sections to their purposes. Now write it out properly — the\nway a programmer documents unfamiliar code.</p>\n<p><strong>Submit (text, file, or media):</strong></p>\n<ol>\n  <li>For <strong>each of the four sections</strong> of the password program, write 1–2 sentences <strong>in your own words</strong> predicting what that section will do when the program runs.</li>\n  <li>Predict the program's behavior for input <strong>length = 3</strong>: how many characters, and does the warning appear?</li>\n  <li>Suppose Section 3's loop said <em>repeat length − 1 times</em> by mistake. Predict what would change — and name the error type.</li>\n</ol>\n<p><em>Graded on: accurate own-words predictions per section; correct behavior predictions; the off-by-one identified as a logical error.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u6_l4-error-types",
+   "title": "Lesson 4 Activity — Three Kinds of Wrong",
+   "html": "<p>You classified errors as syntax, logical, or runtime.</p>\n<p><strong>Submit (text, file, or media):</strong></p>\n<ol>\n  <li>Define the three error types in your own words — one sentence each — including <em>when</em> each shows itself (won't start / won't finish / finishes wrong).</li>\n  <li>Invent <strong>one example of each type</strong> (a line of code, or a plain description of what goes wrong).</li>\n  <li>Which type is hardest to find, and what skill from this unit finds it?</li>\n</ol>\n<p><em>Graded on: accurate definitions; three sensible, correctly-typed examples; the logical-error + tracing connection.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u6_unit-vr-trace-wall",
+   "title": "Unit 6 Build — The Trace Wall (Arthur VR)",
+   "html": "<p><strong>Build a small \"trace wall\" — a program and its trace, laid out in space.</strong> You create\nit yourself — nothing to \"join.\" Plan on about <strong>20–30 minutes</strong>.</p>\n\n<p><strong>Build it in Arthur (VR):</strong></p>\n<ol>\n  <li>Create your own space in Arthur.</li>\n  <li>Post a <strong>tiny program</strong> (3–4 lines — Euclid for small numbers, or a short loop from Unit 5) on one panel.</li>\n  <li>Next to it, build its <strong>trace table</strong> as a row of notes: one note per pass, showing each variable's value.</li>\n  <li>Add one \"wanted poster\" note for an <strong>error type</strong> of your choice — its name, how it shows itself, and a one-line example.</li>\n  <li>Record a <strong>1–2 minute walkthrough</strong> reading your trace aloud, pass by pass, ending with what the program says.</li>\n</ol>\n\n<p><strong>No headset? Do the no-VR version (same credit):</strong> one slide or short doc with the\nprogram, its trace table, and the error-type \"wanted poster.\"</p>\n\n<p><strong>Submit:</strong> your recording (link/upload) or your slide/doc. You may type, upload, or record media.</p>\n\n<p><em>Graded on: a correct trace of your program; the final output stated; an accurate error-type\nposter; a clear walkthrough in your own words. Keep it simple and neat.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u7_l1-discussion-patterns",
+   "title": "Lesson 1 Discussion — Patterns You Have Seen",
+   "html": "<p>This is an <strong>online discussion</strong> about the patterns around you.</p>\n<p><strong>Post to the discussion board, then reply to a classmate:</strong></p>\n<ol>\n  <li>Describe one repeating pattern you have met — in nature, music, art, sports, or daily life.</li>\n  <li>State its <strong>rule</strong> the way we stated Fibonacci's (\"each new number is the sum of the two before\"): what is the repeated step?</li>\n  <li>Could a loop build your pattern? Say what the loop body would do.</li>\n  <li>Reply thoughtfully to at least one classmate — try continuing <em>their</em> pattern by its rule.</li>\n</ol>\n<p>You may type, upload, or record your response.</p>\n<p><em>Graded on: a real pattern with a precisely stated rule; a sensible loop connection; a courteous, substantive reply.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u7_l2-write-a-loop",
+   "title": "Lesson 2 Activity — Loops With a Purpose",
+   "html": "<p>You assembled a loop and studied its behavior.</p>\n<p><strong>Submit (text, file, or media):</strong></p>\n<ol>\n  <li>Write (pseudocode or block-style) a loop that <strong>says every item of a list you invent</strong> — at least four items.</li>\n  <li>For your loop, answer the two loop questions: <em>what step repeats?</em> and <em>what makes it stop?</em></li>\n  <li>Write one loop that would run <strong>forever</strong> — and one sentence on why, naming the error type.</li>\n</ol>\n<p><em>Graded on: a working for-each loop; both loop questions answered; the infinite loop correctly explained as a logical error.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u7_l3-two-ways",
+   "title": "Lesson 3 Activity — Fibonacci, Both Ways",
+   "html": "<p>You watched the sequence built two ways. Now create both structures yourself.</p>\n<p><strong>Submit (text, file, or media):</strong></p>\n<ol>\n  <li><strong>Non-iterative:</strong> write out the steps (no loop) that produce the first <strong>7</strong> Fibonacci numbers, one line per new term.</li>\n  <li><strong>Iterative:</strong> write a loop version (pseudocode or block-style) that produces the same 7 numbers.</li>\n  <li>Count the lines in each. Which version would you trust for 50 terms, and why — in two sentences?</li>\n</ol>\n<p><em>Graded on: both structures correct and clearly distinct; accurate terms (1, 1, 2, 3, 5, 8, 13); a sound comparison.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u7_l4-scratch-explore",
+   "title": "Lesson 4 Activity — Five Powers in Scratch",
+   "html": "<p>Open <a href=\"https://scratch.mit.edu/projects/editor/\">Scratch</a> (press <em>Create</em> — no\nsign-in needed) and explore the five powers.</p>\n<p><strong>Submit (text, file, or media — screenshots welcome):</strong></p>\n<ol>\n  <li>Build a tiny script that uses a <strong>loop</strong>, a <strong>variable</strong>, and a <strong>conditional</strong> together (the Lesson 4 example script is a fine starting point).</li>\n  <li>Screenshot or describe your script, and state what it does when it runs.</li>\n  <li>Find one <strong>expression</strong> block (Operators) and one <strong>My Block</strong> (function). Name each and say, in one sentence, what job it does.</li>\n</ol>\n<p><em>Graded on: a working three-power script; an accurate account of its behavior; correct identification of an expression and a function.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u7_l5-project-patterns",
+   "title": "Unit 7 Project — Build With the Five Powers",
+   "html": "<p><strong>Your first major project:</strong> build a program of your own in\n<a href=\"https://scratch.mit.edu/projects/editor/\">Scratch</a>. What it <em>is</em> — a pattern-drawer,\na quiz game, a Fibonacci machine, a story with choices — is your call. <em>Small and finished beats\nbig and broken.</em></p>\n\n<p><strong>Your program must use, at least once each:</strong></p>\n<ol>\n  <li>a <strong>loop</strong> (iterative structure),</li>\n  <li>a <strong>conditional</strong> (if… then),</li>\n  <li>a <strong>variable</strong> you create and change,</li>\n  <li>an <strong>expression</strong> that computes something,</li>\n  <li>a short <strong>non-iterative section</strong> — steps deliberately written out — with a one-sentence note on why you chose not to loop there.</li>\n</ol>\n\n<p><strong>Submit:</strong></p>\n<ul>\n  <li>Your project — a shared link, or the file from <em>File → Save to your computer</em>;</li>\n  <li>a <strong>1–2 minute recorded walkthrough</strong>: show it running and point at each required element;</li>\n  <li>your <strong>bug story</strong> — one sentence about something that went wrong while building, naming the error type (syntax, logical, or runtime) and how you fixed it.</li>\n</ul>\n\n<p><em>Graded with the Unit 7 project rubric: all five elements present and working · iterative +\nnon-iterative both deliberate · runs cleanly · clear walkthrough and honest bug story. This project\ncounts in the <strong>Projects</strong> portion of your grade.</em></p>",
+   "points": 20,
+   "group": "ag_projects",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u7_unit-vr-fibonacci-garden",
+   "title": "Unit 7 Build — Fibonacci Garden (Arthur VR)",
+   "html": "<p><strong>Build a small \"Fibonacci garden\" — the sequence growing through space.</strong> You create\nit yourself — nothing to \"join.\" Plan on about <strong>20–30 minutes</strong>.</p>\n\n<p><strong>Build it in Arthur (VR):</strong></p>\n<ol>\n  <li>Create your own space in Arthur.</li>\n  <li>Place <strong>labeled markers for the first 8 Fibonacci numbers</strong> (1, 1, 2, 3, 5, 8, 13, 21) in a row or spiral — let the spacing or size grow with the numbers if you like.</li>\n  <li>Add one note stating the <strong>rule</strong> (\"each number is the sum of the two before\").</li>\n  <li>Add one note contrasting the two ways to build it: <em>iterative — one repeated step</em> vs. <em>non-iterative — every step written out</em>.</li>\n  <li>Record a <strong>1–2 minute walkthrough</strong> reading the sequence aloud and explaining, at one marker, how it was made from the two before.</li>\n</ol>\n\n<p><strong>No headset? Do the no-VR version (same credit):</strong> one slide or short doc with the 8\nlabeled numbers (a drawn spiral is welcome), the rule, and the iterative-vs-non-iterative note.</p>\n\n<p><strong>Submit:</strong> your recording (link/upload) or your slide/doc. You may type, upload, or record media.</p>\n\n<p><em>Graded on: correct sequence and rule; an accurate iterative-vs-non-iterative note; a clear\nwalkthrough in your own words. Keep it simple and neat.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u8_l1-discussion-first-bug",
+   "title": "Lesson 1 Discussion — The Moth in the Log",
+   "html": "<p>This is an <strong>online discussion</strong>. Look closely at the 1947 logbook page — the moth is\nstill taped to it.</p>\n\n<p><strong>Where to find it:</strong> open the <strong>Unit 8 Primary Source — “The First Computer\nBug”</strong> page in this module. Direct link to the artifact:\n<a href=\"https://americanhistory.si.edu/collections/object/nmah_334663\" target=\"_blank\" rel=\"noopener\">Smithsonian — Log Book With Computer Bug ↗</a>.</p>\n<p><strong>Post to the discussion board, then reply to a classmate:</strong></p>\n<ol>\n  <li>Why do you think the engineers <em>kept</em> the moth and wrote the note, instead of just fixing the machine and moving on? What does an honest record do for the next person?</li>\n  <li>Tell a short \"bug story\" of your own — a time something you made (code, a recipe, a build, a routine) went wrong. Name which error type it most resembles: <em>wouldn't start, wouldn't finish, or finished wrong</em>.</li>\n  <li>Reply thoughtfully to at least one classmate — suggest how you would have hunted their bug.</li>\n</ol>\n<p>You may type, upload, or record your response.</p>\n<p><em>Graded on: a thoughtful reading of the artifact; a bug story with a correct error-type match; a courteous, substantive reply.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u8_l2-sdlc",
+   "title": "Lesson 2 Activity — One Turn of the Wheel",
+   "html": "<p>You ordered the six phases and matched activities to them.</p>\n<p><strong>Submit (text, file, or media):</strong></p>\n<ol>\n  <li>List the <strong>six phases</strong> of the software development life cycle, in order, with one sentence defining each.</li>\n  <li>Take a project you have actually made — your Unit 7 Scratch build is perfect — and describe <strong>one thing you did in each phase</strong> (even informally). If you skipped a phase, say so honestly and note what skipping it cost you.</li>\n  <li>In one sentence: why is it a <em>cycle</em> and not a straight line?</li>\n</ol>\n<p><em>Graded on: all six phases correctly defined and ordered; an honest mapping of your own project onto the cycle; the cycle explained.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u8_l3-design-a-class",
+   "title": "Lesson 3 Activity — Design a Class",
+   "html": "<p>You sorted blueprints from the things built from them. Now design one.</p>\n<p><strong>Submit (text, file, or media):</strong></p>\n<ol>\n  <li>Define a <strong>class</strong> in one sentence of your own, using the words <em>outline</em>, <em>objects</em>, and <em>attributes</em>.</li>\n  <li>Choose a kind of thing a program might track (a player, a plant, a song, a pet…). Write its class: the class name and <strong>three sensible attributes</strong>.</li>\n  <li>Create <strong>two objects</strong> from your class — same attributes, each with its own values.</li>\n  <li>In one sentence: what stays the same between your two objects, and what differs?</li>\n</ol>\n<p><em>Graded on: an accurate definition; a well-chosen class with sensible attributes; two correct objects; the same/different insight.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u8_unit-vr-software-workshop",
+   "title": "Unit 8 Build — The Software Workshop (Arthur VR)",
+   "html": "<p><strong>Build a small \"software workshop\" — the life cycle laid out as stations.</strong> You create\nit yourself — nothing to \"join.\" Plan on about <strong>20–30 minutes</strong>.</p>\n\n<p><strong>Build it in Arthur (VR):</strong></p>\n<ol>\n  <li>Create your own space in Arthur.</li>\n  <li>Place <strong>six labeled stations in order</strong> — Plan, Design, Build, Test, Launch, Maintain — each with one note saying what happens there.</li>\n  <li>At the <strong>Test</strong> station, add a small \"bug board\": the three error types with your one-line memory aid for each (<em>won't start / won't finish / finishes wrong</em>).</li>\n  <li>Optional flourish: a \"moth in the log\" tribute note at Test — the 1947 story in one sentence.</li>\n  <li>Record a <strong>1–2 minute walkthrough</strong> touring the six stations in order.</li>\n</ol>\n\n<p><strong>No headset? Do the no-VR version (same credit):</strong> one slide or short doc with the six\nphases in order (one line each) and the three-error bug board.</p>\n\n<p><strong>Submit:</strong> your recording (link/upload) or your slide/doc. You may type, upload, or record media.</p>\n\n<p><em>Graded on: six phases correct and in order with accurate one-liners; a correct bug board; a\nclear walkthrough in your own words. Keep it simple and neat.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u9_l1-discussion-models",
+   "title": "Lesson 1 Discussion — Models Around You",
+   "html": "<p>This is an <strong>online discussion</strong> about the models and simulations already in your life.</p>\n<p><strong>Post to the discussion board, then reply to a classmate:</strong></p>\n<ol>\n  <li>Name one model or simulation you have actually used — a weather forecast, a flight or driving simulator, a sports video game, a map, a science sim.</li>\n  <li>What does it <strong>keep</strong> from the real world, and what does it <strong>leave out</strong>?</li>\n  <li>Does the omission matter for how people use it? Give one case where trusting the model too far could mislead someone.</li>\n  <li>Reply thoughtfully to at least one classmate — suggest one more thing their model omits.</li>\n</ol>\n<p>You may type, upload, or record your response.</p>\n<p><em>Graded on: a real model correctly described; a thoughtful keep/omit analysis; a courteous, substantive reply.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u9_l2-tweak-report",
+   "title": "Lesson 2 Activity — Three Fates of the Meadow",
+   "html": "<p>You turned the meadow's dials. Now document what you found.</p>\n<p><strong>Submit (text, file, or media — screenshots of your runs welcome):</strong></p>\n<ol>\n  <li>Find and record parameter settings (starting rabbits + food) that make the herd\n    <strong>(a) grow, (b) shrink, and (c) hold steady from the very first round</strong>. List all three settings with the first three rounds of each run.</li>\n  <li>In 2–3 sentences: what concept does this simulation illustrate about populations and resources? (Hint: what happens to every growing herd eventually?)</li>\n  <li>Propose <strong>one rule change</strong> (not a dial — a change to the model's rules) and predict how it would alter the meadow's behavior.</li>\n</ol>\n<p><em>Graded on: three correct settings with accurate runs; the carrying-capacity insight in your own words; a sensible rule-change proposal with a prediction.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u9_l3-project-simulation",
+   "title": "Unit 9 Project — The Simulation Investigation",
+   "html": "<p><strong>Your major project this unit: a real investigation.</strong> You will use a simulation the\nway a scientist does — hypothesis first, honest report last.</p>\n\n<p><strong>Choose your laboratory (any one):</strong></p>\n<ul>\n  <li>the <strong>Rabbit Meadow</strong> from Lessons 2–3;</li>\n  <li>a free <strong>PhET simulation</strong> (phet.colorado.edu — no account needed; ask your teacher if unsure which);</li>\n  <li>or — for an extra challenge — a small simulation <strong>you build yourself in Scratch</strong> (a loop turning rounds, variables for the state, a rule or two).</li>\n</ul>\n\n<p><strong>The investigation (four steps):</strong></p>\n<ol>\n  <li><strong>State a hypothesis</strong> — precise and testable: name the parameter you will change and the effect you expect, with numbers where you can.</li>\n  <li><strong>Predict</strong> the outcome before running.</li>\n  <li><strong>Run a fair test</strong> — change only that one parameter; record the runs (screenshots or a table).</li>\n  <li><strong>Conclude honestly</strong> — supported or refuted? Note one thing your model leaves out that could matter in the real world.</li>\n</ol>\n\n<p><strong>Submit:</strong> your findings report (the four steps, written out) <em>plus</em> a\n<strong>1–2 minute recorded walkthrough</strong> showing a run and stating your conclusion. You may\ntype, upload files, or record media.</p>\n\n<p><em>Graded with the Unit 9 project rubric: precise hypothesis · fair modification · accurate record\n· honest conclusion. A refuted hypothesis honestly reported scores just as well as a supported one.\nThis project counts in the <strong>Projects</strong> portion of your grade.</em></p>",
+   "points": 20,
+   "group": "ag_projects",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u9_unit-vr-model-museum",
+   "title": "Unit 9 Build — The Model Museum (Arthur VR)",
+   "html": "<p><strong>Build a small \"model museum\" — one exhibit about a model and what it teaches.</strong>\nYou create it yourself — nothing to \"join.\" Plan on about <strong>20–30 minutes</strong>.</p>\n\n<p><strong>Build it in Arthur (VR):</strong></p>\n<ol>\n  <li>Create your own space in Arthur.</li>\n  <li>Make an exhibit for <strong>one model or simulation</strong> (the Rabbit Meadow, a PhET sim, a weather forecast, a flight simulator…). Include three labeled panels:\n    <strong>what it models</strong>, <strong>what it keeps</strong>, and <strong>what it leaves out</strong>.</li>\n  <li>Add a fourth panel with the <strong>four-step investigation</strong>: state → predict → run fairly → conclude honestly.</li>\n  <li>Record a <strong>1–2 minute walkthrough</strong> touring your exhibit in your own words.</li>\n</ol>\n\n<p><strong>No headset? Do the no-VR version (same credit):</strong> one slide or short doc with the\nsame four panels.</p>\n\n<p><strong>Submit:</strong> your recording (link/upload) or your slide/doc. You may type, upload, or record media.</p>\n\n<p><em>Graded on: an accurate keeps/omits analysis; the four investigation steps correct and in order;\na clear walkthrough in your own words. Keep it simple and neat.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u10_l1-discussion-proposal",
+   "title": "Lesson 1 Discussion — Vague, but Exciting",
+   "html": "<p>This is an <strong>online discussion</strong>. Read the opening sections of Tim Berners-Lee's 1989\nproposal (w3.org/History/1989/proposal.html) — the memo his boss marked <em>\"Vague, but exciting.\"</em></p>\n<p><strong>Post to the discussion board, then reply to a classmate:</strong></p>\n<ol>\n  <li>In your own words: what <strong>problem</strong> at CERN was the proposal trying to solve?</li>\n  <li>Why do you think his boss called it both <em>vague</em> AND <em>exciting</em>? Was the boss right on both counts?</li>\n  <li>Berners-Lee gave the Web away instead of patenting it. Name one way your life this year used that gift — and whether you think his choice was the right one.</li>\n  <li>Reply thoughtfully to at least one classmate.</li>\n</ol>\n<p>You may type, upload, or record your response.</p>\n<p><em>Graded on: an accurate account of the problem; a reasoned reading of \"vague, but exciting\"; a thoughtful judgment on the giving-away; a courteous, substantive reply.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u10_l2-practice-page",
+   "title": "Lesson 2 Activity — Build a Practice Page",
+   "html": "<p>Time to create real online content — one page, built with care. It will become a draft section of\nyour capstone portfolio.</p>\n<p><strong>Build one page</strong> in a school-approved design tool (your teacher will name it — e.g.,\nGoogle Sites) <strong>or</strong> in plain HTML if you prefer, introducing <strong>one project from\nyour year</strong> (your Scratch build and your simulation investigation are strong choices).</p>\n<p><strong>Your page must have:</strong></p>\n<ol>\n  <li>a clear <strong>title heading</strong> and at least one section heading;</li>\n  <li>a short paragraph saying what the project is and what skill it shows;</li>\n  <li>at least one <strong>image</strong> (screenshot) <strong>with alt text</strong>;</li>\n  <li>at least one <strong>link</strong> (to the project itself, or a related page);</li>\n  <li>readable contrast and restrained design — the four rules from the lesson.</li>\n</ol>\n<p><strong>Submit:</strong> the page link, or screenshots plus your file. You may also record a short\nwalkthrough.</p>\n<p><em>Graded on: all five required elements present; design that follows the four rules; writing in\nyour own voice.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u10_l4-peer-feedback",
+   "title": "Lesson 4 Discussion — Warm & Cool Feedback",
+   "html": "<p>This is an <strong>online discussion</strong> — the peer-feedback round for draft portfolios.</p>\n<p><strong>Post and reply on the discussion board:</strong></p>\n<ol>\n  <li><strong>Post your draft portfolio link</strong> (or screenshots of your pages so far) with one sentence on what you would like feedback about.</li>\n  <li>Visit <strong>two classmates'</strong> drafts. For each, leave <strong>one warm</strong> comment (specific: name what works and why) and <strong>one cool</strong> comment (a courteous, specific question or suggestion).</li>\n  <li>Close your own post with a <strong>career note</strong>: after this year, which technology career path interests you most, and which portfolio artifact points toward it?</li>\n</ol>\n<p>You may type, upload, or record your comments.</p>\n<p><em>Graded on: a shared draft; two rounds of specific warm + cool feedback about the work (never the person); a reasoned career note.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u10_l5-capstone-portfolio",
+   "title": "Capstone Portfolio — Digital Discoveries",
+   "html": "<p><strong>The Capstone Portfolio — the year's largest single grade, and its proudest.</strong>\nEverything you have practiced comes together here: design, honesty, voice, and a year of real work.</p>\n\n<p><strong>Part 1 — the published portfolio</strong> (built in your school-approved design tool):</p>\n<ol>\n  <li>a <strong>welcome page</strong> — who you are as a maker, in a few honest sentences;</li>\n  <li><strong>4–6 artifacts</strong> from across the year, each showing a <em>different</em> skill\n    (your Lesson 3 labels will guide you);</li>\n  <li>an <strong>introduction for each artifact</strong>: what it is, the skill it shows, and one thing you learned making it;</li>\n  <li>clean, accessible design throughout — headings, contrast, <strong>alt text on every image</strong>, restraint;</li>\n  <li><strong>credit</strong> for the tools you used and anything you built upon.</li>\n</ol>\n\n<p><strong>Part 2 — the recorded presentation</strong> (2–4 minutes, media recording or upload):\nwelcome → two artifacts examined closely → your year in one thought. Your own voice, unhurried.</p>\n\n<p><strong>Part 3 — the final reflection</strong> (a short paragraph, typed or recorded): Was the work\nof your year good, true, and beautiful — and which virtue did it demand most of you?</p>\n\n<p><strong>Submit:</strong> the portfolio link (or files), your recording, and your reflection. You may\ntype, upload files, or record media.</p>\n\n<p><em>Graded with the Capstone rubric: curation · craft &amp; accessibility · the recorded\npresentation · honesty and credit. This assignment counts in the <strong>Projects</strong> portion of\nyour grade. Small, finished, and honest — as always.</em></p>",
+   "points": 30,
+   "group": "ag_projects",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  },
+  {
+   "id": "a_u10_unit-vr-portfolio-gallery",
+   "title": "Unit 10 Build — Portfolio Gallery (Arthur VR)",
+   "html": "<p><strong>Your final build: a small gallery of your own year.</strong> You create it yourself —\nnothing to \"join.\" Plan on about <strong>20–30 minutes</strong>.</p>\n\n<p><strong>Build it in Arthur (VR):</strong></p>\n<ol>\n  <li>Create your own space in Arthur — your personal gallery.</li>\n  <li>Hang <strong>three exhibits</strong>: your three favorite artifacts from the year (screenshots or\n    notes), each with a museum label — its name, its unit, and the skill it shows.</li>\n  <li>Add one <strong>\"about the maker\"</strong> panel: your name and one sentence on how you have\n    changed as a maker since August.</li>\n  <li>Record a <strong>1–2 minute walkthrough</strong> touring your gallery — your last recording of\n    the year. Make it a proud one.</li>\n</ol>\n\n<p><strong>No headset? Do the no-VR version (same credit):</strong> one slide or short doc with the\nthree labeled exhibits and the about-the-maker panel.</p>\n\n<p><strong>Submit:</strong> your recording (link/upload) or your slide/doc. You may type, upload, or record media.</p>\n\n<p><em>Graded on: three well-labeled exhibits from different units; an honest about-the-maker panel;\na clear walkthrough in your own words. Keep it simple, neat — and yours.</em></p>",
+   "points": 10,
+   "group": "ag_async",
+   "submission_types": "online_text_entry,online_upload,media_recording",
+   "published": true
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q_u6_quiz",
+   "title": "Unit 6 Quiz",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": true,
+   "group": "ag_async",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does it mean to <strong>trace</strong> a program?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Run it as fast as possible",
+       "correct": false
+      },
+      {
+       "text": "Delete the lines you don't understand",
+       "correct": false
+      },
+      {
+       "text": "Follow it by hand, line by line, recording each variable's value as it changes",
+       "correct": true,
+       "feedback": "<p>✅ Correct — tracing is being the computer, one line at a time, with a trace table.</p>"
+      },
+      {
+       "text": "Guess the output from the program's name",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Tracing means following the code by hand and recording every variable change.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Trace this program: <code>x = 3</code>, then <code>x = x × 2</code>, then <code>x = x + 1</code>. What is <code>x</code> at the end?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "7",
+       "correct": true,
+       "feedback": "<p>✅ Correct — 3 → 6 → 7.</p>"
+      },
+      {
+       "text": "8",
+       "correct": false
+      },
+      {
+       "text": "6",
+       "correct": false
+      },
+      {
+       "text": "3",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Trace it: x = 3; ×2 makes 6; +1 makes 7.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Euclid's algorithm: while b is not 0 → r = remainder of a ÷ b; a = b; b = r; then say a. Trace it for <strong>a = 20, b = 8</strong>. What does it say?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "8",
+       "correct": false
+      },
+      {
+       "text": "2",
+       "correct": false
+      },
+      {
+       "text": "20",
+       "correct": false
+      },
+      {
+       "text": "4",
+       "correct": true,
+       "feedback": "<p>✅ Correct — (20,8)→r=4→(8,4); (8,4)→r=0→(4,0). Says 4.</p>"
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Trace: 20÷8 leaves 4 → (8,4); 8÷4 leaves 0 → (4,0). It says 4.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A password program repeats <code>length</code> times, adding one random character each pass. Input: <code>length = 4</code>. What can you <strong>predict</strong> about the output?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The exact password it will print",
+       "correct": false
+      },
+      {
+       "text": "It will have exactly 4 characters — though which characters is random",
+       "correct": true,
+       "feedback": "<p>✅ Correct — understanding the input lets you predict the shape of the output.</p>"
+      },
+      {
+       "text": "Nothing at all — it's random",
+       "correct": false
+      },
+      {
+       "text": "It will always be \"abcd\"",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ The loop runs length times — so 4 characters, even though each one is random.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The program warns when <code>length &lt; 8</code>. For which input does the warning appear?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "length = 12",
+       "correct": false
+      },
+      {
+       "text": "length = 8",
+       "correct": false
+      },
+      {
+       "text": "length = 5",
+       "correct": true,
+       "feedback": "<p>✅ Correct — 5 < 8 is true, so the warning is said.</p>"
+      },
+      {
+       "text": "length = 100",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Only inputs below 8 trigger the warning: 5 < 8 is true; 8 and 12 are not below 8.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why do programmers predict a program's outputs <strong>before</strong> running it?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It proves they truly understand what the inputs do — and catches wrong thinking early",
+       "correct": true,
+       "feedback": "<p>✅ Correct — comparing prediction to reality is how understanding is tested.</p>"
+      },
+      {
+       "text": "Computers charge money per run",
+       "correct": false
+      },
+      {
+       "text": "Predictions replace the need to ever run the program",
+       "correct": false
+      },
+      {
+       "text": "It is required by law",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Predicting outputs shows understanding of inputs — and reveals mistakes in thinking.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><code>say \"Hello</code> — the closing quotation mark is missing, and the program refuses to start. Which error type is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Logical",
+       "correct": false
+      },
+      {
+       "text": "Runtime",
+       "correct": false
+      },
+      {
+       "text": "Friendly",
+       "correct": false
+      },
+      {
+       "text": "Syntax",
+       "correct": true,
+       "feedback": "<p>✅ Correct — broken grammar the computer rejects before running is a syntax error.</p>"
+      }
+     ],
+     "feedback_incorrect": "<p>❌ \"Won't start\" = syntax: the code breaks the language's grammar.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A grade calculator runs from start to finish with no complaints — but gives every student 10 points too many. Which error type is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Syntax",
+       "correct": false
+      },
+      {
+       "text": "Logical",
+       "correct": true,
+       "feedback": "<p>✅ Correct — \"finishes wrong\" is a logical error; only a trace or test reveals it.</p>"
+      },
+      {
+       "text": "Runtime",
+       "correct": false
+      },
+      {
+       "text": "No error — the students earned it",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ It runs fine but the answer is wrong — a logical error.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A program starts fine, then crashes halfway through when it divides by zero. Which error type is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Runtime",
+       "correct": true,
+       "feedback": "<p>✅ Correct — it began running and hit something impossible: runtime.</p>"
+      },
+      {
+       "text": "Syntax",
+       "correct": false
+      },
+      {
+       "text": "Logical",
+       "correct": false
+      },
+      {
+       "text": "Typographical",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ \"Won't finish\" = runtime: a legal program that hits an impossible operation mid-run.</p>"
+    },
+    {
+     "type": "essay",
+     "text": "<p>Trace Euclid's algorithm by hand for <strong>a = 24, b = 9</strong>: write the full <strong>trace table</strong> (every pass: a, b, r), state what the program says, and explain each loop line in your own words. Finish with one sentence: if your trace disagreed with the real run, which error type would you suspect first, and why? (Graded with the Unit 6 rubric.)</p>",
+     "points": 3,
+     "answers": []
+    }
+   ]
+  },
+  {
+   "id": "q_u7_quiz",
+   "title": "Unit 7 Quiz",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": true,
+   "group": "ag_async",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>In the Fibonacci sequence 1, 1, 2, 3, 5, 8, … each new number is made by&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "doubling the last number",
+       "correct": false
+      },
+      {
+       "text": "adding the two numbers before it",
+       "correct": true,
+       "feedback": "<p>✅ Correct — each term is the sum of the previous two.</p>"
+      },
+      {
+       "text": "adding 1 each time",
+       "correct": false
+      },
+      {
+       "text": "picking a random number",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ The Fibonacci rule: add the two numbers before. 5 + 8 = 13.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A code segment is <strong>iterative</strong> when it&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "has more than ten lines",
+       "correct": false
+      },
+      {
+       "text": "writes every step out one after another",
+       "correct": false
+      },
+      {
+       "text": "uses a loop to repeat a step",
+       "correct": true,
+       "feedback": "<p>✅ Correct — iterative means a loop repeats the step.</p>"
+      },
+      {
+       "text": "contains no variables",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Iterative = uses a loop; non-iterative = steps written out with no repetition structure.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You need the first <strong>100</strong> Fibonacci numbers. Compared with writing each step out, an iterative version&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "needs the same few lines no matter how many terms you want",
+       "correct": true,
+       "feedback": "<p>✅ Correct — the loop's few lines serve any length; only the count changes.</p>"
+      },
+      {
+       "text": "needs one new line for every extra term",
+       "correct": false
+      },
+      {
+       "text": "gives different numbers",
+       "correct": false
+      },
+      {
+       "text": "cannot produce 100 terms",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Both versions give the same numbers — but the loop stays a few lines at any length.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><code>for each animal of [cat, dog, owl]: say animal</code> — what happens?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It says \"animal\" three times",
+       "correct": false
+      },
+      {
+       "text": "It says only \"cat\"",
+       "correct": false
+      },
+      {
+       "text": "It says nothing",
+       "correct": false
+      },
+      {
+       "text": "It says cat, then dog, then owl",
+       "correct": true,
+       "feedback": "<p>✅ Correct — the loop visits each element in order, and the variable takes each value.</p>"
+      }
+     ],
+     "feedback_incorrect": "<p>❌ For-each visits every element in order: cat, dog, owl.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Every loop must answer two questions. Which pair is it?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "How fast? How colorful?",
+       "correct": false
+      },
+      {
+       "text": "What step repeats? What makes it stop?",
+       "correct": true,
+       "feedback": "<p>✅ Correct — the repeated step and the stopping condition define every loop.</p>"
+      },
+      {
+       "text": "Who wrote it? When was it written?",
+       "correct": false
+      },
+      {
+       "text": "Which computer? Which language?",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ A loop is defined by what repeats and what stops it — forget the second and you loop forever.</p>"
+    },
+    {
+     "type": "true_false",
+     "text": "<p>True or False: A loop whose stopping condition can never become true is an infinite loop — a logical error.</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true,
+       "feedback": "<p>✅ True — the program runs, but never toward its goal: a logical error.</p>"
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ It’s true — if nothing moves the condition toward true, the loop never ends.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a block language like Scratch, <code>if (score &gt; 10) then say \"You win!\"</code> is a&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "loop",
+       "correct": false
+      },
+      {
+       "text": "variable",
+       "correct": false
+      },
+      {
+       "text": "conditional statement",
+       "correct": true,
+       "feedback": "<p>✅ Correct — if-then acts only when its condition is true: a conditional.</p>"
+      },
+      {
+       "text": "function",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ An if-then block is a conditional statement.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Scratch, a “My Block” — a stack of blocks you name once and reuse by name — is the block language’s version of a&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "syntax error",
+       "correct": false
+      },
+      {
+       "text": "function",
+       "correct": true,
+       "feedback": "<p>✅ Correct — named, reusable steps are a function.</p>"
+      },
+      {
+       "text": "list",
+       "correct": false
+      },
+      {
+       "text": "loop",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Naming a stack of blocks to reuse anywhere is a function (“My Blocks”).</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Trace this block script: <code>set score to 0; repeat 5 times: change score by 2; say score</code>. What is said?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "10",
+       "correct": true,
+       "feedback": "<p>✅ Correct — five passes × change by 2 = 10.</p>"
+      },
+      {
+       "text": "5",
+       "correct": false
+      },
+      {
+       "text": "2",
+       "correct": false
+      },
+      {
+       "text": "0",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Trace it: 0 → 2 → 4 → 6 → 8 → 10. It says 10.</p>"
+    }
+   ]
+  },
+  {
+   "id": "q_u8_quiz",
+   "title": "Unit 8 Quiz",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": true,
+   "group": "ag_async",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>The word <strong>debugging</strong> traces back to 1947, when engineers on Grace Hopper's Mark II team&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "invented the internet",
+       "correct": false
+      },
+      {
+       "text": "found an actual moth in a relay and taped it into the logbook",
+       "correct": true,
+       "feedback": "<p>✅ Correct — \"First actual case of bug being found,\" moth included.</p>"
+      },
+      {
+       "text": "sold the first personal computer",
+       "correct": false
+      },
+      {
+       "text": "wrote the first video game",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ The 1947 logbook holds a real moth — the famous \"first actual case of bug being found.\"</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A savings app runs perfectly but shows a total that is always a little too high. As a systematic debugger, you suspect a&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "syntax error — check for missing quotes",
+       "correct": false
+      },
+      {
+       "text": "runtime error — it must be crashing",
+       "correct": false
+      },
+      {
+       "text": "logical error — trace the math to find where it disobeys the intent",
+       "correct": true,
+       "feedback": "<p>✅ Correct — runs but finishes wrong = logical; tracing finds it.</p>"
+      },
+      {
+       "text": "hardware error — buy a new computer",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ It runs to the end with a wrong answer — the signature of a logical error.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is the <strong>systematic</strong> way to debug?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Observe what goes wrong → locate it (trace) → name the error type → fix one thing and re-test",
+       "correct": true,
+       "feedback": "<p>✅ Correct — observe, locate, name, fix-and-retest.</p>"
+      },
+      {
+       "text": "Change many lines at once and hope",
+       "correct": false
+      },
+      {
+       "text": "Delete the program and start over every time",
+       "correct": false
+      },
+      {
+       "text": "Ignore it — bugs fix themselves",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Systematic debugging: observe → locate → name the type → fix ONE thing and re-test.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which lists the phases of the <strong>software development life cycle</strong> in order?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Build → Plan → Launch → Design → Test → Maintain",
+       "correct": false
+      },
+      {
+       "text": "Test → Build → Design → Plan → Maintain → Launch",
+       "correct": false
+      },
+      {
+       "text": "Launch → Maintain → Plan → Design → Build → Test",
+       "correct": false
+      },
+      {
+       "text": "Plan → Design → Build → Test → Launch → Maintain",
+       "correct": true,
+       "feedback": "<p>✅ Correct — plan, design, build, test, launch, maintain.</p>"
+      }
+     ],
+     "feedback_incorrect": "<p>❌ The cycle runs: Plan → Design → Build → Test → Launch → Maintain.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Sketching every screen of an app on paper <strong>before writing any code</strong> belongs to which phase?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Maintain",
+       "correct": false
+      },
+      {
+       "text": "Design",
+       "correct": true,
+       "feedback": "<p>✅ Correct — deciding HOW before building is design.</p>"
+      },
+      {
+       "text": "Launch",
+       "correct": false
+      },
+      {
+       "text": "Test",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Sketching how it will work, before code, is the design phase.</p>"
+    },
+    {
+     "type": "true_false",
+     "text": "<p>True or False: The life cycle is called a <em>cycle</em> because the maintain phase often feeds new plans — the wheel turns again.</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true,
+       "feedback": "<p>✅ True — maintenance discoveries become the next plan.</p>"
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ It’s true — that loop from maintain back to plan is why it is a cycle, not a line.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In object-oriented programming, a <strong>class</strong> is best described as&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "the outline — the blueprint — from which objects are made",
+       "correct": true,
+       "feedback": "<p>✅ Correct — a class is the outline for objects and their attributes.</p>"
+      },
+      {
+       "text": "a type of error",
+       "correct": false
+      },
+      {
+       "text": "the room where programmers meet",
+       "correct": false
+      },
+      {
+       "text": "a loop that never stops",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ A class is the blueprint/outline from which objects are made.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A <em>Dog</em> class lists name, age, and breed. The dog <em>rex — \"Rex\", 3, beagle</em> is&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "another class",
+       "correct": false
+      },
+      {
+       "text": "a syntax error",
+       "correct": false
+      },
+      {
+       "text": "an object made from the class, with its own attribute values",
+       "correct": true,
+       "feedback": "<p>✅ Correct — one thing built from the outline, values filled in.</p>"
+      },
+      {
+       "text": "a loop",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ rex is an object: made from the Dog class, with his own values.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In the Dog class, <em>name</em>, <em>age</em>, and <em>breed</em> are called its&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "phases",
+       "correct": false
+      },
+      {
+       "text": "attributes",
+       "correct": true,
+       "feedback": "<p>✅ Correct — the class outlines its objects' attributes.</p>"
+      },
+      {
+       "text": "bugs",
+       "correct": false
+      },
+      {
+       "text": "truth tables",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ The properties a class lists for its objects are attributes.</p>"
+    },
+    {
+     "type": "essay",
+     "text": "<p>Write the <strong>repair report</strong> for the three-bug program on the Unit 8 Assessment page: for each bug give its <strong>type</strong>, its <strong>line</strong>, and the <strong>fix</strong>. Then name the <strong>SDLC phase</strong> whose job is catching bugs, and define a <strong>class</strong> in one sentence of your own. (Graded with the Unit 8 rubric.)</p>",
+     "points": 3,
+     "answers": []
+    }
+   ]
+  },
+  {
+   "id": "q_u9_quiz",
+   "title": "Unit 9 Quiz",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": true,
+   "group": "ag_async",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>A <strong>simulation</strong> is best described as&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "a photograph of the real world",
+       "correct": false
+      },
+      {
+       "text": "a model set in motion by a program, step by step",
+       "correct": true,
+       "feedback": "<p>✅ Correct — rules, variables, and a loop, run step by step.</p>"
+      },
+      {
+       "text": "a guess with no rules",
+       "correct": false
+      },
+      {
+       "text": "a spreadsheet of names",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ A simulation is a model run by a program, step by step.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In the Rabbit Meadow, changing <strong>food per round</strong> from 20 to 40 is an example of&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "a syntax error",
+       "correct": false
+      },
+      {
+       "text": "deleting the model",
+       "correct": false
+      },
+      {
+       "text": "modifying a parameter of the simulation",
+       "correct": true,
+       "feedback": "<p>✅ Correct — parameters are the model's dials; turning one modifies the simulation.</p>"
+      },
+      {
+       "text": "a Boolean expression",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Values set before a run are parameters — changing one modifies the simulation.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Every model leaves things out (the meadow has no foxes or winters). This is&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "deliberate focus — keep what matters for the question, and know the limits",
+       "correct": true,
+       "feedback": "<p>✅ Correct — simplification is the strength, and the caution.</p>"
+      },
+      {
+       "text": "cheating — models must include everything",
+       "correct": false
+      },
+      {
+       "text": "a runtime error",
+       "correct": false
+      },
+      {
+       "text": "proof that simulations are useless",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Good models simplify on purpose — and honest users remember what was left out.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is a <strong>testable hypothesis</strong> for the meadow?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"Rabbits are interesting.\"",
+       "correct": false
+      },
+      {
+       "text": "\"Nature finds a way.\"",
+       "correct": false
+      },
+      {
+       "text": "\"Simulations are fun.\"",
+       "correct": false
+      },
+      {
+       "text": "\"If food doubles from 20 to 40, the settled herd will double.\"",
+       "correct": true,
+       "feedback": "<p>✅ Correct — specific and measurable, so a run can support or refute it.</p>"
+      }
+     ],
+     "feedback_incorrect": "<p>❌ A hypothesis must be specific and testable — like the doubling claim.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>To fairly test whether <strong>food</strong> changes the herd's fate, you should&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "change only the food parameter, keeping everything else the same",
+       "correct": true,
+       "feedback": "<p>✅ Correct — one change per test, or you cannot name the cause.</p>"
+      },
+      {
+       "text": "change food AND starting rabbits at once",
+       "correct": false
+      },
+      {
+       "text": "run it once and decide",
+       "correct": false
+      },
+      {
+       "text": "edit the rules and the dials together",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ A fair test changes ONE parameter and holds the rest steady.</p>"
+    },
+    {
+     "type": "true_false",
+     "text": "<p>True or False: If a simulation refutes your hypothesis, the honest step is to report the refutation exactly — not to adjust the numbers until they agree.</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true,
+       "feedback": "<p>✅ True — the model shows what it shows; report it.</p>"
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ It’s true — honesty about refutations is the discipline of science.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The meadow's rule — <code>if food ≥ needed + 4: rabbits = rabbits + 2</code> — is built from which block-language powers?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "a function and a list",
+       "correct": false
+      },
+      {
+       "text": "a conditional, expressions, and variables",
+       "correct": true,
+       "feedback": "<p>✅ Correct — if-then (conditional), ≥ and + (expressions), rabbits/food/needed (variables).</p>"
+      },
+      {
+       "text": "only a loop",
+       "correct": false
+      },
+      {
+       "text": "none — simulations are not programs",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ The rule is a conditional using expressions and variables — a simulation IS a program.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which block-language structure turns the meadow's world one round at a time?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "a citation",
+       "correct": false
+      },
+      {
+       "text": "a truth table",
+       "correct": false
+      },
+      {
+       "text": "a loop — each pass is one round",
+       "correct": true,
+       "feedback": "<p>✅ Correct — the loop advances the simulation round by round.</p>"
+      },
+      {
+       "text": "an attribute",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ The loop — each pass of its body is one round of the simulated world.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Trace the meadow: <strong>10 rabbits, food 16</strong>. After round 1, then round 2, the herd is&hellip; <em>(needed = rabbits × 2; shortage → −2; just enough → steady)</em></p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "8, then 8 — it shrinks once, then holds",
+       "correct": true,
+       "feedback": "<p>✅ Correct — needed 20 > 16 → 8; then needed 16 = food → steady at 8.</p>"
+      },
+      {
+       "text": "12, then 14 — it grows",
+       "correct": false
+      },
+      {
+       "text": "8, then 6 — it keeps shrinking",
+       "correct": false
+      },
+      {
+       "text": "0 — instant collapse",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Trace it: needed 20 > 16 → down to 8; then needed 16 = 16 → steady. 8, then 8.</p>"
+    }
+   ]
+  },
+  {
+   "id": "q_u10_quiz",
+   "title": "Unit 10 Quiz",
+   "quiz_type": "assignment",
+   "allowed_attempts": 3,
+   "shuffle_answers": true,
+   "show_correct_answers": true,
+   "group": "ag_async",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Tim Berners-Lee's 1989 proposal — the one his boss called \"vague, but exciting\" — became&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "the first video game",
+       "correct": false
+      },
+      {
+       "text": "the World Wide Web — pages joined by hyperlinks",
+       "correct": true,
+       "feedback": "<p>✅ Correct — and he gave it away for everyone to build on.</p>"
+      },
+      {
+       "text": "the first computer",
+       "correct": false
+      },
+      {
+       "text": "email",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ The 1989 CERN proposal became the World Wide Web.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which are examples of <strong>online content</strong> you can create with design tools?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Only printed books",
+       "correct": false
+      },
+      {
+       "text": "Only spreadsheets",
+       "correct": false
+      },
+      {
+       "text": "Webpages, digital portfolios, and multimedia artifacts",
+       "correct": true,
+       "feedback": "<p>✅ Correct — webpages, portfolios, and multimedia artifacts.</p>"
+      },
+      {
+       "text": "Nothing without writing raw HTML by hand",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Online content includes webpages, digital portfolios and multimedia artifacts — and design tools handle the HTML for you.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In HTML, the tag <code>&lt;a href=\"project.html\"&gt;See more&lt;/a&gt;</code> creates&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "a hyperlink to another page",
+       "correct": true,
+       "feedback": "<p>✅ Correct — the hyperlink, Berners-Lee's whole idea.</p>"
+      },
+      {
+       "text": "an image",
+       "correct": false
+      },
+      {
+       "text": "a big heading",
+       "correct": false
+      },
+      {
+       "text": "a loop",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ The &lt;a href&gt; tag is the hyperlink — pages joined to pages.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A well-designed portfolio page has&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "seven fonts and a blinking border",
+       "correct": false
+      },
+      {
+       "text": "pale yellow text on white, for softness",
+       "correct": false
+      },
+      {
+       "text": "images without alt text, to save time",
+       "correct": false
+      },
+      {
+       "text": "clear headings, readable contrast, alt text on images, and restraint",
+       "correct": true,
+       "feedback": "<p>✅ Correct — design that serves every reader.</p>"
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Headings in order, readable contrast, alt text, and less-but-better.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Your team is building one shared multimedia page. The collaborative way is&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "emailing copies back and forth and merging by hand",
+       "correct": false
+      },
+      {
+       "text": "one person does everything",
+       "correct": false
+      },
+      {
+       "text": "using the tool's sharing — one page, everyone editing with their own role",
+       "correct": true,
+       "feedback": "<p>✅ Correct — one shared artifact, edited together (Unit 2's lesson, applied).</p>"
+      },
+      {
+       "text": "printing it and gluing pieces together",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Multimedia tools are built for collaboration: one shared page, everyone contributing.</p>"
+    },
+    {
+     "type": "true_false",
+     "text": "<p>True or False: Specific warm feedback (\"your hypothesis is stated so clearly I could predict the chart\") helps a maker more than \"I like it.\"</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true,
+       "feedback": "<p>✅ True — specific feedback names what works, so the maker can keep doing it.</p>"
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ It's true — specificity is what makes feedback usable.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A person who builds and maintains webpages — sweating headings, contrast, and alt text — works as a&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "web developer",
+       "correct": true,
+       "feedback": "<p>✅ Correct — the craft you practiced building your portfolio.</p>"
+      },
+      {
+       "text": "plumber",
+       "correct": false
+      },
+      {
+       "text": "data scientist",
+       "correct": false
+      },
+      {
+       "text": "chef",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Building and maintaining online content is the web developer's daily work.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>To <strong>analyze</strong> a technology career path well, you examine&hellip;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "only the salary",
+       "correct": false
+      },
+      {
+       "text": "what the job does day to day, the preparation it needs, and its outlook — from a reliable source",
+       "correct": true,
+       "feedback": "<p>✅ Correct — duties, preparation, outlook, from a source like the BLS Handbook.</p>"
+      },
+      {
+       "text": "a meme about it",
+       "correct": false
+      },
+      {
+       "text": "nothing — you pick one at random",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Analysis looks at the work itself, the preparation, and the outlook — from reliable sources.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A classmate loved the Unit 9 investigation — forming hypotheses and testing them against models. Which career path fits that love best?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "UX designer",
+       "correct": false
+      },
+      {
+       "text": "web developer",
+       "correct": false
+      },
+      {
+       "text": "data / simulation scientist",
+       "correct": true,
+       "feedback": "<p>✅ Correct — hypotheses, models, and honest findings are that path's daily bread.</p>"
+      },
+      {
+       "text": "game streamer",
+       "correct": false
+      }
+     ],
+     "feedback_incorrect": "<p>❌ Testing hypotheses against models is the heart of data and simulation science.</p>"
+    }
+   ]
+  }
+ ],
+ "discussions": [],
+ "files": [
+  {
+   "path": "teacher-resources/Digital-Discoveries-Syllabus.pdf",
+   "src": "files/teacher-resources/Digital-Discoveries-Syllabus.pdf"
+  },
+  {
+   "path": "teacher-resources/Digital-Discoveries-Teacher-Manual-Full.pdf",
+   "src": "files/teacher-resources/Digital-Discoveries-Teacher-Manual-Full.pdf"
+  }
+ ],
+ "modules": [
+  {
+   "id": "m_0",
+   "title": "Start Here",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_home",
+     "completion": "must_view"
+    },
+    {
+     "type": "page",
+     "ref": "p_syllabus",
+     "completion": "must_view"
+    }
+   ]
+  },
+  {
+   "id": "m_u6",
+   "title": "Unit 6: The Universal Machine",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_u6_overview",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_u6_reading-turing",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_u6_lesson_1",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u6_l1-discussion-turing",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u6_lesson_2",
+     "week": 2,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u6_l2-trace-euclid",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u6_lesson_3",
+     "week": 3,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u6_l3-predict-sections",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u6_lesson_4",
+     "week": 4,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u6_l4-error-types",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u6_unit-vr-trace-wall",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u6_assessment",
+     "week": 4,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_u6_quiz",
+     "week": 4,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_u7",
+   "title": "Unit 7: Patterns & Repetition",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_u7_overview",
+     "week": 5,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_u7_lesson_1",
+     "week": 5,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u7_l1-discussion-patterns",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u7_lesson_2",
+     "week": 6,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u7_l2-write-a-loop",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u7_lesson_3",
+     "week": 7,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u7_l3-two-ways",
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u7_lesson_4",
+     "week": 8,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u7_l4-scratch-explore",
+     "week": 8,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u7_lesson_5",
+     "week": 9,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u7_l5-project-patterns",
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u7_unit-vr-fibonacci-garden",
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u7_assessment",
+     "week": 9,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_u7_quiz",
+     "week": 9,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_u8",
+   "title": "Unit 8: The First Bug & the Life Cycle",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_u8_overview",
+     "week": 10,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_u8_reading-first-bug",
+     "week": 10,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_u8_lesson_1",
+     "week": 10,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u8_l1-discussion-first-bug",
+     "week": 10,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u8_lesson_2",
+     "week": 11,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u8_l2-sdlc",
+     "week": 11,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u8_lesson_3",
+     "week": 12,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u8_l3-design-a-class",
+     "week": 12,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u8_unit-vr-software-workshop",
+     "week": 12,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u8_assessment",
+     "week": 12,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_u8_quiz",
+     "week": 12,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_u9",
+   "title": "Unit 9: Worlds in Miniature",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_u9_overview",
+     "week": 13,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_u9_lesson_1",
+     "week": 13,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u9_l1-discussion-models",
+     "week": 13,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u9_lesson_2",
+     "week": 14,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u9_l2-tweak-report",
+     "week": 14,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u9_lesson_3",
+     "week": 15,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u9_l3-project-simulation",
+     "week": 15,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u9_unit-vr-model-museum",
+     "week": 15,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u9_assessment",
+     "week": 15,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_u9_quiz",
+     "week": 15,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_u10",
+   "title": "Unit 10: Weaving the Web",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_u10_overview",
+     "week": 16,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_u10_lesson_1",
+     "week": 16,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u10_l1-discussion-proposal",
+     "week": 16,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u10_lesson_2",
+     "week": 17,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u10_l2-practice-page",
+     "week": 17,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u10_lesson_3",
+     "week": 18,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_u10_lesson_4",
+     "week": 19,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u10_l4-peer-feedback",
+     "week": 19,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u10_lesson_5",
+     "week": 20,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u10_l5-capstone-portfolio",
+     "week": 20,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u10_unit-vr-portfolio-gallery",
+     "week": 20,
+     "completion": "must_submit"
+    },
+    {
+     "type": "page",
+     "ref": "p_u10_assessment",
+     "week": 20,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_u10_quiz",
+     "week": 20,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_tr",
+   "title": "Teacher Resources",
+   "published": false,
+   "items": [
+    {
+     "type": "file",
+     "ref": "teacher-resources/Digital-Discoveries-Syllabus.pdf",
+     "title": "Syllabus (PDF)"
+    },
+    {
+     "type": "file",
+     "ref": "teacher-resources/Digital-Discoveries-Teacher-Manual-Full.pdf",
+     "title": "Teacher Manual (PDF)"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_u6_answer-key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_u6_rubric"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_u7_answer-key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_u7_rubric"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_u8_answer-key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_u8_rubric"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_u9_answer-key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_u9_rubric"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_u10_answer-key"
+    },
+    {
+     "type": "page",
+     "ref": "p_tr_u10_rubric"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Generated by oao-digital-discoveries-gr7/build/kit_spec.py --semester 2 from the course build folder (canvas/unit-06..10, assessments/unit-NN). Titles, order and grouping follow build/build.py, which produced the deployed Canvas export: Units are modules; overview, reading, lesson and assessment pages iframe facevedooe.github.io; per-lesson activity assignments follow their lesson (data-after); one quiz per unit from quiz-qti.xml; weighted groups 70/30 per CLAUDE.md. Week numbers from teacher/pacing-guide.csv, relative to the first week of the semester. Standards codes stripped from student-facing text."
+ }
+}
