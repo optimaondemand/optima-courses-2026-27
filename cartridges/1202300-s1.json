@@ -4,11 +4,11 @@
  "code": "1202300",
  "title": "Calculus Honors Sem 1",
  "file": "cartridges/1202300-s1.imscc",
- "bytes": 1090944,
+ "bytes": 1106635,
  "version": "2026.10.14",
- "built": "2026-10-14T17:48:41",
+ "built": "2026-10-14T17:54:02",
  "front_page": "wiki_content/course-home.html",
- "items": 132,
+ "items": 141,
  "modules": [
   {
    "id": "m_1",
@@ -87,18 +87,18 @@
    "title": "Teacher Resources",
    "gid": "gf09a79a1b0edec257274bc7f5a57c76c",
    "published": false,
-   "items": 20,
+   "items": 29,
    "xml": "course_settings/module_meta.xml"
   }
  ],
  "counts": {
-  "pages": 60,
+  "pages": 69,
   "assignments": 30,
   "quizzes": 32,
   "discussions": 8,
   "files": 15,
   "modules": 10,
-  "items": 132
+  "items": 141
  },
  "weights": [
   {
@@ -1420,25 +1420,25 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 186,
+   "resources": 195,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 71,
-    "webcontent": 75,
+    "webcontent": 84,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 32,
     "imsdt_xmlv1p1": 8
    },
-   "organization_items": 132,
+   "organization_items": 141,
    "modules": 10,
-   "module_items": 132,
+   "module_items": 141,
    "module_item_types": {
     "Attachment": 3,
-    "WikiPage": 59,
+    "WikiPage": 68,
     "Quizzes::Quiz": 32,
     "Assignment": 30,
     "DiscussionTopic": 8
    },
    "default_view": "wiki",
-   "pages": 60,
+   "pages": 69,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 1,
    "group_refs": 62,
@@ -1450,6 +1450,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "ada6bb0a6ceb36ff0c11f9d0e8234bf81e3512a98ab92d620da158f1408405fe",
+ "spec_sha": "4611f2a8ba9961e8bd141f8438fd23f399530200da020acea04b289839a0f26b",
  "art_pack": null
 }
