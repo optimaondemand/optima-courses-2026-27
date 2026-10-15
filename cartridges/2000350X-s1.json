@@ -4,9 +4,9 @@
  "code": "2000350X",
  "title": "Anatomy and Physiology (Canvas-Only) Sem 1",
  "file": "cartridges/2000350X-s1.imscc",
- "bytes": 667553,
+ "bytes": 669311,
  "version": "2026.10.15",
- "built": "2026-10-15T18:04:12",
+ "built": "2026-10-15T18:53:10",
  "front_page": "wiki_content/course-home.html",
  "items": 246,
  "modules": [
@@ -102,7 +102,7 @@
    "weight": 0
   },
   {
-   "title": "VR Snapshot Submissions",
+   "title": "Module Assembly Submissions",
    "weight": 0
   },
   {
@@ -129,7 +129,7 @@
   },
   {
    "id": "g861ba437c98a72fcc89ffeb7fb41ce4b",
-   "title": "VR Snapshot Submissions",
+   "title": "Module Assembly Submissions",
    "weight": 0.0,
    "position": 3
   },
@@ -240,7 +240,7 @@
   {
    "id": "a_m1_vr",
    "type": "assignment",
-   "title": "M1 VR Snapshot — Your First Orientation in the Body",
+   "title": "M1 Assembled Figure — Your First Orientation in the Body",
    "gid": "gc4f941f9a3db8ceef80ef47469b1a811",
    "xml": "gc4f941f9a3db8ceef80ef47469b1a811/assignment_settings.xml",
    "module": "m_1",
@@ -366,7 +366,7 @@
   {
    "id": "a_m2_vr",
    "type": "assignment",
-   "title": "M2 VR Snapshot — The Assembled Integument",
+   "title": "M2 Assembled Figure — The Assembled Integument",
    "gid": "ge4589459ae0fdb2829f5cc3dbdf3cd3a",
    "xml": "ge4589459ae0fdb2829f5cc3dbdf3cd3a/assignment_settings.xml",
    "module": "m_2",
@@ -618,7 +618,7 @@
   {
    "id": "a_m3_vr",
    "type": "assignment",
-   "title": "M3 VR Snapshot — The Assembled Skeleton",
+   "title": "M3 Assembled Figure — The Assembled Skeleton",
    "gid": "g08b402f5b94f290053480297e8153414",
    "xml": "g08b402f5b94f290053480297e8153414/assignment_settings.xml",
    "module": "m_3",
@@ -870,7 +870,7 @@
   {
    "id": "a_m4_vr",
    "type": "assignment",
-   "title": "M4 VR Snapshot — The Assembled Muscular System",
+   "title": "M4 Assembled Figure — The Assembled Muscular System",
    "gid": "g96f685ebb9aa2abb41a7e1efe10deb9a",
    "xml": "g96f685ebb9aa2abb41a7e1efe10deb9a/assignment_settings.xml",
    "module": "m_4",
@@ -1122,7 +1122,7 @@
   {
    "id": "a_m5_vr",
    "type": "assignment",
-   "title": "M5 VR Snapshot — The Assembled Nervous System",
+   "title": "M5 Assembled Figure — The Assembled Nervous System",
    "gid": "g825247a28d06b5657c938151f3a5b753",
    "xml": "g825247a28d06b5657c938151f3a5b753/assignment_settings.xml",
    "module": "m_5",
@@ -1302,7 +1302,7 @@
   {
    "id": "a_m6_vr",
    "type": "assignment",
-   "title": "M6 VR Snapshot — The Assembled Endocrine Map",
+   "title": "M6 Assembled Figure — The Assembled Endocrine Map",
    "gid": "gbd04017af5854b32e07c159cbcafd281",
    "xml": "gbd04017af5854b32e07c159cbcafd281/assignment_settings.xml",
    "module": "m_6",
@@ -1554,7 +1554,7 @@
   {
    "id": "a_m7_vr",
    "type": "assignment",
-   "title": "M7 VR Snapshot — The Assembled Cardiovascular System",
+   "title": "M7 Assembled Figure — The Assembled Cardiovascular System",
    "gid": "g403b6d59dc3b21f66091b304946f82a7",
    "xml": "g403b6d59dc3b21f66091b304946f82a7/assignment_settings.xml",
    "module": "m_7",
@@ -1952,6 +1952,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "03300fce325ab9ed9f0b4307c6fe27aa7079fabe16eb1f57e17761c4ef1af570",
+ "spec_sha": "07ce9793b6489d216909b4e450148a50f123f9da1abbb19058ea2fc2f1ebf94e",
  "art_pack": null
 }
