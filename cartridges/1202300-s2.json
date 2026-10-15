@@ -4,18 +4,18 @@
  "code": "1202300",
  "title": "Calculus Honors Sem 2",
  "file": "cartridges/1202300-s2.imscc",
- "bytes": 387835,
+ "bytes": 444798,
  "version": "2026.10.15",
- "built": "2026-10-15T08:27:08",
+ "built": "2026-10-15T08:46:57",
  "front_page": "wiki_content/course-home.html",
- "items": 136,
+ "items": 139,
  "modules": [
   {
    "id": "m_9",
    "title": "Module 9: Tangent Lines and Linear Approximation",
    "gid": "g373b785c53d1a594633478ec25d7695b",
    "published": true,
-   "items": 13,
+   "items": 14,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -87,7 +87,7 @@
    "title": "Teacher Resources",
    "gid": "gf09a79a1b0edec257274bc7f5a57c76c",
    "published": false,
-   "items": 27,
+   "items": 29,
    "xml": "course_settings/module_meta.xml"
   }
  ],
@@ -96,9 +96,9 @@
   "assignments": 27,
   "quizzes": 33,
   "discussions": 8,
-  "files": 0,
+  "files": 3,
   "modules": 10,
-  "items": 136
+  "items": 139
  },
  "weights": [
   {
@@ -1385,17 +1385,18 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 179,
+   "resources": 182,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 69,
-    "webcontent": 69,
+    "webcontent": 72,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 33,
     "imsdt_xmlv1p1": 8
    },
-   "organization_items": 136,
+   "organization_items": 139,
    "modules": 10,
-   "module_items": 136,
+   "module_items": 139,
    "module_item_types": {
+    "Attachment": 3,
     "WikiPage": 68,
     "Quizzes::Quiz": 33,
     "Assignment": 27,
@@ -1409,11 +1410,11 @@
    "quizzes": 33,
    "assignments": 27,
    "discussions": 8,
-   "files": 0,
+   "files": 3,
    "points_listed": 650.0
   }
  },
  "status": "ready",
- "spec_sha": "0724ea1dd972b0b2ed27f520cf4ae8fefc84d3908a47f9760f9fddee3fdaf485",
+ "spec_sha": "2859459357ec67b43030f8286b7ba39cfc49f2c2c8508e06c8996fd921eae310",
  "art_pack": null
 }

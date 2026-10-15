@@ -7041,12 +7041,29 @@
    "week": 9
   }
  ],
- "files": [],
+ "files": [
+  {
+   "path": "course-materials/syllabus.pdf",
+   "src": "files/course-materials/syllabus.pdf"
+  },
+  {
+   "path": "teacher-resources/teacher-manual-semester-2.pdf",
+   "src": "files/teacher-resources/teacher-manual-semester-2.pdf"
+  },
+  {
+   "path": "teacher-resources/rubrics.pdf",
+   "src": "files/teacher-resources/rubrics.pdf"
+  }
+ ],
  "modules": [
   {
    "id": "m_9",
    "title": "Module 9: Tangent Lines and Linear Approximation",
    "items": [
+    {
+     "type": "file",
+     "ref": "course-materials/syllabus.pdf"
+    },
     {
      "type": "page",
      "ref": "p_m9_map",
@@ -7756,6 +7773,14 @@
    "title": "Teacher Resources",
    "published": false,
    "items": [
+    {
+     "type": "file",
+     "ref": "teacher-resources/teacher-manual-semester-2.pdf"
+    },
+    {
+     "type": "file",
+     "ref": "teacher-resources/rubrics.pdf"
+    },
     {
      "type": "page",
      "ref": "p_ak_m9_ps18"
