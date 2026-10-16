@@ -13717,14 +13717,16 @@
      "indent": 0,
      "published": true,
      "type": "page",
-     "ref": "p_syllabus"
+     "ref": "p_syllabus",
+     "week": 1
     },
     {
      "title": "M365 Setup & File Organization Guide",
      "indent": 0,
      "published": true,
      "type": "page",
-     "ref": "p_m365_setup"
+     "ref": "p_m365_setup",
+     "week": 1
     }
    ]
   },
@@ -13740,7 +13742,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m1_lesson_1",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 1
     },
     {
      "title": "Lesson 1.02 - Scarcity, Choice, and Opportunity Cost",
@@ -13748,7 +13751,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m1_lesson_2",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 1
     },
     {
      "title": "Lesson 1.03 - Factors of Production",
@@ -13756,7 +13760,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m1_lesson_3",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 2
     },
     {
      "title": "Lesson 1.04 - Economic Systems",
@@ -13764,7 +13769,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m1_lesson_4",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 2
     },
     {
      "title": "Lesson 1.05 - Broad Economic Goals",
@@ -13772,84 +13778,96 @@
      "published": true,
      "type": "page",
      "ref": "p_m1_lesson_5",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 3
     },
     {
      "title": "Lesson 1.01 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m1_l1"
+     "ref": "q_m1_l1",
+     "week": 1
     },
     {
      "title": "Lesson 1.02 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m1_l2"
+     "ref": "q_m1_l2",
+     "week": 1
     },
     {
      "title": "Lesson 1.03 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m1_l3"
+     "ref": "q_m1_l3",
+     "week": 2
     },
     {
      "title": "Lesson 1.04 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m1_l4"
+     "ref": "q_m1_l4",
+     "week": 2
     },
     {
      "title": "Lesson 1.05 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m1_l5"
+     "ref": "q_m1_l5",
+     "week": 3
     },
     {
      "title": "Lesson 1.01 - Assignment: Decision Dissection",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m1_l1"
+     "ref": "a_m1_l1",
+     "week": 1
     },
     {
      "title": "Lesson 1.02 - Assignment: Reel Choices",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m1_l2"
+     "ref": "a_m1_l2",
+     "week": 1
     },
     {
      "title": "Lesson 1.03 - Assignment: Factor Factory",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m1_l3"
+     "ref": "a_m1_l3",
+     "week": 2
     },
     {
      "title": "Lesson 1.04 - Assignment: System Analysis",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m1_l4"
+     "ref": "a_m1_l4",
+     "week": 2
     },
     {
      "title": "Lesson 1.05 - Assignment: Juggling Act",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m1_l5"
+     "ref": "a_m1_l5",
+     "week": 3
     },
     {
      "title": "Supplementary Assignment: Reading and Analyzing the Production Possibilities Curve",
      "indent": 0,
      "published": true,
      "type": "assignment",
-     "ref": "a_m1_supp"
+     "ref": "a_m1_supp",
+     "week": 3
     },
     {
      "title": "Lesson 1.01 - VR Lesson Resources",
@@ -13857,7 +13875,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m1_vr_1",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 1
     },
     {
      "title": "Lesson 1.02 - VR Lesson Resources",
@@ -13865,7 +13884,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m1_vr_2",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 1
     },
     {
      "title": "Lesson 1.03 - VR Lesson Resources",
@@ -13873,7 +13893,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m1_vr_3",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 2
     },
     {
      "title": "Lesson 1.04 - VR Lesson Resources",
@@ -13881,7 +13902,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m1_vr_4",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 2
     },
     {
      "title": "Lesson 1.05 - VR Lesson Resources",
@@ -13889,21 +13911,24 @@
      "published": true,
      "type": "page",
      "ref": "p_m1_vr_5",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 3
     },
     {
      "title": "Module 1 - Test",
      "indent": 0,
      "published": true,
      "type": "quiz",
-     "ref": "q_m1_test"
+     "ref": "q_m1_test",
+     "week": 4
     },
     {
      "title": "Module 1 - Project: Economic Systems in Action",
      "indent": 0,
      "published": true,
      "type": "assignment",
-     "ref": "a_m1_project"
+     "ref": "a_m1_project",
+     "week": 4
     }
    ]
   },
@@ -13919,7 +13944,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m2_lesson_1",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 5
     },
     {
      "title": "Lesson 2.02 - Market Structures",
@@ -13927,7 +13953,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m2_lesson_2",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 5
     },
     {
      "title": "Lesson 2.03 - Price and Competition",
@@ -13935,7 +13962,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m2_lesson_3",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 6
     },
     {
      "title": "Lesson 2.04 - Business Organizations",
@@ -13943,7 +13971,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m2_lesson_4",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 6
     },
     {
      "title": "Lesson 2.05 - Marginal Cost",
@@ -13951,7 +13980,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m2_lesson_5",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 7
     },
     {
      "title": "Lesson 2.06 - Contributions of Entrepreneurs and Innovators",
@@ -13959,98 +13989,112 @@
      "published": true,
      "type": "page",
      "ref": "p_m2_lesson_6",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 7
     },
     {
      "title": "Lesson 2.01 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m2_l1"
+     "ref": "q_m2_l1",
+     "week": 5
     },
     {
      "title": "Lesson 2.02 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m2_l2"
+     "ref": "q_m2_l2",
+     "week": 5
     },
     {
      "title": "Lesson 2.03 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m2_l3"
+     "ref": "q_m2_l3",
+     "week": 6
     },
     {
      "title": "Lesson 2.04 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m2_l4"
+     "ref": "q_m2_l4",
+     "week": 6
     },
     {
      "title": "Lesson 2.05 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m2_l5"
+     "ref": "q_m2_l5",
+     "week": 7
     },
     {
      "title": "Lesson 2.06 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m2_l6"
+     "ref": "q_m2_l6",
+     "week": 7
     },
     {
      "title": "Lesson 2.01 - Assignment: Markets in Motion",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m2_l1"
+     "ref": "a_m2_l1",
+     "week": 5
     },
     {
      "title": "Lesson 2.02 - Assignment: The Competition Spectrum",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m2_l2"
+     "ref": "a_m2_l2",
+     "week": 5
     },
     {
      "title": "Lesson 2.03 - Assignment: The Price is Right?",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m2_l3"
+     "ref": "a_m2_l3",
+     "week": 6
     },
     {
      "title": "Lesson 2.04 - Assignment: Business Blueprint",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m2_l4"
+     "ref": "a_m2_l4",
+     "week": 6
     },
     {
      "title": "Lesson 2.05 - Assignment: Production Simulator",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m2_l5"
+     "ref": "a_m2_l5",
+     "week": 7
     },
     {
      "title": "Lesson 2.06 - Assignment: Innovation Nation",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m2_l6"
+     "ref": "a_m2_l6",
+     "week": 7
     },
     {
      "title": "Supplementary Assignment: How Are Workers' Earnings Determined?",
      "indent": 0,
      "published": true,
      "type": "assignment",
-     "ref": "a_m2_supp"
+     "ref": "a_m2_supp",
+     "week": 7
     },
     {
      "title": "Lesson 2.01 - VR Lesson Resources",
@@ -14058,7 +14102,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m2_vr_1",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 5
     },
     {
      "title": "Lesson 2.02 - VR Lesson Resources",
@@ -14066,7 +14111,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m2_vr_2",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 5
     },
     {
      "title": "Lesson 2.03 - VR Lesson Resources",
@@ -14074,7 +14120,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m2_vr_3",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 6
     },
     {
      "title": "Lesson 2.04 - VR Lesson Resources",
@@ -14082,7 +14129,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m2_vr_4",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 6
     },
     {
      "title": "Lesson 2.05 - VR Lesson Resources",
@@ -14090,7 +14138,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m2_vr_5",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 7
     },
     {
      "title": "Lesson 2.06 - VR Lesson Resources",
@@ -14098,21 +14147,24 @@
      "published": true,
      "type": "page",
      "ref": "p_m2_vr_6",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 7
     },
     {
      "title": "Module 2 - Test",
      "indent": 0,
      "published": true,
      "type": "quiz",
-     "ref": "q_m2_test"
+     "ref": "q_m2_test",
+     "week": 8
     },
     {
      "title": "Module 2 - Project: Markets and Innovators",
      "indent": 0,
      "published": true,
      "type": "assignment",
-     "ref": "a_m2_project"
+     "ref": "a_m2_project",
+     "week": 8
     }
    ]
   },
@@ -14128,7 +14180,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m3_lesson_1",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 9
     },
     {
      "title": "Lesson 3.02 - Federal Reserve and Monetary Policy",
@@ -14136,7 +14189,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m3_lesson_2",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 9
     },
     {
      "title": "Lesson 3.03 - Banking and Financial Institutions",
@@ -14144,7 +14198,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m3_lesson_3",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 10
     },
     {
      "title": "Lesson 3.04 - Personal Budgeting and Credit",
@@ -14152,63 +14207,72 @@
      "published": true,
      "type": "page",
      "ref": "p_m3_lesson_4",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 10
     },
     {
      "title": "Lesson 3.01 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m3_l1"
+     "ref": "q_m3_l1",
+     "week": 9
     },
     {
      "title": "Lesson 3.02 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m3_l2"
+     "ref": "q_m3_l2",
+     "week": 9
     },
     {
      "title": "Lesson 3.03 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m3_l3"
+     "ref": "q_m3_l3",
+     "week": 10
     },
     {
      "title": "Lesson 3.04 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m3_l4"
+     "ref": "q_m3_l4",
+     "week": 10
     },
     {
      "title": "Lesson 3.01 - Assignment: Money Matters",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m3_l1"
+     "ref": "a_m3_l1",
+     "week": 9
     },
     {
      "title": "Lesson 3.02 - Assignment: Bank of Banks",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m3_l2"
+     "ref": "a_m3_l2",
+     "week": 9
     },
     {
      "title": "Lesson 3.03 - Assignment: Financial Fundamentals",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m3_l3"
+     "ref": "a_m3_l3",
+     "week": 10
     },
     {
      "title": "Lesson 3.04 - Assignment: Budget Simulator",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m3_l4"
+     "ref": "a_m3_l4",
+     "week": 10
     },
     {
      "title": "Lesson 3.01 - VR Lesson Resources",
@@ -14216,7 +14280,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m3_vr_1",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 9
     },
     {
      "title": "Lesson 3.02 - VR Lesson Resources",
@@ -14224,7 +14289,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m3_vr_2",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 9
     },
     {
      "title": "Lesson 3.03 - VR Lesson Resources",
@@ -14232,7 +14298,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m3_vr_3",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 10
     },
     {
      "title": "Lesson 3.04 - VR Lesson Resources",
@@ -14240,21 +14307,24 @@
      "published": true,
      "type": "page",
      "ref": "p_m3_vr_4",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 10
     },
     {
      "title": "Module 3 - Test",
      "indent": 0,
      "published": true,
      "type": "quiz",
-     "ref": "q_m3_test"
+     "ref": "q_m3_test",
+     "week": 11
     },
     {
      "title": "Module 3 - Project: The Story of Money",
      "indent": 0,
      "published": true,
      "type": "assignment",
-     "ref": "a_m3_project"
+     "ref": "a_m3_project",
+     "week": 11
     }
    ]
   },
@@ -14270,7 +14340,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m4_lesson_1",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 12
     },
     {
      "title": "Lesson 4.02 - Government Spending, Deficits, and National Debt",
@@ -14278,7 +14349,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m4_lesson_2",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 12
     },
     {
      "title": "Lesson 4.03 - The Business Cycle",
@@ -14286,7 +14358,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m4_lesson_3",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 13
     },
     {
      "title": "Lesson 4.04 - Economic Policymaking and Externalities",
@@ -14294,63 +14367,72 @@
      "published": true,
      "type": "page",
      "ref": "p_m4_lesson_4",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 13
     },
     {
      "title": "Lesson 4.01 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m4_l1"
+     "ref": "q_m4_l1",
+     "week": 12
     },
     {
      "title": "Lesson 4.02 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m4_l2"
+     "ref": "q_m4_l2",
+     "week": 12
     },
     {
      "title": "Lesson 4.03 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m4_l3"
+     "ref": "q_m4_l3",
+     "week": 13
     },
     {
      "title": "Lesson 4.04 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m4_l4"
+     "ref": "q_m4_l4",
+     "week": 13
     },
     {
      "title": "Lesson 4.01 - Assignment: The Power of Fiscal Policy",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m4_l1"
+     "ref": "a_m4_l1",
+     "week": 12
     },
     {
      "title": "Lesson 4.02 - Assignment: Balancing the Books",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m4_l2"
+     "ref": "a_m4_l2",
+     "week": 12
     },
     {
      "title": "Lesson 4.03 - Assignment: Cycles of Change",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m4_l3"
+     "ref": "a_m4_l3",
+     "week": 13
     },
     {
      "title": "Lesson 4.04 - Assignment: Policy in Action",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m4_l4"
+     "ref": "a_m4_l4",
+     "week": 13
     },
     {
      "title": "Lesson 4.01 - VR Lesson Resources",
@@ -14358,7 +14440,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m4_vr_1",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 12
     },
     {
      "title": "Lesson 4.02 - VR Lesson Resources",
@@ -14366,7 +14449,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m4_vr_2",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 12
     },
     {
      "title": "Lesson 4.03 - VR Lesson Resources",
@@ -14374,7 +14458,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m4_vr_3",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 13
     },
     {
      "title": "Lesson 4.04 - VR Lesson Resources",
@@ -14382,21 +14467,24 @@
      "published": true,
      "type": "page",
      "ref": "p_m4_vr_4",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 13
     },
     {
      "title": "Module 4 - Test",
      "indent": 0,
      "published": true,
      "type": "quiz",
-     "ref": "q_m4_test"
+     "ref": "q_m4_test",
+     "week": 14
     },
     {
      "title": "Module 4 - Project: Policy Under Pressure",
      "indent": 0,
      "published": true,
      "type": "assignment",
-     "ref": "a_m4_project"
+     "ref": "a_m4_project",
+     "week": 14
     }
    ]
   },
@@ -14412,7 +14500,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m5_lesson_1",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 15
     },
     {
      "title": "Lesson 5.02 - Trade Barriers and Free Trade Zones",
@@ -14420,7 +14509,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m5_lesson_2",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 15
     },
     {
      "title": "Lesson 5.03 - Circular Flow in an Open Market Economy",
@@ -14428,7 +14518,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m5_lesson_3",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 16
     },
     {
      "title": "Lesson 5.04 - Economic Development: Developed vs. Developing Nations",
@@ -14436,7 +14527,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m5_lesson_4",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 16
     },
     {
      "title": "Lesson 5.05 - Historical Economic Thought",
@@ -14444,77 +14536,88 @@
      "published": true,
      "type": "page",
      "ref": "p_m5_lesson_5",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 17
     },
     {
      "title": "Lesson 5.01 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m5_l1"
+     "ref": "q_m5_l1",
+     "week": 15
     },
     {
      "title": "Lesson 5.02 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m5_l2"
+     "ref": "q_m5_l2",
+     "week": 15
     },
     {
      "title": "Lesson 5.03 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m5_l3"
+     "ref": "q_m5_l3",
+     "week": 16
     },
     {
      "title": "Lesson 5.04 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m5_l4"
+     "ref": "q_m5_l4",
+     "week": 16
     },
     {
      "title": "Lesson 5.05 - Reading Quiz",
      "indent": 1,
      "published": true,
      "type": "quiz",
-     "ref": "q_m5_l5"
+     "ref": "q_m5_l5",
+     "week": 17
     },
     {
      "title": "Lesson 5.01 - Assignment: The Power of Trade",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m5_l1"
+     "ref": "a_m5_l1",
+     "week": 15
     },
     {
      "title": "Lesson 5.02 - Assignment: Current Events 3-2-1",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m5_l2"
+     "ref": "a_m5_l2",
+     "week": 15
     },
     {
      "title": "Lesson 5.03 - Assignment: Follow the Flow",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m5_l3"
+     "ref": "a_m5_l3",
+     "week": 16
     },
     {
      "title": "Lesson 5.04 - Assignment: Bridging the Gap",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m5_l4"
+     "ref": "a_m5_l4",
+     "week": 16
     },
     {
      "title": "Lesson 5.05 - Assignment: Clash of Economists",
      "indent": 1,
      "published": true,
      "type": "assignment",
-     "ref": "a_m5_l5"
+     "ref": "a_m5_l5",
+     "week": 17
     },
     {
      "title": "Lesson 5.01 - VR Lesson Resources",
@@ -14522,7 +14625,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m5_vr_1",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 15
     },
     {
      "title": "Lesson 5.02 - VR Lesson Resources",
@@ -14530,7 +14634,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m5_vr_2",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 15
     },
     {
      "title": "Lesson 5.03 - VR Lesson Resources",
@@ -14538,7 +14643,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m5_vr_3",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 16
     },
     {
      "title": "Lesson 5.04 - VR Lesson Resources",
@@ -14546,7 +14652,8 @@
      "published": true,
      "type": "page",
      "ref": "p_m5_vr_4",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 16
     },
     {
      "title": "Lesson 5.05 - VR Lesson Resources",
@@ -14554,21 +14661,24 @@
      "published": true,
      "type": "page",
      "ref": "p_m5_vr_5",
-     "completion": "must_mark_done"
+     "completion": "must_mark_done",
+     "week": 17
     },
     {
      "title": "Module 5 - Test",
      "indent": 0,
      "published": true,
      "type": "quiz",
-     "ref": "q_m5_test"
+     "ref": "q_m5_test",
+     "week": 18
     },
     {
      "title": "Module 5 - Project: Great Depression and New Deal",
      "indent": 0,
      "published": true,
      "type": "assignment",
-     "ref": "a_m5_project"
+     "ref": "a_m5_project",
+     "week": 18
     }
    ]
   },
@@ -15006,5 +15116,5 @@
    ]
   }
  ],
- "source": "Read-only pull of Canvas sandbox course 231 (optimaoaoteam.instructure.com) on 2026-10-15; Canvas is the authority for titles, order, points, groups, quizzes and rubrics. Lesson pages wrap https://optimaondemand.github.io/econ-honors-2102320/. Omitted: the 25 rubric .docx attachments and the Live syllabus PDF in Teacher Resources, and the syllabus PDF download buttons on the student Course Syllabus page. No week data exists in the course, so items carry no week. Wording normalized to teacher in the spec only; Canvas sandbox unchanged."
+ "source": "Read-only pull of Canvas sandbox course 231 (optimaoaoteam.instructure.com) on 2026-10-15; Canvas is the authority for titles, order, points, groups, quizzes and rubrics. Lesson pages wrap https://optimaondemand.github.io/econ-honors-2102320/. Omitted: the 25 rubric .docx attachments and the Live syllabus PDF in Teacher Resources, and the syllabus PDF download buttons on the student Course Syllabus page. The course carries no week data; weeks come from 03_Build/module-week-map.md (18-week proposal, applied 2026-10-16). Wording normalized to teacher in the spec only; Canvas sandbox unchanged."
 }
