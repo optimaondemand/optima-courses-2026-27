@@ -4,9 +4,9 @@
  "code": "1001040",
  "title": "M/J Language Arts 2 (7th Grade)",
  "file": "cartridges/1001040-s1.imscc",
- "bytes": 1149854,
- "version": "2026.09.16",
- "built": "2026-09-16T12:21:03",
+ "bytes": 1149499,
+ "version": "2026.10.19",
+ "built": "2026-10-19T05:47:40",
  "front_page": "wiki_content/course-home.html",
  "items": 213,
  "modules": [
@@ -1412,7 +1412,7 @@
   {
    "id": "q1433",
    "type": "quiz",
-   "title": "Week 1 Friday Check-up",
+   "title": "Week 1 Check-up",
    "gid": "g4546dcb61dd399688fef4139f1acbb46",
    "xml": "g4546dcb61dd399688fef4139f1acbb46/assessment_meta.xml",
    "module": "m1513",
@@ -1450,7 +1450,7 @@
   {
    "id": "q1435",
    "type": "quiz",
-   "title": "Week 2 Friday Check-up",
+   "title": "Week 2 Check-up",
    "gid": "g92f8ff5d9a8da4002c2895ce0eec03a8",
    "xml": "g92f8ff5d9a8da4002c2895ce0eec03a8/assessment_meta.xml",
    "module": "m1513",
@@ -1488,7 +1488,7 @@
   {
    "id": "q1437",
    "type": "quiz",
-   "title": "Week 3 Friday Check-up",
+   "title": "Week 3 Check-up",
    "gid": "g5cef68ab959d7f367caffc67299424c9",
    "xml": "g5cef68ab959d7f367caffc67299424c9/assessment_meta.xml",
    "module": "m1513",
@@ -1526,7 +1526,7 @@
   {
    "id": "q1439",
    "type": "quiz",
-   "title": "Week 4 Friday Check-up",
+   "title": "Week 4 Check-up",
    "gid": "gf131b995586bfe69c051d6ad6def98b5",
    "xml": "gf131b995586bfe69c051d6ad6def98b5/assessment_meta.xml",
    "module": "m1513",
@@ -1564,7 +1564,7 @@
   {
    "id": "q1441",
    "type": "quiz",
-   "title": "Week 5 Friday Check-up",
+   "title": "Week 5 Check-up",
    "gid": "g6dc4640080a97aedc51fc1f653940c01",
    "xml": "g6dc4640080a97aedc51fc1f653940c01/assessment_meta.xml",
    "module": "m1513",
@@ -1602,7 +1602,7 @@
   {
    "id": "q1443",
    "type": "quiz",
-   "title": "Week 6 Friday Check-up",
+   "title": "Week 6 Check-up",
    "gid": "g45152301e76331071a37ab45ecb4fede",
    "xml": "g45152301e76331071a37ab45ecb4fede/assessment_meta.xml",
    "module": "m1513",
@@ -1640,7 +1640,7 @@
   {
    "id": "q1445",
    "type": "quiz",
-   "title": "Week 7 Friday Check-up",
+   "title": "Week 7 Check-up",
    "gid": "gab79ced19c27659884e6dae1e963134d",
    "xml": "gab79ced19c27659884e6dae1e963134d/assessment_meta.xml",
    "module": "m1513",
@@ -1716,7 +1716,7 @@
   {
    "id": "q1455",
    "type": "quiz",
-   "title": "Week 1 Friday Check-up",
+   "title": "Week 1 Check-up",
    "gid": "gf8f70de4b05ba8db8e9d410ecdb2c86d",
    "xml": "gf8f70de4b05ba8db8e9d410ecdb2c86d/assessment_meta.xml",
    "module": "m1518",
@@ -1754,7 +1754,7 @@
   {
    "id": "q1457",
    "type": "quiz",
-   "title": "Week 2 Friday Check-up",
+   "title": "Week 2 Check-up",
    "gid": "g28221f45afbdf6a34d27c468459d9ca4",
    "xml": "g28221f45afbdf6a34d27c468459d9ca4/assessment_meta.xml",
    "module": "m1518",
@@ -1792,7 +1792,7 @@
   {
    "id": "q1459",
    "type": "quiz",
-   "title": "Week 3 Friday Check-up",
+   "title": "Week 3 Check-up",
    "gid": "g4eb6f7aee9d690d4539200425129c983",
    "xml": "g4eb6f7aee9d690d4539200425129c983/assessment_meta.xml",
    "module": "m1518",
@@ -1830,7 +1830,7 @@
   {
    "id": "q1461",
    "type": "quiz",
-   "title": "Week 4 Friday Check-up",
+   "title": "Week 4 Check-up",
    "gid": "g5b02f4b1ce79d9dca218926e8fa553c2",
    "xml": "g5b02f4b1ce79d9dca218926e8fa553c2/assessment_meta.xml",
    "module": "m1518",
@@ -1868,7 +1868,7 @@
   {
    "id": "q1463",
    "type": "quiz",
-   "title": "Week 5 Friday Check-up",
+   "title": "Week 5 Check-up",
    "gid": "g604f7ea30346a6761d1861723acfec72",
    "xml": "g604f7ea30346a6761d1861723acfec72/assessment_meta.xml",
    "module": "m1518",
@@ -1944,7 +1944,7 @@
   {
    "id": "q1467",
    "type": "quiz",
-   "title": "Week 1 Friday Check-up",
+   "title": "Week 1 Check-up",
    "gid": "g081147d43ad1a5d136ecce586cbfe32a",
    "xml": "g081147d43ad1a5d136ecce586cbfe32a/assessment_meta.xml",
    "module": "m1520",
@@ -1982,7 +1982,7 @@
   {
    "id": "q1469",
    "type": "quiz",
-   "title": "Week 2 Friday Check-up",
+   "title": "Week 2 Check-up",
    "gid": "gab6188a916564ce90242e1b077387b08",
    "xml": "gab6188a916564ce90242e1b077387b08/assessment_meta.xml",
    "module": "m1520",
@@ -2187,7 +2187,7 @@
   "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
  },
  "weighted": false,
- "source": "Canvas course 2 on optimaoaoteam.instructure.com, pulled 2026-09-16",
+ "source": "Canvas course 2 on optimaoaoteam.instructure.com, pulled 2026-10-19",
  "verify": {
   "ok": true,
   "warnings": [
@@ -2224,5 +2224,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "491b3ff66dfb27b12ee607ddcd46fa261a917d4ff9d908c0073a2f88a45a02db"
+ "spec_sha": "a99951fb43f3b77286c67d0d4496faf3a098f85775e0a31fae52ff1f31d49265",
+ "art_pack": null
 }
