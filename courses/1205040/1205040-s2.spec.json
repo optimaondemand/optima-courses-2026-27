@@ -22,6 +22,290 @@
    "weight": 20
   }
  ],
+ "rubrics": [
+  {
+   "id": "r_lesson-6-05c-independent-practice",
+   "title": "Data Project Rubric (30 pts)",
+   "criteria": [
+    {
+     "description": "Step 1: Choose Your Data Sets",
+     "long_description": "One numerical data set and one categorical data set, each chosen from the list provided, and both shown in the project.",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Complete",
+       "long_description": "One numerical and one categorical data set from the provided list, both shown in full.",
+       "points": 5
+      },
+      {
+       "description": "Minor gap",
+       "long_description": "Both kinds of data set chosen from the list, but one is shown incompletely.",
+       "points": 4
+      },
+      {
+       "description": "Major gap",
+       "long_description": "Only one data set is shown, or a data set is not from the provided list.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "No data sets shown.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Step 2: Choose the Right Graphical Representation",
+     "long_description": "A line plot, histogram, stem-and-leaf plot or box plot for the numerical data, and a bar graph or circle graph for the categorical data, each suited to the data and making trends easy to see.",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Both well chosen",
+       "long_description": "Both graph types come from the allowed choices and suit their data.",
+       "points": 5
+      },
+      {
+       "description": "Mostly suited",
+       "long_description": "Both graphs are allowed types, but one is not the best fit for its data.",
+       "points": 4
+      },
+      {
+       "description": "One graph unsuited",
+       "long_description": "One graph is not an allowed type, or only one graph type is chosen.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "No graph types chosen.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Step 3: Create Your Graphs",
+     "long_description": "Each graph has a title that describes the data, labels for the categories or values, and a clear, accurate representation of the data.",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Accurate and complete",
+       "long_description": "Both graphs have a descriptive title and labels and show the data accurately.",
+       "points": 5
+      },
+      {
+       "description": "Minor errors",
+       "long_description": "Both graphs are accurate, but a title or label is missing or unclear.",
+       "points": 4
+      },
+      {
+       "description": "Major errors",
+       "long_description": "A graph misrepresents its data, or one graph is missing.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "No graphs created.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Step 4: Analyze Your Data",
+     "long_description": "Categorical data: most and least popular categories, categories with similar frequencies, and three questions of the student's own with answers. Numerical data: gaps, peaks, skewness and outliers.",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Thorough and accurate",
+       "long_description": "Covers every required feature for both data sets, including three original questions with answers, and the observations are correct.",
+       "points": 5
+      },
+      {
+       "description": "Mostly complete",
+       "long_description": "Covers nearly all required features; one is missing or one observation is inaccurate.",
+       "points": 4
+      },
+      {
+       "description": "Partial",
+       "long_description": "Analysis of one data set is missing, or several required features are missing or inaccurate.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "No analysis.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Step 5: Calculate and Show Statistical Measures",
+     "long_description": "Numerical data: mean, median, mode and range, plus the interquartile range if a box plot is used. Categorical data: mode, plus percentages if a circle graph is used. Work is shown and correct.",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Correct and shown",
+       "long_description": "Every required measure is calculated correctly and the work is shown.",
+       "points": 5
+      },
+      {
+       "description": "Minor errors",
+       "long_description": "Required measures are present with one calculation error or one place where the work is not shown.",
+       "points": 4
+      },
+      {
+       "description": "Major errors",
+       "long_description": "A required measure is missing, or several calculations are wrong or unsupported.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "No statistical measures.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Step 6: Final Document or Presentation",
+     "long_description": "A document or presentation with a title page (name, project title and date), the data sets, the graphs, the analysis, the statistical calculations and a conclusion, neatly organized with clear explanations.",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Complete and clear",
+       "long_description": "All six parts are present, organized neatly, with clear explanations and a conclusion that says what the data shows and why the chosen graphs were useful.",
+       "points": 5
+      },
+      {
+       "description": "Mostly complete",
+       "long_description": "One part is thin or missing, or the organization is hard to follow in places.",
+       "points": 4
+      },
+      {
+       "description": "Incomplete",
+       "long_description": "Several parts are missing or the explanations are unclear.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "No final document or presentation.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_lesson-7-03b-independent-practice",
+   "title": "Probability Experiment Project Rubric (15 pts)",
+   "criteria": [
+    {
+     "description": "Part 1: Design Your Experiment",
+     "long_description": "A description of the experiment that gives its aim, the event or events being investigated and why it was chosen. If a simulation tool stands in for something else, it explains what each part represents.",
+     "points": 3,
+     "ratings": [
+      {
+       "description": "Clear and complete",
+       "long_description": "States the aim, the events and the reason for the choice; explains any stand-in parts.",
+       "points": 3
+      },
+      {
+       "description": "Mostly complete",
+       "long_description": "One element of the description is missing or unclear.",
+       "points": 2
+      },
+      {
+       "description": "Partial",
+       "long_description": "Only one element of the description is given.",
+       "points": 1
+      },
+      {
+       "description": "Missing",
+       "long_description": "No experiment design.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Part 2: Simulate and Record Results",
+     "long_description": "The experiment is simulated at least 100 times with a listed simulation tool, and the outcomes are recorded in a frequency table.",
+     "points": 3,
+     "ratings": [
+      {
+       "description": "Complete",
+       "long_description": "At least 100 trials and a clear frequency table of the outcomes.",
+       "points": 3
+      },
+      {
+       "description": "Minor gap",
+       "long_description": "At least 100 trials, but the frequency table is incomplete or unclear.",
+       "points": 2
+      },
+      {
+       "description": "Major gap",
+       "long_description": "Fewer than 100 trials, or results are reported without a frequency table.",
+       "points": 1
+      },
+      {
+       "description": "Missing",
+       "long_description": "No simulation results.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Part 3: Calculate Probabilities",
+     "long_description": "Theoretical probability of each outcome from the sample space, and experimental probability of each outcome from the frequency table.",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Correct",
+       "long_description": "Theoretical and experimental probabilities for every outcome are correct and clearly shown.",
+       "points": 4
+      },
+      {
+       "description": "Minor errors",
+       "long_description": "Both kinds of probability are given with one or two calculation errors.",
+       "points": 3
+      },
+      {
+       "description": "Major errors",
+       "long_description": "Only one kind of probability is given, or most calculations are incorrect.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "No probabilities calculated.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Part 4: Analysis, Conclusion and Presentation",
+     "long_description": "A paragraph comparing theoretical and experimental probabilities and explaining any differences (such as the Law of Large Numbers and randomness), a reflection on what the experiment shows, and the project presented as a snapshot with a recording, or as a document or presentation, clearly labeled with the student's name and class period.",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Thoughtful and complete",
+       "long_description": "Compares the probabilities, explains differences using the Law of Large Numbers and randomness, reflects on the experiment, and presents the project clearly and labeled.",
+       "points": 5
+      },
+      {
+       "description": "Mostly complete",
+       "long_description": "The comparison and explanation are sound, but the reflection or the labeling or presentation is thin.",
+       "points": 4
+      },
+      {
+       "description": "Partial",
+       "long_description": "The comparison is given without an explanation of the differences, or the presentation is hard to follow.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "No analysis or presentation.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
  "pages": [
   {
    "id": "p_lesson-6-01a-find-and-interpret-measures-of-variation",
@@ -906,6 +1190,7 @@
    "group": "ag_practice",
    "grading_type": "points",
    "published": true,
+   "rubric": "r_lesson-6-05c-independent-practice",
    "submission_types": "none"
   },
   {
@@ -1153,6 +1438,7 @@
    "group": "ag_practice",
    "grading_type": "points",
    "published": true,
+   "rubric": "r_lesson-7-03b-independent-practice",
    "submission_types": "media_recording,online_upload"
   },
   {
@@ -2921,6 +3207,6 @@
   }
  ],
  "source": {
-  "note": "Built 2026-10-21 from the reformatted Grade 7 Mathematics course (07Mathematics Q3-Q4 Module Formatted folders). Module and item titles, order, sub-headers, points, grading types, submission types and Wiris LTI links (quiz id + lookup uuid) were read from the product master copy export (7th-grade-math-product-master-copy-export.imscc): the course was never deployed to Canvas the old way and has no Module Maps in the formatted set, so the export is the naming authority. The 24 student-facing Prior Knowledge Checks sit in the export's Teacher Resources buckets (published per the reformat decision); here each is placed before the lesson it supports and excluded from the final grade (course owner's decision). The four Module Lesson Maps pages are in an unpublished Teacher Resources module. Lessons and assignment pages are on https://optimaondemand.github.io/mj-grade-7-mathematics. Gradebook groups and weights (40/40/20) from the course owner; the course's teacher manual recommends 60/30/10. No week pacing exists in the course files, so no item carries a week."
+  "note": "Built 2026-10-21 from the reformatted Grade 7 Mathematics course (07Mathematics Q3-Q4 Module Formatted folders). Module and item titles, order, sub-headers, points, grading types, submission types and Wiris LTI links (quiz id + lookup uuid) were read from the product master copy export (7th-grade-math-product-master-copy-export.imscc): the course was never deployed to Canvas the old way and has no Module Maps in the formatted set, so the export is the naming authority. The 24 student-facing Prior Knowledge Checks sit in the export's Teacher Resources buckets (published per the reformat decision); here each is placed before the lesson it supports and excluded from the final grade (course owner's decision). The four Module Lesson Maps pages are in an unpublished Teacher Resources module. Lessons and assignment pages are on https://optimaondemand.github.io/mj-grade-7-mathematics. Gradebook groups and weights (40/40/20) from the course owner; the course's teacher manual recommends 60/30/10, and the course owner confirmed 40/40/20 on 2026-10-21. No week pacing exists in the course files, so no item carries a week. Rubrics for the two teacher-graded projects (Lessons 6.05c and 7.03b, which have none in the source) were written on 2026-10-21 from each project's own instructions: 6.05c's six steps at 5 points each (its stated scoring), and 7.03b's four parts."
  }
 }
