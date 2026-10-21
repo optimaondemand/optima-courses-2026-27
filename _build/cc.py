@@ -15,7 +15,11 @@ Spec (a dict, usually loaded from JSON):
   "pages": [{"id", "title", "html", "front_page": bool, "published": bool}],
   "assignments": [{"id", "title", "html", "points", "grading_type",
                    "submission_types", "group", "rubric", "published",
-                   "allowed_extensions"}],
+                   "allowed_extensions",
+                   # LTI assignments (submission_types "external_tool"); see docs/SPEC.md
+                   "external_tool_url", "external_tool_external_identifier",
+                   "external_tool_custom", "resource_link_lookup_uuid",
+                   "lti_title", "lti_description", "external_tool_new_tab"}],
   "quizzes": [{"id", "title", "description", "quiz_type", "points", "grading_type",
                "allowed_attempts", "shuffle_answers", "show_correct_answers",
                "group", "published", "questions": [QUESTION]}],
@@ -383,6 +387,7 @@ class Cartridge:
             '  <graders_anonymous_to_graders>false</graders_anonymous_to_graders>\n'
             '  <grader_names_visible_to_final_grader>true</grader_names_visible_to_final_grader>\n'
             '  <anonymous_instructor_annotations>false</anonymous_instructor_annotations>\n'
+            '%s'
             '  <post_policy>\n    <post_manually>false</post_manually>\n  </post_policy>\n'
             % (x(a['title']), dates,
                self.group_ref(a.get('group'), 'assignment %s' % a.get('id')),
@@ -393,7 +398,33 @@ class Cartridge:
                a.get('grading_type', 'points'),
                a.get('submission_types', 'online_text_entry,online_upload'),
                position,
-               b(a.get('omit_from_final_grade', False))))
+               b(a.get('omit_from_final_grade', False)),
+               self.external_tool_xml(a)))
+
+    def external_tool_xml(self, a):
+        """LTI launch fields, in the order Canvas writes them in a real export
+        (after anonymous_instructor_annotations, before post_policy). Empty unless the
+        assignment carries "external_tool_url"; such an assignment must use
+        submission_types "external_tool". Optional keys copy a real export verbatim:
+        external_tool_external_identifier, external_tool_data_json,
+        external_tool_link_settings_json, resource_link_lookup_uuid."""
+        url = a.get('external_tool_url')
+        if not url:
+            return ''
+        if a.get('submission_types') != 'external_tool':
+            self.errors.append('assignment %s has external_tool_url but submission_types is %r, not external_tool'
+                               % (a.get('id'), a.get('submission_types')))
+        out = ''
+        if a.get('external_tool_external_identifier'):
+            out += '  <external_tool_external_identifier>%s</external_tool_external_identifier>\n' % x(a['external_tool_external_identifier'])
+        out += '  <external_tool_url>%s</external_tool_url>\n' % x(url)
+        out += '  <external_tool_data_json>%s</external_tool_data_json>\n' % x(a.get('external_tool_data_json', '""'))
+        out += '  <external_tool_link_settings_json>%s</external_tool_link_settings_json>\n' % x(
+            a.get('external_tool_link_settings_json', '{"selection_width":"","selection_height":""}'))
+        out += '  <external_tool_new_tab>%s</external_tool_new_tab>\n' % b(a.get('external_tool_new_tab', False))
+        if a.get('resource_link_lookup_uuid'):
+            out += '  <resource_link_lookup_uuid>%s</resource_link_lookup_uuid>\n' % x(a['resource_link_lookup_uuid'])
+        return out
 
     def build_assignments(self):
         for i, a in enumerate(self.spec.get('assignments', []), 1):
@@ -408,6 +439,47 @@ class Cartridge:
             self.add(xml_path, XML_HEAD + '<assignment identifier="%s" %s>\n%s</assignment>\n'
                      % (g, CANVAS_NS, self.assignment_xml(g, a, i)))
             self.res(g, TYPE_LAR, href=html_path, files=[html_path, xml_path])
+            self.build_lti_link(g, a)
+
+    def build_lti_link(self, assignment_gid, a):
+        """lti_resource_links/<id>.xml: the per-assignment LTI 1.3 resource link Canvas
+        writes beside an external_tool assignment. Its <lticm:property name="id"> custom
+        parameter is what binds the launch to one item inside the tool (for WirisQuizzes
+        the quiz id); without this file the tool is launched with no item and rejects it.
+        Written only when the assignment carries "external_tool_custom": {name: value}.
+        Optional: lti_title, lti_description, resource_link_lookup_uuid."""
+        custom = a.get('external_tool_custom')
+        if not custom:
+            return
+        if not a.get('external_tool_url'):
+            self.errors.append('assignment %s has external_tool_custom but no external_tool_url' % a.get('id'))
+            return
+        lid = self.G('ltilink', a['id'])
+        path = 'lti_resource_links/%s.xml' % lid
+        props = ''.join('    <lticm:property name="%s">%s</lticm:property>\n' % (x(k), x(v)) for k, v in custom.items())
+        ext = ''
+        if a.get('resource_link_lookup_uuid'):
+            ext += '    <lticm:property name="lookup_uuid">%s</lticm:property>\n' % x(a['resource_link_lookup_uuid'])
+        ext += '    <lticm:property name="assignment_migration_id">%s</lticm:property>\n' % assignment_gid
+        self.add(path, XML_HEAD +
+                 '<cartridge_basiclti_link xmlns="http://www.imsglobal.org/xsd/imslticc_v1p3" '
+                 'xmlns:blti="http://www.imsglobal.org/xsd/imsbasiclti_v1p0" '
+                 'xmlns:lticm="http://www.imsglobal.org/xsd/imslticm_v1p0" '
+                 'xmlns:lticp="http://www.imsglobal.org/xsd/imslticp_v1p0" '
+                 'xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" '
+                 'xsi:schemaLocation="http://www.imsglobal.org/xsd/imslticc_v1p3.xsd '
+                 'http://www.imsglobal.org/xsd/imslticp_v1p0 imslticp_v1p0.xsd '
+                 'http://www.imsglobal.org/xsd/imslticm_v1p0 imslticm_v1p0.xsd '
+                 'http://www.imsglobal.org/xsd/imsbasiclti_v1p0 imsbasiclti_v1p0p1.xsd">\n'
+                 '  <blti:title>%s</blti:title>\n'
+                 '  <blti:description>%s</blti:description>\n'
+                 '  <blti:secure_launch_url>%s</blti:secure_launch_url>\n'
+                 '  <blti:custom>\n%s  </blti:custom>\n'
+                 '  <blti:extensions platform="canvas.instructure.com">\n%s  </blti:extensions>\n'
+                 '</cartridge_basiclti_link>\n'
+                 % (x(a.get('lti_title', a['title'])), x(a.get('lti_description', '')),
+                    x(a['external_tool_url']), props, ext))
+        self.res(lid, 'imsbasiclti_xmlv1p3', files=[path])
 
     # ---------------------------------------------------------------- quizzes
     def _answer_id(self, qid, n):
