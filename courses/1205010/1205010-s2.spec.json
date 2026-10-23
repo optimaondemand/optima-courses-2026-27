@@ -1,0 +1,3003 @@
+{
+ "course": {
+  "title": "M/J Grade 6 Mathematics Sem 2",
+  "code": "1205010",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_practice",
+   "title": "Practice & Checks",
+   "weight": 40
+  },
+  {
+   "id": "ag_summative",
+   "title": "Summative Assessments",
+   "weight": 40
+  },
+  {
+   "id": "ag_reviews",
+   "title": "Reviews & VR",
+   "weight": 20
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_lesson-6-01a-translating-real-world-contexts-into-algebraic-expressions",
+   "title": "Lesson 6.01a Translating Real-World Contexts into Algebraic Expressions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-01a-translating-real-world-contexts-into-algebraic-expressions.html\" style=\"width:100%;height:3910px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.01a Translating Real-World Contexts into Algebraic Expressions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-01a-vr-lesson-resources",
+   "title": "Lesson 6.01a VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-01a-vr-lesson-resources.html\" style=\"width:100%;height:1780px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.01a VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-01b-translating-mathematical-descriptions-into-algebraic-expressions",
+   "title": "Lesson 6.01b Translating Mathematical Descriptions into Algebraic Expressions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-01b-translating-mathematical-descriptions-into-algebraic-expressions.html\" style=\"width:100%;height:4260px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.01b Translating Mathematical Descriptions into Algebraic Expressions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-01b-vr-lesson-resources",
+   "title": "Lesson 6.01b VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-01b-vr-lesson-resources.html\" style=\"width:100%;height:1780px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.01b VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-01c-writing-descriptions-for-algebraic-expressions",
+   "title": "Lesson 6.01c Writing Descriptions for Algebraic Expressions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-01c-writing-descriptions-for-algebraic-expressions.html\" style=\"width:100%;height:5390px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.01c Writing Descriptions for Algebraic Expressions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-01c-vr-lesson-resources",
+   "title": "Lesson 6.01c VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-01c-vr-lesson-resources.html\" style=\"width:100%;height:1860px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.01c VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-02a-the-distributive-property-on-algebraic-expressions",
+   "title": "Lesson 6.02a The Distributive Property on Algebraic Expressions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-02a-the-distributive-property-on-algebraic-expressions.html\" style=\"width:100%;height:4240px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.02a The Distributive Property on Algebraic Expressions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-02a-vr-lesson-resources",
+   "title": "Lesson 6.02a VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-02a-vr-lesson-resources.html\" style=\"width:100%;height:1820px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.02a VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-02b-combining-like-terms",
+   "title": "Lesson 6.02b Combining Like Terms",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-02b-combining-like-terms.html\" style=\"width:100%;height:3910px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.02b Combining Like Terms\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-02b-vr-lesson-resources",
+   "title": "Lesson 6.02b VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-02b-vr-lesson-resources.html\" style=\"width:100%;height:1720px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.02b VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-03a-interpreting-and-representing-an-algebraic-inequality",
+   "title": "Lesson 6.03a Interpreting and Representing an Algebraic Inequality",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-03a-interpreting-and-representing-an-algebraic-inequality.html\" style=\"width:100%;height:5200px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.03a Interpreting and Representing an Algebraic Inequality\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-03a-vr-lesson-resources",
+   "title": "Lesson 6.03a VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-03a-vr-lesson-resources.html\" style=\"width:100%;height:1930px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.03a VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-03b-translating-written-descriptions-into-algebraic-inequalities",
+   "title": "Lesson 6.03b Translating Written Descriptions into Algebraic Inequalities",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-03b-translating-written-descriptions-into-algebraic-inequalities.html\" style=\"width:100%;height:4550px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.03b Translating Written Descriptions into Algebraic Inequalities\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-03b-vr-lesson-resources",
+   "title": "Lesson 6.03b VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-03b-vr-lesson-resources.html\" style=\"width:100%;height:2030px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.03b VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-04a-determining-true-solutions-for-an-equation",
+   "title": "Lesson 6.04a Determining True Solutions for an Equation",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-04a-determining-true-solutions-for-an-equation.html\" style=\"width:100%;height:3800px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.04a Determining True Solutions for an Equation\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-04a-vr-lesson-resources",
+   "title": "Lesson 6.04a VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-04a-vr-lesson-resources.html\" style=\"width:100%;height:1930px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.04a VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-04b-determining-solution-sets-for-inequalities",
+   "title": "Lesson 6.04b Determining Solution Sets for Inequalities",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-04b-determining-solution-sets-for-inequalities.html\" style=\"width:100%;height:3430px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.04b Determining Solution Sets for Inequalities\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-04b-vr-lesson-resources",
+   "title": "Lesson 6.04b VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-04b-vr-lesson-resources.html\" style=\"width:100%;height:1930px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.04b VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-05a-solving-one-step-equations-with-addition-and-subtraction",
+   "title": "Lesson 6.05a Solving One-Step Equations with Addition and Subtraction",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-05a-solving-one-step-equations-with-addition-and-subtraction.html\" style=\"width:100%;height:5240px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05a Solving One-Step Equations with Addition and Subtraction\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-05a-vr-lesson-resources",
+   "title": "Lesson 6.05a VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-05a-vr-lesson-resources.html\" style=\"width:100%;height:1780px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05a VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-05b-writing-and-solving-one-step-equations-with-addition-and-subtraction",
+   "title": "Lesson 6.05b Writing and Solving One-Step Equations with Addition and Subtraction",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-05b-writing-and-solving-one-step-equations-with-addition-and-subtraction.html\" style=\"width:100%;height:4090px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05b Writing and Solving One-Step Equations with Addition and Subtraction\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-05b-vr-lesson-resources",
+   "title": "Lesson 6.05b VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-05b-vr-lesson-resources.html\" style=\"width:100%;height:1810px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05b VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-05c-solving-one-step-equations-with-multiplication-and-division",
+   "title": "Lesson 6.05c Solving One-Step Equations with Multiplication and Division",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-05c-solving-one-step-equations-with-multiplication-and-division.html\" style=\"width:100%;height:4780px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05c Solving One-Step Equations with Multiplication and Division\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-05c-vr-lesson-resources",
+   "title": "Lesson 6.05c VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-05c-vr-lesson-resources.html\" style=\"width:100%;height:1870px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05c VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-05d-writing-and-solving-one-step-equations-with-multiplication-and-division",
+   "title": "Lesson 6.05d Writing and Solving One-Step Equations with Multiplication and Division",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-05d-writing-and-solving-one-step-equations-with-multiplication-and-division.html\" style=\"width:100%;height:3700px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05d Writing and Solving One-Step Equations with Multiplication and Division\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-05d-vr-lesson-resources",
+   "title": "Lesson 6.05d VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-05d-vr-lesson-resources.html\" style=\"width:100%;height:1810px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05d VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-01a-identifying-and-creating-statistical-questions",
+   "title": "Lesson 7.01a Identifying and Creating Statistical Questions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-01a-identifying-and-creating-statistical-questions.html\" style=\"width:100%;height:4230px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.01a Identifying and Creating Statistical Questions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-01a-vr-lesson-resources",
+   "title": "Lesson 7.01a VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-01a-vr-lesson-resources.html\" style=\"width:100%;height:1610px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.01a VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-02a-finding-and-interpreting-mean-and-median",
+   "title": "Lesson 7.02a Finding and Interpreting Mean and Median",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-02a-finding-and-interpreting-mean-and-median.html\" style=\"width:100%;height:4800px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.02a Finding and Interpreting Mean and Median\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-02a-vr-lesson-resources",
+   "title": "Lesson 7.02a VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-02a-vr-lesson-resources.html\" style=\"width:100%;height:1670px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.02a VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-02b-finding-and-interpreting-mode-and-range",
+   "title": "Lesson 7.02b Finding and Interpreting Mode and Range",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-02b-finding-and-interpreting-mode-and-range.html\" style=\"width:100%;height:5010px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.02b Finding and Interpreting Mode and Range\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-02b-vr-lesson-resources",
+   "title": "Lesson 7.02b VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-02b-vr-lesson-resources.html\" style=\"width:100%;height:1670px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.02b VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-03a-creating-box-plots",
+   "title": "Lesson 7.03a Creating Box Plots",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-03a-creating-box-plots.html\" style=\"width:100%;height:5850px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.03a Creating Box Plots\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-03a-vr-lesson-resources",
+   "title": "Lesson 7.03a VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-03a-vr-lesson-resources.html\" style=\"width:100%;height:1780px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.03a VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-03b-creating-histograms",
+   "title": "Lesson 7.03b Creating Histograms",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-03b-creating-histograms.html\" style=\"width:100%;height:5900px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.03b Creating Histograms\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-03b-vr-lesson-resources",
+   "title": "Lesson 7.03b VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-03b-vr-lesson-resources.html\" style=\"width:100%;height:1760px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.03b VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-04a-generating-a-5-number-summary",
+   "title": "Lesson 7.04a Generating a 5 Number Summary",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-04a-generating-a-5-number-summary.html\" style=\"width:100%;height:6000px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.04a Generating a 5 Number Summary\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-04a-vr-lesson-resources",
+   "title": "Lesson 7.04a VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-04a-vr-lesson-resources.html\" style=\"width:100%;height:1830px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.04a VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-04b-describing-spread-and-distribution-of-a-box-plot",
+   "title": "Lesson 7.04b Describing Spread and Distribution of a Box Plot",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-04b-describing-spread-and-distribution-of-a-box-plot.html\" style=\"width:100%;height:9130px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.04b Describing Spread and Distribution of a Box Plot\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-04b-vr-lesson-resources",
+   "title": "Lesson 7.04b VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-04b-vr-lesson-resources.html\" style=\"width:100%;height:1860px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.04b VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-04c-describing-a-histogram-qualitatively",
+   "title": "Lesson 7.04c Describing a Histogram Qualitatively",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-04c-describing-a-histogram-qualitatively.html\" style=\"width:100%;height:7670px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.04c Describing a Histogram Qualitatively\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-04c-vr-lesson-resources",
+   "title": "Lesson 7.04c VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-04c-vr-lesson-resources.html\" style=\"width:100%;height:1650px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.04c VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-04d-describing-a-line-plot-qualitatively",
+   "title": "Lesson 7.04d Describing a Line Plot Qualitatively",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-04d-describing-a-line-plot-qualitatively.html\" style=\"width:100%;height:6710px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.04d Describing a Line Plot Qualitatively\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-04d-vr-lesson-resources",
+   "title": "Lesson 7.04d VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-04d-vr-lesson-resources.html\" style=\"width:100%;height:1650px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.04d VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-05a-how-adding-or-removing-a-lower-value-affects-statistical-data",
+   "title": "Lesson 7.05a How Adding or Removing a Lower Value Affects Statistical Data",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-05a-how-adding-or-removing-a-lower-value-affects-statistical-data.html\" style=\"width:100%;height:6280px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.05a How Adding or Removing a Lower Value Affects Statistical Data\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-05a-vr-lesson-resources",
+   "title": "Lesson 7.05a VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-05a-vr-lesson-resources.html\" style=\"width:100%;height:1790px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.05a VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-05b-how-adding-or-removing-an-upper-value-affects-statistical-data",
+   "title": "Lesson 7.05b How Adding or Removing an Upper Value Affects Statistical Data",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-05b-how-adding-or-removing-an-upper-value-affects-statistical-data.html\" style=\"width:100%;height:6300px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.05b How Adding or Removing an Upper Value Affects Statistical Data\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-05b-vr-lesson-resources",
+   "title": "Lesson 7.05b VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-05b-vr-lesson-resources.html\" style=\"width:100%;height:1790px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.05b VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-05c-defining-outliers-and-their-effects-on-data",
+   "title": "Lesson 7.05c Defining Outliers and Their Effects on Data",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-05c-defining-outliers-and-their-effects-on-data.html\" style=\"width:100%;height:9330px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.05c Defining Outliers and Their Effects on Data\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-05c-vr-lesson-resources",
+   "title": "Lesson 7.05c VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-05c-vr-lesson-resources.html\" style=\"width:100%;height:1820px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.05c VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-01a-the-coordiante-plane-and-plotting-points",
+   "title": "Lesson 8.01a The Coordiante Plane and Plotting Points",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-01a-the-coordiante-plane-and-plotting-points.html\" style=\"width:100%;height:7120px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01a The Coordiante Plane and Plotting Points\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-01a-vr-lesson-resources",
+   "title": "Lesson 8.01a VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-01a-vr-lesson-resources.html\" style=\"width:100%;height:1710px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01a VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-01b-lines-of-reflection-for-opposite-points",
+   "title": "Lesson 8.01b Lines of Reflection for Opposite Points",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-01b-lines-of-reflection-for-opposite-points.html\" style=\"width:100%;height:4520px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01b Lines of Reflection for Opposite Points\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-01b-vr-lesson-resources",
+   "title": "Lesson 8.01b VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-01b-vr-lesson-resources.html\" style=\"width:100%;height:1760px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01b VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-02a-finding-the-distance-with-same-x-coordinate",
+   "title": "Lesson 8.02a Finding the Distance with Same x-coordinate",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-02a-finding-the-distance-with-same-x-coordinate.html\" style=\"width:100%;height:4770px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.02a Finding the Distance with Same x-coordinate\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-02a-vr-lesson-resources",
+   "title": "Lesson 8.02a VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-02a-vr-lesson-resources.html\" style=\"width:100%;height:1800px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.02a VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-02b-finding-the-distance-with-same-y-coordinate",
+   "title": "Lesson 8.02b Finding the Distance with Same y-coordinate",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-02b-finding-the-distance-with-same-y-coordinate.html\" style=\"width:100%;height:4870px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.02b Finding the Distance with Same y-coordinate\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-02b-vr-lesson-resources",
+   "title": "Lesson 8.02b VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-02b-vr-lesson-resources.html\" style=\"width:100%;height:1800px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.02b VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-03a-plotting-points-to-solve-problems",
+   "title": "Lesson 8.03a Plotting Points to Solve Problems",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-03a-plotting-points-to-solve-problems.html\" style=\"width:100%;height:5150px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.03a Plotting Points to Solve Problems\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-03a-vr-lesson-resources",
+   "title": "Lesson 8.03a VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-03a-vr-lesson-resources.html\" style=\"width:100%;height:1760px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.03a VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-03b-solving-problems-involving-area-and-perimeter-in-the-coordinate-plane",
+   "title": "Lesson 8.03b Solving Problems Involving Area and Perimeter in the Coordinate Plane",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-03b-solving-problems-involving-area-and-perimeter-in-the-coordinate-plane.html\" style=\"width:100%;height:4950px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.03b Solving Problems Involving Area and Perimeter in the Coordinate Plane\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-03b-vr-lesson-resources",
+   "title": "Lesson 8.03b VR Lesson Resources",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-03b-vr-lesson-resources.html\" style=\"width:100%;height:1740px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.03b VR Lesson Resources\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-01a-area-of-triangles",
+   "title": "Lesson 9.01a Area of Triangles",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/lesson-9-01a-area-of-triangles.html\" style=\"width:100%;height:6250px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.01a Area of Triangles\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-01b-area-of-parallelograms",
+   "title": "Lesson 9.01b Area of Parallelograms",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/lesson-9-01b-area-of-parallelograms.html\" style=\"width:100%;height:5260px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.01b Area of Parallelograms\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-01c-area-of-trapezoids",
+   "title": "Lesson 9.01c Area of Trapezoids",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/lesson-9-01c-area-of-trapezoids.html\" style=\"width:100%;height:5310px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.01c Area of Trapezoids\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-01d-area-of-composite-shapes",
+   "title": "Lesson 9.01d Area of Composite Shapes",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/lesson-9-01d-area-of-composite-shapes.html\" style=\"width:100%;height:5940px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.01d Area of Composite Shapes\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-02a-volume-of-a-rectangular-prism-using-a-model",
+   "title": "Lesson 9.02a Volume of a Rectangular Prism Using a Model",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/lesson-9-02a-volume-of-a-rectangular-prism-using-a-model.html\" style=\"width:100%;height:4760px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.02a Volume of a Rectangular Prism Using a Model\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-02b-volume-of-a-rectangular-prism",
+   "title": "Lesson 9.02b Volume of a Rectangular Prism",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/lesson-9-02b-volume-of-a-rectangular-prism.html\" style=\"width:100%;height:3790px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.02b Volume of a Rectangular Prism\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-02c-surface-area-of-a-rectangular-prism",
+   "title": "Lesson 9.02c Surface Area of a Rectangular Prism",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/lesson-9-02c-surface-area-of-a-rectangular-prism.html\" style=\"width:100%;height:5350px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.02c Surface Area of a Rectangular Prism\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-02d-surface-area-of-a-rectangular-pyramid",
+   "title": "Lesson 9.02d Surface Area of a Rectangular Pyramid",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/lesson-9-02d-surface-area-of-a-rectangular-pyramid.html\" style=\"width:100%;height:5170px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.02d Surface Area of a Rectangular Pyramid\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_module-6-lesson-maps",
+   "title": "Module 6 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/teacher-resources/module-6-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 6 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  },
+  {
+   "id": "p_module-7-lesson-maps",
+   "title": "Module 7 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/teacher-resources/module-7-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 7 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  },
+  {
+   "id": "p_module-8-lesson-maps",
+   "title": "Module 8 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/teacher-resources/module-8-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 8 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  },
+  {
+   "id": "p_module-9-lesson-maps",
+   "title": "Module 9 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/teacher-resources/module-9-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 9 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a_lesson-6-01a-prior-knowledge-check",
+   "title": "Lesson 6.01a Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-01a-prior-knowledge-check.html\" style=\"width:100%;height:2700px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.01a Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-6-01a-independent-practice",
+   "title": "Lesson 6.01a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-01a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.01a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3060"
+   },
+   "resource_link_lookup_uuid": "c54017b4-ce41-41ac-9fb0-41e9e1a2e455",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-6-01b-prior-knowledge-check",
+   "title": "Lesson 6.01b Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-01b-prior-knowledge-check.html\" style=\"width:100%;height:3520px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.01b Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-6-01b-independent-practice",
+   "title": "Lesson 6.01b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-01b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.01b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3064"
+   },
+   "resource_link_lookup_uuid": "a41cc9a5-11d3-4b4d-862f-48236b804e1c",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-6-01c-prior-knowledge-check",
+   "title": "Lesson 6.01c Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-01c-prior-knowledge-check.html\" style=\"width:100%;height:3530px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.01c Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-6-01c-independent-practice",
+   "title": "Lesson 6.01c Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-01c-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.01c Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3063"
+   },
+   "resource_link_lookup_uuid": "6b626a7b-0663-45df-8f38-61484fa5498b",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-6-02a-prior-knowledge-check",
+   "title": "Lesson 6.02a Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-02a-prior-knowledge-check.html\" style=\"width:100%;height:2610px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.02a Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-6-02a-independent-practice",
+   "title": "Lesson 6.02a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-02a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.02a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3062"
+   },
+   "resource_link_lookup_uuid": "3a0a95f5-ae10-4a4d-9376-7efceb4e5916",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-6-02b-prior-knowledge-check",
+   "title": "Lesson 6.02b Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-02b-prior-knowledge-check.html\" style=\"width:100%;height:2600px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.02b Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-6-02b-independent-practice",
+   "title": "Lesson 6.02b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-02b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.02b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3061"
+   },
+   "resource_link_lookup_uuid": "480661b2-706e-4e64-b45b-8562b0188363",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lessons-6-01-6-02-mid-module-check",
+   "title": "Lessons 6.01-6.02 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lessons-6-01-6-02-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 6.01-6.02 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3065"
+   },
+   "resource_link_lookup_uuid": "aef4af6a-b07f-4ac5-883f-5ae1a6309a49",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-6-03a-prior-knowledge-check",
+   "title": "Lesson 6.03a Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-03a-prior-knowledge-check.html\" style=\"width:100%;height:2670px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.03a Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-6-03a-independent-practice",
+   "title": "Lesson 6.03a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-03a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.03a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3083"
+   },
+   "resource_link_lookup_uuid": "085b5cb3-1f0d-4d9d-a880-05b7611d828c",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-6-03b-prior-knowledge-check",
+   "title": "Lesson 6.03b Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-03b-prior-knowledge-check.html\" style=\"width:100%;height:3130px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.03b Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-6-03b-independent-practice",
+   "title": "Lesson 6.03b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-03b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.03b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3087"
+   },
+   "resource_link_lookup_uuid": "8dbb27a5-d63a-4010-a4c9-a4b87196b91b",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-6-04a-prior-knowledge-check",
+   "title": "Lesson 6.04a Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-04a-prior-knowledge-check.html\" style=\"width:100%;height:3180px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.04a Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-6-04a-independent-practice",
+   "title": "Lesson 6.04a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-04a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.04a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3086"
+   },
+   "resource_link_lookup_uuid": "a6b48029-fb57-45ed-85cd-8b69b0cb84a9",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-6-04b-prior-knowledge-check",
+   "title": "Lesson 6.04b Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-04b-prior-knowledge-check.html\" style=\"width:100%;height:3580px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.04b Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-6-04b-independent-practice",
+   "title": "Lesson 6.04b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-04b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.04b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3085"
+   },
+   "resource_link_lookup_uuid": "05490d0e-b1f9-45d1-bdad-823565790719",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lessons-6-03-6-04-mid-module-check",
+   "title": "Lessons 6.03-6.04 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lessons-6-03-6-04-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 6.03-6.04 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3084"
+   },
+   "resource_link_lookup_uuid": "ab43be09-08c9-4709-8777-38808437f761",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-6-05a-prior-knowledge-check",
+   "title": "Lesson 6.05a Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-05a-prior-knowledge-check.html\" style=\"width:100%;height:2270px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05a Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-6-05a-independent-practice",
+   "title": "Lesson 6.05a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-05a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3092"
+   },
+   "resource_link_lookup_uuid": "c3ae9127-55b5-48f8-bdb2-710c34af7093",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-6-05b-prior-knowledge-check",
+   "title": "Lesson 6.05b Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-05b-prior-knowledge-check.html\" style=\"width:100%;height:2420px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05b Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-6-05b-independent-practice",
+   "title": "Lesson 6.05b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-05b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3097"
+   },
+   "resource_link_lookup_uuid": "1f0902ce-36dc-4266-839a-be601f746937",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-6-05c-prior-knowledge-check",
+   "title": "Lesson 6.05c Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-05c-prior-knowledge-check.html\" style=\"width:100%;height:2680px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05c Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-6-05c-independent-practice",
+   "title": "Lesson 6.05c Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-05c-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05c Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3096"
+   },
+   "resource_link_lookup_uuid": "a9559837-19ec-4333-9b1f-1b3f6a3d803f",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-6-05d-prior-knowledge-check",
+   "title": "Lesson 6.05d Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-05d-prior-knowledge-check.html\" style=\"width:100%;height:2420px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05d Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-6-05d-independent-practice",
+   "title": "Lesson 6.05d Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/lesson-6-05d-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05d Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3095"
+   },
+   "resource_link_lookup_uuid": "d24e7244-4d86-4760-a3a0-1036a28e9df3",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-6-summative-review",
+   "title": "Module 6 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/module-6-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 6 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3094"
+   },
+   "resource_link_lookup_uuid": "e66944ec-1359-491c-9419-d79308353014",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-6-summative-assessment",
+   "title": "Module 6 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-6/module-6-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 6 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3093"
+   },
+   "resource_link_lookup_uuid": "2a16ddd4-d1a5-48d2-b2a6-7a4f16e121e2",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-01a-independent-practice",
+   "title": "Lesson 7.01a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-01a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.01a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3290"
+   },
+   "resource_link_lookup_uuid": "e7277ca9-fda9-403f-8b40-8c5bdc491277",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-02a-prior-knowledge-check",
+   "title": "Lesson 7.02a Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-02a-prior-knowledge-check.html\" style=\"width:100%;height:3040px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.02a Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-7-02a-independent-practice",
+   "title": "Lesson 7.02a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-02a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.02a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3291"
+   },
+   "resource_link_lookup_uuid": "8d55081c-625a-4fa0-b797-20d48f57d192",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-02b-prior-knowledge-check",
+   "title": "Lesson 7.02b Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-02b-prior-knowledge-check.html\" style=\"width:100%;height:3220px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.02b Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-7-02b-independent-practice",
+   "title": "Lesson 7.02b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-02b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.02b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3292"
+   },
+   "resource_link_lookup_uuid": "46688df8-957f-4d2e-a973-f928b92de4d7",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-03a-prior-knowledge-check",
+   "title": "Lesson 7.03a Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-03a-prior-knowledge-check.html\" style=\"width:100%;height:2910px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.03a Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-7-03a-independent-practice",
+   "title": "Lesson 7.03a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-03a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.03a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3293"
+   },
+   "resource_link_lookup_uuid": "f12be804-6957-4549-aa2b-c8d0b497a660",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-03b-independent-practice",
+   "title": "Lesson 7.03b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-03b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.03b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3295"
+   },
+   "resource_link_lookup_uuid": "042d4723-6255-43dc-8bb0-ab6e9f27af07",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lessons-7-01-7-03-mid-module-check",
+   "title": "Lessons 7.01-7.03 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lessons-7-01-7-03-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 7.01-7.03 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3294"
+   },
+   "resource_link_lookup_uuid": "113c4da7-2ef4-4b5b-b3ea-dfcae639c9bc",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-04a-prior-knowledge-check",
+   "title": "Lesson 7.04a Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-04a-prior-knowledge-check.html\" style=\"width:100%;height:2950px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.04a Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-7-04a-independent-practice",
+   "title": "Lesson 7.04a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-04a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.04a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3296"
+   },
+   "resource_link_lookup_uuid": "91c35d01-b825-4787-8586-72818fb2c7b2",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-04b-independent-practice",
+   "title": "Lesson 7.04b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-04b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.04b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3299"
+   },
+   "resource_link_lookup_uuid": "13d7dd9c-9fb9-41a1-bbb5-0e3ad27c7e7e",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-04c-independent-practice",
+   "title": "Lesson 7.04c Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-04c-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.04c Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3298"
+   },
+   "resource_link_lookup_uuid": "ef65421c-8212-4f46-ad91-332416d428ee",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-04d-independent-practice",
+   "title": "Lesson 7.04d Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-04d-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.04d Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3297"
+   },
+   "resource_link_lookup_uuid": "54259d13-3422-494c-8592-8a560f61a87c",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-04-mid-module-check",
+   "title": "Lesson 7.04 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-04-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.04 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3301"
+   },
+   "resource_link_lookup_uuid": "e1813f41-408a-4edd-892e-3e581a9bd007",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-05a-prior-knowledge-check",
+   "title": "Lesson 7.05a Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-05a-prior-knowledge-check.html\" style=\"width:100%;height:4860px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.05a Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-7-05a-independent-practice",
+   "title": "Lesson 7.05a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-05a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.05a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3300"
+   },
+   "resource_link_lookup_uuid": "a3ddff13-18ab-46ea-ab1e-af4b2df76da7",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-05b-independent-practice",
+   "title": "Lesson 7.05b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-05b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.05b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3305"
+   },
+   "resource_link_lookup_uuid": "392d7a49-90e9-4b98-9eac-dec267af2886",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-05c-independent-practice",
+   "title": "Lesson 7.05c Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/lesson-7-05c-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.05c Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3304"
+   },
+   "resource_link_lookup_uuid": "541b2bf1-f5af-482d-8c30-b6d02292b0d5",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-7-summative-review",
+   "title": "Module 7 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/module-7-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 7 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3303"
+   },
+   "resource_link_lookup_uuid": "b482bec2-5ad2-4b17-8ac9-8364510466ce",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-7-summative-assessment",
+   "title": "Module 7 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-7/module-7-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 7 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3302"
+   },
+   "resource_link_lookup_uuid": "bf410c8f-81a3-4bfb-aa30-ab1f2cc3eb2a",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-01a-prior-knowledge-check",
+   "title": "Lesson 8.01a Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-01a-prior-knowledge-check.html\" style=\"width:100%;height:4080px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01a Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-8-01a-independent-practice",
+   "title": "Lesson 8.01a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-01a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3311"
+   },
+   "resource_link_lookup_uuid": "f055b259-ae3f-48f1-8db7-16979ef9c0cc",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-01b-prior-knowledge-check",
+   "title": "Lesson 8.01b Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-01b-prior-knowledge-check.html\" style=\"width:100%;height:4890px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01b Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-8-01b-independent-practice",
+   "title": "Lesson 8.01b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-01b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3312"
+   },
+   "resource_link_lookup_uuid": "d462a906-df72-4e95-8222-473afeb7e044",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-02a-prior-knowledge-check",
+   "title": "Lesson 8.02a Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-02a-prior-knowledge-check.html\" style=\"width:100%;height:4160px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.02a Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-8-02a-independent-practice",
+   "title": "Lesson 8.02a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-02a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.02a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3313"
+   },
+   "resource_link_lookup_uuid": "a321ff51-9285-4952-8783-7262b489c097",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-02b-prior-knowledge-check",
+   "title": "Lesson 8.02b Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-02b-prior-knowledge-check.html\" style=\"width:100%;height:4140px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.02b Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-8-02b-independent-practice",
+   "title": "Lesson 8.02b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-02b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.02b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3314"
+   },
+   "resource_link_lookup_uuid": "087d4745-e532-4da9-971b-b2fc4aec75c2",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lessons-8-01-8-02-mid-module-check",
+   "title": "Lessons 8.01-8.02 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lessons-8-01-8-02-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 8.01-8.02 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3316"
+   },
+   "resource_link_lookup_uuid": "947cb39c-242f-43d2-9316-59000e5c5871",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-03a-independent-practice",
+   "title": "Lesson 8.03a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-03a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.03a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3315"
+   },
+   "resource_link_lookup_uuid": "a25b7ee5-ba6c-46c7-a623-2342d764e654",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-03b-prior-knowledge-check",
+   "title": "Lesson 8.03b Prior Knowledge Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-03b-prior-knowledge-check.html\" style=\"width:100%;height:2490px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.03b Prior Knowledge Check\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "omit_from_final_grade": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-8-03b-independent-practice",
+   "title": "Lesson 8.03b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/lesson-8-03b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.03b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3317"
+   },
+   "resource_link_lookup_uuid": "a4e88737-5cf6-47f2-8537-777544df1aac",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-8-summative-review",
+   "title": "Module 8 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/module-8-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 8 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3319"
+   },
+   "resource_link_lookup_uuid": "412368a2-3686-4c6a-8a2a-0ee3562d62ea",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-8-summative-assessment",
+   "title": "Module 8 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-8/module-8-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 8 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3318"
+   },
+   "resource_link_lookup_uuid": "16420b80-ad5c-4958-bca1-768d08425b33",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-01a-independent-practice",
+   "title": "Lesson 9.01a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/lesson-9-01a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.01a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3322"
+   },
+   "resource_link_lookup_uuid": "261a8942-d5fc-4226-a962-3e121985887c",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-01b-independent-practice",
+   "title": "Lesson 9.01b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/lesson-9-01b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.01b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3327"
+   },
+   "resource_link_lookup_uuid": "d39a1e80-4830-435d-a6b5-4a32fb216329",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-01c-independent-practice",
+   "title": "Lesson 9.01c Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/lesson-9-01c-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.01c Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3326"
+   },
+   "resource_link_lookup_uuid": "fb5b24bd-e018-4019-a084-cbaeec128ea7",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-01d-independent-practice",
+   "title": "Lesson 9.01d Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/lesson-9-01d-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.01d Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3325"
+   },
+   "resource_link_lookup_uuid": "929d0fad-b115-4df8-a306-4e3729a57c46",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-01-mid-module-check",
+   "title": "Lesson 9.01 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/lesson-9-01-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.01 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3324"
+   },
+   "resource_link_lookup_uuid": "882a7733-3b5d-442b-b006-732e26277fad",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-02a-independent-practice",
+   "title": "Lesson 9.02a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/lesson-9-02a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.02a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3323"
+   },
+   "resource_link_lookup_uuid": "11c2f7c9-84a6-4d10-998a-ada57fabab7b",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-02b-independent-practice",
+   "title": "Lesson 9.02b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/lesson-9-02b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.02b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3330"
+   },
+   "resource_link_lookup_uuid": "14ee6f40-fbef-460b-b4e6-c4ef9e0a1cd1",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-02c-independent-practice",
+   "title": "Lesson 9.02c Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/lesson-9-02c-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.02c Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3329"
+   },
+   "resource_link_lookup_uuid": "d9c74e14-8aba-43ca-9726-4022a7bce097",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-02d-independent-practice",
+   "title": "Lesson 9.02d Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/lesson-9-02d-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.02d Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3328"
+   },
+   "resource_link_lookup_uuid": "a0619234-2ec5-468f-8b15-44ffd8fdbfe7",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-9-summative-review",
+   "title": "Module 9 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/module-9-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 9 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3331"
+   },
+   "resource_link_lookup_uuid": "09499792-b25e-4d1d-a798-579441c5df84",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-9-summative-assessment",
+   "title": "Module 9 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-6-mathematics/s2/module-9/module-9-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 9 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3332"
+   },
+   "resource_link_lookup_uuid": "2525df0c-5c5b-4b14-9de6-f3a0839dec05",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  }
+ ],
+ "modules": [
+  {
+   "id": "m_6",
+   "title": "Module 6 - Algebraic Expressions, Inequalities, and Equations",
+   "published": true,
+   "items": [
+    {
+     "type": "header",
+     "title": "Lesson 6.01 Translating Algebraic Expressions",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.01a Translating Real-World Contexts into Algebraic Expressions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-01a-prior-knowledge-check",
+     "title": "Lesson 6.01a Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-01a-translating-real-world-contexts-into-algebraic-expressions",
+     "title": "Lesson 6.01a Translating Real-World Contexts into Algebraic Expressions",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-01a-vr-lesson-resources",
+     "title": "Lesson 6.01a VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-01a-independent-practice",
+     "title": "Lesson 6.01a Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.01b Translating Mathematical Descriptions into Algebraic Expressions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-01b-prior-knowledge-check",
+     "title": "Lesson 6.01b Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-01b-translating-mathematical-descriptions-into-algebraic-expressions",
+     "title": "Lesson 6.01b Translating Mathematical Descriptions into Algebraic Expressions",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-01b-vr-lesson-resources",
+     "title": "Lesson 6.01b VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-01b-independent-practice",
+     "title": "Lesson 6.01b Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.01c Writing Descriptions for Algebraic Expressions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-01c-prior-knowledge-check",
+     "title": "Lesson 6.01c Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-01c-writing-descriptions-for-algebraic-expressions",
+     "title": "Lesson 6.01c Writing Descriptions for Algebraic Expressions",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-01c-vr-lesson-resources",
+     "title": "Lesson 6.01c VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-01c-independent-practice",
+     "title": "Lesson 6.01c Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.02 Equivalent Algebraic Expressions",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.02a The Distributive Property on Algebraic Expressions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-02a-prior-knowledge-check",
+     "title": "Lesson 6.02a Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-02a-the-distributive-property-on-algebraic-expressions",
+     "title": "Lesson 6.02a The Distributive Property on Algebraic Expressions",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-02a-vr-lesson-resources",
+     "title": "Lesson 6.02a VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-02a-independent-practice",
+     "title": "Lesson 6.02a Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.02b Combining Like Terms",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-02b-prior-knowledge-check",
+     "title": "Lesson 6.02b Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-02b-combining-like-terms",
+     "title": "Lesson 6.02b Combining Like Terms",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-02b-vr-lesson-resources",
+     "title": "Lesson 6.02b VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-02b-independent-practice",
+     "title": "Lesson 6.02b Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lessons 6.01-6.02 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-6-01-6-02-mid-module-check",
+     "title": "Lessons 6.01-6.02 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.03 Algebraic Inequalities",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.03a Interpreting and Representing an Algebraic Inequality",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-03a-prior-knowledge-check",
+     "title": "Lesson 6.03a Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-03a-interpreting-and-representing-an-algebraic-inequality",
+     "title": "Lesson 6.03a Interpreting and Representing an Algebraic Inequality",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-03a-vr-lesson-resources",
+     "title": "Lesson 6.03a VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-03a-independent-practice",
+     "title": "Lesson 6.03a Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.03b Translating Written Descriptions into Algebraic Inequalities",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-03b-prior-knowledge-check",
+     "title": "Lesson 6.03b Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-03b-translating-written-descriptions-into-algebraic-inequalities",
+     "title": "Lesson 6.03b Translating Written Descriptions into Algebraic Inequalities",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-03b-vr-lesson-resources",
+     "title": "Lesson 6.03b VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-03b-independent-practice",
+     "title": "Lesson 6.03b Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.04 Evaluating Equations and Inequalities",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.04a Determining True Solutions for an Equation",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-04a-prior-knowledge-check",
+     "title": "Lesson 6.04a Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-04a-determining-true-solutions-for-an-equation",
+     "title": "Lesson 6.04a Determining True Solutions for an Equation",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-04a-vr-lesson-resources",
+     "title": "Lesson 6.04a VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-04a-independent-practice",
+     "title": "Lesson 6.04a Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.04b Determining Solution Sets for Inequalities",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-04b-prior-knowledge-check",
+     "title": "Lesson 6.04b Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-04b-determining-solution-sets-for-inequalities",
+     "title": "Lesson 6.04b Determining Solution Sets for Inequalities",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-04b-vr-lesson-resources",
+     "title": "Lesson 6.04b VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-04b-independent-practice",
+     "title": "Lesson 6.04b Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lessons 6.03-6.04 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-6-03-6-04-mid-module-check",
+     "title": "Lessons 6.03-6.04 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.05 One-Step Equations",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.05a Solving One-Step Equations with Addition and Subtraction",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-05a-prior-knowledge-check",
+     "title": "Lesson 6.05a Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-05a-solving-one-step-equations-with-addition-and-subtraction",
+     "title": "Lesson 6.05a Solving One-Step Equations with Addition and Subtraction",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-05a-vr-lesson-resources",
+     "title": "Lesson 6.05a VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-05a-independent-practice",
+     "title": "Lesson 6.05a Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.05b Writing and Solving One-Step Equations with Addition and Subtraction",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-05b-prior-knowledge-check",
+     "title": "Lesson 6.05b Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-05b-writing-and-solving-one-step-equations-with-addition-and-subtraction",
+     "title": "Lesson 6.05b Writing and Solving One-Step Equations with Addition and Subtraction",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-05b-vr-lesson-resources",
+     "title": "Lesson 6.05b VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-05b-independent-practice",
+     "title": "Lesson 6.05b Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.05c Solving One-Step Equations with Multiplication and Division",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-05c-prior-knowledge-check",
+     "title": "Lesson 6.05c Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-05c-solving-one-step-equations-with-multiplication-and-division",
+     "title": "Lesson 6.05c Solving One-Step Equations with Multiplication and Division",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-05c-vr-lesson-resources",
+     "title": "Lesson 6.05c VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-05c-independent-practice",
+     "title": "Lesson 6.05c Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.05d Writing and Solving One-Step Equations with Multiplication and Division",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-05d-prior-knowledge-check",
+     "title": "Lesson 6.05d Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-05d-writing-and-solving-one-step-equations-with-multiplication-and-division",
+     "title": "Lesson 6.05d Writing and Solving One-Step Equations with Multiplication and Division",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-6-05d-vr-lesson-resources",
+     "title": "Lesson 6.05d VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-6-05d-independent-practice",
+     "title": "Lesson 6.05d Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Module 6 Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-6-summative-review",
+     "title": "Module 6 Summative Review",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-6-summative-assessment",
+     "title": "Module 6 Summative Assessment",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "id": "m_7",
+   "title": "Module 7 - Collecting, Using, and Interpreting Data",
+   "published": true,
+   "items": [
+    {
+     "type": "header",
+     "title": "Lesson 7.01 Statistical Questions",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.01a Identifying and Creating Statistical Questions",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-01a-identifying-and-creating-statistical-questions",
+     "title": "Lesson 7.01a Identifying and Creating Statistical Questions",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-01a-vr-lesson-resources",
+     "title": "Lesson 7.01a VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-01a-independent-practice",
+     "title": "Lesson 7.01a Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.02 Measures of Central Tendency and Variation",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.02a Finding and Interpreting Mean and Median",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-02a-prior-knowledge-check",
+     "title": "Lesson 7.02a Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-02a-finding-and-interpreting-mean-and-median",
+     "title": "Lesson 7.02a Finding and Interpreting Mean and Median",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-02a-vr-lesson-resources",
+     "title": "Lesson 7.02a VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-02a-independent-practice",
+     "title": "Lesson 7.02a Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.02b Finding and Interpreting Mode and Range",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-02b-prior-knowledge-check",
+     "title": "Lesson 7.02b Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-02b-finding-and-interpreting-mode-and-range",
+     "title": "Lesson 7.02b Finding and Interpreting Mode and Range",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-02b-vr-lesson-resources",
+     "title": "Lesson 7.02b VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-02b-independent-practice",
+     "title": "Lesson 7.02b Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.03 Creating Box Plots and Histograms",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.03a Creating Box Plots",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-03a-prior-knowledge-check",
+     "title": "Lesson 7.03a Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-03a-creating-box-plots",
+     "title": "Lesson 7.03a Creating Box Plots",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-03a-vr-lesson-resources",
+     "title": "Lesson 7.03a VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-03a-independent-practice",
+     "title": "Lesson 7.03a Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.03b Creating Histograms",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-03b-creating-histograms",
+     "title": "Lesson 7.03b Creating Histograms",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-03b-vr-lesson-resources",
+     "title": "Lesson 7.03b VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-03b-independent-practice",
+     "title": "Lesson 7.03b Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lessons 7.01-7.03 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-7-01-7-03-mid-module-check",
+     "title": "Lessons 7.01-7.03 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.04 Interpreting Box Plots, Histograms, and Line Plots",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.04a Generating a 5 Number Summary",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-04a-prior-knowledge-check",
+     "title": "Lesson 7.04a Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-04a-generating-a-5-number-summary",
+     "title": "Lesson 7.04a Generating a 5 Number Summary",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-04a-vr-lesson-resources",
+     "title": "Lesson 7.04a VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-04a-independent-practice",
+     "title": "Lesson 7.04a Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.04b Describing Spread and Distribution of a Box Plot",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-04b-describing-spread-and-distribution-of-a-box-plot",
+     "title": "Lesson 7.04b Describing Spread and Distribution of a Box Plot",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-04b-vr-lesson-resources",
+     "title": "Lesson 7.04b VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-04b-independent-practice",
+     "title": "Lesson 7.04b Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.04c Describing a Histogram Qualitatively",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-04c-describing-a-histogram-qualitatively",
+     "title": "Lesson 7.04c Describing a Histogram Qualitatively",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-04c-vr-lesson-resources",
+     "title": "Lesson 7.04c VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-04c-independent-practice",
+     "title": "Lesson 7.04c Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.04d Describing a Line Plot Qualitatively",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-04d-describing-a-line-plot-qualitatively",
+     "title": "Lesson 7.04d Describing a Line Plot Qualitatively",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-04d-vr-lesson-resources",
+     "title": "Lesson 7.04d VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-04d-independent-practice",
+     "title": "Lesson 7.04d Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.04 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-04-mid-module-check",
+     "title": "Lesson 7.04 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.05 Impact of Data Values and Outliers",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.05a How Adding or Removing a Lower Value Affects Statistical Data",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-05a-prior-knowledge-check",
+     "title": "Lesson 7.05a Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-05a-how-adding-or-removing-a-lower-value-affects-statistical-data",
+     "title": "Lesson 7.05a How Adding or Removing a Lower Value Affects Statistical Data",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-05a-vr-lesson-resources",
+     "title": "Lesson 7.05a VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-05a-independent-practice",
+     "title": "Lesson 7.05a Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.05b How Adding or Removing an Upper Value Affects Statistical Data",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-05b-how-adding-or-removing-an-upper-value-affects-statistical-data",
+     "title": "Lesson 7.05b How Adding or Removing an Upper Value Affects Statistical Data",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-05b-vr-lesson-resources",
+     "title": "Lesson 7.05b VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-05b-independent-practice",
+     "title": "Lesson 7.05b Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.05c Defining Outliers and Their Effects on Data",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-05c-defining-outliers-and-their-effects-on-data",
+     "title": "Lesson 7.05c Defining Outliers and Their Effects on Data",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-05c-vr-lesson-resources",
+     "title": "Lesson 7.05c VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-05c-independent-practice",
+     "title": "Lesson 7.05c Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Module 7 Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-7-summative-review",
+     "title": "Module 7 Summative Review",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-7-summative-assessment",
+     "title": "Module 7 Summative Assessment",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "id": "m_8",
+   "title": "Module 8 - The Coordinate Plane",
+   "published": true,
+   "items": [
+    {
+     "type": "header",
+     "title": "Lesson 8.01 The Coordinate Plane",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.01a The Coordiante Plane and Plotting Points",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-01a-prior-knowledge-check",
+     "title": "Lesson 8.01a Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-01a-the-coordiante-plane-and-plotting-points",
+     "title": "Lesson 8.01a The Coordiante Plane and Plotting Points",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-01a-vr-lesson-resources",
+     "title": "Lesson 8.01a VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-01a-independent-practice",
+     "title": "Lesson 8.01a Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.01b Lines of Reflection for Opposite Points",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-01b-prior-knowledge-check",
+     "title": "Lesson 8.01b Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-01b-lines-of-reflection-for-opposite-points",
+     "title": "Lesson 8.01b Lines of Reflection for Opposite Points",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-01b-vr-lesson-resources",
+     "title": "Lesson 8.01b VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-01b-independent-practice",
+     "title": "Lesson 8.01b Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.02 Distance Between Points",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.02a Finding the Distance with Same x-coordinate",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-02a-prior-knowledge-check",
+     "title": "Lesson 8.02a Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-02a-finding-the-distance-with-same-x-coordinate",
+     "title": "Lesson 8.02a Finding the Distance with Same x-coordinate",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-02a-vr-lesson-resources",
+     "title": "Lesson 8.02a VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-02a-independent-practice",
+     "title": "Lesson 8.02a Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.02b Finding the Distance with Same y-coordinate",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-02b-prior-knowledge-check",
+     "title": "Lesson 8.02b Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-02b-finding-the-distance-with-same-y-coordinate",
+     "title": "Lesson 8.02b Finding the Distance with Same y-coordinate",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-02b-vr-lesson-resources",
+     "title": "Lesson 8.02b VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-02b-independent-practice",
+     "title": "Lesson 8.02b Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lessons 8.01-8.02 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-8-01-8-02-mid-module-check",
+     "title": "Lessons 8.01-8.02 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.03 Solving Problems in the Coordinate Plane",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.03a Plotting Points to Solve Problems",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-03a-plotting-points-to-solve-problems",
+     "title": "Lesson 8.03a Plotting Points to Solve Problems",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-03a-vr-lesson-resources",
+     "title": "Lesson 8.03a VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-03a-independent-practice",
+     "title": "Lesson 8.03a Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.03b Solving Problems Involving Area and Perimeter in the Coordinate Plane",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-03b-prior-knowledge-check",
+     "title": "Lesson 8.03b Prior Knowledge Check",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-03b-solving-problems-involving-area-and-perimeter-in-the-coordinate-plane",
+     "title": "Lesson 8.03b Solving Problems Involving Area and Perimeter in the Coordinate Plane",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-03b-vr-lesson-resources",
+     "title": "Lesson 8.03b VR Lesson Resources",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-03b-independent-practice",
+     "title": "Lesson 8.03b Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Module 8 Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-8-summative-review",
+     "title": "Module 8 Summative Review",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-8-summative-assessment",
+     "title": "Module 8 Summative Assessment",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "id": "m_9",
+   "title": "Module 9 - Area, Surface Area, and Volume",
+   "published": true,
+   "items": [
+    {
+     "type": "header",
+     "title": "Lesson 9.01 Area of Triangles and Quadrilaterals",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 9.01a Area of Triangles",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-01a-area-of-triangles",
+     "title": "Lesson 9.01a Area of Triangles",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-01a-independent-practice",
+     "title": "Lesson 9.01a Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 9.01b Area of Parallelograms",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-01b-area-of-parallelograms",
+     "title": "Lesson 9.01b Area of Parallelograms",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-01b-independent-practice",
+     "title": "Lesson 9.01b Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 9.01c Area of Trapezoids",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-01c-area-of-trapezoids",
+     "title": "Lesson 9.01c Area of Trapezoids",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-01c-independent-practice",
+     "title": "Lesson 9.01c Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 9.01d Area of Composite Shapes",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-01d-area-of-composite-shapes",
+     "title": "Lesson 9.01d Area of Composite Shapes",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-01d-independent-practice",
+     "title": "Lesson 9.01d Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 9.01 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-01-mid-module-check",
+     "title": "Lesson 9.01 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Lesson 9.02 Volume and Surface Area",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 9.02a Volume of a Rectangular Prism Using a Model",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-02a-volume-of-a-rectangular-prism-using-a-model",
+     "title": "Lesson 9.02a Volume of a Rectangular Prism Using a Model",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-02a-independent-practice",
+     "title": "Lesson 9.02a Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 9.02b Volume of a Rectangular Prism",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-02b-volume-of-a-rectangular-prism",
+     "title": "Lesson 9.02b Volume of a Rectangular Prism",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-02b-independent-practice",
+     "title": "Lesson 9.02b Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 9.02c Surface Area of a Rectangular Prism",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-02c-surface-area-of-a-rectangular-prism",
+     "title": "Lesson 9.02c Surface Area of a Rectangular Prism",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-02c-independent-practice",
+     "title": "Lesson 9.02c Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 9.02d Surface Area of a Rectangular Pyramid",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-02d-surface-area-of-a-rectangular-pyramid",
+     "title": "Lesson 9.02d Surface Area of a Rectangular Pyramid",
+     "indent": 2
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-02d-independent-practice",
+     "title": "Lesson 9.02d Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Module 9 Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-9-summative-review",
+     "title": "Module 9 Summative Review",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-9-summative-assessment",
+     "title": "Module 9 Summative Assessment",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "id": "m_teacher",
+   "title": "Teacher Resources",
+   "published": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_module-6-lesson-maps",
+     "title": "Module 6 Lesson Maps",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-7-lesson-maps",
+     "title": "Module 7 Lesson Maps",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-8-lesson-maps",
+     "title": "Module 8 Lesson Maps",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-9-lesson-maps",
+     "title": "Module 9 Lesson Maps",
+     "indent": 0
+    }
+   ]
+  }
+ ],
+ "files": [
+  {
+   "path": "course-materials/syllabus.pdf",
+   "src": "files/course-materials/syllabus.pdf"
+  },
+  {
+   "path": "teacher-resources/teacher-manual.pdf",
+   "src": "files/teacher-resources/teacher-manual.pdf"
+  }
+ ],
+ "source": {
+  "note": "Built 2026-10-21 from the reformatted Grade 6 Mathematics course (06Mathematics/02_Design Q3-Q4 Module Formatted folders). Module and item titles, order, sub-headers, points, grading types and Wiris LTI links (quiz id + lookup uuid) were read from the product master copy export (6th-grade-math-product-master-copy-export.imscc): the course was never deployed to Canvas the old way and has no Module Maps in the formatted set, so the export is the naming authority. The 23 student-facing Prior Knowledge Checks sit in the export's Teacher Resources buckets (published per the reformat decision of 2026-07-14); here each is placed before the lesson it supports and excluded from the final grade (course owner's decision). The four Module Lesson Maps pages are in an unpublished Teacher Resources module. Lessons and assignment pages are on https://optimaondemand.github.io/mj-grade-6-mathematics. Gradebook groups and weights (40/40/20) from the course owner; Summative Reviews count in Reviews & VR. No week pacing exists in the course files, so no item carries a week."
+ }
+}
