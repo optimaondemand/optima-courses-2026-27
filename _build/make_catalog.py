@@ -90,7 +90,7 @@ def build():
         for kit in c.get('kits', []):
             kid = kit.get('id', '')
             if not kid.startswith(code + '-') or not L.KIT_ID.match(kid):
-                problems.append('courses/%s: kit id %r must be %s-<s1|s2|q1..q4|t1..t3|full>[-live|-od]' % (folder, kid, code))
+                problems.append('courses/%s: kit id %r must be %s-<s1|s2|q1..q4|t1..t3|full|m1..m99>[-live|-od][-sparkle]' % (folder, kid, code))
             if not kit.get('label'):
                 problems.append('courses/%s: kit %s has no label' % (folder, kid))
             entry = {'id': kid, 'label': kit.get('label')}
