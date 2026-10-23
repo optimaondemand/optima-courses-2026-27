@@ -74,6 +74,26 @@ allowed_extensions, published, omit_from_final_grade, due_at, unlock_at, lock_at
 `submission_types` defaults to `online_text_entry,online_upload`. `grading_type` defaults
 to `points`.
 
+**External-tool (LTI) assignments.** An assignment that launches an LTI tool, such as a
+WirisQuizzes problem set, sets `submission_types: "external_tool"` and these keys:
+
+| key | meaning |
+|---|---|
+| `external_tool_url` | the tool's launch URL (required; the build errors if `submission_types` is not `external_tool`) |
+| `external_tool_external_identifier` | the tool's id as Canvas wrote it in the export (`800` for Wiris) |
+| `external_tool_custom` | `{name: value}` custom parameters; for Wiris `{"id": "<quiz id>"}`. This is what binds the launch to one item inside the tool. When present, the build also writes `lti_resource_links/<id>.xml` and lists it in the manifest. |
+| `resource_link_lookup_uuid` | the assignment's original lookup uuid. **Required for the launch to work**: without it the tool rejects the launch ("Invalid tool id"). Keep it identical to the source export. |
+| `lti_title`, `lti_description` | text for the resource link; default to the assignment title and empty |
+| `external_tool_new_tab` | open in a new tab; default `false` |
+| `external_tool_data_json`, `external_tool_link_settings_json` | copied verbatim from a real export; defaults match Canvas (`""` and the empty selection size) |
+
+The quiz id and uuid exist only in the original Canvas export (the assignment's
+`assignment_settings.xml` and its `lti_resource_links/*.xml`); a formatted copy of the pages
+does not carry them. Do not invent or reuse them: a wrong id opens another quiz or none. The
+destination Canvas needs the tool installed; the cartridge carries the link, not the tool.
+Teachers who see `Invalid Nonce`, a login timeout or "already logged in" on first launch
+should hard-refresh the page; those come from the tool's session handling, not the kit.
+
 **quizzes** `[{id, title, description, quiz_type, points, allowed_attempts, shuffle_answers,
 show_correct_answers, group, published, due_at, unlock_at, lock_at, week, kind, questions}]`.
 `quiz_type` is `assignment` (graded), `practice_quiz`, `graded_survey` or `survey` `grading_type` (default `points`; `pass_fail` = complete/incomplete) applies to the assignment Canvas creates for an `assignment` or `graded_survey` quiz.
