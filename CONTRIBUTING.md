@@ -27,7 +27,7 @@ courses/<CPALMS code>/
 Register the course first, even before any kit is written: a `course.json` with kits
 listed and no specs shows the course in the widget as **pending**, which tells
 teachers it is coming. Kit ids are `<code>-s1`, `<code>-s2`, `<code>-q1`..`q4`,
-`<code>-t1`..`t3` or `<code>-full`. Titles for modules and items come from the
+`<code>-t1`..`t3`, `<code>-full`, or one module, `<code>-m1`..`m99`. Titles for modules and items come from the
 course's module maps (or the deployed Canvas course if one exists), never from taste.
 
 **Honors and standard** are separate CPALMS codes, so they are separate course
@@ -41,6 +41,12 @@ really ships two versions, give each kit its own id with a suffix, `<code>-s1-li
 and `<code>-s1-od` (or set `"mode": "live"` / `"od"` on the kit entry), and the
 widget shows a Live / On-Demand switch in its kit step. Kits without a mode stay
 visible under both.
+
+**One module, or an alternate edition.** A kit can hold a single module,
+`<code>-m3`, and an alternate build of content that already ships can carry the
+`-sparkle` edition suffix, e.g. `<code>-m3-sparkle`: the integrated-week redesign of
+Module 3, offered as its own tile beside the semester kit that holds the original.
+Say what it is in the kit `label` ("Module 3 · King Arthur · Sparkle").
 
 Put your GitHub username in `owner`. `make_catalog.py` writes it into
 `.github/CODEOWNERS`, so pull requests touching your folder request your review.
