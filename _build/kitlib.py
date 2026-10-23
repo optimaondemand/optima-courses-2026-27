@@ -22,7 +22,10 @@ ROOT = os.path.abspath(os.path.join(HERE, '..'))
 COURSES = os.path.join(ROOT, 'courses')
 CARTRIDGES = os.path.join(ROOT, 'cartridges')
 
-KIT_ID = re.compile(r'^(?P<code>[A-Za-z0-9.]+)-(?P<part>s[12]|q[1-4]|full|t[1-3])(?:-(?P<mode>live|od))?$')
+# part: a semester, quarter, trimester, the full year, or one module (m1..m99, e.g. a module-only kit).
+# edition: an alternate build of the same content shown as its own kit tile (2026-10-23: "sparkle", the
+# integrated-week redesign of a module, offered beside the original).
+KIT_ID = re.compile(r'^(?P<code>[A-Za-z0-9.]+)-(?P<part>s[12]|q[1-4]|full|t[1-3]|m[1-9][0-9]?)(?:-(?P<mode>live|od))?(?:-(?P<edition>sparkle))?$')
 MODES = ('live', 'od')   # optional per-kit section type; absent = one kit serves both
 CPALMS = re.compile(r'^\d{7}$')
 CARTRIDGE_WARN_BYTES = 10 * 1024 * 1024
@@ -67,7 +70,7 @@ def load_courses(include_fixtures=False):
 def spec_path_for(kit_id, include_fixtures=True):
     m = KIT_ID.match(kit_id)
     if not m:
-        raise SystemExit('kit id %r is not <code>-<s1|s2|q1..q4|t1..t3|full>[-live|-od]' % kit_id)
+        raise SystemExit('kit id %r is not <code>-<s1|s2|q1..q4|t1..t3|full|m1..m99>[-live|-od][-sparkle]' % kit_id)
     for d in course_dirs(include_fixtures):
         p = os.path.join(d, kit_id + '.spec.json')
         if os.path.exists(p):
