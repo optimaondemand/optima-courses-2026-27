@@ -1,0 +1,2204 @@
+{
+ "course": {
+  "title": "Algebra 2 Honors Sem 2",
+  "code": "1200340",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_practice",
+   "title": "Practice & Checks",
+   "weight": 40
+  },
+  {
+   "id": "ag_summative",
+   "title": "Summative Assessments",
+   "weight": 40
+  },
+  {
+   "id": "ag_reviews",
+   "title": "Reviews & VR",
+   "weight": 20
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_lesson-8-01a-rational-exponents",
+   "title": "Lesson 8.01a Rational Exponents",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-8/lesson-8-01a-rational-exponents.html\" style=\"width:100%;height:6620px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01a Rational Exponents\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-01b-the-number-e",
+   "title": "Lesson 8.01b The Number e",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-8/lesson-8-01b-the-number-e.html\" style=\"width:100%;height:7320px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01b The Number e\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-02-radical-expressions",
+   "title": "Lesson 8.02 Radical Expressions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-8/lesson-8-02-radical-expressions.html\" style=\"width:100%;height:8210px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.02 Radical Expressions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-03-adding-and-subtracting-radical-expressions",
+   "title": "Lesson 8.03 Adding and Subtracting Radical Expressions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-8/lesson-8-03-adding-and-subtracting-radical-expressions.html\" style=\"width:100%;height:7210px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.03 Adding and Subtracting Radical Expressions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-04-multiplying-and-dividing-radical-expressions",
+   "title": "Lesson 8.04 Multiplying and Dividing Radical Expressions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-8/lesson-8-04-multiplying-and-dividing-radical-expressions.html\" style=\"width:100%;height:10430px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.04 Multiplying and Dividing Radical Expressions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-01-logarithms-and-natural-logarithms",
+   "title": "Lesson 9.01 Logarithms and Natural Logarithms",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-9/lesson-9-01-logarithms-and-natural-logarithms.html\" style=\"width:100%;height:13060px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.01 Logarithms and Natural Logarithms\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-02-properties-of-logarithms",
+   "title": "Lesson 9.02 Properties of Logarithms",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-9/lesson-9-02-properties-of-logarithms.html\" style=\"width:100%;height:12910px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.02 Properties of Logarithms\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-03-solving-one-variable-exponential-equations-same-base",
+   "title": "Lesson 9.03 Solving One-Variable Exponential Equations - Same Base",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-9/lesson-9-03-solving-one-variable-exponential-equations-same-base.html\" style=\"width:100%;height:7500px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.03 Solving One-Variable Exponential Equations - Same Base\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-04-solving-one-variable-exponential-equations",
+   "title": "Lesson 9.04 Solving One-Variable Exponential Equations",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-9/lesson-9-04-solving-one-variable-exponential-equations.html\" style=\"width:100%;height:11700px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.04 Solving One-Variable Exponential Equations\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-05-solving-one-variable-logarithmic-equations",
+   "title": "Lesson 9.05 Solving One-Variable  Logarithmic Equations",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-9/lesson-9-05-solving-one-variable-logarithmic-equations.html\" style=\"width:100%;height:11880px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.05 Solving One-Variable  Logarithmic Equations\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-10-01-exponential-functions-and-their-graphs",
+   "title": "Lesson 10.01 Exponential Functions and Their Graphs",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-10/lesson-10-01-exponential-functions-and-their-graphs.html\" style=\"width:100%;height:12570px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.01 Exponential Functions and Their Graphs\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-10-02-transforming-exponential-functions",
+   "title": "Lesson 10.02 Transforming Exponential Functions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-10/lesson-10-02-transforming-exponential-functions.html\" style=\"width:100%;height:14310px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.02 Transforming Exponential Functions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-10-03-solving-exponential-functions",
+   "title": "Lesson 10.03 Solving Exponential Functions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-10/lesson-10-03-solving-exponential-functions.html\" style=\"width:100%;height:8190px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.03 Solving Exponential Functions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-10-04-logarithmic-functions-and-their-graphs",
+   "title": "Lesson 10.04 Logarithmic Functions and Their Graphs",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-10/lesson-10-04-logarithmic-functions-and-their-graphs.html\" style=\"width:100%;height:9250px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.04 Logarithmic Functions and Their Graphs\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-10-05-transforming-logarithmic-functions",
+   "title": "Lesson 10.05 Transforming Logarithmic Functions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-10/lesson-10-05-transforming-logarithmic-functions.html\" style=\"width:100%;height:13710px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.05 Transforming Logarithmic Functions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-10-06-solving-logarithmic-functions",
+   "title": "Lesson 10.06 Solving Logarithmic Functions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-10/lesson-10-06-solving-logarithmic-functions.html\" style=\"width:100%;height:11190px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.06 Solving Logarithmic Functions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-11-01-arithmetic-sequences-honors-only",
+   "title": "Lesson 11.01 Arithmetic Sequences (Honors Only)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-11/lesson-11-01-arithmetic-sequences-honors-only.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.01 Arithmetic Sequences (Honors Only)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-11-02-geometric-sequences-honors-only",
+   "title": "Lesson 11.02 Geometric Sequences (Honors Only)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-11/lesson-11-02-geometric-sequences-honors-only.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.02 Geometric Sequences (Honors Only)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-11-03-identifying-function-types-from-graphs-equations",
+   "title": "Lesson 11.03 Identifying Function Types from Graphs & Equations",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-11/lesson-11-03-identifying-function-types-from-graphs-equations.html\" style=\"width:100%;height:13570px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.03 Identifying Function Types from Graphs &amp; Equations\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-11-04-identifying-function-types-from-tables",
+   "title": "Lesson 11.04 Identifying Function Types from Tables",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-11/lesson-11-04-identifying-function-types-from-tables.html\" style=\"width:100%;height:8610px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.04 Identifying Function Types from Tables\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-11-05-determining-even-odd-or-neither",
+   "title": "Lesson 11.05 Determining Even, Odd, or Neither",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-11/lesson-11-05-determining-even-odd-or-neither.html\" style=\"width:100%;height:14870px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.05 Determining Even, Odd, or Neither\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-11-06-comparing-key-features-of-different-functions",
+   "title": "Lesson 11.06 Comparing Key Features of Different Functions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-11/lesson-11-06-comparing-key-features-of-different-functions.html\" style=\"width:100%;height:11910px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.06 Comparing Key Features of Different Functions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-12-01-operations-on-functions",
+   "title": "Lesson 12.01 Operations on Functions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-12/lesson-12-01-operations-on-functions.html\" style=\"width:100%;height:8120px;border:none;\" allowfullscreen=\"\" title=\"Lesson 12.01 Operations on Functions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-12-02-composition-of-functions",
+   "title": "Lesson 12.02 Composition of Functions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-12/lesson-12-02-composition-of-functions.html\" style=\"width:100%;height:10250px;border:none;\" allowfullscreen=\"\" title=\"Lesson 12.02 Composition of Functions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-12-03-inverse-functions-given-graphs-or-tables",
+   "title": "Lesson 12.03 Inverse Functions Given Graphs or Tables",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-12/lesson-12-03-inverse-functions-given-graphs-or-tables.html\" style=\"width:100%;height:7170px;border:none;\" allowfullscreen=\"\" title=\"Lesson 12.03 Inverse Functions Given Graphs or Tables\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-12-04-inverse-functions-given-equations",
+   "title": "Lesson 12.04 Inverse Functions Given Equations",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-12/lesson-12-04-inverse-functions-given-equations.html\" style=\"width:100%;height:8640px;border:none;\" allowfullscreen=\"\" title=\"Lesson 12.04 Inverse Functions Given Equations\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-13-01-one-variable-absolute-value-equations",
+   "title": "Lesson 13.01 One-Variable Absolute Value Equations",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-13/lesson-13-01-one-variable-absolute-value-equations.html\" style=\"width:100%;height:7070px;border:none;\" allowfullscreen=\"\" title=\"Lesson 13.01 One-Variable Absolute Value Equations\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-13-02-one-variable-absolute-value-inequalites",
+   "title": "Lesson 13.02 One-Variable Absolute Value Inequalites",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-13/lesson-13-02-one-variable-absolute-value-inequalites.html\" style=\"width:100%;height:8460px;border:none;\" allowfullscreen=\"\" title=\"Lesson 13.02 One-Variable Absolute Value Inequalites\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-13-03-two-variable-absolute-value-functions-and-their-graphs",
+   "title": "Lesson 13.03 Two-Variable Absolute Value Functions and Their Graphs",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-13/lesson-13-03-two-variable-absolute-value-functions-and-their-graphs.html\" style=\"width:100%;height:10330px;border:none;\" allowfullscreen=\"\" title=\"Lesson 13.03 Two-Variable Absolute Value Functions and Their Graphs\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-13-04-transforming-absolute-value-functions",
+   "title": "Lesson 13.04 Transforming Absolute Value Functions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-13/lesson-13-04-transforming-absolute-value-functions.html\" style=\"width:100%;height:13920px;border:none;\" allowfullscreen=\"\" title=\"Lesson 13.04 Transforming Absolute Value Functions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-13-05-solving-absolute-value-functions",
+   "title": "Lesson 13.05 Solving Absolute Value Functions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-13/lesson-13-05-solving-absolute-value-functions.html\" style=\"width:100%;height:7410px;border:none;\" allowfullscreen=\"\" title=\"Lesson 13.05 Solving Absolute Value Functions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-13-06-piecewise-functions-and-their-graphs-honors-only",
+   "title": "Lesson 13.06 Piecewise Functions and Their Graphs (Honors Only)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-13/lesson-13-06-piecewise-functions-and-their-graphs-honors-only.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 13.06 Piecewise Functions and Their Graphs (Honors Only)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-14-01-graphing-systems-of-linear-or-nonlinear-equations",
+   "title": "Lesson 14.01 Graphing Systems of Linear or Nonlinear Equations",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-14/lesson-14-01-graphing-systems-of-linear-or-nonlinear-equations.html\" style=\"width:100%;height:8890px;border:none;\" allowfullscreen=\"\" title=\"Lesson 14.01 Graphing Systems of Linear or Nonlinear Equations\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-14-02-solving-systems-of-linear-and-nonlinear-functions-algebraically",
+   "title": "Lesson 14.02 Solving Systems of Linear and Nonlinear Functions Algebraically",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-14/lesson-14-02-solving-systems-of-linear-and-nonlinear-functions-algebraically.html\" style=\"width:100%;height:9460px;border:none;\" allowfullscreen=\"\" title=\"Lesson 14.02 Solving Systems of Linear and Nonlinear Functions Algebraically\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-14-03-graphing-systems-of-mixed-functions",
+   "title": "Lesson 14.03 Graphing Systems of Mixed Functions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-14/lesson-14-03-graphing-systems-of-mixed-functions.html\" style=\"width:100%;height:7790px;border:none;\" allowfullscreen=\"\" title=\"Lesson 14.03 Graphing Systems of Mixed Functions\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-14-04-solving-systems-of-mixed-functions-algebraically",
+   "title": "Lesson 14.04 Solving Systems of Mixed Functions Algebraically",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-14/lesson-14-04-solving-systems-of-mixed-functions-algebraically.html\" style=\"width:100%;height:7360px;border:none;\" allowfullscreen=\"\" title=\"Lesson 14.04 Solving Systems of Mixed Functions Algebraically\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_14-05-systems-of-inequalities-and-constraints",
+   "title": "14.05 Systems of Inequalities and Constraints",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-14/14-05-systems-of-inequalities-and-constraints.html\" style=\"width:100%;height:13160px;border:none;\" allowfullscreen=\"\" title=\"14.05 Systems of Inequalities and Constraints\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_module-8-lesson-maps",
+   "title": "Module 8 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/teacher-resources/module-8-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 8 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  },
+  {
+   "id": "p_module-9-lesson-maps",
+   "title": "Module 9 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/teacher-resources/module-9-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 9 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  },
+  {
+   "id": "p_module-10-lesson-maps",
+   "title": "Module 10 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/teacher-resources/module-10-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 10 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  },
+  {
+   "id": "p_module-11-lesson-maps",
+   "title": "Module 11 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/teacher-resources/module-11-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 11 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  },
+  {
+   "id": "p_module-12-lesson-maps",
+   "title": "Module 12 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/teacher-resources/module-12-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 12 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  },
+  {
+   "id": "p_module-13-lesson-maps",
+   "title": "Module 13 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/teacher-resources/module-13-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 13 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  },
+  {
+   "id": "p_module-14-lesson-maps",
+   "title": "Module 14 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/teacher-resources/module-14-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 14 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a_lesson-8-01a-independent-practice",
+   "title": "Lesson 8.01a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-8/lesson-8-01a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 12.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9238"
+   },
+   "resource_link_lookup_uuid": "33a488e7-f521-4d35-9e4e-ed06979c865d",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-01b-independent-practice",
+   "title": "Lesson 8.01b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-8/lesson-8-01b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 8.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9239"
+   },
+   "resource_link_lookup_uuid": "9f6e429f-20a8-4e4f-8b31-2dc1722dcd19",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-01-mid-module-check",
+   "title": "Lesson 8.01 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-8/lesson-8-01-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 14.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9240"
+   },
+   "resource_link_lookup_uuid": "ad4c1887-96e8-41b8-8bd9-a624c08600e6",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-02-independent-practice",
+   "title": "Lesson 8.02 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-8/lesson-8-02-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.02 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9241"
+   },
+   "resource_link_lookup_uuid": "91b941b0-ee45-444a-a9eb-57f91515ef62",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-03-independent-practice",
+   "title": "Lesson 8.03 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-8/lesson-8-03-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.03 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9242"
+   },
+   "resource_link_lookup_uuid": "b89783e4-3e59-4cce-ae90-c56cb35e255f",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-04-independent-practice",
+   "title": "Lesson 8.04 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-8/lesson-8-04-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.04 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 9.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9243"
+   },
+   "resource_link_lookup_uuid": "b4ba1149-8aa3-4245-ad70-cee24e9321a7",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-8-summative-review",
+   "title": "Module 8 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-8/module-8-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 8 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 15.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9244"
+   },
+   "resource_link_lookup_uuid": "8588f27a-2680-4f2f-9526-94c6a448c67a",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-8-summative-assessment",
+   "title": "Module 8 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-8/module-8-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 8 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 24.0,
+   "group": "ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9245"
+   },
+   "resource_link_lookup_uuid": "68eb9cb1-48f2-4b0a-95e5-4f48c71f3088",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-01-independent-practice",
+   "title": "Lesson 9.01 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-9/lesson-9-01-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.01 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 20.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9246"
+   },
+   "resource_link_lookup_uuid": "cc7293e1-d4b2-4c17-a2d0-8064e3b368d6",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-02-independent-practice",
+   "title": "Lesson 9.02 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-9/lesson-9-02-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.02 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 15.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9247"
+   },
+   "resource_link_lookup_uuid": "8d5a4d01-49cb-4e32-9ac3-33cd775a800d",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lessons-9-01-9-02-mid-module-check",
+   "title": "Lessons 9.01-9.02 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-9/lessons-9-01-9-02-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 9.01-9.02 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 25.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9248"
+   },
+   "resource_link_lookup_uuid": "862cade2-d684-4971-a312-a08ab65cb318",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-03-independent-practice",
+   "title": "Lesson 9.03 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-9/lesson-9-03-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.03 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9249"
+   },
+   "resource_link_lookup_uuid": "acef97ea-ec04-47c8-b0c3-531cebe6f224",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-04-independent-practice",
+   "title": "Lesson 9.04 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-9/lesson-9-04-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.04 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 12.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9251"
+   },
+   "resource_link_lookup_uuid": "cdc0de97-7dac-4d9e-a561-28328af1dca0",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-05-independent-practice",
+   "title": "Lesson 9.05 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-9/lesson-9-05-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.05 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9252"
+   },
+   "resource_link_lookup_uuid": "e8699743-9efd-4937-b80b-db6d2ecc1ccf",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-9-summative-review",
+   "title": "Module 9 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-9/module-9-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 9 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 15.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9253"
+   },
+   "resource_link_lookup_uuid": "0e6b2503-d384-4718-a3d6-fb20ad79a0a1",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-9-summative-assessment",
+   "title": "Module 9 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-9/module-9-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 9 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 29.0,
+   "group": "ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9254"
+   },
+   "resource_link_lookup_uuid": "e04e3fee-7a85-4754-869b-85dcf6d5d5c2",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-10-01-independent-practice",
+   "title": "Lesson 10.01 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-10/lesson-10-01-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.01 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 8.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9255"
+   },
+   "resource_link_lookup_uuid": "da65aede-a81c-449a-af0c-8408f7cf1402",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-10-02-independent-practice",
+   "title": "Lesson 10.02 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-10/lesson-10-02-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.02 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 12.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9256"
+   },
+   "resource_link_lookup_uuid": "6d2c47ca-a9f6-4583-9230-139f3264e3e3",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-10-03-independent-practice",
+   "title": "Lesson 10.03 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-10/lesson-10-03-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.03 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 9.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9257"
+   },
+   "resource_link_lookup_uuid": "71aacca8-20a8-4a9c-853f-9ba5e0f66281",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lessons-10-01-10-03-mid-module-check",
+   "title": "Lessons 10.01-10.03 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-10/lessons-10-01-10-03-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 10.01-10.03 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 15.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9390"
+   },
+   "resource_link_lookup_uuid": "01856336-32f2-42b8-aff9-706afe3d5ab4",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-10-04-independent-practice",
+   "title": "Lesson 10.04 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-10/lesson-10-04-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.04 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 4.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9391"
+   },
+   "resource_link_lookup_uuid": "11c0a983-172c-472f-abe8-22fee9a5281d",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-10-05-independent-practice",
+   "title": "Lesson 10.05 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-10/lesson-10-05-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.05 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 9.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9392"
+   },
+   "resource_link_lookup_uuid": "c62a66f6-0639-40e3-a491-2d5d84fce52b",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-10-06-independent-practice",
+   "title": "Lesson 10.06 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-10/lesson-10-06-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.06 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 9.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9393"
+   },
+   "resource_link_lookup_uuid": "25f6bb33-3bb7-47d1-8620-7f89f14b5606",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-10-summative-review",
+   "title": "Module 10 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-10/module-10-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 10 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 15.0,
+   "group": "ag_reviews",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9394"
+   },
+   "resource_link_lookup_uuid": "f7e7ae51-708c-4676-92b4-a479e6bd4eea",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-10-summative-assessment",
+   "title": "Module 10 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-10/module-10-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 10 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 25.0,
+   "group": "ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9395"
+   },
+   "resource_link_lookup_uuid": "04e882c2-562e-49cb-b73e-587a1ed64e69",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-11-03-independent-practice",
+   "title": "Lesson 11.03 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-11/lesson-11-03-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.03 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9900"
+   },
+   "resource_link_lookup_uuid": "759d6d37-0574-45d3-b43c-5acb3d183db2",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-11-04-independent-practice",
+   "title": "Lesson 11.04 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-11/lesson-11-04-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.04 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9901"
+   },
+   "resource_link_lookup_uuid": "5c8725e9-f862-42a0-aea7-41e9ae1944e5",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-11-05-independent-practice",
+   "title": "Lesson 11.05 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-11/lesson-11-05-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.05 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 9.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9902"
+   },
+   "resource_link_lookup_uuid": "78ef758a-6c95-455b-bb2b-743d09989624",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lessons-11-03-11-05-mid-module-check",
+   "title": "Lessons 11.03-11.05 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-11/lessons-11-03-11-05-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 11.03-11.05 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 16.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9903"
+   },
+   "resource_link_lookup_uuid": "74c5a4b4-90ad-4bbb-b833-6a089896503e",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-11-06-independent-practice",
+   "title": "Lesson 11.06 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-11/lesson-11-06-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.06 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 5.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9904"
+   },
+   "resource_link_lookup_uuid": "9d3cb9c7-9257-4f0e-979b-6f2bdc556c77",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-11-summative-review",
+   "title": "Module 11 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-11/module-11-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 11 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 15.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9905"
+   },
+   "resource_link_lookup_uuid": "5a4509ed-a18d-48b0-af3e-39cf88f7801c",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-11-summative-assessment",
+   "title": "Module 11 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-11/module-11-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 11 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 16.0,
+   "group": "ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9906"
+   },
+   "resource_link_lookup_uuid": "77b6b4ee-6454-44b3-885e-53d80447d438",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-11-summative-assessment-honors-only",
+   "title": "Module 11 Summative Assessment (Honors Only)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-11/module-11-summative-assessment-honors-only.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 11 Summative Assessment (Honors Only)\" loading=\"lazy\"></iframe></p>",
+   "points": 0.0,
+   "group": "ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "none"
+  },
+  {
+   "id": "a_lesson-12-01-independent-practice",
+   "title": "Lesson 12.01 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-12/lesson-12-01-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 12.01 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 9.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9907"
+   },
+   "resource_link_lookup_uuid": "a8cc5e5a-3bfe-495a-9684-df97cdbaef2a",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-12-02-independent-practice",
+   "title": "Lesson 12.02 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-12/lesson-12-02-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 12.02 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9908"
+   },
+   "resource_link_lookup_uuid": "0120d404-79cc-40e2-b64f-961690ab8016",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lessons-12-01-12-02-mid-module-check",
+   "title": "Lessons 12.01-12.02 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-12/lessons-12-01-12-02-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 12.01-12.02 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 13.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9909"
+   },
+   "resource_link_lookup_uuid": "4446a793-b391-4526-be65-049ab7764375",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-12-03-independent-practice",
+   "title": "Lesson 12.03 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-12/lesson-12-03-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 12.03 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 8.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9911"
+   },
+   "resource_link_lookup_uuid": "161612f5-4d1e-438f-8d68-a207fcf8d7e8",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-12-04-independent-practice",
+   "title": "Lesson 12.04 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-12/lesson-12-04-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 12.04 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 7.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9912"
+   },
+   "resource_link_lookup_uuid": "fdbdb957-35ce-4c9a-89c2-f4dda346267e",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-12-summative-review",
+   "title": "Module 12 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-12/module-12-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 12 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 15.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9913"
+   },
+   "resource_link_lookup_uuid": "8edc9339-8fa4-43f2-a304-b9c355b0be5d",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-12-summative-assessment",
+   "title": "Module 12 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-12/module-12-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 12 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 21.0,
+   "group": "ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9914"
+   },
+   "resource_link_lookup_uuid": "09dde425-9928-4386-b47b-0dc902e66eca",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-13-01-independent-practice",
+   "title": "Lesson 13.01 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-13/lesson-13-01-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 13.01 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 6.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9915"
+   },
+   "resource_link_lookup_uuid": "d16d2ab0-0537-4d7b-8508-bf438ea9b5fd",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-13-02-independent-practice",
+   "title": "Lesson 13.02 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-13/lesson-13-02-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 13.02 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 13.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9916"
+   },
+   "resource_link_lookup_uuid": "a0cd5ce5-6087-44bf-a688-000bae850b40",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lessons-13-01-13-02-mid-module-check",
+   "title": "Lessons 13.01-13.02 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-13/lessons-13-01-13-02-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 13.01-13.02 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 11.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9917"
+   },
+   "resource_link_lookup_uuid": "073a466f-2fc6-4672-88b4-838d683f490f",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-13-03-independent-practice",
+   "title": "Lesson 13.03 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-13/lesson-13-03-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 13.03 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 9.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9918"
+   },
+   "resource_link_lookup_uuid": "aee9aa78-2d6a-4f2c-9a58-1cabc9a5c244",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-13-04-independent-practice",
+   "title": "Lesson 13.04 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-13/lesson-13-04-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 13.04 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 13.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9919"
+   },
+   "resource_link_lookup_uuid": "2f1a67fa-b5fb-4e27-9d7e-8a21c8c8027b",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-13-05-independent-practice",
+   "title": "Lesson 13.05 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-13/lesson-13-05-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 13.05 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 8.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9920"
+   },
+   "resource_link_lookup_uuid": "b2f10d55-37f1-4efa-bbb6-47591175919b",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-13-summative-review",
+   "title": "Module 13 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-13/module-13-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 13 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 15.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9921"
+   },
+   "resource_link_lookup_uuid": "e111c050-1644-4f62-9586-41d1e92079db",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-13-summative-assessment",
+   "title": "Module 13 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-13/module-13-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 13 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 24.0,
+   "group": "ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9922"
+   },
+   "resource_link_lookup_uuid": "ffd76544-0a8a-4543-8b33-cca99e30b58d",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-14-01-independent-practice",
+   "title": "Lesson 14.01 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-14/lesson-14-01-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 14.01 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 8.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9923"
+   },
+   "resource_link_lookup_uuid": "bfc0cd3d-4b57-419c-9abc-a7df6552d151",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-14-02-independent-practice",
+   "title": "Lesson 14.02 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-14/lesson-14-02-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 14.02 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9924"
+   },
+   "resource_link_lookup_uuid": "f1cadf32-3d2f-4d9f-8fe7-1037faeb930f",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lessons-14-01-14-02-mid-module-check",
+   "title": "Lessons 14.01-14.02 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-14/lessons-14-01-14-02-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 14.01-14.02 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 12.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9925"
+   },
+   "resource_link_lookup_uuid": "e48f44e9-fc0b-4c50-ad90-8fd80a467d7c",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-14-03-independent-practice",
+   "title": "Lesson 14.03 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-14/lesson-14-03-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 14.03 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 7.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9926"
+   },
+   "resource_link_lookup_uuid": "6fdf6d77-7407-4b64-9449-9cd964e9b94d",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-14-04-independent-practice",
+   "title": "Lesson 14.04 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-14/lesson-14-04-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 14.04 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 6.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9927"
+   },
+   "resource_link_lookup_uuid": "88861060-b54e-4b62-806f-4042c1b061a8",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lessons-14-03-14-04-mid-module-check",
+   "title": "Lessons 14.03-14.04 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-14/lessons-14-03-14-04-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 14.03-14.04 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 9.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9928"
+   },
+   "resource_link_lookup_uuid": "05ee6224-9c7b-43e1-a6f9-be5bd520dfb4",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-14-05-independent-practice",
+   "title": "Lesson 14.05 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-14/lesson-14-05-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 14.05 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 12.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9929"
+   },
+   "resource_link_lookup_uuid": "a79dd77c-8a09-4072-be46-6c8b27545f9f",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-14-summative-review",
+   "title": "Module 14 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-14/module-14-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 14 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 15.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9930"
+   },
+   "resource_link_lookup_uuid": "6616a7e4-0410-45dc-955b-46e433699341",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-14-summative-assessment",
+   "title": "Module 14 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-algebra-2-honors/s2/module-14/module-14-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 14 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 24.0,
+   "group": "ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9931"
+   },
+   "resource_link_lookup_uuid": "5c216679-bf65-4b08-94ac-2a4aeaea5788",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  }
+ ],
+ "modules": [
+  {
+   "id": "m_8",
+   "title": "Module 8 - Rational Exponents and Radical Expressions",
+   "published": true,
+   "items": [
+    {
+     "type": "header",
+     "title": "The Laws of Exponents",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-01a-rational-exponents",
+     "title": "Lesson 8.01a Rational Exponents",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-01a-independent-practice",
+     "title": "Lesson 8.01a Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-01b-the-number-e",
+     "title": "Lesson 8.01b The Number e",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-01b-independent-practice",
+     "title": "Lesson 8.01b Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.01 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-01-mid-module-check",
+     "title": "Lesson 8.01 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Radical Expressions",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-02-radical-expressions",
+     "title": "Lesson 8.02 Radical Expressions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-02-independent-practice",
+     "title": "Lesson 8.02 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-03-adding-and-subtracting-radical-expressions",
+     "title": "Lesson 8.03 Adding and Subtracting Radical Expressions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-03-independent-practice",
+     "title": "Lesson 8.03 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-04-multiplying-and-dividing-radical-expressions",
+     "title": "Lesson 8.04 Multiplying and Dividing Radical Expressions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-04-independent-practice",
+     "title": "Lesson 8.04 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Module 8 Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-8-summative-review",
+     "title": "Module 8 Summative Review",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-8-summative-assessment",
+     "title": "Module 8 Summative Assessment",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "id": "m_9",
+   "title": "Module 9 - Logarithmic Expressions and One-Variable Equations",
+   "published": true,
+   "items": [
+    {
+     "type": "header",
+     "title": "Properties of Logarithms",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-01-logarithms-and-natural-logarithms",
+     "title": "Lesson 9.01 Logarithms and Natural Logarithms",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-01-independent-practice",
+     "title": "Lesson 9.01 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-02-properties-of-logarithms",
+     "title": "Lesson 9.02 Properties of Logarithms",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-02-independent-practice",
+     "title": "Lesson 9.02 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lessons 9.01-9.02 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-9-01-9-02-mid-module-check",
+     "title": "Lessons 9.01-9.02 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "One-Variable Equations",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-03-solving-one-variable-exponential-equations-same-base",
+     "title": "Lesson 9.03 Solving One-Variable Exponential Equations - Same Base",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-03-independent-practice",
+     "title": "Lesson 9.03 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-04-solving-one-variable-exponential-equations",
+     "title": "Lesson 9.04 Solving One-Variable Exponential Equations",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-04-independent-practice",
+     "title": "Lesson 9.04 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-05-solving-one-variable-logarithmic-equations",
+     "title": "Lesson 9.05 Solving One-Variable  Logarithmic Equations",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-05-independent-practice",
+     "title": "Lesson 9.05 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Module 9 Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-9-summative-review",
+     "title": "Module 9 Summative Review",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-9-summative-assessment",
+     "title": "Module 9 Summative Assessment",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "id": "m_10",
+   "title": "Module 10 - Exponential and Logarithmic Functions in Two Variables",
+   "published": true,
+   "items": [
+    {
+     "type": "header",
+     "title": "Exponential Functions in Two Variables",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-10-01-exponential-functions-and-their-graphs",
+     "title": "Lesson 10.01 Exponential Functions and Their Graphs",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-10-01-independent-practice",
+     "title": "Lesson 10.01 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-10-02-transforming-exponential-functions",
+     "title": "Lesson 10.02 Transforming Exponential Functions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-10-02-independent-practice",
+     "title": "Lesson 10.02 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-10-03-solving-exponential-functions",
+     "title": "Lesson 10.03 Solving Exponential Functions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-10-03-independent-practice",
+     "title": "Lesson 10.03 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lessons 10.01-10.03 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-10-01-10-03-mid-module-check",
+     "title": "Lessons 10.01-10.03 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Logarithmic Functions in Two Variables",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-10-04-logarithmic-functions-and-their-graphs",
+     "title": "Lesson 10.04 Logarithmic Functions and Their Graphs",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-10-04-independent-practice",
+     "title": "Lesson 10.04 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-10-05-transforming-logarithmic-functions",
+     "title": "Lesson 10.05 Transforming Logarithmic Functions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-10-05-independent-practice",
+     "title": "Lesson 10.05 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-10-06-solving-logarithmic-functions",
+     "title": "Lesson 10.06 Solving Logarithmic Functions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-10-06-independent-practice",
+     "title": "Lesson 10.06 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Module 10 Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-10-summative-review",
+     "title": "Module 10 Summative Review",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-10-summative-assessment",
+     "title": "Module 10 Summative Assessment",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "id": "m_11",
+   "title": "Module 11 - Properties of Functions",
+   "published": true,
+   "items": [
+    {
+     "type": "header",
+     "title": "Sequences (Honors Only)",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-11-01-arithmetic-sequences-honors-only",
+     "title": "Lesson 11.01 Arithmetic Sequences (Honors Only)",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-11-02-geometric-sequences-honors-only",
+     "title": "Lesson 11.02 Geometric Sequences (Honors Only)",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Function Types",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-11-03-identifying-function-types-from-graphs-equations",
+     "title": "Lesson 11.03 Identifying Function Types from Graphs & Equations",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-11-03-independent-practice",
+     "title": "Lesson 11.03 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-11-04-identifying-function-types-from-tables",
+     "title": "Lesson 11.04 Identifying Function Types from Tables",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-11-04-independent-practice",
+     "title": "Lesson 11.04 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-11-05-determining-even-odd-or-neither",
+     "title": "Lesson 11.05 Determining Even, Odd, or Neither",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-11-05-independent-practice",
+     "title": "Lesson 11.05 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lessons 11.03 - 11.05 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-11-03-11-05-mid-module-check",
+     "title": "Lessons 11.03-11.05 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Comparing Functions",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-11-06-comparing-key-features-of-different-functions",
+     "title": "Lesson 11.06 Comparing Key Features of Different Functions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-11-06-independent-practice",
+     "title": "Lesson 11.06 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Module 11 Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-11-summative-review",
+     "title": "Module 11 Summative Review",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-11-summative-assessment",
+     "title": "Module 11 Summative Assessment",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-11-summative-assessment-honors-only",
+     "title": "Module 11 Summative Assessment (Honors Only)",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "id": "m_12",
+   "title": "Module 12 - Inverse Functions",
+   "published": true,
+   "items": [
+    {
+     "type": "header",
+     "title": "Operations and Compositions of Functions",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-12-01-operations-on-functions",
+     "title": "Lesson 12.01 Operations on Functions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-12-01-independent-practice",
+     "title": "Lesson 12.01 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-12-02-composition-of-functions",
+     "title": "Lesson 12.02 Composition of Functions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-12-02-independent-practice",
+     "title": "Lesson 12.02 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lessons 12.01 - 12.02 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-12-01-12-02-mid-module-check",
+     "title": "Lessons 12.01-12.02 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Inverse Functions",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-12-03-inverse-functions-given-graphs-or-tables",
+     "title": "Lesson 12.03 Inverse Functions Given Graphs or Tables",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-12-03-independent-practice",
+     "title": "Lesson 12.03 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-12-04-inverse-functions-given-equations",
+     "title": "Lesson 12.04 Inverse Functions Given Equations",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-12-04-independent-practice",
+     "title": "Lesson 12.04 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Module 12 Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-12-summative-review",
+     "title": "Module 12 Summative Review",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-12-summative-assessment",
+     "title": "Module 12 Summative Assessment",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "id": "m_13",
+   "title": "Module 13 - Absolute Value Functions and Inequalities, and Piecewise Functions",
+   "published": true,
+   "items": [
+    {
+     "type": "header",
+     "title": "Absolute Value Equations in One Variable",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-13-01-one-variable-absolute-value-equations",
+     "title": "Lesson 13.01 One-Variable Absolute Value Equations",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-13-01-independent-practice",
+     "title": "Lesson 13.01 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-13-02-one-variable-absolute-value-inequalites",
+     "title": "Lesson 13.02 One-Variable Absolute Value Inequalites",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-13-02-independent-practice",
+     "title": "Lesson 13.02 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lessons 13.01 - 13.02 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-13-01-13-02-mid-module-check",
+     "title": "Lessons 13.01-13.02 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Absolute Value Functions in Two Variables",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-13-03-two-variable-absolute-value-functions-and-their-graphs",
+     "title": "Lesson 13.03 Two-Variable Absolute Value Functions and Their Graphs",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-13-03-independent-practice",
+     "title": "Lesson 13.03 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-13-04-transforming-absolute-value-functions",
+     "title": "Lesson 13.04 Transforming Absolute Value Functions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-13-04-independent-practice",
+     "title": "Lesson 13.04 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-13-05-solving-absolute-value-functions",
+     "title": "Lesson 13.05 Solving Absolute Value Functions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-13-05-independent-practice",
+     "title": "Lesson 13.05 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Piecewise Functions (Honors Only)",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-13-06-piecewise-functions-and-their-graphs-honors-only",
+     "title": "Lesson 13.06 Piecewise Functions and Their Graphs (Honors Only)",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Module 13 Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-13-summative-review",
+     "title": "Module 13 Summative Review",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-13-summative-assessment",
+     "title": "Module 13 Summative Assessment",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "id": "m_14",
+   "title": "Module 14 - Systems of Equations and Inequalities",
+   "published": true,
+   "items": [
+    {
+     "type": "header",
+     "title": "Systems of Linear with Nonlinear Functions",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-14-01-graphing-systems-of-linear-or-nonlinear-equations",
+     "title": "Lesson 14.01 Graphing Systems of Linear or Nonlinear Equations",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-14-01-independent-practice",
+     "title": "Lesson 14.01 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-14-02-solving-systems-of-linear-and-nonlinear-functions-algebraically",
+     "title": "Lesson 14.02 Solving Systems of Linear and Nonlinear Functions Algebraically",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-14-02-independent-practice",
+     "title": "Lesson 14.02 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lessons 14.01 - 14.02 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-14-01-14-02-mid-module-check",
+     "title": "Lessons 14.01-14.02 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Systems of Nonlinear Functions",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-14-03-graphing-systems-of-mixed-functions",
+     "title": "Lesson 14.03 Graphing Systems of Mixed Functions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-14-03-independent-practice",
+     "title": "Lesson 14.03 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-14-04-solving-systems-of-mixed-functions-algebraically",
+     "title": "Lesson 14.04 Solving Systems of Mixed Functions Algebraically",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-14-04-independent-practice",
+     "title": "Lesson 14.04 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Lessons 14.03 - 14.04 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-14-03-14-04-mid-module-check",
+     "title": "Lessons 14.03-14.04 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Systems of Inequalities and Constraints",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_14-05-systems-of-inequalities-and-constraints",
+     "title": "14.05 Systems of Inequalities and Constraints",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-14-05-independent-practice",
+     "title": "Lesson 14.05 Independent Practice",
+     "indent": 2
+    },
+    {
+     "type": "header",
+     "title": "Module 14 Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-14-summative-review",
+     "title": "Module 14 Summative Review",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-14-summative-assessment",
+     "title": "Module 14 Summative Assessment",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "id": "m_teacher",
+   "title": "Teacher Resources",
+   "published": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_module-8-lesson-maps",
+     "title": "Module 8 Lesson Maps",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-9-lesson-maps",
+     "title": "Module 9 Lesson Maps",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-10-lesson-maps",
+     "title": "Module 10 Lesson Maps",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-11-lesson-maps",
+     "title": "Module 11 Lesson Maps",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-12-lesson-maps",
+     "title": "Module 12 Lesson Maps",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-13-lesson-maps",
+     "title": "Module 13 Lesson Maps",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-14-lesson-maps",
+     "title": "Module 14 Lesson Maps",
+     "indent": 0
+    }
+   ]
+  }
+ ],
+ "files": [
+  {
+   "path": "course-materials/syllabus.pdf",
+   "src": "files/course-materials/syllabus.pdf"
+  },
+  {
+   "path": "teacher-resources/teacher-manual.pdf",
+   "src": "files/teacher-resources/teacher-manual.pdf"
+  }
+ ],
+ "source": {
+  "note": "Built 2026-10-22 from the reformatted Algebra 2 course (HS_Algebra 2 Q3-Q4 Module Formatted folders). Module and item titles, order, sub-headers, points, grading types and Wiris LTI links (quiz id + lookup uuid) were read from the product master copy export (11th-grade-algebra-2-product-master-copy-export.imscc): the course was never deployed to Canvas the old way and has no Module Maps in the formatted set, so the export is the naming authority. This is the Honors course (1200340), so the items marked Honors Only are included (Lessons 11.01, 11.02 and 13.06 and the Module 11 Summative Assessment (Honors Only)); in the export the Module 11 Honors summative is an empty 0-point assignment with no submission type, the 11.01-11.02 Honors Mid-Module Check is an empty sub-header with no item under it (omitted from the kit), and the Honors lessons have no practice assignments. The seven Module Lesson Maps pages are in an unpublished Teacher Resources module. Lessons and assignment pages are on https://optimaondemand.github.io/hs-algebra-2-honors; the one small lesson video (0.8 MB, Lesson 14.01) is served from the same site. Gradebook groups and weights (40/40/20) from the course owner; the course's teacher manual recommends 50/40/10. The bundled syllabus and teacher manual are PDFs rendered from the course's HTML front matter. No week pacing exists in the course files, so no item carries a week."
+ }
+}
