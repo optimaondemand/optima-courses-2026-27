@@ -1,0 +1,2922 @@
+{
+ "course": {
+  "title": "Geometry Honors Sem 2",
+  "code": "1206320",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_practice",
+   "title": "Practice & Checks",
+   "weight": 40
+  },
+  {
+   "id": "ag_summative",
+   "title": "Summative Assessments",
+   "weight": 40
+  },
+  {
+   "id": "ag_reviews",
+   "title": "Reviews & VR",
+   "weight": 20
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_lesson-7-03b-construction-honors-only",
+   "title": "Rubric for Constructing a Tangent to a Circle (20 pts)",
+   "criteria": [
+    {
+     "description": "Accuracy",
+     "points": 7,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "The constructed tangents are drawn from the outside point to the edge of the circle.",
+       "points": 7
+      },
+      {
+       "description": "Good",
+       "long_description": "The constructed tangents are drawn from the outside point and relative to the edge of the circle.",
+       "points": 5
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "The constructed tangents are from the outside point, but intersect the circle's edge rather than touch it.",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "The constructed tangents go through the circle rather than touch the edge.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Markings",
+     "points": 7,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "All required markings (ray, arc, and endpoints) are present, clear, and correctly placed.",
+       "points": 7
+      },
+      {
+       "description": "Good",
+       "long_description": "Most required markings are present and correctly placed, with minor errors or omissions.",
+       "points": 5
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "Some required markings are missing, unclear, or incorrectly placed.",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "Required markings are missing or completely incorrect.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Clarity",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "The video or image is clear, well-lit, and shows all steps of the construction process. Labels are clear and legible.",
+       "points": 6
+      },
+      {
+       "description": "Good",
+       "long_description": "The video or image is mostly clear, with minor issues in lighting or focus. Most steps and labels are visible.",
+       "points": 4
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "The video or image is partially clear, with significant issues in lighting, focus, or visibility of steps and labels.",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "The video or image is unclear or poorly lit, making it difficult to see the steps or labels, or is missing.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_lesson-7-06b-inscribed-triangle-construction-honors-only",
+   "title": "Rubric for Constructing an Inscribed Triangle (18 pts)",
+   "criteria": [
+    {
+     "description": "Accuracy",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "The constructed triangle is completely inscribed and the vertices are equal length apart.",
+       "points": 6
+      },
+      {
+       "description": "Good",
+       "long_description": "The constructed triangle is mostly inscribed and the side lengths are close to equal length.",
+       "points": 4
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "The constructed triangle is somewhat inscribed and the side lengths are somewhat of equal length.",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "The constructed triangle is not inscribed and not of equal side lengths.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Markings",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "All required markings (ray, arc, and endpoints) are present, clear, and correctly placed.",
+       "points": 6
+      },
+      {
+       "description": "Good",
+       "long_description": "Most required markings are present and correctly placed, with minor errors or omissions.",
+       "points": 4
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "Some required markings are missing, unclear, or incorrectly placed.",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "Required markings are missing or completely incorrect.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Clarity",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "The video or image is clear, well-lit, and shows all steps of the construction process. Labels are clear and legible.",
+       "points": 6
+      },
+      {
+       "description": "Good",
+       "long_description": "The video or image is mostly clear, with minor issues in lighting or focus. Most steps and labels are visible.",
+       "points": 4
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "The video or image is partially clear, with significant issues in lighting, focus, or visibility of steps and labels.",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "The video or image is unclear or poorly lit, making it difficult to see the steps or labels, or is missing.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_lesson-7-06b-inscribed-quadrilateral-construction-honors-only",
+   "title": "Rubric for Constructing an Inscribed Quadrilateral (18 pts)",
+   "criteria": [
+    {
+     "description": "Accuracy",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "The constructed quadrilateral is inscribed and a square with equal side lengths.",
+       "points": 6
+      },
+      {
+       "description": "Good",
+       "long_description": "The constructed quadrilateral is mostly inscribed and mostly a square with equal side lengths.",
+       "points": 4
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "The constructed quadrilateral is somewhat inscribed and not as much of a square.",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "The constructed quadrilateral is not inscribed and is not a square.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Markings",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "All required markings (ray, arc, and endpoints) are present, clear, and correctly placed.",
+       "points": 6
+      },
+      {
+       "description": "Good",
+       "long_description": "Most required markings are present and correctly placed, with minor errors or omissions.",
+       "points": 4
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "Some required markings are missing, unclear, or incorrectly placed.",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "Required markings are missing or completely incorrect.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Clarity",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "The video or image is clear, well-lit, and shows all steps of the construction process. Labels are clear and legible.",
+       "points": 6
+      },
+      {
+       "description": "Good",
+       "long_description": "The video or image is mostly clear, with minor issues in lighting or focus. Most steps and labels are visible.",
+       "points": 4
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "The video or image is partially clear, with significant issues in lighting, focus, or visibility of steps and labels.",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "The video or image is unclear or poorly lit, making it difficult to see the steps or labels, or is missing.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_lesson-7-06b-inscribed-hexagon-construction-honors-only",
+   "title": "Rubric for Constructing an Inscribed Hexagon (18 pts)",
+   "criteria": [
+    {
+     "description": "Accuracy",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "The constructed hexagon is inscribed and has equal side lengths.",
+       "points": 6
+      },
+      {
+       "description": "Good",
+       "long_description": "The constructed hexagon is mostly inscribed with equal side lengths.",
+       "points": 4
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "The constructed hexagon is somewhat inscribed and somewhat equal side lengths.",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "The constructed hexagon is not inscribed and not a regular hexagon.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Markings",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "All required markings (ray, arc, and endpoints) are present, clear, and correctly placed.",
+       "points": 6
+      },
+      {
+       "description": "Good",
+       "long_description": "Most required markings are present and correctly placed, with minor errors or omissions.",
+       "points": 4
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "Some required markings are missing, unclear, or incorrectly placed.",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "Required markings are missing or completely incorrect.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Clarity",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "The video or image is clear, well-lit, and shows all steps of the construction process. Labels are clear and legible.",
+       "points": 6
+      },
+      {
+       "description": "Good",
+       "long_description": "The video or image is mostly clear, with minor issues in lighting or focus. Most steps and labels are visible.",
+       "points": 4
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "The video or image is partially clear, with significant issues in lighting, focus, or visibility of steps and labels.",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "The video or image is unclear or poorly lit, making it difficult to see the steps or labels, or is missing.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_lesson-7-07-circumscribed-circle-construction",
+   "title": "Rubric for Constructing a Circumscribed Circle of a Triangle (18 pts)",
+   "criteria": [
+    {
+     "description": "Accuracy",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "The constructed circumscribed circle passes through all three vertices of the triangle, and the circumcenter is correctly located at the intersection of the perpendicular bisectors .",
+       "points": 6
+      },
+      {
+       "description": "Good",
+       "long_description": "The constructed circumscribed circle mostly passes through all three vertices , with minor inaccuracies in the circumcenter placement or circle alignment .",
+       "points": 4
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "The constructed circumscribed circle somewhat passes through the vertices, but there are noticeable inaccuracies in the placement of the circumcenter or perpendicular bisectors .",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "The constructed circumscribed circle does not pass through all three vertices , and the circumcenter is incorrect or missing.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Markings",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "All required markings (ray, arc, and endpoints) are present, clear, and correctly placed.",
+       "points": 6
+      },
+      {
+       "description": "Good",
+       "long_description": "Most required markings are present and correctly placed, with minor errors or omissions.",
+       "points": 4
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "Some required markings are missing, unclear, or incorrectly placed.",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "Required markings are missing or completely incorrect.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Clarity",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "The video or image is clear, well-lit, and shows all steps of the construction process. Labels are clear and legible.",
+       "points": 6
+      },
+      {
+       "description": "Good",
+       "long_description": "The video or image is mostly clear, with minor issues in lighting or focus. Most steps and labels are visible.",
+       "points": 4
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "The video or image is partially clear, with significant issues in lighting, focus, or visibility of steps and labels.",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "The video or image is unclear or poorly lit, making it difficult to see the steps or labels, or is missing.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_lesson-7-07-inscribed-circle-construction",
+   "title": "Rubric for Constructing an Inscribed Circle of a Triangle (18 pts)",
+   "criteria": [
+    {
+     "description": "Accuracy",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "The constructed inscribed circle is tangent to all three sides of the triangle, and the incenter is correctly located at the intersection of the angle bisectors .",
+       "points": 6
+      },
+      {
+       "description": "Good",
+       "long_description": "The constructed inscribed circle is mostly tangent to all three sides , with minor inaccuracies in the incenter placement or circle alignment .",
+       "points": 4
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "The constructed inscribed circle is somewhat tangent to the sides, but there are noticeable inaccuracies in the placement of the incenter or angle bisectors .",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "The constructed inscribed circle is not tangent to all three sides , and the incenter is incorrect or missing.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Markings",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "All required markings (ray, arc, and endpoints) are present, clear, and correctly placed.",
+       "points": 6
+      },
+      {
+       "description": "Good",
+       "long_description": "Most required markings are present and correctly placed, with minor errors or omissions.",
+       "points": 4
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "Some required markings are missing, unclear, or incorrectly placed.",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "Required markings are missing or completely incorrect.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Clarity",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "The video or image is clear, well-lit, and shows all steps of the construction process. Labels are clear and legible.",
+       "points": 6
+      },
+      {
+       "description": "Good",
+       "long_description": "The video or image is mostly clear, with minor issues in lighting or focus. Most steps and labels are visible.",
+       "points": 4
+      },
+      {
+       "description": "Needs Improvement",
+       "long_description": "The video or image is partially clear, with significant issues in lighting, focus, or visibility of steps and labels.",
+       "points": 2
+      },
+      {
+       "description": "Unsatisfactory",
+       "long_description": "The video or image is unclear or poorly lit, making it difficult to see the steps or labels, or is missing.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_lesson-10-07-tesselation-honors-only",
+   "title": "Tessellation Project Rubric (20 pts)",
+   "criteria": [
+    {
+     "description": "Part 1: Your Tessellation",
+     "long_description": "A tessellation with at least 12 complete tiles that fit together with no gaps or overlaps, is neatly and clearly drawn, and uses at least two different types of symmetry (reflection, rotation or translation).",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Meets every requirement",
+       "long_description": "At least 12 complete tiles, no gaps or overlaps, neat and clear, and at least two symmetry types present.",
+       "points": 6
+      },
+      {
+       "description": "Minor shortfall",
+       "long_description": "Meets the requirements except for one small problem, such as a few untidy edges or a tile count just under 12.",
+       "points": 4
+      },
+      {
+       "description": "Major shortfall",
+       "long_description": "Has gaps or overlaps, fewer than 12 tiles, or only one symmetry type.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "No tessellation submitted.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Part 2, Section A: Your Shape(s)",
+     "long_description": "Questions 1-3: the tile shape or shapes described precisely, why they tessellate (angle sum at a vertex), and the symmetries of a single tile.",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Precise and correct",
+       "long_description": "Describes the tile(s) precisely, explains with angle measures why they tessellate, and states each tile's lines of reflection symmetry and order of rotational symmetry correctly.",
+       "points": 4
+      },
+      {
+       "description": "Mostly correct",
+       "long_description": "All three questions answered, with one imprecise or partly incorrect explanation.",
+       "points": 3
+      },
+      {
+       "description": "Partial",
+       "long_description": "One question is missing or most answers are vague or incorrect.",
+       "points": 1
+      },
+      {
+       "description": "Missing",
+       "long_description": "Section not completed.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Part 2, Section B: Symmetries of Your Tessellation",
+     "long_description": "Questions 4-6: a translation vector with direction and distance, the second symmetry type described specifically (line of symmetry, or center, angle and order of rotation), and the third type identified or its absence explained.",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Specific and correct",
+       "long_description": "Gives a translation vector with direction and distance, describes the second symmetry with its line or center and angle, and handles the third type correctly, all specific to the student's design.",
+       "points": 6
+      },
+      {
+       "description": "Mostly specific",
+       "long_description": "All three questions answered, but one lacks detail (for example, no distance or no center or angle stated).",
+       "points": 4
+      },
+      {
+       "description": "Partial",
+       "long_description": "One question is missing, or the answers are generic or partly incorrect.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "Section not completed.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Part 2, Section C: Reflection and Connection, and Mathematical Language",
+     "long_description": "Questions 7-8: how a single tile's symmetries relate to the whole pattern, and whether translation symmetry guarantees other symmetries, supported with evidence from the design. Uses correct vocabulary (line of symmetry, order and angle of rotational symmetry, translation vector, tessellation) and answers are specific to the design, not generic.",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Insightful and precise",
+       "long_description": "Both questions answered with specific evidence from the design, and the required vocabulary is used correctly throughout.",
+       "points": 4
+      },
+      {
+       "description": "Mostly sound",
+       "long_description": "Both questions answered, but the evidence is thin or the vocabulary is used loosely in places.",
+       "points": 3
+      },
+      {
+       "description": "Partial",
+       "long_description": "One question is missing, or the answers are generic and could describe any tessellation.",
+       "points": 1
+      },
+      {
+       "description": "Missing",
+       "long_description": "Section not completed.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_module-7-vocabulary",
+   "title": "Module 7 Vocabulary",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/module-7-vocabulary.html\" style=\"width:100%;height:2770px;border:none;\" allowfullscreen=\"\" title=\"Module 7 Vocabulary\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_module-7-postulates-and-theorems",
+   "title": "Module 7 Postulates and Theorems",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/module-7-postulates-and-theorems.html\" style=\"width:100%;height:3120px;border:none;\" allowfullscreen=\"\" title=\"Module 7 Postulates and Theorems\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-01-parts-of-a-circle",
+   "title": "Lesson 7.01 Parts of a Circle",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-01-parts-of-a-circle.html\" style=\"width:100%;height:4440px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.01 Parts of a Circle\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-02-radii-chords-and-tangents",
+   "title": "Lesson 7.02 Radii, Chords, and Tangents",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-02-radii-chords-and-tangents.html\" style=\"width:100%;height:7480px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.02 Radii, Chords, and Tangents\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-03-secants-and-tangents",
+   "title": "Lesson 7.03 Secants and Tangents",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-03-secants-and-tangents.html\" style=\"width:100%;height:6380px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.03 Secants and Tangents\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-03b-constructing-a-tangent-honors-only",
+   "title": "Lesson 7.03b Constructing a Tangent (Honors Only)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-03b-constructing-a-tangent-honors-only.html\" style=\"width:100%;height:4290px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.03b Constructing a Tangent (Honors Only)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-04-arcs-central-angles-and-inscribed-angles",
+   "title": "Lesson 7.04 Arcs, Central Angles, and Inscribed Angles",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-04-arcs-central-angles-and-inscribed-angles.html\" style=\"width:100%;height:7620px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.04 Arcs, Central Angles, and Inscribed Angles\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-05-angle-relationships-in-circles",
+   "title": "Lesson 7.05 Angle Relationships in Circles",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-05-angle-relationships-in-circles.html\" style=\"width:100%;height:11030px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.05 Angle Relationships in Circles\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-06-inscribed-triangles-and-quadrilaterals",
+   "title": "Lesson 7.06 Inscribed Triangles and Quadrilaterals",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-06-inscribed-triangles-and-quadrilaterals.html\" style=\"width:100%;height:8440px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.06 Inscribed Triangles and Quadrilaterals\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-06b-constructing-inscribed-polygons-honors-only",
+   "title": "Lesson 7.06b Constructing Inscribed Polygons (Honors Only)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-06b-constructing-inscribed-polygons-honors-only.html\" style=\"width:100%;height:7970px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.06b Constructing Inscribed Polygons (Honors Only)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-07-constructing-inscribed-and-circumscribed-circles-of-triangles",
+   "title": "Lesson 7.07 Constructing Inscribed and Circumscribed Circles of Triangles",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-07-constructing-inscribed-and-circumscribed-circles-of-triangles.html\" style=\"width:100%;height:6460px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.07 Constructing Inscribed and Circumscribed Circles of Triangles\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_module-8-vocabulary",
+   "title": "Module 8 Vocabulary",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/module-8-vocabulary.html\" style=\"width:100%;height:3840px;border:none;\" allowfullscreen=\"\" title=\"Module 8 Vocabulary\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_module-8-postulates-and-theorems",
+   "title": "Module 8 Postulates and Theorems",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/module-8-postulates-and-theorems.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 8 Postulates and Theorems\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-01a-area-of-triangles-quadrilaterals-and-circles",
+   "title": "Lesson 8.01a Area of Triangles, Quadrilaterals, and Circles",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lesson-8-01a-area-of-triangles-quadrilaterals-and-circles.html\" style=\"width:100%;height:10180px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01a Area of Triangles, Quadrilaterals, and Circles\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-01b-area-of-polygons-and-composite-figures",
+   "title": "Lesson 8.01b Area of Polygons and Composite Figures",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lesson-8-01b-area-of-polygons-and-composite-figures.html\" style=\"width:100%;height:11700px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01b Area of Polygons and Composite Figures\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-02-arc-length",
+   "title": "Lesson 8.02 Arc Length",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lesson-8-02-arc-length.html\" style=\"width:100%;height:6300px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.02 Arc Length\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-03-area-of-a-sector",
+   "title": "Lesson 8.03 Area of a Sector",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lesson-8-03-area-of-a-sector.html\" style=\"width:100%;height:5970px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.03 Area of a Sector\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-04a-surface-area-of-prisms-and-pyramids",
+   "title": "Lesson 8.04a Surface Area of Prisms and Pyramids",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lesson-8-04a-surface-area-of-prisms-and-pyramids.html\" style=\"width:100%;height:11230px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.04a Surface Area of Prisms and Pyramids\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-04b-surface-area-of-cylinders-cones-and-spheres",
+   "title": "Lesson 8.04b Surface Area of Cylinders, Cones, and Spheres",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lesson-8-04b-surface-area-of-cylinders-cones-and-spheres.html\" style=\"width:100%;height:7110px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.04b Surface Area of Cylinders, Cones, and Spheres\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-05-volume",
+   "title": "Lesson 8.05 Volume",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lesson-8-05-volume.html\" style=\"width:100%;height:10950px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.05 Volume\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-8-06-scale-factors-in-area-surface-area-and-volume",
+   "title": "Lesson 8.06 Scale Factors in Area, Surface Area, and Volume",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lesson-8-06-scale-factors-in-area-surface-area-and-volume.html\" style=\"width:100%;height:5390px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.06 Scale Factors in Area, Surface Area, and Volume\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_module-9-vocabulary",
+   "title": "Module 9 Vocabulary",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/module-9-vocabulary.html\" style=\"width:100%;height:1840px;border:none;\" allowfullscreen=\"\" title=\"Module 9 Vocabulary\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_module-9-properties-postulates-theorems-and-formulas",
+   "title": "Module 9 Properties, Postulates, Theorems, and Formulas",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/module-9-properties-postulates-theorems-and-formulas.html\" style=\"width:100%;height:1540px;border:none;\" allowfullscreen=\"\" title=\"Module 9 Properties, Postulates, Theorems, and Formulas\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-01-distance",
+   "title": "Lesson 9.01 Distance",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lesson-9-01-distance.html\" style=\"width:100%;height:4660px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.01 Distance\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-02-midpoints",
+   "title": "Lesson 9.02 Midpoints",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lesson-9-02-midpoints.html\" style=\"width:100%;height:5990px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.02 Midpoints\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-03-partitioning",
+   "title": "Lesson 9.03 Partitioning",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lesson-9-03-partitioning.html\" style=\"width:100%;height:5060px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.03 Partitioning\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-04-classifying-triangles-in-the-coordinate-plane",
+   "title": "Lesson 9.04 Classifying Triangles in the Coordinate Plane",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lesson-9-04-classifying-triangles-in-the-coordinate-plane.html\" style=\"width:100%;height:6350px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.04 Classifying Triangles in the Coordinate Plane\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-05-quadrilaterals-in-the-coordinate-plane",
+   "title": "Lesson 9.05 Quadrilaterals in the Coordinate Plane",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lesson-9-05-quadrilaterals-in-the-coordinate-plane.html\" style=\"width:100%;height:8870px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.05 Quadrilaterals in the Coordinate Plane\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-06-circles-and-tangent-lines",
+   "title": "Lesson 9.06 Circles and Tangent Lines",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lesson-9-06-circles-and-tangent-lines.html\" style=\"width:100%;height:6480px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.06 Circles and Tangent Lines\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-07-medians-centroids-and-midsegments",
+   "title": "Lesson 9.07 Medians, Centroids, and Midsegments",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lesson-9-07-medians-centroids-and-midsegments.html\" style=\"width:100%;height:9160px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.07 Medians, Centroids, and Midsegments\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-9-08-area-and-perimeter",
+   "title": "Lesson 9.08 Area and Perimeter",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lesson-9-08-area-and-perimeter.html\" style=\"width:100%;height:9560px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.08 Area and Perimeter\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_module-10-vocabulary",
+   "title": "Module 10 Vocabulary",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/module-10-vocabulary.html\" style=\"width:100%;height:2350px;border:none;\" allowfullscreen=\"\" title=\"Module 10 Vocabulary\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_module-10-properties-postulates-theorems-and-formulas",
+   "title": "Module 10 Properties, Postulates, Theorems, and Formulas",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/module-10-properties-postulates-theorems-and-formulas.html\" style=\"width:100%;height:3540px;border:none;\" allowfullscreen=\"\" title=\"Module 10 Properties, Postulates, Theorems, and Formulas\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_review-of-transformations",
+   "title": "Review of Transformations",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/review-of-transformations.html\" style=\"width:100%;height:6420px;border:none;\" allowfullscreen=\"\" title=\"Review of Transformations\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-10-01-sequences-of-transformations",
+   "title": "Lesson 10.01 Sequences of Transformations",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/lesson-10-01-sequences-of-transformations.html\" style=\"width:100%;height:6580px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.01 Sequences of Transformations\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-10-02-reflections-and-rotations",
+   "title": "Lesson 10.02 Reflections and Rotations",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/lesson-10-02-reflections-and-rotations.html\" style=\"width:100%;height:9150px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.02 Reflections and Rotations\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-10-03-translations",
+   "title": "Lesson 10.03 Translations",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/lesson-10-03-translations.html\" style=\"width:100%;height:7790px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.03 Translations\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-10-04-dilations",
+   "title": "Lesson 10.04 Dilations",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/lesson-10-04-dilations.html\" style=\"width:100%;height:5200px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.04 Dilations\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-10-05-identifying-sequences-of-transformations",
+   "title": "Lesson 10.05 Identifying Sequences of Transformations",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/lesson-10-05-identifying-sequences-of-transformations.html\" style=\"width:100%;height:4260px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.05 Identifying Sequences of Transformations\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-10-06-drawing-sequences-of-transformations",
+   "title": "Lesson 10.06 Drawing Sequences of Transformations",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/lesson-10-06-drawing-sequences-of-transformations.html\" style=\"width:100%;height:5330px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.06 Drawing Sequences of Transformations\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-10-07-symmetries-of-reflections-rotations-and-translations-honors-only",
+   "title": "Lesson 10.07 Symmetries of Reflections, Rotations, and Translations (Honors Only)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/lesson-10-07-symmetries-of-reflections-rotations-and-translations-honors-only.html\" style=\"width:100%;height:10370px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.07 Symmetries of Reflections, Rotations, and Translations (Honors Only)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_module-11-vocabulary",
+   "title": "Module 11 Vocabulary",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-11/module-11-vocabulary.html\" style=\"width:100%;height:3090px;border:none;\" allowfullscreen=\"\" title=\"Module 11 Vocabulary\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_module-11-properties-postulates-theorems-and-formulas",
+   "title": "Module 11 Properties, Postulates, Theorems, and Formulas",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-11/module-11-properties-postulates-theorems-and-formulas.html\" style=\"width:100%;height:1220px;border:none;\" allowfullscreen=\"\" title=\"Module 11 Properties, Postulates, Theorems, and Formulas\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-11-01-identifying-cross-sections",
+   "title": "Lesson 11.01 Identifying Cross-Sections",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-11/lesson-11-01-identifying-cross-sections.html\" style=\"width:100%;height:6110px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.01 Identifying Cross-Sections\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-11-02-rotations-of-2d-solids",
+   "title": "Lesson 11.02 Rotations of 2D Solids",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-11/lesson-11-02-rotations-of-2d-solids.html\" style=\"width:100%;height:13290px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.02 Rotations of 2D Solids\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-11-03-writing-equations-of-circles",
+   "title": "Lesson 11.03 Writing Equations of Circles",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-11/lesson-11-03-writing-equations-of-circles.html\" style=\"width:100%;height:8690px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.03 Writing Equations of Circles\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-11-04-circles-and-their-graphs",
+   "title": "Lesson 11.04 Circles and Their Graphs",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-11/lesson-11-04-circles-and-their-graphs.html\" style=\"width:100%;height:7360px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.04 Circles and Their Graphs\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_lesson-11-05-solving-problems-with-circles",
+   "title": "Lesson 11.05 Solving Problems with Circles",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-11/lesson-11-05-solving-problems-with-circles.html\" style=\"width:100%;height:5650px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.05 Solving Problems with Circles\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_module-7-lessons-maps",
+   "title": "Module 7 Lessons Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/teacher-resources/module-7-lessons-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 7 Lessons Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  },
+  {
+   "id": "p_module-8-lesson-maps",
+   "title": "Module 8 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/teacher-resources/module-8-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 8 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  },
+  {
+   "id": "p_module-9-lesson-maps",
+   "title": "Module 9 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/teacher-resources/module-9-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 9 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  },
+  {
+   "id": "p_module-10-lesson-maps",
+   "title": "Module 10 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/teacher-resources/module-10-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 10 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  },
+  {
+   "id": "p_module-11-lesson-maps",
+   "title": "Module 11 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/teacher-resources/module-11-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 11 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a_lesson-7-01-independent-practice",
+   "title": "Lesson 7.01 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-01-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.01 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "6852"
+   },
+   "resource_link_lookup_uuid": "2c67f1ae-e7b1-4e1b-98f5-42fa314eba19",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-02-independent-practice",
+   "title": "Lesson 7.02 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-02-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.02 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "6880"
+   },
+   "resource_link_lookup_uuid": "a59ec79d-4130-4557-ac8a-a7349c81e4ac",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-03-independent-practice",
+   "title": "Lesson 7.03 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-03-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.03 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "6881"
+   },
+   "resource_link_lookup_uuid": "48b6b3b4-cd98-42e3-b078-52b6aa367f5c",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-03b-construction-honors-only",
+   "title": "Lesson 7.03b Construction (Honors Only)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-03b-construction-honors-only.html\" style=\"width:100%;height:2260px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.03b Construction (Honors Only)\" loading=\"lazy\"></iframe></p>",
+   "points": 20.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "rubric": "r_lesson-7-03b-construction-honors-only",
+   "submission_types": "media_recording,online_upload"
+  },
+  {
+   "id": "a_lessons-7-01-7-03-mid-module-check",
+   "title": "Lessons 7.01-7.03 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lessons-7-01-7-03-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 7.01-7.03 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "6882"
+   },
+   "resource_link_lookup_uuid": "03ed6f81-ff30-49ad-ba40-294b50a1ce02",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-04-independent-practice",
+   "title": "Lesson 7.04 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-04-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.04 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "6904"
+   },
+   "resource_link_lookup_uuid": "a5c9139f-3a52-4c9f-9238-0ada20b0be49",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-05-independent-practice",
+   "title": "Lesson 7.05 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-05-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.05 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "6979"
+   },
+   "resource_link_lookup_uuid": "39b3b877-3a77-4042-9e90-98b560bef0bb",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-06-independent-practice",
+   "title": "Lesson 7.06 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-06-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.06 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "6981"
+   },
+   "resource_link_lookup_uuid": "d28b8612-74a3-405c-a6f0-59b5eca87140",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-06b-inscribed-triangle-construction-honors-only",
+   "title": "Lesson 7.06b Inscribed Triangle Construction (Honors Only)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-06b-inscribed-triangle-construction-honors-only.html\" style=\"width:100%;height:2200px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.06b Inscribed Triangle Construction (Honors Only)\" loading=\"lazy\"></iframe></p>",
+   "points": 18.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "rubric": "r_lesson-7-06b-inscribed-triangle-construction-honors-only",
+   "submission_types": "media_recording,online_upload"
+  },
+  {
+   "id": "a_lesson-7-06b-inscribed-quadrilateral-construction-honors-only",
+   "title": "Lesson 7.06b Inscribed Quadrilateral Construction (Honors Only)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-06b-inscribed-quadrilateral-construction-honors-only.html\" style=\"width:100%;height:2230px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.06b Inscribed Quadrilateral Construction (Honors Only)\" loading=\"lazy\"></iframe></p>",
+   "points": 18.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "rubric": "r_lesson-7-06b-inscribed-quadrilateral-construction-honors-only",
+   "submission_types": "media_recording,online_upload"
+  },
+  {
+   "id": "a_lesson-7-06b-inscribed-hexagon-construction-honors-only",
+   "title": "Lesson 7.06b Inscribed Hexagon Construction (Honors Only)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-06b-inscribed-hexagon-construction-honors-only.html\" style=\"width:100%;height:2200px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.06b Inscribed Hexagon Construction (Honors Only)\" loading=\"lazy\"></iframe></p>",
+   "points": 18.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "rubric": "r_lesson-7-06b-inscribed-hexagon-construction-honors-only",
+   "submission_types": "media_recording,online_upload"
+  },
+  {
+   "id": "a_lessons-7-04-7-06-mid-module-check",
+   "title": "Lessons 7.04-7.06 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lessons-7-04-7-06-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 7.04-7.06 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "6982"
+   },
+   "resource_link_lookup_uuid": "662348d3-02e6-414c-8dc1-3665028c2177",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-7-07-circumscribed-circle-construction",
+   "title": "Lesson 7.07 Circumscribed Circle Construction",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-07-circumscribed-circle-construction.html\" style=\"width:100%;height:2540px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.07 Circumscribed Circle Construction\" loading=\"lazy\"></iframe></p>",
+   "points": 18.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "rubric": "r_lesson-7-07-circumscribed-circle-construction",
+   "submission_types": "media_recording,online_upload"
+  },
+  {
+   "id": "a_lesson-7-07-inscribed-circle-construction",
+   "title": "Lesson 7.07 Inscribed Circle Construction",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/lesson-7-07-inscribed-circle-construction.html\" style=\"width:100%;height:2570px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.07 Inscribed Circle Construction\" loading=\"lazy\"></iframe></p>",
+   "points": 18.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "rubric": "r_lesson-7-07-inscribed-circle-construction",
+   "submission_types": "media_recording,online_upload"
+  },
+  {
+   "id": "a_module-7-summative-review",
+   "title": "Module 7 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/module-7-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 7 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "6983"
+   },
+   "resource_link_lookup_uuid": "ffe95aa2-d584-49b3-81e3-5f1b21e4dd21",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-7-summative-assessment",
+   "title": "Module 7 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-7/module-7-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 7 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "6984"
+   },
+   "resource_link_lookup_uuid": "bd555611-4491-4d80-819f-b09470003ff9",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-01a-independent-practice",
+   "title": "Lesson 8.01a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lesson-8-01a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7126"
+   },
+   "resource_link_lookup_uuid": "02390759-e7d5-42d5-b168-460de214d70b",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-01b-independent-practice",
+   "title": "Lesson 8.01b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lesson-8-01b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7127"
+   },
+   "resource_link_lookup_uuid": "6daaac76-2b82-42e5-ad8b-f21ddd27c716",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-02-independent-practice",
+   "title": "Lesson 8.02 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lesson-8-02-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.02 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7128"
+   },
+   "resource_link_lookup_uuid": "37e32920-fb1b-44f8-9045-4872a4f8aa13",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-03-independent-practice",
+   "title": "Lesson 8.03 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lesson-8-03-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.03 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7129"
+   },
+   "resource_link_lookup_uuid": "ce914b1c-0f72-42e4-aab2-f55d7a3e3f5c",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lessons-8-01-8-03-mid-module-check",
+   "title": "Lessons 8.01-8.03 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lessons-8-01-8-03-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 8.01-8.03 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7130"
+   },
+   "resource_link_lookup_uuid": "3d75ed38-9ee1-4290-aa06-6231a65ac863",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-04a-independent-practice",
+   "title": "Lesson 8.04a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lesson-8-04a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.04a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7151"
+   },
+   "resource_link_lookup_uuid": "86ca8e57-69a4-4a3f-98f7-0684537a5fbe",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-04b-independent-practice",
+   "title": "Lesson 8.04b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lesson-8-04b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.04b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7155"
+   },
+   "resource_link_lookup_uuid": "1ad6d5ff-7fcc-4e2c-be43-c400f2d77452",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-05-independent-practice",
+   "title": "Lesson 8.05 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lesson-8-05-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.05 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7157"
+   },
+   "resource_link_lookup_uuid": "4681a1f8-9d11-4f75-8686-fd45de5da1ef",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lessons-8-04-8-05-mid-module-check",
+   "title": "Lessons 8.04-8.05 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lessons-8-04-8-05-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 8.04-8.05 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7158"
+   },
+   "resource_link_lookup_uuid": "9cef2d49-3c33-44bf-8bc9-403c5a21e1d8",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-8-06-independent-practice",
+   "title": "Lesson 8.06 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/lesson-8-06-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.06 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7167"
+   },
+   "resource_link_lookup_uuid": "4eada99c-0f3a-4b3a-ba40-af57e88b2637",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-8-summative-review",
+   "title": "Module 8 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/module-8-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 8 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7168"
+   },
+   "resource_link_lookup_uuid": "d74ca4ef-f8a2-4e66-b0b3-886261c2764a",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-8-summative-assessment",
+   "title": "Module 8 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-8/module-8-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 8 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7169"
+   },
+   "resource_link_lookup_uuid": "d3762a77-0c64-4c32-ad45-d615dbfd4c3c",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-01-independent-practice",
+   "title": "Lesson 9.01 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lesson-9-01-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.01 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7260"
+   },
+   "resource_link_lookup_uuid": "8722024d-98ca-41fe-8995-8f616fa2e2b2",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-02-independent-practice",
+   "title": "Lesson 9.02 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lesson-9-02-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.02 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7261"
+   },
+   "resource_link_lookup_uuid": "ca478bb3-4b56-49c2-9e28-abd259b3bbe3",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-03-independent-practice",
+   "title": "Lesson 9.03 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lesson-9-03-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.03 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7262"
+   },
+   "resource_link_lookup_uuid": "8393fd6a-3215-40f0-9dc8-6fe23aa4d6ff",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lessons-9-01-9-03-mid-module-check",
+   "title": "Lessons 9.01-9.03 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lessons-9-01-9-03-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 9.01-9.03 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7263"
+   },
+   "resource_link_lookup_uuid": "4ba1d6ff-29f7-42bd-bcb9-0d3ec9fa04e3",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-04-independent-practice",
+   "title": "Lesson 9.04 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lesson-9-04-independent-practice.html\" style=\"width:100%;height:1710px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.04 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 70.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "online_upload"
+  },
+  {
+   "id": "a_lesson-9-05-independent-practice",
+   "title": "Lesson 9.05 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lesson-9-05-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.05 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7316"
+   },
+   "resource_link_lookup_uuid": "5784a26d-db7c-4809-91dc-932682111c02",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-06-independent-practice",
+   "title": "Lesson 9.06 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lesson-9-06-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.06 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7317"
+   },
+   "resource_link_lookup_uuid": "923dd699-ee3a-43f9-80f7-cea34447fe3e",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lessons-9-04-9-06-mid-module-check",
+   "title": "Lessons 9.04-9.06 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lessons-9-04-9-06-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 9.04-9.06 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7318"
+   },
+   "resource_link_lookup_uuid": "f31adb8c-0492-454b-9f3b-d41f8a6fba07",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-07-independent-practice",
+   "title": "Lesson 9.07 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lesson-9-07-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.07 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7314"
+   },
+   "resource_link_lookup_uuid": "079d0db5-20f5-47a8-993a-d8c84a3960fe",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-9-08-independent-practice",
+   "title": "Lesson 9.08 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/lesson-9-08-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.08 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7347"
+   },
+   "resource_link_lookup_uuid": "14d29e0c-5592-4d6c-a369-d0e2432197d1",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-9-summative-review",
+   "title": "Module 9 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/module-9-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 9 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7348"
+   },
+   "resource_link_lookup_uuid": "91933b71-862a-4b55-b4cb-c8a57c529c7c",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-9-summative-assessment",
+   "title": "Module 9 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-9/module-9-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 9 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7349"
+   },
+   "resource_link_lookup_uuid": "8c53a30f-6db4-4447-a019-3132cb1f97b6",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_review-of-transformations-2",
+   "title": "Review of Transformations",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/review-of-transformations-2.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Review of Transformations\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_reviews",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7442"
+   },
+   "resource_link_lookup_uuid": "af462c34-3c00-45d5-b06e-81d5cef8807b",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-10-01-independent-practice",
+   "title": "Lesson 10.01 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/lesson-10-01-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.01 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7444"
+   },
+   "resource_link_lookup_uuid": "a7986e73-1627-4106-bb1e-157dfdebbdb4",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-10-02-independent-practice",
+   "title": "Lesson 10.02 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/lesson-10-02-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.02 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7445"
+   },
+   "resource_link_lookup_uuid": "2162be68-6aac-48ad-802a-3f81df7c86f8",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-10-03-independent-practice",
+   "title": "Lesson 10.03 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/lesson-10-03-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.03 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7449"
+   },
+   "resource_link_lookup_uuid": "b9879a66-f4de-44e9-b352-c416323dfa01",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lessons-10-01-10-03-mid-module-check",
+   "title": "Lessons 10.01-10.03 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/lessons-10-01-10-03-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 10.01-10.03 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7450"
+   },
+   "resource_link_lookup_uuid": "310fb49f-63ec-4476-aa77-0e86a089a55a",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-10-04-independent-practice",
+   "title": "Lesson 10.04 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/lesson-10-04-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.04 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7493"
+   },
+   "resource_link_lookup_uuid": "b89f4935-18e2-4bda-809f-b3085909942f",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-10-05-independent-practice",
+   "title": "Lesson 10.05 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/lesson-10-05-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.05 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7495"
+   },
+   "resource_link_lookup_uuid": "807c8751-4d51-4a47-bba8-c2d8ecd03e20",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-10-06-independent-practice",
+   "title": "Lesson 10.06 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/lesson-10-06-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.06 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7496"
+   },
+   "resource_link_lookup_uuid": "a670ad9f-63ff-4d46-9494-d6e58ad1f58d",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-10-07-tesselation-honors-only",
+   "title": "Lesson 10.07 Tesselation (Honors Only)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/lesson-10-07-tesselation-honors-only.html\" style=\"width:100%;height:5210px;border:none;\" allowfullscreen=\"\" title=\"Lesson 10.07 Tesselation (Honors Only)\" loading=\"lazy\"></iframe></p>",
+   "points": 20.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "rubric": "r_lesson-10-07-tesselation-honors-only",
+   "submission_types": "online_text_entry,online_url,online_upload"
+  },
+  {
+   "id": "a_module-10-summative-review",
+   "title": "Module 10 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/module-10-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 10 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7497"
+   },
+   "resource_link_lookup_uuid": "914002c9-df47-4af4-8029-05de5465e254",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-10-summative-assessment",
+   "title": "Module 10 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-10/module-10-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 10 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7498"
+   },
+   "resource_link_lookup_uuid": "e5e93014-bcce-4aa5-bd10-bc6f24557c6e",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-11-01-independent-practice",
+   "title": "Lesson 11.01 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-11/lesson-11-01-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.01 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7591"
+   },
+   "resource_link_lookup_uuid": "599b25f5-32df-4f3f-8042-952fdf94a7bd",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-11-02-independent-practice",
+   "title": "Lesson 11.02 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-11/lesson-11-02-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.02 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9937"
+   },
+   "resource_link_lookup_uuid": "b08b01ad-d600-4054-86a8-0be209a88951",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lessons-11-01-11-02-mid-module-check",
+   "title": "Lessons 11.01-11.02 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-11/lessons-11-01-11-02-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 11.01-11.02 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9938"
+   },
+   "resource_link_lookup_uuid": "d4bbffc0-9340-4d76-b833-b3c028a613bd",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-11-03-independent-practice",
+   "title": "Lesson 11.03 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-11/lesson-11-03-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.03 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7593"
+   },
+   "resource_link_lookup_uuid": "879d529c-908e-48ca-ab88-dec3321fb2b6",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-11-04-independent-practice",
+   "title": "Lesson 11.04 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-11/lesson-11-04-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.04 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7597"
+   },
+   "resource_link_lookup_uuid": "d79f954a-0d88-449b-9375-16d7e4d978bc",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_lesson-11-05-independent-practice",
+   "title": "Lesson 11.05 Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-11/lesson-11-05-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 11.05 Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7600"
+   },
+   "resource_link_lookup_uuid": "d5c3486a-0a70-44d8-a9f1-79429a577268",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-11-summative-review",
+   "title": "Module 11 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-11/module-11-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 11 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "7601"
+   },
+   "resource_link_lookup_uuid": "bdd0f466-852a-4a12-b5a5-9189b3a508cb",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  },
+  {
+   "id": "a_module-11-summative-assessment",
+   "title": "Module 11 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-geometry-honors/s2/module-11/module-11-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 11 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "9939"
+   },
+   "resource_link_lookup_uuid": "d627267c-b2fc-4f0c-9e92-b9db48636380",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions."
+  }
+ ],
+ "modules": [
+  {
+   "id": "m_7",
+   "title": "Module 7 - Circles",
+   "published": true,
+   "items": [
+    {
+     "type": "header",
+     "title": "Module 7 Resources",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-7-vocabulary",
+     "title": "Module 7 Vocabulary",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_module-7-postulates-and-theorems",
+     "title": "Module 7 Postulates and Theorems",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Parts of Circles",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-01-parts-of-a-circle",
+     "title": "Lesson 7.01 Parts of a Circle",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-01-independent-practice",
+     "title": "Lesson 7.01 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Lines and Segments in Circles",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-02-radii-chords-and-tangents",
+     "title": "Lesson 7.02 Radii, Chords, and Tangents",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-02-independent-practice",
+     "title": "Lesson 7.02 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-03-secants-and-tangents",
+     "title": "Lesson 7.03 Secants and Tangents",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-03-independent-practice",
+     "title": "Lesson 7.03 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-03b-constructing-a-tangent-honors-only",
+     "title": "Lesson 7.03b Constructing a Tangent (Honors Only)",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-03b-construction-honors-only",
+     "title": "Lesson 7.03b Construction (Honors Only)",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-7-01-7-03-mid-module-check",
+     "title": "Lessons 7.01-7.03 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Angles and Arcs in Circles",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-04-arcs-central-angles-and-inscribed-angles",
+     "title": "Lesson 7.04 Arcs, Central Angles, and Inscribed Angles",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-04-independent-practice",
+     "title": "Lesson 7.04 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-05-angle-relationships-in-circles",
+     "title": "Lesson 7.05 Angle Relationships in Circles",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-05-independent-practice",
+     "title": "Lesson 7.05 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Inscribed Polygons",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-06-inscribed-triangles-and-quadrilaterals",
+     "title": "Lesson 7.06 Inscribed Triangles and Quadrilaterals",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-06-independent-practice",
+     "title": "Lesson 7.06 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-06b-constructing-inscribed-polygons-honors-only",
+     "title": "Lesson 7.06b Constructing Inscribed Polygons (Honors Only)",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-06b-inscribed-triangle-construction-honors-only",
+     "title": "Lesson 7.06b Inscribed Triangle Construction (Honors Only)",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-06b-inscribed-quadrilateral-construction-honors-only",
+     "title": "Lesson 7.06b Inscribed Quadrilateral Construction (Honors Only)",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-06b-inscribed-hexagon-construction-honors-only",
+     "title": "Lesson 7.06b Inscribed Hexagon Construction (Honors Only)",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-7-04-7-06-mid-module-check",
+     "title": "Lessons 7.04-7.06 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-7-07-constructing-inscribed-and-circumscribed-circles-of-triangles",
+     "title": "Lesson 7.07 Constructing Inscribed and Circumscribed Circles of Triangles",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-07-circumscribed-circle-construction",
+     "title": "Lesson 7.07 Circumscribed Circle Construction",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-7-07-inscribed-circle-construction",
+     "title": "Lesson 7.07 Inscribed Circle Construction",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Module Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-7-summative-review",
+     "title": "Module 7 Summative Review",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-7-summative-assessment",
+     "title": "Module 7 Summative Assessment",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "id": "m_8",
+   "title": "Module 8 - Geometric Measurement",
+   "published": true,
+   "items": [
+    {
+     "type": "header",
+     "title": "Module 8 Resources",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-8-vocabulary",
+     "title": "Module 8 Vocabulary",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_module-8-postulates-and-theorems",
+     "title": "Module 8 Postulates and Theorems",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Area",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-01a-area-of-triangles-quadrilaterals-and-circles",
+     "title": "Lesson 8.01a Area of Triangles, Quadrilaterals, and Circles",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-01a-independent-practice",
+     "title": "Lesson 8.01a Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-01b-area-of-polygons-and-composite-figures",
+     "title": "Lesson 8.01b Area of Polygons and Composite Figures",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-01b-independent-practice",
+     "title": "Lesson 8.01b Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Arc Length and Sector Area",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-02-arc-length",
+     "title": "Lesson 8.02 Arc Length",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-02-independent-practice",
+     "title": "Lesson 8.02 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-03-area-of-a-sector",
+     "title": "Lesson 8.03 Area of a Sector",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-03-independent-practice",
+     "title": "Lesson 8.03 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-8-01-8-03-mid-module-check",
+     "title": "Lessons 8.01-8.03 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Surface Area and Volume",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-04a-surface-area-of-prisms-and-pyramids",
+     "title": "Lesson 8.04a Surface Area of Prisms and Pyramids",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-04a-independent-practice",
+     "title": "Lesson 8.04a Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-04b-surface-area-of-cylinders-cones-and-spheres",
+     "title": "Lesson 8.04b Surface Area of Cylinders, Cones, and Spheres",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-04b-independent-practice",
+     "title": "Lesson 8.04b Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-05-volume",
+     "title": "Lesson 8.05 Volume",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-05-independent-practice",
+     "title": "Lesson 8.05 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-8-04-8-05-mid-module-check",
+     "title": "Lessons 8.04-8.05 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Scale Factors",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-8-06-scale-factors-in-area-surface-area-and-volume",
+     "title": "Lesson 8.06 Scale Factors in Area, Surface Area, and Volume",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-8-06-independent-practice",
+     "title": "Lesson 8.06 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Module Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-8-summative-review",
+     "title": "Module 8 Summative Review",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-8-summative-assessment",
+     "title": "Module 8 Summative Assessment",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "id": "m_9",
+   "title": "Module 9 - Coordinate Geometry",
+   "published": true,
+   "items": [
+    {
+     "type": "header",
+     "title": "Module 9 Resources",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-9-vocabulary",
+     "title": "Module 9 Vocabulary",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_module-9-properties-postulates-theorems-and-formulas",
+     "title": "Module 9 Properties, Postulates, Theorems, and Formulas",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Line Segments in the Coordinate Plane",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-01-distance",
+     "title": "Lesson 9.01 Distance",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-01-independent-practice",
+     "title": "Lesson 9.01 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-02-midpoints",
+     "title": "Lesson 9.02 Midpoints",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-02-independent-practice",
+     "title": "Lesson 9.02 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-03-partitioning",
+     "title": "Lesson 9.03 Partitioning",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-03-independent-practice",
+     "title": "Lesson 9.03 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-9-01-9-03-mid-module-check",
+     "title": "Lessons 9.01-9.03 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Triangles, Quadrilaterals, and Circles in the Coordinate Plane",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-04-classifying-triangles-in-the-coordinate-plane",
+     "title": "Lesson 9.04 Classifying Triangles in the Coordinate Plane",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-04-independent-practice",
+     "title": "Lesson 9.04 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-05-quadrilaterals-in-the-coordinate-plane",
+     "title": "Lesson 9.05 Quadrilaterals in the Coordinate Plane",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-05-independent-practice",
+     "title": "Lesson 9.05 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-06-circles-and-tangent-lines",
+     "title": "Lesson 9.06 Circles and Tangent Lines",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-06-independent-practice",
+     "title": "Lesson 9.06 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-9-04-9-06-mid-module-check",
+     "title": "Lessons 9.04-9.06 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Geometric Measurements in the Coordinate Plane",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-07-medians-centroids-and-midsegments",
+     "title": "Lesson 9.07 Medians, Centroids, and Midsegments",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-07-independent-practice",
+     "title": "Lesson 9.07 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-9-08-area-and-perimeter",
+     "title": "Lesson 9.08 Area and Perimeter",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-9-08-independent-practice",
+     "title": "Lesson 9.08 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Module Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-9-summative-review",
+     "title": "Module 9 Summative Review",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-9-summative-assessment",
+     "title": "Module 9 Summative Assessment",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "id": "m_10",
+   "title": "Module 10 - Transformations",
+   "published": true,
+   "items": [
+    {
+     "type": "header",
+     "title": "Module 10 Resources",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-10-vocabulary",
+     "title": "Module 10 Vocabulary",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_module-10-properties-postulates-theorems-and-formulas",
+     "title": "Module 10 Properties, Postulates, Theorems, and Formulas",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Transformations",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_review-of-transformations",
+     "title": "Review of Transformations",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_review-of-transformations-2",
+     "title": "Review of Transformations",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-10-01-sequences-of-transformations",
+     "title": "Lesson 10.01 Sequences of Transformations",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-10-01-independent-practice",
+     "title": "Lesson 10.01 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Transformations in the Coordinate Plane",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-10-02-reflections-and-rotations",
+     "title": "Lesson 10.02 Reflections and Rotations",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-10-02-independent-practice",
+     "title": "Lesson 10.02 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-10-03-translations",
+     "title": "Lesson 10.03 Translations",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-10-03-independent-practice",
+     "title": "Lesson 10.03 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-10-01-10-03-mid-module-check",
+     "title": "Lessons 10.01-10.03 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-10-04-dilations",
+     "title": "Lesson 10.04 Dilations",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-10-04-independent-practice",
+     "title": "Lesson 10.04 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Sequences of Transformations in the Coordinate Plane",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-10-05-identifying-sequences-of-transformations",
+     "title": "Lesson 10.05 Identifying Sequences of Transformations",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-10-05-independent-practice",
+     "title": "Lesson 10.05 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-10-06-drawing-sequences-of-transformations",
+     "title": "Lesson 10.06 Drawing Sequences of Transformations",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-10-06-independent-practice",
+     "title": "Lesson 10.06 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-10-07-symmetries-of-reflections-rotations-and-translations-honors-only",
+     "title": "Lesson 10.07 Symmetries of Reflections, Rotations, and Translations (Honors Only)",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-10-07-tesselation-honors-only",
+     "title": "Lesson 10.07 Tesselation (Honors Only)",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Module Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-10-summative-review",
+     "title": "Module 10 Summative Review",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-10-summative-assessment",
+     "title": "Module 10 Summative Assessment",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "id": "m_11",
+   "title": "Module 11 - Advanced Geometric Applications",
+   "published": true,
+   "items": [
+    {
+     "type": "header",
+     "title": "Module 11 Resources",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-11-vocabulary",
+     "title": "Module 11 Vocabulary",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_module-11-properties-postulates-theorems-and-formulas",
+     "title": "Module 11 Properties, Postulates, Theorems, and Formulas",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Creations with 2D and 3D Figures",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-11-01-identifying-cross-sections",
+     "title": "Lesson 11.01 Identifying Cross-Sections",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-11-01-independent-practice",
+     "title": "Lesson 11.01 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-11-02-rotations-of-2d-solids",
+     "title": "Lesson 11.02 Rotations of 2D Solids",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-11-02-independent-practice",
+     "title": "Lesson 11.02 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Lessons 11.01-11.02 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lessons-11-01-11-02-mid-module-check",
+     "title": "Lessons 11.01-11.02 Mid-Module Check",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Circles on the Coordinate Plane",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-11-03-writing-equations-of-circles",
+     "title": "Lesson 11.03 Writing Equations of Circles",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-11-03-independent-practice",
+     "title": "Lesson 11.03 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-11-04-circles-and-their-graphs",
+     "title": "Lesson 11.04 Circles and Their Graphs",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-11-04-independent-practice",
+     "title": "Lesson 11.04 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-11-05-solving-problems-with-circles",
+     "title": "Lesson 11.05 Solving Problems with Circles",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_lesson-11-05-independent-practice",
+     "title": "Lesson 11.05 Independent Practice",
+     "indent": 1
+    },
+    {
+     "type": "header",
+     "title": "Module Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-11-summative-review",
+     "title": "Module 11 Summative Review",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "a_module-11-summative-assessment",
+     "title": "Module 11 Summative Assessment",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "id": "m_teacher",
+   "title": "Teacher Resources",
+   "published": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_module-7-lessons-maps",
+     "title": "Module 7 Lessons Maps",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-8-lesson-maps",
+     "title": "Module 8 Lesson Maps",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-9-lesson-maps",
+     "title": "Module 9 Lesson Maps",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-10-lesson-maps",
+     "title": "Module 10 Lesson Maps",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "p_module-11-lesson-maps",
+     "title": "Module 11 Lesson Maps",
+     "indent": 0
+    }
+   ]
+  }
+ ],
+ "files": [
+  {
+   "path": "course-materials/syllabus.pdf",
+   "src": "files/course-materials/syllabus.pdf"
+  },
+  {
+   "path": "teacher-resources/teacher-manual.pdf",
+   "src": "files/teacher-resources/teacher-manual.pdf"
+  }
+ ],
+ "source": {
+  "note": "Built 2026-10-23 from the reformatted Geometry course (HSGeometryHonors/02_Design Q3-Q4 Module Formatted folders; Module 9 is split across the two quarters in the formatted set and is one module here). Module and item titles, order, sub-headers, points, grading types, submission types and Wiris LTI links (quiz id + lookup uuid) were read from the product master copy export (10th-grade-geometry-product-master-copy-export.imscc): the course was never deployed to Canvas the old way and has no Module Maps in the formatted set, so the export is the naming authority. This is the Honors course (1206320), so items marked Honors Only are included. The five Module Lesson Maps pages are in an unpublished Teacher Resources module. The export's teacher bucket also holds rubric and answer-key pages for the construction assignments; the answer keys were never formatted or published and are not in this kit. The six construction rubrics (Lessons 7.03b, 7.06b x3, 7.07 x2) are native Canvas rubrics converted word for word from those rubric pages (three criteria on a 0-3 scale, total 9), with points scaled to the assignment: doubled for the 18-point assignments, and weighted 7/7/6 for Lesson 7.03b (20 points). The Lesson 10.07 Tessellation assignment has no rubric in the source; its rubric was written on 2026-10-23 from the assignment's own requirements and scoring note. Lesson 9.04 Independent Practice (70 points, 14 points for each of five triangles per its own scoring summary) has a rubric page in the export that grades one triangle, which a single Canvas rubric cannot express, so it carries no native rubric. Lessons and assignment pages are on https://optimaondemand.github.io/hs-geometry-honors and the twelve lesson videos on https://optimaondemand.github.io/hs-geometry-honors-videos. Gradebook groups and weights (40/40/20) from the course owner; construction and project assignments count in Practice & Checks, and Review of Transformations in Reviews & VR; the course's teacher manual recommends four groups (45/20/25/10). The bundled syllabus is a PDF rendered from the course's HTML; the teacher manual is the course's PDF. No week pacing exists in the course files, so no item carries a week."
+ }
+}
