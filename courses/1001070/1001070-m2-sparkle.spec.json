@@ -1,0 +1,1893 @@
+{
+ "course": {
+  "title": "M/J Language Arts 3 · Out of the Silent Planet (Sparkle)",
+  "code": "1001070",
+  "default_view": "wiki",
+  "weighted": false
+ },
+ "assignment_groups": [
+  {
+   "id": "os_ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "os_r_w1_work",
+   "title": "Week 1 Work Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Chapter thinking",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "All chapter answers in Lessons 1 and 2 are complete sentences with a specific detail from the chapters.",
+       "points": 6.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The Rise and Not the Moon",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Cast matched; the room sorted with a real inference; every overheard line placed; all seven Not-the-Moon moments placed with at least one “Lewis never says.”",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Copywork",
+     "long_description": "",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "One sentence copied exactly, punctuation and all, with a sentence on what one mark does.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Weigh the Claims",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "All seven pieces hang with a word; the assumption is chosen; the verdict names a reason.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Quick Write 1: detail and gap",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Names at least two chosen details and one gap from Chapters 3 and 4 in the student’s own words; 5 to 7 sentences.",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Quick Write 1: reasoning and grammar",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Explains what each detail and gap does to the reader; one correct object complement sentence; before-and-after shown.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "First Contact Pitch",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Who, what, where, one sensory detail, and the closing question sentence.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "os_r_w2_work",
+   "title": "Week 2 Work Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Chapter thinking",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "All six chapter answers in Lessons 1 and 2 are complete sentences with a specific detail from Chapters 5 to 8.",
+       "points": 6.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The Ship’s Log and the Specimen Plates",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Log: seven moods set, mood words tapped, the narrator’s tone named, and a typed answer on how the mood really moves. Plates: seven plates stamped and a typed answer on what Ransom had to know before he could see.",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Copywork",
+     "long_description": "",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "One sentence from Chapter 5 or 6 copied exactly, punctuation and all, with a sentence on what one mark does.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The Case of Devine",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Eight pieces filed with a remark; a clear position; evidence with the chapter named; the strongest objection stated fairly and answered.",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Quick Write 2: the imitation",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The student’s own scene (no copied wording); senses in Lewis’s order; at least two concrete details; the feeling shown and turning where his turns; 150 to 250 words.",
+       "points": 6.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Quick Write 2: the move and the joins",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Closing sentence names the borrowed move; at least one correct compound sentence (comma and FANBOYS, or a semicolon); no comma splices; the before-and-after sentence shows a join or splice fix.",
+       "points": 6.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "os_r_w3_work",
+   "title": "Week 3 Work Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Chapter thinking",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "All six chapter answers in Lessons 1 and 2 are complete sentences with a specific detail from Chapters 9 to 12.",
+       "points": 6.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Field Notes and the Lexicon",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Captions sorted; four loaded phrases found; first words matched and Malacandra built; ten cards filed; four guesses stamped; bent answered; both typed inferences give a reason from the text.",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Copywork and memory work",
+     "long_description": "",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "One sentence from Chapter 9 or 10 copied exactly, with one phrase named and what it adds; the Chapter 11 hnau passage copied and the memory box checked.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Transactions",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Nine specimens labelled; two explained; a claim for the specimen that makes Malacandra most real, with a reason, and an answered objection; a telescope paragraph that avoids our names and reasons.",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Quick Write 3: the world",
+     "long_description": "",
+     "points": 3.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Plan complete: world, five or six details across at least three senses, mood, whose eyes the reader borrows.",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Quick Write 3: the opening",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "150 to 250 words; builds the world through specific sensory description; the student’s own world.",
+       "points": 6.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Phrases and word choice in own writing",
+     "long_description": "",
+     "points": 3.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "One prepositional or appositive phrase and one participial phrase, correctly punctuated and not dangling, plus one connotation word, all three marked; the before-and-after sentence shows a real fix.",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "os_r_w4_work",
+   "title": "Week 4 Work Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Chapter thinking",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "All six chapter answers in Lessons 1 and 2 are complete sentences with a specific detail from Chapters 13 to 16.",
+       "points": 6.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The Climb and On Augray’s Shoulder",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Climb: nine notes placed with their senses, six mood words, a typed answer with a reason. Shoulder: five stops in order, the dial set twice, twelve statements sorted, two typed answers.",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Copywork",
+     "long_description": "",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "One sentence from Chapter 13 or 14 copied exactly, punctuation and all, with a sentence on what one mark does.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The Silent Planet case",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "A clear claim; two pinned clues with how they prove it; the strongest objection named fairly and answered; what Lewis still holds back.",
+       "points": 6.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Story draft",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "A complete first-contact story (beginning, first meeting, ending), about 500 to 800 words, with three sense details in the opening, a wrong first assumption, and one thing held back.",
+       "points": 6.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Gerunds and infinitives in own writing",
+     "long_description": "",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The two Grammar Lab sentences are correct; the draft uses at least one gerund phrase and one infinitive phrase.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Read aloud and revise",
+     "long_description": "",
+     "points": 3.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Opening read aloud (checkbox); one paragraph clearly revised; before-and-after shown; a one or two sentence revision note.",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "os_r_w5_work",
+   "title": "Week 5 Work Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Chapter thinking",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "All six chapter answers in Lessons 1 and 2 are complete sentences with a specific detail from Chapters 17 to 20.",
+       "points": 6.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The Island Plan and In Translation",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Island: seven moments placed on the route, five carvings matched, a typed answer that uses the Oyarsa’s story. Translation: four pairs pinned, each tagged with a word, the three questions ordered, the conclusion chosen, the typed answer.",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Copywork and memory work",
+     "long_description": "",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "One sentence the Oyarsa speaks in Chapter 18 copied exactly, with a sentence on what one mark or sound does; the judgment passage copied from the student’s own book and the recite box ticked.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Spotting the reasoning",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Eight cards sorted; two repairs chosen; nine evidence cards on the bench, each with a word.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Is humanity bent?",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "A clear position; one moment from Chapters 17 to 20 with its chapter and why it matters; the strongest objection stated fairly and answered.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Story Ladder 5: precision",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Blueprint filled with two or three named gaps; two or three before-and-after passages, each clearly more exact (a size, colour, light or sound a reader can picture).",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Story Ladder 5: clauses and reflection",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "At least one correct adjective clause and one correct opening dependent clause in the rewrites; no clause fragments; the closing sentence says what changed; before-and-after sentence shown.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "os_r_w6_work",
+   "title": "Week 6 Work Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Chapter thinking",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "All five chapter answers (three in Lesson 1, two in Lesson 2) are complete sentences with a specific detail from Chapters 20 to 22 or the Postscript.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The Control Board and the Letter",
+     "long_description": "",
+     "points": 3.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Board: eight entries placed, decoys left out, a gauge word on each, and the cure answer points to an entry; mask sort with the Chapter 22 answer. Letter: six pairs matched with a reasoned sentence.",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Set the Scene and the traveler’s letter",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Scene card complete (scale, sound, smell, touch, the being); one real mismatch found and fixed with a before and after; the traveler’s letter has a date, greeting, specific complaint, request, closing and signature.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Story Ladder 6: plan, edit, polish",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Revision goal names a place and a change; the editing pass shows a fixed run-on or splice and an adverb-clause join (before and after); a final before and after.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Adverb clauses in the student’s own writing",
+     "long_description": "",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Step 4: one opening clause with its comma and one closing clause, both complete sentences; dictation punctuated.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The Preface",
+     "long_description": "",
+     "points": 3.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "My world (setting and proudest sensory detail); a claim on the module question; two evidence cards explained; the \"In my story\" sentence; an objection answered.",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "os_r_forum1",
+   "title": "All-Class Forum 1: Who Is Responsible for Hyoi? Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Position and evidence",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Takes a side in the first sentence, names a specific moment in the text, and answers the strongest objection to that side.",
+       "points": 10.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Answers partly, or the evidence is general rather than a named moment.",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "No initial post.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Intent against responsibility",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Holds the two apart: says what Ransom meant, says what he is answerable for, and does not collapse one into the other.",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Treats good intentions as settling the question, or ignores intent entirely.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Does not engage this part of the question.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Reasoning about a reason",
+     "long_description": "",
+     "points": 3.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Names what is actually wrong with the reason, not just that it is weak.",
+       "points": 3.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Identifies the reason as bad without saying what is wrong with it.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Step skipped.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Two replies",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Both replies engage a classmate's actual reasoning by adding, challenging, or asking.",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "One substantive reply, or two thin ones.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "No replies.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Conduct and writing",
+     "long_description": "",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Complete sentences, on topic, courteous.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Off topic or discourteous.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "os_r_forum2",
+   "title": "All-Class Forum 2: Weston in Translation Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Position and evidence",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Takes a side in the first sentence, names a specific moment in the text, and answers the strongest objection to that side.",
+       "points": 10.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Answers partly, or the evidence is general rather than a named moment.",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "No initial post.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "What the translation does",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Names something specific that changed in translation and says both what is lost and what is revealed.",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Names a change but handles only the loss or only the exposure.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Does not engage this part of the question.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Reasoning about a reason",
+     "long_description": "",
+     "points": 3.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Names what is actually wrong with the reason, not just that it is weak.",
+       "points": 3.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Identifies the reason as bad without saying what is wrong with it.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Step skipped.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Two replies",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Both replies engage a classmate's actual reasoning by adding, challenging, or asking.",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "One substantive reply, or two thin ones.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "No replies.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Conduct and writing",
+     "long_description": "",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Complete sentences, on topic, courteous.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Off topic or discourteous.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "os_r_rr1",
+   "title": "Recorded Reading & Reflection 1 Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Set-up and context",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Names where the passage comes from, and says accurately what happens just before it.",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Location named, but the set-up is vague or describes the wrong moment.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "No set-up.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Accuracy of reading",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Reads the passage as written. Unfamiliar words and names are attempted and clear.",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Frequent misreadings, or lines skipped.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Passage not read, or far under length.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Pace, volume, and expression",
+     "long_description": "",
+     "points": 8.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Steady pace a listener can follow. Audible throughout. Phrasing and emphasis match what the sentence means.",
+       "points": 8.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Rushed, flat, or hard to hear in places.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Inaudible or unintelligible.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The response",
+     "long_description": "",
+     "points": 7.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Completes the chosen response and points at something specific in the passage just read, not at the story in general.",
+       "points": 7.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Starts the response but stays general, or answers only part of it.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "No response after the reading.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "os_r_rr2",
+   "title": "Recorded Reading & Reflection 2 Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Set-up and context",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Names where the passage comes from, and says accurately what happens just before it.",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Location named, but the set-up is vague or describes the wrong moment.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "No set-up.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Accuracy of reading",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Reads the passage as written. Unfamiliar words and names are attempted and clear.",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Frequent misreadings, or lines skipped.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Passage not read, or far under length.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Pace, volume, and expression",
+     "long_description": "",
+     "points": 8.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Steady pace a listener can follow. Audible throughout. Phrasing and emphasis match what the sentence means.",
+       "points": 8.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Rushed, flat, or hard to hear in places.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Inaudible or unintelligible.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The response",
+     "long_description": "",
+     "points": 7.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Completes the chosen response and points at something specific in the passage just read, not at the story in general.",
+       "points": 7.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Starts the response but stays general, or answers only part of it.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "No response after the reading.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "os_r_ir_check_q2",
+   "title": "Independent Reading Check (1)",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Evidence of actual reading",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Specific details only a reader would know.",
+       "points": 6.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Accurate but general enough to come from a summary.",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "No evidence of reading.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Understanding of character",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Explains what a character wants and why they act as they do, in the student's own words.",
+       "points": 6.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Names a character but describes plot instead of motive.",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Not addressed.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Oral delivery",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Clear, audible, well paced; faces the audience; not read off a script.",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Understandable but flat or script-bound.",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Cannot be understood.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Reading log",
+     "long_description": "",
+     "points": 3.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Entries spread across the quarter.",
+       "points": 3.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Log present but thin or clustered on one date.",
+       "points": 1.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "No log.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "os_p_w1_l1",
+   "title": "A Promise at The Rise (Week 1)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w1-lesson1-the-rise.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w1_l2",
+   "title": "It's the Earth (Week 1)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w1-lesson2-its-the-earth.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w1_l3",
+   "title": "The Writer's Observatory (Week 1)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w1-lesson3-writers-observatory.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w1_l4",
+   "title": "Small Claims and Great (Week 1)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w1-lesson4-small-claims.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w2_l1",
+   "title": "The Heavens (Week 2)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w2-lesson1-the-heavens.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w2_l2",
+   "title": "A Watercolour World (Week 2)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w2-lesson2-watercolour-world.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w2_l3",
+   "title": "The Writer's Observatory (Week 2)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w2-lesson3-writers-observatory.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w2_l4",
+   "title": "The Old School Tie (Week 2)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w2-lesson4-old-school-tie.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w3_l1",
+   "title": "It Had Language (Week 3)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w3-lesson1-it-had-language.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w3_l2",
+   "title": "Why Silent? (Week 3)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w3-lesson2-why-silent.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w3_l3",
+   "title": "The Writer's Observatory (Week 3)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w3-lesson3-writers-observatory.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w3_l4",
+   "title": "Through Other Eyes (Week 3)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w3-lesson4-other-eyes.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w4_l1",
+   "title": "The Edge of the Air (Week 4)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w4-lesson1-edge-of-the-air.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w4_l2",
+   "title": "On Augray's Shoulder (Week 4)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w4-lesson2-augrays-shoulder.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w4_l3",
+   "title": "The Writer's Observatory (Week 4)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w4-lesson3-writers-observatory.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w4_l4",
+   "title": "The Silent Planet (Week 4)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w4-lesson4-silent-planet.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w5_l1",
+   "title": "The Island Looks Back (Week 5)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w5-lesson1-the-island-looks-back.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w5_l2",
+   "title": "With Malacandrian Eyes (Week 5)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w5-lesson2-malacandrian-eyes.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w5_l3",
+   "title": "The Writer's Observatory (Week 5)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w5-lesson3-writers-observatory.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w5_l4",
+   "title": "Bent, Not Broken (Week 5)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w5-lesson4-bent-not-broken.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w6_l1",
+   "title": "Only Mars (Week 6)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w6-lesson1-only-mars.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w6_l2",
+   "title": "A Mere Story (Week 6)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w6-lesson2-a-mere-story.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w6_l3",
+   "title": "The Writer's Observatory (Week 6)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w6-lesson3-writers-observatory.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "os_p_w6_l4",
+   "title": "From Space to Heaven (Week 6)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/w6-lesson4-space-to-heaven.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "id": "os_a_w1_work",
+   "title": "Week 1 Work",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#141838;border-bottom:5px solid #A88A3D;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 1 Work</span><div style=\"color:#9C93D1;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">8th Grade ELA &middot; Module 2 &middot; Week 1</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">30 points</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">1 PDF</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Up to 4 files</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Due end of Week 1</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">This week</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:separate;border-spacing:0;width:100%;margin:4px 0 0 0;\"><tbody><tr><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">1</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">A Promise at The Rise</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">2</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">It&rsquo;s the Earth</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">3</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">The Writer&rsquo;s Observatory</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">4</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">Small Claims and Great</div></td></tr></tbody></table><div style=\"text-align:center;color:#A88A3D;font-size:30px;line-height:1.1;margin:6px 0;\">&#8595;</div><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:46%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#A88A3D;line-height:1.5;\">DO</div><div style=\"font-size:21px;color:#141838;line-height:1.3;margin-top:5px;\">Week 1 PDF</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.55;margin-top:6px;\">Lesson 4, Turn In</div></td><td style=\"width:8%;text-align:center;vertical-align:middle;color:#A88A3D;font-size:34px;line-height:1;\">&#8594;</td><td style=\"width:46%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#A88A3D;line-height:1.5;\">TURN IN</div><div style=\"font-size:21px;color:#141838;line-height:1.3;margin-top:5px;\">Upload</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.55;margin-top:6px;\">Week 1 Work</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Quick Write 1: A Writer&rsquo;s Eye</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#141838;border-left:9px solid #A88A3D;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">Two details Lewis chooses in Chapters 3 and 4, one thing he leaves unexplained, and what each one does to you as a reader.</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">5 to 7 sentences</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Your own words</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">One object complement</span></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Lessons 1 to 4 show &#10003;, or I attached that lesson&rsquo;s PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Two details and one gap, in my own words</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">My before-and-after sentence is in the PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">I uploaded the PDF to Week 1 Work</td></tr></tbody></table>",
+   "points": 30.0,
+   "group": "os_ag_assignments",
+   "rubric": "os_r_w1_work",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 11,
+   "kind": "quick-write"
+  },
+  {
+   "id": "os_a_w2_work",
+   "title": "Week 2 Work",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#141838;border-bottom:5px solid #A88A3D;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 2 Work</span><div style=\"color:#9C93D1;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">8th Grade ELA &middot; Module 2 &middot; Week 2</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">30 points</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">1 PDF</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Up to 4 files</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Due end of Week 2</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">This week</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:separate;border-spacing:0;width:100%;margin:4px 0 0 0;\"><tbody><tr><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">1</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">The Heavens</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">2</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">A Watercolour World</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">3</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">The Writer&rsquo;s Observatory</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">4</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">The Old School Tie</div></td></tr></tbody></table><div style=\"text-align:center;color:#A88A3D;font-size:30px;line-height:1.1;margin:6px 0;\">&#8595;</div><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:46%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#A88A3D;line-height:1.5;\">DO</div><div style=\"font-size:21px;color:#141838;line-height:1.3;margin-top:5px;\">Week 2 PDF</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.55;margin-top:6px;\">Lesson 4, Turn In</div></td><td style=\"width:8%;text-align:center;vertical-align:middle;color:#A88A3D;font-size:34px;line-height:1;\">&#8594;</td><td style=\"width:46%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#A88A3D;line-height:1.5;\">TURN IN</div><div style=\"font-size:21px;color:#141838;line-height:1.3;margin-top:5px;\">Upload</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.55;margin-top:6px;\">Week 2 Work</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Quick Write 2: Imitate a Master</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#141838;border-left:9px solid #A88A3D;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">Pick one short description in Chapters 5 to 8. Write a scene of your own with Lewis&rsquo;s moves: the senses in his order, concrete details, a feeling that turns where his turns.</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">150 to 250 words</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Your own scene</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Comma + FANBOYS</span></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Lessons 1 to 4 show &#10003;, or I attached that lesson&rsquo;s PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">My scene is my own: no copied wording</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">My last sentence names the move I borrowed</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">I uploaded the PDF to Week 2 Work</td></tr></tbody></table>",
+   "points": 30.0,
+   "group": "os_ag_assignments",
+   "rubric": "os_r_w2_work",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 12,
+   "kind": "quick-write"
+  },
+  {
+   "id": "os_a_w3_work",
+   "title": "Week 3 Work",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#141838;border-bottom:5px solid #A88A3D;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 3 Work</span><div style=\"color:#9C93D1;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">8th Grade ELA &middot; Module 2 &middot; Week 3</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">30 points</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">1 PDF</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Up to 4 files</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Due end of Week 3</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">This week</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:separate;border-spacing:0;width:100%;margin:4px 0 0 0;\"><tbody><tr><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">1</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">It Had Language</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">2</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">Why Silent?</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">3</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">The Writer&rsquo;s Observatory</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">4</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">Through Other Eyes</div></td></tr></tbody></table><div style=\"text-align:center;color:#A88A3D;font-size:30px;line-height:1.1;margin:6px 0;\">&#8595;</div><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:46%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#A88A3D;line-height:1.5;\">DO</div><div style=\"font-size:21px;color:#141838;line-height:1.3;margin-top:5px;\">Week 3 PDF</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.55;margin-top:6px;\">Lesson 4, Turn In</div></td><td style=\"width:8%;text-align:center;vertical-align:middle;color:#A88A3D;font-size:34px;line-height:1;\">&#8594;</td><td style=\"width:46%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#A88A3D;line-height:1.5;\">TURN IN</div><div style=\"font-size:21px;color:#141838;line-height:1.3;margin-top:5px;\">Upload</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.55;margin-top:6px;\">Week 3 Work</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Quick Write 3: Build Your World</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#141838;border-left:9px solid #A88A3D;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">Plan the world of your first-contact story. Then write its opening: bring a reader in slowly, through the senses.</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">150 to 250 words</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Three senses</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Three marked choices</span></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Lessons 1 to 4 show &#10003;, or I attached that lesson&rsquo;s PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">My plan names whose eyes the reader borrows</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">I marked two phrases and one connotation word</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">I uploaded the PDF to Week 3 Work</td></tr></tbody></table>",
+   "points": 30.0,
+   "group": "os_ag_assignments",
+   "rubric": "os_r_w3_work",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 13,
+   "kind": "quick-write"
+  },
+  {
+   "id": "os_a_w4_work",
+   "title": "Week 4 Work",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#141838;border-bottom:5px solid #A88A3D;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 4 Work</span><div style=\"color:#9C93D1;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">8th Grade ELA &middot; Module 2 &middot; Week 4</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">30 points</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">1 PDF</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Up to 4 files</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Due end of Week 4</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">This week</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:separate;border-spacing:0;width:100%;margin:4px 0 0 0;\"><tbody><tr><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">1</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">The Edge of the Air</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">2</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">On Augray&rsquo;s Shoulder</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">3</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">The Writer&rsquo;s Observatory</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">4</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">The Silent Planet</div></td></tr></tbody></table><div style=\"text-align:center;color:#A88A3D;font-size:30px;line-height:1.1;margin:6px 0;\">&#8595;</div><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:46%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#A88A3D;line-height:1.5;\">DO</div><div style=\"font-size:21px;color:#141838;line-height:1.3;margin-top:5px;\">Week 4 PDF</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.55;margin-top:6px;\">Lesson 4, Turn In</div></td><td style=\"width:8%;text-align:center;vertical-align:middle;color:#A88A3D;font-size:34px;line-height:1;\">&#8594;</td><td style=\"width:46%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#A88A3D;line-height:1.5;\">TURN IN</div><div style=\"font-size:21px;color:#141838;line-height:1.3;margin-top:5px;\">Upload</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.55;margin-top:6px;\">Week 4 Work</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Story Ladder 4: The Whole Story</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#141838;border-left:9px solid #A88A3D;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">Draft your whole first-contact story: arrival, first meeting, ending. Read the opening aloud, then revise one paragraph.</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">500 to 800 words</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">A wrong first assumption</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">One thing held back</span></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Lessons 1 to 4 show &#10003;, or I attached that lesson&rsquo;s PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">My draft has a beginning, a meeting and an ending</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">I read my opening aloud and revised one paragraph</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">I uploaded the PDF to Week 4 Work</td></tr></tbody></table>",
+   "points": 30.0,
+   "group": "os_ag_assignments",
+   "rubric": "os_r_w4_work",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 14,
+   "kind": "quick-write"
+  },
+  {
+   "id": "os_a_w5_work",
+   "title": "Week 5 Work",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#141838;border-bottom:5px solid #A88A3D;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 5 Work</span><div style=\"color:#9C93D1;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">8th Grade ELA &middot; Module 2 &middot; Week 5</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">30 points</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">1 PDF</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Up to 4 files</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Due end of Week 5</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">This week</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:separate;border-spacing:0;width:100%;margin:4px 0 0 0;\"><tbody><tr><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">1</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">The Island Looks Back</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">2</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">With Malacandrian Eyes</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">3</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">The Writer&rsquo;s Observatory</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">4</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">Bent, Not Broken</div></td></tr></tbody></table><div style=\"text-align:center;color:#A88A3D;font-size:30px;line-height:1.1;margin:6px 0;\">&#8595;</div><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:46%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#A88A3D;line-height:1.5;\">DO</div><div style=\"font-size:21px;color:#141838;line-height:1.3;margin-top:5px;\">Week 5 PDF</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.55;margin-top:6px;\">Lesson 4, Turn In</div></td><td style=\"width:8%;text-align:center;vertical-align:middle;color:#A88A3D;font-size:34px;line-height:1;\">&#8594;</td><td style=\"width:46%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#A88A3D;line-height:1.5;\">TURN IN</div><div style=\"font-size:21px;color:#141838;line-height:1.3;margin-top:5px;\">Upload</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.55;margin-top:6px;\">Week 5 Work</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Story Ladder 5: Sharpen the Scene</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#141838;border-left:9px solid #A88A3D;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">One key scene from your draft. Find what is still only in your head. Rewrite two or three passages so a reader sees what you see.</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Before and after</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">One adjective clause</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">One opening clause</span></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Lessons 1 to 4 show &#10003;, or I attached that lesson&rsquo;s PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Each rewrite is more exact than the first try</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">My closing sentence says what changed</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">I uploaded the PDF to Week 5 Work</td></tr></tbody></table>",
+   "points": 30.0,
+   "group": "os_ag_assignments",
+   "rubric": "os_r_w5_work",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 15,
+   "kind": "quick-write"
+  },
+  {
+   "id": "os_a_w6_work",
+   "title": "Week 6 Work",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#141838;border-bottom:5px solid #A88A3D;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 6 Work</span><div style=\"color:#9C93D1;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">8th Grade ELA &middot; Module 2 &middot; Week 6</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">20 points</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">1 PDF</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Up to 4 files</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Due end of Week 6</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">This week</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:separate;border-spacing:0;width:100%;margin:4px 0 0 0;\"><tbody><tr><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">1</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">Only Mars</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">2</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">A Mere Story</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">3</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">The Writer&rsquo;s Observatory</div></td><td style=\"width:6px;\"></td><td style=\"width:25%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:14px 12px;vertical-align:top;\"><div style=\"font-size:24px;color:#A88A3D;line-height:1;\">4</div><div style=\"font-size:14px;color:#141838;line-height:1.35;margin-top:7px;\">From Space to Heaven</div></td></tr></tbody></table><div style=\"text-align:center;color:#A88A3D;font-size:30px;line-height:1.1;margin:6px 0;\">&#8595;</div><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:46%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#A88A3D;line-height:1.5;\">DO</div><div style=\"font-size:21px;color:#141838;line-height:1.3;margin-top:5px;\">Week 6 PDF</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.55;margin-top:6px;\">Lesson 4, Turn In</div></td><td style=\"width:8%;text-align:center;vertical-align:middle;color:#A88A3D;font-size:34px;line-height:1;\">&#8594;</td><td style=\"width:46%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#A88A3D;line-height:1.5;\">TURN IN</div><div style=\"font-size:21px;color:#141838;line-height:1.3;margin-top:5px;\">Upload</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.55;margin-top:6px;\">Week 6 Work</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Story Ladder 6: Plan, Edit, Polish</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#141838;border-left:9px solid #A88A3D;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">Your story, finished: one revision goal, the editing pass, and a final before and after.</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Run-ons fixed</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Adverb clauses</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">The Preface</span></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Lessons 1 to 4 show &#10003;, or I attached that lesson&rsquo;s PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">My revision goal names a place and a change</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Story and monologue go on their own assignments</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">I uploaded the PDF to Week 6 Work</td></tr></tbody></table>",
+   "points": 20.0,
+   "group": "os_ag_assignments",
+   "rubric": "os_r_w6_work",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 16,
+   "kind": "quick-write"
+  },
+  {
+   "id": "os_a_rr1",
+   "title": "Recorded Reading & Reflection 1",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#141838;border-bottom:5px solid #A88A3D;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Recorded Reading &amp; Reflection 1</span><div style=\"color:#9C93D1;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">8th Grade ELA &middot; Module 2 &middot; Week 2</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">25 points</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">3 to 5 minutes</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Record or upload</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Due end of Week 2</span></div><span data-ob-end=\"optima-brand-v2\"></span><table style=\"border-collapse:collapse;width:100%;margin:34px 0 14px 0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A88A3D;line-height:0.95;\">1</td><td style=\"vertical-align:top;padding:2px 0 0 8px;border-bottom:1px solid #DEDAEA;\"><div style=\"font-size:21px;color:#141838;line-height:1.25;\">Choose</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:13px;color:#6E6A86;line-height:1.4;margin-top:3px;\">400 to 600 words</div></td></tr></tbody></table><div style=\"font-size:14.5px;color:#2A2840;line-height:1.55;margin:0 0 12px 0;\">One passage from Chapters 1 to 8, in your own copy. Ideas:</div><div style=\"margin:0 0 6px 0;\"><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:12.5px;color:#A88A3D;line-height:1.3;\">Ch. 1</div><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:3px;\">The road to The Rise</div><div style=\"font-size:13px;color:#2A2840;line-height:1.5;margin-top:4px;\">A walker looking for a bed.</div></div><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:12.5px;color:#A88A3D;line-height:1.3;\">Ch. 5</div><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:3px;\">The word &#8220;Space&#8221;</div><div style=\"font-size:13px;color:#2A2840;line-height:1.5;margin-top:4px;\">The wrong name. Read it slowly.</div></div><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:12.5px;color:#A88A3D;line-height:1.3;\">Ch. 7</div><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:3px;\">The escape</div><div style=\"font-size:13px;color:#2A2840;line-height:1.5;margin-top:4px;\">Ransom runs into the unknown.</div></div></div><div style=\"font-size:14.5px;color:#2A2840;line-height:1.55;margin:0 0 12px 0;\">Estimate: lines &#215; words in a line. Never type it out or post it.</div><table style=\"border-collapse:collapse;width:100%;margin:34px 0 14px 0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A88A3D;line-height:0.95;\">2</td><td style=\"vertical-align:top;padding:2px 0 0 8px;border-bottom:1px solid #DEDAEA;\"><div style=\"font-size:21px;color:#141838;line-height:1.25;\">Rehearse</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:13px;color:#6E6A86;line-height:1.4;margin-top:3px;\">twice</div></td></tr></tbody></table><div style=\"font-size:14.5px;color:#2A2840;line-height:1.55;margin:0 0 12px 0;\">First: find the words that trip you. Second: decide where the sentences breathe.</div><table style=\"border-collapse:collapse;width:100%;margin:34px 0 14px 0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A88A3D;line-height:0.95;\">3</td><td style=\"vertical-align:top;padding:2px 0 0 8px;border-bottom:1px solid #DEDAEA;\"><div style=\"font-size:21px;color:#141838;line-height:1.25;\">Set-up</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:13px;color:#6E6A86;line-height:1.4;margin-top:3px;\">:20&#8211;:30</div></td></tr></tbody></table><div style=\"background:#FBF6E6;border-left:6px solid #A88A3D;padding:20px 24px;margin:0 0 12px 0;\"><div style=\"font-size:18px;color:#141838;line-height:1.9;\">This is from <span style=\"color:#A88A3D;\">______</span>, Chapter <span style=\"color:#A88A3D;\">______</span>. Just before this, <span style=\"color:#A88A3D;\">______</span>. I chose it because <span style=\"color:#A88A3D;\">______</span>.</div></div><table style=\"border-collapse:collapse;width:100%;margin:34px 0 14px 0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A88A3D;line-height:0.95;\">4</td><td style=\"vertical-align:top;padding:2px 0 0 8px;border-bottom:1px solid #DEDAEA;\"><div style=\"font-size:21px;color:#141838;line-height:1.25;\">The commentary</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:13px;color:#6E6A86;line-height:1.4;margin-top:3px;\">1:00&#8211;2:00</div></td></tr></tbody></table><div style=\"margin:0 0 4px 0;\"><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-size:30px;color:#A88A3D;line-height:1;\">A</div><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:6px;\">Going back over it</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.5;margin-top:5px;\">Answer two: what it shows about a character, the hardest-working word, what reading aloud showed you, the question it leaves.</div></div><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-size:30px;color:#A88A3D;line-height:1;\">B</div><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:6px;\">The argument</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.5;margin-top:5px;\">Take the side most people will not. Point at the words. Answer the objection.</div></div><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-size:30px;color:#A88A3D;line-height:1;\">C</div><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:6px;\">One line rewritten</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.5;margin-top:5px;\">Change one sentence. What happens instead? What does Lewis&rsquo;s version do that yours does not?</div></div></div><div style=\"font-size:14.5px;color:#2A2840;line-height:1.55;margin:0 0 12px 0;\">Pick one. Point at one line.</div><table style=\"border-collapse:collapse;width:100%;margin:34px 0 14px 0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A88A3D;line-height:0.95;\">5</td><td style=\"vertical-align:top;padding:2px 0 0 8px;border-bottom:1px solid #DEDAEA;\"><div style=\"font-size:21px;color:#141838;line-height:1.25;\">Record</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:13px;color:#6E6A86;line-height:1.4;margin-top:3px;\">one take, in order</div></td></tr></tbody></table><div style=\"margin:0 0 6px 0;\"><div style=\"display:inline-block;vertical-align:top;width:120px;max-width:100%;background:#F6F5FB;border-top:4px solid #A88A3D;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:19px;color:#A88A3D;line-height:1.2;\">01</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:14px;color:#141838;line-height:1.4;margin-top:5px;\">:20&#8211;:30</div><div style=\"font-size:14px;color:#2A2840;line-height:1.4;margin-top:3px;\">Set-up</div></div><div style=\"display:inline-block;vertical-align:top;width:120px;max-width:100%;background:#F6F5FB;border-top:4px solid #A88A3D;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:19px;color:#A88A3D;line-height:1.2;\">02</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:14px;color:#141838;line-height:1.4;margin-top:5px;\">1:30&#8211;2:30</div><div style=\"font-size:14px;color:#2A2840;line-height:1.4;margin-top:3px;\">The passage</div></div><div style=\"display:inline-block;vertical-align:top;width:120px;max-width:100%;background:#F6F5FB;border-top:4px solid #A88A3D;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:19px;color:#A88A3D;line-height:1.2;\">03</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:14px;color:#141838;line-height:1.4;margin-top:5px;\">1:00&#8211;2:00</div><div style=\"font-size:14px;color:#2A2840;line-height:1.4;margin-top:3px;\">Commentary</div></div><div style=\"display:inline-block;vertical-align:top;width:120px;max-width:100%;background:#F6F5FB;border-top:4px solid #A88A3D;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:19px;color:#A88A3D;line-height:1.2;\">04</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:14px;color:#141838;line-height:1.4;margin-top:5px;\">:10</div><div style=\"font-size:14px;color:#2A2840;line-height:1.4;margin-top:3px;\">Sign-off</div></div><div style=\"display:inline-block;vertical-align:top;width:120px;max-width:100%;background:#141838;border-top:4px solid #A88A3D;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:12.5px;color:#9C93D1;line-height:1.3;\">Total</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:19px;color:#ffffff;line-height:1.3;margin-top:5px;\">3 to 5 min</div></div></div><div style=\"font-size:14.5px;color:#2A2840;line-height:1.55;margin:0 0 12px 0;\">Record / Upload Media, or upload a phone file. Audio only is fine. Two attempts.</div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Set-up names the source and the moment before it.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">The passage read in full, as written.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">The commentary points at one line.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Played back: audible all the way through.</td></tr></tbody></table>",
+   "points": 25.0,
+   "group": "os_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "media_recording,online_upload",
+   "allowed_extensions": "",
+   "published": true,
+   "week": 12,
+   "kind": "recorded-reading",
+   "rubric": "os_r_rr1",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "os_a_rr2",
+   "title": "Recorded Reading & Reflection 2",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#141838;border-bottom:5px solid #A88A3D;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Recorded Reading &amp; Reflection 2</span><div style=\"color:#9C93D1;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">8th Grade ELA &middot; Module 2 &middot; Week 4</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">25 points</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">3 to 5 minutes</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Record or upload</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Due end of Week 4</span></div><span data-ob-end=\"optima-brand-v2\"></span><table style=\"border-collapse:collapse;width:100%;margin:34px 0 14px 0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A88A3D;line-height:0.95;\">1</td><td style=\"vertical-align:top;padding:2px 0 0 8px;border-bottom:1px solid #DEDAEA;\"><div style=\"font-size:21px;color:#141838;line-height:1.25;\">Choose</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:13px;color:#6E6A86;line-height:1.4;margin-top:3px;\">400 to 600 words</div></td></tr></tbody></table><div style=\"font-size:14.5px;color:#2A2840;line-height:1.55;margin:0 0 12px 0;\">One passage from Chapters 9 to 16, in your own copy. Ideas:</div><div style=\"margin:0 0 6px 0;\"><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:12.5px;color:#A88A3D;line-height:1.3;\">Ch. 9</div><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:3px;\">It had language</div><div style=\"font-size:13px;color:#2A2840;line-height:1.5;margin-top:4px;\">Ransom hears the creature talk.</div></div><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:12.5px;color:#A88A3D;line-height:1.3;\">Ch. 13</div><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:3px;\">The voice on the lake</div><div style=\"font-size:13px;color:#2A2840;line-height:1.5;margin-top:4px;\">The eldil speaks from the air.</div></div><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:12.5px;color:#A88A3D;line-height:1.3;\">Ch. 15</div><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:3px;\">Augray on the eldila</div><div style=\"font-size:13px;color:#2A2840;line-height:1.5;margin-top:4px;\">Slow, weighty sentences.</div></div><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:12.5px;color:#A88A3D;line-height:1.3;\">Ch. 16</div><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:3px;\">On Augray&rsquo;s shoulder</div><div style=\"font-size:13px;color:#2A2840;line-height:1.5;margin-top:4px;\">The ride toward the edge of the air.</div></div></div><div style=\"font-size:14.5px;color:#2A2840;line-height:1.55;margin:0 0 12px 0;\">Estimate: lines &#215; words in a line. Never type it out or post it.</div><table style=\"border-collapse:collapse;width:100%;margin:34px 0 14px 0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A88A3D;line-height:0.95;\">2</td><td style=\"vertical-align:top;padding:2px 0 0 8px;border-bottom:1px solid #DEDAEA;\"><div style=\"font-size:21px;color:#141838;line-height:1.25;\">Rehearse</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:13px;color:#6E6A86;line-height:1.4;margin-top:3px;\">twice</div></td></tr></tbody></table><div style=\"font-size:14.5px;color:#2A2840;line-height:1.55;margin:0 0 12px 0;\">First: find the words that trip you. Second: decide where the sentences breathe.</div><table style=\"border-collapse:collapse;width:100%;margin:34px 0 14px 0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A88A3D;line-height:0.95;\">3</td><td style=\"vertical-align:top;padding:2px 0 0 8px;border-bottom:1px solid #DEDAEA;\"><div style=\"font-size:21px;color:#141838;line-height:1.25;\">Set-up</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:13px;color:#6E6A86;line-height:1.4;margin-top:3px;\">:20&#8211;:30</div></td></tr></tbody></table><div style=\"background:#FBF6E6;border-left:6px solid #A88A3D;padding:20px 24px;margin:0 0 12px 0;\"><div style=\"font-size:18px;color:#141838;line-height:1.9;\">This is from <span style=\"color:#A88A3D;\">______</span>, Chapter <span style=\"color:#A88A3D;\">______</span>. Just before this, <span style=\"color:#A88A3D;\">______</span>. I chose it because <span style=\"color:#A88A3D;\">______</span>.</div></div><table style=\"border-collapse:collapse;width:100%;margin:34px 0 14px 0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A88A3D;line-height:0.95;\">4</td><td style=\"vertical-align:top;padding:2px 0 0 8px;border-bottom:1px solid #DEDAEA;\"><div style=\"font-size:21px;color:#141838;line-height:1.25;\">The commentary</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:13px;color:#6E6A86;line-height:1.4;margin-top:3px;\">1:00&#8211;2:00</div></td></tr></tbody></table><div style=\"margin:0 0 4px 0;\"><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-size:30px;color:#A88A3D;line-height:1;\">A</div><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:6px;\">Going back over it</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.5;margin-top:5px;\">Answer two: what it shows about a character, the hardest-working word, what reading aloud showed you, the question it leaves.</div></div><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-size:30px;color:#A88A3D;line-height:1;\">B</div><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:6px;\">The argument</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.5;margin-top:5px;\">Take the side most people will not. Point at the words. Answer the objection.</div></div><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-size:30px;color:#A88A3D;line-height:1;\">C</div><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:6px;\">One line rewritten</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.5;margin-top:5px;\">Change one sentence. What happens instead? What does Lewis&rsquo;s version do that yours does not?</div></div></div><div style=\"font-size:14.5px;color:#2A2840;line-height:1.55;margin:0 0 12px 0;\">Pick one. Point at one line.</div><table style=\"border-collapse:collapse;width:100%;margin:34px 0 14px 0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A88A3D;line-height:0.95;\">5</td><td style=\"vertical-align:top;padding:2px 0 0 8px;border-bottom:1px solid #DEDAEA;\"><div style=\"font-size:21px;color:#141838;line-height:1.25;\">Record</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:13px;color:#6E6A86;line-height:1.4;margin-top:3px;\">one take, in order</div></td></tr></tbody></table><div style=\"margin:0 0 6px 0;\"><div style=\"display:inline-block;vertical-align:top;width:120px;max-width:100%;background:#F6F5FB;border-top:4px solid #A88A3D;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:19px;color:#A88A3D;line-height:1.2;\">01</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:14px;color:#141838;line-height:1.4;margin-top:5px;\">:20&#8211;:30</div><div style=\"font-size:14px;color:#2A2840;line-height:1.4;margin-top:3px;\">Set-up</div></div><div style=\"display:inline-block;vertical-align:top;width:120px;max-width:100%;background:#F6F5FB;border-top:4px solid #A88A3D;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:19px;color:#A88A3D;line-height:1.2;\">02</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:14px;color:#141838;line-height:1.4;margin-top:5px;\">1:30&#8211;2:30</div><div style=\"font-size:14px;color:#2A2840;line-height:1.4;margin-top:3px;\">The passage</div></div><div style=\"display:inline-block;vertical-align:top;width:120px;max-width:100%;background:#F6F5FB;border-top:4px solid #A88A3D;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:19px;color:#A88A3D;line-height:1.2;\">03</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:14px;color:#141838;line-height:1.4;margin-top:5px;\">1:00&#8211;2:00</div><div style=\"font-size:14px;color:#2A2840;line-height:1.4;margin-top:3px;\">Commentary</div></div><div style=\"display:inline-block;vertical-align:top;width:120px;max-width:100%;background:#F6F5FB;border-top:4px solid #A88A3D;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:19px;color:#A88A3D;line-height:1.2;\">04</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:14px;color:#141838;line-height:1.4;margin-top:5px;\">:10</div><div style=\"font-size:14px;color:#2A2840;line-height:1.4;margin-top:3px;\">Sign-off</div></div><div style=\"display:inline-block;vertical-align:top;width:120px;max-width:100%;background:#141838;border-top:4px solid #A88A3D;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:12.5px;color:#9C93D1;line-height:1.3;\">Total</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:19px;color:#ffffff;line-height:1.3;margin-top:5px;\">3 to 5 min</div></div></div><div style=\"font-size:14.5px;color:#2A2840;line-height:1.55;margin:0 0 12px 0;\">Record / Upload Media, or upload a phone file. Audio only is fine. Two attempts.</div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Set-up names the source and the moment before it.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">The passage read in full, as written.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">The commentary points at one line.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Played back: audible all the way through.</td></tr></tbody></table>",
+   "points": 25.0,
+   "group": "os_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "media_recording,online_upload",
+   "allowed_extensions": "",
+   "published": true,
+   "week": 14,
+   "kind": "recorded-reading",
+   "rubric": "os_r_rr2",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "os_a_story",
+   "title": "First-Contact Short Story",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#141838;border-bottom:5px solid #A88A3D;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">First-Contact Short Story</span><div style=\"color:#9C93D1;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">Module Major Work &middot; Week 6</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">100 points</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">600 to 900 words</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">1 Word file (.docx)</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Due end of Week 6</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"background:#141838;border-left:9px solid #A88A3D;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">A traveler arrives somewhere unfamiliar and meets a being unlike themselves.</div></div><div style=\"font-size:13.5px;color:#6E6A86;line-height:1.65;margin:0 0 18px 0;\">The module question: what do we lose when we assume we understand the other?</div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Your story</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#F6F5FB;border-left:7px solid #9C93D1;padding:14px 22px 12px 22px;margin:0 0 6px 0;\"><div style=\"font-size:19px;color:#141838;line-height:1.3;\">Arrival</div><div style=\"font-size:14px;color:#2A2840;line-height:1.55;margin-top:3px;\">The place, built through the senses, in the order a body would notice it. Show before you explain.</div><div style=\"margin-top:2px;\"><span style=\"font-size:12px;color:#6E6A86;\">Built in:</span> <span style=\"display:inline-block;border:1px solid #9C93D1;border-radius:14px;padding:2px 11px;margin:6px 6px 0 0;font-size:12px;color:#141838;background:#ffffff;\">Week 3 opening</span><span style=\"display:inline-block;border:1px solid #9C93D1;border-radius:14px;padding:2px 11px;margin:6px 6px 0 0;font-size:12px;color:#141838;background:#ffffff;\">Week 5 sharpened scene</span></div></div><div style=\"background:#F6F5FB;border-left:7px solid #9C93D1;padding:14px 22px 12px 22px;margin:0 0 6px 0;\"><div style=\"font-size:19px;color:#141838;line-height:1.3;\">The meeting</div><div style=\"font-size:14px;color:#2A2840;line-height:1.55;margin-top:3px;\">A being whose nature differs from the traveler&rsquo;s. One steady point of view.</div><div style=\"margin-top:2px;\"><span style=\"font-size:12px;color:#6E6A86;\">Built in:</span> <span style=\"display:inline-block;border:1px solid #9C93D1;border-radius:14px;padding:2px 11px;margin:6px 6px 0 0;font-size:12px;color:#141838;background:#ffffff;\">Week 4 draft</span></div></div><div style=\"background:#FBF6E6;border-left:7px solid #A88A3D;padding:14px 22px 12px 22px;margin:0 0 6px 0;\"><div style=\"font-size:19px;color:#141838;line-height:1.3;\">The turn</div><div style=\"font-size:14px;color:#2A2840;line-height:1.55;margin-top:3px;\">A moment where assuming you understand the other costs the traveler something.</div><div style=\"margin-top:2px;\"><span style=\"font-size:12px;color:#6E6A86;\">Built in:</span> <span style=\"display:inline-block;border:1px solid #9C93D1;border-radius:14px;padding:2px 11px;margin:6px 6px 0 0;font-size:12px;color:#141838;background:#ffffff;\">Week 4 draft</span><span style=\"display:inline-block;border:1px solid #9C93D1;border-radius:14px;padding:2px 11px;margin:6px 6px 0 0;font-size:12px;color:#141838;background:#ffffff;\">Week 6 polish</span></div></div><div style=\"font-size:13.5px;color:#6E6A86;line-height:1.65;margin:0 0 18px 0;\">Your own characters and sentences. Nothing copied from Lewis.</div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">How it is graded</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div data-levels=\"1\" style=\"margin:0 0 6px 0;\"><div style=\"font-size:16px;color:#141838;line-height:1.35;margin:18px 0 6px 0;\">Imitation of Lewis&#8217;s technique (sensory world-building)</div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Excellent</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">The world is built impression by impression, through the senses in a believable order, so the reader discovers it as the traveler does.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Proficient</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">The world is built largely through the senses; most details arrive before they are explained.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Developing</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">Some sensory detail appears, but the world is often told rather than shown.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Beginning</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">The world is mostly named or explained, with little sensory building.</td></tr></tbody></table><div style=\"font-size:16px;color:#141838;line-height:1.35;margin:18px 0 6px 0;\">Narrative craft (clear arc and point of view)</div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Excellent</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">A clear arc with a meaningful turn; a steady, consistent point of view throughout.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Proficient</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">A clear arc and a mostly consistent point of view.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Developing</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">An arc is present but uneven; point of view slips in places.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Beginning</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">Little sense of arc; point of view is unclear or shifts often.</td></tr></tbody></table><div style=\"font-size:16px;color:#141838;line-height:1.35;margin:18px 0 6px 0;\">Sensory and figurative language</div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Excellent</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">Fresh, precise images and well-chosen comparisons that make the strange world vivid.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Proficient</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">Clear images and some effective figurative language.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Developing</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">Some images, but often general or repeated; little figurative language.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Beginning</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">Vague or flat language; the world is hard to picture.</td></tr></tbody></table><div style=\"font-size:16px;color:#141838;line-height:1.35;margin:18px 0 6px 0;\">Clarity and correctness of prose</div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Excellent</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">Clean, controlled sentences; varied structure; errors are rare and do not distract.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Proficient</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">Mostly clean sentences; minor errors that do not obscure meaning.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Developing</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">Several run-ons, fragments, or splices that slow the reader.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Beginning</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">Frequent errors that often make meaning unclear.</td></tr></tbody></table></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Save and submit</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A88A3D;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#141838;line-height:1.35;\">Name it</div><div style=\"font-size:14px;color:#2A2840;line-height:1.65;margin-top:6px;\"><code style=\"font-size:12px;word-break:break-all;\">LastName_FirstName_OOTSPStory_ELA8</code></div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A88A3D;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#141838;line-height:1.35;\">Save it</div><div style=\"font-size:14px;color:#2A2840;line-height:1.65;margin-top:6px;\">OneDrive &#8594; Optima &#8594; ELA &#8594; ELA8</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A88A3D;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#141838;line-height:1.35;\">Submit it</div><div style=\"font-size:14px;color:#2A2840;line-height:1.65;margin-top:6px;\">Microsoft OneDrive tab on this assignment.</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">One Word file, 600 to 900 words, with a title.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Senses first; a clear arc; one point of view.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Assuming costs the traveler something.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">File named, saved in ELA8, visible under Submission Details.</td></tr></tbody></table>",
+   "points": 100.0,
+   "group": "os_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "",
+   "published": true,
+   "week": 16,
+   "kind": "module-project"
+  },
+  {
+   "id": "os_a_monologue",
+   "title": "Malacandra Speaks: An Original Character Monologue",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#141838;border-bottom:5px solid #A88A3D;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Malacandra Speaks</span><div style=\"color:#9C93D1;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">8th Grade ELA &middot; Module 2 &middot; Week 6</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">30 points</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">150 to 250 words</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Audio or video</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Due end of Week 6</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"background:#141838;border-left:9px solid #A88A3D;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">Speak as one character from the novel, at a moment the book never shows.</div></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Choose a speaker</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"margin:0 0 6px 0;\"><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:3px;\">Ransom</div><div style=\"font-size:13px;color:#2A2840;line-height:1.5;margin-top:4px;\">The voyage home, alone at the window</div></div><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:3px;\">Weston</div><div style=\"font-size:13px;color:#2A2840;line-height:1.5;margin-top:4px;\">The last night, at his calculations</div></div><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:3px;\">Devine</div><div style=\"font-size:13px;color:#2A2840;line-height:1.5;margin-top:4px;\">The last night, after the trial</div></div><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:3px;\">The Oyarsa</div><div style=\"font-size:13px;color:#2A2840;line-height:1.5;margin-top:4px;\">After the ship has gone</div></div><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:3px;\">A hross of Hyoi&rsquo;s village</div><div style=\"font-size:13px;color:#2A2840;line-height:1.5;margin-top:4px;\">After the strangers have gone</div></div><div style=\"display:inline-block;vertical-align:top;width:200px;max-width:100%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:13px 15px;margin:0 10px 10px 0;\"><div style=\"font-size:16px;color:#141838;line-height:1.3;margin-top:3px;\">Your own</div><div style=\"font-size:13px;color:#2A2840;line-height:1.5;margin-top:4px;\">A moment the novel never shows</div></div></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Hear the voice</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"font-size:14.5px;color:#2A2840;line-height:1.55;margin:0 0 12px 0;\">Read the Oyarsa&rsquo;s judgment in Chapter 20 aloud, from your own copy. Notice:</div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:20px;min-width:20px;color:#A88A3D;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.6;padding:0 0 11px 8px;\">Long sentences that gather ideas; a short one lands hard.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A88A3D;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.6;padding:0 0 11px 8px;\">One exact image, not a list.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A88A3D;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.6;padding:0 0 11px 8px;\">Formal, unhurried words. Wonder and judgment together.</td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Make it</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A88A3D;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#141838;line-height:1.35;\">Plan</div><div style=\"font-size:14px;color:#2A2840;line-height:1.65;margin-top:6px;\">Who, when, to whom. One truth to say, one physical detail, a slow opening, a final closing line.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A88A3D;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#141838;line-height:1.35;\">Write</div><div style=\"font-size:14px;color:#2A2840;line-height:1.65;margin-top:6px;\">About one minute aloud. Every sentence your own.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A88A3D;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#141838;line-height:1.35;\">Rehearse</div><div style=\"font-size:14px;color:#2A2840;line-height:1.65;margin-top:6px;\">Aloud. Fix anything too modern. Learn it.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A88A3D;line-height:0.95;padding:0 0 26px 0;\">4</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#141838;line-height:1.35;\">Record it</div><div style=\"font-size:14px;color:#2A2840;line-height:1.65;margin-top:6px;\">A quiet place; stand if you can. Perform from memory. Record audio or video on a phone or laptop; upload the file here.</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">How it is graded</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div data-levels=\"1\" style=\"margin:0 0 6px 0;\"><div style=\"font-size:16px;color:#141838;line-height:1.35;margin:18px 0 6px 0;\">Voice &amp; style imitation</div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Excellent</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">Sentence rhythm, word choice, and tone consistently sound like Lewis&#8217;s world: long, gathered sentences, restrained detail, wonder braided with moral seriousness.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Proficient</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">The voice mostly sounds like Lewis&#8217;s world, with occasional lines that slip into modern or casual phrasing.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Developing</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">Some formal or old-fashioned phrasing appears, but much of the monologue reads like ordinary modern speech.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Beginning</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">The monologue does not attempt the character&#8217;s voice; it reads as the student&#8217;s own ordinary speech with a name attached.</td></tr></tbody></table><div style=\"font-size:16px;color:#141838;line-height:1.35;margin:18px 0 6px 0;\">Original content &amp; creativity</div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Excellent</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">Every line is the student&#8217;s own words; the chosen moment is specific, believable for the character, and reveals something the novel does not directly show.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Proficient</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">The content is original and fits the character; the moment is clear, if less surprising.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Developing</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">The content is original but generic; the moment or the character&#8217;s reasoning is vague.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Beginning</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">The monologue borrows heavily from the novel&#8217;s actual lines or plot rather than inventing a new moment.</td></tr></tbody></table><div style=\"font-size:16px;color:#141838;line-height:1.35;margin:18px 0 6px 0;\">Delivery</div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Excellent</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">Delivered from memory with clear pacing, audible volume, and a voice and posture that fit the character; sounds like speech, not reading.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Proficient</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">Delivered with only brief glances at notes; pacing and volume are mostly clear.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Developing</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">Delivered mostly by reading; pacing is rushed or volume is hard to hear in places.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #DEDAEA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A88A3D;vertical-align:top;line-height:1.5;\">Beginning</td><td style=\"border-top:1px solid #DEDAEA;padding:7px 0;font-size:13px;color:#2A2840;vertical-align:top;line-height:1.5;\">Read flatly with little preparation; difficult to follow as a spoken performance.</td></tr></tbody></table></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Original, 150 to 250 words, one voice, a moment the novel does not show.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Lewis&rsquo;s formal, unhurried, restrained style.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Recorded from memory. Separate from the short story.</td></tr></tbody></table>",
+   "points": 30.0,
+   "group": "os_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "",
+   "published": true,
+   "week": 16,
+   "kind": "performance"
+  },
+  {
+   "id": "os_a_journal",
+   "title": "Reading Journal Setup (your Module 2 - Out of the Silent Planet home base)",
+   "html": "<h4>📁 Set up your Reading Journal</h4>\n<p>This is your home base for the whole module: one Word document where you keep your reading notes, new\nwords, and your growing ideas about <em>Out of the Silent Planet</em>. It takes about ten minutes. You will read <em>Out of the Silent Planet</em> from your own copy as you fill it in.</p>\n<p><strong>📁 M365 SKILL STEP</strong></p>\n<ul>\n<li>☐ Open <strong>Word</strong> from your school account at office.com and create a new document</li>\n<li>☐ Name it <strong><code>LastName_FirstName_ReadingJournal_M2_ELA8</code></strong></li>\n<li>☐ Save it to <strong>OneDrive → Optima → ELA → ELA8</strong></li>\n<li>☐ Build the four sections below using <strong>Heading 1</strong> for each section title</li>\n<li>☐ Submit it here via the <strong>Microsoft OneDrive</strong> tab (you will turn in the updated\nversion again at each Reading Journal Check)</li>\n</ul>\n<p><em>M365 Skill You're Practicing: Applying Heading styles to organize a Word document (Word — MOS Core)</em></p>\n<h4>Build these four sections (Heading 1 each):</h4>\n<ol>\n<li><strong>The Big Question</strong> — copy this in and leave room to answer it as the module goes:</li>\n</ol>\n<p><em>“What do we lose when we assume we understand the alien, the outsider, or the being whose nature differs from our own?”</em> Write your first answer in 2-3 sentences today; you will revise it as\nthe weeks go on.</p>\n<ol start=\"2\">\n<li><strong>My Word Study</strong> — a running list. Each week, add the new word you met in the reading\nand a short definition in your own words, plus your own sentence using it.</li>\n</ol>\n<ol start=\"3\">\n<li><strong>Week-by-Week Notes</strong> — a <strong>Heading 2</strong> for each week (Week 1 …\nWeek 6). Under each week, keep what you noticed in the reading, one thing about the author's\ncraft, and any line you might use later. <strong>This is where your weekly journal entries go.</strong></li>\n</ol>\n<ol start=\"4\">\n<li><strong>My Evolving Answer</strong> — one place where your thinking grows. Start a sentence like\n<em>“So far, I think what we lose most when we misjudge someone unfamiliar is…”</em> and revise it as the reading changes your mind. Do not erase the old\nsentences; watching your answer change is the point.</li>\n</ol>\n<h4>✅ Done when</h4>\n<ul>\n<li>☐ The file is named correctly and saved to your ELA8 OneDrive folder.</li>\n<li>☐ All four sections exist, each under a Heading 1.</li>\n<li>☐ You have written a first answer to the Big Question and submitted via the OneDrive tab.</li>\n</ul>",
+   "points": 5.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "os_ag_assignments",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 11
+  },
+  {
+   "id": "os_a_journal_check",
+   "title": "Reading Journal Check (every two weeks)",
+   "html": "<h4>📁 Reading Journal Check (every two weeks)</h4>\n<p>Time to turn in your <strong>Reading Journal</strong> so far. This is the same Word document you set up\nin Week 1; you do not start a new one. Make sure your most recent weeks' entries are in the\n<strong>Week-by-Week Notes</strong> section, then submit the file here. This check happens at the end of\nweeks 2, 4, 6.</p>\n<p><strong>Before you submit, confirm your journal has:</strong></p>\n<ul>\n<li>☐ An entry for every week so far under <em>Week-by-Week Notes</em> (what you noticed in the\nreading, in your own words)</li>\n<li>☐ A new word added to <strong>My Word Study</strong> for each of those weeks</li>\n<li>☐ Your <strong>Evolving Answer</strong> updated if your thinking has changed</li>\n</ul>\n<p><strong>📁 M365 REMINDER</strong> Open <code>LastName_FirstName_ReadingJournal_M2_ELA8</code> from <strong>OneDrive → Optima → ELA → ELA8</strong>, then\nsubmit it through the <strong>Microsoft OneDrive</strong> tab on this assignment.</p>\n<h4>✅ Done when</h4>\n<ul>\n<li>☐ My journal is up to date through the current week.</li>\n<li>☐ I submitted the current version of my journal Word doc via the OneDrive tab.</li>\n</ul>",
+   "points": 5.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "os_ag_assignments",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 16
+  },
+  {
+   "id": "os_a_ir_check_q2",
+   "title": "Independent Reading Check — Q2",
+   "html": "<p><strong>Q2 Independent Reading Check.</strong> This is the Q2 check on the book you chose for yourself this quarter.</p>\n<h3>📖 Your independent reading book</h3>\n<p>Every quarter you choose one book of your own and read it alongside our class texts. This is where you show what you read. It is not a book report and there is no essay.</p>\n<p>Pick your book from the <strong><a href=\"https://optimaondemand.github.io/optima-assets/optima-independent-reading.html\" target=\"_blank\">Optima Independent Reading menu</a></strong>. Two rules:</p>\n<ul>\n<li>You may not choose a book <strong>our class is reading this year</strong>. Check the syllabus.</li>\n<li>Want something that is not on the menu? Ask your teacher first.</li>\n</ul>\n<h3>🎬 Choose how you show it</h3>\n<p>Record <strong>one</strong> of the following. Either one earns full credit.</p>\n<h4>Option 1 — Oral Book Response (about 3 minutes)</h4>\n<p>Answer these five questions out loud, in order. You may keep notes in front of you, but do not read a script word for word.</p>\n<ol>\n<li><strong>What is the book, and how far did you get?</strong></li>\n<p><em><em>Title, author, and honestly where you ended up. Finishing is the goal, but an honest “I got to chapter nine” is worth more than a vague answer.</em></em></p>\n<li><strong>Pick one character. What do they want, and what is standing in the way?</strong></li>\n<p><em><em>Name the want in your own words. “They want to be left alone” is a real answer. “They want to be happy” is not specific enough.</em></em></p>\n<li><strong>Describe a moment where that character makes a choice you would not have made. Why did they make it?</strong></li>\n<p><em><em>This is the question that shows you understood the character rather than just the plot. You have to explain their reasoning, not yours.</em></em></p>\n<li><strong>Read one sentence or short passage you marked, and say why that one.</strong></li>\n<p><em><em>Any reason counts as long as it is yours: it surprised you, it was beautiful, it explained something, you disagreed with it.</em></em></p>\n<li><strong>Who should read this book, and who should skip it?</strong></li>\n<p><em><em>Be specific about the reader you have in mind.</em></em></p>\n</ol>\n<h4>Option 2 — Dramatic Reading (about 3 minutes)</h4>\n<ol>\n<li>Choose a passage from your book, roughly <strong>150 to 300 words</strong>, where a character is under pressure — deciding something, arguing, afraid, or hiding something.</li>\n<li><strong>Read it aloud as that character.</strong> Decide before you record what this character wants in this moment, then let your pace, volume, and pauses show it.</li>\n<li><strong>Then talk for about a minute:</strong> who is this character, what do they want here, and what did you do with your voice to show it? Name one specific choice you made.</li>\n</ol>\n<p>The passage is your own copy of your own book, read by you. That is the point of the exercise.</p>\n<h3>📋 Also confirm your reading log</h3>\n<p>Your <strong>Reading Journal</strong> has an Independent Reading section. Each time you read, add a line: the date, how many pages or minutes, and one sentence about what you noticed. Confirm on this assignment that the log is filled in for the quarter.</p>\n<h3>✅ Success criteria</h3>\n<ul>\n<li>☐ My book is from the menu (or teacher-approved) and is <strong>not</strong> a class text this year.</li>\n<li>☐ I recorded Option 1 or Option 2, all the way through.</li>\n<li>☐ I talked about a <strong>character</strong>, not only what happened.</li>\n<li>☐ My reading log has entries across the whole quarter, not all on one day.</li>\n<li>☐ I am looking at the camera and speaking clearly enough to be understood.</li>\n</ul>",
+   "points": 20.0,
+   "grading_type": "points",
+   "submission_types": "online_upload,media_recording,online_text_entry",
+   "group": "os_ag_assignments",
+   "rubric": "os_r_ir_check_q2",
+   "rubric_use_for_grading": true,
+   "published": false,
+   "allowed_extensions": "mp4,mov,m4a,mp3,docx,pdf",
+   "omit_from_final_grade": false,
+   "week": 16
+  }
+ ],
+ "quizzes": [],
+ "discussions": [
+  {
+   "id": "os_d_forum1",
+   "title": "All-Class Forum 1: Who Is Responsible for Hyoi?",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#141838;border-bottom:5px solid #A88A3D;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Who Is Responsible for Hyoi?</span><div style=\"color:#9C93D1;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">All-Class Forum 1 &middot; Week 3</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">25 points</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">1 post + 2 replies</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Replies unlock after you post</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Closes end of Week 3</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"background:#141838;border-left:9px solid #A88A3D;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">Whin says Ransom&rsquo;s delay helped kill Hyoi. Ransom did not know the men were there. Is Whin right?</div></div><div style=\"font-size:13.5px;color:#6E6A86;line-height:1.65;margin:0 0 18px 0;\">Whin: &#8220;All this has come from not obeying the eldil.&#8221;</div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Three moves</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:28.67%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:16px 12px;vertical-align:top;text-align:center;\"><div style=\"font-size:38px;color:#A88A3D;line-height:1;\">1</div><div style=\"font-size:18px;color:#141838;line-height:1.25;margin-top:6px;\">Post</div><div style=\"font-size:12.5px;color:#2A2840;line-height:1.45;margin-top:5px;\">your answer</div></td><td style=\"width:7%;text-align:center;vertical-align:middle;color:#A88A3D;font-size:26px;line-height:1;\">&#8594;</td><td style=\"width:28.67%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:16px 12px;vertical-align:top;text-align:center;\"><div style=\"font-size:38px;color:#A88A3D;line-height:1;\">2</div><div style=\"font-size:18px;color:#141838;line-height:1.25;margin-top:6px;\">Read</div><div style=\"font-size:12.5px;color:#2A2840;line-height:1.45;margin-top:5px;\">posts unlock after yours</div></td><td style=\"width:7%;text-align:center;vertical-align:middle;color:#A88A3D;font-size:26px;line-height:1;\">&#8594;</td><td style=\"width:28.67%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:16px 12px;vertical-align:top;text-align:center;\"><div style=\"font-size:38px;color:#A88A3D;line-height:1;\">3</div><div style=\"font-size:18px;color:#141838;line-height:1.25;margin-top:6px;\">Reply</div><div style=\"font-size:12.5px;color:#2A2840;line-height:1.45;margin-top:5px;\">two classmates</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Your post</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:20px;min-width:20px;color:#A88A3D;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.6;padding:0 0 11px 8px;\">Sentence one: pick a side.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A88A3D;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.6;padding:0 0 11px 8px;\">Ransom&rsquo;s choice, and its chapter.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A88A3D;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.6;padding:0 0 11px 8px;\">What he meant, kept apart from what he is answerable for.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A88A3D;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.6;padding:0 0 11px 8px;\">The strongest objection to your side, answered:</td></tr></tbody></table><div style=\"background:#FBF6E6;border-left:6px solid #A88A3D;padding:18px 22px;margin:0 0 16px 0;\"><div style=\"font-size:15px;color:#2A2840;line-height:1.65;\"><strong>Whin is right?</strong> Ransom had no way of knowing where the men were.<br /><br /><strong>Whin is wrong?</strong> The eldil told him plainly to go, and he chose the hunt.</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:20px;min-width:20px;color:#A88A3D;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.6;padding:0 0 11px 8px;\">One more sentence: does &#8220;I did not know&#8221; settle it?</td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Your replies</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0 0 8px 0;\"><tbody><tr><td style=\"width:33.33%;border-top:4px solid #9C93D1;background:#F6F5FB;padding:16px 18px;vertical-align:top;\"><div style=\"font-size:19px;color:#141838;line-height:1.3;\">Add</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.6;margin-top:7px;\">Evidence they did not use.</div></td><td style=\"width:33.33%;border-top:4px solid #9C93D1;background:#F6F5FB;padding:16px 18px;vertical-align:top;\"><div style=\"font-size:19px;color:#141838;line-height:1.3;\">Challenge</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.6;margin-top:7px;\">A weak spot, and why.</div></td><td style=\"width:33.33%;border-top:4px solid #9C93D1;background:#F6F5FB;padding:16px 18px;vertical-align:top;\"><div style=\"font-size:19px;color:#141838;line-height:1.3;\">Ask</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.6;margin-top:7px;\">A question they can answer.</div></td></tr></tbody></table><div style=\"font-size:13.5px;color:#6E6A86;line-height:1.65;margin:0 0 18px 0;\">&#8220;I agree&#8221; is not a reply. Argue the idea, not the person. Cite chapters; never paste a passage.</div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">My first sentence picks a side.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Choice, chapter, objection, and the &#8220;I did not know&#8221; sentence.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Two replies: add, challenge, or ask.</td></tr></tbody></table>",
+   "graded": true,
+   "points": 25.0,
+   "group": "os_ag_assignments",
+   "rubric": "os_r_forum1",
+   "rubric_use_for_grading": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": true,
+   "week": 13,
+   "kind": "module-discussion"
+  },
+  {
+   "id": "os_d_forum2",
+   "title": "All-Class Forum 2: Weston in Translation",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#141838;border-bottom:5px solid #A88A3D;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Weston in Translation</span><div style=\"color:#9C93D1;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">All-Class Forum 2 &middot; Weeks 5 and 6</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">25 points</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">1 post + 2 replies</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Opens Week 5</span><span style=\"display:inline-block;border:1px solid #DEDAEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6E6A86;background:#ffffff;\">Closes early in Week 6</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"background:#141838;border-left:9px solid #A88A3D;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">Did the translation expose a bad argument, or strip a real one of its power?</div></div><div style=\"font-size:13.5px;color:#6E6A86;line-height:1.65;margin:0 0 18px 0;\">Chapter 20. Weston speaks to the Oyarsa; Ransom translates.</div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Three moves</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:28.67%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:16px 12px;vertical-align:top;text-align:center;\"><div style=\"font-size:38px;color:#A88A3D;line-height:1;\">1</div><div style=\"font-size:18px;color:#141838;line-height:1.25;margin-top:6px;\">Post</div><div style=\"font-size:12.5px;color:#2A2840;line-height:1.45;margin-top:5px;\">your answer</div></td><td style=\"width:7%;text-align:center;vertical-align:middle;color:#A88A3D;font-size:26px;line-height:1;\">&#8594;</td><td style=\"width:28.67%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:16px 12px;vertical-align:top;text-align:center;\"><div style=\"font-size:38px;color:#A88A3D;line-height:1;\">2</div><div style=\"font-size:18px;color:#141838;line-height:1.25;margin-top:6px;\">Read</div><div style=\"font-size:12.5px;color:#2A2840;line-height:1.45;margin-top:5px;\">posts unlock after yours</div></td><td style=\"width:7%;text-align:center;vertical-align:middle;color:#A88A3D;font-size:26px;line-height:1;\">&#8594;</td><td style=\"width:28.67%;background:#F6F5FB;border-top:4px solid #9C93D1;padding:16px 12px;vertical-align:top;text-align:center;\"><div style=\"font-size:38px;color:#A88A3D;line-height:1;\">3</div><div style=\"font-size:18px;color:#141838;line-height:1.25;margin-top:6px;\">Reply</div><div style=\"font-size:12.5px;color:#2A2840;line-height:1.45;margin-top:5px;\">two classmates</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Your post</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:20px;min-width:20px;color:#A88A3D;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.6;padding:0 0 11px 8px;\">Sentence one: pick a side.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A88A3D;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.6;padding:0 0 11px 8px;\">One thing Ransom could not carry over, and what it became.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A88A3D;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.6;padding:0 0 11px 8px;\">What the plain version loses and reveals.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A88A3D;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.6;padding:0 0 11px 8px;\">The strongest objection to your side, answered:</td></tr></tbody></table><div style=\"background:#FBF6E6;border-left:6px solid #A88A3D;padding:18px 22px;margin:0 0 16px 0;\"><div style=\"font-size:15px;color:#2A2840;line-height:1.65;\"><strong>Exposed?</strong> A hostile translator can make a real argument sound silly, and Ransom is hostile.<br /><br /><strong>Stripped?</strong> The plain words still report Weston&rsquo;s own reasoning.</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:20px;min-width:20px;color:#A88A3D;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.6;padding:0 0 11px 8px;\">One more sentence. Weston says life spreads, so it ought to; and it is humanity or nothing. What is wrong with one?</td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Your replies</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0 0 8px 0;\"><tbody><tr><td style=\"width:33.33%;border-top:4px solid #9C93D1;background:#F6F5FB;padding:16px 18px;vertical-align:top;\"><div style=\"font-size:19px;color:#141838;line-height:1.3;\">Add</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.6;margin-top:7px;\">Evidence they did not use.</div></td><td style=\"width:33.33%;border-top:4px solid #9C93D1;background:#F6F5FB;padding:16px 18px;vertical-align:top;\"><div style=\"font-size:19px;color:#141838;line-height:1.3;\">Challenge</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.6;margin-top:7px;\">A weak spot, and why.</div></td><td style=\"width:33.33%;border-top:4px solid #9C93D1;background:#F6F5FB;padding:16px 18px;vertical-align:top;\"><div style=\"font-size:19px;color:#141838;line-height:1.3;\">Ask</div><div style=\"font-size:13.5px;color:#2A2840;line-height:1.6;margin-top:7px;\">A question they can answer.</div></td></tr></tbody></table><div style=\"font-size:13.5px;color:#6E6A86;line-height:1.65;margin:0 0 18px 0;\">&#8220;I agree&#8221; is not a reply. Argue the idea, not the person. Cite chapters; never paste a passage.</div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#141838;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #A88A3D;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">My first sentence picks a side.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Lost, revealed, the objection, the Weston sentence.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9C93D1;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2A2840;line-height:1.55;padding:2px 0 13px 4px;\">Two replies: add, challenge, or ask.</td></tr></tbody></table>",
+   "graded": true,
+   "points": 25.0,
+   "group": "os_ag_assignments",
+   "rubric": "os_r_forum2",
+   "rubric_use_for_grading": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": true,
+   "week": 16,
+   "kind": "module-discussion"
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "os_m_w1",
+   "title": "Module 2 · Week 1: Science Fiction and the Art of World-Building",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "os_p_w1_l1",
+     "week": 11,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w1_l2",
+     "week": 11,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w1_l3",
+     "week": 11,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w1_l4",
+     "week": 11,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "os_a_w1_work",
+     "week": 11
+    },
+    {
+     "type": "assignment",
+     "ref": "os_a_journal",
+     "week": 11
+    }
+   ]
+  },
+  {
+   "id": "os_m_w2",
+   "title": "Module 2 · Week 2: Tone, Mood, and Imitating a Master",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "os_p_w2_l1",
+     "week": 12,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w2_l2",
+     "week": 12,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w2_l3",
+     "week": 12,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w2_l4",
+     "week": 12,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "os_a_w2_work",
+     "week": 12
+    },
+    {
+     "type": "assignment",
+     "ref": "os_a_rr1",
+     "week": 12
+    }
+   ]
+  },
+  {
+   "id": "os_m_w3",
+   "title": "Module 2 · Week 3: Word Choice, Connotation, and Point of View",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "os_p_w3_l1",
+     "week": 13,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w3_l2",
+     "week": 13,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w3_l3",
+     "week": 13,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w3_l4",
+     "week": 13,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "os_a_w3_work",
+     "week": 13
+    },
+    {
+     "type": "discussion",
+     "ref": "os_d_forum1",
+     "week": 13
+    }
+   ]
+  },
+  {
+   "id": "os_m_w4",
+   "title": "Module 2 · Week 4: Compare and Contrast; Drafting the Story",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "os_p_w4_l1",
+     "week": 14,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w4_l2",
+     "week": 14,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w4_l3",
+     "week": 14,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w4_l4",
+     "week": 14,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "os_a_w4_work",
+     "week": 14
+    },
+    {
+     "type": "assignment",
+     "ref": "os_a_rr2",
+     "week": 14
+    }
+   ]
+  },
+  {
+   "id": "os_m_w5",
+   "title": "Module 2 · Week 5: Sound, Judgment, and Building the Scene",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "os_p_w5_l1",
+     "week": 15,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w5_l2",
+     "week": 15,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w5_l3",
+     "week": 15,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w5_l4",
+     "week": 15,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "os_a_w5_work",
+     "week": 15
+    }
+   ]
+  },
+  {
+   "id": "os_m_w6",
+   "title": "Module 2 · Week 6: Final Project Week: Build Your First-Contact Story",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "os_p_w6_l1",
+     "week": 16,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w6_l2",
+     "week": 16,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w6_l3",
+     "week": 16,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "os_p_w6_l4",
+     "week": 16,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "os_a_w6_work",
+     "week": 16
+    },
+    {
+     "type": "discussion",
+     "ref": "os_d_forum2",
+     "week": 16
+    },
+    {
+     "type": "assignment",
+     "ref": "os_a_story",
+     "week": 16
+    },
+    {
+     "type": "assignment",
+     "ref": "os_a_monologue",
+     "week": 16
+    },
+    {
+     "type": "assignment",
+     "ref": "os_a_journal_check",
+     "week": 16
+    },
+    {
+     "type": "assignment",
+     "ref": "os_a_ir_check_q2",
+     "week": 16
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Built 2026-10-24 by _src/canvas/make_kit_spec.py from OneDrive 8th Grade ELA Build (Canvas-Ready): 'Module 2 - Out of the Silent Planet_Weeks2-6_Integrated' (canvas-native/*.md + *.html, _src/wN/week.json, lesson page titles, index-wN.html Week Work rubrics) and 'Module 2 - Out of the Silent Planet_PILOT_Week1_Integrated' (Week 1 lessons, index.html). Lessons are live at https://optimaondemand.github.io/mj-english-language-arts-3/module-2-out-of-the-silent-planet-sparkle/. All-Class Forums 1-2, Recorded Readings 1-2, the First-Contact Short Story and Malacandra Speaks carry the 1001070-s1 items' points, rubrics and submission types unchanged (d443, d444, a8260, a8261, a5401, a5399); their descriptions are restyled. Reading Journal Setup, Reading Journal Check and Independent Reading Check Q2 are copied unchanged from the 1001070-s1 spec (a5385, a5381, a7967 with rubric r552; ids prefixed os_). Set the Scene (VR) is folded into Week 6 Work. No Language Checks (the original module has none). Week titles from the original module maps. Sparkle = the integrated-week redesign of Module 2; the original Module 2 ships in 1001070-s1."
+ }
+}
