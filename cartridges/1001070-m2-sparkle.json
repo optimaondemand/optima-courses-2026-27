@@ -4,18 +4,18 @@
  "code": "1001070",
  "title": "M/J Language Arts 3 · Out of the Silent Planet (Sparkle)",
  "file": "cartridges/1001070-m2-sparkle.imscc",
- "bytes": 73390,
- "version": "2026.10.24",
- "built": "2026-10-24T16:05:12",
+ "bytes": 68035,
+ "version": "2026.10.26",
+ "built": "2026-10-26T06:18:21",
  "front_page": "wiki_content/course-home.html",
- "items": 39,
+ "items": 37,
  "modules": [
   {
    "id": "os_m_w1",
    "title": "Module 2 · Week 1: Science Fiction and the Art of World-Building",
    "gid": "g47d48845bef404e3f80b3b5ea52f2184",
    "published": true,
-   "items": 6,
+   "items": 5,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -55,18 +55,18 @@
    "title": "Module 2 · Week 6: Final Project Week: Build Your First-Contact Story",
    "gid": "geea17b44e03e4ceec709af58b1a6319f",
    "published": true,
-   "items": 10,
+   "items": 9,
    "xml": "course_settings/module_meta.xml"
   }
  ],
  "counts": {
   "pages": 25,
-  "assignments": 13,
+  "assignments": 11,
   "quizzes": 0,
   "discussions": 2,
   "files": 0,
   "modules": 6,
-  "items": 39
+  "items": 37
  },
  "weights": [
   {
@@ -264,42 +264,6 @@
    "lock_at": null
   },
   {
-   "id": "os_a_journal",
-   "type": "assignment",
-   "title": "Reading Journal Setup (your Module 2 - Out of the Silent Planet home base)",
-   "gid": "g30335d8a42a4c53ee9e7c747b608b027",
-   "xml": "g30335d8a42a4c53ee9e7c747b608b027/assignment_settings.xml",
-   "module": "os_m_w1",
-   "week": 11,
-   "kind": null,
-   "points": 5.0,
-   "points_editable": true,
-   "graded": true,
-   "group": "g3b4e4c94eba3e0f619a95ec7b5fa6ab7",
-   "published": true,
-   "due_at": null,
-   "unlock_at": null,
-   "lock_at": null
-  },
-  {
-   "id": "os_a_journal_check",
-   "type": "assignment",
-   "title": "Reading Journal Check (every two weeks)",
-   "gid": "gd26cbd3b01ceed051e13a7c1f6e9ee84",
-   "xml": "gd26cbd3b01ceed051e13a7c1f6e9ee84/assignment_settings.xml",
-   "module": "os_m_w6",
-   "week": 16,
-   "kind": null,
-   "points": 5.0,
-   "points_editable": true,
-   "graded": true,
-   "group": "g3b4e4c94eba3e0f619a95ec7b5fa6ab7",
-   "published": true,
-   "due_at": null,
-   "unlock_at": null,
-   "lock_at": null
-  },
-  {
    "id": "os_a_ir_check_q2",
    "type": "assignment",
    "title": "Independent Reading Check — Q2",
@@ -366,33 +330,33 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 43,
+   "resources": 41,
    "resource_types": {
-    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 16,
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 14,
     "webcontent": 25,
     "imsdt_xmlv1p1": 2
    },
-   "organization_items": 39,
+   "organization_items": 37,
    "modules": 6,
-   "module_items": 39,
+   "module_items": 37,
    "module_item_types": {
     "WikiPage": 24,
-    "Assignment": 13,
+    "Assignment": 11,
     "DiscussionTopic": 2
    },
    "default_view": "wiki",
    "pages": 25,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 1,
-   "group_refs": 15,
+   "group_refs": 13,
    "quizzes": 0,
-   "assignments": 13,
+   "assignments": 11,
    "discussions": 2,
    "files": 0,
-   "points_listed": 430.0
+   "points_listed": 420.0
   }
  },
  "status": "ready",
- "spec_sha": "5e92897e8751cbee1752e95ecc3b5e8f6cbf9282312e1e0ccde839b05f3f6ea3",
+ "spec_sha": "6e0c4c94cff602173098f60d6100e2a41d7602052af116c08af3d0da37f2c806",
  "art_pack": null
 }
