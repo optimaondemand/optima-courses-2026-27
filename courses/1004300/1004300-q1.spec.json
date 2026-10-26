@@ -1,0 +1,3055 @@
+{
+ "course": {
+  "title": "Semantics and Logic Honors",
+  "code": "1004300",
+  "default_view": "wiki",
+  "weighted": false,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Weekly Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_quizzes",
+   "title": "Weekly Quizzes",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_w1",
+   "title": "Week 1 Assignment Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Task 1: Find Three",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Three statements copied with sources; each placed in the right category with a correct reason (premises/conclusion named; assertion vs. opinion told apart; agreed fact and cause named).",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "All three present, but one or two are miscategorized or the reasons are missing.",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing or not the student's own examples.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 2: Build an Argument",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Argument with labeled premise(s) and conclusion; rewrite uses a named pressure and gives no reasons; comparison says what the argument lets a listener examine or test.",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "Two of the three parts done correctly.",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 3: Turn It Around",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Same two facts used as an explanation (agreed fact + cause) and as an argument (evidence + conclusion), with a sentence on what changed.",
+       "points": 4
+      },
+      {
+       "description": "Partial",
+       "long_description": "Both versions present, but they use different facts or one version is mislabeled.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing, or uses the rain example from the lesson.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_w2",
+   "title": "Week 2 Assignment Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Task 1: Take It Apart",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "A real argument copied with its source; premises and conclusion correctly labeled; the student explains how they recognized them (clue words or the two questions); one non-argument sentence correctly named as an explanation, assertion, or description.",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "The argument and its parts are present, but one part is mislabeled or the explanation of how they knew is missing.",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing, or not a real argument from the student's own reading or listening.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 2: Name Its Kind",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Argument correctly named as deductive, inductive, or abductive with a reason tied to whether the premises could be true while the conclusion is false; a rewrite of a different kind on the same topic; a comparison of what the two conclusions claim.",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "Two of the three parts done correctly.",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 3: Run the Two Tests",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Three syllogisms on the student's own categories: one sound, one valid but not sound (a false premise identified), one invalid with true premises (letter form and explanation given).",
+       "points": 4
+      },
+      {
+       "description": "Partial",
+       "long_description": "All three present, but one is mislabeled or the explanation of why it is valid or invalid is missing.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing, or uses examples from the lessons.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_w3",
+   "title": "Week 3 Assignment Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Task 1: Draw It",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Three categories of the student's own; an \"All\" statement and a \"No\" statement with the shaded regions named correctly for each; a correct judgment on whether \"No A's are C's\" is shown, naming the deciding regions.",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "Statements and categories present, but the regions are partly wrong or the judgment is not tied to the regions.",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing, or not the student's own categories.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 2: Test Two Arguments",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "A valid and an invalid argument, each with two premises and a conclusion; shading named for both; the open region in the invalid argument identified, with a possible instance described.",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "Both arguments present, but one is misclassified or the region reasoning is incomplete.",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 3: Find an Argument",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "An argument copied exactly with its source (not Philoponus, Lincoln, or Galileo); premises and conclusion listed; an unstated premise named; a judgment on whether the conclusion follows.",
+       "points": 4
+      },
+      {
+       "description": "Partial",
+       "long_description": "Two of the four parts done correctly.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing, or uses one of the lesson's three arguments.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_w4",
+   "title": "Week 4 Assignment Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Task 1: Find Two",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Two real examples copied with sources, using two different fallacies of relevance; each correctly named, with its conclusion and offered premise stated, and a clear reason the premise is irrelevant.",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "Both examples present, but one is miscategorized, the conclusion or premise is unclear, or the irrelevance is not explained.",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing, or not the student's own examples.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 2: Rebuild One",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Conclusion stated accurately; a premise that really bears on that conclusion (or a reasoned explanation that none exists); a comparison saying what the new premise gives a listener.",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "Two of the three parts done correctly (for example, the new premise is still a threat, a crowd, a person, or a plea).",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 3: Trace It",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "The other example written as numbered premises and a conclusion, translated into letters, with a correct judgment of valid or invalid and whether the fallacy lies in form or content.",
+       "points": 4
+      },
+      {
+       "description": "Partial",
+       "long_description": "Numbered form and letters present, but the form is mistranslated or the form/content judgment is missing or wrong.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing, or reuses the Task 2 example.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_w5",
+   "title": "Week 5 Assignment Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Task 1: Find Three Fallacies",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Three examples copied with sources, each a different fallacy from the week; each correctly named, with a reason that separates it from a similar fallacy.",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "All three present, but one or two are misnamed, repeat a fallacy, or the reasons are missing.",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing or not the student's own examples.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 2: Repair One",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Names which Task 1 fallacy is being repaired; the repair answers the claim actually made (or corrects the reasoning or states the honest conclusion); explains what the repair does that the original did not.",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "Two of the three parts done correctly.",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 3: Build an Ambiguity",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Two-premise argument that equivocates on a word of the student's own; the two senses named and matched to the premises; a sentence on what happens when the word keeps one meaning.",
+       "points": 4
+      },
+      {
+       "description": "Partial",
+       "long_description": "Argument and senses present, but the shift is not clear or the one-meaning rewrite is missing.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing, or uses one of the words excluded on the Task 3 sheet.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_w6",
+   "title": "Week 6 Assignment Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Task 1: Find Two",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Two examples copied with sources; two different fallacies correctly named; each explanation says what the premise assumes, leaves out, or borrows.",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "Both examples present, but one is miscategorized, the two fallacies are the same, or an explanation is missing.",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing or not the student's own examples.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 2: Build and Repair",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Flawed argument or loaded question in premise/conclusion form; fallacy named with the unwarranted words identified; repair uses a premise that can be accepted without assuming the conclusion; reflection says what the new premise does.",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "Two of the three parts done correctly (for example, the repair still restates the conclusion).",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 3: Test an Authority",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Claim and source copied; all three questions answered for the source; verdict given with what would strengthen the appeal.",
+       "points": 4
+      },
+      {
+       "description": "Partial",
+       "long_description": "Claim and verdict present, but one or two of the three questions are unanswered or the verdict is unsupported.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_w7",
+   "title": "Week 7 Assignment Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Task 1: Find Two",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Two messages (an advertisement, and a speech, announcement, or post) copied exactly with sources; each fallacy named correctly with an explanation of how the message uses it and what it offers in place of evidence.",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "Both messages present, but one fallacy is misnamed or an explanation is missing.",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing or not the student's own examples.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 2: Repair It",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Names what the chosen message wants; gives a fair version with labeled, checkable premise(s) and a conclusion; says what evidence would be needed and where to find it.",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "Two of the three parts done correctly.",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 3: Practice the Habits",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "States the strongest argument against a claim of the student's own, names the virtue it took and where it was hard, and describes a specific situation for one online habit.",
+       "points": 4
+      },
+      {
+       "description": "Partial",
+       "long_description": "Two of the three parts present, or the opposing argument is a weak or distorted version.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_w8",
+   "title": "Week 8 Assignment Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Task 1: Name the Forms",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Three arguments in three different forms, each in standard form with premises and conclusion labeled and the form named correctly; one invalid look-alike named correctly, with a situation where the premises are true and the conclusion false.",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "Two of the three arguments are correct, or the look-alike is missing or misnamed.",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing, or the examples are copied from the lessons.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 2: Build a Chain",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "A claim with a challenged reason; a two-step argument whose first conclusion is used as a premise in the second; each step's form named correctly; the intermediate conclusion identified with a reason.",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "Two-step chain present, but a form is misnamed, the link is missing, or the intermediate conclusion is not identified.",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing, or only a single argument.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 3: Map and Test",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "An argument of three or more steps (not a lesson example), mapped with arrows; the final and intermediate conclusions named; the form of each step named; the weakest link named with a way to strengthen it.",
+       "points": 4
+      },
+      {
+       "description": "Partial",
+       "long_description": "Map present, but the conclusions are not all identified or the forms are missing.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing, or uses a lesson example.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_w9",
+   "title": "Week 9 Assignment Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Task 1: Find an Argument",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "An argument from real text, copied exactly with its source; its form written with P and Q and what they stand for; the form it resembles is named, with a valid or invalid verdict and a reason.",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "Argument and form present, but the P and Q mapping is incomplete, the form is misnamed, or the verdict has no reason.",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing or not the student's own find.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 2: Build a Counterexample",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Counterexample keeps the same form with new content; the three checks (same form, true premises, false conclusion) are each run with a reason; a strategy from Lesson 3.03d is named and its use explained.",
+       "points": 8
+      },
+      {
+       "description": "Partial",
+       "long_description": "Two of the three parts done correctly (for example, a counterexample whose conclusion is not clearly false, or checks with no reasons).",
+       "points": 4
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Task 3: Try to Break a Valid Form",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "A valid form is named, an attempt is written, the exact collision is explained (which premise or conclusion cannot be made true or false), and \"not found\" is distinguished from \"not possible.\"",
+       "points": 4
+      },
+      {
+       "description": "Partial",
+       "long_description": "Attempt and explanation present, but the collision is vague or the distinction is missing.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "Missing, or the form chosen is invalid.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_w1_1_01a",
+   "title": "Lesson 1.01a: What Is an Argument?",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w01-1.01a-what-is-an-argument.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w1_1_01b",
+   "title": "Lesson 1.01b: The Purpose of Arguments",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w01-1.01b-the-purpose-of-arguments.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w1_1_01c",
+   "title": "Lesson 1.01c: Arguments vs. Persuasion",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w01-1.01c-arguments-vs-persuasion.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w2_1_02a",
+   "title": "Lesson 1.02a: The Parts of Arguments",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w02-1.02a-the-parts-of-arguments.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w2_1_02b",
+   "title": "Lesson 1.02b: Identifying Arguments",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w02-1.02b-identifying-arguments.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w2_1_02c",
+   "title": "Lesson 1.02c: Deductive, Inductive, and Abductive Arguments",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w02-1.02c-deductive-inductive-and-abductive-arguments.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w2_1_03a",
+   "title": "Lesson 1.03a: The Two Tests of a Sound Argument",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w02-1.03a-the-two-tests-of-a-sound-argument.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w3_1_03b",
+   "title": "Lesson 1.03b: Venn Diagrams",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w03-1.03b-venn-diagrams.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w3_1_03c",
+   "title": "Lesson 1.03c: A Few Arguments in History",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w03-1.03c-a-few-arguments-in-history.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w4_2_01a",
+   "title": "Lesson 2.01a: Introducing Fallacies",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w04-2.01a-introducing-fallacies.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w4_2_01b",
+   "title": "Lesson 2.01b: Formal vs. Informal Fallacies",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w04-2.01b-formal-vs-informal-fallacies.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w4_2_02a",
+   "title": "Lesson 2.02a: Relevance",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w04-2.02a-relevance.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w4_2_02b",
+   "title": "Lesson 2.02b: The Ad Hominem Fallacy",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w04-2.02b-the-ad-hominem-fallacy.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w4_2_02c",
+   "title": "Lesson 2.02c: Fallacies of Force, Popularity, and Pity",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w04-2.02c-fallacies-of-force-popularity-and-pity.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w5_2_02d",
+   "title": "Lesson 2.02d: The Argument from Ignorance Fallacy",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w05-2.02d-the-argument-from-ignorance-fallacy.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w5_2_02e",
+   "title": "Lesson 2.02e: The Straw Man and Red Herring Fallacies",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w05-2.02e-straw-man-and-red-herring-fallacies.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w5_2_03a",
+   "title": "Lesson 2.03a: Univocity",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w05-2.03a-univocity.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w5_2_03b",
+   "title": "Lesson 2.03b: The Fallacies of Equivocation and Amphiboly",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w05-2.03b-equivocation-and-amphiboly.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w5_2_03c",
+   "title": "Lesson 2.03c: The Fallacies of Composition and Division",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w05-2.03c-composition-and-division.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w6_2_04a",
+   "title": "Lesson 2.04a: Warrant",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w06-2.04a-warrant.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w6_2_04b",
+   "title": "Lesson 2.04b: Begging the Question and Complex Question",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w06-2.04b-begging-the-question-and-complex-question.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w6_2_04c",
+   "title": "Lesson 2.04c: False Cause and False Dilemma",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w06-2.04c-false-cause-and-false-dilemma.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w6_2_04d",
+   "title": "Lesson 2.04d: Appealing to an Unreliable Authority",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w06-2.04d-appealing-to-an-unreliable-authority.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w7_2_05a",
+   "title": "Lesson 2.05a: Fallacies in Advertising and Political Speech",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w07-2.05a-fallacies-in-advertising-and-political-speech.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w7_2_05b",
+   "title": "Lesson 2.05b: Fallacies in Online and Social Media Contexts",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w07-2.05b-fallacies-in-online-and-social-media-contexts.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w7_2_05c",
+   "title": "Lesson 2.05c: Intellectual Virtues and Habits of Strong Thinkers",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w07-2.05c-intellectual-virtues-and-habits-of-strong-thinkers.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w8_3_01a",
+   "title": "Lesson 3.01a: Modus Ponens and Modus Tollens",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w08-3.01a-modus-ponens-and-modus-tollens.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w8_3_01b",
+   "title": "Lesson 3.01b: Hypothetical Syllogism",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w08-3.01b-hypothetical-syllogism.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w8_3_01c",
+   "title": "Lesson 3.01c: Disjunctive Syllogism and Constructive Dilemma",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w08-3.01c-disjunctive-syllogism-and-constructive-dilemma.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w8_3_02a",
+   "title": "Lesson 3.02a: Why Arguments Need Support",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w08-3.02a-why-arguments-need-support.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w8_3_02b",
+   "title": "Lesson 3.02b: Intermediate Conclusions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w08-3.02b-intermediate-conclusions.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w8_3_02c",
+   "title": "Lesson 3.02c: Chaining Argument Forms Together",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w08-3.02c-chaining-argument-forms-together.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w8_3_02d",
+   "title": "Lesson 3.02d: Argument Trees and Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w08-3.02d-argument-trees-and-maps.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w8_3_02e",
+   "title": "Lesson 3.02e: Analyzing a Complex Argument",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w08-3.02e-analyzing-a-complex-argument.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w9_3_03a",
+   "title": "Lesson 3.03a: What Is the Counterexample Method?",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w09-3.03a-what-is-the-counterexample-method.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w9_3_03b",
+   "title": "Lesson 3.03b: How to Construct a Counterexample",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w09-3.03b-how-to-construct-a-counterexample.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w9_3_03c",
+   "title": "Lesson 3.03c: Testing Famous Invalid Forms",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w09-3.03c-testing-famous-invalid-forms.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_w9_3_03d",
+   "title": "Lesson 3.03d: Strategies for Creating Counterexamples",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w09-3.03d-strategies-for-creating-counterexamples.html\" style=\"width:100%;height:2200px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a_w1",
+   "title": "Week 1 Assignment: Arguments in the Wild",
+   "html": "<h2>Week 1 Assignment: Arguments in the Wild</h2>\n<table>\n  <tbody>\n    <tr><th>Points</th><td>20</td></tr>\n    <tr><th>Submit</th><td>One PDF</td></tr>\n    <tr><th>Time</th><td>About 45 minutes</td></tr>\n  </tbody>\n</table>\n<h3>Steps</h3>\n<ol>\n  <li>Open the assignment page: <a href=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w01-assignment-arguments-in-the-wild.html\" target=\"_blank\" rel=\"noopener\">Arguments in the Wild</a>.</li>\n  <li>Complete Tasks 1, 2, and 3. Your answers save as you go.</li>\n  <li>On the Submit sheet, select <strong>Download my PDF</strong>.</li>\n  <li>Upload the PDF here and submit.</li>\n</ol>",
+   "points": 20,
+   "group": "ag_assignments",
+   "rubric": "r_w1",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 1,
+   "kind": "weekly-assignment"
+  },
+  {
+   "id": "a_w2",
+   "title": "Week 2 Assignment: Taking Arguments Apart",
+   "html": "<h2>Week 2 Assignment: Taking Arguments Apart</h2>\n<table>\n  <tbody>\n    <tr><th>Points</th><td>20</td></tr>\n    <tr><th>Submit</th><td>One PDF</td></tr>\n    <tr><th>Time</th><td>About 50 minutes</td></tr>\n  </tbody>\n</table>\n<h3>Steps</h3>\n<ol>\n  <li>Open the assignment page: <a href=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w02-assignment-taking-arguments-apart.html\" target=\"_blank\" rel=\"noopener\">Taking Arguments Apart</a>.</li>\n  <li>Complete Tasks 1, 2, and 3. Your answers save as you go.</li>\n  <li>On the Submit sheet, select <strong>Download my PDF</strong>.</li>\n  <li>Upload the PDF here and submit.</li>\n</ol>",
+   "points": 20,
+   "group": "ag_assignments",
+   "rubric": "r_w2",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "weekly-assignment"
+  },
+  {
+   "id": "a_w3",
+   "title": "Week 3 Assignment: Draw the Argument",
+   "html": "<h2>Week 3 Assignment: Draw the Argument</h2>\n<table>\n  <tbody>\n    <tr><th>Points</th><td>20</td></tr>\n    <tr><th>Submit</th><td>One PDF</td></tr>\n    <tr><th>Time</th><td>About 45 minutes</td></tr>\n  </tbody>\n</table>\n<h3>Steps</h3>\n<ol>\n  <li>Open the assignment page: <a href=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w03-assignment-draw-the-argument.html\" target=\"_blank\" rel=\"noopener\">Draw the Argument</a>.</li>\n  <li>Complete Tasks 1, 2, and 3. Your answers save as you go.</li>\n  <li>On the Submit sheet, select <strong>Download my PDF</strong>.</li>\n  <li>Upload the PDF here and submit.</li>\n</ol>",
+   "points": 20,
+   "group": "ag_assignments",
+   "rubric": "r_w3",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "weekly-assignment"
+  },
+  {
+   "id": "a_w4",
+   "title": "Week 4 Assignment: Spotting Fallacies of Relevance",
+   "html": "<h2>Week 4 Assignment: Spotting Fallacies of Relevance</h2>\n<table>\n  <tbody>\n    <tr><th>Points</th><td>20</td></tr>\n    <tr><th>Submit</th><td>One PDF</td></tr>\n    <tr><th>Time</th><td>About 45 minutes</td></tr>\n  </tbody>\n</table>\n<h3>Steps</h3>\n<ol>\n  <li>Open the assignment page: <a href=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w04-assignment-spotting-fallacies-of-relevance.html\" target=\"_blank\" rel=\"noopener\">Spotting Fallacies of Relevance</a>.</li>\n  <li>Complete Tasks 1, 2, and 3. Your answers save as you go.</li>\n  <li>On the Submit sheet, select <strong>Download my PDF</strong>.</li>\n  <li>Upload the PDF here and submit.</li>\n</ol>",
+   "points": 20,
+   "group": "ag_assignments",
+   "rubric": "r_w4",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "weekly-assignment"
+  },
+  {
+   "id": "a_w5",
+   "title": "Week 5 Assignment: Catching Fallacies",
+   "html": "<h2>Week 5 Assignment: Catching Fallacies</h2>\n<table>\n  <tbody>\n    <tr><th>Points</th><td>20</td></tr>\n    <tr><th>Submit</th><td>One PDF</td></tr>\n    <tr><th>Time</th><td>About 45 minutes</td></tr>\n  </tbody>\n</table>\n<h3>Steps</h3>\n<ol>\n  <li>Open the assignment page: <a href=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w05-assignment-catching-fallacies.html\" target=\"_blank\" rel=\"noopener\">Catching Fallacies</a>.</li>\n  <li>Complete Tasks 1, 2, and 3. Your answers save as you go.</li>\n  <li>On the Submit sheet, select <strong>Download my PDF</strong>.</li>\n  <li>Upload the PDF here and submit.</li>\n</ol>",
+   "points": 20,
+   "group": "ag_assignments",
+   "rubric": "r_w5",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "weekly-assignment"
+  },
+  {
+   "id": "a_w6",
+   "title": "Week 6 Assignment: Fallacies of Presumption",
+   "html": "<h2>Week 6 Assignment: Fallacies of Presumption</h2>\n<table>\n  <tbody>\n    <tr><th>Points</th><td>20</td></tr>\n    <tr><th>Submit</th><td>One PDF</td></tr>\n    <tr><th>Time</th><td>About 45 minutes</td></tr>\n  </tbody>\n</table>\n<h3>Steps</h3>\n<ol>\n  <li>Open the assignment page: <a href=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w06-assignment-fallacies-of-presumption.html\" target=\"_blank\" rel=\"noopener\">Fallacies of Presumption</a>.</li>\n  <li>Complete Tasks 1, 2, and 3. Your answers save as you go.</li>\n  <li>On the Submit sheet, select <strong>Download my PDF</strong>.</li>\n  <li>Upload the PDF here and submit.</li>\n</ol>",
+   "points": 20,
+   "group": "ag_assignments",
+   "rubric": "r_w6",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "weekly-assignment"
+  },
+  {
+   "id": "a_w7",
+   "title": "Week 7 Assignment: Fallacies in Persuasion",
+   "html": "<h2>Week 7 Assignment: Fallacies in Persuasion</h2>\n<table>\n  <tbody>\n    <tr><th>Points</th><td>20</td></tr>\n    <tr><th>Submit</th><td>One PDF</td></tr>\n    <tr><th>Time</th><td>About 45 minutes</td></tr>\n  </tbody>\n</table>\n<h3>Steps</h3>\n<ol>\n  <li>Open the assignment page: <a href=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w07-assignment-fallacies-in-persuasion.html\" target=\"_blank\" rel=\"noopener\">Fallacies in Persuasion</a>.</li>\n  <li>Complete Tasks 1, 2, and 3. Your answers save as you go.</li>\n  <li>On the Submit sheet, select <strong>Download my PDF</strong>.</li>\n  <li>Upload the PDF here and submit.</li>\n</ol>",
+   "points": 20,
+   "group": "ag_assignments",
+   "rubric": "r_w7",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "weekly-assignment"
+  },
+  {
+   "id": "a_w8",
+   "title": "Week 8 Assignment: Argument Forms and Chains",
+   "html": "<h2>Week 8 Assignment: Argument Forms and Chains</h2>\n<table>\n  <tbody>\n    <tr><th>Points</th><td>20</td></tr>\n    <tr><th>Submit</th><td>One PDF</td></tr>\n    <tr><th>Time</th><td>About 60 minutes</td></tr>\n  </tbody>\n</table>\n<h3>Steps</h3>\n<ol>\n  <li>Open the assignment page: <a href=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w08-assignment-argument-forms-and-chains.html\" target=\"_blank\" rel=\"noopener\">Argument Forms and Chains</a>.</li>\n  <li>Complete Tasks 1, 2, and 3. Your answers save as you go.</li>\n  <li>On the Submit sheet, select <strong>Download my PDF</strong>.</li>\n  <li>Upload the PDF here and submit.</li>\n</ol>",
+   "points": 20,
+   "group": "ag_assignments",
+   "rubric": "r_w8",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 8,
+   "kind": "weekly-assignment"
+  },
+  {
+   "id": "a_w9",
+   "title": "Week 9 Assignment: Counterexamples in the Wild",
+   "html": "<h2>Week 9 Assignment: Counterexamples in the Wild</h2>\n<table>\n  <tbody>\n    <tr><th>Points</th><td>20</td></tr>\n    <tr><th>Submit</th><td>One PDF</td></tr>\n    <tr><th>Time</th><td>About 45 minutes</td></tr>\n  </tbody>\n</table>\n<h3>Steps</h3>\n<ol>\n  <li>Open the assignment page: <a href=\"https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/w09-assignment-counterexamples-in-the-wild.html\" target=\"_blank\" rel=\"noopener\">Counterexamples in the Wild</a>.</li>\n  <li>Complete Tasks 1, 2, and 3. Your answers save as you go.</li>\n  <li>On the Submit sheet, select <strong>Download my PDF</strong>.</li>\n  <li>Upload the PDF here and submit.</li>\n</ol>",
+   "points": 20,
+   "group": "ag_assignments",
+   "rubric": "r_w9",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 9,
+   "kind": "weekly-assignment"
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q_w1",
+   "title": "Week 1 Quiz: Argument Basics",
+   "description": "<p>7 questions on this week's lessons. You have two attempts; your higher score counts.</p>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_quizzes",
+   "published": true,
+   "week": 1,
+   "kind": "weekly-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following is an argument?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"The museum is the most interesting place in the city.\""
+      },
+      {
+       "text": "\"The museum closed early because the power went out.\""
+      },
+      {
+       "text": "\"The museum's dinosaur hall reopens this month and student tickets are half price, so we should go soon.\"",
+       "correct": true
+      },
+      {
+       "text": "\"I would rather visit the museum than the zoo.\""
+      }
+     ],
+     "feedback_correct": "Yes. Two facts are offered as support for a claim not yet accepted: that we should go soon.",
+     "feedback_incorrect": "Look for the option where one statement is offered as support for another that has not yet been accepted. The others are an assertion, an explanation, and a preference."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"The trail closes at sunset, and sunset is in ten minutes. We should turn back now.\" What is the conclusion?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The trail closes at sunset."
+      },
+      {
+       "text": "Sunset is in ten minutes."
+      },
+      {
+       "text": "We should turn back now.",
+       "correct": true
+      },
+      {
+       "text": "The trail is dangerous after dark."
+      }
+     ],
+     "feedback_correct": "Right. The two facts about the trail and the time support the decision to turn back.",
+     "feedback_incorrect": "The conclusion is the claim the others support. \"The trail is dangerous after dark\" is never stated in the passage."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A whole class watched the fire alarm go off. Afterward the principal says, \"The alarm went off because someone burned popcorn in the staff room.\" What is the principal doing?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Making an argument that the alarm went off"
+      },
+      {
+       "text": "Giving an explanation of why the alarm went off",
+       "correct": true
+      },
+      {
+       "text": "Stating an opinion about the alarm"
+      },
+      {
+       "text": "Asserting a claim with no connection to the alarm"
+      }
+     ],
+     "feedback_correct": "Yes. Everyone already knows the alarm went off. The principal gives its cause.",
+     "feedback_incorrect": "Ask whether anyone needed to be convinced that the alarm went off. When the fact is already agreed, \"because\" introduces a cause."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which addition turns the statement \"Basketball is the best sport to watch\" into an argument?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"...and I have thought so for years.\""
+      },
+      {
+       "text": "\"...because the score can change in seconds, so the game stays close until the end.\"",
+       "correct": true
+      },
+      {
+       "text": "\"...and nothing anyone says will change my mind.\""
+      },
+      {
+       "text": "\"Basketball is the best sport to watch. Really, truly the best.\""
+      }
+     ],
+     "feedback_correct": "Right. A reason is now offered in support of the claim, which makes it an argument, whether or not the reason is a strong one.",
+     "feedback_incorrect": "Holding a view for a long time, refusing to change it, or saying it more strongly gives no reason for it."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to Lesson 1.01b, what is the purpose of an argument?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "To win a debate by any means available"
+      },
+      {
+       "text": "To help us form justified beliefs, supported by reasons",
+       "correct": true
+      },
+      {
+       "text": "To show that the speaker is more confident than the listener"
+      },
+      {
+       "text": "To prove that every opinion is equally valid"
+      }
+     ],
+     "feedback_correct": "Yes. Arguments let us support beliefs with reasons that can be examined.",
+     "feedback_incorrect": "The lesson's summary names the purpose directly: beliefs supported by reasons rather than guesses or opinions."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a TV ad, an actor says, \"I've played a surgeon on television for ten years, so trust me: this cold medicine works.\" What kind of persuasion is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Rational persuasion, since it draws on ten years of experience"
+      },
+      {
+       "text": "Authority",
+       "correct": true
+      },
+      {
+       "text": "Popularity"
+      },
+      {
+       "text": "Fear"
+      }
+     ],
+     "feedback_correct": "Right. The ad leans on the actor's standing as a stand-in for evidence. Playing a surgeon gives no medical knowledge, and nothing is said about how the medicine works.",
+     "feedback_incorrect": "Ten years of acting is not evidence about medicine. The ad asks you to trust a person, not to examine a reason. It says nothing about what other people are doing and makes no threat."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Two friends try to convince Lena to join the robotics team. Which one uses rational persuasion?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"You have to join. Everyone cool is on the team this year.\""
+      },
+      {
+       "text": "\"If you don't join, you'll regret it for the rest of high school.\""
+      },
+      {
+       "text": "\"You should join, since the team meets during your free period and you said you want to study engineering.\"",
+       "correct": true
+      },
+      {
+       "text": "\"Don't you want to make your parents proud?\""
+      }
+     ],
+     "feedback_correct": "Yes. Both reasons can be checked, and both bear on whether joining makes sense for Lena.",
+     "feedback_incorrect": "The other options press on popularity, fear, and emotion. Look for the one that gives reasons Lena could examine."
+    }
+   ]
+  },
+  {
+   "id": "q_w2",
+   "title": "Week 2 Quiz: Parts, Kinds, and Tests of Arguments",
+   "description": "<p>8 questions on this week's lessons. You have two attempts; your higher score counts.</p>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_quizzes",
+   "published": true,
+   "week": 2,
+   "kind": "weekly-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following is a statement?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"How many pages should the essay be?\""
+      },
+      {
+       "text": "\"Hand in your essay before noon.\""
+      },
+      {
+       "text": "\"No essay is due this week.\"",
+       "correct": true
+      },
+      {
+       "text": "\"What a long essay!\""
+      }
+     ],
+     "feedback_correct": "Yes. It makes a claim that can be true or false. The other options are a question, a command, and an exclamation.",
+     "feedback_incorrect": "A statement can be true or false. Look for the option that makes a claim, rather than asking, ordering, or exclaiming."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"All pilots need a license. Dana is a pilot. So Dana needs a license.\" Which statement is the conclusion?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "All pilots need a license."
+      },
+      {
+       "text": "Dana needs a license.",
+       "correct": true
+      },
+      {
+       "text": "Dana is a pilot."
+      },
+      {
+       "text": "Pilots are careful people."
+      }
+     ],
+     "feedback_correct": "Right. \"So\" introduces the claim that the first two statements support.",
+     "feedback_incorrect": "The conclusion is the statement the others are offered to support. \"Pilots are careful people\" does not appear in the passage at all."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence uses \"because\" to introduce a premise, rather than the cause of something already agreed?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"The picnic ended early because the thunder started.\""
+      },
+      {
+       "text": "\"The road flooded because the drain was blocked.\""
+      },
+      {
+       "text": "\"The class was loud because the substitute left the room.\""
+      },
+      {
+       "text": "\"We should leave early, because the thunder is getting closer.\"",
+       "correct": true
+      }
+     ],
+     "feedback_correct": "Yes. The speaker is trying to convince you that you should leave, and the thunder is the reason offered.",
+     "feedback_incorrect": "In the other options the event has already happened and \"because\" gives its cause. Look for the option where a claim is being supported."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"The corridor was long and dim, with a row of closed doors on either side.\" What is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A description",
+       "correct": true
+      },
+      {
+       "text": "An argument"
+      },
+      {
+       "text": "An explanation"
+      },
+      {
+       "text": "An opinion"
+      }
+     ],
+     "feedback_correct": "Right. It paints a scene and does not try to support any conclusion.",
+     "feedback_incorrect": "Ask whether anyone is being convinced of a claim. Here a scene is reported, with no reason offered, no cause explained, and no preference stated."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"Every kettle we have bought from this brand has broken within a year. So the next one will probably break too.\" What kind of argument is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Deductive, because the conclusion follows from the premise with certainty"
+      },
+      {
+       "text": "Abductive, because it proposes the best explanation for why kettles break"
+      },
+      {
+       "text": "Inductive, because a pattern of past cases supports a probable conclusion",
+       "correct": true
+      },
+      {
+       "text": "Not an argument, because it contains no premise indicator"
+      }
+     ],
+     "feedback_correct": "Yes. A pattern from experience supports the conclusion, and \"probably\" shows it is not guaranteed.",
+     "feedback_incorrect": "Ask whether the premise guarantees the conclusion. It does not, so the argument is not deductive. It also gives no explanation of a piece of evidence, and \"so\" introduces its conclusion."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A mechanic hears a grinding noise only when the car brakes and concludes that the brake pads are worn. What kind of reasoning is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Deductive, because the noise guarantees that the pads are worn"
+      },
+      {
+       "text": "Abductive, because it reasons from evidence to the most likely cause",
+       "correct": true
+      },
+      {
+       "text": "Inductive, because many cars have worn pads"
+      },
+      {
+       "text": "Not reasoning, because the mechanic has not seen the pads"
+      }
+     ],
+     "feedback_correct": "Right. The mechanic starts from the evidence (the noise) and proposes the best explanation of it.",
+     "feedback_incorrect": "Another problem could make the same noise, so nothing is guaranteed. The reasoning moves from this car's evidence to its likeliest cause, not from a pattern across many cars."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"All insects have six legs. Spiders are insects. Therefore, spiders have six legs.\" Which description is correct?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Sound, because the form of the argument is correct"
+      },
+      {
+       "text": "Invalid, because the conclusion is false"
+      },
+      {
+       "text": "Invalid, because it contains a false premise"
+      },
+      {
+       "text": "Valid but not sound, because one of its premises is false",
+       "correct": true
+      }
+     ],
+     "feedback_correct": "Yes. If both premises were true, the conclusion would have to follow, so the reasoning is valid. \"Spiders are insects\" is false, so the argument is not sound.",
+     "feedback_incorrect": "Validity asks whether the conclusion would follow if the premises were true. A false premise or a false conclusion does not by itself make the reasoning invalid, but a false premise does prevent the argument from being sound."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A valid argument has a false conclusion. What must be true of the argument?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "At least one of its premises is false.",
+       "correct": true
+      },
+      {
+       "text": "It is also sound."
+      },
+      {
+       "text": "Its reasoning must also be invalid."
+      },
+      {
+       "text": "All of its premises are true."
+      }
+     ],
+     "feedback_correct": "Right. A valid argument cannot have all true premises and a false conclusion, so a false conclusion means at least one premise is false.",
+     "feedback_incorrect": "Validity rules out true premises combined with a false conclusion. Think about what that leaves, and remember that a sound argument cannot have a false conclusion."
+    }
+   ]
+  },
+  {
+   "id": "q_w3",
+   "title": "Week 3 Quiz: Venn Diagrams and Arguments in History",
+   "description": "<p>6 questions on this week's lessons. You have two attempts; your higher score counts.</p>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_quizzes",
+   "published": true,
+   "week": 3,
+   "kind": "weekly-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>On a two-circle Venn diagram for categories A and B, the entire overlap of A and B is shaded. Which statement does the diagram express?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "All A's are B's."
+      },
+      {
+       "text": "All B's are A's."
+      },
+      {
+       "text": "No A's are B's.",
+       "correct": true
+      },
+      {
+       "text": "Some A's are B's."
+      }
+     ],
+     "feedback_correct": "Yes. A shaded region is empty, so nothing is both an A and a B.",
+     "feedback_incorrect": "Shading marks a region as empty. Ask which things the emptied region would have contained, and which sentence says there are none."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which pair of statements is drawn with exactly the same shading on a two-circle diagram?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"All A's are B's\" and \"All B's are A's\""
+      },
+      {
+       "text": "\"All A's are B's\" and \"No A's are B's\""
+      },
+      {
+       "text": "\"All B's are A's\" and \"No A's are B's\""
+      },
+      {
+       "text": "\"No A's are B's\" and \"No B's are A's\"",
+       "correct": true
+      }
+     ],
+     "feedback_correct": "Right. Both shade the overlap of A and B. If nothing is both, it does not matter which category is named first.",
+     "feedback_incorrect": "\"All\" statements shade a crescent, and which crescent depends on the order of the categories. \"No\" statements shade the overlap, which belongs to both circles."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these arguments is valid?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "No cats are fish. No fish are dogs. Therefore, no cats are dogs."
+      },
+      {
+       "text": "All tulips are plants. All roses are plants. Therefore, all tulips are roses."
+      },
+      {
+       "text": "All violins are string instruments. No string instruments are wind instruments. Therefore, no violins are wind instruments.",
+       "correct": true
+      },
+      {
+       "text": "All squares are rectangles. All squares are shapes. Therefore, all shapes are rectangles."
+      }
+     ],
+     "feedback_correct": "Yes. Shading both premises empties every region where violins and wind instruments overlap, so the conclusion is shown.",
+     "feedback_incorrect": "Test each option on a three-circle diagram by shading only the premises. In the cats, fish, and dogs argument the conclusion happens to be true, but the shading leaves open a region where a cat could be a dog. In the tulips argument and the squares argument, a region the conclusion needs empty also stays open."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>An argument concludes \"No A's are C's.\" After you shade only its two premises on a three-circle diagram, one region where A and C overlap is still unshaded. What follows?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The argument is valid, because part of the A and C overlap is shaded."
+      },
+      {
+       "text": "The argument is invalid, because the premises leave room for an A that is a C.",
+       "correct": true
+      },
+      {
+       "text": "The argument is invalid, because at least one premise must be false."
+      },
+      {
+       "text": "Nothing yet. You must shade the conclusion before you can decide."
+      }
+     ],
+     "feedback_correct": "Right. For the conclusion to be shown, every region where A and C overlap must be empty. An open region means an A that is a C is still possible.",
+     "feedback_incorrect": "The conclusion is not shaded in. It is checked against the shading of the premises. Validity concerns whether the shading forces the conclusion, not whether the premises are true."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"If the lake froze over, the boats would be stuck. The boats are not stuck. So the lake did not freeze over.\" Which argument from Lesson 1.03c has the same pattern?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Philoponus's argument that the universe has not existed forever",
+       "correct": true
+      },
+      {
+       "text": "Lincoln's argument about the Declaration of Independence"
+      },
+      {
+       "text": "Galileo's argument about the moons of Jupiter"
+      },
+      {
+       "text": "None of them. The pattern belongs only to the lake argument."
+      }
+     ],
+     "feedback_correct": "Yes. Like Philoponus, the lake argument reaches \"not\" by showing that the result an \"if ... then\" premise predicts does not occur.",
+     "feedback_incorrect": "Look at the last premise. In the lake argument it denies what the \"if ... then\" premise says would happen. Only one of the lesson's arguments ends the same way."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A critic grants Galileo's second premise (\"If Jupiter's moons do not orbit Earth, then Earth is not the center of all celestial motion\") but denies his first, claiming that Jupiter's moons do orbit Earth. What is the critic disputing?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The form of the argument"
+      },
+      {
+       "text": "Whether a premise is true, not whether the conclusion would follow from it",
+       "correct": true
+      },
+      {
+       "text": "Only the conclusion"
+      },
+      {
+       "text": "Whether premise 2 is an \"if ... then\" statement"
+      }
+     ],
+     "feedback_correct": "Right. The critic accepts the reasoning but rejects a starting claim. Form and truth of premises are separate questions.",
+     "feedback_incorrect": "The critic says nothing against how the premises are put together. Ask which statement the critic calls false."
+    }
+   ]
+  },
+  {
+   "id": "q_w4",
+   "title": "Week 4 Quiz: Fallacies of Relevance",
+   "description": "<p>8 questions on this week's lessons. You have two attempts; your higher score counts.</p>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_quizzes",
+   "published": true,
+   "week": 4,
+   "kind": "weekly-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which statement best distinguishes a formal fallacy from an informal fallacy?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A formal fallacy is committed on purpose, while an informal fallacy is an honest mistake."
+      },
+      {
+       "text": "A formal fallacy appears only in mathematics, and an informal fallacy appears only in conversation."
+      },
+      {
+       "text": "A formal fallacy is an invalid structure, and an informal fallacy fails in the content of its premises.",
+       "correct": true
+      },
+      {
+       "text": "A formal fallacy has a false conclusion, and an informal fallacy has a true conclusion."
+      }
+     ],
+     "feedback_correct": "Yes. Formal fallacies are failures of form. Informal fallacies have to do with content, not form.",
+     "feedback_incorrect": "The lesson separates the two by where the failure lies: in the structure of the argument, or in the content of its statements. Intent, subject area, and the truth of the conclusion are not what separates them."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"If a drink is cold, the glass is sweating. The glass is sweating. Therefore, the drink is cold.\" What is the best diagnosis?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A formal fallacy, because it has the invalid form \"If X, then Y. Y. Therefore, X.\"",
+       "correct": true
+      },
+      {
+       "text": "A valid argument, because it has the form of modus ponens."
+      },
+      {
+       "text": "An informal fallacy, because it is written in ordinary English."
+      },
+      {
+       "text": "A valid argument, because both premises are true."
+      }
+     ],
+     "feedback_correct": "Right. It affirms the consequent. A glass can sweat for other reasons, such as humid air, so the conclusion does not follow.",
+     "feedback_incorrect": "Translate it into letters. The second premise asserts Y and the conclusion asserts X, which is not modus ponens. True premises and ordinary wording do not change the structure."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A speaker presents a claim in a very confident voice, with strong emotion, and repeats it several times. What does Lesson 2.01b suggest you do?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Accept it, since a speaker that confident probably has good reasons."
+      },
+      {
+       "text": "Reject it, since a speaker that emotional probably has none."
+      },
+      {
+       "text": "Accept it, since hearing it repeatedly makes it more likely to be true."
+      },
+      {
+       "text": "Ask whether the reasons given actually support the conclusion, or only feel as if they do.",
+       "correct": true
+      }
+     ],
+     "feedback_correct": "Yes. Confidence, emotion, and repetition can make an argument feel convincing without adding any support.",
+     "feedback_incorrect": "Confidence and repetition are not evidence, but a claim delivered with feeling is not necessarily false either. The lesson's question is whether the reasons actually support the conclusion."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The conclusion is \"The city should add a crosswalk on Elm Street.\" Which premise is relevant to it?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A council member says anyone who opposes the crosswalk does not care about children."
+      },
+      {
+       "text": "A traffic count shows that forty children cross Elm Street each morning where there is no signal.",
+       "correct": true
+      },
+      {
+       "text": "Elm Street was named for the elm trees that lined it a century ago."
+      },
+      {
+       "text": "The mayor's brother lives on Elm Street."
+      }
+     ],
+     "feedback_correct": "Right. How many children cross where there is no signal bears directly on whether a crosswalk is needed.",
+     "feedback_incorrect": "The other premises appeal to emotion or pressure, to the street's history, or to a personal connection. None of them shows that Elm Street needs a crosswalk."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The senator argues for lower gas taxes. A voter replies, \"Of course the senator wants lower gas taxes. His family owns a trucking company.\" What fallacy is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Abusive ad hominem"
+      },
+      {
+       "text": "Tu quoque"
+      },
+      {
+       "text": "Circumstantial ad hominem",
+       "correct": true
+      },
+      {
+       "text": "Appeal to popularity"
+      }
+     ],
+     "feedback_correct": "Yes. The reply points to the senator's background and stake in the outcome instead of answering his reasons.",
+     "feedback_incorrect": "No insult is made, which rules out the abusive form. No hypocrisy is alleged, which rules out tu quoque. No crowd is mentioned. The reply attacks the speaker's circumstances."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A landlord tells a tenant, \"You'll agree the rent increase is fair, or I'll find someone else for the apartment.\" What fallacy is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Appeal to force",
+       "correct": true
+      },
+      {
+       "text": "Appeal to pity"
+      },
+      {
+       "text": "Appeal to popularity"
+      },
+      {
+       "text": "Circumstantial ad hominem"
+      }
+     ],
+     "feedback_correct": "Right. A threat takes the place of any reason that the increase is fair.",
+     "feedback_incorrect": "The landlord does not ask for sympathy, point to what most people think, or attack the tenant's background. The pressure comes from a threat."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>An ad says, \"Seven out of ten households on your street already use Brightline Internet. Make the switch.\" What fallacy does the ad use?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Appeal to force"
+      },
+      {
+       "text": "Appeal to pity"
+      },
+      {
+       "text": "Tu quoque"
+      },
+      {
+       "text": "Appeal to popularity",
+       "correct": true
+      }
+     ],
+     "feedback_correct": "Yes. How many households use the service is offered in place of a reason that it is good for you.",
+     "feedback_incorrect": "Nothing is threatened, no sympathy is requested, and no one is accused of hypocrisy. The reason offered is what many others do."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A student writes to a teacher: \"Please give my project a higher grade. I have had a terrible few months and I will be crushed if I do not do well.\" Which statement is correct?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "This is an appeal to pity: sympathy is offered in place of a reason that the project meets the standard.",
+       "correct": true
+      },
+      {
+       "text": "This is an appeal to force: the student threatens the teacher."
+      },
+      {
+       "text": "This is not a fallacy, because the hardship is real."
+      },
+      {
+       "text": "This is an abusive ad hominem: it attacks the teacher."
+      }
+     ],
+     "feedback_correct": "Right. The hardship may be real, but it does not show that the project met the requirements.",
+     "feedback_incorrect": "Pity may be deserved and the fallacy still holds, because sympathy does not change whether the standard was met. The student neither threatens nor insults the teacher."
+    }
+   ]
+  },
+  {
+   "id": "q_w5",
+   "title": "Week 5 Quiz: Fallacies of Relevance, Meaning, and Structure",
+   "description": "<p>8 questions on this week's lessons. You have two attempts; your higher score counts.</p>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_quizzes",
+   "published": true,
+   "week": 5,
+   "kind": "weekly-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following commits the argument from ignorance?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"Nobody has ever proven that the rumor is false, so it must be true.\"",
+       "correct": true
+      },
+      {
+       "text": "\"Everyone at school is repeating the rumor, so it must be true.\""
+      },
+      {
+       "text": "\"The rumor started with someone who failed the last test, so it is false.\""
+      },
+      {
+       "text": "\"No one has checked the rumor yet, so I will not say whether it is true.\""
+      }
+     ],
+     "feedback_correct": "Yes. The only support offered is that no one has disproved the claim. A lack of disproof is not evidence for it.",
+     "feedback_incorrect": "Look for the option that treats a lack of disproof as if it were proof. The other choices lean on popularity, attack the person who started the rumor, or honestly suspend judgment."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A neighbor says about a lake: \"No one has proven this lake is safe to swim in, so it must be dangerous.\" Which reply best corrects the reasoning?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"That is right, because safety has to be proven before it can be assumed.\""
+      },
+      {
+       "text": "\"Everyone in town says the lake is fine, so it must be safe.\""
+      },
+      {
+       "text": "\"Lack of proof of safety is no evidence of danger. A water test would settle it.\"",
+       "correct": true
+      },
+      {
+       "text": "\"The person who wrote the sign cannot swim, so the claim should be ignored.\""
+      }
+     ],
+     "feedback_correct": "Right. Not having shown the lake is safe does not show it is dangerous. Evidence, such as a water test, is what would decide the question.",
+     "feedback_incorrect": "Being cautious until the lake is tested can be sensible, but \"it must be dangerous\" is a claim that still needs evidence. What everyone in town says and whether the writer can swim are not evidence about the water."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>One student says, \"We should start school later.\" Another replies, \"So you think kids should sleep all day and never learn anything.\" Which fallacy is the reply?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Red herring"
+      },
+      {
+       "text": "Straw man",
+       "correct": true
+      },
+      {
+       "text": "Ad hominem"
+      },
+      {
+       "text": "Equivocation"
+      }
+     ],
+     "feedback_correct": "Yes. A proposal about a later start is rebuilt as sleeping all day and never learning, which is far easier to attack than the actual claim.",
+     "feedback_incorrect": "The reply stays on the subject of school start times, so it is not a red herring. It describes the position and not the speaker's character, so it is not ad hominem. No word shifts meaning, so it is not equivocation."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"The county should repave Oak Road.\" A reply: \"Our county fair was voted the best in the state, so I think we are doing great.\" Which fallacy is the reply?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Straw man"
+      },
+      {
+       "text": "Ad hominem"
+      },
+      {
+       "text": "Argument from ignorance"
+      },
+      {
+       "text": "Red herring",
+       "correct": true
+      }
+     ],
+     "feedback_correct": "Right. The reply drops the claim about Oak Road and moves to an unrelated topic, the county fair.",
+     "feedback_incorrect": "The claim about the road is not distorted (straw man), the person who made it is not attacked (ad hominem), and no lack of proof is used as evidence (argument from ignorance). The reply simply changes the subject."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In which argument does the key word keep one meaning from start to finish?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"Orchestras need a conductor. Copper is a conductor. So orchestras need copper.\""
+      },
+      {
+       "text": "\"A spring follows winter. This mattress has a spring. So this mattress follows winter.\""
+      },
+      {
+       "text": "\"Every volunteer at the shelter is kind. Priya is a volunteer at the shelter. So Priya is kind.\"",
+       "correct": true
+      },
+      {
+       "text": "\"Fans cool a room. The singer has many fans. So the singer cools a room.\""
+      }
+     ],
+     "feedback_correct": "Yes. \"Volunteer\" means the same thing in both statements, so the argument has univocity.",
+     "feedback_incorrect": "In the other options the key word changes senses between the premises: a leader of musicians versus a material that carries electricity, a season versus a coil, a cooling device versus admirers."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence is ambiguous because of its structure, and not because of a single word with two senses?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"The bat was in the cave.\""
+      },
+      {
+       "text": "\"The tourists photographed the guide with a camera.\"",
+       "correct": true
+      },
+      {
+       "text": "\"The pitcher was empty.\""
+      },
+      {
+       "text": "\"The seal made a loud noise.\""
+      }
+     ],
+     "feedback_correct": "Right. \"With a camera\" can describe how the tourists took the photo or what the guide was holding. Which reading is meant depends on how the sentence is put together, which is amphiboly.",
+     "feedback_incorrect": "In the other sentences, a single word has two senses: bat, pitcher, and seal. That is the source of ambiguity for equivocation, not amphiboly."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"Each player on the school's chess team ranks in the state's top ten. So the team must rank first in the state.\" Which fallacy is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Fallacy of composition",
+       "correct": true
+      },
+      {
+       "text": "Fallacy of division"
+      },
+      {
+       "text": "Equivocation"
+      },
+      {
+       "text": "Red herring"
+      }
+     ],
+     "feedback_correct": "Yes. A quality of the parts, each player's high rank, is assumed to carry over to the whole team.",
+     "feedback_incorrect": "The reasoning moves from the parts to the whole, which is composition. Division moves the other way. No word changes meaning, and the subject is not changed."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"The city's economy is booming. So the corner bakery on Elm Street must be making record profits.\" Which fallacy is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Fallacy of composition"
+      },
+      {
+       "text": "Equivocation"
+      },
+      {
+       "text": "Red herring"
+      },
+      {
+       "text": "Fallacy of division",
+       "correct": true
+      }
+     ],
+     "feedback_correct": "Right. A quality of the whole, a booming economy, is assumed to belong to one of its parts.",
+     "feedback_incorrect": "The reasoning moves from the whole to a part, which is division. Composition moves from parts to the whole. \"Booming\" keeps one meaning, and the subject stays the same."
+    }
+   ]
+  },
+  {
+   "id": "q_w6",
+   "title": "Week 6 Quiz: Fallacies of Presumption",
+   "description": "<p>7 questions on this week's lessons. You have two attempts; your higher score counts.</p>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_quizzes",
+   "published": true,
+   "week": 6,
+   "kind": "weekly-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>A student argues, \"Our school should start a robotics club.\" Which premise is warranted?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A robotics club is something a good school ought to offer."
+      },
+      {
+       "text": "Thirty students signed an interest list, and the engineering teacher has offered to advise the club.",
+       "correct": true
+      },
+      {
+       "text": "Starting a robotics club is clearly the right decision for the school."
+      },
+      {
+       "text": "Only people who dislike technology would object."
+      }
+     ],
+     "feedback_correct": "Yes. This is an independent, checkable fact that a skeptic can accept without already agreeing that the school should start the club.",
+     "feedback_incorrect": "A warranted premise can be accepted on its own. Saying the club is what a good school ought to offer, or that it is clearly the right decision, restates the conclusion in other words, and dismissing objectors gives no reason at all."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A coach says to a player, \"When did you stop giving your best effort at practice?\" Which fallacy is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Begging the Question"
+      },
+      {
+       "text": "False Dilemma"
+      },
+      {
+       "text": "Complex Question",
+       "correct": true
+      },
+      {
+       "text": "Ad Hominem"
+      }
+     ],
+     "feedback_correct": "Right. Any answer to \"when\" accepts the hidden assumption that the player stopped giving their best effort.",
+     "feedback_incorrect": "Begging the question is an argument whose premise restates its conclusion, and no argument is given here. A false dilemma forces a choice between limited options, and none is offered. Ad hominem attacks a person in place of answering their argument. Here the trouble is an assumption built into the question."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A reviewer writes, \"This novel is a masterpiece, because it is a work of the highest literary quality.\" Which fallacy is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Begging the Question",
+       "correct": true
+      },
+      {
+       "text": "Appeal to Unreliable Authority"
+      },
+      {
+       "text": "Equivocation"
+      },
+      {
+       "text": "Complex Question"
+      }
+     ],
+     "feedback_correct": "Yes. \"A work of the highest literary quality\" says nearly the same thing as \"a masterpiece,\" so the premise assumes the conclusion.",
+     "feedback_incorrect": "No outside source is cited, so this is not an appeal to authority. No word changes meaning between the premise and the conclusion, so it is not equivocation. No question is asked, so it is not a complex question."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"Every time Dev wears his team jersey to a game, his team wins. Last season he forgot it once and the team lost, so the jersey makes the team win.\" Which fallacy is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Begging the Question"
+      },
+      {
+       "text": "Argument from Ignorance"
+      },
+      {
+       "text": "False Dilemma"
+      },
+      {
+       "text": "False Cause",
+       "correct": true
+      }
+     ],
+     "feedback_correct": "Right. The argument treats events that happened together, or in sequence, as proof that one caused the other, and it ignores other causes of winning.",
+     "feedback_incorrect": "The premise does not restate the conclusion, so it does not beg the question. Nothing is claimed true because it has not been disproved, so it is not an argument from ignorance. No limited set of options is forced on anyone."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A mayor says, \"Either we build the new stadium downtown, or this city has no future.\" Which fallacy is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Appeal to Force"
+      },
+      {
+       "text": "False Dilemma",
+       "correct": true
+      },
+      {
+       "text": "Straw Man"
+      },
+      {
+       "text": "False Cause"
+      }
+     ],
+     "feedback_correct": "Yes. Two options are presented as the only ones, which leaves out other ways the city could grow.",
+     "feedback_incorrect": "The mayor is not threatening anyone, so it is not an appeal to force. No one's position is being distorted, so it is not a straw man. No claim is made that one event caused another."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a commercial, a star quarterback says, \"FirstTrust is the safest place for your retirement savings. Trust me, I use it.\" Which fallacy is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Appeal to Popularity"
+      },
+      {
+       "text": "Red Herring"
+      },
+      {
+       "text": "Appeal to Unreliable Authority",
+       "correct": true
+      },
+      {
+       "text": "Ad Hominem"
+      }
+     ],
+     "feedback_correct": "Right. Being a star athlete is not expertise in retirement accounts, and the claim comes with no evidence.",
+     "feedback_incorrect": "No count of how many people agree is offered, so it is not an appeal to popularity. The statement stays on the topic of the savings account, so it is not a red herring. No one's character is attacked."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which appeal to authority is reasonable?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A pediatrician who has reviewed the safety studies explains why a childhood vaccine is safe.",
+       "correct": true
+      },
+      {
+       "text": "A famous actor says a vitamin prevents illness because she takes it every day."
+      },
+      {
+       "text": "A physicist with no medical training says a vaccine is unsafe."
+      },
+      {
+       "text": "A retired athlete says a diet is healthy because he follows it."
+      }
+     ],
+     "feedback_correct": "Yes. The pediatrician has relevant expertise, speaks within her field, and is backed by evidence.",
+     "feedback_incorrect": "Look for the source who is a qualified expert in the relevant field and gives evidence. The others rely on fame, personal habit, or expertise in a different field."
+    }
+   ]
+  },
+  {
+   "id": "q_w7",
+   "title": "Week 7 Quiz: Fallacies in Persuasion",
+   "description": "<p>8 questions on this week's lessons. You have two attempts; your higher score counts.</p>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_quizzes",
+   "published": true,
+   "week": 7,
+   "kind": "weekly-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>An ad says: “Join the millions who already wear Tempo running shoes. They can’t all be wrong.” What is the flaw?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It offers only two options and ignores every other choice of shoe."
+      },
+      {
+       "text": "The number of people who bought the shoes is offered in place of evidence that they are good shoes.",
+       "correct": true
+      },
+      {
+       "text": "It attacks the people who wear other brands."
+      },
+      {
+       "text": "It distorts a rival brand’s claims so they are easier to reject."
+      }
+     ],
+     "feedback_correct": "Yes. This is an appeal to popularity. How many people bought the shoes says nothing about how well they work.",
+     "feedback_incorrect": "Ask what the ad uses as its reason. It points to how many people wear the shoes, which is a count of buyers, not evidence about the shoes."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>At a town meeting, a speaker says: “Why should we listen to Mr. Dalton’s plan for repairing the roads? He failed his driving test twice.” Which fallacy is this?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Straw man"
+      },
+      {
+       "text": "False dilemma"
+      },
+      {
+       "text": "Ad hominem",
+       "correct": true
+      },
+      {
+       "text": "Appeal to fear"
+      }
+     ],
+     "feedback_correct": "Right. Mr. Dalton’s driving test record is aimed at him as a person and says nothing about whether his repair plan is a good one.",
+     "feedback_incorrect": "Look at what the speaker answers. The plan is never discussed. The speaker goes after the person who proposed it."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to Lesson 2.05a, why do fallacies in persuasive speech work so well?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "They appeal to emotion, identity, and urgency.",
+       "correct": true
+      },
+      {
+       "text": "They give listeners more evidence than a careful argument would."
+      },
+      {
+       "text": "They are hard to notice because they are always very long."
+      },
+      {
+       "text": "They are used only by people who know they are being dishonest."
+      }
+     ],
+     "feedback_correct": "Yes. The lesson says fallacies in persuasive speech work because they appeal to emotion, identity, and urgency.",
+     "feedback_incorrect": "The lesson explains that these messages swap evidence for pressure. They are not longer or more detailed, and the people using them may not realize what they are doing."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A phone model has sold two million units. Kai reads five angry reviews of it and posts: “This phone is a disaster. Everyone who bought one hates it.” What is the main flaw in Kai’s reasoning?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Kai treats the reviewers as experts when they are only ordinary buyers."
+      },
+      {
+       "text": "Five reviews, likely written by the most upset buyers, are stretched into a claim about two million owners.",
+       "correct": true
+      },
+      {
+       "text": "Kai assumes there are only two kinds of buyers, those who love the phone and those who hate it."
+      },
+      {
+       "text": "Kai distorts what the reviewers actually wrote so it is easier to attack."
+      }
+     ],
+     "feedback_correct": "Right. This is a hasty generalization. A small, vivid, self-selected sample is treated as if it spoke for the whole group.",
+     "feedback_incorrect": "Buyers can fairly report their own experience, and Kai repeats the reviewers rather than distorting them or offering two options. The flaw is the size and kind of sample: five complaints cannot show how two million owners feel."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is an argument from ignorance?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "“I had one bad bowl of the soup, so the cafeteria serves nothing but bad food.”"
+      },
+      {
+       "text": "“A popular streamer said the soup tastes awful, so it must be unsafe.”"
+      },
+      {
+       "text": "“You want soup on the lunch menu? So you think students should eat nothing but soup.”"
+      },
+      {
+       "text": "“No one has proved the new soup is safe, so it must be unsafe.”",
+       "correct": true
+      }
+     ],
+     "feedback_correct": "Yes. Missing proof that the soup is safe is treated as proof that it is unsafe. Lack of proof is not proof of the opposite.",
+     "feedback_incorrect": "Look for the option that treats the absence of proof as if it were proof. The others are a hasty generalization, an appeal to an unreliable authority, and a straw man."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Jamal reads a long thread arguing that the school should drop its dress code. Every reply agrees, and he is about to repost it with the caption “Obviously right.” Which habit from Lesson 2.05b applies most directly?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Ask yourself what someone on the other side would say.",
+       "correct": true
+      },
+      {
+       "text": "Look for evidence, since screenshots and headlines aren’t proof."
+      },
+      {
+       "text": "Check whether the thread’s author is an expert."
+      },
+      {
+       "text": "Count how many replies agree before reposting."
+      }
+     ],
+     "feedback_correct": "Right. A thread where every reply agrees is a small echo chamber. Asking what the other side would say brings in the view that is missing.",
+     "feedback_incorrect": "No screenshot, headline, or expert claim is at issue, and counting agreement only measures popularity. The problem is that Jamal has heard only one side."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which response shows intellectual humility?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "“I’ve always believed this, so I won’t look at your evidence.”"
+      },
+      {
+       "text": "“I’ll agree with whatever the last person said, to keep things calm.”"
+      },
+      {
+       "text": "“That’s a fair point. I hadn’t considered it, and I may need to change my answer.”",
+       "correct": true
+      },
+      {
+       "text": "“I know I’m right, so there is no need to check.”"
+      }
+     ],
+     "feedback_correct": "Yes. Intellectual humility means admitting what you don’t know and being open to correction.",
+     "feedback_incorrect": "Humility is neither refusing to look at evidence nor giving in to whoever spoke last. Look for the response that admits uncertainty and invites correction."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Rosa disagrees with Ty’s argument. Which response best shows fair-mindedness?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "“I’ll answer only the weakest sentence in what Ty said.”"
+      },
+      {
+       "text": "“I’ll decide Ty is wrong first, then look for reasons.”"
+      },
+      {
+       "text": "“I’ll restate Ty’s argument in a simple form that is easy to knock down.”"
+      },
+      {
+       "text": "“Before I respond, I’ll ask Ty which reason matters most to him and make sure I can state it the way he would.”",
+       "correct": true
+      }
+     ],
+     "feedback_correct": "Right. Fair-mindedness means understanding an argument as its author would explain it before responding.",
+     "feedback_incorrect": "Three of the options distort or ignore the argument. Fair-mindedness first gets the other person’s view right, in a form they would accept."
+    }
+   ]
+  },
+  {
+   "id": "q_w8",
+   "title": "Week 8 Quiz: Argument Forms and Chains",
+   "description": "<p>8 questions on this week's lessons. You have two attempts; your higher score counts.</p>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_quizzes",
+   "published": true,
+   "week": 8,
+   "kind": "weekly-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these arguments is valid?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "If the pond is frozen, skaters can skate. Skaters can skate. So the pond is frozen."
+      },
+      {
+       "text": "If the pond is frozen, skaters can skate. The pond is not frozen. So skaters cannot skate."
+      },
+      {
+       "text": "If the pond is frozen, skaters can skate. Skaters cannot skate. So the pond is not frozen.",
+       "correct": true
+      },
+      {
+       "text": "If the pond is frozen, skaters can skate. Skaters cannot skate. So the pond is frozen."
+      }
+     ],
+     "feedback_correct": "Yes. This is modus tollens: the then-part is denied, so the if-part must be false.",
+     "feedback_incorrect": "Check each pattern. Concluding the pond is frozen because skaters can skate affirms the then-part (affirming the consequent). Concluding skaters cannot skate because the pond is not frozen denies the if-part (denying the antecedent). Concluding the pond is frozen when skaters cannot skate contradicts what the premises allow."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>If the factory expands, it hires more workers. If it hires more workers, local unemployment falls. Which conclusion follows validly from these two premises alone?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "If the factory expands, local unemployment falls.",
+       "correct": true
+      },
+      {
+       "text": "The factory will expand."
+      },
+      {
+       "text": "If local unemployment falls, the factory expands."
+      },
+      {
+       "text": "Local unemployment will fall."
+      }
+     ],
+     "feedback_correct": "Right. This is a hypothetical syllogism. \"Hires more workers\" is the middle link and drops out.",
+     "feedback_incorrect": "The two premises are conditionals, and they chain into another conditional. Neither says the factory actually expands, so no claim that it will expand, or that unemployment will fall, can be reached. Running the chain backward, from unemployment to the factory, reverses it."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>If the vote is held in spring, turnout will be low. If the vote is held in autumn, costs will rise. The vote will be held either in spring or in autumn. Which conclusion follows validly?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Turnout will be low."
+      },
+      {
+       "text": "Turnout will be low and costs will rise."
+      },
+      {
+       "text": "If turnout is low, the vote was held in spring."
+      },
+      {
+       "text": "Either turnout will be low or costs will rise.",
+       "correct": true
+      }
+     ],
+     "feedback_correct": "Yes. This is a constructive dilemma: one of the two paths must be taken, so one of its results must follow.",
+     "feedback_incorrect": "Only one path is taken, and the premises do not say which. So no single result is guaranteed, and both results are not guaranteed together. Reasoning from low turnout back to a spring vote affirms the then-part, which is not valid."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A student argues, \"We should close the pool because it is unsafe.\" A classmate asks, \"How do you know it is unsafe?\" What is the classmate's question aimed at?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The conclusion, which is false"
+      },
+      {
+       "text": "The premise \"the pool is unsafe,\" which needs support of its own",
+       "correct": true
+      },
+      {
+       "text": "The form of the argument, which is invalid"
+      },
+      {
+       "text": "Nothing, because a question cannot challenge an argument"
+      }
+     ],
+     "feedback_correct": "Right. A premise that can be called into question needs its own argument, which turns the original premise into a conclusion.",
+     "feedback_incorrect": "The question does not say the conclusion is false or the form is invalid. It asks for support for a premise, and premises are where an argument is most often challenged."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"The thermometer reads minus ten. So the harbor is frozen. So the ferry cannot run.\" Which statement is the intermediate conclusion?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The harbor is frozen.",
+       "correct": true
+      },
+      {
+       "text": "The thermometer reads minus ten."
+      },
+      {
+       "text": "The ferry cannot run."
+      },
+      {
+       "text": "There is no intermediate conclusion; every statement is either a premise or a final conclusion."
+      }
+     ],
+     "feedback_correct": "Yes. \"The harbor is frozen\" is supported by the first statement and then supports the last. It is both a conclusion and a premise.",
+     "feedback_incorrect": "The thermometer reading is only a premise, and \"the ferry cannot run\" is the final conclusion. The intermediate conclusion is the statement that does both jobs."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"If the generator is running, the lights are on. The lights are off. So the generator is not running. Either the generator is running or the battery is powering the room. So the battery is powering the room.\" Which forms are used, in order?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Modus ponens, then disjunctive syllogism"
+      },
+      {
+       "text": "Modus tollens, then modus ponens"
+      },
+      {
+       "text": "Modus tollens, then disjunctive syllogism",
+       "correct": true
+      },
+      {
+       "text": "Disjunctive syllogism, then modus tollens"
+      }
+     ],
+     "feedback_correct": "Right. The first step denies the then-part (modus tollens). Its conclusion is then used to deny one option of an either–or (disjunctive syllogism).",
+     "feedback_incorrect": "Check each step separately. Step 1 starts from an if–then statement and a denied then-part. Step 2 starts from an either–or statement with one option ruled out."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Here is an argument map. An arrow means \"supports.\" Inspectors found cracks → The bridge is unsafe. Trucks exceed the weight limit → The bridge is unsafe. The bridge is unsafe → The bridge should be closed. Which statement directly supports \"The bridge should be closed\"?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Inspectors found cracks."
+      },
+      {
+       "text": "Trucks exceed the weight limit."
+      },
+      {
+       "text": "Both of the other statements, directly."
+      },
+      {
+       "text": "The bridge is unsafe.",
+       "correct": true
+      }
+     ],
+     "feedback_correct": "Yes. \"The bridge is unsafe\" is the intermediate conclusion, and it is the only statement with an arrow to the final conclusion.",
+     "feedback_incorrect": "The cracks and the trucks support \"the bridge is unsafe.\" They reach the final conclusion only through that statement, so their support is indirect."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"If the grant is awarded, the lab hires a technician. The lab hired a technician. So the grant was awarded. If the grant was awarded, the lab buys equipment. So the lab buys equipment.\" Which description is correct?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Both steps are modus ponens, so the argument is reliable."
+      },
+      {
+       "text": "The first step affirms the then-part, so it is not valid and the final conclusion is not established.",
+       "correct": true
+      },
+      {
+       "text": "The second step is invalid because it repeats the first premise."
+      },
+      {
+       "text": "The first step is not valid, which proves the lab will not buy equipment."
+      }
+     ],
+     "feedback_correct": "Right. A chain is only as strong as its weakest step. The first step runs backward from the then-part, so the conclusion it supports is not established.",
+     "feedback_incorrect": "Check each step against the forms. Step 2 is modus ponens, but Step 1 is not. An invalid step leaves the conclusion unsupported. It does not show the conclusion is false."
+    }
+   ]
+  },
+  {
+   "id": "q_w9",
+   "title": "Week 9 Quiz: Counterexamples",
+   "description": "<p>7 questions on this week's lessons. You have two attempts; your higher score counts.</p>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "ag_quizzes",
+   "published": true,
+   "week": 9,
+   "kind": "weekly-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of the following is a counterexample to the form \"If P, then Q. Q. Therefore, P.\"?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"If an animal is a horse, then it is a mammal. A stallion is a mammal. Therefore, a stallion is a horse.\""
+      },
+      {
+       "text": "\"If an animal is a horse, then it is a mammal. A whale is a mammal. Therefore, a whale is a horse.\"",
+       "correct": true
+      },
+      {
+       "text": "\"If an animal is a horse, then it is a mammal. A zebra is not a horse. Therefore, a zebra is not a mammal.\""
+      },
+      {
+       "text": "\"If an animal is a mammal, then it is a horse. A whale is a horse. Therefore, a whale is a mammal.\""
+      }
+     ],
+     "feedback_correct": "Yes. The form is the same, both premises are true, and the conclusion is false because a whale is not a horse.",
+     "feedback_incorrect": "A counterexample keeps the form, makes every premise true, and makes the conclusion false. Check each option against all three. One keeps a true conclusion, one changes the form, and one has false premises."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a single scenario, every premise of an argument is true and its conclusion is false. What follows?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The argument is valid but unsound."
+      },
+      {
+       "text": "The argument is sound but weak."
+      },
+      {
+       "text": "Nothing follows until the same pattern is tested in other scenarios."
+      },
+      {
+       "text": "The argument is invalid.",
+       "correct": true
+      }
+     ],
+     "feedback_correct": "Right. Validity means it is impossible for the premises to be true and the conclusion false together. One scenario where it happens shows the argument is invalid.",
+     "feedback_incorrect": "Validity allows no exceptions, so a single scenario with true premises and a false conclusion is enough. Soundness requires validity, so it cannot apply here."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The form is \"Either P or Q. P. Therefore, not Q.\" Which attempt is a genuine counterexample?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "\"Either 12 is divisible by 3 or it is even. 12 is divisible by 3. Therefore, 12 is not even.\"",
+       "correct": true
+      },
+      {
+       "text": "\"Either a number is even or it is odd. 12 is even. Therefore, 12 is not odd.\""
+      },
+      {
+       "text": "\"Either 7 is divisible by 3 or it is even. 7 is divisible by 3. Therefore, 7 is not even.\""
+      },
+      {
+       "text": "\"Either 12 is divisible by 3 or it is even. 12 is even. Therefore, 12 is divisible by 3.\""
+      }
+     ],
+     "feedback_correct": "Yes. Both premises are true, and the conclusion is false because 12 is even. The alternatives overlap.",
+     "feedback_incorrect": "Run the three checks. One attempt has alternatives that cannot both hold, so its conclusion is true. One has a false premise. One changes the conclusion, so it has a different form."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Two students each build a counterexample to the same invalid form, using different content. Each one keeps the form, has true premises, and has a false conclusion. What can you conclude?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "At most one can be correct, since a form has only one counterexample."
+      },
+      {
+       "text": "Neither works unless it uses the same subject matter as the original argument."
+      },
+      {
+       "text": "Both work, and either one alone is enough to show the form is invalid.",
+       "correct": true
+      },
+      {
+       "text": "Both are needed, since one counterexample only makes invalidity probable."
+      }
+     ],
+     "feedback_correct": "Right. An invalid form can have many counterexamples, and one is enough because validity allows no exceptions.",
+     "feedback_incorrect": "The content is meant to change, and a single counterexample settles invalidity. Nothing is probable about it."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which pair matches a valid form with the invalid form that imitates it?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Modus Tollens and Affirming the Consequent"
+      },
+      {
+       "text": "Modus Ponens and Affirming the Consequent",
+       "correct": true
+      },
+      {
+       "text": "Modus Ponens and Denying the Antecedent"
+      },
+      {
+       "text": "Disjunctive Syllogism and Denying the Antecedent"
+      }
+     ],
+     "feedback_correct": "Yes. Modus Ponens affirms the if-part. Affirming the Consequent affirms the then-part instead, and the two look alike.",
+     "feedback_incorrect": "Match by the part of the conditional being used. Modus Tollens pairs with Denying the Antecedent, and Disjunctive Syllogism pairs with Affirming One Disjunct."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"If the road is icy, school opens late. If the bus breaks down, school opens late. Therefore, if the road is icy, the bus breaks down.\" Which scenario shows this form can fail?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The road is clear, the bus runs fine, and school opens on time."
+      },
+      {
+       "text": "The bus breaks down, the road is not icy, and school opens late."
+      },
+      {
+       "text": "The road is icy, the bus breaks down, and school opens late."
+      },
+      {
+       "text": "The road is icy, the bus runs fine, and school opens late.",
+       "correct": true
+      }
+     ],
+     "feedback_correct": "Yes. The premises hold, since an icy road opens school late. But the conclusion fails, because the road is icy and the bus did not break down.",
+     "feedback_incorrect": "To make the conclusion false, the road must be icy while the bus runs fine. Scenarios where the road is not icy never test the conclusion, and one where the bus breaks down makes it true."
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"If the printer is out of paper, it stops printing. The printer stopped printing. Therefore, it is out of paper.\" Using the multiple causes strategy, which scenario is a counterexample?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The printer has plenty of paper, but a paper jam stopped it from printing.",
+       "correct": true
+      },
+      {
+       "text": "The printer is out of paper and stopped printing."
+      },
+      {
+       "text": "The printer has plenty of paper and is still printing."
+      },
+      {
+       "text": "The printer is out of paper but keeps printing."
+      }
+     ],
+     "feedback_correct": "Right. A paper jam is another way for the printer to stop, so both premises are true while the conclusion is false.",
+     "feedback_incorrect": "Look for another cause of the stop. One option makes the conclusion true, one makes the second premise false, and one makes the first premise false."
+    }
+   ]
+  }
+ ],
+ "discussions": [],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_w1",
+   "title": "Week 1: Argument Basics",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_w1_1_01a",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w1_1_01b",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w1_1_01c",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w1",
+     "week": 1
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w1",
+     "week": 1
+    }
+   ]
+  },
+  {
+   "id": "m_w2",
+   "title": "Week 2: Argument Basics",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_w2_1_02a",
+     "week": 2,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w2_1_02b",
+     "week": 2,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w2_1_02c",
+     "week": 2,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w2_1_03a",
+     "week": 2,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w2",
+     "week": 2
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w2",
+     "week": 2
+    }
+   ]
+  },
+  {
+   "id": "m_w3",
+   "title": "Week 3: Argument Basics",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_w3_1_03b",
+     "week": 3,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w3_1_03c",
+     "week": 3,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w3",
+     "week": 3
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w3",
+     "week": 3
+    }
+   ]
+  },
+  {
+   "id": "m_w4",
+   "title": "Week 4: Informal Fallacies",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_w4_2_01a",
+     "week": 4,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w4_2_01b",
+     "week": 4,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w4_2_02a",
+     "week": 4,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w4_2_02b",
+     "week": 4,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w4_2_02c",
+     "week": 4,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w4",
+     "week": 4
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w4",
+     "week": 4
+    }
+   ]
+  },
+  {
+   "id": "m_w5",
+   "title": "Week 5: Informal Fallacies",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_w5_2_02d",
+     "week": 5,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w5_2_02e",
+     "week": 5,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w5_2_03a",
+     "week": 5,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w5_2_03b",
+     "week": 5,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w5_2_03c",
+     "week": 5,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w5",
+     "week": 5
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w5",
+     "week": 5
+    }
+   ]
+  },
+  {
+   "id": "m_w6",
+   "title": "Week 6: Informal Fallacies",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_w6_2_04a",
+     "week": 6,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w6_2_04b",
+     "week": 6,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w6_2_04c",
+     "week": 6,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w6_2_04d",
+     "week": 6,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w6",
+     "week": 6
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w6",
+     "week": 6
+    }
+   ]
+  },
+  {
+   "id": "m_w7",
+   "title": "Week 7: Informal Fallacies",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_w7_2_05a",
+     "week": 7,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w7_2_05b",
+     "week": 7,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w7_2_05c",
+     "week": 7,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w7",
+     "week": 7
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w7",
+     "week": 7
+    }
+   ]
+  },
+  {
+   "id": "m_w8",
+   "title": "Week 8: More on Arguments",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_w8_3_01a",
+     "week": 8,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w8_3_01b",
+     "week": 8,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w8_3_01c",
+     "week": 8,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w8_3_02a",
+     "week": 8,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w8_3_02b",
+     "week": 8,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w8_3_02c",
+     "week": 8,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w8_3_02d",
+     "week": 8,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w8_3_02e",
+     "week": 8,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w8",
+     "week": 8
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w8",
+     "week": 8
+    }
+   ]
+  },
+  {
+   "id": "m_w9",
+   "title": "Week 9: More on Arguments",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_w9_3_03a",
+     "week": 9,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w9_3_03b",
+     "week": 9,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w9_3_03c",
+     "week": 9,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_w9_3_03d",
+     "week": 9,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_w9",
+     "week": 9
+    },
+    {
+     "type": "quiz",
+     "ref": "q_w9",
+     "week": 9
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Built 2026-10-26 by a script from OneDrive Claude's Workshop/Electives/Semantics and Logic/HSSemanticsandLogicHonors/04_Final (authoritative): lesson titles from each page's window.LESSON.title in pages/lessons/q1, assignments + rubrics from canvas/q1/WNN Assignment stubs, quizzes from canvas/q1/WNN Quiz (quiz).md. Lessons live at https://optimaondemand.github.io/hs-humanities-logic-sem2-widgets/lessons/q1/ (lesson repo commit c3a3d7a). No module maps exist; order follows the folder's week structure (Week = module), unit names from the lesson repo README. Week 9 Module 4 'Statements' was never built in the source course. Gradebook: two point groups, unweighted (owner's choice 2026-10-26)."
+ }
+}
