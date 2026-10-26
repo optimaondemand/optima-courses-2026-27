@@ -4,18 +4,18 @@
  "code": "1001310",
  "title": "English 1 (9th Grade) Sem 1",
  "file": "cartridges/1001310-s1.imscc",
- "bytes": 799105,
- "version": "2026.09.16",
- "built": "2026-09-16T12:21:04",
+ "bytes": 781007,
+ "version": "2026.10.26",
+ "built": "2026-10-26T19:34:19",
  "front_page": "wiki_content/course-home.html",
- "items": 193,
+ "items": 189,
  "modules": [
   {
    "id": "m825",
    "title": "Module 1: Electra",
    "gid": "gd1bd1957fa196dcc62fdf0cda0182ad1",
    "published": true,
-   "items": 52,
+   "items": 51,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -23,7 +23,7 @@
    "title": "Module 2: Sir Gawain",
    "gid": "g16726efff65400d7cf17d5d9b1635acb",
    "published": true,
-   "items": 53,
+   "items": 52,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -31,7 +31,7 @@
    "title": "Module 3: The Canterbury Tales",
    "gid": "g709b3fd27ef86d4d764a91628914a1e5",
    "published": true,
-   "items": 49,
+   "items": 48,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -39,7 +39,7 @@
    "title": "Module 4: Sonnets",
    "gid": "g83a57b0e59184942f21d8e88b5a1a25d",
    "published": true,
-   "items": 33,
+   "items": 32,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -52,13 +52,13 @@
   }
  ],
  "counts": {
-  "pages": 113,
+  "pages": 109,
   "assignments": 40,
   "quizzes": 25,
   "discussions": 14,
   "files": 2,
   "modules": 5,
-  "items": 193
+  "items": 189
  },
  "weights": [
   {
@@ -1530,30 +1530,30 @@
   "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
  },
  "weighted": false,
- "source": "Canvas course 4 on optimaoaoteam.instructure.com, pulled 2026-09-16",
+ "source": "Canvas course 4 on optimaoaoteam.instructure.com, pulled 2026-10-26",
  "verify": {
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 234,
+   "resources": 230,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 80,
-    "webcontent": 115,
+    "webcontent": 111,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 25,
     "imsdt_xmlv1p1": 14
    },
-   "organization_items": 193,
+   "organization_items": 189,
    "modules": 5,
-   "module_items": 193,
+   "module_items": 189,
    "module_item_types": {
-    "WikiPage": 112,
+    "WikiPage": 108,
     "Quizzes::Quiz": 25,
     "Assignment": 40,
     "DiscussionTopic": 14,
     "Attachment": 2
    },
    "default_view": "wiki",
-   "pages": 113,
+   "pages": 109,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 1,
    "group_refs": 104,
@@ -1565,5 +1565,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "12a03b731ecfbc854cf503bd00c64d1249d3b502d58c1d2b31480a9b66a1c878"
+ "spec_sha": "05c8d533d68101d6fe2c062d53103fdb71181282c1366718fc1e057379c3f5e2",
+ "art_pack": null
 }
