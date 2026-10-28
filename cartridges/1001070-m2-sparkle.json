@@ -4,11 +4,11 @@
  "code": "1001070",
  "title": "M/J Language Arts 3 · Out of the Silent Planet (Sparkle)",
  "file": "cartridges/1001070-m2-sparkle.imscc",
- "bytes": 68035,
- "version": "2026.10.26",
- "built": "2026-10-26T06:18:21",
+ "bytes": 66531,
+ "version": "2026.10.28",
+ "built": "2026-10-28T05:34:54",
  "front_page": "wiki_content/course-home.html",
- "items": 37,
+ "items": 38,
  "modules": [
   {
    "id": "os_m_w1",
@@ -55,18 +55,18 @@
    "title": "Module 2 · Week 6: Final Project Week: Build Your First-Contact Story",
    "gid": "geea17b44e03e4ceec709af58b1a6319f",
    "published": true,
-   "items": 9,
+   "items": 10,
    "xml": "course_settings/module_meta.xml"
   }
  ],
  "counts": {
-  "pages": 25,
-  "assignments": 11,
+  "pages": 27,
+  "assignments": 10,
   "quizzes": 0,
   "discussions": 2,
   "files": 0,
   "modules": 6,
-  "items": 37
+  "items": 38
  },
  "weights": [
   {
@@ -228,33 +228,15 @@
    "lock_at": null
   },
   {
-   "id": "os_a_story",
+   "id": "os_a_project",
    "type": "assignment",
-   "title": "First-Contact Short Story",
-   "gid": "g06e3e645f56f547711198e6609597b6b",
-   "xml": "g06e3e645f56f547711198e6609597b6b/assignment_settings.xml",
+   "title": "First-Contact Story Project",
+   "gid": "gb0aedff48be797c757f9b923105f60cc",
+   "xml": "gb0aedff48be797c757f9b923105f60cc/assignment_settings.xml",
    "module": "os_m_w6",
    "week": 16,
    "kind": "module-project",
-   "points": 100.0,
-   "points_editable": true,
-   "graded": true,
-   "group": "g3b4e4c94eba3e0f619a95ec7b5fa6ab7",
-   "published": true,
-   "due_at": null,
-   "unlock_at": null,
-   "lock_at": null
-  },
-  {
-   "id": "os_a_monologue",
-   "type": "assignment",
-   "title": "Malacandra Speaks: An Original Character Monologue",
-   "gid": "g3094579c9ba3e0ba4ee1db32303e1a11",
-   "xml": "g3094579c9ba3e0ba4ee1db32303e1a11/assignment_settings.xml",
-   "module": "os_m_w6",
-   "week": 16,
-   "kind": "performance",
-   "points": 30.0,
+   "points": 130.0,
    "points_editable": true,
    "graded": true,
    "group": "g3b4e4c94eba3e0f619a95ec7b5fa6ab7",
@@ -330,33 +312,33 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 41,
+   "resources": 42,
    "resource_types": {
-    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 14,
-    "webcontent": 25,
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 13,
+    "webcontent": 27,
     "imsdt_xmlv1p1": 2
    },
-   "organization_items": 37,
+   "organization_items": 38,
    "modules": 6,
-   "module_items": 37,
+   "module_items": 38,
    "module_item_types": {
-    "WikiPage": 24,
-    "Assignment": 11,
+    "WikiPage": 26,
+    "Assignment": 10,
     "DiscussionTopic": 2
    },
    "default_view": "wiki",
-   "pages": 25,
+   "pages": 27,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 1,
-   "group_refs": 13,
+   "group_refs": 12,
    "quizzes": 0,
-   "assignments": 11,
+   "assignments": 10,
    "discussions": 2,
    "files": 0,
    "points_listed": 420.0
   }
  },
  "status": "ready",
- "spec_sha": "6e0c4c94cff602173098f60d6100e2a41d7602052af116c08af3d0da37f2c806",
+ "spec_sha": "0307889562f9bf15601abb9a9d327793298fa118090dc87af6b7b026bce690c7",
  "art_pack": null
 }
