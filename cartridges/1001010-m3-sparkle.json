@@ -4,9 +4,9 @@
  "code": "1001010",
  "title": "M/J Language Arts 1 · King Arthur (Sparkle)",
  "file": "cartridges/1001010-m3-sparkle.imscc",
- "bytes": 122000,
- "version": "2026.10.23",
- "built": "2026-10-23T10:43:12",
+ "bytes": 120842,
+ "version": "2026.10.29",
+ "built": "2026-10-29T06:50:59",
  "front_page": "wiki_content/course-home.html",
  "items": 41,
  "modules": [
@@ -86,7 +86,7 @@
   {
    "id": "ks_a_w1_work",
    "type": "assignment",
-   "title": "Week 1 Work: Quick Write 1, \"What Makes a Good Knight?\"",
+   "title": "Week 1 Work",
    "gid": "g1af049cfae5b21a47e4450b6090ed285",
    "xml": "g1af049cfae5b21a47e4450b6090ed285/assignment_settings.xml",
    "module": "ks_m_w1",
@@ -104,7 +104,7 @@
   {
    "id": "ks_a_w2_work",
    "type": "assignment",
-   "title": "Week 2 Work: Quick Write 2, \"Kept and Broken\"",
+   "title": "Week 2 Work",
    "gid": "ga67b7067935b062cf3ef716e240a2dc5",
    "xml": "ga67b7067935b062cf3ef716e240a2dc5/assignment_settings.xml",
    "module": "ks_m_w2",
@@ -122,7 +122,7 @@
   {
    "id": "ks_a_w3_work",
    "type": "assignment",
-   "title": "Week 3 Work: Quick Write 3, \"Two Knights Compared\"",
+   "title": "Week 3 Work",
    "gid": "g4e982872f9860f8c6139d3008696707a",
    "xml": "g4e982872f9860f8c6139d3008696707a/assignment_settings.xml",
    "module": "ks_m_w3",
@@ -140,7 +140,7 @@
   {
    "id": "ks_a_w4_work",
    "type": "assignment",
-   "title": "Week 4 Work: Quick Write 4, \"One Knight in Book Three\"",
+   "title": "Week 4 Work",
    "gid": "g8f06a2998291eb69bfe0635e73265088",
    "xml": "g8f06a2998291eb69bfe0635e73265088/assignment_settings.xml",
    "module": "ks_m_w4",
@@ -158,7 +158,7 @@
   {
    "id": "ks_a_w5_work",
    "type": "assignment",
-   "title": "Week 5 Work: Quick Write 5, \"The Late Moment\"",
+   "title": "Week 5 Work",
    "gid": "gd663ccff61c42207b96a05818823c9d9",
    "xml": "gd663ccff61c42207b96a05818823c9d9/assignment_settings.xml",
    "module": "ks_m_w5",
@@ -176,7 +176,7 @@
   {
    "id": "ks_a_w6_work",
    "type": "assignment",
-   "title": "Week 6 Work: Quick Write 6, \"The Fair Other Side\"",
+   "title": "Week 6 Work",
    "gid": "g8d4db980cb4119828f2fea55800e68d4",
    "xml": "g8d4db980cb4119828f2fea55800e68d4/assignment_settings.xml",
    "module": "ks_m_w6",
@@ -437,6 +437,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "e67032ab16a6ea716f0a104acb7baba682d8e984d17e4844e80fa58a554c143a",
+ "spec_sha": "c038a50be38cd4bc58f099a94871975375edfac6f505690e1c69bcfcd2f1ae60",
  "art_pack": null
 }
