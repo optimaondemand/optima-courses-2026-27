@@ -4,9 +4,9 @@
  "code": "2100010",
  "title": "07 MJ US Hist 1492-Recon Spring 2100010",
  "file": "cartridges/2100010-s2.imscc",
- "bytes": 791839,
+ "bytes": 791598,
  "version": "2026.11.02",
- "built": "2026-11-02T12:00:40",
+ "built": "2026-11-02T14:36:49",
  "front_page": "wiki_content/course-home.html",
  "items": 185,
  "modules": [
@@ -22,7 +22,7 @@
    "id": "m3159",
    "title": "Founding Era: The Republic Learns to Disagree",
    "gid": "ga826760b0a3ab92b3c64374c0af26ec1",
-   "published": false,
+   "published": true,
    "items": 20,
    "xml": "course_settings/module_meta.xml"
   },
@@ -30,7 +30,7 @@
    "id": "m3160",
    "title": "Module 1: The New Republic Competes on the Continent",
    "gid": "gb85fa03cff8e7e81e394c225de688846",
-   "published": false,
+   "published": true,
    "items": 20,
    "xml": "course_settings/module_meta.xml"
   },
@@ -38,7 +38,7 @@
    "id": "m3161",
    "title": "Module 2: The North Pursues Innovation and Progress",
    "gid": "gf7e974bf1262642cbbc3df1dd50ae292",
-   "published": false,
+   "published": true,
    "items": 11,
    "xml": "course_settings/module_meta.xml"
   },
@@ -46,7 +46,7 @@
    "id": "m3162",
    "title": "Module 3: The South Embraces Hierarchy and Tradition",
    "gid": "g9c1455d3e74342aa2453eb4e14cd8487",
-   "published": false,
+   "published": true,
    "items": 20,
    "xml": "course_settings/module_meta.xml"
   },
@@ -54,7 +54,7 @@
    "id": "m3163",
    "title": "Module 4: North and South Practice Compromise",
    "gid": "g074a2aed4f2d2f3c64091f08084536da",
-   "published": false,
+   "published": true,
    "items": 22,
    "xml": "course_settings/module_meta.xml"
   },
@@ -62,7 +62,7 @@
    "id": "m3164",
    "title": "Module 5: North and South Reject Compromise and Face Crisis",
    "gid": "gd5e146761d7cb0687b7fc573e55be707",
-   "published": false,
+   "published": true,
    "items": 29,
    "xml": "course_settings/module_meta.xml"
   },
@@ -70,7 +70,7 @@
    "id": "m3165",
    "title": "Module 6: The American Civil War",
    "gid": "gd7c630a10b0df039ef58c1c5e346c684",
-   "published": false,
+   "published": true,
    "items": 40,
    "xml": "course_settings/module_meta.xml"
   },
@@ -78,7 +78,7 @@
    "id": "m3166",
    "title": "Module 7: Reconstruction",
    "gid": "g73bc9b96a087f9b5e9effdf540ea44db",
-   "published": false,
+   "published": true,
    "items": 22,
    "xml": "course_settings/module_meta.xml"
   }
@@ -150,7 +150,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -168,7 +168,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -186,7 +186,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -204,7 +204,7 @@
    "points_editable": true,
    "graded": true,
    "group": "g7224d38ab7d07cfe93fccbd4de8f7dcf",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -222,7 +222,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -240,7 +240,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -258,7 +258,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -276,7 +276,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -294,7 +294,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -312,7 +312,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -330,7 +330,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -348,7 +348,7 @@
    "points_editable": true,
    "graded": true,
    "group": "g7224d38ab7d07cfe93fccbd4de8f7dcf",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -366,7 +366,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -384,7 +384,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -402,7 +402,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -420,7 +420,7 @@
    "points_editable": true,
    "graded": true,
    "group": "g7224d38ab7d07cfe93fccbd4de8f7dcf",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -438,7 +438,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -456,7 +456,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -474,7 +474,7 @@
    "points_editable": true,
    "graded": true,
    "group": "g7224d38ab7d07cfe93fccbd4de8f7dcf",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -492,7 +492,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -510,7 +510,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -528,7 +528,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -546,7 +546,7 @@
    "points_editable": true,
    "graded": true,
    "group": "g7224d38ab7d07cfe93fccbd4de8f7dcf",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -564,7 +564,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -582,7 +582,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -600,7 +600,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -618,7 +618,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -636,7 +636,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -654,7 +654,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -672,7 +672,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -690,7 +690,7 @@
    "points_editable": true,
    "graded": true,
    "group": "g7224d38ab7d07cfe93fccbd4de8f7dcf",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -708,7 +708,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -726,7 +726,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -744,7 +744,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -762,7 +762,7 @@
    "points_editable": true,
    "graded": true,
    "group": "g7224d38ab7d07cfe93fccbd4de8f7dcf",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -780,7 +780,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -798,7 +798,7 @@
    "points_editable": true,
    "graded": true,
    "group": "g7224d38ab7d07cfe93fccbd4de8f7dcf",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -816,7 +816,7 @@
    "points_editable": true,
    "graded": true,
    "group": "g7224d38ab7d07cfe93fccbd4de8f7dcf",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -835,7 +835,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -854,7 +854,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -873,7 +873,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -892,7 +892,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -911,7 +911,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -930,7 +930,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -949,7 +949,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -968,7 +968,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -987,7 +987,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1006,7 +1006,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1025,7 +1025,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1044,7 +1044,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1063,7 +1063,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1082,7 +1082,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1101,7 +1101,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1120,7 +1120,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1139,7 +1139,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1158,7 +1158,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1177,7 +1177,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1196,7 +1196,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1215,7 +1215,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1234,7 +1234,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1253,7 +1253,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1272,7 +1272,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1291,7 +1291,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1310,7 +1310,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1329,7 +1329,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "g7224d38ab7d07cfe93fccbd4de8f7dcf",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1348,7 +1348,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1367,7 +1367,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1386,7 +1386,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1405,7 +1405,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1424,7 +1424,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1443,7 +1443,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1462,7 +1462,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1481,7 +1481,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1500,7 +1500,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1519,7 +1519,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1538,7 +1538,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1557,7 +1557,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1576,7 +1576,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1595,7 +1595,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1614,7 +1614,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1633,7 +1633,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1652,7 +1652,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1671,7 +1671,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1690,7 +1690,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1709,7 +1709,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1728,7 +1728,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1747,7 +1747,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1766,7 +1766,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1785,7 +1785,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1804,7 +1804,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1823,7 +1823,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1842,7 +1842,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "gc6d3fd9caf7c63fbd896c494da769d10",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1861,7 +1861,7 @@
    "quiz_type": "assignment",
    "graded": true,
    "group": "g7224d38ab7d07cfe93fccbd4de8f7dcf",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1880,7 +1880,7 @@
    "quiz_type": "survey",
    "graded": false,
    "group": null,
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1898,7 +1898,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1916,7 +1916,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1934,7 +1934,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1952,7 +1952,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1970,7 +1970,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -1988,7 +1988,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -2006,7 +2006,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -2024,7 +2024,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -2042,7 +2042,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -2060,7 +2060,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -2078,7 +2078,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -2096,7 +2096,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -2114,7 +2114,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -2132,7 +2132,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -2150,7 +2150,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -2168,7 +2168,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -2186,7 +2186,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -2204,7 +2204,7 @@
    "points_editable": true,
    "graded": true,
    "group": "ge9b02d067b4890e1b131beaccd5e9670",
-   "published": false,
+   "published": true,
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
@@ -2252,6 +2252,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "8cb6464f3c9a531c74ad3a28db84d585cdc44560d8c2ae5fccdf9527a9d7dd42",
+ "spec_sha": "8042aa1a73545feabcd47332c10d9ff03c8f4a0e4b7948d2491dc26490e1f184",
  "art_pack": null
 }
