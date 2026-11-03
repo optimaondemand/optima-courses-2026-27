@@ -4,9 +4,9 @@
  "code": "0701320",
  "title": "French 1 Sem 2",
  "file": "cartridges/0701320-s2.imscc",
- "bytes": 431236,
+ "bytes": 434665,
  "version": "2026.11.03",
- "built": "2026-11-03T08:02:17",
+ "built": "2026-11-03T10:04:40",
  "front_page": "wiki_content/course-home.html",
  "items": 152,
  "modules": [
@@ -352,7 +352,7 @@
    "module": "mod_m01",
    "week": 2,
    "kind": null,
-   "points": 25.0,
+   "points": 32.0,
    "points_editable": false,
    "quiz_type": "assignment",
    "graded": true,
@@ -637,7 +637,7 @@
    "module": "mod_m06",
    "week": 12,
    "kind": null,
-   "points": 25.0,
+   "points": 30.0,
    "points_editable": false,
    "quiz_type": "assignment",
    "graded": true,
@@ -930,10 +930,10 @@
    "assignments": 9,
    "discussions": 0,
    "files": 0,
-   "points_listed": 1633.0
+   "points_listed": 1657.0
   }
  },
  "status": "ready",
- "spec_sha": "85d21f8bfd73b2aa7b5f1dfc7c9042a938b70843e95e53fa96266108c0e9df2c",
+ "spec_sha": "c1425937da9fc27764db140e3aa94075d0d650828f8138ca5eda42d8ba24bd6f",
  "art_pack": null
 }
