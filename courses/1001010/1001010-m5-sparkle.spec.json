@@ -1,0 +1,2525 @@
+{
+ "course": {
+  "title": "M/J Language Arts 1 · The Bronze Bow (Sparkle)",
+  "code": "1001010",
+  "default_view": "wiki",
+  "weighted": false
+ },
+ "assignment_groups": [
+  {
+   "id": "bb_ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "bb_r_rr1",
+   "title": "Recorded Reading & Reflection 1 Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Set-up and context",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Chapter named, and the passage’s first and last words given. Two sentences say accurately what happens in the passage.",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Location named, but the two sentences are vague or describe the wrong thing.",
+       "points": 2.5
+      },
+      {
+       "description": "Not yet",
+       "long_description": "No set-up.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Accuracy of reading",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Reads the passage as written. Unfamiliar words are attempted and pronounced clearly.",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Frequent misreadings, or lines skipped.",
+       "points": 2.5
+      },
+      {
+       "description": "Not yet",
+       "long_description": "Passage not read, or far under 300 words.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Pace, volume, and expression",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Steady pace a listener can follow. Audible throughout. Phrasing and emphasis match what the sentence means.",
+       "points": 8.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Rushed, flat, or hard to hear in places.",
+       "points": 4.0
+      },
+      {
+       "description": "Not yet",
+       "long_description": "Inaudible or unintelligible.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The response",
+     "long_description": "",
+     "points": 7,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Completes the chosen response (Talk it through, Make the case, or Change one thing) and points at something specific in the passage just read.",
+       "points": 7.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Answers one question, or answers generally without pointing at the passage.",
+       "points": 3.5
+      },
+      {
+       "description": "Not yet",
+       "long_description": "No reflection.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bb_r_rr2",
+   "title": "Recorded Reading & Reflection 2 Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Set-up and context",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Chapter named, and the passage’s first and last words given. Two sentences say accurately what happens in the passage.",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Location named, but the two sentences are vague or describe the wrong thing.",
+       "points": 2.5
+      },
+      {
+       "description": "Not yet",
+       "long_description": "No set-up.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Accuracy of reading",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Reads the passage as written. Unfamiliar words are attempted and pronounced clearly.",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Frequent misreadings, or lines skipped.",
+       "points": 2.5
+      },
+      {
+       "description": "Not yet",
+       "long_description": "Passage not read, or far under 300 words.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Pace, volume, and expression",
+     "long_description": "",
+     "points": 8,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Steady pace a listener can follow. Audible throughout. Phrasing and emphasis match what the sentence means.",
+       "points": 8.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Rushed, flat, or hard to hear in places.",
+       "points": 4.0
+      },
+      {
+       "description": "Not yet",
+       "long_description": "Inaudible or unintelligible.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The response",
+     "long_description": "",
+     "points": 7,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Completes the chosen response (Talk it through, Make the case, or Change one thing) and points at something specific in the passage just read.",
+       "points": 7.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Answers one question, or answers generally without pointing at the passage.",
+       "points": 3.5
+      },
+      {
+       "description": "Not yet",
+       "long_description": "No reflection.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bb_r_forum1",
+   "title": "All-Class Forum 1: Two Kinds of Freedom Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Initial post — claim and evidence",
+     "long_description": "",
+     "points": 10,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Answers all three parts. Position stated up front, a specific moment named, the strongest objection answered.",
+       "points": 10.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Answers partly, or the evidence is general rather than a named moment.",
+       "points": 5.0
+      },
+      {
+       "description": "Not yet",
+       "long_description": "No initial post.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Initial post — originality",
+     "long_description": "",
+     "points": 3,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Says something not already on the board, or extends an existing point and says so explicitly.",
+       "points": 3.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Restates a point already made.",
+       "points": 1.5
+      }
+     ]
+    },
+    {
+     "description": "Two replies",
+     "long_description": "",
+     "points": 10,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Both replies engage a classmate's actual reasoning by adding, challenging, or asking.",
+       "points": 10.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "One substantive reply, or two thin ones.",
+       "points": 5.0
+      },
+      {
+       "description": "Not yet",
+       "long_description": "No replies.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Conduct and writing",
+     "long_description": "",
+     "points": 2,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Complete sentences, on topic, courteous.",
+       "points": 2.0
+      },
+      {
+       "description": "Not yet",
+       "long_description": "Off topic or discourteous.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bb_r_project",
+   "title": "Module Project: The Power of Choice: Daniel's Journey Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "the essay shows real command of the novel: Daniel's arc, the Rosh/Jesus contrast, and specific events.",
+     "points": 30,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Deep, accurate command of the novel; events are precise and well chosen.",
+       "points": 30.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Solid, accurate knowledge; events mostly specific.",
+       "points": 20.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Partial or general knowledge; few specific events.",
+       "points": 10.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Little command; vague or inaccurate.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "an arguable thesis, a fair statement of the other side with a real answer to it, and at least three specific moments named by chapter, each explained.",
+     "points": 30,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Thesis is clear and earned; the other side is its strongest fair version; the answer truly responds to it; 3+ moments drive the argument (logos).",
+       "points": 30.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Clear thesis; the other side and the answer are present; 3 moments cited.",
+       "points": 20.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Thesis thin; the other side or the answer is weak; fewer than 3 moments.",
+       "points": 10.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Summary rather than argument; no real position.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity & precision of expression",
+     "long_description": "controlled, vivid language: 5+ module vocabulary words, a periodic sentence, a participial phrase, parallel structure, an MLA citation, correct mechanics; assembled cleanly with Heading styles.",
+     "points": 25,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "All craft items met naturally; prose clear and lively; document well organized.",
+       "points": 25.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Requirements largely met; minor mechanical issues.",
+       "points": 16.5
+      },
+      {
+       "description": "Developing",
+       "long_description": "Some craft items missing; prose uneven; errors interfere.",
+       "points": 8.5
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Requirements unmet; prose unclear; document disorganized.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "the reading is the student's own, true to the text; evidence is real and fairly represented; the opposing view is taken seriously, not mocked or strawmanned.",
+     "points": 15,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Reading is clearly the student's own and grounded in the text; evidence accurate; opposition engaged seriously (ethos).",
+       "points": 15.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Honest, text-grounded reading; evidence accurate; opposition treated fairly.",
+       "points": 10.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Leans on cliché or unsupported claims; some evidence loose.",
+       "points": 5.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Claims untethered from the text; evidence absent or misrepresented.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [],
+ "assignments": [
+  {
+   "id": "bb_a_w1_l1",
+   "title": "The Mountain and the Village (Week 1)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w1-lesson1-the-mountain.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 9,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w1_l2",
+   "title": "The Vow and the Bow (Week 1)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w1-lesson2-the-vow.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 9,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w1_l3",
+   "title": "The Writer's Bench (Week 1)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w1-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 9,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w1_l4",
+   "title": "Three Voices (Week 1)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w1-lesson4-three-voices.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 9,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w2_l1",
+   "title": "The Soft Streak (Week 2)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w2-lesson1-the-soft-streak.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 10,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w2_l2",
+   "title": "Leah's Thread (Week 2)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w2-lesson2-leahs-thread.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 10,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w2_l3",
+   "title": "The Writer's Bench (Week 2)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w2-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 10,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w2_l4",
+   "title": "Who Is on Watch (Week 2)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w2-lesson4-who-is-on-watch.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 10,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w3_l1",
+   "title": "Not One of Your Men (Week 3)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w3-lesson1-not-one-of-your-men.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 11,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w3_l2",
+   "title": "Stronger Than Hate (Week 3)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w3-lesson2-stronger-than-hate.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 11,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w3_l3",
+   "title": "The Writer's Bench (Week 3)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w3-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 11,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w3_l4",
+   "title": "What Daniel Could Not See (Week 3)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w3-lesson4-what-daniel-could-not-see.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 11,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w4_l1",
+   "title": "The Shut Door (Week 4)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w4-lesson1-the-shut-door.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 12,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w4_l2",
+   "title": "The Bow Bends (Week 4)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w4-lesson2-the-bow-bends.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 12,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w4_l3",
+   "title": "The Writer's Bench (Week 4)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w4-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 12,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w4_l4",
+   "title": "The Open Door (Week 4)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w4-lesson4-the-open-door.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 12,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w5_l1",
+   "title": "The Whole Journey (Week 5)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w5-lesson1-the-whole-journey.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 13,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w5_l2",
+   "title": "Three Persuaders (Week 5)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w5-lesson2-three-persuaders.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 13,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w5_l3",
+   "title": "The Writer's Bench (Week 5)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w5-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 13,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_w5_l4",
+   "title": "Journey's End (Week 5)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w5-lesson4-journeys-end.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 13,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "bb_a_rr1",
+   "title": "Recorded Reading & Reflection 1",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#1B2A36;border-bottom:5px solid #B5742A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Recorded Reading &amp; Reflection 1</span><div style=\"color:#5E8DA8;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA &middot; The Bronze Bow &middot; Week 2</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">25 points</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Record or upload</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Due end of Week 2</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">2 attempts</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:26px 0 8px 0;\"><a href=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w2-recorded-reading-1.html\" style=\"display:inline-block;background:#1B2A36;color:#ffffff;font-size:21px;line-height:1.25;padding:18px 30px;border-bottom:5px solid #B5742A;border-radius:8px;text-decoration:none;\">Open your Story Hour page &#8594;</a></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#B5742A;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#1B2A36;line-height:1.35;\">Prepare</div><div style=\"font-size:14px;color:#2E3756;line-height:1.65;margin-top:6px;\">Chapters 1 to 8. 300 to 500 words, from your own copy.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#B5742A;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#1B2A36;line-height:1.35;\">Record</div><div style=\"font-size:14px;color:#2E3756;line-height:1.65;margin-top:6px;\">One take: set the scene, read, respond, sign off. 3 to 5 minutes.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#B5742A;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#1B2A36;line-height:1.35;\">Submit</div><div style=\"font-size:14px;color:#2E3756;line-height:1.65;margin-top:6px;\">Record / Upload Media on this assignment. Audio only is fine. Two tries; the later one counts.</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1B2A36;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #B5742A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#5E8DA8;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2E3756;line-height:1.55;padding:2px 0 13px 4px;\">Chapter, first and last words, what happens</td></tr><tr><td style=\"width:30px;min-width:30px;color:#5E8DA8;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2E3756;line-height:1.55;padding:2px 0 13px 4px;\">The passage read aloud in full, as written</td></tr><tr><td style=\"width:30px;min-width:30px;color:#5E8DA8;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2E3756;line-height:1.55;padding:2px 0 13px 4px;\">One response that points at a specific line</td></tr><tr><td style=\"width:30px;min-width:30px;color:#5E8DA8;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2E3756;line-height:1.55;padding:2px 0 13px 4px;\">Audible all the way through</td></tr></tbody></table>",
+   "points": 25,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "media_recording,online_upload",
+   "allowed_extensions": "mp3,m4a,wav,mp4,mov,webm,ogg",
+   "rubric": "bb_r_rr1",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "week": 10,
+   "kind": "recorded-reading"
+  },
+  {
+   "id": "bb_a_rr2",
+   "title": "Recorded Reading & Reflection 2",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#1B2A36;border-bottom:5px solid #B5742A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Recorded Reading &amp; Reflection 2</span><div style=\"color:#5E8DA8;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA &middot; The Bronze Bow &middot; Week 4</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">25 points</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Record or upload</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Due end of Week 4</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">2 attempts</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:26px 0 8px 0;\"><a href=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/w4-recorded-reading-2.html\" style=\"display:inline-block;background:#1B2A36;color:#ffffff;font-size:21px;line-height:1.25;padding:18px 30px;border-bottom:5px solid #B5742A;border-radius:8px;text-decoration:none;\">Open your Story Hour page &#8594;</a></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#B5742A;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#1B2A36;line-height:1.35;\">Prepare</div><div style=\"font-size:14px;color:#2E3756;line-height:1.65;margin-top:6px;\">Chapters 9 to 24. 300 to 500 words, from your own copy. A different part from your first recording.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#B5742A;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#1B2A36;line-height:1.35;\">Record</div><div style=\"font-size:14px;color:#2E3756;line-height:1.65;margin-top:6px;\">One take: set the scene, read, respond, sign off. 3 to 5 minutes.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#B5742A;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#1B2A36;line-height:1.35;\">Submit</div><div style=\"font-size:14px;color:#2E3756;line-height:1.65;margin-top:6px;\">Record / Upload Media on this assignment. Audio only is fine. Two tries; the later one counts.</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1B2A36;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #B5742A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#5E8DA8;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2E3756;line-height:1.55;padding:2px 0 13px 4px;\">Chapter, first and last words, what happens</td></tr><tr><td style=\"width:30px;min-width:30px;color:#5E8DA8;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2E3756;line-height:1.55;padding:2px 0 13px 4px;\">The passage read aloud in full, as written</td></tr><tr><td style=\"width:30px;min-width:30px;color:#5E8DA8;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2E3756;line-height:1.55;padding:2px 0 13px 4px;\">One response that points at a specific line</td></tr><tr><td style=\"width:30px;min-width:30px;color:#5E8DA8;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2E3756;line-height:1.55;padding:2px 0 13px 4px;\">Audible all the way through</td></tr></tbody></table>",
+   "points": 25,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "media_recording,online_upload",
+   "allowed_extensions": "mp3,m4a,wav,mp4,mov,webm,ogg",
+   "rubric": "bb_r_rr2",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "week": 12,
+   "kind": "recorded-reading"
+  },
+  {
+   "id": "bb_a_project",
+   "title": "Module Project: The Power of Choice: Daniel's Journey",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#1B2A36;border-bottom:5px solid #B5742A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">The Power of Choice: Daniel's Journey</span><div style=\"color:#5E8DA8;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA &middot; The Bronze Bow &middot; Module Project</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">100 points</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">1 Word file (.docx)</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Due end of Week 5</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"background:#1B2A36;border-left:9px solid #B5742A;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">Can love accomplish what hatred cannot?</div></div><div style=\"font-size:13.5px;color:#6b7a99;line-height:1.65;margin:0 0 18px 0;\">A 4 to 5 paragraph essay on what Daniel's choices prove. Name each moment by chapter.</div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1B2A36;line-height:1.25;\">Your essay</div><div style=\"width:52px;border-bottom:4px solid #B5742A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:66%;vertical-align:top;padding:0;\"><div style=\"background:#F4EFE6;border-left:7px solid #5E8DA8;padding:13px 18px 12px 18px;margin:0 0 6px 0;\"><div style=\"font-size:18px;color:#1B2A36;line-height:1.3;\">Opening</div><div style=\"font-size:13.5px;color:#2E3756;line-height:1.5;margin-top:2px;\">Your thesis</div></div><div style=\"background:#F4EFE6;border-left:7px solid #5E8DA8;padding:13px 18px 12px 18px;margin:0 0 6px 0;\"><div style=\"font-size:18px;color:#1B2A36;line-height:1.3;\">The other side</div><div style=\"font-size:13.5px;color:#2E3756;line-height:1.5;margin-top:2px;\">Said fairly</div></div><div style=\"background:#FBF3E6;border-left:7px solid #B5742A;padding:20px 18px 14px 18px;margin:0 0 6px 0;\"><div style=\"font-size:18px;color:#1B2A36;line-height:1.3;\">Central argument</div><div style=\"font-size:13.5px;color:#2E3756;line-height:1.5;margin-top:2px;\">Three moments, each named by chapter</div><span style=\"display:inline-block;border:1px solid #5E8DA8;border-radius:14px;padding:1px 10px;margin:7px 6px 0 0;font-size:12px;color:#1B2A36;background:#ffffff;\">Ch. ___</span><span style=\"display:inline-block;border:1px solid #5E8DA8;border-radius:14px;padding:1px 10px;margin:7px 6px 0 0;font-size:12px;color:#1B2A36;background:#ffffff;\">Ch. ___</span><span style=\"display:inline-block;border:1px solid #5E8DA8;border-radius:14px;padding:1px 10px;margin:7px 6px 0 0;font-size:12px;color:#1B2A36;background:#ffffff;\">Ch. ___</span></div><div style=\"background:#F4EFE6;border-left:7px solid #5E8DA8;padding:13px 18px 12px 18px;margin:0 0 6px 0;\"><div style=\"font-size:18px;color:#1B2A36;line-height:1.3;\">Answer and close</div><div style=\"font-size:13.5px;color:#2E3756;line-height:1.5;margin-top:2px;\"></div></div></td><td style=\"width:2%;font-size:1px;\">&nbsp;</td><td style=\"width:32%;vertical-align:top;background:#ffffff;border:1px solid #E6DFD2;border-top:4px solid #B5742A;padding:14px 14px 6px 14px;\"><div style=\"font-size:16px;color:#1B2A36;line-height:1.3;margin:0 0 10px 0;\">Craft items</div><div style=\"font-size:12.5px;color:#2E3756;line-height:1.45;margin:0 0 9px 0;\">5 module words</div><div style=\"font-size:12.5px;color:#2E3756;line-height:1.45;margin:0 0 9px 0;\">A periodic sentence, marked PS</div><div style=\"font-size:12.5px;color:#2E3756;line-height:1.45;margin:0 0 9px 0;\">A participial phrase, marked PP</div><div style=\"font-size:12.5px;color:#2E3756;line-height:1.45;margin:0 0 9px 0;\">Rosh's view and the teacher's, in parallel</div><div style=\"font-size:12.5px;color:#2E3756;line-height:1.45;margin:0 0 9px 0;\">Works Cited: <em>Speare, Elizabeth George. The Bronze Bow. Houghton Mifflin, 1961.</em></div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1B2A36;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #B5742A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;max-width:470px;margin:6px 0 0 0;background:#ffffff;border:1px solid #E6DFD2;\"><tbody><tr><td style=\"width:62px;background:#1B2A36;color:#ffffff;font-size:15px;text-align:center;vertical-align:middle;padding:20px 4px;font-family:Consolas,'Courier New',monospace;\">.docx</td><td style=\"padding:16px 16px;vertical-align:middle;\"><div style=\"font-family:Consolas,'Courier New',monospace;font-size:12.5px;color:#1B2A36;line-height:1.6;\">LastName_FirstName_</div><div style=\"font-family:Consolas,'Courier New',monospace;font-size:12.5px;color:#1B2A36;line-height:1.6;\">PowerOfChoice_ELA6_Final.docx</div><div style=\"font-size:12.5px;color:#6b7a99;line-height:1.5;margin-top:6px;\">Heading 1 title &middot; Times New Roman 12 or Calibri 11 &middot; craft items underlined</div></td></tr></tbody></table><div style=\"font-size:26px;color:#B5742A;line-height:1.3;margin:6px 0 4px 26px;\">&#8595;</div><div style=\"display:inline-block;background:#1B2A36;color:#ffffff;font-size:15px;line-height:1.3;padding:11px 20px;border-bottom:4px solid #B5742A;border-radius:6px;\">Microsoft OneDrive tab &#8594; Submit</div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1B2A36;line-height:1.25;\">Where you built each part</div><div style=\"width:52px;border-bottom:4px solid #B5742A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"margin:0 0 4px 0;\"><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:250px;\"><div style=\"background:#F4EFE6;border-top:4px solid #5E8DA8;padding:14px 16px 6px 16px;margin:0 8px 10px 0;\"><div style=\"font-size:17px;color:#1B2A36;line-height:1.3;margin:0 0 8px 0;\">Opening</div><div style=\"font-size:14px;color:#1B2A36;line-height:1.4;\">Week 4 &middot; The Open Door</div><div style=\"font-size:12.5px;color:#6b7a99;line-height:1.45;margin:1px 0 7px 0;\">Quick Write: Your Thesis Draft</div><div style=\"font-size:14px;color:#1B2A36;line-height:1.4;\">Week 5 &middot; The Whole Journey</div><div style=\"font-size:1px;line-height:7px;\">&nbsp;</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:250px;\"><div style=\"background:#F4EFE6;border-top:4px solid #5E8DA8;padding:14px 16px 6px 16px;margin:0 8px 10px 0;\"><div style=\"font-size:17px;color:#1B2A36;line-height:1.3;margin:0 0 8px 0;\">The other side</div><div style=\"font-size:14px;color:#1B2A36;line-height:1.4;\">Week 1 &middot; Three Voices</div><div style=\"font-size:12.5px;color:#6b7a99;line-height:1.45;margin:1px 0 7px 0;\">Quick Write: The Vow</div><div style=\"font-size:14px;color:#1B2A36;line-height:1.4;\">Week 5 &middot; Three Persuaders</div><div style=\"font-size:1px;line-height:7px;\">&nbsp;</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:250px;\"><div style=\"background:#F4EFE6;border-top:4px solid #5E8DA8;padding:14px 16px 6px 16px;margin:0 8px 10px 0;\"><div style=\"font-size:17px;color:#1B2A36;line-height:1.3;margin:0 0 8px 0;\">Central argument</div><div style=\"font-size:14px;color:#1B2A36;line-height:1.4;\">Week 2 &middot; Who Is on Watch</div><div style=\"font-size:12.5px;color:#6b7a99;line-height:1.45;margin:1px 0 7px 0;\">Quick Write: Two Voices (moment 1)</div><div style=\"font-size:14px;color:#1B2A36;line-height:1.4;\">Week 3 &middot; What Daniel Could Not See</div><div style=\"font-size:12.5px;color:#6b7a99;line-height:1.45;margin:1px 0 7px 0;\">Quick Write: The Cost of the Sword (moments 2 and 3)</div><div style=\"font-size:14px;color:#1B2A36;line-height:1.4;\">Week 5 &middot; The Writer's Bench</div><div style=\"font-size:1px;line-height:7px;\">&nbsp;</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:250px;\"><div style=\"background:#F4EFE6;border-top:4px solid #5E8DA8;padding:14px 16px 6px 16px;margin:0 8px 10px 0;\"><div style=\"font-size:17px;color:#1B2A36;line-height:1.3;margin:0 0 8px 0;\">Answer and close</div><div style=\"font-size:14px;color:#1B2A36;line-height:1.4;\">Week 5 &middot; Three Persuaders</div><div style=\"font-size:12.5px;color:#6b7a99;line-height:1.45;margin:1px 0 7px 0;\">The stress-test</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:250px;\"><div style=\"background:#F4EFE6;border-top:4px solid #5E8DA8;padding:14px 16px 6px 16px;margin:0 8px 10px 0;\"><div style=\"font-size:17px;color:#1B2A36;line-height:1.3;margin:0 0 8px 0;\">Moments checked, essay finished</div><div style=\"font-size:14px;color:#1B2A36;line-height:1.4;\">Weeks 1 to 4 &middot; Lesson 4</div><div style=\"font-size:12.5px;color:#6b7a99;line-height:1.45;margin:1px 0 7px 0;\">The Journey Map</div><div style=\"font-size:14px;color:#1B2A36;line-height:1.4;\">Week 5 &middot; Journey's End</div><div style=\"font-size:1px;line-height:7px;\">&nbsp;</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:250px;\"><div style=\"background:#F4EFE6;border-top:4px solid #5E8DA8;padding:14px 16px 6px 16px;margin:0 8px 10px 0;\"><div style=\"font-size:17px;color:#1B2A36;line-height:1.3;margin:0 0 8px 0;\">Craft items</div><div style=\"font-size:14px;color:#1B2A36;line-height:1.4;\">Week 4 &middot; The Writer's Bench</div><div style=\"font-size:12.5px;color:#6b7a99;line-height:1.45;margin:1px 0 7px 0;\">PS and PP</div><div style=\"font-size:14px;color:#1B2A36;line-height:1.4;\">Week 5 &middot; The Writer's Bench</div><div style=\"font-size:1px;line-height:7px;\">&nbsp;</div></div></div></div>",
+   "points": 100,
+   "group": "bb_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "docx",
+   "rubric": "bb_r_project",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "week": 13,
+   "kind": "module-project"
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "bb_q_w1_check",
+   "title": "Week 1 Language Check: Capitals and sentence types",
+   "quiz_type": "assignment",
+   "points": 20.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": true,
+   "show_correct_answers": true,
+   "group": "bb_ag_assignments",
+   "published": true,
+   "week": 9,
+   "kind": "language-check",
+   "description": "<div data-ob=\"optima-brand-v2\" style=\"background:#1B2A36;border-bottom:5px solid #B5742A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 1 Language Check</span><div style=\"color:#5E8DA8;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA &middot; The Bronze Bow &middot; Week 1</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">20 points</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">10 questions</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Open-note</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">One attempt</span></div><span data-ob-end=\"optima-brand-v2\"></span><table style=\"border-collapse:collapse;width:100%;margin:18px 0 10px 0;\"><tbody><tr><td style=\"width:50%;background:#F4EFE6;border-top:4px solid #5E8DA8;padding:18px 20px;vertical-align:top;\"><div style=\"font-size:12px;color:#B5742A;line-height:1.4;margin:0 0 8px 0;\">Grammar &middot; 1 to 5</div><div style=\"font-size:20px;color:#1B2A36;line-height:1.3;\">Capitals and sentence types</div></td><td style=\"width:12px;font-size:1px;\">&nbsp;</td><td style=\"width:50%;background:#F4EFE6;border-top:4px solid #5E8DA8;padding:18px 20px;vertical-align:top;\"><div style=\"font-size:12px;color:#B5742A;line-height:1.4;margin:0 0 8px 0;\">Words &middot; 6 to 10</div><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">wary</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">deliverance</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">rash</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">captivity</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">reproach</span></td></tr></tbody></table>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which word in this sentence is a <strong>proper noun</strong>? \"Daniel walked to the busy town of Capernaum.\"</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "walked",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "busy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Capernaum",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "town",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "<em>Capernaum</em> names one particular town, so it takes a capital.",
+     "feedback_incorrect": "One word shows action, one describes, one names any town. Which names one particular place?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence is <strong>capitalized correctly</strong>?</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Thacia and Joel moved from Ketzah to Capernaum.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "thacia and joel moved from ketzah to capernaum.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Thacia and Joel moved from ketzah to Capernaum.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Thacia And Joel Moved From Ketzah To Capernaum.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Every name of a person or place has a capital, and nothing else does.",
+     "feedback_incorrect": "Capitalize the names of people and places, every one of them, and leave ordinary words small.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What type of sentence is this? \"Did Joel tell you I've kept at my trade?\"</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "declarative",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "interrogative",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "imperative",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "exclamatory",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Daniel is asking Simon something, so it is interrogative and ends with a question mark.",
+     "feedback_incorrect": "Is Daniel telling, asking, giving an order, or crying out? Look at the end mark.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence is <strong>imperative</strong>?</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "\"Rosh is good to me.\"",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "\"Are you happy here, Daniel?\"",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "\"How blue the lake is!\"",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "\"Fix it.\"",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Rosh tells Daniel to do something: that is imperative.",
+     "feedback_incorrect": "An imperative sentence tells someone to do something. Which one gives an order?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Joel kneels in the passage and cries, \"I will take the oath too___\" Which end mark shows his strong feeling?</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "period",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "question mark",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "exclamation point",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "comma",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Joel is crying out with strong feeling: an exclamation point.",
+     "feedback_incorrect": "He is not asking, and this is no calm statement. Which mark shows strong feeling?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"Slowly, like a <strong>wary</strong> animal, Daniel took a few steps back and let himself down on the grass.\" Wary means</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "tired and hungry",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "careful and watchful, expecting danger",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "wild and fierce",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "friendly and curious",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Daniel moves slowly, ready to run if he must.",
+     "feedback_incorrect": "How does an animal move when it is not sure it is safe?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Thacia says, \"We know that <strong>deliverance</strong> will come.\" Deliverance is</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "a heavy tax paid to Rome",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a message carried from village to village",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a punishment for doing wrong",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "being rescued or set free",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "She means the Jews will one day be set free from the Romans.",
+     "feedback_incorrect": "Thacia is talking about the Romans not being there forever. What will come?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Hezron says of Daniel's father, \"He was a good man, your father, but a <strong>rash</strong> one.\" Rash means</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "acting too fast, without thinking about what could happen",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "gentle and patient",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "rich and powerful",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "sick and weak",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Hezron thinks Jamin acted too quickly.",
+     "feedback_incorrect": "Hezron says 'good, but…'. What kind of flaw would worry a careful man like Hezron?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Hezron says, \"In his heart every Jew grieves at our <strong>captivity</strong>.\" Captivity is</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "a great walled city",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a holy day of rest",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "being held prisoner; not being free",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "a law about taxes",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Hezron means his people are not free in their own land.",
+     "feedback_incorrect": "Daniel has just said his people are prisoners on their own land. Which choice matches?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>At the meal in Bethsaida Joel eats without washing his hands, and \"He too must have felt the carpenter's words as a <strong>reproach</strong>.\" A reproach is</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "a word of praise",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "words that tell someone he has done wrong",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "a promise made in secret",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a riddle with no answer",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Joel has just broken a rule he has kept all his life, and the words sting.",
+     "feedback_incorrect": "Joel has just done something his father would call wrong. How would the teacher's words feel to him?",
+     "feedback_general": ""
+    }
+   ]
+  },
+  {
+   "id": "bb_q_w2_check",
+   "title": "Week 2 Language Check: Verbs and tense",
+   "quiz_type": "assignment",
+   "points": 20.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": true,
+   "show_correct_answers": true,
+   "group": "bb_ag_assignments",
+   "published": true,
+   "week": 10,
+   "kind": "language-check",
+   "description": "<div data-ob=\"optima-brand-v2\" style=\"background:#1B2A36;border-bottom:5px solid #B5742A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 2 Language Check</span><div style=\"color:#5E8DA8;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA &middot; The Bronze Bow &middot; Week 2</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">20 points</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">10 questions</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Open-note</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">One attempt</span></div><span data-ob-end=\"optima-brand-v2\"></span><table style=\"border-collapse:collapse;width:100%;margin:18px 0 10px 0;\"><tbody><tr><td style=\"width:50%;background:#F4EFE6;border-top:4px solid #5E8DA8;padding:18px 20px;vertical-align:top;\"><div style=\"font-size:12px;color:#B5742A;line-height:1.4;margin:0 0 8px 0;\">Grammar &middot; 1 to 5</div><div style=\"font-size:20px;color:#1B2A36;line-height:1.3;\">Verbs and tense</div></td><td style=\"width:12px;font-size:1px;\">&nbsp;</td><td style=\"width:50%;background:#F4EFE6;border-top:4px solid #5E8DA8;padding:18px 20px;vertical-align:top;\"><div style=\"font-size:12px;color:#B5742A;line-height:1.4;margin:0 0 8px 0;\">Words &middot; 6 to 10</div><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">miser</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">derisive</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">accountable</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">recompense</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">misgiving</span></td></tr></tbody></table>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which word in this sentence is the <strong>verb</strong>? \"Daniel carried the old man to the side of the road.\"</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Daniel",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "old",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "carried",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "road",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "<em>Carried</em> shows the action.",
+     "feedback_incorrect": "One choice names a person, one describes, one names a place. Which word shows what Daniel did?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What <strong>tense</strong> is the verb in \"Leah weaves fine cloth for a widow in Chorazin\"?</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "present",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "past",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "future",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "no tense",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "<em>Weaves</em> is happening now, or happens again and again.",
+     "feedback_incorrect": "There is no <em>-ed</em> ending and no <em>will</em>. When is the weaving happening?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence keeps a <strong>steady</strong> tense?</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Daniel banks the fire and bolted the door.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Daniel banked the fire and bolts the door.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Daniel bank the fire and bolting the door.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Daniel banked the fire and bolted the door.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "<em>Banked</em> and <em>bolted</em> are both past.",
+     "feedback_incorrect": "Find the sentence where both verbs are past tense.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which change replaces a weak verb with a <strong>stronger, more exact</strong> one? \"Daniel went into the shop and shut the door.\"</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "\"Daniel moved into the shop and shut the door.\"",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "\"Daniel flung himself into the shop and shut the door.\"",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "\"Daniel got into the shop and shut the door.\"",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "\"Daniel came into the shop and shut the door.\"",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "<em>Flung himself</em> shows how fast and how hard he moved.",
+     "feedback_incorrect": "Three choices swap one vague verb for another. Which one paints the action?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which fixes the tense slip in \"Joel gets fish from Simon and Andrew and peddled them in the city\"?</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Joel got fish from Simon and Andrew and peddled them in the city.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Joel got fish from Simon and Andrew and peddles them in the city.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Joel gets fish from Simon and Andrew and will peddled them in the city.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Joel getting fish from Simon and Andrew and peddled them in the city.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "<em>Got</em> and <em>peddled</em>: both past, steady.",
+     "feedback_incorrect": "Make both verbs past tense, and keep them correct.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"Why should one greedy old <strong>miser</strong> live like a king in Antioch while his fellow Jews toiled and starved?\" A miser is</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "a beggar who travels the back roads",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a person who hoards money and hates to spend it",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "a tax collector who works for Rome",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a merchant who trades in gold",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "He has a bag of gold and still lives like a pauper.",
+     "feedback_incorrect": "He only pretends to be a beggar. What does he do with his money?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"Rosh shot a <strong>derisive</strong> glance from under the black brows.\" Derisive means</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "worried",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "puzzled",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "grateful",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "mocking, showing that you think someone is foolish",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Rosh says, 'So he took you in with his whining!' He is mocking Daniel.",
+     "feedback_incorrect": "Read what Rosh says right after the glance.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Simon says, \"An outlaw may think he is <strong>accountable</strong> to no one.\" Accountable means</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "friendly and easy to talk to",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "hidden from the law",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "responsible; expected to answer for what you do",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "owing money",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "In a village, Simon says, every man answers for his neighbors' safety.",
+     "feedback_incorrect": "Read Simon's next sentence: who holds his neighbor's safety in his hands?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"He realized that she had never before known any <strong>recompense</strong> for her hours at the loom.\" Recompense is</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "payment or reward for work or trouble",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "praise from a friend",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a rest from hard work",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a gift for a wedding",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Daniel has just put a silver coin in her hand for her cloth.",
+     "feedback_incorrect": "What has Daniel just laid in Leah's hand?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"Daniel felt not envy, but unexpected <strong>misgiving</strong>.\" A misgiving is</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "a rush of excitement",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "jealousy of a friend",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a feeling of doubt or worry that something may go wrong",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "pride in a friend",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Daniel's next thought is 'If anything went wrong?'",
+     "feedback_incorrect": "<em>Envy</em> is the feeling he does <em>not</em> have. What does he wonder next?",
+     "feedback_general": ""
+    }
+   ]
+  },
+  {
+   "id": "bb_q_w3_check",
+   "title": "Week 3 Language Check: Adjectives and appositives",
+   "quiz_type": "assignment",
+   "points": 20.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": true,
+   "show_correct_answers": true,
+   "group": "bb_ag_assignments",
+   "published": true,
+   "week": 11,
+   "kind": "language-check",
+   "description": "<div data-ob=\"optima-brand-v2\" style=\"background:#1B2A36;border-bottom:5px solid #B5742A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 3 Language Check</span><div style=\"color:#5E8DA8;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA &middot; The Bronze Bow &middot; Week 3</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">20 points</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">10 questions</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Open-note</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">One attempt</span></div><span data-ob-end=\"optima-brand-v2\"></span><table style=\"border-collapse:collapse;width:100%;margin:18px 0 10px 0;\"><tbody><tr><td style=\"width:50%;background:#F4EFE6;border-top:4px solid #5E8DA8;padding:18px 20px;vertical-align:top;\"><div style=\"font-size:12px;color:#B5742A;line-height:1.4;margin:0 0 8px 0;\">Grammar &middot; 1 to 5</div><div style=\"font-size:20px;color:#1B2A36;line-height:1.3;\">Adjectives and appositives</div></td><td style=\"width:12px;font-size:1px;\">&nbsp;</td><td style=\"width:50%;background:#F4EFE6;border-top:4px solid #5E8DA8;padding:18px 20px;vertical-align:top;\"><div style=\"font-size:12px;color:#B5742A;line-height:1.4;margin:0 0 8px 0;\">Words &middot; 6 to 10</div><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">reprisal</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">indignant</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">incredulous</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">dignity</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">heedless</span></td></tr></tbody></table>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which word in this sentence is an <strong>adjective</strong>? \"Leah, sitting in the lamplight, raised her golden head.\"</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "sitting",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "golden",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "lamplight",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "raised",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "<em>Golden</em> describes Leah's head: what kind of head.",
+     "feedback_incorrect": "One choice names a thing, and two show actions. Which word tells what her head is like?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In \"The parched brown fields drank in the moisture,\" which word does the adjective <em>parched</em> describe?</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "moisture",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "drank",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "fields",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "brown",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The fields are parched: dry and thirsty.",
+     "feedback_incorrect": "An adjective sits close to the noun it describes. Which thing is dry?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"Andrew, one of the disciples, told the waiting crowd that the master was very weary.\" What is the <strong>appositive</strong>?</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "one of the disciples",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "the waiting crowd",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "was very weary",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Andrew",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "<em>One of the disciples</em> renames Andrew, set off by commas.",
+     "feedback_incorrect": "Find the words between the commas that tell who Andrew is.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence punctuates the appositive <strong>correctly</strong>?</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Simon Daniel's old friend, walked beside him in the dark.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Simon, Daniel's old friend walked beside him in the dark.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Simon Daniel's old friend walked beside him in the dark.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Simon, Daniel's old friend, walked beside him in the dark.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "One comma before the appositive and one after it.",
+     "feedback_incorrect": "An appositive in the middle of a sentence needs a comma on each side.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence uses an <strong>appositive</strong> to rename a character?</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Leah touched the flowers in her golden hair.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The crowd shouted on the dark hillside.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Joktan, Daniel's cheerful helper, fetched water every morning.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Daniel walked the miles back to the village alone.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "<em>Daniel's cheerful helper</em> renames Joktan.",
+     "feedback_incorrect": "Look for a noun phrase that renames a person, set off by commas.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"Nor did Roman offers of reward or threats of <strong>reprisal</strong> produce a single hint of its whereabouts.\" (Ch. 17) A reprisal is</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "a punishment given back in return for something done against you",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "a reward paid for information",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a hiding place for stolen goods",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a Roman war machine",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The Romans threaten to punish the village for the lost catapult.",
+     "feedback_incorrect": "The <em>reward</em> is the other offer in the sentence. What is the threat?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"Some men praised Rosh's daring … But more, like this man, were <strong>indignant</strong>.\" (Ch. 17) Indignant means</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "pleased with how things turned out",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "too frightened to complain",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "unsure what had happened",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "angry because something seems unfair or wrong",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Most villagers are angry that Rosh's men rob and ruin.",
+     "feedback_incorrect": "Some men praised Rosh. 'But more' felt the opposite. What did they feel?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"'Nothing?' Nathan cried out, <strong>incredulous</strong>.\" (Ch. 18) Incredulous means</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "ready to fight",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "not able to believe what you are hearing",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "too frightened to speak",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "glad to be proved right",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Nathan cannot believe Rosh will do nothing for Joel.",
+     "feedback_incorrect": "Nathan asks 'Nothing?' as a question. What does that show?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"She raised her head and looked at him with such a strange <strong>dignity</strong> that he backed away.\" (Ch. 22) Dignity is</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "a sudden fear",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a quiet anger",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a calm, serious way of carrying yourself that earns respect",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "a shy smile",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Leah's calm, steady look makes Daniel step back.",
+     "feedback_incorrect": "Daniel backs away. What in Leah's look would make a shouting brother step back?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"Then, <strong>heedless</strong> of the master's weariness, … he poured out the story of Rosh.\" (Ch. 21) Heedless means</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "paying no attention to",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "deeply worried about",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "thankful for",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "careful of",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Daniel is so full of guilt that he pays no attention to how tired Jesus is.",
+     "feedback_incorrect": "Read on in the book: he forgets 'everything but the guilt.' How much is he noticing?",
+     "feedback_general": ""
+    }
+   ]
+  },
+  {
+   "id": "bb_q_w4_check",
+   "title": "Week 4 Language Check: Participial phrases",
+   "quiz_type": "assignment",
+   "points": 20.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": true,
+   "show_correct_answers": true,
+   "group": "bb_ag_assignments",
+   "published": true,
+   "week": 12,
+   "kind": "language-check",
+   "description": "<div data-ob=\"optima-brand-v2\" style=\"background:#1B2A36;border-bottom:5px solid #B5742A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 4 Language Check</span><div style=\"color:#5E8DA8;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA &middot; The Bronze Bow &middot; Week 4</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">20 points</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">10 questions</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Open-note</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">One attempt</span></div><span data-ob-end=\"optima-brand-v2\"></span><table style=\"border-collapse:collapse;width:100%;margin:18px 0 10px 0;\"><tbody><tr><td style=\"width:50%;background:#F4EFE6;border-top:4px solid #5E8DA8;padding:18px 20px;vertical-align:top;\"><div style=\"font-size:12px;color:#B5742A;line-height:1.4;margin:0 0 8px 0;\">Grammar &middot; 1 to 5</div><div style=\"font-size:20px;color:#1B2A36;line-height:1.3;\">Participial phrases and periodic sentences</div></td><td style=\"width:12px;font-size:1px;\">&nbsp;</td><td style=\"width:50%;background:#F4EFE6;border-top:4px solid #5E8DA8;padding:18px 20px;vertical-align:top;\"><div style=\"font-size:12px;color:#B5742A;line-height:1.4;margin:0 0 8px 0;\">Words &middot; 6 to 10</div><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">indifferent</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">duped</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">dread</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">rejected</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">liberating</span></td></tr></tbody></table>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>In \"Joktan sat outside the shop, halfheartedly filing down a set of nails,\" which words are the <strong>participial phrase</strong>?</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Joktan sat",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "outside the shop",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "halfheartedly filing down a set of nails",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "a set of nails",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Built on <em>filing</em>, it describes Joktan.",
+     "feedback_incorrect": "Find the <em>-ing</em> word and the words that go with it. Which group describes Joktan?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In \"Dazed, Daniel struggled to his feet,\" which word is the <strong>participle</strong>?</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Dazed",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Daniel",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "struggled",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "feet",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "<em>Dazed</em> is a verb form that describes Daniel.",
+     "feedback_incorrect": "<em>Struggled</em> is what Daniel does. Which word describes him before he does it?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence places the <strong>comma</strong> correctly?</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Standing, in the blazing sunshine Marcus kept his eyes on the house.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Standing in the blazing sunshine Marcus, kept his eyes on the house.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Standing in the blazing sunshine Marcus kept his eyes, on the house.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Standing in the blazing sunshine, Marcus kept his eyes on the house.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The comma comes after the whole opening phrase, right before Marcus.",
+     "feedback_incorrect": "Where do the describing words end and the person begin? The comma goes there.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence has a <strong>dangling</strong> phrase (it describes the wrong noun)?</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Waking from the fever, Leah looked up into the master's face.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Laying aside the bottle of leeches, the house grew quiet.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Laying aside the bottle of leeches, the physician shook his head.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Scratching a message on broken pottery, Daniel sent word to Thacia.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "A house cannot lay anything aside. The physician did.",
+     "feedback_incorrect": "In each sentence, ask who did the opening action. Is that who comes right after the comma?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is a <strong>periodic sentence</strong> (the main idea held to the end)?</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Jesus stood in the doorway in his white robe.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Jesus stood in the doorway, framed against the sunlight.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Framed in the doorway, against the sunlight, stood Jesus in his white robe.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Jesus stood in the doorway, and the sunlight was behind him.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The details come first; <em>stood Jesus</em> waits until the end.",
+     "feedback_incorrect": "Find the main idea, who does what. In which sentence do you wait for it?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Daniel works \"to keep alive a girl who was <strong>indifferent</strong> that she lived.\" <em>Indifferent</em> means</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "frightened",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "not caring one way or the other",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "too weak to stand",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "angry at everyone",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Leah has stopped caring whether she lives.",
+     "feedback_incorrect": "Daniel cares if she lives. What has Leah stopped doing?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"How could he be sure that he would not be <strong>duped</strong> again?\" <em>Duped</em> means</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "left behind",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "hurt in a fight",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "paid too little",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "tricked into trusting the wrong person",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Daniel trusted Rosh and was fooled.",
+     "feedback_incorrect": "The sentence before asks how he could know whom to <em>trust</em>.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Daniel came back from the well \"heavy with <strong>dread</strong> that Leah's anguished breathing might have stopped while he was gone.\" <em>Dread</em> is</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "deep fear of something that may happen",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "great tiredness after hard work",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "anger at someone who has wronged you",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a heavy load carried on the back",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "He fears what he may find when he gets home.",
+     "feedback_incorrect": "Read what he is afraid <em>might have</em> happened while he was gone.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"He knew that Daniel had <strong>rejected</strong> him.\" <em>Rejected</em> means</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "followed closely",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "forgotten about",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "refused to accept or follow",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "misunderstood",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Daniel had turned away from what Jesus offered him.",
+     "feedback_incorrect": "Think back to Ch. 23, when Daniel would not believe Simon's words about him. What had Daniel done?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Daniel's tears were \"hot and <strong>liberating</strong> against his hands.\" <em>Liberating</em> means</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "burning",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "setting free",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "shameful",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "hard to stop",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The tears free him from what he has held so long.",
+     "feedback_incorrect": "Look at what Daniel feels just before: the weight is gone. What do the tears do for him?",
+     "feedback_general": ""
+    }
+   ]
+  },
+  {
+   "id": "bb_q_w5_check",
+   "title": "Week 5 Language Check: Parallel structure and punctuation",
+   "quiz_type": "assignment",
+   "points": 20.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": true,
+   "show_correct_answers": true,
+   "group": "bb_ag_assignments",
+   "published": true,
+   "week": 13,
+   "kind": "language-check",
+   "description": "<div data-ob=\"optima-brand-v2\" style=\"background:#1B2A36;border-bottom:5px solid #B5742A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 5 Language Check</span><div style=\"color:#5E8DA8;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA &middot; The Bronze Bow &middot; Week 5</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">20 points</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">10 questions</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Open-note</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">One attempt</span></div><span data-ob-end=\"optima-brand-v2\"></span><table style=\"border-collapse:collapse;width:100%;margin:18px 0 10px 0;\"><tbody><tr><td style=\"width:50%;background:#F4EFE6;border-top:4px solid #5E8DA8;padding:18px 20px;vertical-align:top;\"><div style=\"font-size:12px;color:#B5742A;line-height:1.4;margin:0 0 8px 0;\">Grammar &middot; 1 to 5</div><div style=\"font-size:20px;color:#1B2A36;line-height:1.3;\">Parallel structure, colons and semicolons</div></td><td style=\"width:12px;font-size:1px;\">&nbsp;</td><td style=\"width:50%;background:#F4EFE6;border-top:4px solid #5E8DA8;padding:18px 20px;vertical-align:top;\"><div style=\"font-size:12px;color:#B5742A;line-height:1.4;margin:0 0 8px 0;\">Words &middot; 6 to 10</div><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">purpose</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">despaired</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">remorse</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">defied</span><span style=\"display:inline-block;background:#FBF3E6;border:1px solid #B5742A;border-radius:20px;padding:7px 18px;margin:0 8px 8px 0;font-size:17px;color:#1B2A36;line-height:1.2;\">burden</span></td></tr></tbody></table>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence has <strong>parallel structure</strong>? (Ch. 11–12)</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "In the village, Daniel worked the forge, caring for Leah, and he gathered a band of boys.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "In the village, Daniel working the forge, cared for Leah, and a band of boys.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "In the village, Daniel works the forge, cares for Leah, and gathers a band of boys.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "In the village, Daniel works the forge, to care for Leah, and gathering a band of boys.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "<em>Works, cares, gathers</em>: every item has the same shape.",
+     "feedback_incorrect": "Read the three actions aloud. Find the choice where all three match.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence uses a <strong>colon</strong> correctly? (Ch. 5)</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Hezron says the Zealots have three things to show for their fighting: rows of crosses, burning villages, and heavier taxes.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Hezron says the Zealots have: rows of crosses, burning villages, and heavier taxes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hezron says: the Zealots have three things to show for their fighting, rows of crosses, burning villages, and heavier taxes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hezron says the Zealots have three things to show for their fighting, rows of crosses: burning villages and heavier taxes.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "A full sentence comes first, then the colon introduces the list.",
+     "feedback_incorrect": "A colon needs a complete sentence before it. Which choice gives one, then the list?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence uses a <strong>semicolon</strong> correctly? (Ch. 18)</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Rosh refuses to help Joel; and Daniel goes himself.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Rosh refuses; to help Joel, so Daniel goes himself.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Rosh refuses to help Joel; because Joel was caught.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Rosh refuses to help Joel; Daniel goes after Joel with nineteen boys.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Both halves are full sentences, and nothing joins them but the semicolon.",
+     "feedback_incorrect": "Look for a full sentence on both sides and no <em>and</em>, <em>so</em> or <em>because</em> after the semicolon.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence places the <strong>participial phrase</strong> next to the right person? (Ch. 7)</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Trembling all over, the story finally ends.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Trembling all over, Daniel finishes his story.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Trembling all over, Joel hears the end of Daniel's story.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Daniel trembling all over, finishes his story.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Daniel is the one trembling, and his name comes right after the phrase.",
+     "feedback_incorrect": "Who was trembling when the story ended? That person's name must follow the comma.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is a <strong>periodic sentence</strong>, holding its main idea until the end? (Ch. 24)</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Daniel crosses the road to Marcus after Leah's fever leaves her and Jesus is far down the street.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Daniel crosses the road to Marcus, and Leah's fever is gone, and Jesus is far down the street.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "With Leah's fever gone and Jesus already far down the street, Daniel crosses the road to Marcus.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Daniel crosses the road. To Marcus. With Leah's fever gone.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The reader waits through the details for the main idea: Daniel crosses the road.",
+     "feedback_incorrect": "In a periodic sentence the main clause comes last. Which choice makes you wait for it?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"While she had lost everything, <strong>purpose</strong> remained to him.\" (Ch. 24) Purpose means</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "a heavy load to carry",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a feeling of doubt",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "deep sorrow for a wrong",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a goal that gives your life or actions a point",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Leah has lost everything; Daniel still has a goal to live for.",
+     "feedback_incorrect": "What does Daniel still have that Leah has lost?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"For the first time he <strong>despaired</strong> that the day would ever come.\" (Ch. 20) Despaired means</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "hoped with all his heart",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "lost all hope",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "forgot completely",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "promised again",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Joel is leaving, and Daniel thinks it is the end of everything they worked for.",
+     "feedback_incorrect": "Read the sentence just before it: 'It is the end of everything,' Daniel thought.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"In a torment of <strong>remorse</strong>, Daniel did all the work about the house.\" (Ch. 23) Remorse is</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "deep sorrow and guilt for a wrong you have done",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "anger at an enemy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "tiredness after hard work",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "fear of what will happen next",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "He blames himself for what his anger did to Leah, and tries to make up for it.",
+     "feedback_incorrect": "What has Daniel done to Leah just before this? How would he feel about it?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"'I made a vow before God!' he <strong>defied</strong> Jesus.\" (Ch. 21) To defy is</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "to agree quietly",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "to ask for help",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "to stand against someone openly and refuse to give in",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "to forgive a wrong",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Asked to give up his hate, Daniel holds on to his vow.",
+     "feedback_incorrect": "Jesus has just asked Daniel to give up his hate. Does Daniel give way?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>\"He had thought of Samson as a <strong>burden</strong>, as a symbol of his own weakness.\" (Ch. 21) A burden is</p>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "a loyal friend",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a heavy load you have to carry",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "a weapon for a fight",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a reward for hard work",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Daniel once felt Samson was something heavy he was stuck with.",
+     "feedback_incorrect": "Read the next sentence: Daniel had <em>never</em> thought of Samson as a friend. So what had he thought?",
+     "feedback_general": ""
+    }
+   ]
+  }
+ ],
+ "discussions": [
+  {
+   "id": "bb_d_forum1",
+   "title": "All-Class Forum 1: Two Kinds of Freedom",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#1B2A36;border-bottom:5px solid #B5742A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">All-Class Forum 1: Two Kinds of Freedom</span><div style=\"color:#5E8DA8;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA &middot; The Bronze Bow &middot; Week 3</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">25 points</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">1 post + 2 replies</span><span style=\"display:inline-block;border:1px solid #E6DFD2;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Closes end of Week 3</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"background:#1B2A36;border-left:9px solid #B5742A;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">By Chapter 23, which kind of freedom does the book itself take more seriously?</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 8px 0;\"><tbody><tr><td style=\"width:48%;background:#F4EFE6;border-top:4px solid #5E8DA8;padding:16px 18px;vertical-align:top;\"><div style=\"font-size:12px;color:#B5742A;line-height:1.4;\">One kind</div><div style=\"font-size:20px;color:#1B2A36;line-height:1.3;margin-top:4px;\">By force</div><div style=\"font-size:13.5px;color:#2E3756;line-height:1.55;margin-top:5px;\">Taken back from Rome.</div></td><td style=\"width:4%;font-size:1px;\">&nbsp;</td><td style=\"width:48%;background:#F4EFE6;border-top:4px solid #5E8DA8;padding:16px 18px;vertical-align:top;\"><div style=\"font-size:12px;color:#B5742A;line-height:1.4;\">The other kind</div><div style=\"font-size:20px;color:#1B2A36;line-height:1.3;margin-top:4px;\">The teacher's</div><div style=\"font-size:13.5px;color:#2E3756;line-height:1.55;margin-top:5px;\">Simon: &#8220;the only chains that matter are fear and hate.&#8221; Ch. 23</div></td></tr></tbody></table><div style=\"font-size:13.5px;color:#6b7a99;line-height:1.65;margin:0 0 18px 0;\">Judge what Speare chose to show, not which freedom you prefer.</div><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:28.67%;background:#F4EFE6;border-top:4px solid #5E8DA8;padding:16px 10px;vertical-align:top;text-align:center;\"><div style=\"font-size:38px;color:#B5742A;line-height:1;\">1</div><div style=\"font-size:18px;color:#1B2A36;line-height:1.25;margin-top:6px;\">Post</div><div style=\"font-size:12.5px;color:#2E3756;line-height:1.45;margin-top:5px;\">your answer</div></td><td style=\"width:7%;text-align:center;vertical-align:middle;color:#B5742A;font-size:26px;line-height:1;\">&#8594;</td><td style=\"width:28.67%;background:#F4EFE6;border-top:4px solid #5E8DA8;padding:16px 10px;vertical-align:top;text-align:center;\"><div style=\"font-size:38px;color:#B5742A;line-height:1;\">2</div><div style=\"font-size:18px;color:#1B2A36;line-height:1.25;margin-top:6px;\">Read</div><div style=\"font-size:12.5px;color:#2E3756;line-height:1.45;margin-top:5px;\">posts unlock after yours</div></td><td style=\"width:7%;text-align:center;vertical-align:middle;color:#B5742A;font-size:26px;line-height:1;\">&#8594;</td><td style=\"width:28.67%;background:#F4EFE6;border-top:4px solid #5E8DA8;padding:16px 10px;vertical-align:top;text-align:center;\"><div style=\"font-size:38px;color:#B5742A;line-height:1;\">3</div><div style=\"font-size:18px;color:#1B2A36;line-height:1.25;margin-top:6px;\">Reply</div><div style=\"font-size:12.5px;color:#2E3756;line-height:1.45;margin-top:5px;\">two classmates</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1B2A36;line-height:1.25;\">Your post</div><div style=\"width:52px;border-bottom:4px solid #B5742A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:20px;min-width:20px;color:#B5742A;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2E3756;line-height:1.6;padding:0 0 11px 8px;\">Sentence one takes a position.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#B5742A;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2E3756;line-height:1.6;padding:0 0 11px 8px;\">Name one moment from Chapters 1 to 23.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#B5742A;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2E3756;line-height:1.6;padding:0 0 11px 8px;\">Answer the strongest objection:</td></tr></tbody></table><div style=\"background:#FBF3E6;border-left:6px solid #B5742A;padding:18px 22px;margin:0 0 16px 0;\"><div style=\"font-size:15px;color:#2E3756;line-height:1.65;\"><strong>Say the teacher's?</strong> Speare makes Daniel's anger easy to feel (Ch. 7, Ch. 19).<br /><br /><strong>Say force?</strong> The village turns on Rosh (Ch. 17), and he will not help Joel (Ch. 18).</div></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1B2A36;line-height:1.25;\">Your replies</div><div style=\"width:52px;border-bottom:4px solid #B5742A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0 0 8px 0;\"><tbody><tr><td style=\"width:33.33%;border-top:4px solid #5E8DA8;background:#F4EFE6;padding:16px 18px;vertical-align:top;\"><div style=\"font-size:19px;color:#1B2A36;line-height:1.3;\">Add</div><div style=\"font-size:13.5px;color:#2E3756;line-height:1.6;margin-top:7px;\">Evidence they missed.</div></td><td style=\"width:33.33%;border-top:4px solid #5E8DA8;background:#F4EFE6;padding:16px 18px;vertical-align:top;\"><div style=\"font-size:19px;color:#1B2A36;line-height:1.3;\">Challenge</div><div style=\"font-size:13.5px;color:#2E3756;line-height:1.6;margin-top:7px;\">A weak spot, and why.</div></td><td style=\"width:33.33%;border-top:4px solid #5E8DA8;background:#F4EFE6;padding:16px 18px;vertical-align:top;\"><div style=\"font-size:19px;color:#1B2A36;line-height:1.3;\">Ask</div><div style=\"font-size:13.5px;color:#2E3756;line-height:1.6;margin-top:7px;\">What their post left open.</div></td></tr></tbody></table><div style=\"font-size:13.5px;color:#6b7a99;line-height:1.65;margin:0 0 18px 0;\">&#8220;I agree&#8221; is not a reply. Disagree with the idea, not the person.</div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1B2A36;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #B5742A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#5E8DA8;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2E3756;line-height:1.55;padding:2px 0 13px 4px;\">My first sentence takes a position.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#5E8DA8;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2E3756;line-height:1.55;padding:2px 0 13px 4px;\">I named a moment from Chapters 1 to 23.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#5E8DA8;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2E3756;line-height:1.55;padding:2px 0 13px 4px;\">I answered the strongest objection.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#5E8DA8;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2E3756;line-height:1.55;padding:2px 0 13px 4px;\">I replied twice: add, challenge, or ask.</td></tr></tbody></table>",
+   "graded": true,
+   "points": 25,
+   "group": "bb_ag_assignments",
+   "rubric": "bb_r_forum1",
+   "rubric_use_for_grading": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": true,
+   "week": 11,
+   "kind": "all-class-forum"
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "bb_m_w1",
+   "title": "Module 5 · Week 1: The Mountain and the Vow",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "bb_a_w1_l1",
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_w1_l2",
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_w1_l3",
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_w1_l4",
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "bb_q_w1_check",
+     "week": 9
+    }
+   ]
+  },
+  {
+   "id": "bb_m_w2",
+   "title": "Module 5 · Week 2: Two Voices",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "bb_a_w2_l1",
+     "week": 10,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_w2_l2",
+     "week": 10,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_w2_l3",
+     "week": 10,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_w2_l4",
+     "week": 10,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_rr1",
+     "week": 10
+    },
+    {
+     "type": "quiz",
+     "ref": "bb_q_w2_check",
+     "week": 10
+    }
+   ]
+  },
+  {
+   "id": "bb_m_w3",
+   "title": "Module 5 · Week 3: The Turning and the Cost",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "bb_a_w3_l1",
+     "week": 11,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_w3_l2",
+     "week": 11,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_w3_l3",
+     "week": 11,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_w3_l4",
+     "week": 11,
+     "completion": "must_submit"
+    },
+    {
+     "type": "discussion",
+     "ref": "bb_d_forum1",
+     "week": 11
+    },
+    {
+     "type": "quiz",
+     "ref": "bb_q_w3_check",
+     "week": 11
+    }
+   ]
+  },
+  {
+   "id": "bb_m_w4",
+   "title": "Module 5 · Week 4: The Shut Door and the Open Door",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "bb_a_w4_l1",
+     "week": 12,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_w4_l2",
+     "week": 12,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_w4_l3",
+     "week": 12,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_w4_l4",
+     "week": 12,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_rr2",
+     "week": 12
+    },
+    {
+     "type": "quiz",
+     "ref": "bb_q_w4_check",
+     "week": 12
+    }
+   ]
+  },
+  {
+   "id": "bb_m_w5",
+   "title": "Module 5 · Week 5: The Power of Choice: Daniel's Journey",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "bb_a_w5_l1",
+     "week": 13,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_w5_l2",
+     "week": 13,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_w5_l3",
+     "week": 13,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_w5_l4",
+     "week": 13,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "bb_q_w5_check",
+     "week": 13
+    },
+    {
+     "type": "assignment",
+     "ref": "bb_a_project",
+     "week": 13
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Built 2026-11-09 by _src/canvas/make_kit_spec.py from OneDrive 6th Grade ELA 03_Course (Canvas-Ready) 'Module 5 - The Bronze Bow_Weeks1-5_Integrated' (canvas-native/*.html + *.json, _src/wN/week.json). Lessons are to be hosted at https://optimaondemand.github.io/mj-english-language-arts-1/module-5-the-bronze-bow-sparkle/ (TO CONFIRM). Every lesson (20) is its own 10-pt assignment (online text entry or PDF upload) wrapping the GitHub iframe. Week N Language Check (20 pts, 10 x 2) merges the original grammar + vocabulary quizzes, rewritten to the week's chapters. Recorded Readings 1-2, Forum 1 and the Module Project carry the 1001010-s2 items' points, rubrics and submission types unchanged (a_m5_w2_rr1, a_m5_w4_rr2, d_m5_forum1, a_m5_project); their descriptions are restyled. Forum 2, the four Quick Writes, the ten VR items, the organizer and the intro/outro surveys are not carried (folded into the lessons or cut by her rulings). Sparkle = the integrated-week redesign of Module 5; the original Module 5 ships in 1001010-s2."
+ }
+}
