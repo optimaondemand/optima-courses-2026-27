@@ -40,7 +40,7 @@
  "rubrics": [
   {
    "id": "r_m01_tarea",
-   "title": "Module 1 — Tarea oral rubric",
+   "title": "Module 1: Tarea oral rubric",
    "free_form_comments": false,
    "criteria": [
     {
@@ -49,17 +49,17 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Weather sentence + at least two ir a plans, all true about the student's week",
+       "long_description": "Says one sentence about the weather and at least two plans with ir a + a verb, all true about the student's week.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Addresses most of the prompt (e.g. only one plan, or no weather sentence)",
+       "long_description": "Covers most of the task, for example only one plan, or no weather sentence.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Minimal / incomplete response",
+       "long_description": "Very short or incomplete response.",
        "points": 1
       }
      ]
@@ -70,38 +70,38 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "ir matches each subject; the «a» is present; second verb kept as infinitive; weather/vocab accurate",
+       "long_description": "The form of ir matches each subject, the word \"a\" is there, and the second verb stays in the infinitive. Weather words are correct.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Some errors that don’t block meaning",
+       "long_description": "Some errors, but the meaning is clear.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Frequent errors that block meaning",
+       "long_description": "Frequent errors that make the meaning hard to follow.",
        "points": 1
       }
      ]
     },
     {
-     "description": "Pronunciation & Fluency",
+     "description": "Pronunciation and Fluency",
      "points": 5,
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Clear, comprehensible, steady pace (soft v, «ll» as y)",
+       "long_description": "Clear and easy to understand at a steady pace; a soft v, and ll said like y.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Generally comprehensible",
+       "long_description": "Mostly easy to understand.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Hard to understand",
+       "long_description": "Hard to understand.",
        "points": 1
       }
      ]
@@ -110,7 +110,7 @@
   },
   {
    "id": "r_m02_tarea",
-   "title": "Module 2 — Tarea oral rubric",
+   "title": "Module 2: Tarea oral rubric",
    "free_form_comments": false,
    "criteria": [
     {
@@ -119,17 +119,17 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Describes the home (2+ rooms) AND chores; uses 2+ stem-changing verbs",
+       "long_description": "Describes the home (at least two rooms) and chores, and uses at least two stem-changing verbs.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Addresses most of the prompt (e.g. only 1 room, or 1 boot verb)",
+       "long_description": "Covers most of the task, for example only one room, or only one stem-changing verb.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Minimal / incomplete response",
+       "long_description": "Very short or incomplete response.",
        "points": 1
       }
      ]
@@ -140,38 +140,38 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Correct stem changes & the nosotros exception; accurate vocab",
+       "long_description": "Correct stem changes, with no change in the nosotros form. Vocabulary is correct.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Some errors that don’t block meaning",
+       "long_description": "Some errors, but the meaning is clear.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Frequent errors that block meaning",
+       "long_description": "Frequent errors that make the meaning hard to follow.",
        "points": 1
       }
      ]
     },
     {
-     "description": "Pronunciation & Fluency",
+     "description": "Pronunciation and Fluency",
      "points": 5,
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Clear ie/ue glides & Spanish j; comprehensible, steady pace",
+       "long_description": "Clear ie and ue glides and a Spanish j; easy to understand at a steady pace.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Generally comprehensible",
+       "long_description": "Mostly easy to understand.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Hard to understand",
+       "long_description": "Hard to understand.",
        "points": 1
       }
      ]
@@ -180,7 +180,7 @@
   },
   {
    "id": "r_m03_tarea",
-   "title": "Module 3 — Tarea oral rubric",
+   "title": "Module 3: Tarea oral rubric",
    "free_form_comments": false,
    "criteria": [
     {
@@ -189,17 +189,17 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Clear directions (turn + landmark) AND 2+ sentences about downtown with irregular-yo verbs",
+       "long_description": "Gives clear directions (a turn and a landmark) and at least two sentences about downtown with irregular yo verbs (salgo, hago, veo...).",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Addresses most of the prompt (e.g. directions but only 1 verb, or verbs but vague directions)",
+       "long_description": "Covers most of the task, for example directions with only one irregular yo verb, or the verbs with unclear directions.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Minimal / incomplete response",
+       "long_description": "Very short or incomplete response.",
        "points": 1
       }
      ]
@@ -210,38 +210,38 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Correct yo forms & direction words; vocab accurate; understandable order",
+       "long_description": "Correct irregular yo forms and direction words. Vocabulary is correct, and the steps are in a clear order.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Some errors that don’t block meaning",
+       "long_description": "Some errors, but the meaning is clear.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Frequent errors that block meaning",
+       "long_description": "Frequent errors that make the meaning hard to follow.",
        "points": 1
       }
      ]
     },
     {
-     "description": "Pronunciation & Fluency",
+     "description": "Pronunciation and Fluency",
      "points": 5,
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Clear, comprehensible, steady pace; tapped r and clean c/z/qu",
+       "long_description": "Clear and easy to understand at a steady pace, with a tapped r and clean c, z and qu sounds.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Generally comprehensible",
+       "long_description": "Mostly easy to understand.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Hard to understand",
+       "long_description": "Hard to understand.",
        "points": 1
       }
      ]
@@ -250,7 +250,7 @@
   },
   {
    "id": "r_m04_tarea",
-   "title": "Module 4 — Tarea oral rubric",
+   "title": "Module 4: Tarea oral rubric",
    "free_form_comments": false,
    "criteria": [
     {
@@ -259,17 +259,17 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "4+ routine steps, each reflexive, ordered with sequence words",
+       "long_description": "At least four steps of the routine, each with a reflexive verb, in order with sequence words (primero, después, luego, por último).",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Addresses most of the prompt (e.g. only 2–3 steps, or no sequence words)",
+       "long_description": "Covers most of the task, for example only two or three steps, or no sequence words.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Minimal / incomplete response",
+       "long_description": "Very short or incomplete response.",
        "points": 1
       }
      ]
@@ -280,38 +280,38 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Correct pronoun with each verb; correct forms incl. stem-changes (me despierto, me acuesto)",
+       "long_description": "The right pronoun with each verb and correct forms, including stem changes (me despierto, me acuesto).",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Some errors that don’t block meaning",
+       "long_description": "Some errors, but the meaning is clear.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Frequent errors that block meaning",
+       "long_description": "Frequent errors that make the meaning hard to follow.",
        "points": 1
       }
      ]
     },
     {
-     "description": "Pronunciation & Fluency",
+     "description": "Pronunciation and Fluency",
      "points": 5,
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Clear, comprehensible, steady pace; clean ch and soft v/b",
+       "long_description": "Clear and easy to understand at a steady pace, with a clean ch and a soft b and v.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Generally comprehensible",
+       "long_description": "Mostly easy to understand.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Hard to understand",
+       "long_description": "Hard to understand.",
        "points": 1
       }
      ]
@@ -320,7 +320,7 @@
   },
   {
    "id": "r_m05_tarea",
-   "title": "Module 5 — Tarea oral rubric",
+   "title": "Module 5: Tarea oral rubric",
    "free_form_comments": false,
    "criteria": [
     {
@@ -329,17 +329,17 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Chosen option (A or B) fully done; includes ≥1 saber/conocer + ≥1 pronoun",
+       "long_description": "Completes the chosen option (A or B), with at least one form of saber or conocer and at least one object pronoun (lo, la, los, las).",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Addresses most of the prompt (e.g. missing the pronoun, or option incomplete)",
+       "long_description": "Covers most of the task, for example no pronoun, or the chosen option is not finished.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Minimal / incomplete response",
+       "long_description": "Very short or incomplete response.",
        "points": 1
       }
      ]
@@ -350,38 +350,38 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "saber/conocer chosen correctly; pronoun matches its food; vocab accurate",
+       "long_description": "Chooses saber or conocer correctly, and each pronoun matches its food. Vocabulary is correct.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Some errors that don’t block meaning",
+       "long_description": "Some errors, but the meaning is clear.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Frequent errors that block meaning",
+       "long_description": "Frequent errors that make the meaning hard to follow.",
        "points": 1
       }
      ]
     },
     {
-     "description": "Pronunciation & Fluency",
+     "description": "Pronunciation and Fluency",
      "points": 5,
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Clear c/z/qu; correct stress; steady pace, comprehensible throughout",
+       "long_description": "Clear c, z and qu sounds and stress on the right syllable; easy to understand at a steady pace.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Generally comprehensible",
+       "long_description": "Mostly easy to understand.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Hard to understand",
+       "long_description": "Hard to understand.",
        "points": 1
       }
      ]
@@ -390,7 +390,7 @@
   },
   {
    "id": "r_m06_tarea",
-   "title": "Module 6 — Tarea oral rubric",
+   "title": "Module 6: Tarea oral rubric",
    "free_form_comments": false,
    "criteria": [
     {
@@ -399,17 +399,17 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "All 3 sentences given; each about last weekend, each a regular preterite verb + time word",
+       "long_description": "Three sentences about last weekend, each with a different regular preterite verb and a time word.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Addresses most of the prompt (e.g. only 2 sentences, or a present-tense slip)",
+       "long_description": "Covers most of the task, for example only two sentences, or one verb in the present tense.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Minimal / incomplete response",
+       "long_description": "Very short or incomplete response.",
        "points": 1
       }
      ]
@@ -420,38 +420,38 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Correct preterite endings for the subject; correct stems; vocab accurate",
+       "long_description": "Correct preterite endings for each subject and correct stems. Vocabulary is correct.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Some errors that don’t block meaning",
+       "long_description": "Some errors, but the meaning is clear.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Frequent errors that block meaning",
+       "long_description": "Frequent errors that make the meaning hard to follow.",
        "points": 1
       }
      ]
     },
     {
-     "description": "Pronunciation & Fluency",
+     "description": "Pronunciation and Fluency",
      "points": 5,
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Stress on the right syllable (ha-BLÉ, co-MÍ); clear, steady pace",
+       "long_description": "The stress falls on the right syllable (hablé, comí); clear at a steady pace.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Generally comprehensible",
+       "long_description": "Mostly easy to understand.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Hard to understand",
+       "long_description": "Hard to understand.",
        "points": 1
       }
      ]
@@ -460,7 +460,7 @@
   },
   {
    "id": "r_m07_tarea",
-   "title": "Module 7 — Tarea oral rubric",
+   "title": "Module 7: Tarea oral rubric",
    "free_form_comments": false,
    "criteria": [
     {
@@ -469,17 +469,17 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "All 3 past-tense sentences given; went + did + was/stayed as required; 3+ travel words used",
+       "long_description": "Three past-tense sentences: where the student went, one thing they did, and where they stayed or what it was like, with at least three travel words.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Addresses most of the prompt (e.g. only 2 sentences, or fewer travel words)",
+       "long_description": "Covers most of the task, for example only two sentences, or fewer than three travel words.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Minimal / incomplete response",
+       "long_description": "Very short or incomplete response.",
        "points": 1
       }
      ]
@@ -490,38 +490,38 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Irregular preterite forms correct (fui/hice/tuve/estuve…); vocab & agreement accurate",
+       "long_description": "Correct irregular preterite forms (fui, hice, tuve, estuve...). Vocabulary and agreement are correct.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Some errors that don’t block meaning",
+       "long_description": "Some errors, but the meaning is clear.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Frequent errors that block meaning",
+       "long_description": "Frequent errors that make the meaning hard to follow.",
        "points": 1
       }
      ]
     },
     {
-     "description": "Pronunciation & Fluency",
+     "description": "Pronunciation and Fluency",
      "points": 5,
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Clear, comprehensible, steady pace",
+       "long_description": "Clear and easy to understand at a steady pace.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Generally comprehensible",
+       "long_description": "Mostly easy to understand.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Hard to understand",
+       "long_description": "Hard to understand.",
        "points": 1
       }
      ]
@@ -530,7 +530,7 @@
   },
   {
    "id": "r_m08_tarea",
-   "title": "Module 8 — Tarea oral rubric",
+   "title": "Module 8: Tarea oral rubric",
    "free_form_comments": false,
    "criteria": [
     {
@@ -539,17 +539,17 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "All 3 sentences given; 1 progressive + 1 vocab item + 1 comparison as required",
+       "long_description": "Three sentences: one in the present progressive, one with a word from this module about the celebration, and one comparison.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Addresses most of the prompt (e.g. only 2 sentences, or a required structure missing)",
+       "long_description": "Covers most of the task, for example only two sentences, or one of the three structures missing.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Minimal / incomplete response",
+       "long_description": "Very short or incomplete response.",
        "points": 1
       }
      ]
@@ -560,38 +560,38 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Progressive formed correctly (estar + -ando/-iendo); comparison structure & vocab accurate",
+       "long_description": "The progressive is formed correctly (estar with an -ando or -iendo form), and the comparison is built correctly. Vocabulary is correct.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Some errors that don’t block meaning",
+       "long_description": "Some errors, but the meaning is clear.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Frequent errors that block meaning",
+       "long_description": "Frequent errors that make the meaning hard to follow.",
        "points": 1
       }
      ]
     },
     {
-     "description": "Pronunciation & Fluency",
+     "description": "Pronunciation and Fluency",
      "points": 5,
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Clear, comprehensible, steady pace",
+       "long_description": "Clear and easy to understand at a steady pace.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Generally comprehensible",
+       "long_description": "Mostly easy to understand.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Hard to understand",
+       "long_description": "Hard to understand.",
        "points": 1
       }
      ]
@@ -600,7 +600,7 @@
   },
   {
    "id": "r_m09_tarea",
-   "title": "Module 9 — Tarea oral rubric",
+   "title": "Module 9: Tarea oral rubric",
    "free_form_comments": false,
    "criteria": [
     {
@@ -609,17 +609,17 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "All 3 parts present: a preterite past experience + a description + an ir a future plan",
+       "long_description": "All three parts: a past experience in the preterite, a description, and a future plan with ir a and an infinitive.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Addresses most of the prompt (e.g. missing the future plan, or only 2 parts)",
+       "long_description": "Covers most of the task, for example no future plan, or only two of the three parts.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Minimal / incomplete response",
+       "long_description": "Very short or incomplete response.",
        "points": 1
       }
      ]
@@ -630,38 +630,38 @@
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Tense chosen correctly for each part (preterite / present / ir a); adjective agreement & vocab accurate",
+       "long_description": "The right tense for each part (preterite, present, ir a). Adjectives agree, and vocabulary is correct.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Some errors that don’t block meaning",
+       "long_description": "Some errors, but the meaning is clear.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Frequent errors that block meaning",
+       "long_description": "Frequent errors that make the meaning hard to follow.",
        "points": 1
       }
      ]
     },
     {
-     "description": "Pronunciation & Fluency",
+     "description": "Pronunciation and Fluency",
      "points": 5,
      "ratings": [
       {
        "description": "Meets",
-       "long_description": "Clear, comprehensible, steady pace; connected sentences",
+       "long_description": "Clear and easy to understand at a steady pace, with the sentences connected.",
        "points": 5
       },
       {
        "description": "Approaching",
-       "long_description": "Generally comprehensible",
+       "long_description": "Mostly easy to understand.",
        "points": 3
       },
       {
        "description": "Beginning",
-       "long_description": "Hard to understand",
+       "long_description": "Hard to understand.",
        "points": 1
       }
      ]
@@ -672,547 +672,547 @@
  "pages": [
   {
    "id": "p_syllabus",
-   "title": "Syllabus — Semester 2",
+   "title": "Syllabus: Semester 2",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/course-level/syllabus-s2.html\" style=\"width:100%;height:2600px;border:0\" title=\"Syllabus\"></iframe></p>"
   },
   {
    "id": "p_m01_vocab",
-   "title": "Vocabulario — Module 1",
+   "title": "Vocabulario: Module 1",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m01/vocabulario-m01.html\" style=\"width:100%;height:1900px;border:0\" title=\"Vocabulario\"></iframe></p>"
   },
   {
    "id": "p_m01_practice",
-   "title": "Practice Tools — Module 1",
+   "title": "Practice Tools: Module 1",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/wl-widgets/practice.html?data=%2Fhsspanish1-lessons%2Fs2%2Fm01%2Fpractice-m01.json\" style=\"width:100%;height:1600px;border:0\" title=\"Practice Tools\"></iframe></p>"
   },
   {
    "id": "p_m01_l01",
-   "title": "Lesson 1.01 — ¿Qué tiempo hace? — Weather & Seasons",
+   "title": "Lesson 1.01: ¿Qué tiempo hace? · Weather and Seasons",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m01/lesson-1-01.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m01_l02",
-   "title": "Lesson 1.02 — Los planes — and Meet the Verb ir",
+   "title": "Lesson 1.02: Los planes · and Meet the Verb ir",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m01/lesson-1-02.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m01_l03",
-   "title": "Lesson 1.03 — Ir a + Verb — Talking About the Future",
+   "title": "Lesson 1.03: Ir a + Verb · Talking About the Future",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m01/lesson-1-03.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m01_l04",
-   "title": "Lesson 1.04 — Aplicación — Writing & Dictation",
+   "title": "Lesson 1.04: Aplicación · Writing and Dictation",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m01/lesson-1-04.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m01_l05",
-   "title": "Lesson 1.05 — Un verano en Buenos Aires — Reading & Culture",
+   "title": "Lesson 1.05: Un verano en Buenos Aires · Reading and Culture",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m01/lesson-1-05.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m01_l06",
-   "title": "Lesson 1.06 — Repaso y espiral — Retrieval Before the Quiz",
+   "title": "Lesson 1.06: Repaso y espiral · Retrieval Before the Quiz",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m01/lesson-1-06.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m01_l07",
-   "title": "Lesson 1.07 — Centro de evaluaciones — Show What You Know",
+   "title": "Lesson 1.07: Centro de evaluaciones · Show What You Know",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m01/lesson-1-07.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m01_l08",
-   "title": "Lesson 1.08 — Fonética — The Sounds of ir and the Weather",
+   "title": "Lesson 1.08: Fonética · The Sounds of ir and the Weather",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m01/lesson-1-08.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m01_l09",
-   "title": "Lesson 1.09 — El Cono Sur en el mapa — y repaso del módulo",
+   "title": "Lesson 1.09: El Cono Sur en el mapa · y repaso del módulo",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m01/lesson-1-09.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m01_l10",
-   "title": "Lesson 1.10 — El día de la prueba — Grammar Quiz & Cierre",
+   "title": "Lesson 1.10: El día de la prueba · Grammar Quiz and Cierre",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m01/lesson-1-10.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m02_vocab",
-   "title": "Vocabulario — Module 2",
+   "title": "Vocabulario: Module 2",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m02/vocabulario-m02.html\" style=\"width:100%;height:1900px;border:0\" title=\"Vocabulario\"></iframe></p>"
   },
   {
    "id": "p_m02_practice",
-   "title": "Practice Tools — Module 2",
+   "title": "Practice Tools: Module 2",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/wl-widgets/practice.html?data=%2Fhsspanish1-lessons%2Fs2%2Fm02%2Fpractice-m02.json\" style=\"width:100%;height:1600px;border:0\" title=\"Practice Tools\"></iframe></p>"
   },
   {
    "id": "p_m02_l01",
-   "title": "Lesson 2.01 — ¿Cómo es tu casa? — The Rooms of a Home",
+   "title": "Lesson 2.01: ¿Cómo es tu casa? · The Rooms of a Home",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m02/lesson-2-01.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m02_l02",
-   "title": "Lesson 2.02 — Muebles y quehaceres — Furniture, Chores & a New Kind of Verb",
+   "title": "Lesson 2.02: Muebles y quehaceres · Furniture, Chores and a New Kind of Verb",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m02/lesson-2-02.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m02_l03",
-   "title": "Lesson 2.03 — Verbos de cambio radical — The Verb \"Boot\"",
+   "title": "Lesson 2.03: Verbos de cambio radical · The Verb \"Boot\"",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m02/lesson-2-03.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m02_l04",
-   "title": "Lesson 2.04 — Aplicación — Using the Boot Verbs",
+   "title": "Lesson 2.04: Aplicación · Using the Boot Verbs",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m02/lesson-2-04.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m02_l05",
-   "title": "Lesson 2.05 — La casa de Catalina — A Home in Santiago",
+   "title": "Lesson 2.05: La casa de Catalina · A Home in Santiago",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m02/lesson-2-05.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m02_l06",
-   "title": "Lesson 2.06 — Repaso y espiral — Which Verbs Change?",
+   "title": "Lesson 2.06: Repaso y espiral · Which Verbs Change?",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m02/lesson-2-06.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m02_l07",
-   "title": "Lesson 2.07 — Centro de evaluaciones — Show What You Know",
+   "title": "Lesson 2.07: Centro de evaluaciones · Show What You Know",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m02/lesson-2-07.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m02_l08",
-   "title": "Lesson 2.08 — Fonética — The Sounds Inside the Boot Verbs",
+   "title": "Lesson 2.08: Fonética · The Sounds Inside the Boot Verbs",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m02/lesson-2-08.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m02_l09",
-   "title": "Lesson 2.09 — Chile en el mapa — y repaso del módulo",
+   "title": "Lesson 2.09: Chile en el mapa · y repaso del módulo",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m02/lesson-2-09.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m02_l10",
-   "title": "Lesson 2.10 — El día de la prueba — Grammar Quiz & Cierre",
+   "title": "Lesson 2.10: El día de la prueba · Grammar Quiz and Cierre",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m02/lesson-2-10.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m03_vocab",
-   "title": "Vocabulario — Module 3",
+   "title": "Vocabulario: Module 3",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m03/vocabulario-m03.html\" style=\"width:100%;height:1900px;border:0\" title=\"Vocabulario\"></iframe></p>"
   },
   {
    "id": "p_m03_practice",
-   "title": "Practice Tools — Module 3",
+   "title": "Practice Tools: Module 3",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/wl-widgets/practice.html?data=%2Fhsspanish1-lessons%2Fs2%2Fm03%2Fpractice-m03.json\" style=\"width:100%;height:1600px;border:0\" title=\"Practice Tools\"></iframe></p>"
   },
   {
    "id": "p_m03_l01",
-   "title": "Lesson 3.01 — ¿A dónde vas? — Places Around the City",
+   "title": "Lesson 3.01: ¿A dónde vas? · Places Around the City",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m03/lesson-3-01.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m03_l02",
-   "title": "Lesson 3.02 — Direcciones — y el yo que cambia",
+   "title": "Lesson 3.02: Direcciones · y el yo que cambia",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m03/lesson-3-02.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m03_l03",
-   "title": "Lesson 3.03 — Verbos con yo irregular — Only One Form to Watch",
+   "title": "Lesson 3.03: Verbos con yo irregular · Only One Form to Watch",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m03/lesson-3-03.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m03_l04",
-   "title": "Lesson 3.04 — Aplicación — Use the Verbs, Train the Ear",
+   "title": "Lesson 3.04: Aplicación · Use the Verbs, Train the Ear",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m03/lesson-3-04.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m03_l05",
-   "title": "Lesson 3.05 — Un día en la CDMX — Reading & Culture",
+   "title": "Lesson 3.05: Un día en la CDMX · Reading and Culture",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m03/lesson-3-05.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m03_l06",
-   "title": "Lesson 3.06 — Repaso y espiral — Retrieval Before the Quiz",
+   "title": "Lesson 3.06: Repaso y espiral · Retrieval Before the Quiz",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m03/lesson-3-06.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m03_l07",
-   "title": "Lesson 3.07 — Centro de evaluaciones — Show What You Know",
+   "title": "Lesson 3.07: Centro de evaluaciones · Show What You Know",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m03/lesson-3-07.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m03_l08",
-   "title": "Lesson 3.08 — Fonética — The Spanish R, and Your Voice on the Record",
+   "title": "Lesson 3.08: Fonética · The Spanish R, and Your Voice on the Record",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m03/lesson-3-08.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m03_l09",
-   "title": "Lesson 3.09 — México en el mapa — y repaso del módulo",
+   "title": "Lesson 3.09: México en el mapa · y repaso del módulo",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m03/lesson-3-09.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m03_l10",
-   "title": "Lesson 3.10 — El día de la prueba — Grammar Quiz & Cierre",
+   "title": "Lesson 3.10: El día de la prueba · Grammar Quiz and Cierre",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m03/lesson-3-10.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m04_vocab",
-   "title": "Vocabulario — Module 4",
+   "title": "Vocabulario: Module 4",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m04/vocabulario-m04.html\" style=\"width:100%;height:1900px;border:0\" title=\"Vocabulario\"></iframe></p>"
   },
   {
    "id": "p_m04_practice",
-   "title": "Practice Tools — Module 4",
+   "title": "Practice Tools: Module 4",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/wl-widgets/practice.html?data=%2Fhsspanish1-lessons%2Fs2%2Fm04%2Fpractice-m04.json\" style=\"width:100%;height:1600px;border:0\" title=\"Practice Tools\"></iframe></p>"
   },
   {
    "id": "p_m04_l01",
-   "title": "Lesson 4.01 — ¿Cómo es tu día? — Words for Your Daily Routine",
+   "title": "Lesson 4.01: ¿Cómo es tu día? · Words for Your Daily Routine",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m04/lesson-4-01.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m04_l02",
-   "title": "Lesson 4.02 — Primero, después… — Sequence Words & the Reflexive Pronoun",
+   "title": "Lesson 4.02: Primero, después… · Sequence Words and the Reflexive Pronoun",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m04/lesson-4-02.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m04_l03",
-   "title": "Lesson 4.03 — Los verbos reflexivos — The Full Picture",
+   "title": "Lesson 4.03: Los verbos reflexivos · The Full Picture",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m04/lesson-4-03.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m04_l04",
-   "title": "Lesson 4.04 — Aplicación — Write It & Hear It",
+   "title": "Lesson 4.04: Aplicación · Write It and Hear It",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m04/lesson-4-04.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m04_l05",
-   "title": "Lesson 4.05 — A leer — La rutina de Camila en Quito",
+   "title": "Lesson 4.05: A leer · La rutina de Camila en Quito",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m04/lesson-4-05.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m04_l06",
-   "title": "Lesson 4.06 — Repaso y espiral — Retrieval Before the Quiz",
+   "title": "Lesson 4.06: Repaso y espiral · Retrieval Before the Quiz",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m04/lesson-4-06.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m04_l07",
-   "title": "Lesson 4.07 — Centro de evaluaciones — Show What You Know",
+   "title": "Lesson 4.07: Centro de evaluaciones · Show What You Know",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m04/lesson-4-07.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m04_l08",
-   "title": "Lesson 4.08 — Fonética — Saying Your Routine Cleanly",
+   "title": "Lesson 4.08: Fonética · Saying Your Routine Cleanly",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m04/lesson-4-08.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m04_l09",
-   "title": "Lesson 4.09 — Ecuador en el mapa — y repaso del módulo",
+   "title": "Lesson 4.09: Ecuador en el mapa · y repaso del módulo",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m04/lesson-4-09.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m04_l10",
-   "title": "Lesson 4.10 — El día de la prueba — Grammar Quiz & Cierre",
+   "title": "Lesson 4.10: El día de la prueba · Grammar Quiz and Cierre",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m04/lesson-4-10.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m05_vocab",
-   "title": "Vocabulario — Module 5",
+   "title": "Vocabulario: Module 5",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m05/vocabulario-m05.html\" style=\"width:100%;height:1900px;border:0\" title=\"Vocabulario\"></iframe></p>"
   },
   {
    "id": "p_m05_practice",
-   "title": "Practice Tools — Module 5",
+   "title": "Practice Tools: Module 5",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/wl-widgets/practice.html?data=%2Fhsspanish1-lessons%2Fs2%2Fm05%2Fpractice-m05.json\" style=\"width:100%;height:1600px;border:0\" title=\"Practice Tools\"></iframe></p>"
   },
   {
    "id": "p_m05_l01",
-   "title": "Lesson 5.01 — En el supermercado — Food at the Market",
+   "title": "Lesson 5.01: En el supermercado · Food at the Market",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m05/lesson-5-01.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m05_l02",
-   "title": "Lesson 5.02 — En el restaurante — New Words & New Verb Forms",
+   "title": "Lesson 5.02: En el restaurante · New Words and New Verb Forms",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m05/lesson-5-02.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m05_l03",
-   "title": "Lesson 5.03 — Two Ways to \"Know\" & a Shortcut for \"It\"",
+   "title": "Lesson 5.03: Two Ways to \"Know\" and a Shortcut for \"It\"",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m05/lesson-5-03.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m05_l04",
-   "title": "Lesson 5.04 — Aplicación — Use It in Writing & by Ear",
+   "title": "Lesson 5.04: Aplicación · Use It in Writing and by Ear",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m05/lesson-5-04.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m05_l05",
-   "title": "Lesson 5.05 — Marta en Sevilla — A Reading & a Taste of Spain",
+   "title": "Lesson 5.05: Marta en Sevilla · A Reading and a Taste of Spain",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m05/lesson-5-05.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m05_l06",
-   "title": "Lesson 5.06 — Repaso y espiral — Retrieval Before the Quiz",
+   "title": "Lesson 5.06: Repaso y espiral · Retrieval Before the Quiz",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m05/lesson-5-06.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m05_l07",
-   "title": "Lesson 5.07 — Centro de evaluaciones — Show What You Know",
+   "title": "Lesson 5.07: Centro de evaluaciones · Show What You Know",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m05/lesson-5-07.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m05_l08",
-   "title": "Lesson 5.08 — Fonética — The Sounds of c, z & qu",
+   "title": "Lesson 5.08: Fonética · The Sounds of c, z and qu",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m05/lesson-5-08.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m05_l09",
-   "title": "Lesson 5.09 — España en el mapa — y repaso del módulo",
+   "title": "Lesson 5.09: España en el mapa · y repaso del módulo",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m05/lesson-5-09.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m05_l10",
-   "title": "Lesson 5.10 — El día de la prueba — Grammar Quiz & Cierre",
+   "title": "Lesson 5.10: El día de la prueba · Grammar Quiz and Cierre",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m05/lesson-5-10.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m06_vocab",
-   "title": "Vocabulario — Module 6",
+   "title": "Vocabulario: Module 6",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m06/vocabulario-m06.html\" style=\"width:100%;height:1900px;border:0\" title=\"Vocabulario\"></iframe></p>"
   },
   {
    "id": "p_m06_practice",
-   "title": "Practice Tools — Module 6",
+   "title": "Practice Tools: Module 6",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/wl-widgets/practice.html?data=%2Fhsspanish1-lessons%2Fs2%2Fm06%2Fpractice-m06.json\" style=\"width:100%;height:1600px;border:0\" title=\"Practice Tools\"></iframe></p>"
   },
   {
    "id": "p_m06_l01",
-   "title": "Lesson 6.01 — ¿Qué hiciste? — Talking About the Past Begins",
+   "title": "Lesson 6.01: ¿Qué hiciste? · Talking About the Past Begins",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m06/lesson-6-01.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m06_l02",
-   "title": "Lesson 6.02 — Los verbos — y el pretérito regular (las formas)",
+   "title": "Lesson 6.02: Los verbos · y el pretérito regular (las formas)",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m06/lesson-6-02.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m06_l03",
-   "title": "Lesson 6.03 — El pretérito regular — The Full Picture",
+   "title": "Lesson 6.03: El pretérito regular · The Full Picture",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m06/lesson-6-03.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m06_l04",
-   "title": "Lesson 6.04 — Aplicación — Write It, Hear It",
+   "title": "Lesson 6.04: Aplicación · Write It, Hear It",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m06/lesson-6-04.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m06_l05",
-   "title": "Lesson 6.05 — A leer — Un viaje a Madrid",
+   "title": "Lesson 6.05: A leer · Un viaje a Madrid",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m06/lesson-6-05.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m06_l06",
-   "title": "Lesson 6.06 — Repaso y espiral — Present vs. Past",
+   "title": "Lesson 6.06: Repaso y espiral · Present vs. Past",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m06/lesson-6-06.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m06_l07",
-   "title": "Lesson 6.07 — Centro de evaluaciones — Show What You Know",
+   "title": "Lesson 6.07: Centro de evaluaciones · Show What You Know",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m06/lesson-6-07.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m06_l08",
-   "title": "Lesson 6.08 — Fonética — The Accent That Makes the Past",
+   "title": "Lesson 6.08: Fonética · The Accent That Makes the Past",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m06/lesson-6-08.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m06_l09",
-   "title": "Lesson 6.09 — España en el mapa — y repaso del módulo",
+   "title": "Lesson 6.09: España en el mapa · y repaso del módulo",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m06/lesson-6-09.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m06_l10",
-   "title": "Lesson 6.10 — El día de la prueba — Grammar Quiz & Cierre",
+   "title": "Lesson 6.10: El día de la prueba · Grammar Quiz and Cierre",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m06/lesson-6-10.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m07_vocab",
-   "title": "Vocabulario — Module 7",
+   "title": "Vocabulario: Module 7",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m07/vocabulario-m07.html\" style=\"width:100%;height:1900px;border:0\" title=\"Vocabulario\"></iframe></p>"
   },
   {
    "id": "p_m07_practice",
-   "title": "Practice Tools — Module 7",
+   "title": "Practice Tools: Module 7",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/wl-widgets/practice.html?data=%2Fhsspanish1-lessons%2Fs2%2Fm07%2Fpractice-m07.json\" style=\"width:100%;height:1600px;border:0\" title=\"Practice Tools\"></iframe></p>"
   },
   {
    "id": "p_m07_l01",
-   "title": "Lesson 7.01 — De viaje — Packing Your Travel Words",
+   "title": "Lesson 7.01: De viaje · Packing Your Travel Words",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m07/lesson-7-01.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m07_l02",
-   "title": "Lesson 7.02 — Experiencias — y el pretérito de ir",
+   "title": "Lesson 7.02: Experiencias · y el pretérito de ir",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m07/lesson-7-02.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m07_l03",
-   "title": "Lesson 7.03 — El pretérito irregular — One Pattern, Three Verbs",
+   "title": "Lesson 7.03: El pretérito irregular · One Pattern, Three Verbs",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m07/lesson-7-03.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m07_l04",
-   "title": "Lesson 7.04 — Aplicación — Write Your Trip, Train Your Ear",
+   "title": "Lesson 7.04: Aplicación · Write Your Trip, Train Your Ear",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m07/lesson-7-04.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m07_l05",
-   "title": "Lesson 7.05 — El viaje de Andrea — A Trip Through los Andes",
+   "title": "Lesson 7.05: El viaje de Andrea · A Trip Through los Andes",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m07/lesson-7-05.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m07_l06",
-   "title": "Lesson 7.06 — Repaso y espiral — The Whole Trip, Past and Present",
+   "title": "Lesson 7.06: Repaso y espiral · The Whole Trip, Past and Present",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m07/lesson-7-06.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m07_l07",
-   "title": "Lesson 7.07 — Centro de evaluaciones — Show What You Know",
+   "title": "Lesson 7.07: Centro de evaluaciones · Show What You Know",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m07/lesson-7-07.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m07_l08",
-   "title": "Lesson 7.08 — Fonética — Telling Your Trip Out Loud",
+   "title": "Lesson 7.08: Fonética · Telling Your Trip Out Loud",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m07/lesson-7-08.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m07_l09",
-   "title": "Lesson 7.09 — Perú en el mapa — y un viaje por el mundo hispano",
+   "title": "Lesson 7.09: Perú en el mapa · y un viaje por el mundo hispano",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m07/lesson-7-09.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m07_l10",
-   "title": "Lesson 7.10 — El día de la prueba — Grammar Quiz & Cierre",
+   "title": "Lesson 7.10: El día de la prueba · Grammar Quiz and Cierre",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m07/lesson-7-10.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m08_vocab",
-   "title": "Vocabulario — Module 8",
+   "title": "Vocabulario: Module 8",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m08/vocabulario-m08.html\" style=\"width:100%;height:1900px;border:0\" title=\"Vocabulario\"></iframe></p>"
   },
   {
    "id": "p_m08_practice",
-   "title": "Practice Tools — Module 8",
+   "title": "Practice Tools: Module 8",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/wl-widgets/practice.html?data=%2Fhsspanish1-lessons%2Fs2%2Fm08%2Fpractice-m08.json\" style=\"width:100%;height:1600px;border:0\" title=\"Practice Tools\"></iframe></p>"
   },
   {
    "id": "p_m08_l01",
-   "title": "Lesson 8.01 — ¡Que empiece la fiesta! — Music & Celebration Words",
+   "title": "Lesson 8.01: ¡Que empiece la fiesta! · Music and Celebration Words",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m08/lesson-8-01.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m08_l02",
-   "title": "Lesson 8.02 — ¿Qué está pasando? — What's Happening Right Now",
+   "title": "Lesson 8.02: ¿Qué está pasando? · What's Happening Right Now",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m08/lesson-8-02.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m08_l03",
-   "title": "Lesson 8.03 — Más, menos, mejor — Comparing Things",
+   "title": "Lesson 8.03: Más, menos, mejor · Comparing Things",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m08/lesson-8-03.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m08_l04",
-   "title": "Lesson 8.04 — Aplicación — Now You Use It",
+   "title": "Lesson 8.04: Aplicación · Now You Use It",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m08/lesson-8-04.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m08_l05",
-   "title": "Lesson 8.05 — Fiestas del mundo hispano — A Reading",
+   "title": "Lesson 8.05: Fiestas del mundo hispano · A Reading",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m08/lesson-8-05.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m08_l06",
-   "title": "Lesson 8.06 — Repaso y espiral — Then and Now",
+   "title": "Lesson 8.06: Repaso y espiral · Then and Now",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m08/lesson-8-06.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m08_l07",
-   "title": "Lesson 8.07 — Centro de evaluaciones — Show What You Know",
+   "title": "Lesson 8.07: Centro de evaluaciones · Show What You Know",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m08/lesson-8-07.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m08_l08",
-   "title": "Lesson 8.08 — Fonética — The Sounds of the Fiesta",
+   "title": "Lesson 8.08: Fonética · The Sounds of the Fiesta",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m08/lesson-8-08.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m08_l09",
-   "title": "Lesson 8.09 — El mapa musical — y un viaje por el mundo hispano",
+   "title": "Lesson 8.09: El mapa musical · y un viaje por el mundo hispano",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m08/lesson-8-09.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m08_l10",
-   "title": "Lesson 8.10 — El día de la prueba — Grammar Quiz & Cierre",
+   "title": "Lesson 8.10: El día de la prueba · Grammar Quiz and Cierre",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m08/lesson-8-10.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m09_vocab",
-   "title": "Vocabulario — Module 9",
+   "title": "Vocabulario: Module 9",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m09/vocabulario-m09.html\" style=\"width:100%;height:1900px;border:0\" title=\"Vocabulario\"></iframe></p>"
   },
   {
    "id": "p_m09_practice",
-   "title": "Practice Tools — Module 9",
+   "title": "Practice Tools: Module 9",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/wl-widgets/practice.html?data=%2Fhsspanish1-lessons%2Fs2%2Fm09%2Fpractice-m09.json\" style=\"width:100%;height:1600px;border:0\" title=\"Practice Tools\"></iframe></p>"
   },
   {
    "id": "p_m09_l01",
-   "title": "Lesson 9.01 — El presente, otra vez — Your Present-Tense Toolkit",
+   "title": "Lesson 9.01: El presente, otra vez · Your Present-Tense Toolkit",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m09/lesson-9-01.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m09_l02",
-   "title": "Lesson 9.02 — El pretérito, otra vez — Your Past-Tense Toolkit",
+   "title": "Lesson 9.02: El pretérito, otra vez · Your Past-Tense Toolkit",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m09/lesson-9-02.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m09_l03",
-   "title": "Lesson 9.03 — Normalmente… pero ayer… — Braiding Present & Past",
+   "title": "Lesson 9.03: Normalmente… pero ayer… · Braiding Present and Past",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m09/lesson-9-03.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m09_l04",
-   "title": "Lesson 9.04 — Aplicación — Describe a Place, Narrate a Trip",
+   "title": "Lesson 9.04: Aplicación · Describe a Place, Narrate a Trip",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m09/lesson-9-04.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m09_l05",
-   "title": "Lesson 9.05 — El mundo hispano — One Language, Many Cultures",
+   "title": "Lesson 9.05: El mundo hispano · One Language, Many Cultures",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m09/lesson-9-05.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m09_l06",
-   "title": "Lesson 9.06 — Repaso cumulativo — A Whole Year, Retrieved",
+   "title": "Lesson 9.06: Repaso cumulativo · A Whole Year, Retrieved",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m09/lesson-9-06.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m09_l07",
-   "title": "Lesson 9.07 — Centro de evaluaciones — Show a Year of Spanish",
+   "title": "Lesson 9.07: Centro de evaluaciones · Show a Year of Spanish",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m09/lesson-9-07.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m09_l08",
-   "title": "Lesson 9.08 — Fonética & Tarea oral — Tell Your Story Aloud",
+   "title": "Lesson 9.08: Fonética and Tarea oral · Tell Your Story Aloud",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m09/lesson-9-08.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m09_l09",
-   "title": "Lesson 9.09 — El repaso final — y el mapa, una última vez",
+   "title": "Lesson 9.09: El repaso final · y el mapa, una última vez",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m09/lesson-9-09.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
    "id": "p_m09_l10",
-   "title": "Lesson 9.10 — Grammar Quiz & Cierre — The Finish Line",
+   "title": "Lesson 9.10: Grammar Quiz and Cierre · The Finish Line",
    "html": "<p><iframe src=\"https://optimaondemand.github.io/hsspanish1-lessons/s2/m09/lesson-9-10.html\" style=\"width:100%;height:1900px;border:0\" title=\"Lesson\"></iframe></p>"
   },
   {
@@ -1223,7 +1223,7 @@
   },
   {
    "id": "p_teacher_final_d",
-   "title": "Final Exam — Part D grading guide",
+   "title": "Final Exam: Part D grading guide",
    "published": false,
    "html": "<p><strong>For teachers only.</strong> The Semester 2 Final Exam is auto-graded except Part D, four short writing prompts worth 2 points each. Grade them in SpeedGrader against the target answers and the scoring guide below.</p><h2>Part D &middot; Expresi&oacute;n escrita <span>8 pts</span></h2>\n  <p style=\"font-size:.85rem;color:var(--muted)\">Four prompts &middot; 2 pts each &middot; <strong>hand-graded</strong>. Budget ~3 minutes per student.</p>\n  <div><strong>Paste the prompt column verbatim.</strong> Each prompt gives the student <b>the exact sentence to write</b>, in English, and names the structure and the m&oacute;dulo it comes from. Two reasons this shape was chosen over an open prompt: the student cannot be unsure what is wanted, and there is a <b>single target answer to grade against</b>, so two teachers reach the same mark. ⚠ Do <b>not</b> print the target answer or the notes column to students. The accent strip from Part C sits in the quiz instructions and stays visible here.</div>\n  <div><table style=\"border-collapse:collapse;width:100%\"><thead><tr><th style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">Prompt &mdash; shown to the student <em>exactly</em> as written</th><th style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">Target answer <span style=\"font-weight:400\">(builder/grader only)</span></th><th style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">Grading notes</th><th style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">Mod</th><th style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">Pts</th></tr></thead><tbody>\n    <tr><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">1. Write in Spanish: <strong>&ldquo;Yesterday, I ate pizza with my family.&rdquo;</strong><br><span style=\"color:#555\">This sentence needs the <strong>preterite</strong> &mdash; the past tense from M&oacute;dulos 6 and 7.</span></td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">Ayer com&iacute; pizza con mi familia.</td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">Preterite <em>com&iacute;</em> required. Accept <em>comi</em> (no accent), word order <em>Com&iacute; pizza con mi familia ayer</em>, and <em>mi familia y yo comimos</em>.</td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">M6</td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">2</td></tr>\n    <tr><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">2. Write in Spanish: <strong>&ldquo;I get up at seven o&rsquo;clock.&rdquo;</strong><br><span style=\"color:#555\">This sentence needs a <strong>reflexive verb in the present</strong> &mdash; from M&oacute;dulo 4.</span></td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">Me levanto a las siete.</td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">The pronoun <em>me</em> must be there and must precede the verb. Accept <em>Yo me levanto a las siete</em>. <em>Levanto a las siete</em> (no pronoun) scores 1.</td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">M4</td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">2</td></tr>\n    <tr><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">3. Write in Spanish: <strong>&ldquo;I am going to visit the museum.&rdquo;</strong><br><span style=\"color:#555\">This sentence needs <strong>ir + a + infinitive</strong> &mdash; the near future from M&oacute;dulo 1.</span></td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">Voy a visitar el museo.</td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">All three parts required: <em>voy</em> + <em>a</em> + infinitive. <em>Voy visitar</em> (missing <em>a</em>) scores 1. <em>Visito el museo</em> (present, not near future) scores 0.</td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">M1</td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">2</td></tr>\n    <tr><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">4. Write in Spanish: <strong>&ldquo;The summer is better than the winter.&rdquo;</strong><br><span style=\"color:#555\">This sentence needs a <strong>comparative</strong> &mdash; from M&oacute;dulo 8.</span></td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">El verano es mejor que el invierno.</td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\"><em>mejor que</em> required. Accept <em>m&aacute;s bueno que</em> is <b>not</b> accepted &mdash; <em>mejor</em> is the form taught. Missing <em>que</em> scores 1.</td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">M8</td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">2</td></tr>\n  </tbody></table></div>\n  <h3>Scoring &mdash; apply per prompt</h3>\n  <div><table style=\"border-collapse:collapse;width:100%\"><thead><tr><th style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">Pts</th><th style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">What it looks like</th></tr></thead><tbody>\n    <tr><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\"><b>2</b></td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">The sentence matches the target in meaning and the named structure is formed correctly. Minor spelling or accent slips do not cost the point &mdash; <em>comi</em> for <em>com&iacute;</em> is still 2.</td></tr>\n    <tr><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\"><b>1</b></td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">The named structure is attempted but mis-formed (wrong ending, missing reflexive pronoun, <em>ir</em> without <em>a</em>), or the meaning is only partly recoverable.</td></tr>\n    <tr><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\"><b>0</b></td><td style=\"border:1px solid #ccc;padding:4px 8px;vertical-align:top\">The named structure is absent, the sentence is in English, or nothing is written.</td></tr>\n  </tbody></table></div>\n  <div><strong>teacher note.</strong> Score the <em>structure</em>, not the ambition. A short correct sentence earns 2; a long adventurous one with the wrong tense earns 1. Say so to students beforehand &mdash; it stops them over-reaching and losing marks they had already earned.</div>\n</section>\n\n<section>\n  "
   }
@@ -1231,8 +1231,8 @@
  "assignments": [
   {
    "id": "a_m01_tarea",
-   "title": "Module 1 — Tarea oral",
-   "html": "<p>Record yourself describing <strong>this week's weather and your plans</strong>. Include <strong>one sentence about the weather</strong> (Hoy hace&hellip;) and <strong>at least two plans</strong> using <strong>ir a</strong> + a verb (Voy a&hellip; / Vamos a&hellip;). Speak in complete sentences. ~20&ndash;40 seconds.</p><p><strong>Example:</strong> <em>Esta semana hace sol. Hoy voy a estudiar espa&ntilde;ol. Ma&ntilde;ana mi familia y yo vamos a ir a la playa.</em></p><p>Use Canvas&rsquo;s <strong>Record/Upload Media</strong> button to record your answer. You may re-record before you submit.</p>",
+   "title": "Module 1: Tarea oral",
+   "html": "<p>Record yourself describing <strong>this week's weather and your plans</strong>. Include <strong>one sentence about the weather</strong> (Hoy hace&hellip;) and <strong>at least two plans</strong> using <strong>ir a</strong> + a verb (Voy a&hellip; / Vamos a&hellip;). Speak in complete sentences. about 20&ndash;40 seconds.</p><p><strong>Example:</strong> <em>Esta semana hace sol. Hoy voy a estudiar espa&ntilde;ol. Ma&ntilde;ana mi familia y yo vamos a ir a la playa.</em></p><p>Use Canvas&rsquo;s <strong>Record/Upload Media</strong> button to record your answer. You may re-record before you submit.</p>",
    "points": 15,
    "group": "ag_tarea",
    "rubric": "r_m01_tarea",
@@ -1242,8 +1242,8 @@
   },
   {
    "id": "a_m02_tarea",
-   "title": "Module 2 — Tarea oral",
-   "html": "<p>Record yourself <strong>describing your home and the chores you do</strong>. Name at least two rooms of your home, and use <strong>at least two stem-changing verbs</strong> (for example <em>querer, poder, preferir, jugar</em>) to say what you and your family want, can, or prefer to do. Speak in complete sentences. ~30&ndash;45 seconds.</p><p><strong>Example:</strong> <em>En mi casa hay una cocina y dos dormitorios. Yo quiero ordenar mi habitaci&oacute;n. Los s&aacute;bados nosotros limpiamos juntos.</em></p><p>Use Canvas&rsquo;s <strong>Record/Upload Media</strong> button to record your answer. You may re-record before you submit.</p>",
+   "title": "Module 2: Tarea oral",
+   "html": "<p>Record yourself <strong>describing your home and the chores you do</strong>. Name at least two rooms of your home, and use <strong>at least two stem-changing verbs</strong> (for example <em>querer, poder, preferir, jugar</em>) to say what you and your family want, can, or prefer to do. Speak in complete sentences. about 30&ndash;45 seconds.</p><p><strong>Example:</strong> <em>En mi casa hay una cocina y dos dormitorios. Yo quiero ordenar mi habitaci&oacute;n. Los s&aacute;bados nosotros limpiamos juntos.</em></p><p>Use Canvas&rsquo;s <strong>Record/Upload Media</strong> button to record your answer. You may re-record before you submit.</p>",
    "points": 15,
    "group": "ag_tarea",
    "rubric": "r_m02_tarea",
@@ -1253,8 +1253,8 @@
   },
   {
    "id": "a_m03_tarea",
-   "title": "Module 3 — Tarea oral",
-   "html": "<p>Record yourself doing two things: (1) <strong>give directions</strong> to a real place in your town, using words like <em>derecho, a la derecha / izquierda, la esquina, el sem&aacute;foro,</em> and <em>cuadras</em>; and (2) <strong>say what you do downtown</strong> in at least two sentences using irregular-<em>yo</em> verbs (<em>salgo, hago, veo, doy, pongo&hellip;</em>). Speak in complete sentences. ~30&ndash;45 seconds.</p><p><strong>Example:</strong> <em>&laquo;Para llegar al mercado, sigues derecho dos cuadras y doblas a la derecha en el sem&aacute;foro. En el centro, yo salgo temprano, veo los museos y doy un paseo por la plaza.&raquo;</em></p><p>Use Canvas&rsquo;s <strong>Record/Upload Media</strong> button to record your answer. You may re-record before you submit.</p>",
+   "title": "Module 3: Tarea oral",
+   "html": "<p>Record yourself doing two things: (1) <strong>give directions</strong> to a real place in your town, using words like <em>derecho, a la derecha / izquierda, la esquina, el sem&aacute;foro,</em> and <em>cuadras</em>; and (2) <strong>say what you do downtown</strong> in at least two sentences using irregular-<em>yo</em> verbs (<em>salgo, hago, veo, doy, pongo&hellip;</em>). Speak in complete sentences. about 30&ndash;45 seconds.</p><p><strong>Example:</strong> <em>&laquo;Para llegar al mercado, sigues derecho dos cuadras y doblas a la derecha en el sem&aacute;foro. En el centro, yo salgo temprano, veo los museos y doy un paseo por la plaza.&raquo;</em></p><p>Use Canvas&rsquo;s <strong>Record/Upload Media</strong> button to record your answer. You may re-record before you submit.</p>",
    "points": 15,
    "group": "ag_tarea",
    "rubric": "r_m03_tarea",
@@ -1264,8 +1264,8 @@
   },
   {
    "id": "a_m04_tarea",
-   "title": "Module 4 — Tarea oral",
-   "html": "<p>Record yourself <strong>narrating your morning routine in order</strong>. Give <strong>at least four steps</strong>, each a reflexive verb (<em>me despierto, me levanto, me ducho, me visto&hellip;</em>), and connect them with sequence words (<em>primero, despu&eacute;s, luego, por &uacute;ltimo</em>). Speak in the <em>yo</em> form. ~30&ndash;45 seconds.</p><p><strong>Example:</strong> <em>Primero me despierto a las seis. Despu&eacute;s me levanto y me ducho. Luego me visto. Y por &uacute;ltimo desayuno.</em></p><p>Use Canvas&rsquo;s <strong>Record/Upload Media</strong> button to record your answer. You may re-record before you submit.</p>",
+   "title": "Module 4: Tarea oral",
+   "html": "<p>Record yourself <strong>narrating your morning routine in order</strong>. Give <strong>at least four steps</strong>, each a reflexive verb (<em>me despierto, me levanto, me ducho, me visto&hellip;</em>), and connect them with sequence words (<em>primero, despu&eacute;s, luego, por &uacute;ltimo</em>). Speak in the <em>yo</em> form. about 30&ndash;45 seconds.</p><p><strong>Example:</strong> <em>Primero me despierto a las seis. Despu&eacute;s me levanto y me ducho. Luego me visto. Y por &uacute;ltimo desayuno.</em></p><p>Use Canvas&rsquo;s <strong>Record/Upload Media</strong> button to record your answer. You may re-record before you submit.</p>",
    "points": 15,
    "group": "ag_tarea",
    "rubric": "r_m04_tarea",
@@ -1275,7 +1275,7 @@
   },
   {
    "id": "a_m05_tarea",
-   "title": "Module 5 — Tarea oral",
+   "title": "Module 5: Tarea oral",
    "html": "<p>Record yourself speaking Spanish for about <strong>30&ndash;45 seconds</strong>. Choose ONE: <strong>(A)</strong> role-play ordering a meal at a restaurant (greet the camarero, ask for the men&uacute;, order a food, ask for la cuenta), or <strong>(B)</strong> talk about a food you know how to make (say what it is, that you sabes cocinarlo, and where you buy the ingredients). Whichever you choose, include at least <strong>one</strong> saber/conocer and <strong>one</strong> direct-object pronoun (lo/la/los/las).</p><p><strong>Example:</strong> <em>S&eacute; preparar una tortilla espa&ntilde;ola. Necesito huevos; los compro en el supermercado. Conozco un buen mercado.</em></p><p>Use Canvas&rsquo;s <strong>Record/Upload Media</strong> button to record your answer. You may re-record before you submit.</p>",
    "points": 15,
    "group": "ag_tarea",
@@ -1286,8 +1286,8 @@
   },
   {
    "id": "a_m06_tarea",
-   "title": "Module 6 — Tarea oral",
-   "html": "<p>Record yourself saying <strong>three true sentences about what you did last weekend</strong> (<em>el fin de semana pasado</em>). Use the <strong>regular preterite</strong>, a different verb each time, and start each sentence with a time word. Speak in complete sentences. ~30&ndash;45 seconds.</p><p><strong>Example:</strong> <em>El fin de semana pasado camin&eacute; en el parque. El s&aacute;bado prepar&eacute; la cena. El domingo nad&eacute;.</em></p><p>Use Canvas&rsquo;s <strong>Record/Upload Media</strong> button to record your answer. You may re-record before you submit.</p>",
+   "title": "Module 6: Tarea oral",
+   "html": "<p>Record yourself saying <strong>three true sentences about what you did last weekend</strong> (<em>el fin de semana pasado</em>). Use the <strong>regular preterite</strong>, a different verb each time, and start each sentence with a time word. Speak in complete sentences. about 30&ndash;45 seconds.</p><p><strong>Example:</strong> <em>El fin de semana pasado camin&eacute; en el parque. El s&aacute;bado prepar&eacute; la cena. El domingo nad&eacute;.</em></p><p>Use Canvas&rsquo;s <strong>Record/Upload Media</strong> button to record your answer. You may re-record before you submit.</p>",
    "points": 15,
    "group": "ag_tarea",
    "rubric": "r_m06_tarea",
@@ -1297,8 +1297,8 @@
   },
   {
    "id": "a_m07_tarea",
-   "title": "Module 7 — Tarea oral",
-   "html": "<p>Record yourself telling about <strong>a trip you took</strong> (real or imagined). Say <strong>three true things in the past</strong> using the irregular preterite: where you <strong>went</strong> (<em>fui / fuimos a&hellip;</em>), one thing you <strong>did</strong> (<em>hice&hellip;</em>), and where you <strong>were / stayed</strong> or what it <strong>was</strong> like (<em>estuve&hellip; / fue&hellip;</em>). Use at least <strong>three M7 travel words</strong>. Speak in complete sentences. ~30&ndash;45 seconds.</p><p><strong>Example:</strong> <em>El a&ntilde;o pasado fui a Per&uacute;. Hice una excursi&oacute;n a Machu Picchu con un gu&iacute;a. El viaje fue una gran aventura.</em></p><p>Use Canvas&rsquo;s <strong>Record/Upload Media</strong> button to record your answer. You may re-record before you submit.</p>",
+   "title": "Module 7: Tarea oral",
+   "html": "<p>Record yourself telling about <strong>a trip you took</strong> (real or imagined). Say <strong>three true things in the past</strong> using the irregular preterite: where you <strong>went</strong> (<em>fui / fuimos a&hellip;</em>), one thing you <strong>did</strong> (<em>hice&hellip;</em>), and where you <strong>were / stayed</strong> or what it <strong>was</strong> like (<em>estuve&hellip; / fue&hellip;</em>). Use at least <strong>three M7 travel words</strong>. Speak in complete sentences. about 30&ndash;45 seconds.</p><p><strong>Example:</strong> <em>El a&ntilde;o pasado fui a Per&uacute;. Hice una excursi&oacute;n a Machu Picchu con un gu&iacute;a. El viaje fue una gran aventura.</em></p><p>Use Canvas&rsquo;s <strong>Record/Upload Media</strong> button to record your answer. You may re-record before you submit.</p>",
    "points": 15,
    "group": "ag_tarea",
    "rubric": "r_m07_tarea",
@@ -1308,8 +1308,8 @@
   },
   {
    "id": "a_m08_tarea",
-   "title": "Module 8 — Tarea oral",
-   "html": "<p>Describe a celebration. Record yourself giving <strong>three true sentences</strong>: (1) say what someone <strong>is doing right now</strong> using the <strong>present progressive</strong> (<em>est&aacute; / est&aacute;n</em> + <em>-ando/-iendo</em>), (2) name one thing you see or hear at the fiesta using this module's vocabulary, and (3) make <strong>one comparison</strong> using <em>m&aacute;s&hellip;que</em>, <em>menos&hellip;que</em>, <em>mejor</em>, <em>peor</em>, or <em>tan&hellip;como</em>. Speak in complete sentences. ~30&ndash;45 seconds.</p><p><strong>Example:</strong> <em>El cantante est&aacute; cantando una canci&oacute;n. Hay fuegos artificiales en el festival. La cumbia es m&aacute;s alegre que la balada.</em></p><p>Use Canvas&rsquo;s <strong>Record/Upload Media</strong> button to record your answer. You may re-record before you submit.</p>",
+   "title": "Module 8: Tarea oral",
+   "html": "<p>Describe a celebration. Record yourself giving <strong>three true sentences</strong>: (1) say what someone <strong>is doing right now</strong> using the <strong>present progressive</strong> (<em>est&aacute; / est&aacute;n</em> + <em>-ando/-iendo</em>), (2) name one thing you see or hear at the fiesta using this module's vocabulary, and (3) make <strong>one comparison</strong> using <em>m&aacute;s&hellip;que</em>, <em>menos&hellip;que</em>, <em>mejor</em>, <em>peor</em>, or <em>tan&hellip;como</em>. Speak in complete sentences. about 30&ndash;45 seconds.</p><p><strong>Example:</strong> <em>El cantante est&aacute; cantando una canci&oacute;n. Hay fuegos artificiales en el festival. La cumbia es m&aacute;s alegre que la balada.</em></p><p>Use Canvas&rsquo;s <strong>Record/Upload Media</strong> button to record your answer. You may re-record before you submit.</p>",
    "points": 15,
    "group": "ag_tarea",
    "rubric": "r_m08_tarea",
@@ -1319,8 +1319,8 @@
   },
   {
    "id": "a_m09_tarea",
-   "title": "Module 9 — Tarea oral",
-   "html": "<p>Record a <strong>self-narrative</strong> in Spanish, about <strong>45&ndash;60 seconds</strong>. Tell the story of an experience in <strong>three parts</strong>: <strong>(1)</strong> a <strong>past experience</strong> &mdash; something you did, using the <strong>preterite</strong> (e.g. a trip, a weekend, a celebration); <strong>(2)</strong> a <strong>description</strong> &mdash; say what the place or the experience was/is like (ser/estar + adjective); and <strong>(3)</strong> a <strong>future plan</strong> &mdash; what you are going to do next, using <strong>ir a + infinitive</strong>. Speak in complete sentences and connect your ideas.&rdquo;</em> Provide the worked model in the lesson &mdash; Sof&iacute;a's story from Lesson 9.04 (<span class=\"clip\">passage/s2m9-experiencia.mp3</span>) is the template: a description, a past trip in the preterite, and a plan with <em>voy a</em>.</p><p>Use Canvas&rsquo;s <strong>Record/Upload Media</strong> button to record your answer. You may re-record before you submit.</p>",
+   "title": "Module 9: Tarea oral",
+   "html": "<p>Record a <strong>self-narrative</strong> in Spanish, about <strong>45&ndash;60 seconds</strong>. Tell the story of an experience in <strong>three parts</strong>: <strong>(1)</strong> a <strong>past experience</strong>: something you did, using the <strong>preterite</strong> (e.g. a trip, a weekend, a celebration); <strong>(2)</strong> a <strong>description</strong>: say what the place or the experience was/is like (ser/estar + adjective); and <strong>(3)</strong> a <strong>future plan</strong>: what you are going to do next, using <strong>ir a + infinitive</strong>. Speak in complete sentences and connect your ideas.&rdquo;</em> For a model, listen again to Sof&iacute;a&rsquo;s story in this module&rsquo;s reading: a description, a past trip in the preterite, and a plan with <em>voy a</em>.</p><p>Use Canvas&rsquo;s <strong>Record/Upload Media</strong> button to record your answer. You may re-record before you submit.</p>",
    "points": 15,
    "group": "ag_tarea",
    "rubric": "r_m09_tarea",
@@ -1332,7 +1332,7 @@
  "quizzes": [
   {
    "id": "q_m01_intro",
-   "title": "Module 1 — Intro survey",
+   "title": "Module 1: Intro survey",
    "description": "Ungraded warm-up: set your goals and take a first pass at the module's essential question.",
    "quiz_type": "survey",
    "published": true,
@@ -1377,7 +1377,7 @@
   },
   {
    "id": "q_m01_outro",
-   "title": "Module 1 — Outro reflection",
+   "title": "Module 1: Outro reflection",
    "description": "Ungraded reflection: revisit the essential question and flag anything still unclear.",
    "quiz_type": "survey",
    "published": true,
@@ -1422,7 +1422,7 @@
   },
   {
    "id": "q_m01_vocab",
-   "title": "Module 1 — Vocabulary Check",
+   "title": "Module 1: Vocabulary Check",
    "description": "<p>Listening-first vocabulary check on M1 weather, seasons, and plans vocabulary.</p>",
    "quiz_type": "assignment",
    "group": "ag_vocab",
@@ -1884,7 +1884,7 @@
   },
   {
    "id": "q_m01_lengua",
-   "title": "Module 1 — Lengua en acción",
+   "title": "Module 1: Lengua en acción",
    "description": "<p>Structured production quiz on ir a + infinitive and near-future weather/season sentences.</p>",
    "quiz_type": "assignment",
    "group": "ag_lengua",
@@ -2164,7 +2164,7 @@
   },
   {
    "id": "q_m01_grammar",
-   "title": "Module 1 — Grammar Quiz",
+   "title": "Module 1: Grammar Quiz",
    "description": "<p>Auto-graded grammar quiz on ir a + infinitive with a listening comprehension section.</p>",
    "quiz_type": "assignment",
    "group": "ag_grammar",
@@ -2580,7 +2580,7 @@
   },
   {
    "id": "q_m02_intro",
-   "title": "Module 2 — Intro survey",
+   "title": "Module 2: Intro survey",
    "description": "Ungraded warm-up: set your goals and take a first pass at the module's essential question.",
    "quiz_type": "survey",
    "published": true,
@@ -2625,7 +2625,7 @@
   },
   {
    "id": "q_m02_outro",
-   "title": "Module 2 — Outro reflection",
+   "title": "Module 2: Outro reflection",
    "description": "Ungraded reflection: revisit the essential question and flag anything still unclear.",
    "quiz_type": "survey",
    "published": true,
@@ -2670,7 +2670,7 @@
   },
   {
    "id": "q_m02_vocab",
-   "title": "Module 2 — Vocabulary Check",
+   "title": "Module 2: Vocabulary Check",
    "description": "<p>Listening-first vocabulary check on M2 home and chores words, with English-to-Spanish and contextual fill-in items.</p>",
    "quiz_type": "assignment",
    "group": "ag_vocab",
@@ -3148,7 +3148,7 @@
   },
   {
    "id": "q_m02_lengua",
-   "title": "Module 2 — Lengua en acción",
+   "title": "Module 2: Lengua en acción",
    "description": "<p>Structured production on present-tense stem-changing verbs, including form choice, sentence ordering, and a cloze passage.</p>",
    "quiz_type": "assignment",
    "group": "ag_lengua",
@@ -3400,7 +3400,7 @@
   },
   {
    "id": "q_m02_grammar",
-   "title": "Module 2 — Grammar Quiz",
+   "title": "Module 2: Grammar Quiz",
    "description": "<p>Auto-graded quiz on stem-changing verbs with a listening section plus form-choice and typed-form items.</p>",
    "quiz_type": "assignment",
    "group": "ag_grammar",
@@ -3784,7 +3784,7 @@
   },
   {
    "id": "q_m03_intro",
-   "title": "Module 3 — Intro survey",
+   "title": "Module 3: Intro survey",
    "description": "Ungraded warm-up: set your goals and take a first pass at the module's essential question.",
    "quiz_type": "survey",
    "published": true,
@@ -3829,7 +3829,7 @@
   },
   {
    "id": "q_m03_outro",
-   "title": "Module 3 — Outro reflection",
+   "title": "Module 3: Outro reflection",
    "description": "Ungraded reflection: revisit the essential question and flag anything still unclear.",
    "quiz_type": "survey",
    "published": true,
@@ -3874,7 +3874,7 @@
   },
   {
    "id": "q_m03_vocab",
-   "title": "Module 3 — Vocabulary Check",
+   "title": "Module 3: Vocabulary Check",
    "description": "<p>Auto-graded listening and vocabulary quiz on M3 city and directions words.</p>",
    "quiz_type": "assignment",
    "group": "ag_vocab",
@@ -4328,7 +4328,7 @@
   },
   {
    "id": "q_m03_lengua",
-   "title": "Module 3 — Lengua en acción",
+   "title": "Module 3: Lengua en acción",
    "description": "<p>Auto-graded structured production quiz on the irregular-yo verb pattern.</p>",
    "quiz_type": "assignment",
    "group": "ag_lengua",
@@ -4588,7 +4588,7 @@
   },
   {
    "id": "q_m03_grammar",
-   "title": "Module 3 — Grammar Quiz",
+   "title": "Module 3: Grammar Quiz",
    "description": "<p>Auto-graded quiz on the seven irregular-yo verbs, including listening items.</p>",
    "quiz_type": "assignment",
    "group": "ag_grammar",
@@ -4972,7 +4972,7 @@
   },
   {
    "id": "q_m04_intro",
-   "title": "Module 4 — Intro survey",
+   "title": "Module 4: Intro survey",
    "description": "Ungraded warm-up: set your goals and take a first pass at the module's essential question.",
    "quiz_type": "survey",
    "published": true,
@@ -5017,7 +5017,7 @@
   },
   {
    "id": "q_m04_outro",
-   "title": "Module 4 — Outro reflection",
+   "title": "Module 4: Outro reflection",
    "description": "Ungraded reflection: revisit the essential question and flag anything still unclear.",
    "quiz_type": "survey",
    "published": true,
@@ -5062,7 +5062,7 @@
   },
   {
    "id": "q_m04_vocab",
-   "title": "Module 4 — Vocabulary Check",
+   "title": "Module 4: Vocabulary Check",
    "description": "<p>Ear-first vocabulary check on M4 daily-routine words with dictation and contextual fill-in.</p>",
    "quiz_type": "assignment",
    "group": "ag_vocab",
@@ -5484,7 +5484,7 @@
   },
   {
    "id": "q_m04_lengua",
-   "title": "Module 4 — Lengua en acción",
+   "title": "Module 4: Lengua en acción",
    "description": "<p>Structured production of reflexive verbs including stem-changing forms and routine ordering.</p>",
    "quiz_type": "assignment",
    "group": "ag_lengua",
@@ -5744,7 +5744,7 @@
   },
   {
    "id": "q_m04_grammar",
-   "title": "Module 4 — Grammar Quiz",
+   "title": "Module 4: Grammar Quiz",
    "description": "<p>Reflexive verbs in listening and written contexts including stem-changing forms and the nosotros non-jump.</p>",
    "quiz_type": "assignment",
    "group": "ag_grammar",
@@ -6128,7 +6128,7 @@
   },
   {
    "id": "q_m05_intro",
-   "title": "Module 5 — Intro survey",
+   "title": "Module 5: Intro survey",
    "description": "Ungraded warm-up: set your goals and take a first pass at the module's essential question.",
    "quiz_type": "survey",
    "published": true,
@@ -6173,7 +6173,7 @@
   },
   {
    "id": "q_m05_outro",
-   "title": "Module 5 — Outro reflection",
+   "title": "Module 5: Outro reflection",
    "description": "Ungraded reflection: revisit the essential question and flag anything still unclear.",
    "quiz_type": "survey",
    "published": true,
@@ -6218,7 +6218,7 @@
   },
   {
    "id": "q_m05_vocab",
-   "title": "Module 5 — Vocabulary Check",
+   "title": "Module 5: Vocabulary Check",
    "description": "<p>Listening-first vocabulary check on M5 food and store words, plus English-to-Spanish and contextual fill-in.</p>",
    "quiz_type": "assignment",
    "group": "ag_vocab",
@@ -6676,7 +6676,7 @@
   },
   {
    "id": "q_m05_lengua",
-   "title": "Module 5 — Lengua en acción",
+   "title": "Module 5: Lengua en acción",
    "description": "<p>Structured production on saber vs conocer and direct-object pronouns, ending with a cloze passage.</p>",
    "quiz_type": "assignment",
    "group": "ag_lengua",
@@ -7004,7 +7004,7 @@
   },
   {
    "id": "q_m05_grammar",
-   "title": "Module 5 — Grammar Quiz",
+   "title": "Module 5: Grammar Quiz",
    "description": "<p>Grammar quiz on saber vs conocer and direct-object pronouns, with a listening section and typed forms.</p>",
    "quiz_type": "assignment",
    "group": "ag_grammar",
@@ -7392,7 +7392,7 @@
   },
   {
    "id": "q_m06_intro",
-   "title": "Module 6 — Intro survey",
+   "title": "Module 6: Intro survey",
    "description": "Ungraded warm-up: set your goals and take a first pass at the module's essential question.",
    "quiz_type": "survey",
    "published": true,
@@ -7437,7 +7437,7 @@
   },
   {
    "id": "q_m06_outro",
-   "title": "Module 6 — Outro reflection",
+   "title": "Module 6: Outro reflection",
    "description": "Ungraded reflection: revisit the essential question and flag anything still unclear.",
    "quiz_type": "survey",
    "published": true,
@@ -7482,7 +7482,7 @@
   },
   {
    "id": "q_m06_vocab",
-   "title": "Module 6 — Vocabulary Check",
+   "title": "Module 6: Vocabulary Check",
    "description": "<p>Listening-first M6 preterite vocabulary check: audio meaning, dictation, discrimination, and print fill-in.</p>",
    "quiz_type": "assignment",
    "group": "ag_vocab",
@@ -7908,7 +7908,7 @@
   },
   {
    "id": "q_m06_lengua",
-   "title": "Module 6 — Lengua en acción",
+   "title": "Module 6: Lengua en acción",
    "description": "<p>Structured preterite production: choose the form, order sentences, and complete a cloze passage.</p>",
    "quiz_type": "assignment",
    "group": "ag_lengua",
@@ -8184,7 +8184,7 @@
   },
   {
    "id": "q_m06_grammar",
-   "title": "Module 6 — Grammar Quiz",
+   "title": "Module 6: Grammar Quiz",
    "description": "<p>Grammar quiz on the regular preterite: listening in context, preterite vs. present, and typed forms.</p>",
    "quiz_type": "assignment",
    "group": "ag_grammar",
@@ -8580,7 +8580,7 @@
   },
   {
    "id": "q_m07_intro",
-   "title": "Module 7 — Intro survey",
+   "title": "Module 7: Intro survey",
    "description": "Ungraded warm-up: set your goals and take a first pass at the module's essential question.",
    "quiz_type": "survey",
    "published": true,
@@ -8625,7 +8625,7 @@
   },
   {
    "id": "q_m07_outro",
-   "title": "Module 7 — Outro reflection",
+   "title": "Module 7: Outro reflection",
    "description": "Ungraded reflection: revisit the essential question and flag anything still unclear.",
    "quiz_type": "survey",
    "published": true,
@@ -8670,7 +8670,7 @@
   },
   {
    "id": "q_m07_vocab",
-   "title": "Module 7 — Vocabulary Check",
+   "title": "Module 7: Vocabulary Check",
    "description": "<p>Listening-first vocabulary check on M7 travel words, with dictation, discrimination, and contextual fill-in.</p>",
    "quiz_type": "assignment",
    "group": "ag_vocab",
@@ -9132,7 +9132,7 @@
   },
   {
    "id": "q_m07_lengua",
-   "title": "Module 7 — Lengua en acción",
+   "title": "Module 7: Lengua en acción",
    "description": "<p>Structured production of the irregular preterite through form choice, sentence ordering, and a cloze passage.</p>",
    "quiz_type": "assignment",
    "group": "ag_lengua",
@@ -9400,7 +9400,7 @@
   },
   {
    "id": "q_m07_grammar",
-   "title": "Module 7 — Grammar Quiz",
+   "title": "Module 7: Grammar Quiz",
    "description": "<p>Irregular preterite assessed through listening comprehension, form choice, and typed production.</p>",
    "quiz_type": "assignment",
    "group": "ag_grammar",
@@ -9784,7 +9784,7 @@
   },
   {
    "id": "q_m08_intro",
-   "title": "Module 8 — Intro survey",
+   "title": "Module 8: Intro survey",
    "description": "Ungraded warm-up: set your goals and take a first pass at the module's essential question.",
    "quiz_type": "survey",
    "published": true,
@@ -9829,7 +9829,7 @@
   },
   {
    "id": "q_m08_outro",
-   "title": "Module 8 — Outro reflection",
+   "title": "Module 8: Outro reflection",
    "description": "Ungraded reflection: revisit the essential question and flag anything still unclear.",
    "quiz_type": "survey",
    "published": true,
@@ -9874,7 +9874,7 @@
   },
   {
    "id": "q_m08_vocab",
-   "title": "Module 8 — Vocabulary Check",
+   "title": "Module 8: Vocabulary Check",
    "description": "<p>Auto-graded M8 vocabulary quiz on music and celebration words, mostly ear-first listening.</p>",
    "quiz_type": "assignment",
    "group": "ag_vocab",
@@ -10328,7 +10328,7 @@
   },
   {
    "id": "q_m08_lengua",
-   "title": "Module 8 — Lengua en acción",
+   "title": "Module 8: Lengua en acción",
    "description": "<p>Auto-graded structured production quiz on present progressive and comparatives.</p>",
    "quiz_type": "assignment",
    "group": "ag_lengua",
@@ -10633,7 +10633,7 @@
   },
   {
    "id": "q_m08_grammar",
-   "title": "Module 8 — Grammar Quiz",
+   "title": "Module 8: Grammar Quiz",
    "description": "<p>Auto-graded quiz on present progressive and comparatives with listening comprehension.</p>",
    "quiz_type": "assignment",
    "group": "ag_grammar",
@@ -11001,7 +11001,7 @@
   },
   {
    "id": "q_m09_intro",
-   "title": "Module 9 — Intro survey",
+   "title": "Module 9: Intro survey",
    "description": "Ungraded warm-up: set your goals and take a first pass at the module's essential question.",
    "quiz_type": "survey",
    "published": true,
@@ -11046,7 +11046,7 @@
   },
   {
    "id": "q_m09_outro",
-   "title": "Module 9 — Outro reflection",
+   "title": "Module 9: Outro reflection",
    "description": "Ungraded reflection: revisit the essential question and flag anything still unclear.",
    "quiz_type": "survey",
    "published": true,
@@ -11091,7 +11091,7 @@
   },
   {
    "id": "q_m09_vocab",
-   "title": "Module 9 — Vocabulary Check",
+   "title": "Module 9: Vocabulary Check",
    "description": "<p>Cumulative travel and experience vocabulary check with listening, dictation, a listening passage, and print fill-in items.</p>",
    "quiz_type": "assignment",
    "group": "ag_vocab",
@@ -11559,7 +11559,7 @@
   },
   {
    "id": "q_m09_lengua",
-   "title": "Module 9 — Lengua en acción",
+   "title": "Module 9: Lengua en acción",
    "description": "<p>Cumulative structured production choosing among present, preterite, ir a, and description across all four narration tools.</p>",
    "quiz_type": "assignment",
    "group": "ag_lengua",
@@ -11847,7 +11847,7 @@
   },
   {
    "id": "q_m09_grammar",
-   "title": "Module 9 — Grammar Quiz",
+   "title": "Module 9: Grammar Quiz",
    "description": "<p>Cumulative grammar quiz on the four narration tools, including by-ear timeframe sorting and typed verb forms.</p>",
    "quiz_type": "assignment",
    "group": "ag_grammar",
@@ -12921,7 +12921,7 @@
   },
   {
    "id": "mod_m01",
-   "title": "Module 1 — El tiempo y los planes",
+   "title": "Module 1: El tiempo y los planes",
    "items": [
     {
      "type": "quiz",
@@ -13033,7 +13033,7 @@
   },
   {
    "id": "mod_m02",
-   "title": "Module 2 — La casa",
+   "title": "Module 2: La casa",
    "items": [
     {
      "type": "quiz",
@@ -13145,7 +13145,7 @@
   },
   {
    "id": "mod_m03",
-   "title": "Module 3 — La ciudad",
+   "title": "Module 3: La ciudad",
    "items": [
     {
      "type": "quiz",
@@ -13257,7 +13257,7 @@
   },
   {
    "id": "mod_m04",
-   "title": "Module 4 — La rutina diaria",
+   "title": "Module 4: La rutina diaria",
    "items": [
     {
      "type": "quiz",
@@ -13369,7 +13369,7 @@
   },
   {
    "id": "mod_m05",
-   "title": "Module 5 — La comida",
+   "title": "Module 5: La comida",
    "items": [
     {
      "type": "quiz",
@@ -13481,7 +13481,7 @@
   },
   {
    "id": "mod_m06",
-   "title": "Module 6 — ¿Qué hiciste?",
+   "title": "Module 6: ¿Qué hiciste?",
    "items": [
     {
      "type": "quiz",
@@ -13593,7 +13593,7 @@
   },
   {
    "id": "mod_m07",
-   "title": "Module 7 — De viaje",
+   "title": "Module 7: De viaje",
    "items": [
     {
      "type": "quiz",
@@ -13705,7 +13705,7 @@
   },
   {
    "id": "mod_m08",
-   "title": "Module 8 — La música y las fiestas",
+   "title": "Module 8: La música y las fiestas",
    "items": [
     {
      "type": "quiz",
@@ -13817,7 +13817,7 @@
   },
   {
    "id": "mod_m09",
-   "title": "Module 9 — Mi experiencia · capstone",
+   "title": "Module 9: Mi experiencia · capstone",
    "items": [
     {
      "type": "quiz",
