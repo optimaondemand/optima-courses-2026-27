@@ -1,18 +1,18 @@
 {
  "id": "1001040-m2-sparkle",
- "label": "Module 2 · The Call of the Wild · Sparkle",
+ "label": "The Call of the Wild · Sparkle",
  "code": "1001040",
  "title": "M/J Language Arts 2 · The Call of the Wild (Sparkle)",
  "file": "cartridges/1001040-m2-sparkle.imscc",
- "bytes": 128784,
- "version": "2026.10.27",
- "built": "2026-10-27T06:46:13",
+ "bytes": 128879,
+ "version": "2026.11.12",
+ "built": "2026-11-12T07:20:15",
  "front_page": "wiki_content/course-home.html",
  "items": 36,
  "modules": [
   {
    "id": "cw_m_w1",
-   "title": "Module 2 · Week 1: Chapter I, Into the Primitive",
+   "title": "The Call of the Wild · Week 1: Chapter I, Into the Primitive",
    "gid": "g8fcd10f548e70ba43ee56f4e824cca4d",
    "published": true,
    "items": 6,
@@ -20,7 +20,7 @@
   },
   {
    "id": "cw_m_w2",
-   "title": "Module 2 · Week 2: Chapter II, The Law of Club and Fang",
+   "title": "The Call of the Wild · Week 2: Chapter II, The Law of Club and Fang",
    "gid": "g96b78996598d23f2be2b93b334d4d5e7",
    "published": true,
    "items": 6,
@@ -28,7 +28,7 @@
   },
   {
    "id": "cw_m_w3",
-   "title": "Module 2 · Week 3: Chapter III, The Dominant Primordial Beast",
+   "title": "The Call of the Wild · Week 3: Chapter III, The Dominant Primordial Beast",
    "gid": "g9c03952dc3a187b31f4566087dcebd62",
    "published": true,
    "items": 6,
@@ -36,7 +36,7 @@
   },
   {
    "id": "cw_m_w4",
-   "title": "Module 2 · Week 4: Chapters IV and V, Mastership and the Toil of the Trail",
+   "title": "The Call of the Wild · Week 4: Chapters IV and V, Mastership and the Toil of the Trail",
    "gid": "g60e645e10081328f1e096b400d34b4fb",
    "published": true,
    "items": 6,
@@ -44,7 +44,7 @@
   },
   {
    "id": "cw_m_w5",
-   "title": "Module 2 · Week 5: Chapter VI, For the Love of a Man",
+   "title": "The Call of the Wild · Week 5: Chapter VI, For the Love of a Man",
    "gid": "gd00854abfc0fdb0e6c848af011bbd27f",
    "published": true,
    "items": 6,
@@ -52,7 +52,7 @@
   },
   {
    "id": "cw_m_w6",
-   "title": "Module 2 · Week 6: Chapter VII, The Sounding of the Call",
+   "title": "The Call of the Wild · Week 6: Chapter VII, The Sounding of the Call",
    "gid": "geb37ed1b4f535fbe88dfd03c1e9e8546",
    "published": true,
    "items": 6,
@@ -345,6 +345,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "c2d0f218a46f5213e7398ec623ca1b4bc941d63c2ef5a291e2ad89a76a1a8de4",
+ "spec_sha": "8a98baf39c488e56599d7c91e09bd5048415032c74abaac80fd48def96701d05",
  "art_pack": null
 }

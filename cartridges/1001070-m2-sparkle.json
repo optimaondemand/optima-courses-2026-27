@@ -1,18 +1,18 @@
 {
  "id": "1001070-m2-sparkle",
- "label": "Module 2 · Out of the Silent Planet · Sparkle",
+ "label": "Out of the Silent Planet · Sparkle",
  "code": "1001070",
  "title": "M/J Language Arts 3 · Out of the Silent Planet (Sparkle)",
  "file": "cartridges/1001070-m2-sparkle.imscc",
- "bytes": 69787,
- "version": "2026.11.05",
- "built": "2026-11-05T16:26:27",
+ "bytes": 69806,
+ "version": "2026.11.12",
+ "built": "2026-11-12T07:20:22",
  "front_page": "wiki_content/course-home.html",
  "items": 32,
  "modules": [
   {
    "id": "os_m_w1",
-   "title": "Module 2 · Week 1: Science Fiction and the Art of World-Building",
+   "title": "Out of the Silent Planet · Week 1: Science Fiction and the Art of World-Building",
    "gid": "g47d48845bef404e3f80b3b5ea52f2184",
    "published": true,
    "items": 4,
@@ -20,7 +20,7 @@
   },
   {
    "id": "os_m_w2",
-   "title": "Module 2 · Week 2: Tone, Mood, and Imitating a Master",
+   "title": "Out of the Silent Planet · Week 2: Tone, Mood, and Imitating a Master",
    "gid": "g58ee0168f3bf48862a60b0b562b736c7",
    "published": true,
    "items": 5,
@@ -28,7 +28,7 @@
   },
   {
    "id": "os_m_w3",
-   "title": "Module 2 · Week 3: Word Choice, Connotation, and Point of View",
+   "title": "Out of the Silent Planet · Week 3: Word Choice, Connotation, and Point of View",
    "gid": "g17d1581d6c5516900195dbb2d7475868",
    "published": true,
    "items": 5,
@@ -36,7 +36,7 @@
   },
   {
    "id": "os_m_w4",
-   "title": "Module 2 · Week 4: Compare and Contrast; Drafting the Story",
+   "title": "Out of the Silent Planet · Week 4: Compare and Contrast; Drafting the Story",
    "gid": "g2a89de9bfa9afbc54821935594d9eefa",
    "published": true,
    "items": 5,
@@ -44,7 +44,7 @@
   },
   {
    "id": "os_m_w5",
-   "title": "Module 2 · Week 5: Sound, Judgment, and Building the Scene",
+   "title": "Out of the Silent Planet · Week 5: Sound, Judgment, and Building the Scene",
    "gid": "g9b633d60e40d7263c816cd759fc04bc3",
    "published": true,
    "items": 4,
@@ -52,7 +52,7 @@
   },
   {
    "id": "os_m_w6",
-   "title": "Module 2 · Week 6: Final Project Week: Build Your First-Contact Story",
+   "title": "Out of the Silent Planet · Week 6: Final Project Week: Build Your First-Contact Story",
    "gid": "geea17b44e03e4ceec709af58b1a6319f",
    "published": true,
    "items": 9,
@@ -698,6 +698,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "55003ea5c039794e1124aa572122ec2ae4c5fcf8f5f567e4b7688e60e83543be",
+ "spec_sha": "b88353cd69dcf5c91587cbfbc5922fa0fe9bbbd959531c7e29bb1b85205191e0",
  "art_pack": null
 }

@@ -45,8 +45,12 @@ visible under both.
 **One module, or an alternate edition.** A kit can hold a single module,
 `<code>-m3`, and an alternate build of content that already ships can carry the
 `-sparkle` edition suffix, e.g. `<code>-m3-sparkle`: the integrated-week redesign of
-Module 3, offered as its own tile beside the semester kit that holds the original.
-Say what it is in the kit `label` ("Module 3 · King Arthur · Sparkle").
+Module 3, listed in the widget beside the original module it is an alternate for.
+Teachers mix and order modules freely, so student-facing titles and text in a
+one-module kit carry **no module number**: module titles read "King Arthur · Week 1",
+never "Module 3 · Week 1". The number lives in `course.json` only, as planning labels
+the widget shows teachers: `"label": "King Arthur · Sparkle"`, `"unit": "King Arthur"`,
+`"replaces": "Module 3"` (the module of the semester kit this one stands in for).
 
 Put your GitHub username in `owner`. `make_catalog.py` writes it into
 `.github/CODEOWNERS`, so pull requests touching your folder request your review.

@@ -11,11 +11,15 @@
   },
   {
    "id": "1001010-m3-sparkle",
-   "label": "Module 3 · King Arthur · Sparkle"
+   "label": "King Arthur · Sparkle",
+   "unit": "King Arthur",
+   "replaces": "Module 3"
   },
   {
    "id": "1001010-m4-sparkle",
-   "label": "Module 4 · Robin Hood · Sparkle"
+   "label": "Robin Hood · Sparkle",
+   "unit": "Robin Hood",
+   "replaces": "Module 4"
   },
   {
    "id": "1001010-s2",
@@ -23,7 +27,9 @@
   },
   {
    "id": "1001010-m5-sparkle",
-   "label": "Module 5 · The Bronze Bow · Sparkle"
+   "label": "The Bronze Bow · Sparkle",
+   "unit": "The Bronze Bow",
+   "replaces": "Module 5"
   }
  ]
 }

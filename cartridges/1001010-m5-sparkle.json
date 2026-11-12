@@ -1,18 +1,18 @@
 {
  "id": "1001010-m5-sparkle",
- "label": "Module 5 · The Bronze Bow · Sparkle",
+ "label": "The Bronze Bow · Sparkle",
  "code": "1001010",
  "title": "M/J Language Arts 1 · The Bronze Bow (Sparkle)",
  "file": "cartridges/1001010-m5-sparkle.imscc",
- "bytes": 102176,
- "version": "2026.11.09",
- "built": "2026-11-09T11:32:37",
+ "bytes": 102185,
+ "version": "2026.11.12",
+ "built": "2026-11-12T07:20:08",
  "front_page": "wiki_content/course-home.html",
  "items": 29,
  "modules": [
   {
    "id": "bb_m_w1",
-   "title": "Module 5 · Week 1: The Mountain and the Vow",
+   "title": "The Bronze Bow · Week 1: The Mountain and the Vow",
    "gid": "ge8040702a6a7ae89bddac70bf82a2bc9",
    "published": true,
    "items": 5,
@@ -20,7 +20,7 @@
   },
   {
    "id": "bb_m_w2",
-   "title": "Module 5 · Week 2: Two Voices",
+   "title": "The Bronze Bow · Week 2: Two Voices",
    "gid": "g74eb511422f4b0fea2db21cd34d14f87",
    "published": true,
    "items": 6,
@@ -28,7 +28,7 @@
   },
   {
    "id": "bb_m_w3",
-   "title": "Module 5 · Week 3: The Turning and the Cost",
+   "title": "The Bronze Bow · Week 3: The Turning and the Cost",
    "gid": "gebb9ab8a984c122c5e4394fcbab96e64",
    "published": true,
    "items": 6,
@@ -36,7 +36,7 @@
   },
   {
    "id": "bb_m_w4",
-   "title": "Module 5 · Week 4: The Shut Door and the Open Door",
+   "title": "The Bronze Bow · Week 4: The Shut Door and the Open Door",
    "gid": "g5d8f6c5c443c1214d17826ff92066128",
    "published": true,
    "items": 6,
@@ -44,7 +44,7 @@
   },
   {
    "id": "bb_m_w5",
-   "title": "Module 5 · Week 5: The Power of Choice: Daniel's Journey",
+   "title": "The Bronze Bow · Week 5: The Power of Choice: Daniel's Journey",
    "gid": "g1a1251b152059559987624f8c5ccabc7",
    "published": true,
    "items": 6,
@@ -643,6 +643,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "7224fd88a731ee6cf04058e63fb0ca06889c405495b08f619d81be2717ba2025",
+ "spec_sha": "083d891558f3a844e87585ceeb6bce71f0a89ffea78e9d049cea31bc6f613110",
  "art_pack": null
 }

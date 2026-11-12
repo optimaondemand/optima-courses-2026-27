@@ -103,6 +103,15 @@ def build():
                 problems.append('courses/%s: kit %s id says %s but mode says %s' % (folder, kid, m.group('mode'), mode))
             if mode:
                 entry['mode'] = mode
+            # Optional planning labels for the widget's module list. `unit` names the topic a
+            # one-module kit covers ("King Arthur"); `replaces` names the module of the
+            # semester kit it is an alternate for ("Module 3"). Shown to teachers only;
+            # neither is written into a cartridge. `edition` comes from the id suffix.
+            for f in ('unit', 'replaces'):
+                if kit.get(f):
+                    entry[f] = str(kit[f])
+            if m and m.group('edition'):
+                entry['edition'] = m.group('edition')
             if kit.get('canvas_course_id') is not None:
                 entry['canvas_course_id'] = kit['canvas_course_id']
             s = sidecars.get(kid)

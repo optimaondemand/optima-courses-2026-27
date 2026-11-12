@@ -1,18 +1,18 @@
 {
  "id": "1001010-m3-sparkle",
- "label": "Module 3 · King Arthur · Sparkle",
+ "label": "King Arthur · Sparkle",
  "code": "1001010",
  "title": "M/J Language Arts 1 · King Arthur (Sparkle)",
  "file": "cartridges/1001010-m3-sparkle.imscc",
- "bytes": 120842,
- "version": "2026.10.29",
- "built": "2026-10-29T06:50:59",
+ "bytes": 120893,
+ "version": "2026.11.12",
+ "built": "2026-11-12T07:19:42",
  "front_page": "wiki_content/course-home.html",
  "items": 41,
  "modules": [
   {
    "id": "ks_m_w1",
-   "title": "Module 3 · Week 1: The Two Swords",
+   "title": "King Arthur · Week 1: The Two Swords",
    "gid": "gf3991c6c27bd749c4cec1db00eda80e5",
    "published": true,
    "items": 7,
@@ -20,7 +20,7 @@
   },
   {
    "id": "ks_m_w2",
-   "title": "Module 3 · Week 2: Sir Gawain and the Green Knight",
+   "title": "King Arthur · Week 2: Sir Gawain and the Green Knight",
    "gid": "g8373093204e7020fcc6bd503d64d9ada",
    "published": true,
    "items": 6,
@@ -28,7 +28,7 @@
   },
   {
    "id": "ks_m_w3",
-   "title": "Module 3 · Week 3: Sir Gareth, or the Knight of the Kitchen",
+   "title": "King Arthur · Week 3: Sir Gareth, or the Knight of the Kitchen",
    "gid": "g4aca884976a37749865dc015c9e41c7c",
    "published": true,
    "items": 8,
@@ -36,7 +36,7 @@
   },
   {
    "id": "ks_m_w4",
-   "title": "Module 3 · Week 4: The Quest of the Holy Grail",
+   "title": "King Arthur · Week 4: The Quest of the Holy Grail",
    "gid": "gac4279e62c4feb88539a9377f26ecff9",
    "published": true,
    "items": 6,
@@ -44,7 +44,7 @@
   },
   {
    "id": "ks_m_w5",
-   "title": "Module 3 · Week 5: The Departing of Arthur",
+   "title": "King Arthur · Week 5: The Departing of Arthur",
    "gid": "g8acb59f1933890f2ce70c2e2b7d8aa25",
    "published": true,
    "items": 7,
@@ -52,7 +52,7 @@
   },
   {
    "id": "ks_m_w6",
-   "title": "Module 3 · Week 6: What Makes a Good Knight?",
+   "title": "King Arthur · Week 6: What Makes a Good Knight?",
    "gid": "g7ff89a8331ceb1e5d2e36a193adbec9a",
    "published": true,
    "items": 7,
@@ -248,7 +248,7 @@
   {
    "id": "ks_a_journal",
    "type": "assignment",
-   "title": "Reading Journal Setup (your Module 3 home base)",
+   "title": "Reading Journal Setup (your King Arthur home base)",
    "gid": "g135e0e4b1010b853c6882d0f50728776",
    "xml": "g135e0e4b1010b853c6882d0f50728776/assignment_settings.xml",
    "module": "ks_m_w1",
@@ -437,6 +437,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "c038a50be38cd4bc58f099a94871975375edfac6f505690e1c69bcfcd2f1ae60",
+ "spec_sha": "d2a3cc0ea7dbeb255512667a5d60e7a8d9a6ee99f21da05a68399cd154a3618e",
  "art_pack": null
 }

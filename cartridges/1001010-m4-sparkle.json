@@ -1,18 +1,18 @@
 {
  "id": "1001010-m4-sparkle",
- "label": "Module 4 · Robin Hood · Sparkle",
+ "label": "Robin Hood · Sparkle",
  "code": "1001010",
  "title": "M/J Language Arts 1 · Robin Hood (Sparkle)",
  "file": "cartridges/1001010-m4-sparkle.imscc",
- "bytes": 141137,
- "version": "2026.10.28",
- "built": "2026-10-28T21:48:11",
+ "bytes": 141157,
+ "version": "2026.11.12",
+ "built": "2026-11-12T07:20:01",
  "front_page": "wiki_content/course-home.html",
  "items": 52,
  "modules": [
   {
    "id": "rs_m_w1",
-   "title": "Module 4: Robin Hood · Week 1",
+   "title": "Robin Hood · Week 1",
    "gid": "g69317fe358628048679ff83ac3b47529",
    "published": true,
    "items": 6,
@@ -20,7 +20,7 @@
   },
   {
    "id": "rs_m_w2",
-   "title": "Module 4: Robin Hood · Week 2",
+   "title": "Robin Hood · Week 2",
    "gid": "g8aa41ea242171e2b7d08dd9c03f1e231",
    "published": true,
    "items": 7,
@@ -28,7 +28,7 @@
   },
   {
    "id": "rs_m_w3",
-   "title": "Module 4: Robin Hood · Week 3",
+   "title": "Robin Hood · Week 3",
    "gid": "g6e9b581d102b5216db993befe2f5ee33",
    "published": true,
    "items": 6,
@@ -36,7 +36,7 @@
   },
   {
    "id": "rs_m_w4",
-   "title": "Module 4: Robin Hood · Week 4",
+   "title": "Robin Hood · Week 4",
    "gid": "g616ee9489e89d6f0089ed38feb8802b0",
    "published": true,
    "items": 7,
@@ -44,7 +44,7 @@
   },
   {
    "id": "rs_m_w5",
-   "title": "Module 4: Robin Hood · Week 5",
+   "title": "Robin Hood · Week 5",
    "gid": "gb218d16bd9b962bd387b5073efad6542",
    "published": true,
    "items": 7,
@@ -52,7 +52,7 @@
   },
   {
    "id": "rs_m_w6",
-   "title": "Module 4: Robin Hood · Week 6",
+   "title": "Robin Hood · Week 6",
    "gid": "gbb56fe5550dcfedd02e1610e9cfd0872",
    "published": true,
    "items": 6,
@@ -60,7 +60,7 @@
   },
   {
    "id": "rs_m_w7",
-   "title": "Module 4: Robin Hood · Week 7",
+   "title": "Robin Hood · Week 7",
    "gid": "gedc7a2b18591b423903a6e455f4e4553",
    "published": true,
    "items": 6,
@@ -68,7 +68,7 @@
   },
   {
    "id": "rs_m_w8",
-   "title": "Module 4: Robin Hood · Week 8",
+   "title": "Robin Hood · Week 8",
    "gid": "ga21b896e86b9005b98a2d9d52e0e51c0",
    "published": true,
    "items": 7,
@@ -509,6 +509,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "76a3afaf1cf68edcfb05dfdc07ca53d2d532f5e4168750ab89b6a5981c46a836",
+ "spec_sha": "5b058b9dcdf8775b0f94d8ec5785ecf00a92f3f51b726593992fed9b3ad3913b",
  "art_pack": null
 }
