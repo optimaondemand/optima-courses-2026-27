@@ -72,6 +72,15 @@ def main():
         r = subprocess.run([PY, os.path.join(L.HERE, step)], cwd=L.ROOT)
         if r.returncode:
             sys.exit(r.returncode)
+    # The submission checklist: every criterion for the kits named on the command line (or, with
+    # --all, the ones just rebuilt). It only flags; the gate above is what blocks.
+    try:
+        import checklist
+        for k in (built if argv == ['--all'] else kits):
+            checklist.show(checklist.run(k, online=True))   # online: reads the live lesson pages
+        print('\nFlagged lines are for the builder to clear or to name in the commit message.')
+    except Exception as e:  # noqa: BLE001  (a checklist fault must never stop a build)
+        print('checklist did not run: %s' % e)
     if built:
         print('\nNext: stage ONLY your paths, e.g.')
         code = L.KIT_ID.match(built[0]).group('code')

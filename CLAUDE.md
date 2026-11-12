@@ -27,7 +27,11 @@ the course in Canvas", "deploy", "push to Canvas" or "make it available to teach
    carries the images. Write the art pack to OneDrive (`Claude's Workshop\Art Packs`),
    never into this tree; the maintainer places it on the login-gated SharePoint store
    and the teacher imports both. Caption fields come from the image's own XMP.
-5. `python _build/kit.py <kit>` until the gate prints `0 FAIL`.
+5. `python _build/kit.py <kit>` until the gate prints `0 FAIL`. It then prints the
+   submission checklist for that kit (`_build/checklist.py`, criteria in CONTRIBUTING.md).
+   Report every flagged line to the builder verbatim; fix the ones the build folder can
+   settle, and never clear a flag by deleting content or inventing it. Flags on kits you
+   were not asked to build are not yours to fix.
 6. Optionally `python _build/import_test.py cartridges/<kit>.imscc "ZZ Kit test <kit> (delete me)"`
    and read the migration issues. Delete the scratch course.
 7. Stage explicit paths, commit under the builder's own account, push. Pages rebuilds

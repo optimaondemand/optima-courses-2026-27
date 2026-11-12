@@ -78,6 +78,53 @@ git push
 - Never edit `catalog.json`, `.github/CODEOWNERS` or anything in `cartridges/` by hand.
   They are generated; the gate fails if they drift.
 
+## The submission checklist
+
+`kit.py` ends by printing a checklist for each kit you named: `[x]` met, `[ ]` flagged
+with the item ids that caused it, `[~]` allowed but noted, `[?]` could not be checked. The gate blocks; the checklist flags. Clear each
+flagged line, or say in the commit message why it stands.
+
+```
+python _build/checklist.py 1001040-s2            # one kit, any time, builds nothing
+python _build/checklist.py 1001040-s2 --online   # also requests every lesson embed URL
+python _build/checklist.py --all                 # one line per kit in the store
+```
+
+| Criterion | Flagged when |
+|---|---|
+| Course registered | `course.json` lacks title, grade, subject, owner or the kit's label |
+| Spec names its build folder | the spec has no `source` note |
+| Cartridge built from the current spec | no cartridge, or the spec changed since the build |
+| Cartridge 10 MB or under | the `.imscc` is larger |
+| No more than one front page | two or more pages carry `front_page` |
+| Every item sits in a module | a page, assignment, quiz or discussion is in no module, or a module is empty |
+| Lesson pages carry Mark as done | a published module page has no `completion` |
+| Graded items carry a week | a graded item has no week, so the date step cannot place it |
+| Gradebook groups created | the gradebook has one group or none, or still holds "Imported Assignments". **Groups are the minimum every builder sets.** |
+| Every graded item is in a gradebook group | a graded item names no group |
+| Gradebook weights preset (optional) | never flagged. `[~]` notes that no weights are preset; that is allowed, and the teacher sets them in the Optimizer |
+| Group weights add up to 100 | weighting is on and the weights do not total 100 |
+| Teacher module ships unpublished | a module with "Teacher" in its title is published |
+| Says "teacher" | "facilitator" appears in any title, body, question or rubric |
+| Names weeks, never weekdays | Monday to Friday appears; a weekday inside a problem or a vocabulary item is yours to judge |
+| No placeholders | `[VERIFY]`, `[ARTICLE PLACEHOLDER]`, `[IMAGE: ...]`, `[TBD ...]`, TBD, TODO, lorem ipsum |
+| No `<style>` or `<script>` | either tag sits in item HTML (Canvas strips both) |
+| No live Canvas URL | a link points at `...instructure.com/courses/<n>` instead of a `{{token}}` |
+| Lessons embedded, not linked out | a GitHub Pages link is not the new-tab line under that same lesson's embed |
+| No World Economic Forum sources | weforum.org or the name appears |
+| ELA: no Wikipedia links | an ELA course links to wikipedia.org |
+| Lesson embeds use https | an `<iframe>` source is not https |
+| Standards file present | `courses/<code>/standards.json` does not exist yet |
+| Every lesson embed URL answers | an embed URL does not return 200 |
+| Whole-lesson read-aloud player at the top of every lesson | a lesson page has no `id="optima-read-aloud"` player, or more than the lesson header sits above it. This is the player that reads the whole lesson; voiced clips and ElevenLabs segments do not count. Every lesson page needs it, shared pages such as independent reading and practice pages included |
+| Tabbed lessons open each tab at the top | a lesson with tabs changes tab without `scrollIntoView` on a top anchor, so the student lands at the bottom of the next tab. `window.scrollTo` alone is flagged: it moves only the lesson's frame, not the Canvas page |
+
+The last three read the live lesson pages, so they need the network. `kit.py` always
+runs them; `checklist.py` runs them with `--online`. Push the lesson repo before you
+build the kit, or they read the old pages.
+
+To add a criterion, add one function and one row to `CRITERIA` in `_build/checklist.py`.
+
 ## Changing a kit that teachers already imported
 
 Cartridge identifiers are derived from `course.code + kind + id`, so a rebuilt kit

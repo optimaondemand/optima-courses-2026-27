@@ -13,8 +13,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       - name: Repo gate (registry, specs, cartridges, catalog, fixture)
         run: python _build/check_repo.py
+      # Flags only (never fails the run): the checklist for every kit whose course folder
+      # this push or pull request touched, shown on the run's Summary page.
+      - name: Submission checklist for the kits in this change
+        if: always()
+        env:
+          BASE: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: |
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          python _build/checklist.py --changed "$BASE" | tee -a "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
