@@ -1,0 +1,2462 @@
+{
+ "course": {
+  "title": "M/J Comprehensive Science 1 Q2",
+  "code": "2002040",
+  "default_view": "wiki",
+  "weighted": false,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_q2-assignments",
+   "title": "Q2 Assignments",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_what_is_a_scientist_ai_creation_assignme",
+   "title": "What Is a Scientist? AI Creation Assignment",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "AI Image Detail & Effort",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Image is creative, detailed, and clearly represents what a scientist is or does.",
+       "points": 5.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Reflection & Understanding",
+     "long_description": "",
+     "points": 3.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Reflection connects thoughtfully to the image and shows original insight. Names the independent, dependent, and controlled variables.",
+       "points": 3.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Professionalism & Completion",
+     "long_description": "",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Submission is complete, labeled correctly, and follows all directions with care.",
+       "points": 2.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_rube_goldberg_the_endless_energy_machine",
+   "title": "Rube Goldberg: The Endless Energy Machine",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Machine Design & Function",
+     "long_description": "",
+     "points": 8.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Includes 5+ steps showing realistic energy transfer and motion. Clearly follows the Law of Conservation of Energy.",
+       "points": 8.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Creativity & Engineering",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Uses models, colliders, and chain reactions in a unique and well-planned way.",
+       "points": 6.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "VR Recording & Explanation",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Clear 2D video demonstrates the system in motion. Shows understanding of energy movement.",
+       "points": 4.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Presentation & Effort",
+     "long_description": "",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Scene is neat, complete, and presented with enthusiasm and scientific purpose.",
+       "points": 2.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_science_notebook_assignment_potential_vs",
+   "title": "Science Notebook Assignment: Potential vs. Kinetic Energy",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Two labeled drawings for Potential Energy",
+     "long_description": "",
+     "points": 3.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "",
+       "points": 3.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Two labeled drawings for Kinetic Energy",
+     "long_description": "",
+     "points": 3.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "",
+       "points": 3.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Title and definitions written correctly",
+     "long_description": "",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "",
+       "points": 2.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Neatness and use of color",
+     "long_description": "",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "",
+       "points": 2.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_forces_unleashed_the_science_comic_chall",
+   "title": "Forces Unleashed: The Science Comic Challenge",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Science Accuracy",
+     "long_description": "",
+     "points": 7.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Demonstrates a clear understanding of applied force, gravity, and friction; shows how each affects motion accurately.",
+       "points": 7.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Storyline & Creativity",
+     "long_description": "",
+     "points": 7.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Engaging and original story with one chosen villain; shows problem-solving and teamwork between forces.",
+       "points": 7.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Design & Effort",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Visually appealing comic layout that fits on one page; uses AI tools effectively; strong attention to detail and effort.",
+       "points": 6.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_science_notebook_entry_field_scientist_c",
+   "title": "Science Notebook Entry: Field Scientist Challenge",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Observations",
+     "long_description": "",
+     "points": 3.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Three or more clear, evidence-based observations written in notebook.",
+       "points": 3.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Inferences",
+     "long_description": "",
+     "points": 3.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Two or more logical inferences supported by observations.",
+       "points": 3.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Hypothesis",
+     "long_description": "",
+     "points": 3.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "One complete and reasonable hypothesis using correct format.",
+       "points": 3.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Submission",
+     "long_description": "",
+     "points": 1.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "CLEAR photo uploaded to Canvas.",
+       "points": 1.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_the_science_trainer_challenge_mastering_",
+   "title": "The Science Trainer Challenge: Mastering the Method",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Scientific Accuracy",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Each of the six steps of the scientific method is clearly represented and correctly explained.",
+       "points": 10.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "VR Design & Creativity",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Cards are detailed, colorful, and thoughtfully designed with creativity and precision.",
+       "points": 10.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Video Walkthrough",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Clear and confident explanation of the steps in your own words; video shows effort and understanding.",
+       "points": 10.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_speed_racers_the_graphing_grand_prix",
+   "title": "Speed Racers: The Graphing Grand Prix",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Accurate Calculations",
+     "long_description": "",
+     "points": 8.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Correct use of Speed = Distance ÷ Time for each motion type",
+       "points": 8.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Understanding of Motion",
+     "long_description": "",
+     "points": 8.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Results correctly match graph line types (constant, stopped, faster, slower, returning)",
+       "points": 8.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Neatness & Effort",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Work is organized, labeled, and photos are clear",
+       "points": 4.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_engineered_for_stability_the_skyscraper_",
+   "title": "Engineered for Stability: The Skyscraper Challenge",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of Forces (Paragraph)",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Student submits a clear 3–5 sentence explanation describing gravity, wind, and support forces and how these forces affected their skyscraper. Shows accurate understanding of SC.6.P.13.1. (If there is no text box, leave your paragraph as a comment.)",
+       "points": 10.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "VR Design & Engineering (Photo)",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Skyscraper is stable, reinforced, thoughtfully designed, and clearly shown in the submitted image. Structure meets height expectations (6–8 floors) and demonstrates engineering principles.",
+       "points": 10.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_science_fair_mini_experiments_final_vide",
+   "title": "Science Fair Mini-Experiments: Final Video Presentation",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Scientific Explanation & Accuracy",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Clearly explains the scientific question, hypothesis, variables, and results using correct terminology. Demonstrates a strong understanding of the experiment and the science behind it.",
+       "points": 10.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Completion of Video Checklist",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Includes every required part from the Video Checklist (question, variables, results, claim, and reasoning). Follows directions fully.",
+       "points": 10.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Data Presentation & Reasoning",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Accurately presents data and uses it to support the claim. Reasoning connects evidence to the conclusion clearly and logically.",
+       "points": 10.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Creativity & Engagement",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Demonstrates originality and enthusiasm. Uses visuals, posters, experiment clips, or creative editing to enhance the presentation.",
+       "points": 10.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Presentation Quality & Effort",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Speaks clearly and confidently. Video is neat, organized, and well-planned. Shows strong effort and attention to detail.",
+       "points": 10.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_the_snowman_showdown_mass_vs_gravity",
+   "title": "The Snowman Showdown: Mass vs. Gravity",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of Gravity Paragraph",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Student submits a clear 3–5 sentence paragraph describing how mass affects gravitational pull and compares the large and small snowmen. Shows accurate understanding of SC.6.P.13.2.",
+       "points": 10.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Snowman Photo",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Image shows both snowmen clearly, includes required decorations, sticky note labels, and demonstrates correct completion of the VR build.",
+       "points": 10.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_candy_coated_forces_the_great_gingerbrea",
+   "title": "Candy Coated Forces: The Great Gingerbread Challenge",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of Forces Paragraph",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Student submits a clear 3–5 sentence paragraph describing their own experience with gravity, friction, and applied forces, and how these unbalanced forces changed motion in the gingerbread structure. Shows accurate understanding of SC.6.P.13.3.",
+       "points": 10.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Gingerbread House Photo",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Group gingerbread house is fully decorated, clearly visible, and demonstrates creativity, teamwork, and correct physics application.",
+       "points": 10.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_science_fair_showcase_scholar_review_pan",
+   "title": "Science Fair Showcase: Scholar Review Panel",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Reflection Responses",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Answers are clear, thoughtful, encouraging, and reference specific videos or observations.",
+       "points": 6.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Participation",
+     "long_description": "",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Student confirms watching at least 3 videos and describes at least two.",
+       "points": 2.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Notebook Photo",
+     "long_description": "",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Student uploads a clear photo of their handwritten reflection page.",
+       "points": 2.0
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_week-1-overview",
+   "title": "Week 1 Overview",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w01/l0-map.html\" width=\"100%\" height=\"900\" style=\"border:0;\" title=\"Week 1 Overview: Redefining the Scientist\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_lesson-the-three-questions-every-experiment-asks",
+   "title": "Lesson: The Three Questions Every Experiment Asks",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w01/l1-variables.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"The Three Questions Every Experiment Asks\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_weekly-reading-how-scientists-plan-a-fair-test",
+   "title": "Weekly Reading: How Scientists Plan a Fair Test",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w01/l2-reading.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Weekly Reading: How Scientists Plan a Fair Test\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_variables-in-experiments-quick-reference-guide",
+   "title": "Variables in Experiments: Quick Reference Guide",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w01/r1-variables-guide.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Variables in Experiments: Quick Reference Guide\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_week-2-overview",
+   "title": "Week 2 Overview",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w02/l0-map.html\" width=\"100%\" height=\"900\" style=\"border:0;\" title=\"Week 2 Overview: The Law of Conservation of Energy\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_weekly-reading-energy-never-disappears",
+   "title": "Weekly Reading: Energy Never Disappears",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w02/l1-reading.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Weekly Reading: Energy Never Disappears\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_conservation-of-energy-quick-reference-guide",
+   "title": "Conservation of Energy: Quick Reference Guide",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w02/r1-energy-guide.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Conservation of Energy: Quick Reference Guide\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_week-3-overview",
+   "title": "Week 3 Overview",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w03/l0-map.html\" width=\"100%\" height=\"900\" style=\"border:0;\" title=\"Week 3 Overview: The Great Energy Exchange\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_weekly-reading-pushes-pulls-and-the-battle-for-balance",
+   "title": "Weekly Reading: Pushes, Pulls, and the Battle for Balance",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w03/l1-reading.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Weekly Reading: Pushes, Pulls, and the Battle for Balance\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_forces-in-action-quick-reference-guide",
+   "title": "Forces in Action: Quick Reference Guide",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w03/r1-forces-guide.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Forces in Action: Quick Reference Guide\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_week-4-overview",
+   "title": "Week 4 Overview",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w04/l0-map.html\" width=\"100%\" height=\"900\" style=\"border:0;\" title=\"Week 4 Overview: Think Like a Scientist\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_weekly-reading-six-steps-and-a-mystery-puddle",
+   "title": "Weekly Reading: Six Steps and a Mystery Puddle",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w04/l1-reading.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Weekly Reading: Six Steps and a Mystery Puddle\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_the-scientific-method-quick-reference-guide",
+   "title": "The Scientific Method: Quick Reference Guide",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w04/r1-method-guide.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"The Scientific Method: Quick Reference Guide\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_week-5-overview",
+   "title": "Week 5 Overview",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w05/l0-map.html\" width=\"100%\" height=\"900\" style=\"border:0;\" title=\"Week 5 Overview: Full Speed Ahead\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_weekly-reading-reading-the-story-of-a-race",
+   "title": "Weekly Reading: Reading the Story of a Race",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w05/l1-reading.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Weekly Reading: Reading the Story of a Race\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_motion-and-speed-quick-reference-guide",
+   "title": "Motion & Speed: Quick Reference Guide",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w05/r1-motion-guide.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Motion &amp; Speed: Quick Reference Guide\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_week-6-overview",
+   "title": "Week 6 Overview",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w06/l0-map.html\" width=\"100%\" height=\"900\" style=\"border:0;\" title=\"Week 6 Overview: Defying Gravity\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_weekly-reading-pushes-and-pulls-without-touching",
+   "title": "Weekly Reading: Pushes and Pulls Without Touching",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w06/l1-reading.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Weekly Reading: Pushes and Pulls Without Touching\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_types-of-forces-quick-reference-guide",
+   "title": "Types of Forces: Quick Reference Guide",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w06/r1-types-of-forces-guide.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Types of Forces: Quick Reference Guide\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_week-7-overview",
+   "title": "Week 7 Overview",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w07/l0-map.html\" width=\"100%\" height=\"900\" style=\"border:0;\" title=\"Week 7 Overview: Lights, Camera, Experiment!\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_weekly-reading-teach-it-without-being-there",
+   "title": "Weekly Reading: Teach It Without Being There",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w07/l1-reading.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Weekly Reading: Teach It Without Being There\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_science-fair-videos-quick-reference-guide",
+   "title": "Science Fair Videos: Quick Reference Guide",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w07/r1-videos-guide.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Science Fair Videos: Quick Reference Guide\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_week-8-overview",
+   "title": "Week 8 Overview",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w08/l0-map.html\" width=\"100%\" height=\"900\" style=\"border:0;\" title=\"Week 8 Overview: Snowday Science\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_weekly-reading-the-pull-between-everything",
+   "title": "Weekly Reading: The Pull Between Everything",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w08/l1-reading.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Weekly Reading: The Pull Between Everything\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_gravity-quick-reference-guide",
+   "title": "Gravity: Quick Reference Guide",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w08/r1-gravity-guide.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Gravity: Quick Reference Guide\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_week-9-overview",
+   "title": "Week 9 Overview",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w09/l0-map.html\" width=\"100%\" height=\"900\" style=\"border:0;\" title=\"Week 9 Overview: The Great Gingerbread Force Challenge\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_weekly-reading-when-forces-don-t-cancel",
+   "title": "Weekly Reading: When Forces Don't Cancel",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w09/l1-reading.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Weekly Reading: When Forces Don't Cancel\" allow=\"autoplay\"></iframe>"
+  },
+  {
+   "id": "p_unbalanced-forces-and-motion-quick-reference-guide",
+   "title": "Unbalanced Forces & Motion: Quick Reference Guide",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w09/r1-unbalanced-forces-guide.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Unbalanced Forces &amp; Motion: Quick Reference Guide\" allow=\"autoplay\"></iframe>"
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a_science-graphic-organizer-variables",
+   "title": "Science Graphic Organizer: Variables",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w01/a1-organizer.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Science Graphic Organizer: Variables\" allow=\"autoplay\"></iframe>",
+   "points": 20,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "published": true,
+   "allowed_extensions": "jpg,jpeg,png,pdf",
+   "group": "ag_q2-assignments"
+  },
+  {
+   "id": "a_what-is-a-scientist-ai-creation-assignment",
+   "title": "What Is a Scientist? AI Creation Assignment",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w01/a2-scientist.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"What Is a Scientist? AI Creation Assignment\" allow=\"autoplay\"></iframe>",
+   "points": 10,
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "allowed_extensions": "jpg,jpeg,png",
+   "group": "ag_q2-assignments",
+   "rubric": "r_what_is_a_scientist_ai_creation_assignme"
+  },
+  {
+   "id": "a_science-fair-mini-experiments-checkpoint-1",
+   "title": "Science Fair Mini-Experiments: Checkpoint 1",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w01/a3-checkpoint.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Science Fair Mini-Experiments: Checkpoint 1\" allow=\"autoplay\"></iframe>",
+   "points": 5,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "published": true,
+   "group": "ag_q2-assignments"
+  },
+  {
+   "id": "a_rube-goldberg-the-endless-energy-machine",
+   "title": "Rube Goldberg: The Endless Energy Machine",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w02/a1-rube-goldberg.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Rube Goldberg: The Endless Energy Machine\" allow=\"autoplay\"></iframe>",
+   "points": 20,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "published": true,
+   "allowed_extensions": "mp4,mov,webm",
+   "group": "ag_q2-assignments",
+   "rubric": "r_rube_goldberg_the_endless_energy_machine"
+  },
+  {
+   "id": "a_science-notebook-assignment-potential-vs-kinetic-energy",
+   "title": "Science Notebook Assignment: Potential vs. Kinetic Energy",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w02/a2-notebook.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Science Notebook Assignment: Potential vs. Kinetic Energy\" allow=\"autoplay\"></iframe>",
+   "points": 10,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "published": true,
+   "allowed_extensions": "jpg,jpeg,png,pdf",
+   "group": "ag_q2-assignments",
+   "rubric": "r_science_notebook_assignment_potential_vs"
+  },
+  {
+   "id": "a_science-fair-mini-experiments-checkpoint-2",
+   "title": "Science Fair Mini-Experiments: Checkpoint 2",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w03/a1-checkpoint.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Science Fair Mini-Experiments: Checkpoint 2\" allow=\"autoplay\"></iframe>",
+   "points": 10,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "published": true,
+   "allowed_extensions": "jpg,jpeg,png,pdf",
+   "group": "ag_q2-assignments"
+  },
+  {
+   "id": "a_forces-unleashed-the-science-comic-challenge",
+   "title": "Forces Unleashed: The Science Comic Challenge",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w03/a2-comic.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Forces Unleashed: The Science Comic Challenge\" allow=\"autoplay\"></iframe>",
+   "points": 20,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "published": true,
+   "allowed_extensions": "jpg,jpeg,png,pdf",
+   "group": "ag_q2-assignments",
+   "rubric": "r_forces_unleashed_the_science_comic_chall"
+  },
+  {
+   "id": "a_extra-credit-forces-in-action-island-town-treasure-hunt",
+   "title": "Extra Credit: Forces in Action, Island Town Treasure Hunt",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w03/a3-treasure-hunt.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Extra Credit: Forces in Action, Island Town Treasure Hunt\" allow=\"autoplay\"></iframe>",
+   "points": 0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "published": true,
+   "allowed_extensions": "jpg,jpeg,png,pdf",
+   "group": "ag_q2-assignments"
+  },
+  {
+   "id": "a_science-notebook-entry-field-scientist-challenge",
+   "title": "Science Notebook Entry: Field Scientist Challenge",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w04/a1-field-scientist.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Science Notebook Entry: Field Scientist Challenge\" allow=\"autoplay\"></iframe>",
+   "points": 10,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "published": true,
+   "allowed_extensions": "jpg,jpeg,png,pdf",
+   "group": "ag_q2-assignments",
+   "rubric": "r_science_notebook_entry_field_scientist_c"
+  },
+  {
+   "id": "a_the-science-trainer-challenge-mastering-the-method",
+   "title": "The Science Trainer Challenge: Mastering the Method",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w04/a2-science-trainer.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"The Science Trainer Challenge: Mastering the Method\" allow=\"autoplay\"></iframe>",
+   "points": 30,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "published": true,
+   "allowed_extensions": "mp4,mov,webm",
+   "group": "ag_q2-assignments",
+   "rubric": "r_the_science_trainer_challenge_mastering_"
+  },
+  {
+   "id": "a_science-fair-mini-experiments-checkpoint-3",
+   "title": "Science Fair Mini-Experiments: Checkpoint 3",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w05/a1-checkpoint.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Science Fair Mini-Experiments: Checkpoint 3\" allow=\"autoplay\"></iframe>",
+   "points": 10,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "published": true,
+   "allowed_extensions": "jpg,jpeg,png,pdf",
+   "group": "ag_q2-assignments"
+  },
+  {
+   "id": "a_speed-racers-the-graphing-grand-prix",
+   "title": "Speed Racers: The Graphing Grand Prix",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w05/a2-speed-racers.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Speed Racers: The Graphing Grand Prix\" allow=\"autoplay\"></iframe>",
+   "points": 20,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "published": true,
+   "allowed_extensions": "jpg,jpeg,png,pdf",
+   "group": "ag_q2-assignments",
+   "rubric": "r_speed_racers_the_graphing_grand_prix"
+  },
+  {
+   "id": "a_celebration-day-is-here",
+   "title": "Celebration Day Is Here!",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w05/a3-celebration.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Celebration Day Is Here!\" allow=\"autoplay\"></iframe>",
+   "points": 0,
+   "grading_type": "not_graded",
+   "submission_types": "not_graded",
+   "published": true,
+   "group": "ag_q2-assignments"
+  },
+  {
+   "id": "a_science-fair-mini-experiments-checkpoint-4",
+   "title": "Science Fair Mini-Experiments: Checkpoint 4",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w06/a1-checkpoint.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Science Fair Mini-Experiments: Checkpoint 4\" allow=\"autoplay\"></iframe>",
+   "points": 10,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "published": true,
+   "allowed_extensions": "jpg,jpeg,png,pdf,doc,docx",
+   "group": "ag_q2-assignments"
+  },
+  {
+   "id": "a_engineered-for-stability-the-skyscraper-challenge",
+   "title": "Engineered for Stability: The Skyscraper Challenge",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w06/a2-skyscraper.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Engineered for Stability: The Skyscraper Challenge\" allow=\"autoplay\"></iframe>",
+   "points": 20,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "published": true,
+   "allowed_extensions": "jpg,jpeg,png,pdf",
+   "group": "ag_q2-assignments",
+   "rubric": "r_engineered_for_stability_the_skyscraper_"
+  },
+  {
+   "id": "a_science-fair-mini-experiments-final-video-presentation",
+   "title": "Science Fair Mini-Experiments: Final Video Presentation",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w07/a1-final-video.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Science Fair Mini-Experiments: Final Video Presentation\" allow=\"autoplay\"></iframe>",
+   "points": 50,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "published": true,
+   "group": "ag_q2-assignments",
+   "rubric": "r_science_fair_mini_experiments_final_vide"
+  },
+  {
+   "id": "a_extra-extra-read-all-about-it-live-from-the-optima-news-stud",
+   "title": "EXTRA EXTRA! Read All About It! Live from the Optima News Studio: Forces Take Over the Classroom!",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w07/a2-news-broadcast.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Extra Credit: Live from the Optima News Studio\" allow=\"autoplay\"></iframe>",
+   "points": 0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "published": true,
+   "group": "ag_q2-assignments"
+  },
+  {
+   "id": "a_the-snowman-showdown-mass-vs-gravity",
+   "title": "The Snowman Showdown: Mass vs. Gravity",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w08/a1-snowman.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"The Snowman Showdown: Mass vs. Gravity\" allow=\"autoplay\"></iframe>",
+   "points": 20,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "published": true,
+   "allowed_extensions": "jpg,jpeg,png,pdf",
+   "group": "ag_q2-assignments",
+   "rubric": "r_the_snowman_showdown_mass_vs_gravity"
+  },
+  {
+   "id": "a_candy-coated-forces-the-great-gingerbread-challenge",
+   "title": "Candy Coated Forces: The Great Gingerbread Challenge",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w09/a1-gingerbread.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Candy Coated Forces: The Great Gingerbread Challenge\" allow=\"autoplay\"></iframe>",
+   "points": 20,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "published": true,
+   "allowed_extensions": "jpg,jpeg,png,pdf",
+   "group": "ag_q2-assignments",
+   "rubric": "r_candy_coated_forces_the_great_gingerbrea"
+  },
+  {
+   "id": "a_science-fair-showcase-scholar-review-panel",
+   "title": "Science Fair Showcase: Scholar Review Panel",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q2w09/a2-review-panel.html\" width=\"100%\" height=\"1000\" style=\"border:0;\" title=\"Science Fair Showcase: Scholar Review Panel\" allow=\"autoplay\"></iframe>",
+   "points": 10,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "published": true,
+   "allowed_extensions": "jpg,jpeg,png,pdf",
+   "group": "ag_q2-assignments",
+   "rubric": "r_science_fair_showcase_scholar_review_pan"
+  },
+  {
+   "id": "a_saving-grace-and-grades",
+   "title": "Saving Grace and Grades",
+   "html": "<p>This assignment is for failing scholars. No action is required on your part.</p>",
+   "points": 0,
+   "grading_type": "points",
+   "submission_types": "none",
+   "published": false,
+   "group": "ag_q2-assignments"
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q_forces-energy-quiz",
+   "title": "Forces & Energy Quiz",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>Which statement best describes the </span><strong data-start=\"546\" data-end=\"579\">Law of Conservation of Energy</strong><span>?</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Energy only exists as heat and light.",
+       "correct": false
+      },
+      {
+       "text": "Energy can change forms but cannot be created or destroyed.",
+       "correct": true
+      },
+      {
+       "text": "Energy can be destroyed when objects stop moving.",
+       "correct": false
+      },
+      {
+       "text": "Energy can be created by machines but not destroyed.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>Friction always acts in the same direction as motion.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>Which force </span><strong data-start=\"1016\" data-end=\"1046\">pulls objects toward Earth</strong><span> and gives them weight?</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Friction",
+       "correct": false
+      },
+      {
+       "text": "Normal Force",
+       "correct": false
+      },
+      {
+       "text": "Gravity",
+       "correct": true
+      },
+      {
+       "text": "Applied Force",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>Potential energy is energy of motion, while kinetic energy is stored energy.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>When a roller coaster climbs up a hill and then rushes down the hill, what is the energy transformation that is happening?</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Kinetic → Potential",
+       "correct": false
+      },
+      {
+       "text": "Sound → Light",
+       "correct": false
+      },
+      {
+       "text": "Chemical → Electrical",
+       "correct": false
+      },
+      {
+       "text": "Potential → Kinetic",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>Normal force acts upward from a surface to support the weight of an object.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>A soccer ball begins to roll after being kicked. Which force caused the motion?</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Applied Force",
+       "correct": true
+      },
+      {
+       "text": "Friction",
+       "correct": false
+      },
+      {
+       "text": "Gravity",
+       "correct": false
+      },
+      {
+       "text": "Normal Force",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>Energy <strong>can disappear</strong> completely if it changes into heat or sound.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>Which situation shows </span><strong data-start=\"2133\" data-end=\"2152\">balanced forces</strong><span>?</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A ball falling through the air",
+       "correct": false
+      },
+      {
+       "text": "A rocket launching into space",
+       "correct": false
+      },
+      {
+       "text": "A book resting on a desk",
+       "correct": true
+      },
+      {
+       "text": "A car speeding up on a hill",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>Gravity is a contact force because objects <strong>must touch</strong> for it to act.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    }
+   ],
+   "group": "ag_q2-assignments"
+  },
+  {
+   "id": "q_scientific-method-motion-quiz",
+   "title": "Scientific Method & Motion Quiz",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div><p data-start=\"458\" data-end=\"605\">What is the <strong>first step</strong> of the scientific method?</p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Analyze the data",
+       "correct": false
+      },
+      {
+       "text": "Form a hypothesis",
+       "correct": false
+      },
+      {
+       "text": "Ask a question",
+       "correct": true
+      },
+      {
+       "text": "Draw a conclusion",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p data-start=\"1396\" data-end=\"1562\">Which formula is used to calculate speed?</p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Speed = Distance ÷ Time",
+       "correct": true
+      },
+      {
+       "text": "Speed = Distance × Time",
+       "correct": false
+      },
+      {
+       "text": "Speed = Time ÷ Distance",
+       "correct": false
+      },
+      {
+       "text": "Speed = Time – Distance",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>The hypothesis is a<strong> random guess </strong>about what will happen in an experiment.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p data-start=\"1587\" data-end=\"1801\">On a distance–time graph, what does a <strong>flat line</strong> mean?</p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The object is moving at a constant speed",
+       "correct": false
+      },
+      {
+       "text": "The object is speeding up",
+       "correct": false
+      },
+      {
+       "text": "The object is changing direction",
+       "correct": false
+      },
+      {
+       "text": "The object has stopped moving",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p data-start=\"806\" data-end=\"972\">During which step do scientists collect measurements, record data, and test their hypothesis?</p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Experiment",
+       "correct": true
+      },
+      {
+       "text": "Research",
+       "correct": false
+      },
+      {
+       "text": "Analyze data",
+       "correct": false
+      },
+      {
+       "text": "Conclusion",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>A steeper line on a distance–time graph means the object is moving <strong>slower</strong>.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p data-start=\"997\" data-end=\"1198\">What do scientists do <strong>after</strong> they analyze their data?</p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Write a hypothesis",
+       "correct": false
+      },
+      {
+       "text": "Repeat the test",
+       "correct": false
+      },
+      {
+       "text": "Draw a conclusion and share results",
+       "correct": true
+      },
+      {
+       "text": "Ask new questions only if the experiment fails",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p data-start=\"1991\" data-end=\"2108\">A runner travels 200 meters in 40 seconds. What is their speed?</p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "4 m/s",
+       "correct": false
+      },
+      {
+       "text": "5 m/s",
+       "correct": true
+      },
+      {
+       "text": "8 m/s",
+       "correct": false
+      },
+      {
+       "text": "40 m/s",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>Scientists sometimes repeat their experiments to check their results or improve accuracy.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p data-start=\"2152\" data-end=\"2426\">Which statement about motion is correct?</p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Motion happens when something changes position over time.",
+       "correct": true
+      },
+      {
+       "text": "Motion only happens if an object is moving in a straight line.",
+       "correct": false
+      },
+      {
+       "text": "Motion can only be measured in hours and miles.",
+       "correct": false
+      },
+      {
+       "text": "Motion cannot be shown on a graph.",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "group": "ag_q2-assignments"
+  },
+  {
+   "id": "q_physical-science-final",
+   "title": "Physical Science Final",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "questions": [
+    {
+     "type": "true_false",
+     "text": "<div><p><span>The </span><strong data-start=\"426\" data-end=\"450\">independent variable</strong><span> is the factor you measure during an experiment.</span><br data-start=\"498\" data-end=\"501\"><br></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>Which one is a </span><strong data-start=\"736\" data-end=\"758\">dependent variable</strong><span>?</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Amount of water added",
+       "correct": false
+      },
+      {
+       "text": "Type of fertilizer",
+       "correct": false
+      },
+      {
+       "text": "Height of the plant",
+       "correct": true
+      },
+      {
+       "text": "Type of pot used",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>Controlled variables help make an experiment fair.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>Which step comes </span><em data-start=\"1059\" data-end=\"1066\">first</em><span> in the scientific method?</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Forming a hypothesis",
+       "correct": false
+      },
+      {
+       "text": "Asking a question",
+       "correct": true
+      },
+      {
+       "text": "Analyzing data",
+       "correct": false
+      },
+      {
+       "text": "Drawing a conclusion",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>A hypothesis should be testable and based on research.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>What type of energy does a moving object have?</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Electrical",
+       "correct": false
+      },
+      {
+       "text": "Potential",
+       "correct": false
+      },
+      {
+       "text": "Magnetic",
+       "correct": false
+      },
+      {
+       "text": "Kinetic",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>Energy can be created if enough force is applied.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>A stretched rubber band has what kind of energy?</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Potential",
+       "correct": true
+      },
+      {
+       "text": "Light",
+       "correct": false
+      },
+      {
+       "text": "Sound",
+       "correct": false
+      },
+      {
+       "text": "Kinetic",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>A car travels 60 meters in 3 seconds. What is its speed?</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "10 m/s",
+       "correct": false
+      },
+      {
+       "text": "20 m/s",
+       "correct": true
+      },
+      {
+       "text": "30 m/s",
+       "correct": false
+      },
+      {
+       "text": "180 m/s",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>A steeper line on a distance–time graph means faster motion.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>Which force </span><strong data-start=\"2148\" data-end=\"2159\">resists</strong><span> motion?</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Gravity",
+       "correct": false
+      },
+      {
+       "text": "Applied force",
+       "correct": false
+      },
+      {
+       "text": "Friction",
+       "correct": true
+      },
+      {
+       "text": "Electrical force",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>Gravity acts at a distance and does not require objects to touch.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>Normal force pushes:</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Upward/perpendicular",
+       "correct": true
+      },
+      {
+       "text": "Downward",
+       "correct": false
+      },
+      {
+       "text": "Sideways",
+       "correct": false
+      },
+      {
+       "text": "In any direction",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>What causes gravity to be stronger?</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Smaller object size",
+       "correct": false
+      },
+      {
+       "text": "More mass",
+       "correct": true
+      },
+      {
+       "text": "Faster speed",
+       "correct": false
+      },
+      {
+       "text": "More distance",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>Gravity becomes weaker as objects move farther apart.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>When forces on an object are balanced, the object:</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Speeds up",
+       "correct": false
+      },
+      {
+       "text": "Slows down",
+       "correct": false
+      },
+      {
+       "text": "Changes direction",
+       "correct": false
+      },
+      {
+       "text": "Has no change in motion",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>Unbalanced forces can change an object’s speed, direction, or both.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>A soccer ball starts rolling because:</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Gravity balanced the motion",
+       "correct": false
+      },
+      {
+       "text": "The net force became zero",
+       "correct": false
+      },
+      {
+       "text": "An applied force acted on it",
+       "correct": true
+      },
+      {
+       "text": "Friction increased",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>What does a flat (horizontal) line on a distance–time graph show?</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "No motion",
+       "correct": true
+      },
+      {
+       "text": "Changing speed",
+       "correct": false
+      },
+      {
+       "text": "Slows down",
+       "correct": false
+      },
+      {
+       "text": "Speeds up",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>A student wonders whether hot or cold water dissolves sugar faster.</span></p>\n<p><span>Which step comes next?</span><br data-start=\"3724\" data-end=\"3727\"><br></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Form a conclusion",
+       "correct": false
+      },
+      {
+       "text": "Analyze data",
+       "correct": false
+      },
+      {
+       "text": "Share results",
+       "correct": false
+      },
+      {
+       "text": "Research and gather information",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>When a roller coaster goes down a hill, potential energy transforms into kinetic energy.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>What happens to gravitational force when </span><strong data-start=\"979\" data-end=\"997\">mass increases</strong><span>?</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It becomes weaker",
+       "correct": false
+      },
+      {
+       "text": "It stays the same",
+       "correct": false
+      },
+      {
+       "text": "It becomes stronger",
+       "correct": true
+      },
+      {
+       "text": "It disappears",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>Speed is calculated by dividing </span><em data-start=\"514\" data-end=\"520\">time</em><span> by </span><em data-start=\"524\" data-end=\"534\">weight</em><span>.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><span>A ball rolling across the floor slows down and stops mainly because of:</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Gravity pulling down",
+       "correct": false
+      },
+      {
+       "text": "Friction opposing motion",
+       "correct": true
+      },
+      {
+       "text": "Balanced forces acting",
+       "correct": false
+      },
+      {
+       "text": "Normal force pushing up",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p><span>Gravity only pulls downward on Earth and does not exist in space.</span></p></div>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    }
+   ],
+   "group": "ag_q2-assignments"
+  }
+ ],
+ "discussions": [],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_q2-week-1-redefining-the-scientist-bey",
+   "title": "Q2 Week 1: Redefining the Scientist- Beyond the Lab Coat",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_week-1-overview",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_lesson-the-three-questions-every-experiment-asks",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_weekly-reading-how-scientists-plan-a-fair-test",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_variables-in-experiments-quick-reference-guide",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_science-graphic-organizer-variables",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_what-is-a-scientist-ai-creation-assignment",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_science-fair-mini-experiments-checkpoint-1",
+     "week": 1,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_q2-week-2-the-law-of-conservation-of-en",
+   "title": "Q2 Week 2: The Law of Conservation of Energy- The Energy Exchange",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_week-2-overview",
+     "week": 2,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_weekly-reading-energy-never-disappears",
+     "week": 2,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_conservation-of-energy-quick-reference-guide",
+     "week": 2,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_rube-goldberg-the-endless-energy-machine",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_science-notebook-assignment-potential-vs-kinetic-energy",
+     "week": 2,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_q2-week-3-the-great-energy-exchange-wh",
+   "title": "Q2 Week 3: The Great Energy Exchange– When Forces Collide",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_week-3-overview",
+     "week": 3,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_weekly-reading-pushes-pulls-and-the-battle-for-balance",
+     "week": 3,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_forces-in-action-quick-reference-guide",
+     "week": 3,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_science-fair-mini-experiments-checkpoint-2",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_forces-unleashed-the-science-comic-challenge",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_forces-energy-quiz",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_extra-credit-forces-in-action-island-town-treasure-hunt",
+     "week": 3,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_q2-week-4-think-like-a-scientist-the-m",
+   "title": "Q2 Week 4: Think Like a Scientist– The Method Behind Discovery",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_week-4-overview",
+     "week": 4,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_weekly-reading-six-steps-and-a-mystery-puddle",
+     "week": 4,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_the-scientific-method-quick-reference-guide",
+     "week": 4,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_science-notebook-entry-field-scientist-challenge",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_the-science-trainer-challenge-mastering-the-method",
+     "week": 4,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_q2-week-5-full-speed-ahead-the-motion",
+   "title": "Q2 Week 5: Full Speed Ahead – The Motion Scientist Challenge",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_week-5-overview",
+     "week": 5,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_weekly-reading-reading-the-story-of-a-race",
+     "week": 5,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_motion-and-speed-quick-reference-guide",
+     "week": 5,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_science-fair-mini-experiments-checkpoint-3",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_speed-racers-the-graphing-grand-prix",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_scientific-method-motion-quiz",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_celebration-day-is-here",
+     "week": 5,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_q2-week-6-defying-gravity-engineering",
+   "title": "Q2 Week 6: Defying Gravity- Engineering Against the Forces",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_week-6-overview",
+     "week": 6,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_weekly-reading-pushes-and-pulls-without-touching",
+     "week": 6,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_types-of-forces-quick-reference-guide",
+     "week": 6,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_science-fair-mini-experiments-checkpoint-4",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_engineered-for-stability-the-skyscraper-challenge",
+     "week": 6,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_q2-week-7-lights-camera-experiment",
+   "title": "Q2 Week 7: Lights, Camera, Experiment!– Science Fair Spotlight",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_week-7-overview",
+     "week": 7,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_weekly-reading-teach-it-without-being-there",
+     "week": 7,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_science-fair-videos-quick-reference-guide",
+     "week": 7,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_science-fair-mini-experiments-final-video-presentation",
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_extra-extra-read-all-about-it-live-from-the-optima-news-stud",
+     "week": 7,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_q2-week-8-snowday-science-frosty-force",
+   "title": "Q2 Week 8: Snowday Science: Frosty Forces & Gravity",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_week-8-overview",
+     "week": 8,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_weekly-reading-the-pull-between-everything",
+     "week": 8,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_gravity-quick-reference-guide",
+     "week": 8,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_the-snowman-showdown-mass-vs-gravity",
+     "week": 8,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_physical-science-final",
+     "week": 8,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_q2-week-9-the-great-gingerbread-force-c",
+   "title": "Q2 Week 9: The Great Gingerbread Force Challenge",
+   "published": true,
+   "items": [
+    {
+     "type": "page",
+     "ref": "p_week-9-overview",
+     "week": 9,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_weekly-reading-when-forces-don-t-cancel",
+     "week": 9,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_unbalanced-forces-and-motion-quick-reference-guide",
+     "week": 9,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_candy-coated-forces-the-great-gingerbread-challenge",
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_science-fair-showcase-scholar-review-panel",
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_saving-grace-and-grades",
+     "published": false,
+     "week": 9,
+     "completion": "must_submit"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Quarter 2 Weeks 1-9 from OAO-Science tools/sci_q2_kit_cartridge.py: Section 62AL Sem 1 export (quizzes, Saving Grace) plus OAO-Science tools/specs/sci6_q2.py (rebuilt pages and assignments). Every page is an iframe to its rebuilt page on optimaondemand.github.io/OAO-Science. Imported by optima-course-kit/_build/imscc_to_spec.py from 2002040-q2-kit-input.imscc (cartridge title 'M/J Comprehensive Science 1 · Quarter 2 (kit input)'), modules all of 9 in cartridge order; titles, publish state, points, groups and question content exactly as the cartridge ships them."
+ }
+}
