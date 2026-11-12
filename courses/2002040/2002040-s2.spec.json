@@ -28,7 +28,83 @@
    "weight": 0
   }
  ],
- "rubrics": [],
+ "rubrics": [
+  {
+   "id": "r_q3w01_rocks_journey",
+   "title": "A Rock's Journey: Shaping Earth Over Time",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Science Accuracy",
+     "long_description": "Clearly and accurately explains weathering, erosion, and deposition aligned to SC.6.E.6.1",
+     "points": 10,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Clearly and accurately explains weathering, erosion, and deposition aligned to SC.6.E.6.1",
+       "points": 10
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Vocabulary Use",
+     "long_description": "Correctly uses at least 5 required vocabulary terms and underlines them",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Correctly uses at least 5 required vocabulary terms and underlines them",
+       "points": 5
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Storytelling & Point of View",
+     "long_description": "Story is written from the rock's point of view and includes a name, personality, voice, and clear storyline",
+     "points": 10,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Story is written from the rock's point of view and includes a name, personality, voice, and clear storyline",
+       "points": 10
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "AI Cover Image",
+     "long_description": "Image matches the rock's story, personality, and Earth process",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full Marks",
+       "long_description": "Image matches the rock's story, personality, and Earth process",
+       "points": 5
+      },
+      {
+       "description": "No Marks",
+       "long_description": "",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
  "pages": [
   {
    "id": "p_1-dot-01-understanding-your-headset",
@@ -545,18 +621,25 @@
    "title": "Week 10 Overview",
    "published": true,
    "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q4w10/l0-map.html\" width=\"100%\" height=\"1600\" style=\"border: 0; display: block;\" title=\"Week 10 Overview\" allow=\"autoplay\" allowfullscreen loading=\"lazy\"></iframe><p style=\"font-size: 0.85em; color: #5B667A;\">If the page does not load, <a href=\"https://optimaondemand.github.io/OAO-Science/sci6/q4w10/l0-map.html\" target=\"_blank\" rel=\"noopener\">open it in a new tab</a>.</p>"
+  },
+  {
+   "id": "p_q3w01_reading",
+   "title": "Weekly Reading: How Rocks Break, Travel, and Settle",
+   "published": true,
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q3w01/l1-reading.html\" width=\"100%\" height=\"1600\" style=\"border: 0; display: block;\" title=\"Weekly Reading: How Rocks Break, Travel, and Settle\" allow=\"autoplay\" allowfullscreen loading=\"lazy\"></iframe><p style=\"font-size: 0.85em; color: #5B667A;\">If the page does not load, <a href=\"https://optimaondemand.github.io/OAO-Science/sci6/q3w01/l1-reading.html\" target=\"_blank\" rel=\"noopener\">open it in a new tab</a>.</p>"
   }
  ],
  "assignments": [
   {
    "id": "a_a-rocks-journey-shaping-earth-over-time",
    "title": "🪨 A Rock’s Journey: Shaping Earth Over Time",
-   "html": "<h2 data-start=\"210\" data-end=\"259\"><strong data-start=\"516\" data-end=\"564\">🪨 A Rock’s Journey: Shaping Earth Over Time</strong></h2>\n<p data-start=\"260\" data-end=\"443\">📜 <strong data-start=\"263\" data-end=\"276\">Standard:</strong><br data-start=\"276\" data-end=\"279\"><strong data-start=\"279\" data-end=\"293\">SC.6.E.6.1</strong>– Describe and give examples of ways in which Earth’s surface is built up and torn down by physical and chemical weathering, erosion, and deposition.</p>\n<hr data-start=\"445\" data-end=\"448\">\n<h2 data-start=\"450\" data-end=\"468\"><strong><span style=\"font-size: 18pt;\">🎯 Objective:</span></strong></h2>\n<p data-start=\"469\" data-end=\"712\">Independently create a short narrative <strong data-start=\"508\" data-end=\"544\">told from a rock’s point of view</strong>, giving the rock a <strong data-start=\"564\" data-end=\"596\">name, personality, and voice</strong>, while demonstrating understanding of how <strong data-start=\"639\" data-end=\"678\">weathering, erosion, and deposition</strong> change Earth’s surface over time.</p>\n<hr data-start=\"714\" data-end=\"717\">\n<h2 data-start=\"719\" data-end=\"744\"><strong><span style=\"font-size: 18pt;\">🌌 Mission Briefing:</span></strong></h2>\n<p data-start=\"745\" data-end=\"778\">Welcome, Geological Storytellers.</p>\n<p data-start=\"780\" data-end=\"991\">&nbsp;</p>\n<p data-start=\"780\" data-end=\"991\">Earth’s surface is never still. Rocks crack, crumble, travel, and settle as natural processes reshape the planet over time. Your mission is to <strong data-start=\"923\" data-end=\"940\">become a rock</strong> and tell <strong data-start=\"950\" data-end=\"969\">your life story</strong> as Earth changes you.</p>\n<p data-start=\"993\" data-end=\"1184\">&nbsp;</p>\n<p data-start=\"993\" data-end=\"1184\">You will <strong data-start=\"1002\" data-end=\"1027\">give your rock a name</strong>, a <strong data-start=\"1031\" data-end=\"1046\">personality</strong>, and a <strong data-start=\"1054\" data-end=\"1063\">voice</strong>, then explain how <strong data-start=\"1082\" data-end=\"1112\">weathering breaks you down</strong>, <strong data-start=\"1114\" data-end=\"1135\">erosion moves you</strong>, and <strong data-start=\"1141\" data-end=\"1183\">deposition determines where you end up</strong>.</p>\n<p data-start=\"1186\" data-end=\"1342\">&nbsp;</p>\n<p data-start=\"1186\" data-end=\"1342\">Your story should sound like the rock is <strong data-start=\"1227\" data-end=\"1236\">alive</strong>, observant, and experiencing its journey through Earth’s systems—while still using accurate science. 🌍🪨</p>\n<hr data-start=\"1344\" data-end=\"1347\">\n<h2 data-start=\"1349\" data-end=\"1361\"><strong><span style=\"font-size: 18pt;\">🧰 Steps:</span></strong></h2>\n<h3 data-start=\"1363\" data-end=\"1395\"><strong><span style=\"font-size: 14pt;\">1️⃣ Write <em data-start=\"1377\" data-end=\"1393\">A Rock’s Story</em></span></strong></h3>\n<p data-start=\"1396\" data-end=\"1450\">Write a short story <strong data-start=\"1416\" data-end=\"1449\">from the rock’s point of view</strong>.</p>\n<p data-start=\"1452\" data-end=\"1480\">&nbsp;</p>\n<p data-start=\"1452\" data-end=\"1480\"><span style=\"font-size: 12pt;\"><strong>📝 Writing Requirements:</strong></span></p>\n<ul data-start=\"1481\" data-end=\"1772\">\n<li data-start=\"1481\" data-end=\"1508\">\n<p data-start=\"1483\" data-end=\"1508\">At least <strong data-start=\"1492\" data-end=\"1508\">3 paragraphs</strong></p>\n</li>\n<li data-start=\"1509\" data-end=\"1560\">\n<p data-start=\"1511\" data-end=\"1560\">Each paragraph must be <strong data-start=\"1534\" data-end=\"1560\">4–6 complete sentences</strong></p>\n</li>\n<li data-start=\"1561\" data-end=\"1602\">\n<p data-start=\"1563\" data-end=\"1602\">Written in <strong data-start=\"1574\" data-end=\"1590\">first person</strong> (I, me, my)</p>\n</li>\n<li data-start=\"1603\" data-end=\"1772\">\n<p data-start=\"1605\" data-end=\"1625\">Your rock must have:</p>\n<ul data-start=\"1628\" data-end=\"1772\">\n<li data-start=\"1628\" data-end=\"1640\">\n<p data-start=\"1630\" data-end=\"1640\">A <strong data-start=\"1632\" data-end=\"1640\">name</strong></p>\n</li>\n<li data-start=\"1643\" data-end=\"1715\">\n<p data-start=\"1645\" data-end=\"1715\">A <strong data-start=\"1647\" data-end=\"1662\">personality</strong> (brave, grumpy, curious, patient, adventurous, etc.)</p>\n</li>\n<li data-start=\"1718\" data-end=\"1772\">\n<p data-start=\"1720\" data-end=\"1772\">A clear <strong data-start=\"1728\" data-end=\"1737\">story</strong> that follows its journey over time</p>\n</li>\n</ul>\n</li>\n</ul>\n<hr data-start=\"1774\" data-end=\"1777\">\n<h3 data-start=\"1779\" data-end=\"1838\"><strong>🧪 Science Requirements (<span style=\"text-decoration: underline;\">MUST</span> Be Included in the Story)</strong></h3>\n<p data-start=\"1840\" data-end=\"1857\"><strong><span style=\"font-size: 14pt;\">🪨 Weathering</span></strong></p>\n<ul data-start=\"1858\" data-end=\"2027\">\n<li data-start=\"1858\" data-end=\"2027\">\n<p data-start=\"1860\" data-end=\"1926\">Clearly identify the <strong data-start=\"1881\" data-end=\"1903\">type of weathering</strong> that breaks you down</p>\n<ul data-start=\"1929\" data-end=\"2027\">\n<li data-start=\"1929\" data-end=\"1978\">\n<p data-start=\"1931\" data-end=\"1978\">Physical (ice wedging, plant roots, abrasion)</p>\n</li>\n<li data-start=\"1981\" data-end=\"2027\">\n<p data-start=\"1983\" data-end=\"2027\">Chemical (acid rain, oxidation, dissolution)</p>\n</li>\n</ul>\n</li>\n</ul>\n<p data-start=\"2029\" data-end=\"2043\">&nbsp;</p>\n<p data-start=\"2029\" data-end=\"2043\"><strong><span style=\"font-size: 14pt;\">🌊 Erosion</span></strong></p>\n<ul data-start=\"2044\" data-end=\"2162\">\n<li data-start=\"2044\" data-end=\"2162\">\n<p data-start=\"2046\" data-end=\"2104\">Clearly identify the <strong data-start=\"2067\" data-end=\"2087\">force of erosion</strong> that moves you</p>\n<ul data-start=\"2107\" data-end=\"2162\">\n<li data-start=\"2107\" data-end=\"2116\">\n<p data-start=\"2109\" data-end=\"2116\">Water</p>\n</li>\n<li data-start=\"2119\" data-end=\"2127\">\n<p data-start=\"2121\" data-end=\"2127\">Wind</p>\n</li>\n<li data-start=\"2130\" data-end=\"2148\">\n<p data-start=\"2132\" data-end=\"2148\">Ice (glaciers)</p>\n</li>\n<li data-start=\"2151\" data-end=\"2162\">\n<p data-start=\"2153\" data-end=\"2162\">Gravity</p>\n</li>\n</ul>\n</li>\n</ul>\n<p data-start=\"2164\" data-end=\"2182\">&nbsp;</p>\n<p data-start=\"2164\" data-end=\"2182\"><span style=\"font-size: 14pt;\"><strong>🏖️ Deposition</strong></span></p>\n<ul data-start=\"2183\" data-end=\"2310\">\n<li data-start=\"2183\" data-end=\"2310\">\n<p data-start=\"2185\" data-end=\"2231\">Clearly describe <strong data-start=\"2202\" data-end=\"2229\">where you are deposited</strong></p>\n<ul data-start=\"2234\" data-end=\"2310\">\n<li data-start=\"2234\" data-end=\"2249\">\n<p data-start=\"2236\" data-end=\"2249\">River delta</p>\n</li>\n<li data-start=\"2252\" data-end=\"2261\">\n<p data-start=\"2254\" data-end=\"2261\">Beach</p>\n</li>\n<li data-start=\"2264\" data-end=\"2279\">\n<p data-start=\"2266\" data-end=\"2279\">Desert dune</p>\n</li>\n<li data-start=\"2282\" data-end=\"2297\">\n<p data-start=\"2284\" data-end=\"2297\">Ocean floor</p>\n</li>\n<li data-start=\"2300\" data-end=\"2310\">\n<p data-start=\"2302\" data-end=\"2310\">Valley</p>\n</li>\n</ul>\n</li>\n</ul>\n<hr data-start=\"2312\" data-end=\"2315\">\n<h3 data-start=\"2317\" data-end=\"2336\"><strong><span style=\"font-size: 14pt;\">📚 Vocabulary</span></strong></h3>\n<p data-start=\"2337\" data-end=\"2462\">Correctly use <strong data-start=\"2351\" data-end=\"2365\">at least 5</strong> of the following terms <strong data-start=\"2389\" data-end=\"2406\">in your story</strong> and <strong data-start=\"2411\" data-end=\"2445\"><span style=\"text-decoration: underline; font-size: 14pt;\">underline</span> each vocabulary word</strong> when it appears.</p>\n<ul data-start=\"2464\" data-end=\"2579\">\n<li data-start=\"2464\" data-end=\"2478\">\n<p data-start=\"2466\" data-end=\"2478\">Weathering</p>\n</li>\n<li data-start=\"2479\" data-end=\"2490\">\n<p data-start=\"2481\" data-end=\"2490\">Erosion</p>\n</li>\n<li data-start=\"2491\" data-end=\"2505\">\n<p data-start=\"2493\" data-end=\"2505\">Deposition</p>\n</li>\n<li data-start=\"2506\" data-end=\"2518\">\n<p data-start=\"2508\" data-end=\"2518\">Sediment</p>\n</li>\n<li data-start=\"2519\" data-end=\"2530\">\n<p data-start=\"2521\" data-end=\"2530\">Gravity</p>\n</li>\n<li data-start=\"2531\" data-end=\"2542\">\n<p data-start=\"2533\" data-end=\"2542\">Glacier</p>\n</li>\n<li data-start=\"2543\" data-end=\"2556\">\n<p data-start=\"2545\" data-end=\"2556\">Acid rain</p>\n</li>\n<li data-start=\"2557\" data-end=\"2569\">\n<p data-start=\"2559\" data-end=\"2569\">Abrasion</p>\n</li>\n<li data-start=\"2570\" data-end=\"2579\">\n<p data-start=\"2572\" data-end=\"2579\">Delta</p>\n</li>\n</ul>\n<p data-start=\"2581\" data-end=\"2711\">&nbsp;</p>\n<p data-start=\"2581\" data-end=\"2711\">👉 <strong data-start=\"2584\" data-end=\"2597\">Reminder:</strong> If a vocabulary word is not <strong data-start=\"2626\" data-end=\"2640\">underlined</strong>, it will <strong data-start=\"2650\" data-end=\"2657\">not</strong> count toward your total—even if it is used correctly.</p>\n<hr data-start=\"2713\" data-end=\"2716\">\n<h3 data-start=\"2718\" data-end=\"2749\"><span style=\"font-size: 18pt;\"><strong>✍️ Writing Format Options</strong></span></h3>\n<p data-start=\"2751\" data-end=\"2830\">You may choose <strong data-start=\"2766\" data-end=\"2773\">ONE</strong> of the following ways to complete and submit your story:</p>\n<p data-start=\"2832\" data-end=\"2881\">&nbsp;</p>\n<p data-start=\"2832\" data-end=\"2881\"><span style=\"font-size: 14pt;\">📝 <strong data-start=\"2835\" data-end=\"2879\">Option 1: Handwritten (Science Notebook)</strong></span></p>\n<ul data-start=\"2882\" data-end=\"3095\">\n<li data-start=\"2882\" data-end=\"2938\">\n<p data-start=\"2884\" data-end=\"2938\">Write your story neatly in your <strong data-start=\"2916\" data-end=\"2936\">science notebook</strong></p>\n</li>\n<li data-start=\"2939\" data-end=\"2988\">\n<p data-start=\"2941\" data-end=\"2988\">Take a <strong data-start=\"2948\" data-end=\"2973\">clear, well-lit photo</strong> of your work</p>\n</li>\n<li data-start=\"2989\" data-end=\"3029\">\n<p data-start=\"2991\" data-end=\"3029\">All writing must be <strong data-start=\"3011\" data-end=\"3027\">easy to read</strong></p>\n</li>\n<li data-start=\"3030\" data-end=\"3095\">\n<p data-start=\"3032\" data-end=\"3095\">Make sure <strong data-start=\"3042\" data-end=\"3093\">underlined vocabulary words are clearly visible</strong></p>\n</li>\n</ul>\n<p data-start=\"3097\" data-end=\"3178\">&nbsp;</p>\n<p data-start=\"3097\" data-end=\"3178\">📸 If your photo is blurry or hard to read, it will be returned for resubmission.</p>\n<hr data-start=\"3180\" data-end=\"3183\">\n<p data-start=\"3185\" data-end=\"3230\"><span style=\"font-size: 14pt;\">💻 <strong data-start=\"3188\" data-end=\"3228\">Option 2: Typed (Digital Submission)</strong></span></p>\n<ul data-start=\"3231\" data-end=\"3436\">\n<li data-start=\"3231\" data-end=\"3287\">\n<p data-start=\"3233\" data-end=\"3287\">Type your story in a <strong data-start=\"3254\" data-end=\"3285\">Word document or Google Doc</strong></p>\n</li>\n<li data-start=\"3288\" data-end=\"3336\">\n<p data-start=\"3290\" data-end=\"3336\">Use proper paragraphs and complete sentences</p>\n</li>\n<li data-start=\"3337\" data-end=\"3391\">\n<p data-start=\"3339\" data-end=\"3391\"><strong data-start=\"3339\" data-end=\"3373\">Underline all vocabulary words</strong> in the document</p>\n</li>\n<li data-start=\"3392\" data-end=\"3436\">\n<p data-start=\"3394\" data-end=\"3436\">Attach the file directly to the assignment</p>\n</li>\n</ul>\n<hr data-start=\"3438\" data-end=\"3441\">\n<h3 data-start=\"3443\" data-end=\"3482\"><span style=\"font-size: 18pt;\"><strong>2️⃣ Design a Cover Image Using AI</strong></span></h3>\n<p data-start=\"3483\" data-end=\"3570\">After writing your story, use <strong data-start=\"3513\" data-end=\"3519\">AI</strong> to design a <strong data-start=\"3532\" data-end=\"3547\">cover image</strong> for your rock’s story.</p>\n<p data-start=\"3572\" data-end=\"3609\">&nbsp;</p>\n<p data-start=\"3572\" data-end=\"3609\"><span style=\"font-size: 14pt;\">🎨 <strong data-start=\"3575\" data-end=\"3609\">Your Cover Image Must Include:</strong></span></p>\n<ul data-start=\"3610\" data-end=\"3743\">\n<li data-start=\"3610\" data-end=\"3648\">\n<p data-start=\"3612\" data-end=\"3648\">Your rock (matching its personality)</p>\n</li>\n<li data-start=\"3649\" data-end=\"3714\">\n<p data-start=\"3651\" data-end=\"3714\">At least one Earth process (weathering, erosion, or deposition)</p>\n<ul data-start=\"3610\" data-end=\"3743\">\n<li data-start=\"3649\" data-end=\"3714\">Try including a scene from your story!</li>\n</ul>\n</li>\n<li data-start=\"3715\" data-end=\"3743\">\n<p data-start=\"3717\" data-end=\"3743\">A <strong data-start=\"3719\" data-end=\"3728\">title</strong> for your story</p>\n</li>\n</ul>\n<hr data-start=\"3745\" data-end=\"3748\">\n<h3 data-start=\"3750\" data-end=\"3800\"><strong>🧠 AI Prompt Example (You <span style=\"text-decoration: underline;\">MUST</span> Create Your Own)</strong></h3>\n<p data-start=\"3802\" data-end=\"3969\">Your AI prompt <strong data-start=\"3817\" data-end=\"3851\">could look something like this</strong>, but it <strong data-start=\"3860\" data-end=\"3885\">must match your story</strong>.</p>\n<p data-start=\"3802\" data-end=\"3969\">Your AI prompt <strong data-start=\"5945\" data-end=\"5972\">should match your story</strong> and may be in <strong data-start=\"5987\" data-end=\"6004\">any art style </strong>(cartoon, anime, realistic, illustrated, etc.). Remember to be specific. Describe your story and what you chose to write.</p>\n<p data-start=\"3971\" data-end=\"3992\">&nbsp;</p>\n<p data-start=\"3971\" data-end=\"3992\"><strong data-start=\"3971\" data-end=\"3990\">Example Prompt:</strong></p>\n<blockquote data-start=\"3993\" data-end=\"4262\">\n<p data-start=\"3995\" data-end=\"4262\">“A children’s book cover showing a named rock with a personality traveling through nature as it is weathered, eroded, and deposited. The rock is expressive and tells its own story. The scene includes rivers, mountains, beaches, or glaciers. Colorful and educational.”</p>\n</blockquote>\n<hr data-start=\"4264\" data-end=\"4267\">\n<h2 data-start=\"4269\" data-end=\"4298\"><strong><span style=\"font-size: 18pt;\">📝 Assignment Submission</span></strong></h2>\n<p data-start=\"4300\" data-end=\"4321\">Submit the following:</p>\n<p data-start=\"4323\" data-end=\"4508\"><span style=\"font-size: 14pt;\">📄 <strong data-start=\"4326\" data-end=\"4351\">1. Your Written Story</strong></span><br data-start=\"4351\" data-end=\"4354\">A complete 3+ paragraph story written from the rock’s point of view, including a name, personality, accurate science, and <strong data-start=\"4476\" data-end=\"4507\">underlined vocabulary words</strong>.</p>\n<p data-start=\"4510\" data-end=\"4624\">&nbsp;</p>\n<p data-start=\"4510\" data-end=\"4624\"><span style=\"font-size: 14pt;\">🖼️ <strong data-start=\"4514\" data-end=\"4545\">2. AI-Generated Cover Image</strong></span><br data-start=\"4545\" data-end=\"4548\">A clear, creative image that represents your rock’s journey and personality.</p>\n<hr data-start=\"4713\" data-end=\"4716\">\n<h2 data-start=\"4718\" data-end=\"4742\"><strong><span style=\"font-size: 18pt;\">📊 Rubric&nbsp;</span></strong></h2>\n<div class=\"TyagGW_tableContainer\">\n<div class=\"group TyagGW_tableWrapper flex w-fit flex-col-reverse\">\n<table class=\"w-fit min-w-(--thread-content-width)\" data-start=\"4744\" data-end=\"5299\">\n<thead data-start=\"4744\" data-end=\"4779\">\n<tr data-start=\"4744\" data-end=\"4779\">\n<th data-start=\"4744\" data-end=\"4755\" data-col-size=\"sm\">Category</th>\n<th data-start=\"4755\" data-end=\"4764\" data-col-size=\"sm\">Points</th>\n<th data-start=\"4764\" data-end=\"4779\" data-col-size=\"lg\">Description</th>\n</tr>\n</thead>\n<tbody data-start=\"4813\" data-end=\"5299\">\n<tr data-start=\"4813\" data-end=\"4941\">\n<td data-start=\"4813\" data-end=\"4835\" data-col-size=\"sm\">🧪 Science Accuracy</td>\n<td data-col-size=\"sm\" data-start=\"4835\" data-end=\"4840\">10</td>\n<td data-col-size=\"lg\" data-start=\"4840\" data-end=\"4941\">Clearly and accurately explains <strong data-start=\"4874\" data-end=\"4913\">weathering, erosion, and deposition</strong> aligned to <strong data-start=\"4925\" data-end=\"4939\">SC.6.E.6.1</strong></td>\n</tr>\n<tr data-start=\"4942\" data-end=\"5049\">\n<td data-start=\"4942\" data-end=\"4962\" data-col-size=\"sm\">📚 Vocabulary Use</td>\n<td data-col-size=\"sm\" data-start=\"4962\" data-end=\"4966\">5</td>\n<td data-col-size=\"lg\" data-start=\"4966\" data-end=\"5049\">Correctly uses at least <strong data-start=\"4992\" data-end=\"5023\">5 required vocabulary terms</strong> and <strong data-start=\"5028\" data-end=\"5047\">underlines them</strong></td>\n</tr>\n<tr data-start=\"5050\" data-end=\"5208\">\n<td data-start=\"5050\" data-end=\"5084\" data-col-size=\"sm\">✍️ Storytelling &amp; Point of View</td>\n<td data-col-size=\"sm\" data-start=\"5084\" data-end=\"5089\">10</td>\n<td data-col-size=\"lg\" data-start=\"5089\" data-end=\"5208\">Story is written from the <strong data-start=\"5117\" data-end=\"5141\">rock’s point of view</strong> and includes a <strong data-start=\"5157\" data-end=\"5206\">name, personality, voice, and clear storyline</strong></td>\n</tr>\n<tr data-start=\"5209\" data-end=\"5299\">\n<td data-start=\"5209\" data-end=\"5229\" data-col-size=\"sm\">🎨 AI Cover Image</td>\n<td data-col-size=\"sm\" data-start=\"5229\" data-end=\"5233\">5</td>\n<td data-col-size=\"lg\" data-start=\"5233\" data-end=\"5299\">Image matches the rock’s story, personality, and Earth process</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<hr data-start=\"5301\" data-end=\"5304\">\n<p data-start=\"5306\" data-end=\"5354\">💯 <strong data-start=\"5309\" data-end=\"5354\">This assignment is worth 30 points total.</strong></p>",
+   "html": "<iframe src=\"https://optimaondemand.github.io/OAO-Science/sci6/q3w01/a1-rocks-journey.html\" width=\"100%\" height=\"1600\" style=\"border: 0; display: block;\" title=\"A Rock&#x27;s Journey: Shaping Earth Over Time\" allow=\"autoplay\" allowfullscreen loading=\"lazy\"></iframe><p style=\"font-size: 0.85em; color: #5B667A;\">If the page does not load, <a href=\"https://optimaondemand.github.io/OAO-Science/sci6/q3w01/a1-rocks-journey.html\" target=\"_blank\" rel=\"noopener\">open it in a new tab</a>.</p>",
    "points": 30,
    "grading_type": "points",
    "submission_types": "online_upload",
    "published": true,
-   "group": "ag_creative"
+   "group": "ag_creative",
+   "rubric": "r_q3w01_rocks_journey"
   },
   {
    "id": "a_earths-landforms-a-vr-field-report",
@@ -3940,6 +4023,12 @@
      "completion": "must_mark_done"
     },
     {
+     "type": "page",
+     "ref": "p_q3w01_reading",
+     "week": 1,
+     "completion": "must_mark_done"
+    },
+    {
      "type": "header",
      "title": "Helpful Information"
     },
@@ -4756,6 +4845,6 @@
   }
  ],
  "source": {
-  "note": "Canvas export period-1-m-slash-j-compre-science-1-section-62bl-sem-2-t-slash-th-export.imscc (section 62BL, Sem 2), passed through OAO-Science tools/sci6_s2_kit_cartridge.py: every module page (week overviews, Quick Reference Guides and cumulative reviews, Q4 Weekly Readings, the two VR help modules) is an iframe to its placeholder on optimaondemand.github.io/OAO-Science (the original Canvas text in the design shell, from tools/sci6_sem2_placeholders.py, to be rewritten in place); assignments and quizzes as exported. Q3 Weeks 1-9 = kit weeks 1-9, Q4 Weeks 1-11 = kit weeks 10-20. The two large VR training videos stay out. Imported by optima-course-kit/_build/imscc_to_spec.py from 2002040-s2-kit-input.imscc (cartridge title 'Period 1 - M/J COMPRE SCIENCE 1 - Section 62BL - Sem 2 - T/Th'), modules all of 22 in cartridge order; titles, publish state, points, groups and question content exactly as the cartridge ships them."
+  "note": "Canvas export period-1-m-slash-j-compre-science-1-section-62bl-sem-2-t-slash-th-export.imscc (section 62BL, Sem 2), passed through OAO-Science tools/sci6_s2_kit_cartridge.py: every module page (week overviews, Quick Reference Guides and cumulative reviews, Q4 Weekly Readings, the two VR help modules) is an iframe to its placeholder on optimaondemand.github.io/OAO-Science (the original Canvas text in the design shell, from tools/sci6_sem2_placeholders.py, to be rewritten in place); assignments and quizzes as exported. Q3 Weeks 1-9 = kit weeks 1-9, Q4 Weeks 1-11 = kit weeks 10-20. The two large VR training videos stay out. Imported by optima-course-kit/_build/imscc_to_spec.py from 2002040-s2-kit-input.imscc (cartridge title 'Period 1 - M/J COMPRE SCIENCE 1 - Section 62BL - Sem 2 - T/Th'), modules all of 22 in cartridge order; titles, publish state, points, groups and question content exactly as the cartridge ships them. 2026-11-12: Q3 Week 1 revamped (Jorge approved): new Weekly Reading page after the Overview; A Rock's Journey description is now an iframe of its OAO-Science page, with the source rubric attached (10/5/10/5, Full Marks / No Marks)."
  }
 }

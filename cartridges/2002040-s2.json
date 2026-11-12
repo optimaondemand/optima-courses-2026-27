@@ -4,11 +4,11 @@
  "code": "2002040",
  "title": "M/J Comprehensive Science 1 Sem 2",
  "file": "cartridges/2002040-s2.imscc",
- "bytes": 321674,
- "version": "2026.10.16",
- "built": "2026-10-16T11:17:04",
+ "bytes": 319284,
+ "version": "2026.11.12",
+ "built": "2026-11-12T10:48:56",
  "front_page": "wiki_content/course-home.html",
- "items": 174,
+ "items": 175,
  "modules": [
   {
    "id": "m_the-engage-encyclopedia-for-scholars",
@@ -31,7 +31,7 @@
    "title": "Q3 Week 1: Earthshapers— How Earth Is Broken, Moved, and Reshaped",
    "gid": "g4058c80e2ee07ba0da8707fef1e4d042",
    "published": true,
-   "items": 5,
+   "items": 6,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -188,13 +188,13 @@
   }
  ],
  "counts": {
-  "pages": 87,
+  "pages": 88,
   "assignments": 30,
   "quizzes": 13,
   "discussions": 0,
   "files": 0,
   "modules": 22,
-  "items": 174
+  "items": 175
  },
  "weights": [
   {
@@ -1041,23 +1041,23 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 144,
+   "resources": 145,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 44,
-    "webcontent": 87,
+    "webcontent": 88,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 13
    },
-   "organization_items": 129,
+   "organization_items": 130,
    "modules": 22,
-   "module_items": 174,
+   "module_items": 175,
    "module_item_types": {
     "ContextModuleSubHeader": 45,
-    "WikiPage": 86,
+    "WikiPage": 87,
     "Assignment": 30,
     "Quizzes::Quiz": 13
    },
    "default_view": "wiki",
-   "pages": 87,
+   "pages": 88,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 4,
    "group_refs": 56,
@@ -1069,6 +1069,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "1574e11ce7b895c5620ea9cd9768390931c780ca652e61cee623c910ae8f4d3d",
+ "spec_sha": "f5fdf9d6e33b84458a477438742280a5bfe6f2354d2ff19be3b3136300c7a43f",
  "art_pack": null
 }
