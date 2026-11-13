@@ -81,13 +81,24 @@ git push
 ## The submission checklist
 
 `kit.py` ends by printing a checklist for each kit you named: `[x]` met, `[ ]` flagged
-with the item ids that caused it, `[~]` allowed but noted, `[?]` could not be checked. The gate blocks; the checklist flags. Clear each
-flagged line, or say in the commit message why it stands.
+with the item ids that caused it, `[~]` allowed but noted, `[?]` could not be checked,
+`[!]` **required and unmet**. Clear each `[ ]` line, or say in the commit message why it
+stands.
+
+**Four criteria block.** A kit with a `[!]` line cannot ship: `kit.py` exits 1, and GitHub
+runs the same check on every push and pull request, fails it, and comments the blocked
+lines on your commit.
+
+- Whole-lesson read-aloud player at the top of every lesson page
+- Tabbed lessons open each tab at the top
+- Gradebook groups created
+- Every graded item is in a gradebook group
 
 ```
 python _build/checklist.py 1001040-s2            # one kit, any time, builds nothing
 python _build/checklist.py 1001040-s2 --online   # also requests every lesson embed URL
 python _build/checklist.py --all                 # one line per kit in the store
+python _build/checklist.py 1001040-s2 --gate     # what GitHub runs: exit 1 if a required line is unmet
 ```
 
 | Criterion | Flagged when |

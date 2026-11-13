@@ -29,6 +29,9 @@ the course in Canvas", "deploy", "push to Canvas" or "make it available to teach
    and the teacher imports both. Caption fields come from the image's own XMP.
 5. `python _build/kit.py <kit>` until the gate prints `0 FAIL`. It then prints the
    submission checklist for that kit (`_build/checklist.py`, criteria in CONTRIBUTING.md).
+   A `[!]` line is required and blocks: `kit.py` exits 1 and GitHub fails the push. Do not
+   commit a kit with a `[!]` line; tell the builder what is missing (reader on a lesson
+   page, tabs that do not return to the top, gradebook groups, an ungrouped graded item).
    Report every flagged line to the builder verbatim; fix the ones the build folder can
    settle, and never clear a flag by deleting content or inventing it. Flags on kits you
    were not asked to build are not yours to fix.

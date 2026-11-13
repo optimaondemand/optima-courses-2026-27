@@ -5,12 +5,14 @@
     python _build/checklist.py --changed <git-ref>       kits whose course folder differs from <git-ref>
     options:  --online   also read the live lesson pages: every embed answers, the whole-lesson
                          read-aloud player is at the top, tabbed lessons open each tab at the top
-              --strict   exit 1 when any criterion is flagged (default: exit 0, the checklist only flags)
+              --gate     the blocking run GitHub makes on every push and pull request: reads the
+                         live pages and exits 1 when a REQUIRED criterion is unmet or unchecked
+              --strict   exit 1 when any criterion is flagged
               --json     machine-readable result on stdout
 
-check_repo.py is the gate: it decides whether the repo is intact (FAIL blocks a commit).
-This file is the checklist: it reads ONE kit the way a reviewer would and names what is
-not yet met. kit.py prints it after the gate for every kit it was asked to build.
+check_repo.py decides whether the repo is intact (FAIL blocks a commit). This file reads
+ONE kit the way a reviewer would and names what is not yet met. Most criteria only flag.
+The ids in REQUIRED block: kit.py exits 1 on them and so does the GitHub workflow.
 
 Each criterion is a row in CRITERIA: (id, label, function). A function returns
 (state, evidence): state True = met, False = flagged, None = not applicable.
@@ -460,6 +462,17 @@ ONLINE = [
 ]
 
 
+# The criteria that block. Everything else flags. Ruled by the maintainer 2026-11-12: the
+# whole-lesson reader on every lesson page, tabbed lessons open each tab at the top, gradebook
+# groups created, every graded item in one.
+REQUIRED = ('read-aloud', 'tab-scroll', 'gb-groups', 'groups')
+
+
+def blocked(res):
+    """Rows that stop this kit: a required criterion unmet, or one that could not be checked."""
+    return [r for r in res['rows'] if (r['id'] in REQUIRED and r['state'] in (False, '?')) or r['id'] == 'load']
+
+
 def run(kit_id, online=False):
     try:
         k = Kit(kit_id)
@@ -486,11 +499,17 @@ def show(res):
     for r in res['rows']:
         # [x] met   [ ] flagged   [~] allowed, noted   [?] could not be checked    -  does not apply
         box = {True: '[x]', False: '[ ]', None: ' - ', 'note': '[~]', '?': '[?]'}[r['state']]
-        print(' %s %s%s' % (box, r['label'], '' if r['state'] is not None else '  (does not apply)'))
+        if r['id'] in REQUIRED and r['state'] in (False, '?'):
+            box = '[!]'
+        print(' %s %s%s%s' % (box, r['label'], '' if r['state'] is not None else '  (does not apply)',
+                              '   REQUIRED' if box == '[!]' else ''))
         if r['state'] in (False, 'note', '?') and r['evidence']:
             print('       -> %s' % r['evidence'])
     met, flagged, other = counts(res)
     print(' %d met, %d flagged%s' % (met, flagged, (', %d other' % other) if other else ''))
+    b = blocked(res)
+    if b:
+        print(' BLOCKED  %s cannot ship until every [!] line is met: %s' % (res['kit'], '; '.join(r['label'] for r in b)))
 
 
 def all_kits():
@@ -499,9 +518,23 @@ def all_kits():
 
 
 def changed_kits(ref):
-    r = subprocess.run(['git', 'diff', '--name-only', ref, '--', 'courses'], capture_output=True, text=True, cwd=L.ROOT)
-    codes = {p.split('/')[1] for p in r.stdout.splitlines() if p.count('/') >= 2}
-    return [k for k in all_kits() if L.KIT_ID.match(k).group('code') in codes]
+    r = subprocess.run(['git', 'diff', '--name-only', ref, '--', 'courses', 'cartridges'], capture_output=True, text=True, cwd=L.ROOT)
+    if r.returncode:
+        raise SystemExit('checklist: cannot compare against %r: %s' % (ref, r.stderr.strip()))
+    paths = r.stdout.splitlines()
+    # A spec or cartridge names its kit. Anything else in a course folder (course.json, files/)
+    # touches every kit of that course; standards.json touches none.
+    named, codes = set(), set()
+    for p in paths:
+        parts = p.split('/')
+        if parts[0] == 'cartridges' and len(parts) == 2:
+            named.add(os.path.splitext(parts[1])[0])
+        elif parts[0] == 'courses' and len(parts) >= 3:
+            if parts[2].endswith('.spec.json'):
+                named.add(parts[2][:-len('.spec.json')])
+            elif parts[2] != 'standards.json':
+                codes.add(parts[1])
+    return [k for k in all_kits() if k in named or L.KIT_ID.match(k).group('code') in codes]
 
 
 def main():
@@ -510,7 +543,9 @@ def main():
     except Exception:  # noqa: BLE001
         pass
     argv = sys.argv[1:]
-    flags = {a for a in argv if a in ('--online', '--strict', '--json', '--all')}
+    flags = {a for a in argv if a in ('--online', '--strict', '--json', '--all', '--gate')}
+    if '--gate' in flags:
+        flags.add('--online')
     rest = [a for a in argv if a not in flags]
     if '--changed' in rest:
         i = rest.index('--changed')
@@ -531,7 +566,7 @@ def main():
             bad = [r['id'] for r in res['rows'] if r['state'] is False]
             for b in bad:
                 tally[b] = tally.get(b, 0) + 1
-            print('%-22s %2d met  %2d flagged  %s' % (res['kit'], met, flagged, ' '.join(bad)))
+            print('%-22s %2d met  %2d flagged  %s%s' % (res['kit'], met, flagged, 'BLOCKED  ' if blocked(res) else '', ' '.join(bad)))
         print('\n%d kit(s); %d with nothing flagged' % (len(results), sum(1 for r in results if not counts(r)[1])))
         for cid, n in sorted(tally.items(), key=lambda kv: -kv[1]):
             print('  %-13s flagged in %d kit(s)' % (cid, n))
@@ -540,6 +575,10 @@ def main():
             show(res)
     if not kits:
         print('checklist: no kit changed against that ref')
+    stopped = [r['kit'] for r in results if blocked(r)]
+    if '--gate' in flags:
+        print('\nGATE: %s' % ('%d kit(s) blocked: %s' % (len(stopped), ' '.join(stopped)) if stopped else 'passed'))
+        sys.exit(1 if stopped else 0)
     sys.exit(1 if '--strict' in flags and any(counts(r)[1] for r in results) else 0)
 
 

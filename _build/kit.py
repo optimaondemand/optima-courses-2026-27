@@ -74,17 +74,25 @@ def main():
             sys.exit(r.returncode)
     # The submission checklist: every criterion for the kits named on the command line (or, with
     # --all, the ones just rebuilt). It only flags; the gate above is what blocks.
+    stopped = []
     try:
         import checklist
         for k in (built if argv == ['--all'] else kits):
-            checklist.show(checklist.run(k, online=True))   # online: reads the live lesson pages
-        print('\nFlagged lines are for the builder to clear or to name in the commit message.')
+            res = checklist.run(k, online=True)   # online: reads the live lesson pages
+            checklist.show(res)
+            if checklist.blocked(res):
+                stopped.append(k)
+        print('\n[ ] lines are for the builder to clear or to name in the commit message. [!] lines block.')
     except Exception as e:  # noqa: BLE001  (a checklist fault must never stop a build)
         print('checklist did not run: %s' % e)
     if built:
         print('\nNext: stage ONLY your paths, e.g.')
         code = L.KIT_ID.match(built[0]).group('code')
         print('  git add courses/%s cartridges/%s.imscc cartridges/%s.json catalog.json .github/CODEOWNERS' % (code, built[0], built[0]))
+    if stopped:
+        print('\nBLOCKED: %s. GitHub runs this same check on every push and will fail it.' % ' '.join(stopped))
+        print('Meet every [!] line above, then run kit.py again.')
+        sys.exit(1)
 
 
 if __name__ == '__main__':

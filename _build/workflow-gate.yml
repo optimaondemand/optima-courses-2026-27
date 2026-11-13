@@ -4,6 +4,8 @@
 #   Actions -> New workflow -> set up a workflow yourself -> paste -> name it gate.yml
 # or copy it to .github/workflows/gate.yml and push from GitHub Desktop.
 name: gate
+permissions:
+  contents: write
 on:
   pull_request:
   push:
@@ -20,13 +22,28 @@ jobs:
           python-version: '3.12'
       - name: Repo gate (registry, specs, cartridges, catalog, fixture)
         run: python _build/check_repo.py
-      # Flags only (never fails the run): the checklist for every kit whose course folder
-      # this push or pull request touched, shown on the run's Summary page.
-      - name: Submission checklist for the kits in this change
+      # The submission gate. Runs the checklist for every kit this push or pull request touched,
+      # reads the live lesson pages, and FAILS the run when a required criterion is unmet:
+      # whole-lesson reader on every lesson page, tabs open at the top, gradebook groups created,
+      # every graded item in a group. Everything else is listed as a flag and does not fail.
+      - name: Submission gate for the kits in this change
+        id: gate
         if: always()
         env:
           BASE: ${{ github.event.pull_request.base.sha || github.event.before }}
         run: |
-          echo '```' >> "$GITHUB_STEP_SUMMARY"
-          python _build/checklist.py --changed "$BASE" | tee -a "$GITHUB_STEP_SUMMARY"
-          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          set -o pipefail
+          python _build/checklist.py --changed "$BASE" --gate | tee checklist.txt
+      - name: Show the checklist on the run summary
+        if: always()
+        run: |
+          { echo '```'; cat checklist.txt 2>/dev/null; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+      # Tell the builder where they will see it: a comment on the commit (GitHub notifies the author).
+      - name: Comment the blocked lines on the commit
+        if: failure() && steps.gate.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SHA: ${{ github.event.pull_request.head.sha || github.sha }}
+        run: |
+          { echo 'Submission gate: this change is BLOCKED. Meet every [!] line, rebuild with `python _build/kit.py <kit>`, and push again.'; echo; echo '```'; grep -E -A1 '^CHECKLIST|\[!\]' checklist.txt | grep -E -v '^--$|^ \[[x ~?]\]|^  - '; grep -E '^GATE' checklist.txt; echo '```'; } > comment.txt
+          gh api "repos/${{ github.repository }}/commits/$SHA/comments" -F body=@comment.txt || true
