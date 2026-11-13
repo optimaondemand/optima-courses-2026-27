@@ -4,11 +4,11 @@
  "code": "2002040",
  "title": "M/J Comprehensive Science 1 Sem 2",
  "file": "cartridges/2002040-s2.imscc",
- "bytes": 319047,
- "version": "2026.11.12",
- "built": "2026-11-12T11:47:35",
+ "bytes": 314385,
+ "version": "2026.11.13",
+ "built": "2026-11-13T13:57:42",
  "front_page": "wiki_content/course-home.html",
- "items": 175,
+ "items": 176,
  "modules": [
   {
    "id": "m_the-engage-encyclopedia-for-scholars",
@@ -39,7 +39,7 @@
    "title": "Q3 Week 2: Carved by Nature— How Landforms Are Built, Broken, and Changed",
    "gid": "gb55e34c8e534780b02fb8c65fbe0fc0c",
    "published": true,
-   "items": 5,
+   "items": 6,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -188,13 +188,13 @@
   }
  ],
  "counts": {
-  "pages": 88,
+  "pages": 89,
   "assignments": 30,
   "quizzes": 13,
   "discussions": 0,
   "files": 0,
   "modules": 22,
-  "items": 175
+  "items": 176
  },
  "weights": [
   {
@@ -1041,23 +1041,23 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 145,
+   "resources": 146,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 44,
-    "webcontent": 88,
+    "webcontent": 89,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 13
    },
-   "organization_items": 130,
+   "organization_items": 131,
    "modules": 22,
-   "module_items": 175,
+   "module_items": 176,
    "module_item_types": {
     "ContextModuleSubHeader": 45,
-    "WikiPage": 87,
+    "WikiPage": 88,
     "Assignment": 30,
     "Quizzes::Quiz": 13
    },
    "default_view": "wiki",
-   "pages": 88,
+   "pages": 89,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 4,
    "group_refs": 56,
@@ -1069,6 +1069,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "53b5761cc93bf17dbf1641ed482326818286cf15872f0891ab03e212e05f49ee",
+ "spec_sha": "93581066634fa137f6a0acae325b1e955c0a35a1b73c8981f91da490748212d1",
  "art_pack": null
 }
