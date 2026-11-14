@@ -1,0 +1,1009 @@
+{
+ "course": {
+  "title": "M/J Language Arts 3 · Lord of the Flies (Sparkle)",
+  "code": "1001070",
+  "default_view": "wiki",
+  "weighted": false
+ },
+ "assignment_groups": [
+  {
+   "id": "lf_ag_lessons",
+   "title": "Lessons",
+   "weight": 0
+  },
+  {
+   "id": "lf_ag_project",
+   "title": "Project",
+   "weight": 0
+  },
+  {
+   "id": "lf_ag_recitation",
+   "title": "Recitation",
+   "weight": 0
+  },
+  {
+   "id": "lf_ag_discussions",
+   "title": "Discussions",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "lf_r_d_w1",
+   "title": "Week 1 Discussion Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Position and evidence",
+     "long_description": "A clear position on the question; one specific moment from Chapters 1 and 2, cited by chapter; a sentence on what it shows.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "A clear position on the question; one specific moment from Chapters 1 and 2, cited by chapter; a sentence on what it shows.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Restate and question",
+     "long_description": "The reply restates a disagreeing classmate's strongest point fairly, in the student's own words, and asks one question about their evidence.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The reply restates a disagreeing classmate's strongest point fairly, in the student's own words, and asks one question about their evidence.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Qualify",
+     "long_description": "The reply says whether the classmate's point changes the student's view, and how much, courteously.",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The reply says whether the classmate's point changes the student's view, and how much, courteously.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lf_r_d_w4",
+   "title": "The Island Assembly Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Proposal",
+     "long_description": "One rule, within 150 words, with a quoted moment cited by chapter.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "One rule, within 150 words, with a quoted moment cited by chapter.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Reply 1",
+     "long_description": "Summarizes the classmate's rule fairly and adds one more moment.",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Summarizes the classmate's rule fairly and adds one more moment.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Reply 2",
+     "long_description": "Names the strongest part of the idea and disagrees courteously, with a moment.",
+     "points": 2.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Names the strongest part of the idea and disagrees courteously, with a moment.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Vote",
+     "long_description": "One sentence, with a reason, for a rule that is not the student's own.",
+     "points": 1.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "One sentence, with a reason, for a rule that is not the student's own.",
+       "points": 1.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Limits and deadlines",
+     "long_description": "Word limits and all three deadlines kept.",
+     "points": 1.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Word limits and all three deadlines kept.",
+       "points": 1.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lf_r_final_essay",
+   "title": "Lord of the Flies Final Essay Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Thesis & Position",
+     "long_description": "Thesis & Position",
+     "points": 25.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "A clear, arguable thesis answers the central question and guides the whole essay.",
+       "points": 25.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "A clear thesis answers the question; the essay mostly follows it.",
+       "points": 18.75
+      },
+      {
+       "description": "Developing",
+       "long_description": "A position is present but vague or drifts as the essay goes on.",
+       "points": 12.5
+      },
+      {
+       "description": "Beginning",
+       "long_description": "No clear position, or the essay only summarizes the plot.",
+       "points": 6.25
+      }
+     ]
+    },
+    {
+     "description": "Evidence from the Text",
+     "long_description": "Evidence from the Text",
+     "points": 25.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Three or more well-chosen, accurate moments or quotations, each clearly explained.",
+       "points": 25.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "At least three pieces of textual evidence, most explained well.",
+       "points": 18.75
+      },
+      {
+       "description": "Developing",
+       "long_description": "Some evidence, but thin, vague, or left unexplained.",
+       "points": 12.5
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Little or no evidence from the text; claims unsupported.",
+       "points": 6.25
+      }
+     ]
+    },
+    {
+     "description": "Counterargument (states AND answers a strong objection)",
+     "long_description": "Counterargument (states AND answers a strong objection)",
+     "points": 25.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Two strong objections stated fairly and answered convincingly with evidence.",
+       "points": 25.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Two objections stated and answered, though one may be weaker.",
+       "points": 18.75
+      },
+      {
+       "description": "Developing",
+       "long_description": "Only one objection, or objections named but not really answered.",
+       "points": 12.5
+      },
+      {
+       "description": "Beginning",
+       "long_description": "No genuine objection considered; only the writer’s own side appears.",
+       "points": 6.25
+      }
+     ]
+    },
+    {
+     "description": "Clarity & Correctness of Prose",
+     "long_description": "Clarity & Correctness of Prose",
+     "points": 25.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, well-organized prose; clean grammar, capitalization, and spelling.",
+       "points": 25.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Generally clear and organized; few errors that do not distract.",
+       "points": 18.75
+      },
+      {
+       "description": "Developing",
+       "long_description": "Understandable but uneven; errors begin to distract the reader.",
+       "points": 12.5
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Hard to follow; frequent errors obscure the meaning.",
+       "points": 6.25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lf_r_recitation",
+   "title": "Q3 Recitation Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Accurate, audible and paced",
+     "long_description": "The three things we listen for, together.",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Complete",
+       "long_description": "The words match Golding's, in order, from memory. Clear and loud enough that every word is easy to hear. Steady, unhurried, with pauses at the punctuation so the meaning carries.",
+       "points": 10.0
+      },
+      {
+       "description": "Almost there",
+       "long_description": "A few words were swapped, dropped, or read off a page. Voice dropped or trailed off so some words were lost. Rushed or halting, hard to follow the sense.",
+       "points": 6.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Nothing was recorded or uploaded.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [],
+ "assignments": [
+  {
+   "id": "lf_a_w1_l1",
+   "title": "The Sound of the Shell",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w1-lesson1-sound-of-the-shell.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 1,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w1_l2",
+   "title": "Fire on the Mountain",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w1-lesson2-fire-on-the-mountain.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 1,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w1_l3",
+   "title": "The Writer's Island",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w1-lesson3-writers-island.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 1,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w1_l4",
+   "title": "Chosen or Leading?",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w1-lesson4-chosen-or-leading.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 1,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w2_l1",
+   "title": "Two Continents",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w2-lesson1-two-continents.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w2_l2",
+   "title": "There Was a Ship",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w2-lesson2-there-was-a-ship.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w2_l3",
+   "title": "Behind the Mask",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w2-lesson3-behind-the-mask.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w2_l4",
+   "title": "Already a Tyrant?",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w2-lesson4-already-a-tyrant.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w3_l1",
+   "title": "Beast from Water",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w3-lesson1-beast-from-water.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w3_l2",
+   "title": "Beast from Air",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w3-lesson2-beast-from-air.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w3_l3",
+   "title": "Seems and Is",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w3-lesson3-seems-and-is.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w3_l4",
+   "title": "The Narrow Neck",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w3-lesson4-the-narrow-neck.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w4_l1",
+   "title": "The Far Shore",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w4-lesson1-far-shore.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w4_l2",
+   "title": "Held Up to the Light",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w4-lesson2-held-up-to-the-light.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w4_l3",
+   "title": "Told or Shown",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w4-lesson3-told-or-shown.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w4_l4",
+   "title": "Where Is the Beast?",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w4-lesson4-where-is-the-beast.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w5_l1",
+   "title": "The Storm Breaks",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w5-lesson1-storm-breaks.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w5_l2",
+   "title": "Frame by Frame",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w5-lesson2-frame-by-frame.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w5_l3",
+   "title": "Where the Weight Falls",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w5-lesson3-where-weight-falls.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w5_l4",
+   "title": "The Wall and the Wave",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w5-lesson4-wall-and-wave.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w6_l1",
+   "title": "The Shell and the Glasses",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w6-lesson1-shell-and-glasses.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w6_l2",
+   "title": "What's Right's Right",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w6-lesson2-whats-right.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w6_l3",
+   "title": "The Doer and the Deed",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w6-lesson3-doer-and-deed.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w6_l4",
+   "title": "Proving a Point",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w6-lesson4-proving-a-point.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w7_l1",
+   "title": "Cry of the Hunters",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w7-lesson1-cry-of-the-hunters.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w7_l2",
+   "title": "The Island Seen Whole",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w7-lesson2-island-seen-whole.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">At the end of the lesson, download this lesson's PDF and save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w7_p1",
+   "title": "Final Essay · Build Your Case",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w7-project1-build-your-case.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_w7_p2",
+   "title": "Final Essay · Write Your Essay",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/w7-project2-write-your-essay.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Finish the lesson.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "lf_a_final_essay",
+   "title": "Lord of the Flies Final Essay",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Lord of the Flies Final Essay</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">8th Grade ELA &middot; Lord of the Flies</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">100 points</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Essay, 3 to 5 pages</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">The question</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#0F5560;border-left:9px solid #C8706A;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;font-style:italic;\">When the structures of civilization fall away, what is left of us: the better part or the worse?</div></div><div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:0 0 8px 0;\">Answer it through the novel. The worse part may win, the better part may survive in some boys, or what is left may depend on the person. Any of these can earn full marks if defended well.</div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">The essay must</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\"><strong>State a clear thesis</strong> in the introduction: one sentence that answers the central question and can be defended.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\"><strong>Prove it with evidence from the text:</strong> at least three specific moments or short quotations, each explained in your own words. Quote only from your own copy of the novel.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\"><strong>State and answer at least two strong objections.</strong> For each, name the best case a thoughtful reader could make against you, then answer it honestly.</td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Upload</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:24px 28px;margin:4px 0 16px 0;\"><div style=\"font-size:21px;color:#1F2A2C;line-height:1.45;\">Upload your essay as one file (.docx or .pdf, 3 to 5 pages).</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">LastName_FirstName_LOTFEssay_ELA8</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Typed</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Cite by chapter</span></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">How this is scored</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"overflow-x:auto;\"><table style=\"border-collapse:collapse;width:100%;min-width:640px;margin:0;\"><thead><tr><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Criterion</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Excellent</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Proficient</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Developing</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Beginning</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><strong>Thesis &amp; Position</strong></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">A clear, arguable thesis answers the central question and guides the whole essay.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">A clear thesis answers the question; the essay mostly follows it.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">A position is present but vague or drifts as the essay goes on.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">No clear position, or the essay only summarizes the plot.</td></tr><tr style=\"background:#F6EEDC;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><strong>Evidence from the Text</strong></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Three or more well-chosen, accurate moments or quotations, each clearly explained.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">At least three pieces of textual evidence, most explained well.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Some evidence, but thin, vague, or left unexplained.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Little or no evidence from the text; claims unsupported.</td></tr><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><strong>Counterargument<br><span style=\"font-size:12px;color:#5C5648;\">(states AND answers a strong objection)</span></strong></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Two strong objections stated fairly and answered convincingly with evidence.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Two objections stated and answered, though one may be weaker.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Only one objection, or objections named but not really answered.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">No genuine objection considered; only the writer&rsquo;s own side appears.</td></tr><tr style=\"background:#F6EEDC;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><strong>Clarity &amp; Correctness of Prose</strong></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Clear, well-organized prose; clean grammar, capitalization, and spelling.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Generally clear and organized; few errors that do not distract.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Understandable but uneven; errors begin to distract the reader.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Hard to follow; frequent errors obscure the meaning.</td></tr></tbody></table></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">My thesis answers the central question in one clear sentence</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">I have at least three moments or short quotations, each explained and cited by chapter</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">I stated and answered two strong objections</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">My essay is typed, 3 to 5 pages, and named LastName_FirstName_LOTFEssay_ELA8</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">My essay file is uploaded here</td></tr></tbody></table>",
+   "points": 100.0,
+   "group": "lf_ag_project",
+   "rubric": "lf_r_final_essay",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "docx,pdf",
+   "published": true,
+   "week": 7,
+   "kind": "module-project"
+  },
+  {
+   "id": "lf_a_recitation",
+   "title": "Q3 Recitation",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Q3 Recitation</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">8th Grade ELA &middot; Lord of the Flies</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">10 points</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">One passage</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Recorded or uploaded</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Choose one passage</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:24px 28px;margin:4px 0 16px 0;\"><div style=\"font-size:21px;color:#1F2A2C;line-height:1.5;\">Choose the passage you know best.</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">The conch passage (Chapter 1)</div><div style=\"font-size:14px;color:#5C5648;line-height:1.65;margin-top:6px;\">From &ldquo;Ralph grasped the idea and hit the shell with air from his diaphragm.&rdquo; to &ldquo;the air over the island was full of bird-clamor and echoes ringing.&rdquo;</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">The sea after Simon&rsquo;s death (Chapter 9)</div><div style=\"font-size:14px;color:#5C5648;line-height:1.65;margin-top:6px;\">From &ldquo;Somewhere over the darkened curve of the world&rdquo; to &ldquo;moved out toward the open sea.&rdquo;</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">The closing lines (Chapter 12)</div><div style=\"font-size:14px;color:#5C5648;line-height:1.65;margin-top:6px;\">From &ldquo;The tears began to flow and sobs shook him.&rdquo; to &ldquo;the true, wise friend called Piggy.&rdquo;</div></td></tr></tbody></table><div style=\"font-size:14px;color:#5C5648;line-height:1.65;margin:6px 0 14px 0;\">Use the two phrases to find your passage in your own copy of the book.</div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Record it</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">30 to 60 seconds</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">From memory</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Recorder or file</span></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Find a quiet space and face your device.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Say the passage from memory at a steady pace.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Record it here with the Canvas recorder, or upload a short audio or video file.</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">What we listen for</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div data-levels=\"1\" style=\"margin:0 0 6px 0;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.35;margin:18px 0 6px 0;\">Accurate</div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:104px;min-width:104px;border-top:1px solid #E2D6BA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#C8706A;vertical-align:top;line-height:1.5;\">Complete</td><td style=\"border-top:1px solid #E2D6BA;padding:7px 0;font-size:13.5px;color:#1F2A2C;vertical-align:top;line-height:1.5;\">The words match Golding&rsquo;s, in order, from memory.</td></tr><tr><td style=\"width:104px;min-width:104px;border-top:1px solid #E2D6BA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#C8706A;vertical-align:top;line-height:1.5;\">Almost there</td><td style=\"border-top:1px solid #E2D6BA;padding:7px 0;font-size:13.5px;color:#1F2A2C;vertical-align:top;line-height:1.5;\">A few words were swapped, dropped, or read off a page.</td></tr></tbody></table><div style=\"font-size:16px;color:#1F2A2C;line-height:1.35;margin:18px 0 6px 0;\">Audible</div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:104px;min-width:104px;border-top:1px solid #E2D6BA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#C8706A;vertical-align:top;line-height:1.5;\">Complete</td><td style=\"border-top:1px solid #E2D6BA;padding:7px 0;font-size:13.5px;color:#1F2A2C;vertical-align:top;line-height:1.5;\">Clear and loud enough that every word is easy to hear.</td></tr><tr><td style=\"width:104px;min-width:104px;border-top:1px solid #E2D6BA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#C8706A;vertical-align:top;line-height:1.5;\">Almost there</td><td style=\"border-top:1px solid #E2D6BA;padding:7px 0;font-size:13.5px;color:#1F2A2C;vertical-align:top;line-height:1.5;\">Voice dropped or trailed off so some words were lost.</td></tr></tbody></table><div style=\"font-size:16px;color:#1F2A2C;line-height:1.35;margin:18px 0 6px 0;\">Paced</div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:104px;min-width:104px;border-top:1px solid #E2D6BA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#C8706A;vertical-align:top;line-height:1.5;\">Complete</td><td style=\"border-top:1px solid #E2D6BA;padding:7px 0;font-size:13.5px;color:#1F2A2C;vertical-align:top;line-height:1.5;\">Steady, unhurried, with pauses at the punctuation so the meaning carries.</td></tr><tr><td style=\"width:104px;min-width:104px;border-top:1px solid #E2D6BA;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#C8706A;vertical-align:top;line-height:1.5;\">Almost there</td><td style=\"border-top:1px solid #E2D6BA;padding:7px 0;font-size:13.5px;color:#1F2A2C;vertical-align:top;line-height:1.5;\">Rushed or halting, hard to follow the sense.</td></tr></tbody></table></div><div style=\"font-size:14px;color:#5C5648;line-height:1.65;margin:6px 0 14px 0;\">10 when it is complete, 6 when it is almost there, 0 when nothing is turned in.</div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">I chose one passage and said it from memory</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">My words are accurate, audible and paced</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">My recording or file is submitted here</td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "lf_ag_recitation",
+   "rubric": "lf_r_recitation",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "media_recording,online_upload",
+   "published": true,
+   "week": 7,
+   "kind": "recit"
+  }
+ ],
+ "quizzes": [],
+ "discussions": [
+  {
+   "id": "lf_d_w1",
+   "title": "Week 1 Discussion",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 1 Discussion</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">8th Grade ELA &middot; Lord of the Flies</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">10 points</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">1 post</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">1 reply</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Is Jack right?</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:24px 28px;margin:4px 0 16px 0;\"><div style=\"font-size:21px;color:#1F2A2C;line-height:1.5;\">&ldquo;We&rsquo;ve got to have rules and obey them. After all, we&rsquo;re not savages.&rdquo;</div><div style=\"font-size:14px;color:#5C5648;margin:10px 0 0 0;\">Jack, holding the conch (Ch. 2)</div></div><div style=\"background:#0F5560;border-left:9px solid #C8706A;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">Will the boys keep order because of who they are, or only as long as their rules hold?</div></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Post</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"margin:0 0 6px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">4 to 6 sentences</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Cited by chapter</span></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"font-size:16px;color:#1F2A2C;line-height:1.55;padding:4px 0 16px 4px;\">Take a position on the question.</td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"font-size:16px;color:#1F2A2C;line-height:1.55;padding:4px 0 16px 4px;\">Support it with one specific moment from Chapters 1 and 2, cited by chapter.</td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"font-size:16px;color:#1F2A2C;line-height:1.55;padding:4px 0 16px 4px;\">Explain what that moment shows about the boys.</td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Reply</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"margin:0 0 6px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">3 to 5 sentences</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">A classmate who disagreed</span></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"font-size:16px;color:#1F2A2C;line-height:1.55;padding:4px 0 16px 4px;\">Restate your classmate&rsquo;s strongest point in your own words.</td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"font-size:16px;color:#1F2A2C;line-height:1.55;padding:4px 0 16px 4px;\">Ask one question about their evidence.</td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"font-size:16px;color:#1F2A2C;line-height:1.55;padding:4px 0 16px 4px;\">Say whether their point changes your view, and how much.</td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">My post takes a position and cites one moment by chapter</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">My reply restates a classmate&rsquo;s point fairly and asks one question</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">My reply says whether my view changed</td></tr></tbody></table>",
+   "graded": true,
+   "points": 10.0,
+   "group": "lf_ag_discussions",
+   "rubric": "lf_r_d_w1",
+   "rubric_use_for_grading": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": false,
+   "week": 1,
+   "kind": "module-discussion"
+  },
+  {
+   "id": "lf_d_w4",
+   "title": "The Island Assembly",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">The Island Assembly</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">8th Grade ELA &middot; Lord of the Flies</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">10 points</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">1 proposal</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">2 replies</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">1 vote</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">The agenda</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:0 0 8px 0;\">Your teacher opens the assembly with this agenda.</div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\"><strong>Goal.</strong> Agree on one rule that could have kept the boys together.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\"><strong>Deadlines.</strong> Your proposal by the first date your teacher posts; two replies by the second; your vote by the third.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\"><strong>Speaking limits.</strong> 150 words for a proposal, 75 for a reply, one sentence for a vote.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">4</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\"><strong>Hold the conch.</strong> One proposal each.</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Proposal</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Up to 150 words</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">One rule</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Cited by chapter</span></div><div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:24px 28px;margin:4px 0 16px 0;\"><div style=\"font-size:21px;color:#1F2A2C;line-height:1.5;\">Chapter 8 ends with the boys split: Jack&rsquo;s tribe along the beach, Ralph&rsquo;s few by the fire.</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Propose <strong>one</strong> rule the boys could have made on the platform, before the split, that might have kept them together.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Say which moment from Chapters 1 to 8 shows the rule was needed. Quote a few words from your own copy and cite the chapter, like this: (Ch. 5).</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Replies</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Two replies</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Up to 75 words each</span></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Reply to a classmate whose rule you would vote for. Summarize their rule in your own words, then add one more moment that supports it.</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Reply to a classmate whose rule you doubt. Name the strongest part of their idea, then say courteously where it would break down on the island, with a moment.</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Vote</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">One sentence</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Not your own rule</span></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Reply to your teacher&rsquo;s agenda post with your vote: <em>My vote: [classmate&rsquo;s name]&rsquo;s rule, because &hellip;</em></div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Your teacher posts the tally as the closing note.</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">My proposal is one rule, within 150 words, with a quoted moment cited by chapter</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">My first reply summarizes a classmate&rsquo;s rule fairly and adds one more moment</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">My second reply names the strongest part of a classmate&rsquo;s idea and disagrees courteously, with a moment</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">My vote is one sentence with a reason, for a rule that is not my own</td></tr></tbody></table>",
+   "graded": true,
+   "points": 10.0,
+   "group": "lf_ag_discussions",
+   "rubric": "lf_r_d_w4",
+   "rubric_use_for_grading": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": false,
+   "week": 4,
+   "kind": "module-discussion"
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "lf_m_w1",
+   "title": "Lord of the Flies: Week 1",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "lf_a_w1_l1",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w1_l2",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w1_l3",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w1_l4",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "discussion",
+     "ref": "lf_d_w1",
+     "week": 1,
+     "published": false
+    }
+   ]
+  },
+  {
+   "id": "lf_m_w2",
+   "title": "Lord of the Flies: Week 2",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "lf_a_w2_l1",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w2_l2",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w2_l3",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w2_l4",
+     "week": 2,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "lf_m_w3",
+   "title": "Lord of the Flies: Week 3",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "lf_a_w3_l1",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w3_l2",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w3_l3",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w3_l4",
+     "week": 3,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "lf_m_w4",
+   "title": "Lord of the Flies: Week 4",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "lf_a_w4_l1",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w4_l2",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w4_l3",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w4_l4",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "discussion",
+     "ref": "lf_d_w4",
+     "week": 4,
+     "published": false
+    }
+   ]
+  },
+  {
+   "id": "lf_m_w5",
+   "title": "Lord of the Flies: Week 5",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "lf_a_w5_l1",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w5_l2",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w5_l3",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w5_l4",
+     "week": 5,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "lf_m_w6",
+   "title": "Lord of the Flies: Week 6",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "lf_a_w6_l1",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w6_l2",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w6_l3",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w6_l4",
+     "week": 6,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "lf_m_w7",
+   "title": "Lord of the Flies: Week 7",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "lf_a_w7_l1",
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w7_l2",
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w7_p1",
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_w7_p2",
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_final_essay",
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "lf_a_recitation",
+     "week": 7,
+     "completion": "must_submit"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Built 2026-11-13 by _src/canvas/make_kit_spec.py from OneDrive 8th Grade ELA Build (Canvas-Ready): 'Module 4 - Lord of the Flies_Weeks2-7_Integrated' (canvas-native/w2..w7-lesson-assignments.md, w4-island-assembly-forum.md + .html, final-essay-project.md + .html, q3-recitation.md + .html; _src/w2..w7/week.json) and 'Module 4 - Lord of the Flies_PILOT_Week1_Integrated' (canvas-native/w1-lesson-assignments.md, project-lesson-assignments.md, week-1-discussion-optional.md + .html; _src/w1/week.json, _src/w7/project.json). Lessons are served from https://optimaondemand.github.io/mj-english-language-arts-3/module-4-lord-of-the-flies-sparkle/ (proposed hosting folder, to confirm at deploy). Her rulings: every lesson is its own 10-pt PDF-upload assignment wrapping the GitHub lesson page (2026-11-05, 2026-11-13); the Final Essay takes one essay file and each project lesson's PDF goes to that lesson's assignment. 28 lessons x 10 + Final Essay 100 (proposed) + Q3 Recitation 10 (proposed) = 390 published points; the Week 1 Discussion and The Island Assembly are unpublished 10-pt discussions (+20). Gradebook groups: Lessons, Project, Recitation, Discussions. Sparkle = the integrated-week redesign of the Lord of the Flies module; the original ships in 1001070-s2 (weeks 1 to 7)."
+ }
+}
