@@ -4,11 +4,11 @@
  "code": "2002040",
  "title": "M/J Comprehensive Science 1 Sem 2",
  "file": "cartridges/2002040-s2.imscc",
- "bytes": 314385,
- "version": "2026.11.13",
- "built": "2026-11-13T13:57:42",
+ "bytes": 309861,
+ "version": "2026.11.16",
+ "built": "2026-11-16T11:23:27",
  "front_page": "wiki_content/course-home.html",
- "items": 176,
+ "items": 177,
  "modules": [
   {
    "id": "m_the-engage-encyclopedia-for-scholars",
@@ -47,7 +47,7 @@
    "title": "Q3 Week 3: Breaking News- Changing Landforms in the Sunshine State",
    "gid": "gc8f839f639e35979bdc0e9cf7f84e5ab",
    "published": true,
-   "items": 7,
+   "items": 8,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -188,13 +188,13 @@
   }
  ],
  "counts": {
-  "pages": 89,
+  "pages": 90,
   "assignments": 30,
   "quizzes": 13,
   "discussions": 0,
   "files": 0,
   "modules": 22,
-  "items": 176
+  "items": 177
  },
  "weights": [
   {
@@ -1041,23 +1041,23 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 146,
+   "resources": 147,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 44,
-    "webcontent": 89,
+    "webcontent": 90,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 13
    },
-   "organization_items": 131,
+   "organization_items": 132,
    "modules": 22,
-   "module_items": 176,
+   "module_items": 177,
    "module_item_types": {
     "ContextModuleSubHeader": 45,
-    "WikiPage": 88,
+    "WikiPage": 89,
     "Assignment": 30,
     "Quizzes::Quiz": 13
    },
    "default_view": "wiki",
-   "pages": 89,
+   "pages": 90,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 4,
    "group_refs": 56,
@@ -1069,6 +1069,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "93581066634fa137f6a0acae325b1e955c0a35a1b73c8981f91da490748212d1",
+ "spec_sha": "c5556fd86a65b7afea955edd0b4bfe09ba9c25c5ba2f5c8bf0725764270c9d09",
  "art_pack": null
 }
