@@ -4,11 +4,11 @@
  "code": "2002040",
  "title": "M/J Comprehensive Science 1 Sem 2",
  "file": "cartridges/2002040-s2.imscc",
- "bytes": 309861,
+ "bytes": 301508,
  "version": "2026.11.16",
- "built": "2026-11-16T11:23:27",
+ "built": "2026-11-16T14:43:42",
  "front_page": "wiki_content/course-home.html",
- "items": 177,
+ "items": 178,
  "modules": [
   {
    "id": "m_the-engage-encyclopedia-for-scholars",
@@ -55,7 +55,7 @@
    "title": "Q3 Week 4: Earth’s Invisible Shield— The Power of the Atmosphere",
    "gid": "g892108320a387712a23ef62ade14bed2",
    "published": true,
-   "items": 7,
+   "items": 8,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -188,13 +188,13 @@
   }
  ],
  "counts": {
-  "pages": 90,
+  "pages": 91,
   "assignments": 30,
   "quizzes": 13,
   "discussions": 0,
   "files": 0,
   "modules": 22,
-  "items": 177
+  "items": 178
  },
  "weights": [
   {
@@ -1041,23 +1041,23 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 147,
+   "resources": 148,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 44,
-    "webcontent": 90,
+    "webcontent": 91,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 13
    },
-   "organization_items": 132,
+   "organization_items": 133,
    "modules": 22,
-   "module_items": 177,
+   "module_items": 178,
    "module_item_types": {
     "ContextModuleSubHeader": 45,
-    "WikiPage": 89,
+    "WikiPage": 90,
     "Assignment": 30,
     "Quizzes::Quiz": 13
    },
    "default_view": "wiki",
-   "pages": 90,
+   "pages": 91,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 4,
    "group_refs": 56,
@@ -1069,6 +1069,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "c5556fd86a65b7afea955edd0b4bfe09ba9c25c5ba2f5c8bf0725764270c9d09",
+ "spec_sha": "54a1f1dce71cc1e70dd7e59b2eae03f7154d55228d2ceb542dd718c2834371b1",
  "art_pack": null
 }
