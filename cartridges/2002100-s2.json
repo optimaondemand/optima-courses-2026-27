@@ -4,11 +4,11 @@
  "code": "2002100",
  "title": "M/J Comprehensive Science 3 Sem 2",
  "file": "cartridges/2002100-s2.imscc",
- "bytes": 303815,
- "version": "2026.10.16",
- "built": "2026-10-16T11:11:05",
+ "bytes": 304851,
+ "version": "2026.11.16",
+ "built": "2026-11-16T11:19:51",
  "front_page": "wiki_content/course-home.html",
- "items": 184,
+ "items": 185,
  "modules": [
   {
    "id": "m_vrguide",
@@ -103,7 +103,7 @@
    "title": "Q3 Week 9: A Cosmic Grand Finale— Charting the Stars",
    "gid": "g4d56423671b1a5bf7e3bd3438a59d4f0",
    "published": true,
-   "items": 7,
+   "items": 8,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -196,13 +196,13 @@
   }
  ],
  "counts": {
-  "pages": 96,
+  "pages": 97,
   "assignments": 30,
   "quizzes": 13,
   "discussions": 0,
   "files": 0,
   "modules": 23,
-  "items": 184
+  "items": 185
  },
  "weights": [
   {
@@ -1049,25 +1049,25 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 154,
+   "resources": 155,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 44,
-    "webcontent": 96,
+    "webcontent": 97,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 13,
     "imswl_xmlv1p1": 1
    },
-   "organization_items": 139,
+   "organization_items": 140,
    "modules": 23,
-   "module_items": 184,
+   "module_items": 185,
    "module_item_types": {
     "ContextModuleSubHeader": 45,
-    "WikiPage": 95,
+    "WikiPage": 96,
     "ExternalUrl": 1,
     "Assignment": 30,
     "Quizzes::Quiz": 13
    },
    "default_view": "wiki",
-   "pages": 96,
+   "pages": 97,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 4,
    "group_refs": 56,
@@ -1079,6 +1079,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "549c740351580868c951a5e41c23cee5241bc273e82b9ca098d9d5ed28128240",
+ "spec_sha": "872ba1deb33e6822c0489c585de6b4868bde50f99c18a5138680722f2879fd2c",
  "art_pack": null
 }
