@@ -4,11 +4,11 @@
  "code": "2002040",
  "title": "M/J Comprehensive Science 1 Sem 2",
  "file": "cartridges/2002040-s2.imscc",
- "bytes": 301508,
+ "bytes": 294342,
  "version": "2026.11.16",
- "built": "2026-11-16T14:43:42",
+ "built": "2026-11-16T15:14:03",
  "front_page": "wiki_content/course-home.html",
- "items": 178,
+ "items": 179,
  "modules": [
   {
    "id": "m_the-engage-encyclopedia-for-scholars",
@@ -63,7 +63,7 @@
    "title": "Q3 Week 5: The Planet That Never Rests— Earth’s Five Spheres",
    "gid": "gbe27d67d9a641e18b83c8817fe68dc3b",
    "published": true,
-   "items": 8,
+   "items": 9,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -188,13 +188,13 @@
   }
  ],
  "counts": {
-  "pages": 91,
+  "pages": 92,
   "assignments": 30,
   "quizzes": 13,
   "discussions": 0,
   "files": 0,
   "modules": 22,
-  "items": 178
+  "items": 179
  },
  "weights": [
   {
@@ -1041,23 +1041,23 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 148,
+   "resources": 149,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 44,
-    "webcontent": 91,
+    "webcontent": 92,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 13
    },
-   "organization_items": 133,
+   "organization_items": 134,
    "modules": 22,
-   "module_items": 178,
+   "module_items": 179,
    "module_item_types": {
     "ContextModuleSubHeader": 45,
-    "WikiPage": 90,
+    "WikiPage": 91,
     "Assignment": 30,
     "Quizzes::Quiz": 13
    },
    "default_view": "wiki",
-   "pages": 91,
+   "pages": 92,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 4,
    "group_refs": 56,
@@ -1069,6 +1069,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "54a1f1dce71cc1e70dd7e59b2eae03f7154d55228d2ceb542dd718c2834371b1",
+ "spec_sha": "61a75072a33723fe59074a447af9d7d92f3c123eb7489401e24539110f5a6f6a",
  "art_pack": null
 }
