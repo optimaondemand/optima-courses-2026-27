@@ -1,0 +1,188 @@
+{
+ "id": "1001040-m4-sparkle",
+ "label": "The Outsiders · Sparkle",
+ "code": "1001040",
+ "title": "M/J Language Arts 2 · The Outsiders (Sparkle)",
+ "file": "cartridges/1001040-m4-sparkle.imscc",
+ "bytes": 25399,
+ "version": "2026.11.17",
+ "built": "2026-11-17T15:04:31",
+ "front_page": "wiki_content/course-home.html",
+ "items": 5,
+ "modules": [
+  {
+   "id": "out_m_w1",
+   "title": "The Outsiders: Week 1",
+   "gid": "gbe54f6640df56dea1cd5d12e3fa1fe6c",
+   "published": true,
+   "items": 5,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 1,
+  "assignments": 4,
+  "quizzes": 1,
+  "discussions": 0,
+  "files": 0,
+  "modules": 1,
+  "items": 5
+ },
+ "weights": [
+  {
+   "title": "Lessons",
+   "weight": 0
+  },
+  {
+   "title": "Quizzes",
+   "weight": 0
+  }
+ ],
+ "groups": [
+  {
+   "id": "g6cfa95510c877df6d2abb334519072c1",
+   "title": "Lessons",
+   "weight": 0.0,
+   "position": 1
+  },
+  {
+   "id": "gfe786d7e4a3b93c849390e578fefc6f3",
+   "title": "Quizzes",
+   "weight": 0.0,
+   "position": 2
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "out_a_w1_l1",
+   "type": "assignment",
+   "title": "Walking Home Alone",
+   "gid": "gc60e1391d3d396e7d3952b7dd4cac6a9",
+   "xml": "gc60e1391d3d396e7d3952b7dd4cac6a9/assignment_settings.xml",
+   "module": "out_m_w1",
+   "week": 1,
+   "kind": "lesson-assignment",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g6cfa95510c877df6d2abb334519072c1",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "out_a_w1_l2",
+   "type": "assignment",
+   "title": "The Nightly Double",
+   "gid": "g8ba781302e89e3bdbcf347eb8f7662bc",
+   "xml": "g8ba781302e89e3bdbcf347eb8f7662bc/assignment_settings.xml",
+   "module": "out_m_w1",
+   "week": 1,
+   "kind": "lesson-assignment",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g6cfa95510c877df6d2abb334519072c1",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "out_a_w1_l3",
+   "type": "assignment",
+   "title": "The Writer's Bench",
+   "gid": "g48c734ad9f3045fc30aadd1201100799",
+   "xml": "g48c734ad9f3045fc30aadd1201100799/assignment_settings.xml",
+   "module": "out_m_w1",
+   "week": 1,
+   "kind": "lesson-assignment",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g6cfa95510c877df6d2abb334519072c1",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "out_a_w1_l4",
+   "type": "assignment",
+   "title": "Both Sides of Town",
+   "gid": "g5487d0bad8df2305fd636afacbd5ac6d",
+   "xml": "g5487d0bad8df2305fd636afacbd5ac6d/assignment_settings.xml",
+   "module": "out_m_w1",
+   "week": 1,
+   "kind": "lesson-assignment",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g6cfa95510c877df6d2abb334519072c1",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "out_q_w1_quiz",
+   "type": "quiz",
+   "title": "Week 1 Quiz",
+   "gid": "g37afd9e6dbaacc4ddc51991d94028b45",
+   "xml": "g37afd9e6dbaacc4ddc51991d94028b45/assessment_meta.xml",
+   "module": "out_m_w1",
+   "week": 1,
+   "kind": "week-quiz",
+   "points": 16.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "gfe786d7e4a3b93c849390e578fefc6f3",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": false,
+ "source": "spec 1001040-m4-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [],
+  "stats": {
+   "resources": 8,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 6,
+    "webcontent": 1,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 1
+   },
+   "organization_items": 5,
+   "modules": 1,
+   "module_items": 5,
+   "module_item_types": {
+    "Assignment": 4,
+    "Quizzes::Quiz": 1
+   },
+   "default_view": "wiki",
+   "pages": 1,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 2,
+   "group_refs": 6,
+   "quizzes": 1,
+   "assignments": 4,
+   "discussions": 0,
+   "files": 0,
+   "points_listed": 72.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "fd9a4b67b6be69836c71b20edd2108b6c0cea32f07c9a7d1ee518a01ada3b2e5",
+ "art_pack": null
+}

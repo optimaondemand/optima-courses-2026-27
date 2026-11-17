@@ -1,0 +1,188 @@
+{
+ "id": "1001040-m42-sparkle",
+ "label": "A Midsummer Night's Dream · Sparkle",
+ "code": "1001040",
+ "title": "M/J Language Arts 2 · A Midsummer Night's Dream (Sparkle)",
+ "file": "cartridges/1001040-m42-sparkle.imscc",
+ "bytes": 26248,
+ "version": "2026.11.17",
+ "built": "2026-11-17T15:05:17",
+ "front_page": "wiki_content/course-home.html",
+ "items": 5,
+ "modules": [
+  {
+   "id": "mnd_m_w1",
+   "title": "A Midsummer Night's Dream: Week 1",
+   "gid": "ga1210f10d008704c25346c5246afbd5b",
+   "published": true,
+   "items": 5,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 1,
+  "assignments": 4,
+  "quizzes": 1,
+  "discussions": 0,
+  "files": 0,
+  "modules": 1,
+  "items": 5
+ },
+ "weights": [
+  {
+   "title": "Lessons",
+   "weight": 0
+  },
+  {
+   "title": "Quizzes",
+   "weight": 0
+  }
+ ],
+ "groups": [
+  {
+   "id": "g02ea296ade98af5ade182a7135ae4c0e",
+   "title": "Lessons",
+   "weight": 0.0,
+   "position": 1
+  },
+  {
+   "id": "g57d51786ce10242053049210ad668419",
+   "title": "Quizzes",
+   "weight": 0.0,
+   "position": 2
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "mnd_a_w1_l1",
+   "type": "assignment",
+   "title": "By Whose Eyes",
+   "gid": "g24bc37ce1f409c35c6e8c2ec5b88bbcc",
+   "xml": "g24bc37ce1f409c35c6e8c2ec5b88bbcc/assignment_settings.xml",
+   "module": "mnd_m_w1",
+   "week": 8,
+   "kind": "lesson-assignment",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g02ea296ade98af5ade182a7135ae4c0e",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "mnd_a_w1_l2",
+   "type": "assignment",
+   "title": "Let Me Play the Lion",
+   "gid": "g1d9c8feaa23fbe00d94e79069ec8761e",
+   "xml": "g1d9c8feaa23fbe00d94e79069ec8761e/assignment_settings.xml",
+   "module": "mnd_m_w1",
+   "week": 8,
+   "kind": "lesson-assignment",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g02ea296ade98af5ade182a7135ae4c0e",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "mnd_a_w1_l3",
+   "type": "assignment",
+   "title": "The Writer's Bench",
+   "gid": "g8c2eb3301fbfe789f3c3125c85f4983a",
+   "xml": "g8c2eb3301fbfe789f3c3125c85f4983a/assignment_settings.xml",
+   "module": "mnd_m_w1",
+   "week": 8,
+   "kind": "lesson-assignment",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g02ea296ade98af5ade182a7135ae4c0e",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "mnd_a_w1_l4",
+   "type": "assignment",
+   "title": "Whose Account to Trust",
+   "gid": "g387068e72a06908c03bfabdcf300d83f",
+   "xml": "g387068e72a06908c03bfabdcf300d83f/assignment_settings.xml",
+   "module": "mnd_m_w1",
+   "week": 8,
+   "kind": "lesson-assignment",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g02ea296ade98af5ade182a7135ae4c0e",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "mnd_q_w1_quiz",
+   "type": "quiz",
+   "title": "Week 1 Quiz",
+   "gid": "gb2fb08e147cc839deeab4fcb8317a707",
+   "xml": "gb2fb08e147cc839deeab4fcb8317a707/assessment_meta.xml",
+   "module": "mnd_m_w1",
+   "week": 8,
+   "kind": "week-quiz",
+   "points": 16.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g57d51786ce10242053049210ad668419",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": false,
+ "source": "spec 1001040-m42-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [],
+  "stats": {
+   "resources": 8,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 6,
+    "webcontent": 1,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 1
+   },
+   "organization_items": 5,
+   "modules": 1,
+   "module_items": 5,
+   "module_item_types": {
+    "Assignment": 4,
+    "Quizzes::Quiz": 1
+   },
+   "default_view": "wiki",
+   "pages": 1,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 2,
+   "group_refs": 6,
+   "quizzes": 1,
+   "assignments": 4,
+   "discussions": 0,
+   "files": 0,
+   "points_listed": 72.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "37772773ba2961b9a9e264413a3ea5503f64b3ee42f974f8de8afc4fd9ab8ba2",
+ "art_pack": null
+}
