@@ -4,11 +4,11 @@
  "code": "2002040",
  "title": "M/J Comprehensive Science 1 Sem 2",
  "file": "cartridges/2002040-s2.imscc",
- "bytes": 290410,
+ "bytes": 287414,
  "version": "2026.11.16",
- "built": "2026-11-16T15:37:13",
+ "built": "2026-11-16T21:23:14",
  "front_page": "wiki_content/course-home.html",
- "items": 180,
+ "items": 181,
  "modules": [
   {
    "id": "m_the-engage-encyclopedia-for-scholars",
@@ -79,7 +79,7 @@
    "title": "Q3 Week 7: Heat in Motion— How Energy Moves Through Our World",
    "gid": "gb18a3db9dbd57d33b3573a98970b4788",
    "published": true,
-   "items": 6,
+   "items": 7,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -188,13 +188,13 @@
   }
  ],
  "counts": {
-  "pages": 93,
+  "pages": 94,
   "assignments": 30,
   "quizzes": 13,
   "discussions": 0,
   "files": 0,
   "modules": 22,
-  "items": 180
+  "items": 181
  },
  "weights": [
   {
@@ -1041,23 +1041,23 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 150,
+   "resources": 151,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 44,
-    "webcontent": 93,
+    "webcontent": 94,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 13
    },
-   "organization_items": 135,
+   "organization_items": 136,
    "modules": 22,
-   "module_items": 180,
+   "module_items": 181,
    "module_item_types": {
     "ContextModuleSubHeader": 45,
-    "WikiPage": 92,
+    "WikiPage": 93,
     "Assignment": 30,
     "Quizzes::Quiz": 13
    },
    "default_view": "wiki",
-   "pages": 93,
+   "pages": 94,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 4,
    "group_refs": 56,
@@ -1069,6 +1069,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "ed07bc6837f520bb24326918fa2804bf553b75833c7d105ed776a5c45a1889d2",
+ "spec_sha": "ebc300c45ab368f5d9e5725cae90f57038d7578ffcd3b164685560adfd5a456d",
  "art_pack": null
 }
