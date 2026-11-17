@@ -4,11 +4,11 @@
  "code": "2002070",
  "title": "M/J Comprehensive Science 2 Sem 2",
  "file": "cartridges/2002070-s2.imscc",
- "bytes": 277173,
- "version": "2026.11.16",
- "built": "2026-11-16T21:05:52",
+ "bytes": 233765,
+ "version": "2026.11.17",
+ "built": "2026-11-17T10:30:32",
  "front_page": "wiki_content/course-home.html",
- "items": 185,
+ "items": 186,
  "modules": [
   {
    "id": "m_the-engage-encyclopedia-for-scholars",
@@ -191,18 +191,18 @@
    "title": "Q4 Week 11: Final Transmission — End of Year Reflection",
    "gid": "ga67d869d58c3e29a999fd3726d099263",
    "published": true,
-   "items": 3,
+   "items": 4,
    "xml": "course_settings/module_meta.xml"
   }
  ],
  "counts": {
-  "pages": 97,
+  "pages": 98,
   "assignments": 30,
   "quizzes": 13,
   "discussions": 0,
   "files": 0,
   "modules": 23,
-  "items": 185
+  "items": 186
  },
  "weights": [
   {
@@ -1049,25 +1049,25 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 155,
+   "resources": 156,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 44,
-    "webcontent": 97,
+    "webcontent": 98,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 13,
     "imswl_xmlv1p1": 1
    },
-   "organization_items": 140,
+   "organization_items": 141,
    "modules": 23,
-   "module_items": 185,
+   "module_items": 186,
    "module_item_types": {
     "ContextModuleSubHeader": 45,
-    "WikiPage": 96,
+    "WikiPage": 97,
     "ExternalUrl": 1,
     "Assignment": 30,
     "Quizzes::Quiz": 13
    },
    "default_view": "wiki",
-   "pages": 97,
+   "pages": 98,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 4,
    "group_refs": 56,
@@ -1079,6 +1079,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "8025693a5b80d3a9e0bcf1cb06f7b0f37bd701c6d484641e885b88944fd9eae7",
+ "spec_sha": "7af109d205f50b72055f8b226b55592fe48fe83b03652e13323fc32723699fe7",
  "art_pack": null
 }
