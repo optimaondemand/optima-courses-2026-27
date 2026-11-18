@@ -4,15 +4,15 @@
  "code": "2002070",
  "title": "M/J Comprehensive Science 2 Sem 2",
  "file": "cartridges/2002070-s2.imscc",
- "bytes": 233765,
- "version": "2026.11.17",
- "built": "2026-11-17T10:30:32",
+ "bytes": 233841,
+ "version": "2026.11.18",
+ "built": "2026-11-18T10:41:19",
  "front_page": "wiki_content/course-home.html",
  "items": 186,
  "modules": [
   {
    "id": "m_the-engage-encyclopedia-for-scholars",
-   "title": "The ENGAGE Encyclopedia for Scholars",
+   "title": "The Optima VR Encyclopedia for Scholars",
    "gid": "g32443e3835bef49004c170c8778f9585",
    "published": true,
    "items": 42,
@@ -306,7 +306,7 @@
   {
    "id": "a_plate-boundaries-in-action-3d-pen-earth-science-model",
    "type": "assignment",
-   "title": "🌍 Plate Boundaries in Action: 3D Pen Earth Science Model",
+   "title": "🌍 Plate Boundaries in Action: Whiteboard Earth Science Model",
    "gid": "g7d14b60be2ef4dbc9046c135faff1fc8",
    "xml": "g7d14b60be2ef4dbc9046c135faff1fc8/assignment_settings.xml",
    "module": "m_q3-week-3-breaking-news-how-plate-tect",
@@ -1079,6 +1079,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "7af109d205f50b72055f8b226b55592fe48fe83b03652e13323fc32723699fe7",
+ "spec_sha": "845ca71b918d900b16fab57e6d2c1f5dfe8162ef035625e421155188afcb82de",
  "art_pack": null
 }

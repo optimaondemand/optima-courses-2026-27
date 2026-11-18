@@ -4,15 +4,15 @@
  "code": "2002100",
  "title": "M/J Comprehensive Science 3 Sem 2",
  "file": "cartridges/2002100-s2.imscc",
- "bytes": 304630,
- "version": "2026.11.16",
- "built": "2026-11-16T16:46:48",
+ "bytes": 304585,
+ "version": "2026.11.18",
+ "built": "2026-11-18T10:41:37",
  "front_page": "wiki_content/course-home.html",
  "items": 185,
  "modules": [
   {
    "id": "m_vrguide",
-   "title": "The ENGAGE Encyclopedia for Scholars",
+   "title": "The Optima VR Encyclopedia for Scholars",
    "gid": "g0e0d7168e91ef1597675c02aedc94169",
    "published": true,
    "items": 42,
@@ -306,7 +306,7 @@
   {
    "id": "a_q3w03_the_hierarchy_of_the_uni",
    "type": "assignment",
-   "title": "🪐 The Hierarchy of the Universe: 3D Pen Model Challenge",
+   "title": "🪐 The Hierarchy of the Universe: Whiteboard Model Challenge",
    "gid": "g0b714ad1b6d99e47d8acfbae01d1f293",
    "xml": "g0b714ad1b6d99e47d8acfbae01d1f293/assignment_settings.xml",
    "module": "m_q3w03",
@@ -1079,6 +1079,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "42e58a4f13237e6a502950f3bb8098760772154c8721f1f5861237084a15dd03",
+ "spec_sha": "5056142c21223c47d108004fa8f70585474d7c17ca96e84db7d4453350442288",
  "art_pack": null
 }

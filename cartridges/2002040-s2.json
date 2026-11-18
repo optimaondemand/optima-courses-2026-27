@@ -4,15 +4,15 @@
  "code": "2002040",
  "title": "M/J Comprehensive Science 1 Sem 2",
  "file": "cartridges/2002040-s2.imscc",
- "bytes": 287414,
- "version": "2026.11.16",
- "built": "2026-11-16T21:23:14",
+ "bytes": 287359,
+ "version": "2026.11.18",
+ "built": "2026-11-18T10:40:57",
  "front_page": "wiki_content/course-home.html",
  "items": 181,
  "modules": [
   {
    "id": "m_the-engage-encyclopedia-for-scholars",
-   "title": "The ENGAGE Encyclopedia for Scholars",
+   "title": "The Optima VR Encyclopedia for Scholars",
    "gid": "g599f8eaf2f6383135c112e314f879af8",
    "published": true,
    "items": 42,
@@ -298,7 +298,7 @@
   {
    "id": "a_earths-landforms-3d-pen-surface-features-model",
    "type": "assignment",
-   "title": "🏞️ Earth’s Landforms: 3D Pen Surface Features Model",
+   "title": "🏞️ Earth’s Landforms: Whiteboard Surface Features Model",
    "gid": "g0b61412a6808823f8f34ff8da38f45de",
    "xml": "g0b61412a6808823f8f34ff8da38f45de/assignment_settings.xml",
    "module": "m_q3-week-3-breaking-news-changing-landf",
@@ -1069,6 +1069,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "ebc300c45ab368f5d9e5725cae90f57038d7578ffcd3b164685560adfd5a456d",
+ "spec_sha": "4b1bd0b565ed33c858d42eda9a31291e8084fe909a4dcaf87126a5dde18b3e98",
  "art_pack": null
 }
