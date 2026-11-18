@@ -4,9 +4,9 @@
  "code": "2002070",
  "title": "M/J Comprehensive Science 2 Sem 2",
  "file": "cartridges/2002070-s2.imscc",
- "bytes": 233815,
+ "bytes": 233798,
  "version": "2026.11.18",
- "built": "2026-11-18T11:45:40",
+ "built": "2026-11-18T12:03:59",
  "front_page": "wiki_content/course-home.html",
  "items": 186,
  "modules": [
@@ -612,7 +612,7 @@
   {
    "id": "a_signal-lost-an-energy-survival-log-part-1",
    "type": "assignment",
-   "title": "✏️⚡Signal Lost: An Energy Survival Log— Part 1",
+   "title": "✏️⚡ Signal Lost: An Energy Survival Log— Part 1",
    "gid": "g344de962ed5aa730bca1095bfce2f06d",
    "xml": "g344de962ed5aa730bca1095bfce2f06d/assignment_settings.xml",
    "module": "m_q4-week-5-energy-in-action-tracking-tr",
@@ -684,7 +684,7 @@
   {
    "id": "a_light-lab-investigating-how-light-interacts-with-matter",
    "type": "assignment",
-   "title": "💡Light Lab: Investigating How Light Interacts with Matter",
+   "title": "💡 Light Lab: Investigating How Light Interacts with Matter",
    "gid": "g1ec5a7b0fd6967272d202fcc75dfe504",
    "xml": "g1ec5a7b0fd6967272d202fcc75dfe504/assignment_settings.xml",
    "module": "m_q4-week-7-light-in-action-how-light-r",
@@ -792,7 +792,7 @@
   {
    "id": "q_earth-s-interior-plate-tectonics-surface-changes-quiz",
    "type": "quiz",
-   "title": "🏛  Earth’s Interior, Plate Tectonics & Surface Changes Quiz",
+   "title": "🏛 Earth’s Interior, Plate Tectonics & Surface Changes Quiz",
    "gid": "gd3261991135bbeaa142f7417ef0ff7a3",
    "xml": "gd3261991135bbeaa142f7417ef0ff7a3/assessment_meta.xml",
    "module": "m_q3-week-3-breaking-news-how-plate-tect",
@@ -1079,6 +1079,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "700ee504462d1a282696e491d6f8bd5b3b29741bc673bebe64e0f7ba164a2036",
+ "spec_sha": "43d6d1e511b55ad9be7d767471ed093e0c4a9cecd7172940bc15fab239b6c937",
  "art_pack": null
 }
