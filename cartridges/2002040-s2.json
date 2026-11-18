@@ -4,9 +4,9 @@
  "code": "2002040",
  "title": "M/J Comprehensive Science 1 Sem 2",
  "file": "cartridges/2002040-s2.imscc",
- "bytes": 287306,
+ "bytes": 287300,
  "version": "2026.11.18",
- "built": "2026-11-18T11:45:32",
+ "built": "2026-11-18T11:55:39",
  "front_page": "wiki_content/course-home.html",
  "items": 181,
  "modules": [
@@ -784,7 +784,7 @@
   {
    "id": "q_earth-s-changing-surface-landforms-quiz",
    "type": "quiz",
-   "title": "🏛Earth’s Changing Surface & Landforms Quiz",
+   "title": "🏛 Earth’s Changing Surface & Landforms Quiz",
    "gid": "gd0601fbfad08ccff3585c6ebf15c47aa",
    "xml": "gd0601fbfad08ccff3585c6ebf15c47aa/assessment_meta.xml",
    "module": "m_q3-week-3-breaking-news-changing-landf",
@@ -1012,7 +1012,7 @@
   {
    "id": "q_quarter-4-finalexam",
    "type": "quiz",
-   "title": "🏛 Quarter 4 FinalExam",
+   "title": "🏛 Quarter 4 Final Exam",
    "gid": "g6cb70aa49174019a0f78a3f8e173d3d0",
    "xml": "g6cb70aa49174019a0f78a3f8e173d3d0/assessment_meta.xml",
    "module": "m_q4-week-9-final-approach-preparing-fo",
@@ -1069,6 +1069,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "3a22bf5531f6cda66ed6ff693a04b303a3915f858e8bc54593f17822868626e9",
+ "spec_sha": "6cbe8481a4232ca8ce2c795bec480d90e77b6591aedf5fa7a75d7d68ed13b8dd",
  "art_pack": null
 }

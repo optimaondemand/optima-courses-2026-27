@@ -4,9 +4,9 @@
  "code": "2002100",
  "title": "M/J Comprehensive Science 3 Sem 2",
  "file": "cartridges/2002100-s2.imscc",
- "bytes": 304510,
+ "bytes": 304512,
  "version": "2026.11.18",
- "built": "2026-11-18T11:45:49",
+ "built": "2026-11-18T11:55:48",
  "front_page": "wiki_content/course-home.html",
  "items": 185,
  "modules": [
@@ -811,7 +811,7 @@
   {
    "id": "q_q3w05_distance_size_compositio",
    "type": "quiz",
-   "title": "🏛Distance, Size, Composition & Gravity Quiz",
+   "title": "🏛 Distance, Size, Composition & Gravity Quiz",
    "gid": "ga5a6c55523f8da132fa81c203a4e7d24",
    "xml": "ga5a6c55523f8da132fa81c203a4e7d24/assessment_meta.xml",
    "module": "m_q3w05",
@@ -1079,6 +1079,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "41c3dd3b10f98ccaba06211a0e83a3c0ad5b59084a37f857e7ab5fad7e1255e9",
+ "spec_sha": "3f32559da8f7bd9a54a5e3948f4f15e5aeba01772df3e6deeb46756b5b706f35",
  "art_pack": null
 }
