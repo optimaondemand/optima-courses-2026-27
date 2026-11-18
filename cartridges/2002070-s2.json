@@ -4,11 +4,11 @@
  "code": "2002070",
  "title": "M/J Comprehensive Science 2 Sem 2",
  "file": "cartridges/2002070-s2.imscc",
- "bytes": 233798,
+ "bytes": 261004,
  "version": "2026.11.18",
- "built": "2026-11-18T12:03:59",
+ "built": "2026-11-18T15:40:03",
  "front_page": "wiki_content/course-home.html",
- "items": 186,
+ "items": 191,
  "modules": [
   {
    "id": "m_the-engage-encyclopedia-for-scholars",
@@ -39,7 +39,7 @@
    "title": "Q3 Week 1: Earth’s Internal Engine— The Heat That Moves the World",
    "gid": "g94c60e381305bc7e81d488fe04c3d534",
    "published": true,
-   "items": 6,
+   "items": 7,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -47,7 +47,7 @@
    "title": "Q3 Week 2: Not So Solid Ground— Plate Tectonics in Action",
    "gid": "g34bc6255ef1a216d29af63a734b87a1b",
    "published": true,
-   "items": 6,
+   "items": 7,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -63,7 +63,7 @@
    "title": "Q3 Week 4: The Never-Ending Rock Cycle— How Earth Recycles Its Crust",
    "gid": "g4a6bc21501d54593134bd95d38952585",
    "published": true,
-   "items": 8,
+   "items": 9,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -79,7 +79,7 @@
    "title": "Q3 Week 6: Cracking Earth’s Timeline— Measuring the Immeasurable",
    "gid": "gdb2dd547500d9e4b7e1187805d76631f",
    "published": true,
-   "items": 6,
+   "items": 7,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -95,7 +95,7 @@
    "title": "Q3 Week 8: When Balance Breaks— Earth’s Systems & Human Impact",
    "gid": "g516864215bb8743414e8ed7a225c1155",
    "published": true,
-   "items": 7,
+   "items": 8,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -198,11 +198,11 @@
  "counts": {
   "pages": 98,
   "assignments": 30,
-  "quizzes": 13,
+  "quizzes": 18,
   "discussions": 0,
   "files": 0,
   "modules": 23,
-  "items": 186
+  "items": 191
  },
  "weights": [
   {
@@ -1035,6 +1035,101 @@
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
+  },
+  {
+   "id": "q_q3w01_earths_internal_heat_quiz",
+   "type": "quiz",
+   "title": "🏛 Earth’s Internal Heat Quiz",
+   "gid": "gbc1c60655336d1f9c2a7544ec430fe27",
+   "xml": "gbc1c60655336d1f9c2a7544ec430fe27/assessment_meta.xml",
+   "module": "m_q3-week-1-earth-s-internal-engine-the",
+   "week": 1,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g3678e2e7006785c4a8de0fc8a0b5cc31",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_q3w02_plate_tectonics_plate_boundaries",
+   "type": "quiz",
+   "title": "🏛 Plate Tectonics & Plate Boundaries Quiz",
+   "gid": "ga8d8d4a1364fe59b6017f5e2b8a29d10",
+   "xml": "ga8d8d4a1364fe59b6017f5e2b8a29d10/assessment_meta.xml",
+   "module": "m_q3-week-2-not-so-solid-ground-plate-te",
+   "week": 2,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g3678e2e7006785c4a8de0fc8a0b5cc31",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_q3w04_rock_cycle_rock_types_quiz",
+   "type": "quiz",
+   "title": "🏛 Rock Cycle & Rock Types Quiz",
+   "gid": "gcc880f16a2f578de2fa9158e4e1bf643",
+   "xml": "gcc880f16a2f578de2fa9158e4e1bf643/assessment_meta.xml",
+   "module": "m_q3-week-4-the-never-ending-rock-cycle",
+   "week": 4,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g3678e2e7006785c4a8de0fc8a0b5cc31",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_q3w06_measuring_the_age_of_earth_quiz",
+   "type": "quiz",
+   "title": "🏛 Measuring the Age of Earth Quiz",
+   "gid": "g0768245e03b3817f10b55b8b6d62f707",
+   "xml": "g0768245e03b3817f10b55b8b6d62f707/assessment_meta.xml",
+   "module": "m_q3-week-6-cracking-earth-s-timeline-me",
+   "week": 6,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g3678e2e7006785c4a8de0fc8a0b5cc31",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_q3w08_human_impact_on_earths_systems_q",
+   "type": "quiz",
+   "title": "🏛 Human Impact on Earth’s Systems Quiz",
+   "gid": "ge446f94ea4d91370a8f9bf91d36e7668",
+   "xml": "ge446f94ea4d91370a8f9bf91d36e7668/assessment_meta.xml",
+   "module": "m_q3-week-8-when-balance-breaks-earth-s",
+   "week": 8,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g3678e2e7006785c4a8de0fc8a0b5cc31",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
   }
  ],
  "settings": {
@@ -1049,36 +1144,36 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 156,
+   "resources": 166,
    "resource_types": {
-    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 44,
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 49,
     "webcontent": 98,
-    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 13,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 18,
     "imswl_xmlv1p1": 1
    },
-   "organization_items": 141,
+   "organization_items": 146,
    "modules": 23,
-   "module_items": 186,
+   "module_items": 191,
    "module_item_types": {
     "ContextModuleSubHeader": 45,
     "WikiPage": 97,
     "ExternalUrl": 1,
-    "Assignment": 30,
-    "Quizzes::Quiz": 13
+    "Quizzes::Quiz": 18,
+    "Assignment": 30
    },
    "default_view": "wiki",
    "pages": 98,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 4,
-   "group_refs": 56,
-   "quizzes": 13,
+   "group_refs": 66,
+   "quizzes": 18,
    "assignments": 30,
    "discussions": 0,
    "files": 0,
-   "points_listed": 1105.0
+   "points_listed": 1205.0
   }
  },
  "status": "ready",
- "spec_sha": "43d6d1e511b55ad9be7d767471ed093e0c4a9cecd7172940bc15fab239b6c937",
+ "spec_sha": "a98c7ed5b206177f9d7bb33d9bcedac959bd38a8817884ba0d341372ce404541",
  "art_pack": null
 }

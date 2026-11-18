@@ -3811,6 +3811,616 @@
    ],
    "group": "ag_quiz",
    "week": 18
+  },
+  {
+   "id": "q_q3w01_light_years_light_speed_space_di",
+   "title": "🏛 Light-Years, Light Speed & Space Distance Quiz",
+   "description": "",
+   "quiz_type": "assignment",
+   "points": 10,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "group": "ag_quiz",
+   "week": 1,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What does a <strong>light-year</strong> measure?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "How long one year lasts in space",
+       "correct": false
+      },
+      {
+       "text": "The distance light travels in one year",
+       "correct": true
+      },
+      {
+       "text": "How fast a star is moving",
+       "correct": false
+      },
+      {
+       "text": "The time it takes Earth to orbit the Sun",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>About how fast does light travel?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "About 300 km per second",
+       "correct": false
+      },
+      {
+       "text": "About 9.5 trillion km per second",
+       "correct": false
+      },
+      {
+       "text": "About 300,000 km per second",
+       "correct": true
+      },
+      {
+       "text": "About 70,000 km per second",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>When you look at a distant <strong>galaxy</strong>, how are you seeing it?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "As it was millions of years ago",
+       "correct": true
+      },
+      {
+       "text": "Exactly as it is right now",
+       "correct": false
+      },
+      {
+       "text": "As it was about 8 minutes ago",
+       "correct": false
+      },
+      {
+       "text": "As it will look in the future",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p>True or False: Spacecraft can travel faster than light.</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>About how long does light from the <strong>Sun</strong> take to reach Earth?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "About 8 seconds",
+       "correct": false
+      },
+      {
+       "text": "About 8 hours",
+       "correct": false
+      },
+      {
+       "text": "About 8 years",
+       "correct": false
+      },
+      {
+       "text": "About 8 minutes",
+       "correct": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_q3w02_galaxies_stars_the_scale_of_the",
+   "title": "🏛 Galaxies, Stars & the Scale of the Universe Quiz",
+   "description": "",
+   "quiz_type": "assignment",
+   "points": 10,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "group": "ag_quiz",
+   "week": 2,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What is a <strong>galaxy</strong>?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "A massive, glowing ball of hot gas that produces light and energy",
+       "correct": false
+      },
+      {
+       "text": "A huge system of billions of stars, gas, and dust held together by gravity",
+       "correct": true
+      },
+      {
+       "text": "All space, matter, and energy that exists",
+       "correct": false
+      },
+      {
+       "text": "One planet and the moons that orbit it",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Which type of galaxy has <strong>curved arms</strong>, like the Milky Way?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Elliptical",
+       "correct": false
+      },
+      {
+       "text": "Irregular",
+       "correct": false
+      },
+      {
+       "text": "Round",
+       "correct": false
+      },
+      {
+       "text": "Spiral",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Which list shows Earth’s place in space from <strong>smallest to largest</strong>?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Earth → Solar System → Milky Way → Universe",
+       "correct": true
+      },
+      {
+       "text": "Earth → Milky Way → Solar System → Universe",
+       "correct": false
+      },
+      {
+       "text": "Solar System → Earth → Milky Way → Universe",
+       "correct": false
+      },
+      {
+       "text": "Earth → Universe → Milky Way → Solar System",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p>True or False: Space is mostly empty.</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What does the <strong>universe</strong> include?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Only the Milky Way galaxy",
+       "correct": false
+      },
+      {
+       "text": "Only the stars we can see at night",
+       "correct": false
+      },
+      {
+       "text": "All space, all matter, and all energy",
+       "correct": true
+      },
+      {
+       "text": "Only Earth and our solar system",
+       "correct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_q3w04_distance_size_composition_quiz",
+   "title": "🏛 Distance, Size & Composition Quiz",
+   "description": "",
+   "quiz_type": "assignment",
+   "points": 10,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "group": "ag_quiz",
+   "week": 4,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What is a gas giant planet like Jupiter made mostly of?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Rock and metal",
+       "correct": false
+      },
+      {
+       "text": "Hydrogen and helium",
+       "correct": true
+      },
+      {
+       "text": "Ice and dust",
+       "correct": false
+      },
+      {
+       "text": "Stars, gas, and dust",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p><strong>Icy</strong> objects in space are made mostly of what?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Rock and metal",
+       "correct": false
+      },
+      {
+       "text": "Hydrogen and helium",
+       "correct": false
+      },
+      {
+       "text": "Hot gas",
+       "correct": false
+      },
+      {
+       "text": "Ice and dust",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>How far apart are <strong>galaxies</strong>?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Millions of light-years",
+       "correct": true
+      },
+      {
+       "text": "About one light-year",
+       "correct": false
+      },
+      {
+       "text": "A few kilometers",
+       "correct": false
+      },
+      {
+       "text": "The distance from a moon to its planet",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Which list shows objects in order of <strong>size</strong>, from smallest to largest?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Planets, moons, stars, galaxies",
+       "correct": false
+      },
+      {
+       "text": "Stars, planets, moons, galaxies",
+       "correct": false
+      },
+      {
+       "text": "Moons, planets, stars, galaxies",
+       "correct": true
+      },
+      {
+       "text": "Galaxies, stars, planets, moons",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p>True or False: Two objects at the same level of the hierarchy, like Earth and Jupiter, can still be very different.</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_q3w06_gravity_orbits_motion_in_space_q",
+   "title": "🏛 Gravity, Orbits & Motion in Space Quiz",
+   "description": "",
+   "quiz_type": "assignment",
+   "points": 10,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "group": "ag_quiz",
+   "week": 6,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What is an <strong>orbit</strong>?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "A straight line an object travels through space",
+       "correct": false
+      },
+      {
+       "text": "The force of attraction between objects with mass",
+       "correct": false
+      },
+      {
+       "text": "The curved path an object follows around another object",
+       "correct": true
+      },
+      {
+       "text": "How fast an object moves from one place to another",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Which <strong>two</strong> things work together to create an orbit?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Forward motion and gravity pulling inward",
+       "correct": true
+      },
+      {
+       "text": "Gravity alone",
+       "correct": false
+      },
+      {
+       "text": "An object’s size and its color",
+       "correct": false
+      },
+      {
+       "text": "Forward motion and gas and dust",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What happens if a moon moves with <strong>too little speed</strong>?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "It escapes into space",
+       "correct": false
+      },
+      {
+       "text": "It follows a stable orbit",
+       "correct": false
+      },
+      {
+       "text": "It moves in a straight line forever",
+       "correct": false
+      },
+      {
+       "text": "It collides with its planet",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>A planet is <strong>close</strong> to its star. How does it orbit compared to a planet that is far away?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Slower, because it is close to the star",
+       "correct": false
+      },
+      {
+       "text": "Faster, because it experiences stronger gravity",
+       "correct": true
+      },
+      {
+       "text": "At the same speed as every other planet",
+       "correct": false
+      },
+      {
+       "text": "It does not orbit, because gravity holds it still",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p>True or False: Because gravity follows consistent rules, scientists can predict eclipses, track planets, and navigate spacecraft.</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_q3w08_life_cycles_classification_of_st",
+   "title": "🏛 Life Cycles & Classification of Stars Quiz",
+   "description": "",
+   "quiz_type": "assignment",
+   "points": 10,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "group": "ag_quiz",
+   "week": 8,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What is the <strong>key</strong> property that decides how a star lives and how it ends?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Its color",
+       "correct": false
+      },
+      {
+       "text": "Its distance from Earth",
+       "correct": false
+      },
+      {
+       "text": "Its mass",
+       "correct": true
+      },
+      {
+       "text": "Its constellation",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>When is a star <strong>born</strong>?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "When nuclear fusion begins in its core",
+       "correct": true
+      },
+      {
+       "text": "When gas and dust first form a nebula",
+       "correct": false
+      },
+      {
+       "text": "When it becomes a red giant",
+       "correct": false
+      },
+      {
+       "text": "When an older star explodes as a supernova",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>How does a <strong>low-mass</strong> star end its life?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "In a supernova explosion",
+       "correct": false
+      },
+      {
+       "text": "As a black hole",
+       "correct": false
+      },
+      {
+       "text": "As a neutron star",
+       "correct": false
+      },
+      {
+       "text": "As a white dwarf",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>How do scientists <strong>classify</strong> stars?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "By color alone",
+       "correct": false
+      },
+      {
+       "text": "By comparing multiple physical properties at the same time",
+       "correct": true
+      },
+      {
+       "text": "By how bright the star looks from Earth alone",
+       "correct": false
+      },
+      {
+       "text": "By the constellation the star belongs to",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p>True or False: High-mass stars burn their fuel slowly, so they live longer than low-mass stars.</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    }
+   ]
   }
  ],
  "modules": [
@@ -4110,6 +4720,12 @@
      "title": "Weekly Assignments"
     },
     {
+     "type": "quiz",
+     "ref": "q_q3w01_light_years_light_speed_space_di",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
      "type": "assignment",
      "ref": "a_q3w01_beyond_the_light_life_on",
      "completion": "must_submit",
@@ -4148,6 +4764,12 @@
     {
      "type": "header",
      "title": "Weekly Assignments"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_q3w02_galaxies_stars_the_scale_of_the",
+     "week": 2,
+     "completion": "must_submit"
     },
     {
      "type": "assignment",
@@ -4240,6 +4862,12 @@
     {
      "type": "header",
      "title": "Weekly Assignments"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_q3w04_distance_size_composition_quiz",
+     "week": 4,
+     "completion": "must_submit"
     },
     {
      "type": "assignment",
@@ -4352,6 +4980,12 @@
      "title": "Weekly Assignments"
     },
     {
+     "type": "quiz",
+     "ref": "q_q3w06_gravity_orbits_motion_in_space_q",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
      "type": "assignment",
      "ref": "a_q3w06_demonstration_station_gr",
      "completion": "must_submit",
@@ -4436,6 +5070,12 @@
     {
      "type": "header",
      "title": "Weekly Assignments"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_q3w08_life_cycles_classification_of_st",
+     "week": 8,
+     "completion": "must_submit"
     },
     {
      "type": "assignment",

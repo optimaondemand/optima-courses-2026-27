@@ -4,11 +4,11 @@
  "code": "2002040",
  "title": "M/J Comprehensive Science 1 Sem 2",
  "file": "cartridges/2002040-s2.imscc",
- "bytes": 287300,
+ "bytes": 313428,
  "version": "2026.11.18",
- "built": "2026-11-18T12:03:42",
+ "built": "2026-11-18T15:39:49",
  "front_page": "wiki_content/course-home.html",
- "items": 181,
+ "items": 186,
  "modules": [
   {
    "id": "m_the-engage-encyclopedia-for-scholars",
@@ -31,7 +31,7 @@
    "title": "Q3 Week 1: Earthshapers— How Earth Is Broken, Moved, and Reshaped",
    "gid": "g4058c80e2ee07ba0da8707fef1e4d042",
    "published": true,
-   "items": 6,
+   "items": 7,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -39,7 +39,7 @@
    "title": "Q3 Week 2: Carved by Nature— How Landforms Are Built, Broken, and Changed",
    "gid": "gb55e34c8e534780b02fb8c65fbe0fc0c",
    "published": true,
-   "items": 6,
+   "items": 7,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -55,7 +55,7 @@
    "title": "Q3 Week 4: Earth’s Invisible Shield— The Power of the Atmosphere",
    "gid": "g892108320a387712a23ef62ade14bed2",
    "published": true,
-   "items": 8,
+   "items": 9,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -71,7 +71,7 @@
    "title": "Q3 Week 6: The Planet That Never Rests— Earth’s Spheres in Motion",
    "gid": "g446fc07189f85a76257a5e5162c37c89",
    "published": true,
-   "items": 6,
+   "items": 7,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -87,7 +87,7 @@
    "title": "Q3 Week 8: Harnessing the Heat— Engineering Earth’s Energy Flow",
    "gid": "g0aae69fcc7a8ecd5eaf5d4eefae2581a",
    "published": true,
-   "items": 6,
+   "items": 7,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -190,11 +190,11 @@
  "counts": {
   "pages": 94,
   "assignments": 30,
-  "quizzes": 13,
+  "quizzes": 18,
   "discussions": 0,
   "files": 0,
   "modules": 22,
-  "items": 181
+  "items": 186
  },
  "weights": [
   {
@@ -1027,6 +1027,101 @@
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
+  },
+  {
+   "id": "q_q3w01_weathering_erosion_deposition_qu",
+   "type": "quiz",
+   "title": "🏛 Weathering, Erosion & Deposition Quiz",
+   "gid": "gaa4ae4b5f6df86178e233b77efff690d",
+   "xml": "gaa4ae4b5f6df86178e233b77efff690d/assessment_meta.xml",
+   "module": "m_q3-week-1-earthshapers-how-earth-is-br",
+   "week": 1,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g7881e220c41ad2049069445655cbcd58",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_q3w02_earths_landforms_quiz",
+   "type": "quiz",
+   "title": "🏛 Earth’s Landforms Quiz",
+   "gid": "g47cc3f5623e243abcc42dfcc3202083d",
+   "xml": "g47cc3f5623e243abcc42dfcc3202083d/assessment_meta.xml",
+   "module": "m_q3-week-2-carved-by-nature-how-landfor",
+   "week": 2,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g7881e220c41ad2049069445655cbcd58",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_q3w04_earths_atmosphere_quiz",
+   "type": "quiz",
+   "title": "🏛 Earth’s Atmosphere Quiz",
+   "gid": "gc495efab4492912b021e3b7637dea6d7",
+   "xml": "gc495efab4492912b021e3b7637dea6d7/assessment_meta.xml",
+   "module": "m_q3-week-4-earth-s-invisible-shield-the",
+   "week": 4,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g7881e220c41ad2049069445655cbcd58",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_q3w06_how_earths_spheres_interact_quiz",
+   "type": "quiz",
+   "title": "🏛 How Earth’s Spheres Interact Quiz",
+   "gid": "g1881f9f849b55ec7a8df871ac179b37c",
+   "xml": "g1881f9f849b55ec7a8df871ac179b37c/assessment_meta.xml",
+   "module": "m_q3-week-6-the-planet-that-never-rests",
+   "week": 6,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g7881e220c41ad2049069445655cbcd58",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_q3w08_heat_transfer_in_earths_system_q",
+   "type": "quiz",
+   "title": "🏛 Heat Transfer in Earth’s System Quiz",
+   "gid": "g9a3b37ecff1e7e60fdf7da8017e6bd7f",
+   "xml": "g9a3b37ecff1e7e60fdf7da8017e6bd7f/assessment_meta.xml",
+   "module": "m_q3-week-8-harnessing-the-heat-engineer",
+   "week": 8,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g7881e220c41ad2049069445655cbcd58",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
   }
  ],
  "settings": {
@@ -1041,34 +1136,34 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 151,
+   "resources": 161,
    "resource_types": {
-    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 44,
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 49,
     "webcontent": 94,
-    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 13
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 18
    },
-   "organization_items": 136,
+   "organization_items": 141,
    "modules": 22,
-   "module_items": 181,
+   "module_items": 186,
    "module_item_types": {
     "ContextModuleSubHeader": 45,
     "WikiPage": 93,
-    "Assignment": 30,
-    "Quizzes::Quiz": 13
+    "Quizzes::Quiz": 18,
+    "Assignment": 30
    },
    "default_view": "wiki",
    "pages": 94,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 4,
-   "group_refs": 56,
-   "quizzes": 13,
+   "group_refs": 66,
+   "quizzes": 18,
    "assignments": 30,
    "discussions": 0,
    "files": 0,
-   "points_listed": 1105.0
+   "points_listed": 1205.0
   }
  },
  "status": "ready",
- "spec_sha": "f57142bf5065f076dcb117f77b15920122502a22f037eeea83bebd6002ca4360",
+ "spec_sha": "568ad894467ec3380db4dd0bddcfa739200c2b81d5e53cda1de80c2c7fd233e4",
  "art_pack": null
 }

@@ -4346,6 +4346,601 @@
     }
    ],
    "group": "ag_quiz"
+  },
+  {
+   "id": "q_q3w01_weathering_erosion_deposition_qu",
+   "title": "🏛 Weathering, Erosion & Deposition Quiz",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "group": "ag_quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What is <strong>weathering</strong>?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Dropping sediment in a new location",
+       "correct": false
+      },
+      {
+       "text": "Breaking rocks into smaller pieces",
+       "correct": true
+      },
+      {
+       "text": "Moving sediment from one place to another",
+       "correct": false
+      },
+      {
+       "text": "Building new land where a river slows down",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Which one is an example of <strong>chemical</strong> weathering?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Water freezing in a crack and splitting the rock",
+       "correct": false
+      },
+      {
+       "text": "Plant roots breaking a rock apart",
+       "correct": false
+      },
+      {
+       "text": "Wind rubbing rocks together",
+       "correct": false
+      },
+      {
+       "text": "Rust forming on a rock with iron in it",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What is <strong>erosion</strong>?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "The process that moves sediment from one place to another",
+       "correct": true
+      },
+      {
+       "text": "The process that breaks rock right where it is",
+       "correct": false
+      },
+      {
+       "text": "The dropping of sediment in a new location",
+       "correct": false
+      },
+      {
+       "text": "A change in what a rock is made of",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>A river slows down at the sea and drops its mud and sand. Which process is this?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Weathering",
+       "correct": false
+      },
+      {
+       "text": "Erosion",
+       "correct": false
+      },
+      {
+       "text": "Deposition",
+       "correct": true
+      },
+      {
+       "text": "Abrasion",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p>Weathering must happen before erosion.</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_q3w02_earths_landforms_quiz",
+   "title": "🏛 Earth’s Landforms Quiz",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "group": "ag_quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What is a <strong>landform</strong>?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "A road or bridge built by people",
+       "correct": false
+      },
+      {
+       "text": "A natural feature found on Earth’s surface",
+       "correct": true
+      },
+      {
+       "text": "Small pieces of rock and soil",
+       "correct": false
+      },
+      {
+       "text": "The movement of sediment by water, wind, or ice",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>How does a sand <strong>dune</strong> form?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "A glacier scrapes and carves the land",
+       "correct": false
+      },
+      {
+       "text": "A river meets the sea and slows down",
+       "correct": false
+      },
+      {
+       "text": "Tectonic plates push the land up",
+       "correct": false
+      },
+      {
+       "text": "Wind moves sand and drops it when the wind slows down",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Where does a <strong>delta</strong> form?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Where a river meets a lake, sea, or ocean",
+       "correct": true
+      },
+      {
+       "text": "At the top of a tall mountain",
+       "correct": false
+      },
+      {
+       "text": "Where wind blows sand across a desert",
+       "correct": false
+      },
+      {
+       "text": "Under a glacier in a very cold place",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What forms <strong>mountains</strong>?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Wind dropping sand into piles",
+       "correct": false
+      },
+      {
+       "text": "Rivers dropping sediment at the sea",
+       "correct": false
+      },
+      {
+       "text": "Tectonic plate movement and volcanic activity",
+       "correct": true
+      },
+      {
+       "text": "Rain and runoff filling low land",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p>Glaciers are huge masses of ice that move very quickly.</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_q3w04_earths_atmosphere_quiz",
+   "title": "🏛 Earth’s Atmosphere Quiz",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "group": "ag_quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Which gas makes up <strong>most</strong> of the air?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Oxygen",
+       "correct": false
+      },
+      {
+       "text": "Carbon dioxide",
+       "correct": false
+      },
+      {
+       "text": "Nitrogen",
+       "correct": true
+      },
+      {
+       "text": "Water vapor",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>In which layer of the atmosphere does weather happen and where do we live?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Troposphere",
+       "correct": true
+      },
+      {
+       "text": "Stratosphere",
+       "correct": false
+      },
+      {
+       "text": "Mesosphere",
+       "correct": false
+      },
+      {
+       "text": "Thermosphere",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What does the <strong>ozone layer</strong> do?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "It burns up meteors before they hit the ground.",
+       "correct": false
+      },
+      {
+       "text": "It traps heat near Earth’s surface.",
+       "correct": false
+      },
+      {
+       "text": "It holds the atmosphere in place around Earth.",
+       "correct": false
+      },
+      {
+       "text": "It absorbs most of the Sun’s harmful UV rays.",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>The atmosphere traps heat near Earth’s surface and keeps it warm enough for life. What is this process called?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Ultraviolet radiation",
+       "correct": false
+      },
+      {
+       "text": "The greenhouse effect",
+       "correct": true
+      },
+      {
+       "text": "Composition",
+       "correct": false
+      },
+      {
+       "text": "The ozone layer",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p>The atmosphere gets thicker as altitude increases.</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_q3w06_how_earths_spheres_interact_quiz",
+   "title": "🏛 How Earth’s Spheres Interact Quiz",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "group": "ag_quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What is an <strong>interaction</strong> between Earth’s spheres?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "A label that names one sphere",
+       "correct": false
+      },
+      {
+       "text": "One sphere working alone without changing the others",
+       "correct": false
+      },
+      {
+       "text": "When spheres affect each other, or energy or matter moves between them",
+       "correct": true
+      },
+      {
+       "text": "Liquid water changing into vapor",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Which example shows the <strong>biosphere</strong> and the <strong>atmosphere</strong> interacting?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Plants take in carbon dioxide and release oxygen.",
+       "correct": true
+      },
+      {
+       "text": "Ice melts into liquid water.",
+       "correct": false
+      },
+      {
+       "text": "Rivers erode rock and soil.",
+       "correct": false
+      },
+      {
+       "text": "Snow adds water to rivers.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What is <strong>evaporation</strong>?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Ice melting into liquid water",
+       "correct": false
+      },
+      {
+       "text": "Rain falling back to Earth",
+       "correct": false
+      },
+      {
+       "text": "Movement of rock or soil by water or wind",
+       "correct": false
+      },
+      {
+       "text": "Liquid water changing into vapor",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Where a glacier meets a lake, the ice melts into liquid water. Which two spheres are interacting?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Biosphere and geosphere",
+       "correct": false
+      },
+      {
+       "text": "Cryosphere and hydrosphere",
+       "correct": true
+      },
+      {
+       "text": "Atmosphere and biosphere",
+       "correct": false
+      },
+      {
+       "text": "Geosphere and atmosphere",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p>A change in one sphere can cause changes in other spheres.</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_q3w08_heat_transfer_in_earths_system_q",
+   "title": "🏛 Heat Transfer in Earth’s System Quiz",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "group": "ag_quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>How does energy travel from the Sun to Earth?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Conduction",
+       "correct": false
+      },
+      {
+       "text": "Convection",
+       "correct": false
+      },
+      {
+       "text": "Radiation",
+       "correct": true
+      },
+      {
+       "text": "Current",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Hot sand warms the air touching it. Which type of heat transfer is this?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Conduction",
+       "correct": true
+      },
+      {
+       "text": "Radiation",
+       "correct": false
+      },
+      {
+       "text": "Convection",
+       "correct": false
+      },
+      {
+       "text": "Evaporation",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Ocean currents move warm and cold water around the planet. Which type of heat transfer is this?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Radiation",
+       "correct": false
+      },
+      {
+       "text": "Convection",
+       "correct": true
+      },
+      {
+       "text": "Conduction",
+       "correct": false
+      },
+      {
+       "text": "Insulation",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Convection moves heat through <strong>fluids</strong>. What are fluids?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Solids, like rocks and soil",
+       "correct": false
+      },
+      {
+       "text": "Waves from the Sun",
+       "correct": false
+      },
+      {
+       "text": "Empty space",
+       "correct": false
+      },
+      {
+       "text": "Liquids and gases",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p>Radiation, conduction, and convection work together to distribute heat across Earth.</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    }
+   ]
   }
  ],
  "discussions": [],
@@ -4661,6 +5256,12 @@
      "title": "Weekly Assignments"
     },
     {
+     "type": "quiz",
+     "ref": "q_q3w01_weathering_erosion_deposition_qu",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
      "type": "assignment",
      "ref": "a_a-rocks-journey-shaping-earth-over-time",
      "week": 1,
@@ -4698,6 +5299,12 @@
     {
      "type": "header",
      "title": "Weekly Assignments"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_q3w02_earths_landforms_quiz",
+     "week": 2,
+     "completion": "must_submit"
     },
     {
      "type": "assignment",
@@ -4788,6 +5395,12 @@
     {
      "type": "header",
      "title": "Weekly Assignments"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_q3w04_earths_atmosphere_quiz",
+     "week": 4,
+     "completion": "must_submit"
     },
     {
      "type": "assignment",
@@ -4898,6 +5511,12 @@
      "title": "Weekly Assignments"
     },
     {
+     "type": "quiz",
+     "ref": "q_q3w06_how_earths_spheres_interact_quiz",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
      "type": "assignment",
      "ref": "a_demonstration-station-earths-spheres-and-their-interactions",
      "week": 6,
@@ -4974,6 +5593,12 @@
     {
      "type": "header",
      "title": "Weekly Assignments"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_q3w08_heat_transfer_in_earths_system_q",
+     "week": 8,
+     "completion": "must_submit"
     },
     {
      "type": "assignment",

@@ -4,11 +4,11 @@
  "code": "2002100",
  "title": "M/J Comprehensive Science 3 Sem 2",
  "file": "cartridges/2002100-s2.imscc",
- "bytes": 304510,
+ "bytes": 331155,
  "version": "2026.11.18",
- "built": "2026-11-18T12:04:07",
+ "built": "2026-11-18T15:40:21",
  "front_page": "wiki_content/course-home.html",
- "items": 185,
+ "items": 190,
  "modules": [
   {
    "id": "m_vrguide",
@@ -39,7 +39,7 @@
    "title": "Q3 Week 1: Lightyears Away— Measuring Distance in Space",
    "gid": "gabbb619fb085e12ab7aec4a607684622",
    "published": true,
-   "items": 6,
+   "items": 7,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -47,7 +47,7 @@
    "title": "Q3 Week 2: Our Place in the Universe— Galaxies, Stars, and Scale",
    "gid": "gdf434c569602009ee0109bb2db680bf0",
    "published": true,
-   "items": 6,
+   "items": 7,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -63,7 +63,7 @@
    "title": "Q3 Week 4: Mapping the Cosmos— How the Universe Is Organized",
    "gid": "g8c7b8d71dbfb5fe5b38ce0563ba3409b",
    "published": true,
-   "items": 8,
+   "items": 9,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -79,7 +79,7 @@
    "title": "Q3 Week 6: Bound by Gravity— Motion in Space",
    "gid": "gdfdb61c6b3e005fe8c30997a39857d44",
    "published": true,
-   "items": 6,
+   "items": 7,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -95,7 +95,7 @@
    "title": "Q3 Week 8: Stars, Stories & Stellar Science— Understanding the Lives of Stars",
    "gid": "g7d9b3811bb9e5a15b2560a5ad60d9963",
    "published": true,
-   "items": 7,
+   "items": 8,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -198,11 +198,11 @@
  "counts": {
   "pages": 97,
   "assignments": 30,
-  "quizzes": 13,
+  "quizzes": 18,
   "discussions": 0,
   "files": 0,
   "modules": 23,
-  "items": 185
+  "items": 190
  },
  "weights": [
   {
@@ -1035,6 +1035,101 @@
    "due_at": null,
    "unlock_at": null,
    "lock_at": null
+  },
+  {
+   "id": "q_q3w01_light_years_light_speed_space_di",
+   "type": "quiz",
+   "title": "🏛 Light-Years, Light Speed & Space Distance Quiz",
+   "gid": "g822a5e8898fefcfae4b374159cd942f0",
+   "xml": "g822a5e8898fefcfae4b374159cd942f0/assessment_meta.xml",
+   "module": "m_q3w01",
+   "week": 1,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g6b80f4ac29e39d3bb0743fa5b0fbb15d",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_q3w02_galaxies_stars_the_scale_of_the",
+   "type": "quiz",
+   "title": "🏛 Galaxies, Stars & the Scale of the Universe Quiz",
+   "gid": "gfc716ea680a96450c5eafcd019c1357d",
+   "xml": "gfc716ea680a96450c5eafcd019c1357d/assessment_meta.xml",
+   "module": "m_q3w02",
+   "week": 2,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g6b80f4ac29e39d3bb0743fa5b0fbb15d",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_q3w04_distance_size_composition_quiz",
+   "type": "quiz",
+   "title": "🏛 Distance, Size & Composition Quiz",
+   "gid": "g4a8cb970ba93d0de887636e014f255c6",
+   "xml": "g4a8cb970ba93d0de887636e014f255c6/assessment_meta.xml",
+   "module": "m_q3w04",
+   "week": 4,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g6b80f4ac29e39d3bb0743fa5b0fbb15d",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_q3w06_gravity_orbits_motion_in_space_q",
+   "type": "quiz",
+   "title": "🏛 Gravity, Orbits & Motion in Space Quiz",
+   "gid": "g82cb0333ae5caed96318436f9a889a17",
+   "xml": "g82cb0333ae5caed96318436f9a889a17/assessment_meta.xml",
+   "module": "m_q3w06",
+   "week": 6,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g6b80f4ac29e39d3bb0743fa5b0fbb15d",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_q3w08_life_cycles_classification_of_st",
+   "type": "quiz",
+   "title": "🏛 Life Cycles & Classification of Stars Quiz",
+   "gid": "g9d6bd7bb220dc25e6764d17f318abcad",
+   "xml": "g9d6bd7bb220dc25e6764d17f318abcad/assessment_meta.xml",
+   "module": "m_q3w08",
+   "week": 8,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g6b80f4ac29e39d3bb0743fa5b0fbb15d",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
   }
  ],
  "settings": {
@@ -1049,36 +1144,36 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 155,
+   "resources": 165,
    "resource_types": {
-    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 44,
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 49,
     "webcontent": 97,
-    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 13,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 18,
     "imswl_xmlv1p1": 1
    },
-   "organization_items": 140,
+   "organization_items": 145,
    "modules": 23,
-   "module_items": 185,
+   "module_items": 190,
    "module_item_types": {
     "ContextModuleSubHeader": 45,
     "WikiPage": 96,
     "ExternalUrl": 1,
-    "Assignment": 30,
-    "Quizzes::Quiz": 13
+    "Quizzes::Quiz": 18,
+    "Assignment": 30
    },
    "default_view": "wiki",
    "pages": 97,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 4,
-   "group_refs": 56,
-   "quizzes": 13,
+   "group_refs": 66,
+   "quizzes": 18,
    "assignments": 30,
    "discussions": 0,
    "files": 0,
-   "points_listed": 1105.0
+   "points_listed": 1205.0
   }
  },
  "status": "ready",
- "spec_sha": "5374343d42b1d86c3c8a50d200c9cf0ef404b01d40e162e49dc500778f737c79",
+ "spec_sha": "6608d974f456162bfbddf4e56cafbca8614827ab3f5515bd3952e4e825f22263",
  "art_pack": null
 }

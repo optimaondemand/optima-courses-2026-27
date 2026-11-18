@@ -3719,6 +3719,601 @@
     }
    ],
    "group": "ag_quiz"
+  },
+  {
+   "id": "q_q3w01_earths_internal_heat_quiz",
+   "title": "🏛 Earth’s Internal Heat Quiz",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "group": "ag_quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Where does Earth’s <strong>internal heat</strong> come from?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Heat from earthquakes and volcanoes at the surface",
+       "correct": false
+      },
+      {
+       "text": "Heat from ocean basins as they grow wider",
+       "correct": false
+      },
+      {
+       "text": "Heat left over from Earth’s formation and heat from radioactive elements",
+       "correct": true
+      },
+      {
+       "text": "Heat from mountains pushing together as they form",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What is <strong>convection</strong>?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "The movement of material caused by heat differences",
+       "correct": true
+      },
+      {
+       "text": "Melted rock beneath Earth’s surface",
+       "correct": false
+      },
+      {
+       "text": "The uplift of Earth’s crust over time",
+       "correct": false
+      },
+      {
+       "text": "Ground shaking caused by sudden energy release",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Mantle material near the core heats up. What happens to it next?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "It becomes more dense and sinks",
+       "correct": false
+      },
+      {
+       "text": "It becomes less dense and rises slowly",
+       "correct": true
+      },
+      {
+       "text": "It turns into lava inside the core",
+       "correct": false
+      },
+      {
+       "text": "It stays in place because rock cannot move",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Which surface change happens <strong>slowly</strong>, over millions of years?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "An earthquake",
+       "correct": false
+      },
+      {
+       "text": "A volcanic eruption",
+       "correct": false
+      },
+      {
+       "text": "Lava erupting at the surface",
+       "correct": false
+      },
+      {
+       "text": "Mountain building",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p>True or false: When magma reaches Earth’s surface, it is called lava.</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_q3w02_plate_tectonics_plate_boundaries",
+   "title": "🏛 Plate Tectonics & Plate Boundaries Quiz",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "group": "ag_quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What is a <strong>tectonic plate</strong>?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "The location where two plates meet",
+       "correct": false
+      },
+      {
+       "text": "A large piece of Earth’s crust that moves over the mantle",
+       "correct": true
+      },
+      {
+       "text": "The layer beneath the crust where material can flow slowly",
+       "correct": false
+      },
+      {
+       "text": "Movement caused by heat differences inside Earth",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What powers the movement of tectonic plates?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Earthquakes at transform boundaries",
+       "correct": false
+      },
+      {
+       "text": "Magma cooling at ocean ridges",
+       "correct": false
+      },
+      {
+       "text": "Continental crust sliding on oceanic crust",
+       "correct": false
+      },
+      {
+       "text": "Heat inside Earth and convection in the mantle",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What happens at a <strong>divergent</strong> boundary?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Plates move away from each other, and magma rises to make new crust",
+       "correct": true
+      },
+      {
+       "text": "Plates move toward each other, and one plate may sink",
+       "correct": false
+      },
+      {
+       "text": "Plates slide past each other, and stress builds up",
+       "correct": false
+      },
+      {
+       "text": "Plates collide and crumple into mountains",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Plates slide past each other at a <strong>transform</strong> boundary. Which event is most likely there?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "New crust forming at an ocean ridge",
+       "correct": false
+      },
+      {
+       "text": "A mountain range rising",
+       "correct": false
+      },
+      {
+       "text": "An earthquake",
+       "correct": true
+      },
+      {
+       "text": "An ocean basin growing wider",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p>True or false: Every tectonic plate is made of only continental crust.</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_q3w04_rock_cycle_rock_types_quiz",
+   "title": "🏛 Rock Cycle & Rock Types Quiz",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "group": "ag_quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>How do <strong>igneous</strong> rocks form?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Melted rock cools and hardens",
+       "correct": true
+      },
+      {
+       "text": "Sediment is compacted and cemented in layers",
+       "correct": false
+      },
+      {
+       "text": "Existing rock is changed by heat and pressure without melting",
+       "correct": false
+      },
+      {
+       "text": "Wind and water break rock into small pieces",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>A rock is buried deep underground. Heat and pressure change it, but it never melts. It comes out harder and denser. What type of rock is it now?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Igneous rock",
+       "correct": false
+      },
+      {
+       "text": "Metamorphic rock",
+       "correct": true
+      },
+      {
+       "text": "Sedimentary rock",
+       "correct": false
+      },
+      {
+       "text": "Magma",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Which list shows the steps of <strong>sedimentary</strong> rock formation in the correct order?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Deposition, erosion, weathering, compaction and cementation",
+       "correct": false
+      },
+      {
+       "text": "Erosion, compaction and cementation, weathering, deposition",
+       "correct": false
+      },
+      {
+       "text": "Weathering, erosion, deposition, compaction and cementation",
+       "correct": true
+      },
+      {
+       "text": "Compaction and cementation, deposition, erosion, weathering",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Which step of the rock cycle <strong>moves</strong> sediment away from the place where it was broken?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Weathering",
+       "correct": false
+      },
+      {
+       "text": "Deposition",
+       "correct": false
+      },
+      {
+       "text": "Cementation",
+       "correct": false
+      },
+      {
+       "text": "Erosion",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p>True or false: The rock cycle has a clear beginning and a clear end.</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false
+      },
+      {
+       "text": "False",
+       "correct": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_q3w06_measuring_the_age_of_earth_quiz",
+   "title": "🏛 Measuring the Age of Earth Quiz",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "group": "ag_quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What does <strong>relative age</strong> tell you?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "The exact age of an object in years",
+       "correct": false
+      },
+      {
+       "text": "Whether something is older or younger than something else",
+       "correct": true
+      },
+      {
+       "text": "How much of a radioactive element remains",
+       "correct": false
+      },
+      {
+       "text": "The time it takes for half of an element to decay",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>A road cut shows five flat, undisturbed rock layers. From the top down they are labeled A, B, C, D, and E. Which layer formed first?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Layer A, the top layer",
+       "correct": false
+      },
+      {
+       "text": "Layer B, just below the top",
+       "correct": false
+      },
+      {
+       "text": "Layer C, the middle layer",
+       "correct": false
+      },
+      {
+       "text": "Layer E, the bottom layer",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What is a <strong>half-life</strong>?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "The time it takes for half of a radioactive element to decay",
+       "correct": true
+      },
+      {
+       "text": "The vast span of time covering Earth’s history",
+       "correct": false
+      },
+      {
+       "text": "The age of something compared to other objects",
+       "correct": false
+      },
+      {
+       "text": "The order of rock layers from bottom to top",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>A scientist wants to find a rock’s <strong>absolute age</strong> in years. Which method should the scientist use?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "The law of superposition",
+       "correct": false
+      },
+      {
+       "text": "Comparing which layer is on top",
+       "correct": false
+      },
+      {
+       "text": "Radioactive dating",
+       "correct": true
+      },
+      {
+       "text": "Finding which layer holds a fossil",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p>True or false: Relative dating is often used with sedimentary rock layers.</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_q3w08_human_impact_on_earths_systems_q",
+   "title": "🏛 Human Impact on Earth’s Systems Quiz",
+   "quiz_type": "assignment",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "group": "ag_quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>What is <strong>deforestation</strong>?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "The growth of cities and towns",
+       "correct": false
+      },
+      {
+       "text": "The process where land becomes dry and less productive",
+       "correct": false
+      },
+      {
+       "text": "The removal of large areas of trees",
+       "correct": true
+      },
+      {
+       "text": "The movement of soil or rock by natural forces",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>A grassy lot is paved to make a parking lot. Why can this lead to more flooding?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Pavement cannot soak up water, so more rain becomes runoff",
+       "correct": true
+      },
+      {
+       "text": "Paved areas get more rain than grassy areas",
+       "correct": false
+      },
+      {
+       "text": "The parking lot works like a dam and holds water back",
+       "correct": false
+      },
+      {
+       "text": "Urban heat islands melt ice into the rivers",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>Which of Earth’s spheres includes oceans, rivers, lakes, and rain?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "Geosphere",
+       "correct": false
+      },
+      {
+       "text": "Atmosphere",
+       "correct": false
+      },
+      {
+       "text": "Biosphere",
+       "correct": false
+      },
+      {
+       "text": "Hydrosphere",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<div><p>How do human actions usually reach the <strong>cryosphere</strong> (ice)?</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "By building dams across glaciers",
+       "correct": false
+      },
+      {
+       "text": "Indirectly, through climate change or temperature shifts",
+       "correct": true
+      },
+      {
+       "text": "Through sediment buildup in rivers",
+       "correct": false
+      },
+      {
+       "text": "By draining wetlands",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "true_false",
+     "text": "<div><p>True or false: Overfarming and overgrazing can cause desertification.</p></div>",
+     "points": 2,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true
+      },
+      {
+       "text": "False",
+       "correct": false
+      }
+     ]
+    }
+   ]
   }
  ],
  "discussions": [],
@@ -4053,6 +4648,12 @@
      "week": 1
     },
     {
+     "type": "quiz",
+     "ref": "q_q3w01_earths_internal_heat_quiz",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
      "type": "assignment",
      "ref": "a_beneath-the-surface-earths-interior-at-work",
      "week": 1,
@@ -4090,6 +4691,12 @@
      "ref": "p_q3w02_reading",
      "completion": "must_mark_done",
      "week": 2
+    },
+    {
+     "type": "quiz",
+     "ref": "q_q3w02_plate_tectonics_plate_boundaries",
+     "week": 2,
+     "completion": "must_submit"
     },
     {
      "type": "assignment",
@@ -4180,6 +4787,12 @@
      "ref": "p_q3w04_reading",
      "completion": "must_mark_done",
      "week": 4
+    },
+    {
+     "type": "quiz",
+     "ref": "q_q3w04_rock_cycle_rock_types_quiz",
+     "week": 4,
+     "completion": "must_submit"
     },
     {
      "type": "assignment",
@@ -4290,6 +4903,12 @@
      "week": 6
     },
     {
+     "type": "quiz",
+     "ref": "q_q3w06_measuring_the_age_of_earth_quiz",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
      "type": "assignment",
      "ref": "a_demonstration-station-measuring-the-age-of-earth",
      "week": 6,
@@ -4372,6 +4991,12 @@
      "ref": "p_q3w08_reading",
      "completion": "must_mark_done",
      "week": 8
+    },
+    {
+     "type": "quiz",
+     "ref": "q_q3w08_human_impact_on_earths_systems_q",
+     "week": 8,
+     "completion": "must_submit"
     },
     {
      "type": "assignment",
