@@ -15,9 +15,264 @@
    "id": "out_ag_quizzes",
    "title": "Quizzes",
    "weight": 0
+  },
+  {
+   "id": "out_ag_project",
+   "title": "Project",
+   "weight": 0
+  },
+  {
+   "id": "out_ag_production",
+   "title": "Recitation/Production",
+   "weight": 0
+  },
+  {
+   "id": "out_ag_discussions",
+   "title": "Discussions",
+   "weight": 0
   }
  ],
- "rubrics": [],
+ "rubrics": [
+  {
+   "id": "out_r_trailer",
+   "title": "The Outsiders · The Trailer Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Set-up and context",
+     "long_description": "Names the chapter and the opening words, and two sentences say accurately what happens in the passage.",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Names the chapter and the opening words, and two sentences say accurately what happens in the passage.",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Location named, but the two sentences are vague or describe the wrong thing.",
+       "points": 3.0
+      },
+      {
+       "description": "Not yet",
+       "long_description": "No set-up.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Accuracy of reading",
+     "long_description": "Reads the passage as written. Unfamiliar words and names are attempted and pronounced clearly.",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Reads the passage as written. Unfamiliar words and names are attempted and pronounced clearly.",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Frequent misreadings, or lines skipped.",
+       "points": 3.0
+      },
+      {
+       "description": "Not yet",
+       "long_description": "Passage not read, or far under length.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Pace, volume, and expression",
+     "long_description": "Steady pace a listener can follow. Audible throughout. Phrasing and emphasis match what the sentence means.",
+     "points": 8.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Steady pace a listener can follow. Audible throughout. Phrasing and emphasis match what the sentence means.",
+       "points": 8.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Rushed, flat, or hard to hear in places.",
+       "points": 5.0
+      },
+      {
+       "description": "Not yet",
+       "long_description": "Inaudible or unintelligible.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The response",
+     "long_description": "Completes the chosen response and points at something specific in the passage just read, not at the story in general.",
+     "points": 7.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Completes the chosen response and points at something specific in the passage just read, not at the story in general.",
+       "points": 7.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Starts the response but stays general, or answers only part of it.",
+       "points": 4.0
+      },
+      {
+       "description": "Not yet",
+       "long_description": "No response after the reading.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "out_r_discussion",
+   "title": "The Outsiders · Loyalty and the Divide (optional) Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Claim, evidence and reply",
+     "long_description": "A clear claim about loyalty, the divide, or staying gold, backed by a specific novel event described in the student's own words, plus a substantive reply that engages a classmate's reasoning.",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "A clear claim about loyalty, the divide, or staying gold, backed by a specific novel event described in the student's own words, plus a substantive reply that engages a classmate's reasoning.",
+       "points": 10.0
+      },
+      {
+       "description": "Partial credit",
+       "long_description": "A claim or a reply is present but thin: no text detail, or a reply that only says \"I agree\" without adding anything.",
+       "points": 5.0
+      },
+      {
+       "description": "Zero",
+       "long_description": "Missing post, or off topic.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "out_r_final_project",
+   "title": "The Outsiders Final Project Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Understanding of the text",
+     "long_description": "How well the work shows the student understands *The Outsiders* and the theme they chose to analyze.",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Shows a clear, accurate grasp of the novel and the chosen theme (loyalty, family, or staying gold). The essay reflects what the book actually shows about that theme.",
+       "points": 10.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Understands the main events and the theme. A small detail may be off, but the central idea is sound.",
+       "points": 7.5
+      },
+      {
+       "description": "Developing",
+       "long_description": "Some understanding, but with gaps or a misread of the theme or the plot.",
+       "points": 5.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Little accurate understanding of the text or the theme.",
+       "points": 2.5
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning and evidence",
+     "long_description": "How well the claim is supported with specific, well-chosen evidence from the student's own copy, and how well that evidence is explained.",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "A clear thesis is backed by two or three well-chosen events or details, cited in MLA format (author's name and chapter), and each is explained so the reasoning is easy to follow. A correct Works Cited entry for the novel is included.",
+       "points": 10.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "A thesis with supporting evidence, cited in MLA format with only minor slips (a missing Works Cited entry or an inconsistent locator); explanations are present but may be thin in a spot.",
+       "points": 7.5
+      },
+      {
+       "description": "Developing",
+       "long_description": "A thesis with little evidence, evidence that is named but not explained, or citations missing the author's name or the chapter.",
+       "points": 5.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "No clear thesis, no real evidence, or no attempt at citation.",
+       "points": 2.5
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision",
+     "long_description": "How clear, organized, and carefully made the essay is.",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Writing is well organized and easy to follow; sentences are clear. Few errors.",
+       "points": 10.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly clear and organized; a few errors or rough spots that do not block understanding.",
+       "points": 7.5
+      },
+      {
+       "description": "Developing",
+       "long_description": "Hard to follow in places; errors get in the way.",
+       "points": 5.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Unclear or disorganized; the theme is hard to see.",
+       "points": 2.5
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "The classical formation lever. Rewards naming the limits of one's own reasoning and using evidence fairly.",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Uses evidence fairly, does not overstate, and names where the argument is strong and where it is less certain. The essay is honest about where its evidence is strong and where it is less certain.",
+       "points": 10.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Uses evidence fairly with no clear overreach; some honest awareness of the evidence's limits.",
+       "points": 7.5
+      },
+      {
+       "description": "Developing",
+       "long_description": "Stretches evidence to fit, or claims more than the work shows.",
+       "points": 5.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Evidence is misused or invented.",
+       "points": 2.5
+      }
+     ]
+    }
+   ]
+  }
+ ],
  "pages": [],
  "assignments": [
   {
@@ -71,6 +326,321 @@
    "published": true,
    "week": 1,
    "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w2_l1",
+   "title": "The Same Sunset",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w2-lesson1-the-same-sunset.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w2_l2",
+   "title": "A Choice in the Dark",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w2-lesson2-a-choice-in-the-dark.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w2_l3",
+   "title": "The Writer's Bench",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w2-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w2_l4",
+   "title": "Clues and Consequences",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w2-lesson4-clues-and-consequences.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w3_l1",
+   "title": "Nothing Gold Can Stay",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w3-lesson1-nothing-gold-can-stay.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w3_l2",
+   "title": "Two Boys in a Church",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w3-lesson2-two-boys-in-a-church.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w3_l3",
+   "title": "Sentences That Hold",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w3-lesson3-sentences-that-hold.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w3_l4",
+   "title": "Panning for Theme",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w3-lesson4-panning-for-theme.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w4_l1",
+   "title": "The Way They Tell It",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w4-lesson1-the-way-they-tell-it.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w4_l2",
+   "title": "Who Shows Up",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w4-lesson2-who-shows-up.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w4_l3",
+   "title": "The Writer's Bench",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w4-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w4_l4",
+   "title": "Everyday Heroes",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w4-lesson4-everyday-heroes.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w5_l1",
+   "title": "Under the Street Lamp",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w5-lesson1-under-the-street-lamp.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w5_l2",
+   "title": "The Long Walk Home",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w5-lesson2-the-long-walk-home.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w5_l3",
+   "title": "The Writer's Bench",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w5-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w5_l4",
+   "title": "The Turning Point",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w5-lesson4-the-turning-point.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_trailer",
+   "title": "The Outsiders · The Trailer",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#3B2257;border-bottom:5px solid #A65A0C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">The Outsiders &middot; The Trailer</span><div style=\"color:#FFD9A0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">7th Grade ELA &middot; The Outsiders &middot; Recorded Production</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">25 points</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">Record / Upload Media</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">2 attempts</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">The Trailer</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#3B2257;border-left:9px solid #A65A0C;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">A book trailer voiceover. The narrator sets up the story without giving away the ending, reads one passage as written, then makes the pitch.</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\"><strong>Format.</strong> Book trailer, voiceover.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\"><strong>Voice.</strong> One narrator.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\"><strong>Subject.</strong> <em>The Outsiders</em>.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\"><strong>Total runtime.</strong> 3 to 5 minutes.</td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Run sheet</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\"><strong>Cold open</strong> &middot; :20 to :30</div><div style=\"font-size:14px;color:#2B2620;line-height:1.65;margin-top:6px;\">Say the book, the chapter, and the passage&rsquo;s opening words, then two sentences on what happens in the passage.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\"><strong>The passage</strong> &middot; 1:30 to 2:30</div><div style=\"font-size:14px;color:#2B2620;line-height:1.65;margin-top:6px;\">Read the passage aloud, as written.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\"><strong>The pitch</strong> &middot; 1:00 to 2:00</div><div style=\"font-size:14px;color:#2B2620;line-height:1.65;margin-top:6px;\">Complete one angle from the three below.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">4</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\"><strong>Title card</strong> &middot; :10</div><div style=\"font-size:14px;color:#2B2620;line-height:1.65;margin-top:6px;\">Title and author, once more. One sentence.</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">01 &middot; Cold open</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><p style=\"font-size:15px;color:#2B2620;line-height:1.65;margin:0 0 14px 0;\">Opening line: &ldquo;______, by ______. ______ (the situation in one line). This is from Chapter ___, the passage that begins &lsquo;______.&rsquo;&rdquo; Other wording is permitted if it carries the same facts.</p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">02 &middot; The passage</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\"><strong>Source.</strong> <em>The Outsiders</em>, Chapters 1 to 10, from your own copy.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\"><strong>Length.</strong> 350 to 550 words.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\"><strong>Text.</strong> Read as written. No summarising, skipping, or paraphrase.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\"><strong>Prep.</strong> Two rehearsals before recording.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\"><strong>Names.</strong> Unfamiliar names are attempted aloud, not skipped.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\"><strong>Strong passages.</strong> A moment where loyalty and survival pull apart, or where Ponyboy sees someone differently than before. No passage from the last two chapters of that reading (no spoilers in a trailer). Choose a passage without swearing or a fight&rsquo;s injuries in it.</td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">03 &middot; The pitch</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><p style=\"font-size:15px;color:#2B2620;line-height:1.65;margin:0 0 14px 0;\">Complete one. Equal weight.</p><table style=\"border-collapse:collapse;width:100%;margin:0 0 8px 0;\"><tbody><tr><td style=\"width:33.33%;border-top:4px solid #D4C7A6;background:#F8F4E8;padding:16px 18px;vertical-align:top;\"><div style=\"font-size:19px;color:#3B2257;line-height:1.3;\">A &middot; Why this moment</div><div style=\"font-size:13.5px;color:#2B2620;line-height:1.6;margin-top:7px;\"><em>Talk it through.</em> 1 to 2 min. Answer two. Each answer points at a line in the passage.<br>&bull; What the passage shows about a character that was not clear before it.<br>&bull; One word the author chose here, and what a different word would lose.<br>&bull; What changed in the reading when it was said aloud instead of read silently.<br>&bull; How the passage bears on the question: what divides the greasers and the Socs, and what stays the same on both sides?</div></td><td style=\"width:33.33%;border-top:4px solid #D4C7A6;background:#F8F4E8;padding:16px 18px;vertical-align:top;\"><div style=\"font-size:19px;color:#3B2257;line-height:1.3;\">B &middot; The case</div><div style=\"font-size:13.5px;color:#2B2620;line-height:1.6;margin-top:7px;\"><em>Make the case.</em> 1 to 2 min. Argue one debatable point about the passage. Take the side most listeners will not.<br>&bull; Name the arguable point: a choice, a line with two readings, or an author&rsquo;s decision.<br>&bull; State the position in one sentence.<br>&bull; Quote the words that support it.<br>&bull; State the strongest objection fairly, then answer it.</div></td><td style=\"width:33.33%;border-top:4px solid #D4C7A6;background:#F8F4E8;padding:16px 18px;vertical-align:top;\"><div style=\"font-size:19px;color:#3B2257;line-height:1.3;\">C &middot; One moment recut</div><div style=\"font-size:13.5px;color:#2B2620;line-height:1.6;margin-top:7px;\"><em>Change one thing.</em> 1 to 2 min. Change one moment inside the passage.<br>&bull; Name the exact sentence or moment.<br>&bull; Describe the replacement in enough detail to picture it.<br>&bull; State what the author&rsquo;s version does that the replacement does not, and which works better.</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">04 &middot; Title card</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><p style=\"font-size:15px;color:#2B2620;line-height:1.65;margin:0 0 14px 0;\">Title and author, once more, in one sentence. About ten seconds.</p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Delivery</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\"><strong>Recorder.</strong> Record / Upload Media records into Canvas.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\"><strong>Alternate.</strong> Use a phone or any recorder, then upload the file.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\"><strong>Track.</strong> Audio only is complete. Video is permitted, never required.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\"><strong>Attempts.</strong> Two. The later attempt is graded.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\"><strong>Continuity.</strong> One take, four segments, in order.</td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Segment 01 names the chapter and the passage&rsquo;s opening words and says what happens in it.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">The passage is read aloud, in full, as written.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">One angle is completed after the reading.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">The angle points at a specific line, not the story in general.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Audible the whole way through.</td></tr></tbody></table><div style=\"margin:44px 0 0 0;border-top:1px solid #E3D9BE;padding:16px 0 0 0;font-size:12.5px;color:#5C5A4B;line-height:1.7;\">Optima Academy Online &middot; 7th Grade ELA &middot; The Outsiders<br>Academic Design and Curriculum (AcDC) &middot; &copy; Optima Academy Online &middot; An Education Experience Company</div>",
+   "points": 25.0,
+   "group": "out_ag_production",
+   "rubric": "out_r_trailer",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "media_recording,online_upload",
+   "published": true,
+   "week": 5,
+   "kind": "recit"
+  },
+  {
+   "id": "out_a_w6_l1",
+   "title": "A Face in the Yearbook",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w6-lesson1-a-face-in-the-yearbook.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w6_l2",
+   "title": "Their Side of the Story",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w6-lesson2-their-side-of-the-story.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w6_l3",
+   "title": "The Writer's Bench",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w6-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w6_l4",
+   "title": "Inside the Frame",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w6-lesson4-inside-the-frame.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w7_l1",
+   "title": "Build Your Case",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w7-lesson1-build-your-case.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_w7_l2",
+   "title": "Write Your Essay",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/w7-lesson2-write-your-essay.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Finish the lesson.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Download this lesson's PDF. Save it in your OneDrive course folder.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\">Upload the PDF here.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "out_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "out_a_final_project",
+   "title": "The Outsiders Final Project",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#3B2257;border-bottom:5px solid #A65A0C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">The Outsiders Final Project</span><div style=\"color:#FFD9A0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">7th Grade ELA &middot; The Outsiders &middot; Final Project</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">40 points</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">File upload</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">Two files</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">Graded with a rubric</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">The question</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#3B2257;border-left:9px solid #A65A0C;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">What does <em>The Outsiders</em> say about loyalty, family, or what it means to stay gold, and how does Hinton build that idea across the novel?</div></div><p style=\"font-size:15px;color:#2B2620;line-height:1.65;margin:0 0 14px 0;\">Answer it in a literary-analysis essay of about 500 to 700 words. Any of the three themes can earn full marks when it is backed by moments from the book.</p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Write your essay</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\"><strong>Choose one theme and write your thesis.</strong></div><div style=\"font-size:14px;color:#2B2620;line-height:1.65;margin-top:6px;\">Pick one theme: loyalty, family, or staying gold. Write one clear sentence that states what <em>The Outsiders</em> says about it. This is your thesis. Put it at the end of a short opening paragraph that sets up the question.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\"><strong>Give your evidence and explain it.</strong></div><div style=\"font-size:14px;color:#2B2620;line-height:1.65;margin-top:6px;\">Use two or three specific moments from your own copy of the book. Cite each one in MLA format: Hinton&rsquo;s last name plus the chapter, for example (Hinton, Ch. 8). If you already name Hinton in your sentence, just give the chapter. After each one, write a sentence or two that shows how it proves your point. Do not just name the event; explain what it means for your claim.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\"><strong>Write a conclusion.</strong></div><div style=\"font-size:14px;color:#2B2620;line-height:1.65;margin-top:6px;\">End with two or three sentences that restate your thesis in fresh words and say what Hinton seems to want readers to understand about the theme you chose.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">4</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\"><strong>Add your Works Cited entry.</strong></div><div style=\"font-size:14px;color:#2B2620;line-height:1.65;margin-top:6px;\">At the end of your document, add one entry for the novel: Hinton, S. E. <em>The Outsiders</em>. Then the publisher and the year, both from your own copy.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">5</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\"><strong>Be honest about your reasoning.</strong></div><div style=\"font-size:14px;color:#2B2620;line-height:1.65;margin-top:6px;\">If a detail only partly fits your claim, say so. If the novel seems to say two things at once about your theme, acknowledge that. Naming where your evidence is strong and where it is less certain makes your essay stronger, not weaker.</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Upload two files</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\"><strong>Your essay.</strong></div><div style=\"font-size:14px;color:#2B2620;line-height:1.65;margin-top:6px;\">A Word file named <strong>LastName_OS_FinalEssay</strong>, or a PDF of it.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#A65A0C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#3B2257;line-height:1.35;\"><strong>The PDF from the Write Your Essay lesson.</strong></div><div style=\"font-size:14px;color:#2B2620;line-height:1.65;margin-top:6px;\">It shows your case file and the revision of your essay.</div></td></tr></tbody></table><p style=\"font-size:15px;color:#2B2620;line-height:1.65;margin:0 0 14px 0;\">40 points, graded with the rubric below.</p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Success criteria</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">A clear thesis names one theme and states what the novel says about it.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Two or three moments from your own copy, each cited in MLA format (author plus chapter).</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Each moment is explained, not just named or quoted.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">A conclusion ties the essay back to the theme you chose.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">A Works Cited entry for the novel appears at the end of the document.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">The essay is honest about where its evidence is strong and where it is less certain.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Both files are submitted together.</td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Before you submit</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Your essay is written in Microsoft <strong>Word</strong>, opened from your school M365 account.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">The file is named <strong>LastName_OS_FinalEssay</strong> (for example, Garcia_OS_FinalEssay).</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Line spacing is double throughout. Your name, the course, and the date are at the upper left, with a real title, centered, above your writing.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">The title is set as a heading, and the body font is readable (Calibri 11 or Times New Roman 12).</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">It is saved in your OneDrive, in Optima &gt; ELA &gt; your course folder, and you confirmed it is there.</td></tr></tbody></table><div style=\"font-size:13.5px;color:#5C5A4B;line-height:1.65;margin:0 0 18px 0;\">Skill you are practicing: creating and formatting a Word document; using digital tools to produce and share writing.</div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Rubric</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div data-levels=\"1\" style=\"margin:0 0 6px 0;\"><div style=\"font-size:16px;color:#3B2257;line-height:1.35;margin:18px 0 6px 0;\">Understanding of the text <span style=\"font-size:13px;color:#A65A0C;\">(10 pts)</span></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #E3D9BE;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A65A0C;vertical-align:top;line-height:1.5;\">Excellent (10)</td><td style=\"border-top:1px solid #E3D9BE;padding:7px 0;font-size:13px;color:#2B2620;vertical-align:top;line-height:1.5;\">Shows a clear, accurate grasp of the novel and the chosen theme (loyalty, family, or staying gold). The essay reflects what the book actually shows about that theme.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #E3D9BE;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A65A0C;vertical-align:top;line-height:1.5;\">Proficient (7.5)</td><td style=\"border-top:1px solid #E3D9BE;padding:7px 0;font-size:13px;color:#2B2620;vertical-align:top;line-height:1.5;\">Understands the main events and the theme. A small detail may be off, but the central idea is sound.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #E3D9BE;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A65A0C;vertical-align:top;line-height:1.5;\">Developing (5)</td><td style=\"border-top:1px solid #E3D9BE;padding:7px 0;font-size:13px;color:#2B2620;vertical-align:top;line-height:1.5;\">Some understanding, but with gaps or a misread of the theme or the plot.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #E3D9BE;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A65A0C;vertical-align:top;line-height:1.5;\">Beginning (2.5)</td><td style=\"border-top:1px solid #E3D9BE;padding:7px 0;font-size:13px;color:#2B2620;vertical-align:top;line-height:1.5;\">Little accurate understanding of the text or the theme.</td></tr></tbody></table><div style=\"font-size:16px;color:#3B2257;line-height:1.35;margin:18px 0 6px 0;\">Quality of reasoning and evidence <span style=\"font-size:13px;color:#A65A0C;\">(10 pts)</span></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #E3D9BE;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A65A0C;vertical-align:top;line-height:1.5;\">Excellent (10)</td><td style=\"border-top:1px solid #E3D9BE;padding:7px 0;font-size:13px;color:#2B2620;vertical-align:top;line-height:1.5;\">A clear thesis is backed by two or three well-chosen events or details, cited in MLA format (author&rsquo;s name and chapter), and each is explained so the reasoning is easy to follow. A correct Works Cited entry for the novel is included.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #E3D9BE;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A65A0C;vertical-align:top;line-height:1.5;\">Proficient (7.5)</td><td style=\"border-top:1px solid #E3D9BE;padding:7px 0;font-size:13px;color:#2B2620;vertical-align:top;line-height:1.5;\">A thesis with supporting evidence, cited in MLA format with only minor slips (a missing Works Cited entry or an inconsistent locator); explanations are present but may be thin in a spot.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #E3D9BE;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A65A0C;vertical-align:top;line-height:1.5;\">Developing (5)</td><td style=\"border-top:1px solid #E3D9BE;padding:7px 0;font-size:13px;color:#2B2620;vertical-align:top;line-height:1.5;\">A thesis with little evidence, evidence that is named but not explained, or citations missing the author&rsquo;s name or the chapter.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #E3D9BE;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A65A0C;vertical-align:top;line-height:1.5;\">Beginning (2.5)</td><td style=\"border-top:1px solid #E3D9BE;padding:7px 0;font-size:13px;color:#2B2620;vertical-align:top;line-height:1.5;\">No clear thesis, no real evidence, or no attempt at citation.</td></tr></tbody></table><div style=\"font-size:16px;color:#3B2257;line-height:1.35;margin:18px 0 6px 0;\">Clarity and precision <span style=\"font-size:13px;color:#A65A0C;\">(10 pts)</span></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #E3D9BE;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A65A0C;vertical-align:top;line-height:1.5;\">Excellent (10)</td><td style=\"border-top:1px solid #E3D9BE;padding:7px 0;font-size:13px;color:#2B2620;vertical-align:top;line-height:1.5;\">Writing is well organized and easy to follow; sentences are clear. Few errors.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #E3D9BE;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A65A0C;vertical-align:top;line-height:1.5;\">Proficient (7.5)</td><td style=\"border-top:1px solid #E3D9BE;padding:7px 0;font-size:13px;color:#2B2620;vertical-align:top;line-height:1.5;\">Mostly clear and organized; a few errors or rough spots that do not block understanding.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #E3D9BE;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A65A0C;vertical-align:top;line-height:1.5;\">Developing (5)</td><td style=\"border-top:1px solid #E3D9BE;padding:7px 0;font-size:13px;color:#2B2620;vertical-align:top;line-height:1.5;\">Hard to follow in places; errors get in the way.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #E3D9BE;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A65A0C;vertical-align:top;line-height:1.5;\">Beginning (2.5)</td><td style=\"border-top:1px solid #E3D9BE;padding:7px 0;font-size:13px;color:#2B2620;vertical-align:top;line-height:1.5;\">Unclear or disorganized; the theme is hard to see.</td></tr></tbody></table><div style=\"font-size:16px;color:#3B2257;line-height:1.35;margin:18px 0 6px 0;\">Intellectual honesty <span style=\"font-size:13px;color:#A65A0C;\">(10 pts)</span></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #E3D9BE;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A65A0C;vertical-align:top;line-height:1.5;\">Excellent (10)</td><td style=\"border-top:1px solid #E3D9BE;padding:7px 0;font-size:13px;color:#2B2620;vertical-align:top;line-height:1.5;\">Uses evidence fairly, does not overstate, and names where the argument is strong and where it is less certain. The essay is honest about where its evidence is strong and where it is less certain.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #E3D9BE;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A65A0C;vertical-align:top;line-height:1.5;\">Proficient (7.5)</td><td style=\"border-top:1px solid #E3D9BE;padding:7px 0;font-size:13px;color:#2B2620;vertical-align:top;line-height:1.5;\">Uses evidence fairly with no clear overreach; some honest awareness of the evidence&rsquo;s limits.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #E3D9BE;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A65A0C;vertical-align:top;line-height:1.5;\">Developing (5)</td><td style=\"border-top:1px solid #E3D9BE;padding:7px 0;font-size:13px;color:#2B2620;vertical-align:top;line-height:1.5;\">Stretches evidence to fit, or claims more than the work shows.</td></tr><tr><td style=\"width:92px;min-width:92px;border-top:1px solid #E3D9BE;padding:7px 10px 7px 0;font-family:Consolas,'Courier New',monospace;font-size:11.5px;color:#A65A0C;vertical-align:top;line-height:1.5;\">Beginning (2.5)</td><td style=\"border-top:1px solid #E3D9BE;padding:7px 0;font-size:13px;color:#2B2620;vertical-align:top;line-height:1.5;\">Evidence is misused or invented.</td></tr></tbody></table></div><div style=\"margin:44px 0 0 0;border-top:1px solid #E3D9BE;padding:16px 0 0 0;font-size:12.5px;color:#5C5A4B;line-height:1.7;\">Optima Academy Online &middot; 7th Grade ELA &middot; The Outsiders<br>Academic Design and Curriculum (AcDC) &middot; &copy; Optima Academy Online &middot; An Education Experience Company</div>",
+   "points": 40.0,
+   "group": "out_ag_project",
+   "rubric": "out_r_final_project",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "docx,pdf",
+   "published": true,
+   "week": 7,
+   "kind": "module-project"
   }
  ],
  "quizzes": [
@@ -569,9 +1139,2505 @@
      "feedback_general": ""
     }
    ]
+  },
+  {
+   "id": "out_q_w2_quiz",
+   "title": "Week 2 Quiz",
+   "description": "<div data-ob=\"optima-brand-v2\" style=\"background:#3B2257;border-bottom:5px solid #A65A0C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 2 Quiz</span><div style=\"color:#FFD9A0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">7th Grade ELA &middot; The Outsiders &middot; Week 2</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">16 points</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">16 questions</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">2 attempts</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">About 15 minutes</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Before you move on</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><p style=\"font-size:15px;color:#2B2620;line-height:1.65;margin:0 0 14px 0;\">Confirm your Week 2 submissions before you move on:</p><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 1 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 2 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 3 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 4 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">This Week 2 Quiz</td></tr></tbody></table>",
+   "quiz_type": "assignment",
+   "points": 16.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": true,
+   "show_correct_answers": true,
+   "group": "out_ag_quizzes",
+   "published": true,
+   "week": 2,
+   "kind": "week-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter 3, Cherry says the Socs and the greasers are divided by more than money. How does she describe the difference?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Greasers are better at sports.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Greasers feel things strongly, and Socs hide their feelings.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Socs and greasers go to different schools.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Socs work harder in school than greasers do, so they get ahead.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. Cherry says the greasers are the more emotional ones, and the Socs keep their feelings cool and hidden.",
+     "feedback_incorrect": "Cherry is talking about what each side feels and shows, not about sports or school. What does she say each side does with its feelings?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>When Ponyboy finally reaches the country, why isn't he as happy as he expected to be?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It is colder than the city.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The farmer is unkind to him.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Johnny wants to turn around and go straight back home.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He may never see his brothers or friends again.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. He had pictured the country as an escape, and now he sees what he has left behind.",
+     "feedback_incorrect": "Read the end of Chapter 4. What does Ponyboy realize he has lost by leaving town?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Ponyboy ends Chapter 3 by telling the reader that he was wrong to think things could not get worse. What is this an example of?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Foreshadowing",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Flashback",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Simile",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Personification",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. The older Ponyboy hints that something bad is coming before it happens. That is foreshadowing.",
+     "feedback_incorrect": "Is the writer going back in time, comparing two things, or hinting at what comes next?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is an analytical claim?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "In Chapter 3, Ponyboy tells Cherry about Mickey Mouse, the horse Soda loved and lost.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "After the movie, Johnny and Ponyboy lie on their backs in the vacant lot and fall asleep.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ponyboy's outburst at Johnny shows his anger at Darry spilling onto a friend.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Ponyboy is fourteen and lives with his two older brothers.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. A claim says what something means, and a reader could argue with it. The others only tell what happens or who someone is.",
+     "feedback_incorrect": "Three of these only report facts. Which one says what a moment means?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How does Chapter 3 prepare the reader for what happens in the park in Chapter 4?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It shows the Socs and greasers becoming friends.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It explains the rules of a rumble.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It tells the reader exactly what will happen, so there is no surprise.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It keeps raising the tension before anything breaks.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. The chapter piles up worries and warnings, so the reader feels trouble coming.",
+     "feedback_incorrect": "Think about how the chapter feels as it goes on. Does it calm down, or does the pressure keep building?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why does Darry shout at Ponyboy when he gets home?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Ponyboy had been fighting with Socs.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He was out until two, and Darry was scared.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Ponyboy had lost Soda's sweat shirt.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Soda told Darry that Ponyboy was out with Cherry Valance.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. Darry's anger comes from fear. Ponyboy had been out far too late.",
+     "feedback_incorrect": "Look at how late it is when Ponyboy walks in. What would Darry have been feeling while he waited?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Cherry says she could fall in love with Dallas Winston and hopes she never sees him again. What does she mean?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "She has already forgotten Dally.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "She plans to meet Dally at school.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Part of her is drawn to Dally, though he is trouble.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "She wants Ponyboy to carry a message to Dally for her.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. She feels the pull of someone exciting and dangerous, and she knows it would not be good for her.",
+     "feedback_incorrect": "She says two things that seem to disagree. What would make a person say both?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Ponyboy lies easily to the farmer. What does Soda say that easy lying comes from?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Reading so much",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Growing up with Two-Bit",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Watching too many movies",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Being the youngest",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. Ponyboy says Soda blames it on all his reading.",
+     "feedback_incorrect": "Find the lie Ponyboy tells the farmer. What does Ponyboy say right after, about where Soda thinks it comes from?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which word is the subject noun?</p><p>Example sentence: The sunburned farmer stopped his tractor on the road.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "sunburned",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "stopped",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "farmer",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "road",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. <em>Farmer</em> is the noun the sentence is about, the one that did the stopping.",
+     "feedback_incorrect": "The subject is the noun that does the action. Who stopped?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which word is the adverb?</p><p>Example sentence: Cherry looked at Ponyboy gently.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "gently",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "looked",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Cherry",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ponyboy",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. <em>Gently</em> tells how Cherry looked, so it is an adverb.",
+     "feedback_incorrect": "An adverb tells how, when, or where something happens. Which word tells how she looked?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The words <em>a</em>, <em>an</em>, and <em>the</em> belong to which group?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "pronouns that point to nouns",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "prepositions that show place",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "interjections that stand apart",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "article adjectives",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. <em>A</em>, <em>an</em>, and <em>the</em> are article adjectives. They come before a noun.",
+     "feedback_incorrect": "These three small words always sit in front of a noun. Which group do they belong to?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which word is a conjunction?</p><p>Example sentence: Johnny and Ponyboy ran for several blocks.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "for",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "and",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "several",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "ran",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. <em>And</em> joins the two names, so it is a conjunction.",
+     "feedback_incorrect": "A conjunction joins words or groups of words. Which word joins Johnny and Ponyboy?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You want to put the spotlight on what happened, not on who did it. Which voice is usually the better choice?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Passive voice",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Active voice",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Both work the same in every sentence.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Neither; use a question instead.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. Passive voice puts the action first and can leave the doer out.",
+     "feedback_incorrect": "In which voice does the doer come first? Which one lets you leave the doer out?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence is in active voice?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Example sentence: The porch light was left on.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: The freight was boarded in the dark by the boys.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: Two-Bit tore up Marcia's phone number.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: Soda's horse was taken away one day.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. <em>Two-Bit</em> is the doer, and he comes first. He did the tearing.",
+     "feedback_incorrect": "In active voice the doer comes first and does the action. In the others, the action happens to something. Which sentence starts with the doer?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a passive-voice sentence, the verb usually includes...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "an action verb with no helping verb",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a helping verb and a past participle",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "two action verbs in a row",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "an article adjective right before the verb",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. A helping verb such as <em>was</em> plus a past participle, as in <em>was taken</em>, builds the passive.",
+     "feedback_incorrect": "Think of <em>was taken</em> or <em>was left</em>. What two parts make up that verb?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is the correct active-voice rewrite?</p><p>Example sentence: Ponyboy was startled by Cherry's question.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Ponyboy startled Cherry's question.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ponyboy had been startled.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Cherry's question was startling Ponyboy.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Cherry's question startled Ponyboy.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. The question did the startling, so it comes first, and Ponyboy receives it.",
+     "feedback_incorrect": "In the original, who or what did the startling? Put that first and make the verb active.",
+     "feedback_general": ""
+    }
+   ]
+  },
+  {
+   "id": "out_q_w3_quiz",
+   "title": "Week 3 Quiz",
+   "description": "<div data-ob=\"optima-brand-v2\" style=\"background:#3B2257;border-bottom:5px solid #A65A0C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 3 Quiz</span><div style=\"color:#FFD9A0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">7th Grade ELA &middot; The Outsiders &middot; Week 3</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">16 points</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">16 questions</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">2 attempts</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">About 15 minutes</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Before you move on</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><p style=\"font-size:15px;color:#2B2620;line-height:1.65;margin:0 0 14px 0;\">Confirm your Week 3 submissions before you move on:</p><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 1 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 2 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 3 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 4 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">This Week 3 Quiz</td></tr></tbody></table>",
+   "quiz_type": "assignment",
+   "points": 16.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": true,
+   "show_correct_answers": true,
+   "group": "out_ag_quizzes",
+   "published": true,
+   "week": 3,
+   "kind": "week-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Where do Ponyboy and Johnny hide in Chapters 5 and 6?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A barn at the edge of town",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "An old church on top of a hill",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Dally's apartment",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A friend's basement on the other side of town",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. Dally sends them to an abandoned church on Jay Mountain.",
+     "feedback_incorrect": "Dally sends them out of town by freight train. Picture the building at the top of the hill.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Frost's poem, gold is the color of the first new leaves. What does gold most likely stand for when Ponyboy recites it?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Money, and what greasers don't have",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Loyalty between friends",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "What is fresh and good, and doesn't last",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Only the color of that one sunrise, nothing more",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. Gold is the first, best part of a thing, and the poem says how quickly it goes.",
+     "feedback_incorrect": "Ask what the poem says happens to gold. Why would a sunrise make Ponyboy think of a poem about losing things?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Ponyboy says he could not tell most of the gang about the sunrise and the poem. Whom does he say would understand?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Johnny, Soda, and maybe Cherry",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Darry and Two-Bit",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Dally, because Dally is the most real of them",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only Johnny, nobody else",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. Ponyboy names Johnny and Soda, and then adds Cherry Valance.",
+     "feedback_incorrect": "Find where Ponyboy lists the people who just do not get it. Then find the people who do. He names more than one.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is a theme statement?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Friendship",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "In Chapter 5, Ponyboy and Johnny spend about five days hiding in the old church on the hill.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The setting of the church chapters",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Friends can help each other see what they would miss.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. A theme statement is a full sentence that says something about life, not just what happens in the story.",
+     "feedback_incorrect": "A topic is one word or a phrase. A plot fact tells what happens. Which option makes a claim about people?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why do the police think the boys went to Texas?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Johnny left a note saying so.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Dally let it slip at the station.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Someone saw them on a bus going south.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Two-Bit went to Texas to look for them.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. Dally says he let it slip at the station that they were headed for Texas, so that is where the police are looking.",
+     "feedback_incorrect": "Who got hauled in to the station and had the chance to say something? Did anyone actually see the boys leave?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How does Ponyboy guess the church caught fire?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He and Johnny may have dropped a lit cigarette.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The picnic grill was left burning.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Lightning hit the old roof the night before the picnic.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Socs set it to find the boys.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. Ponyboy thinks the fire may have started with a cigarette he and Johnny dropped, and he is afraid it was their fault.",
+     "feedback_incorrect": "Read what Ponyboy says to Johnny at the top of the hill. What does he blame?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does Dally do when Johnny is still inside the church?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He drives off to get help in town.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He shouts for the firemen to hurry.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He goes back in to get him out.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He waits by the car the whole time.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. Dally goes back into the church for Johnny.",
+     "feedback_incorrect": "Dally does not wait. Read what he does when he sees Johnny has not come out.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Johnny says the Southern gentlemen in <em>Gone with the Wind</em> remind him of Dally. Naming another book like this is an example of...</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "a flashback",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a simile",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "foreshadowing",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "an allusion",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. An allusion is a reference to another work the reader may know.",
+     "feedback_incorrect": "A flashback goes back in this story's own time, and foreshadowing hints at what comes later in it. What do we call a reference to a different book?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which part is a prepositional phrase?</p><p>Example sentence: Ponyboy ducked inside the old church door.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Ponyboy ducked inside the old church",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "old church",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "inside the old church door",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "ducked inside",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. The phrase starts with the preposition <em>inside</em> and ends with the noun <em>door</em>.",
+     "feedback_incorrect": "A prepositional phrase starts with a preposition and ends with a noun. Which word starts it?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What type of sentence is this?</p><p>Example sentence: The whistle sounded, and Ponyboy answered it.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Compound",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Simple",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Complex",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A fragment",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. Two complete thoughts are joined by <em>and</em>, so the sentence is compound.",
+     "feedback_incorrect": "Count the complete thoughts. Can each side of the comma stand alone?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What type of sentence is this?</p><p>Example sentence: Because the mornings were cold, the boys slept huddled together.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Simple",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Compound",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Fragment",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Complex",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. <em>Because the mornings were cold</em> cannot stand alone, and it is attached to a complete thought. That makes the sentence complex.",
+     "feedback_incorrect": "Does the first part stand alone? Which kind of sentence has one part that cannot?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What part of speech is <em>carefully</em>?</p><p>Example sentence: Johnny listened carefully while Ponyboy explained the book.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Adjective, because it describes Johnny",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Adverb, because it tells how he listened",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Preposition, because it comes after the verb",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Noun, because it names something Johnny did",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. <em>Carefully</em> tells how Johnny listened, so it is an adverb.",
+     "feedback_incorrect": "An adverb tells how, when, or where. Which word tells how he listened?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A student wrote: When Dally finally came. Can this stand alone as a sentence?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Yes, because it has a subject and a verb",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Yes, if it ends with a period",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "No, because it has no subject",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "No, because it is a dependent clause",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. <em>When</em> turns the group into a dependent clause, so it cannot stand alone.",
+     "feedback_incorrect": "It has a subject and a verb, but does the thought feel finished? Read it and ask what happened when Dally came.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which part is the dependent clause?</p><p>Example sentence: Although Ponyboy loved his long hair, he let Johnny cut it.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "he let Johnny cut it",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ponyboy loved his long hair, and he let Johnny cut it",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Although Ponyboy loved his long hair",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "let Johnny cut",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. It has a subject and a verb, but <em>Although</em> keeps it from standing alone.",
+     "feedback_incorrect": "Which part starts with a word like <em>although</em> and cannot stand alone as a sentence?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which word is an adjective describing <em>mirror</em>?</p><p>Example sentence: Ponyboy looked into the old cracked mirror.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "cracked",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "looked into",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "into",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ponyboy",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. <em>Cracked</em> describes the mirror. It tells what kind.",
+     "feedback_incorrect": "An adjective describes a noun. Which word tells what kind of mirror it is?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What type of sentence is this?</p><p>Example sentence: Dally grinned and handed Ponyboy a letter.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Compound, because it has <em>and</em>",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Simple",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Complex",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Fragment",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. One subject does two things, <em>grinned</em> and <em>handed</em>. That is a compound verb, so the sentence is simple.",
+     "feedback_incorrect": "<em>And</em> joins two verbs here, not two sentences. Is there a second subject?",
+     "feedback_general": ""
+    }
+   ]
+  },
+  {
+   "id": "out_q_w4_quiz",
+   "title": "Week 4 Quiz",
+   "description": "<div data-ob=\"optima-brand-v2\" style=\"background:#3B2257;border-bottom:5px solid #A65A0C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 4 Quiz</span><div style=\"color:#FFD9A0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">7th Grade ELA &middot; The Outsiders &middot; Week 4</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">16 points</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">16 questions</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">2 attempts</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">About 15 minutes</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Before you move on</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><p style=\"font-size:15px;color:#2B2620;line-height:1.65;margin:0 0 14px 0;\">Confirm your Week 4 submissions before you move on:</p><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 1 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 2 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 3 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 4 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">This Week 4 Quiz</td></tr></tbody></table>",
+   "quiz_type": "assignment",
+   "points": 16.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": true,
+   "show_correct_answers": true,
+   "group": "out_ag_quizzes",
+   "published": true,
+   "week": 4,
+   "kind": "week-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which word needs a capital letter?</p><p>Example sentence: Ponyboy and johnny hid out near a small town.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "small town",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "hid out",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "johnny",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "near a",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. <em>Johnny</em> is the name of one particular person, so it starts with a capital.",
+     "feedback_incorrect": "Look for the name of one particular person.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence capitalizes the title before a name correctly?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Example sentence: Mrs. Mathews let Two-Bit get away with almost anything.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: mrs. Mathews let Two-Bit get away with almost anything at all.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: Mrs. mathews let Two-Bit get away with almost anything at all.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: MRS. MATHEWS let Two-Bit get away with almost anything.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. A title before a name, like <em>Mrs.</em>, is capitalized along with the name.",
+     "feedback_incorrect": "A title used with a name, and the name itself, both start with a capital. Which sentence does that without extra capitals?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which end mark belongs at the end of this sentence?</p><p>Example sentence: Did Two-Bit bring the book for Johnny</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "a period",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a comma",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "an exclamation point",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a question mark",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. The sentence asks something, so it ends with a question mark.",
+     "feedback_incorrect": "Is the sentence telling, asking, or shouting? Which mark goes with a question?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which words should NOT be capitalized?</p><p>Example sentence: Soda and Steve work at the Gas Station.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Soda and Steve",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Gas Station",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Soda",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Steve",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. A gas station is a common noun, not the name of one particular place, so it is not capitalized here.",
+     "feedback_incorrect": "A capital goes with the name of a particular person, place, or brand. Which words only name a kind of place?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which choice writes the book's title correctly?</p><p>Example sentence: Before this book, the class read The Call of the Wild.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "\"The Call of the Wild\" in quotation marks",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "THE CALL OF THE WILD in capitals",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Call of the Wild in italics",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "the call of the wild in lowercase letters",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. The title of a whole book goes in italics, or is underlined when handwritten.",
+     "feedback_incorrect": "A book is a long work. Which mark of style do long works get? Short works get quotation marks.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which choice writes the poem's title correctly?</p><p>Example sentence: Dickinson's poem Hope Is the Thing with Feathers is printed in a book of stories.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "\"Hope Is the Thing with Feathers\" in quotation marks",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Hope Is the Thing with Feathers in italics, the way a book title is written",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "HOPE IS THE THING WITH FEATHERS in capitals",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hope Is the Thing with Feathers with no marks, underlined twice",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. A poem is a short work, so its title goes in quotation marks, even in a book of stories.",
+     "feedback_incorrect": "A poem is a short piece of writing. Which mark goes around the titles of short works?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence introduces the quotation correctly?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Ponyboy tells Cherry quietly \"You can see it good from the East Side, too\" (Hinton, Ch. 8).",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ponyboy tells Cherry; \"You can see it good from the East Side, too\" (Hinton, Ch. 8).",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ponyboy tells Cherry. \"You can see it good from the East Side, too\" (Hinton, Ch. 8).",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ponyboy tells Cherry, \"You can see it good from the East Side, too\" (Hinton, Ch. 8).",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. A comma sets off the words that introduce a quotation.",
+     "feedback_incorrect": "A short introduction like <em>Ponyboy tells Cherry</em> needs one mark before the opening quotation mark. Which mark?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which version places the period and the citation correctly?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "\"Socs were just guys after all.\" (Hinton, Ch. 7)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "\"Socs were just guys after all\" (Hinton, Ch. 7).",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "\"Socs were just guys after all.\" (Hinton, Ch. 7).",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "\"Socs were just guys after all\" (Ch. 7, Hinton).",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. When a citation follows a quotation, the closing quotation mark comes first, then the citation, then the period.",
+     "feedback_incorrect": "Where does the sentence end when the citation is part of it? Check the author's name and chapter order too.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>As Chapter 8 goes on, what does Ponyboy feel about the night ahead?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Excited, because the greasers are sure to win the rumble",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Calm, because the doctors say Johnny is getting better",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Afraid that something will happen that no one can stop",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Bored, because the reporters have finally gone home",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. Ponyboy cannot shake the feeling that something is coming that no one can prevent.",
+     "feedback_incorrect": "Read how Ponyboy talks about the night ahead. Is he eager, calm, or uneasy?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which moment shows loyalty as simply being there for someone?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Two-Bit refuses to leave until he sees Johnny.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Dally argues with a nurse because he wants to leave.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Steve tells Ponyboy not to worry about a boys' home.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Two-Bit makes jokes about Ponyboy's short haircut.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. Two-Bit stays until he has seen Johnny for himself.",
+     "feedback_incorrect": "Loyalty here means showing up and staying. Which character stays put for a friend?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which idea do Chapters 7 and 8 keep showing through what the characters do?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Randy Adderson drives a blue Mustang to the Tasty Freeze.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ponyboy fixes breakfast for his two brothers one morning.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The newspaper prints a picture of the three brothers.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "People on both sides of a line can feel the same pain.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. Randy, Cherry, and the greasers all show feelings that cross the line between them.",
+     "feedback_incorrect": "An idea is something a reader takes away, not just a thing that happens. Which option says what the chapters seem to mean?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Randy says, \"You can't win, even if you whip us\" (Hinton, Ch. 7). What does he mean?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Socs have more fighters, so the greasers will lose.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Fighting won't change who is on top.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The police will stop the rumble before it starts.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Randy will tell the Socs to stay home that night.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. Even a win would not change the gap between the two sides.",
+     "feedback_incorrect": "Randy says \"even if you whip us.\" What does he think a win would still not fix?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Ponyboy answers Randy, \"you hate the whole world\" (Hinton, Ch. 7). What is his point?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Randy's bitterness comes from Randy.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The whole world really does hate the Socs for their money.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ponyboy hates Randy for what the Socs did at the park.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Randy should leave town and start over somewhere else.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. Ponyboy says the hate is in Randy, not in the world around him.",
+     "feedback_incorrect": "Randy blames money for everything. What does Ponyboy say about where the hate comes from?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why does Darry call Soda Pepsi-Cola that morning?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He is teasing Soda for drinking so much soda pop.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It is Soda's real name, written on his birth papers.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He knows Soda is unhappy about Sandy.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He is angry that Soda overslept and is late for work.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. Darry rarely uses the nickname. He uses it because he can tell Soda is hurting.",
+     "feedback_incorrect": "Ponyboy explains why Darry uses a gentler name that day. What does Darry know about Soda?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does Ponyboy ask Two-Bit to keep from Darry?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That he talked with Randy at the Tasty Freeze",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That he met Cherry at the vacant lot that day",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That he skipped the dishes and went to the movies",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That he feels sick and feverish",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. Ponyboy does not want Darry to worry about how sick he feels.",
+     "feedback_incorrect": "Think about what Ponyboy is trying to hide so that Darry does not worry.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>When Ponyboy asks Cherry whether she can see the sunset from the West Side, what is he telling her?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That he wants a ride in her red Corvette before dark",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That the two sides share more than they think",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "That the East Side has the better view of the sky",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That he forgives the Socs for everything at the park",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. A sunset is something both sides can look at, so it shows what they share.",
+     "feedback_incorrect": "What does one sunset over both sides of town have to do with what divides them?",
+     "feedback_general": ""
+    }
+   ]
+  },
+  {
+   "id": "out_q_w5_quiz",
+   "title": "Week 5 Quiz",
+   "description": "<div data-ob=\"optima-brand-v2\" style=\"background:#3B2257;border-bottom:5px solid #A65A0C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 5 Quiz</span><div style=\"color:#FFD9A0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">7th Grade ELA &middot; The Outsiders &middot; Week 5</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">16 points</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">16 questions</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">2 attempts</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">About 15 minutes</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Before you move on</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><p style=\"font-size:15px;color:#2B2620;line-height:1.65;margin:0 0 14px 0;\">Confirm your Week 5 submissions before you move on:</p><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 1 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 2 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 3 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 4 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">This Week 5 Quiz</td></tr></tbody></table>",
+   "quiz_type": "assignment",
+   "points": 16.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": true,
+   "show_correct_answers": true,
+   "group": "out_ag_quizzes",
+   "published": true,
+   "week": 5,
+   "kind": "week-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Both sides agree ahead of time to a planned fight with set rules. What does the novel call it?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "a showdown",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a rumble",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "a riot",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a standoff between gangs",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. A rumble is set for a time and a place, with rules both sides accept.",
+     "feedback_incorrect": "Look at the first lines of Chapter 9. What word does Ponyboy use for the planned fight?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>After the rumble, Dally takes Ponyboy to the hospital. Whom are they going to see?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Two-Bit, who was hurt in the fight",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Steve, who has broken ribs",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Johnny",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Cherry and Randy",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. Dally says Johnny wants to see Ponyboy.",
+     "feedback_incorrect": "Dally left the hospital himself to fight. Who is still there?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>At the rumble, Ponyboy notices that the Socs look like they could be going to the movies. What point is he making?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "People judge by looks, and the Socs look decent.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Socs did not take the rumble seriously at all.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Socs were planning to leave for a movie after it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The greasers were dressed better than the Socs that night.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. Ponyboy says people usually go by looks, and the Socs look like ordinary kids.",
+     "feedback_incorrect": "Read what he says right after. Why do people blame the greasers?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Johnny hears that the greasers won the rumble and says fighting is useless. What does that show about him?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Johnny wishes he had been at the rumble.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Johnny is angry that Dally fought without him.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Johnny thinks the Socs will want a second rumble very soon.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Johnny no longer believes fighting settles anything.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. The win means nothing to him.",
+     "feedback_incorrect": "Does Johnny smile at the news? Read his answer.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>At the start of Chapter 10, how does Ponyboy act as he walks away from the hospital?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He goes straight to the police station.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He tells himself it didn't happen.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He runs to tell Cherry and Randy.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He goes looking for Dally to fight the Socs again.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. He wanders for hours and will not believe it.",
+     "feedback_incorrect": "Read the first page of Chapter 10. What does he keep telling himself?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which best describes a story's climax?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The opening, where we meet the characters",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The background history a reader needs to understand the story",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The ending, where loose ends are tied up",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The peak, where the main conflict is decided",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. After the climax, nothing goes back to the way it was.",
+     "feedback_incorrect": "The climax is not the start or the end. Where is the tension at its highest?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which action in Chapter 10 best shows the brothers as a family?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Two-Bit reads the newspaper in the living room.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Steve runs to the vacant lot with the others.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Darry sleeps in a chair by Ponyboy's bed.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A stranger gives Ponyboy a ride home.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. Darry stays with Ponyboy while he is sick.",
+     "feedback_incorrect": "Which action shows one brother taking care of another?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In an argument, what does a counterclaim do?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It states the other side fairly, so you can answer it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It repeats your own claim in different words for emphasis.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It lists every event in the order it happened.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It gives up your claim when someone disagrees.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. Then you show why your claim still holds.",
+     "feedback_incorrect": "A counterclaim does not give up. What does it name?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which version places the comma correctly?</p><p>Example sentence: \"I left my lunch on the counter\" said Ms. Reyes.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "\"I left my lunch on the counter,\" said, Ms. Reyes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "\"I left my lunch on the counter\", said Ms. Reyes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "\"I left my lunch on the counter,\" said Ms. Reyes.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": ",\"I left my lunch on the counter\" said Ms. Reyes.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. The comma goes inside the closing quotation mark, before the speaker tag.",
+     "feedback_incorrect": "The comma sits at the end of the spoken words, tucked inside the mark. Which version puts it there and nowhere else?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is true?</p><p>Example sentence: Elena shouted, \"Watch out for the step.\"</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It is correct as written.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The period belongs outside the mark.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The comma belongs after the opening mark.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It needs no quotation marks because of the tag.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. The comma follows the tag, the spoken words are in marks, and the period goes inside.",
+     "feedback_incorrect": "Check each mark: a comma after the tag, marks around the words, and the period inside. Does anything need changing?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence is punctuated correctly?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Example sentence: \"Can we leave early?\" Jordan, asked.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: \"Can we leave early,\" Jordan asked?",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: \"Can we leave early.\" Jordan asked.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: \"Can we leave early?\" Jordan asked.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. The spoken words are a question, so the question mark goes inside the marks, and the sentence ends with a period.",
+     "feedback_incorrect": "Which mark belongs with a question, and where does the sentence about Jordan end?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is the error?</p><p>Example sentence: Jordan replied, \"The practice starts at four o'clock\".</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The comma after <em>replied</em> should not be there.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The period should be inside the mark.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The words need no quotation marks.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "<em>Replied</em> should start with a capital.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. The final period belongs inside the closing quotation mark.",
+     "feedback_incorrect": "Look at the end of the sentence. On which side of the closing mark does the period sit?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why does <em>The</em> start with a capital letter?</p><p>Example sentence: \"Keep the door closed,\" she reminded us. \"The cat will escape.\"</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It begins a new sentence the speaker says.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Words after a speaker tag always start with a capital.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The speaker is talking louder now.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The cat is a name, so it needs a capital.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. The tag ends one sentence, and the speaker starts a new one, so the new one begins with a capital.",
+     "feedback_incorrect": "Look at the period before the quotation. Is the quotation the rest of the same sentence, or a fresh one?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which version fixes it?</p><p>Example sentence: \"I already told you the answer.\" he said with a shrug.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "\"I already told you the answer.\" He said, with a shrug.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "\"I already told you the answer,\" he said with a shrug.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I already told you the answer, he said with a shrug.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "\"I already told you the answer\" he said, with a shrug.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. A comma replaces the period, and the tag stays lowercase.",
+     "feedback_incorrect": "The tag is not a new sentence. Which version ends the spoken part with a comma inside the marks?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is missing?</p><p>Example sentence: Mr. Hale called from the hallway, Good morning everyone.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A comma after <em>morning</em>, before <em>everyone</em>",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A period at the very end of the sentence",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A capital letter at the start of <em>good</em>",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Quotation marks around the spoken words",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. The words Mr. Hale says aloud need quotation marks.",
+     "feedback_incorrect": "Which words did someone actually say aloud? What marks go around spoken words?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which version is correct?</p><p>Example sentence: \"The field is wet\" said the coach \"so practice is inside.\"</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "\"The field is wet,\" said the coach \"so practice is inside.\"",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "\"The field is wet,\" said the coach, \"so practice is inside.\"",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "\"The field is wet.\", said the coach, \"So practice is inside.\"",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "\"The field is wet\" said the coach, \"so practice is inside\".",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. The tag is set off by commas on both sides, and the speaker's sentence continues in lowercase.",
+     "feedback_incorrect": "The tag interrupts one sentence. Which version puts a comma on each side of the tag?",
+     "feedback_general": ""
+    }
+   ]
+  },
+  {
+   "id": "out_q_w6_quiz",
+   "title": "Week 6 Quiz",
+   "description": "<div data-ob=\"optima-brand-v2\" style=\"background:#3B2257;border-bottom:5px solid #A65A0C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 6 Quiz</span><div style=\"color:#FFD9A0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">7th Grade ELA &middot; The Outsiders &middot; Week 6</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">16 points</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">16 questions</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">2 attempts</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">About 15 minutes</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Before you move on</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><p style=\"font-size:15px;color:#2B2620;line-height:1.65;margin:0 0 14px 0;\">Confirm your Week 6 submissions before you move on:</p><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 1 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 2 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 3 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">Lesson 4 PDF</td></tr><tr><td style=\"width:30px;min-width:30px;color:#A65A0C;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.55;padding:2px 0 13px 4px;\">This Week 6 Quiz</td></tr></tbody></table>",
+   "quiz_type": "assignment",
+   "points": 16.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": true,
+   "show_correct_answers": true,
+   "group": "out_ag_quizzes",
+   "published": true,
+   "week": 6,
+   "kind": "week-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter 11, who comes to the Curtis house to see Ponyboy before the hearing?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Cherry Valance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Tim Shepard",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Randy",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Two-Bit",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. Randy comes to check on Ponyboy before they see the judge.",
+     "feedback_incorrect": "Look at the first visitor Darry announces.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which word fits?</p><p>Example sentence: The cold weather began to ___ his recovery.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "effect",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "affect",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "effected",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "affection",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. <em>Affect</em> is the verb, the action: began to affect.",
+     "feedback_incorrect": "<em>Effect</em> names a result. After <em>began to</em>, you need an action word.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is a frame narrative?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A story set inside the story of its telling",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A story told in a series of diary entries or letters",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A story told by several narrators, one after another",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A story whose ending is left open for the reader",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. The frame is someone telling or writing the story, and the story sits inside it.",
+     "feedback_incorrect": "Think of the outside of a picture frame. Who is telling the story, and when?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence uses the right word?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Example sentence: Their going to the store after school.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: There going to the store after school.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: Their going to they're store after school.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: They're going to the store after school.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. <em>They're</em> means <em>they are</em>. Say it the long way and it fits.",
+     "feedback_incorrect": "Say it the long way. Does <em>they are</em> fit in that spot?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>At the end of Chapter 12, what does Ponyboy decide to do?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Ask the judge to let him live with Two-Bit",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Write his English theme about what happened",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Drop out and work at the gas station with Soda",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Leave the gang and make friends with the Socs",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. He decides to write it all down, starting with his English theme.",
+     "feedback_incorrect": "Look at the last page. What does Ponyboy pick up?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence uses <em>its</em> and <em>it's</em> correctly?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Example sentence: The gang had it's own rules, and its easy to see why.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: The gang had its own rules, and its easy to see why.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: The gang had it's own rules, and it's easy to see why.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: The gang had its own rules, and it's easy to see why.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. <em>Its</em> shows that something belongs to it, and <em>it's</em> means <em>it is</em>.",
+     "feedback_incorrect": "Try <em>it is</em> in each spot. Where does it fit?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why does the judge ask Ponyboy only about home and school?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The doctor had talked with the judge first.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Darry had asked the judge to go easy on Ponyboy.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Socs had already told the judge everything.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ponyboy refused to answer questions about that night.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. The doctor spoke with the judge before the hearing, and Ponyboy later learned why.",
+     "feedback_incorrect": "Who had a long talk with the judge before the hearing began?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence uses <em>then</em> and <em>than</em> correctly?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Example sentence: He worked longer then anyone else, than took a break.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: He worked longer then anyone else, then took a break.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: He worked longer than anyone else, then took a break.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: He worked longer than anyone else, than he took a break.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. <em>Than</em> compares (longer than), and <em>then</em> tells when (then took a break).",
+     "feedback_incorrect": "One word compares and one tells time. Which is which?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Soda says \"it's like I'm the middleman in a tug o' war\" (Hinton, Ch. 12). What does he mean?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He likes being the one in the middle of the family.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "His brothers' fights pull him two ways at once.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He wants Darry and Ponyboy to choose who is right.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He is tired of being the gang's peacemaker in fights.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Yes. He loves both brothers, so their fights pull him apart.",
+     "feedback_incorrect": "Who is pulling, and who is stuck in the middle?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is wrong?</p><p>Example sentence: The hearing had a big affect on the whole family.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<em>Hearing</em> should be <em>hearings</em>, because a family is many people.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "<em>Whole</em> should be <em>hole</em>, a word that sounds the same.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "<em>Affect</em> should be <em>effect</em>, the noun for a result.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Nothing is wrong; <em>affect</em> names a result here.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. A big effect is a result, and <em>effect</em> is the noun.",
+     "feedback_incorrect": "Does that word name an action or a result? This one names a result.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In his note, how does Johnny feel about going back into the church for the children?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He wishes he had waited for help.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He is angry that nobody thanked him.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He is proud the papers called him a hero.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It was worth it.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. He writes that saving them was worth it.",
+     "feedback_incorrect": "Read the note in your own copy. What does he say about the children?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence has NO error?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Example sentence: The gang kept its rules no matter what.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: Their are three reasons for his choice.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: The decision effected everyone in the gang differently.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Example sentence: He was taller then his older brother by an inch.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. <em>Its</em> shows that the rules belong to the gang, so there is nothing to fix.",
+     "feedback_incorrect": "Check each sound-alike. Which sentence passes every check?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In the park, what does Ponyboy suddenly realize about Darry?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Darry blames Soda for all of their fights.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Darry is only twenty and can be scared too.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Darry is planning to quit roofing for a better job.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Darry has wanted to send him to a home all along.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. Darry is only twenty, and he is as scared and lost as the rest of them.",
+     "feedback_incorrect": "Read what Ponyboy sees in Darry's face in the park.",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which proofreading pass would catch the error?</p><p>Example sentence: The brothers kept there promise.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "the spelling pass, letter by letter",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "the sentence-edge pass",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "the read-aloud pass, start to finish",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "the sound-alike pass",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. <em>There</em> for <em>their</em> is a sound-alike mix-up.",
+     "feedback_incorrect": "Is the word misspelled, or is it the wrong word that sounds the same?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>At the hearing, what do Darry and Soda answer when the judge asks if Dally was a good buddy of theirs?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Darry says no, and Soda says yes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They refuse to answer the judge.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They both say yes.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They say they barely knew him.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. They both say yes. They would not desert him.",
+     "feedback_incorrect": "Ponyboy says he was proud of both of them. Why?",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is wrong?</p><p>Example sentence: Him and Soda raced home from the park.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<em>Him</em> should be <em>He</em>, because it is part of the subject.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "<em>Raced</em> should be <em>race</em>, because the story happens now.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "<em>Park</em> should have a capital, because it is a place.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Nothing is wrong; <em>him</em> is fine at the start of a sentence.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Right. Ask who raced. <em>He and Soda</em> did. <em>Him</em> cannot do the racing.",
+     "feedback_incorrect": "Ask who raced home. Could <em>him</em> be the one doing the racing?",
+     "feedback_general": ""
+    }
+   ]
   }
  ],
- "discussions": [],
+ "discussions": [
+  {
+   "id": "out_d_discussion",
+   "title": "The Outsiders · Loyalty and the Divide (optional)",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#3B2257;border-bottom:5px solid #A65A0C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">The Outsiders · Loyalty and the Divide (optional)</span><div style=\"color:#FFD9A0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">7th Grade ELA &middot; The Outsiders &middot; Optional Discussion</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">10 points</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">Optional</span><span style=\"display:inline-block;border:1px solid #E3D9BE;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5A4B;background:#ffffff;\">Post, then reply</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"font-size:16px;color:#3B2257;line-height:1.4;margin:0 0 10px 0;\"><strong>Loyalty, the divide, and staying gold in <em>The Outsiders</em>.</strong></div><p style=\"font-size:15px;color:#2B2620;line-height:1.65;margin:0 0 14px 0;\">The novel asks whether the things that divide the greasers and the Socs are as solid as they first appear, and whether what holds people together can reach across those lines.</p><div style=\"font-size:16px;color:#3B2257;line-height:1.4;margin:0 0 10px 0;\">Your post (one short paragraph, five to seven sentences)</div><p style=\"font-size:15px;color:#2B2620;line-height:1.65;margin:0 0 14px 0;\">State one claim about what <em>The Outsiders</em> says about loyalty, the greaser-Soc divide, or what it means to stay gold. Explain why you believe it, using one specific event from the novel described in your own words. For example, you might claim that the novel shows the divide between the groups is more about circumstance than character, and then describe a moment where the two sides behave in a way that looks more alike than different.</p><div style=\"font-size:16px;color:#3B2257;line-height:1.4;margin:0 0 10px 0;\">Your reply (two or three sentences, to one classmate)</div><p style=\"font-size:15px;color:#2B2620;line-height:1.65;margin:0 0 14px 0;\">Read one classmate's claim. Do you agree with their reasoning? If you agree, add a second example from the novel that strengthens it. If you disagree, explain respectfully where you think it falls short, using the novel.</p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#3B2257;line-height:1.25;\">Posting rules</div><div style=\"width:52px;border-bottom:4px solid #A65A0C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\">Post your own claim first, before you can see classmates' posts.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\">Use at least one specific event from the novel, described in your own words.</td></tr><tr><td style=\"width:20px;min-width:20px;color:#A65A0C;font-size:16px;vertical-align:top;padding:0 0 11px 0;line-height:1.5;\">&#8250;</td><td style=\"font-size:15px;color:#2B2620;line-height:1.6;padding:0 0 11px 8px;\">Be respectful in disagreement. Argue with the idea, not the person.</td></tr></tbody></table>",
+   "graded": true,
+   "points": 10.0,
+   "group": "out_ag_discussions",
+   "rubric": "out_r_discussion",
+   "rubric_use_for_grading": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": false,
+   "week": 6,
+   "kind": "module-discussion"
+  }
+ ],
  "files": [],
  "modules": [
   {
@@ -610,9 +3676,232 @@
      "week": 1
     }
    ]
+  },
+  {
+   "id": "out_m_w2",
+   "title": "The Outsiders: Week 2",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "out_a_w2_l1",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_w2_l2",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_w2_l3",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_w2_l4",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "out_q_w2_quiz",
+     "week": 2
+    }
+   ]
+  },
+  {
+   "id": "out_m_w3",
+   "title": "The Outsiders: Week 3",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "out_a_w3_l1",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_w3_l2",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_w3_l3",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_w3_l4",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "out_q_w3_quiz",
+     "week": 3
+    }
+   ]
+  },
+  {
+   "id": "out_m_w4",
+   "title": "The Outsiders: Week 4",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "out_a_w4_l1",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_w4_l2",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_w4_l3",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_w4_l4",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "out_q_w4_quiz",
+     "week": 4
+    }
+   ]
+  },
+  {
+   "id": "out_m_w5",
+   "title": "The Outsiders: Week 5",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "out_a_w5_l1",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_w5_l2",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_w5_l3",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_w5_l4",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "out_q_w5_quiz",
+     "week": 5
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_trailer",
+     "week": 5,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "out_m_w6",
+   "title": "The Outsiders: Week 6",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "out_a_w6_l1",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_w6_l2",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_w6_l3",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_w6_l4",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "out_q_w6_quiz",
+     "week": 6
+    },
+    {
+     "type": "discussion",
+     "ref": "out_d_discussion",
+     "week": 6,
+     "published": false
+    }
+   ]
+  },
+  {
+   "id": "out_m_w7",
+   "title": "The Outsiders: Week 7",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "out_a_w7_l1",
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_w7_l2",
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "out_a_final_project",
+     "week": 7,
+     "completion": "must_submit"
+    }
+   ]
   }
  ],
  "source": {
-  "note": "Built 2026-11-17 by _src/canvas/make_kit_spec.py from OneDrive 7th Grade ELA 03 Development: 'Module 4 - The Outsiders_PILOT_Week1_Integrated' (canvas-native/w1-quiz.md, w1-lesson-assignments.md; _src/w1/week.json). Lessons are served from https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/ . PILOT WEEK: this kit holds Week 1 only (Chapters 1 and 2); the other weeks of the unit are in 1001040-s2. Every lesson is its own 10-pt PDF-upload assignment wrapping the GitHub lesson page; one quiz per week, 16 x 1 pt. 4 x 10 + 16 = 56 pts. Gradebook groups: Lessons, Quizzes. Placed at semester 2 week 1, where 1001040-s2 has the original Week 1 of this unit."
+  "note": "Built 2026-11-18 by _src/canvas/make_kit_spec.py from OneDrive 7th Grade ELA 03 Development: 'Module 4 - The Outsiders_Weeks2-7_Integrated' (canvas-native/w2..w7-lesson-assignments.md, w2..w6-quiz.md, the-trailer.md + .html, final-project.md + .html, module-discussion.md; _src/w2..w7/week.json) and 'Module 4 - The Outsiders_PILOT_Week1_Integrated' (canvas-native/w1-lesson-assignments.md, w1-quiz.md; _src/w1/week.json). Lessons are served from https://optimaondemand.github.io/mj-english-language-arts-2/module-4-the-outsiders-sparkle/ . WHOLE MODULE: seven Canvas modules, Weeks 1 to 7. Every lesson is its own 10-pt PDF-upload assignment wrapping the GitHub lesson page; Weeks 1 to 6 each close with a 16 x 1 pt quiz; The Trailer (25, native rubric) sits in Week 5 after the quiz; the Final Project (40, native rubric) closes Week 7 after its two lesson assignments. 6 x 56 + 25 + 20 + 40 = 421 published points; the optional Loyalty and the Divide discussion (10) is unpublished (+10). Gradebook groups: Lessons, Quizzes, Project, Recitation/Production, Discussions (weights set by the teacher). Week 1 ids (out_a_w1_l1..4, out_q_w1_quiz, out_m_w1, out_ag_lessons, out_ag_quizzes) are frozen: identical to the pilot spec. Placed at semester 2 weeks 1 to 7, where 1001040-s2 has the original Module 4 weeks."
  }
 }
