@@ -4,9 +4,9 @@
  "code": "2002100",
  "title": "M/J Comprehensive Science 3 Q2",
  "file": "cartridges/2002100-q2.imscc",
- "bytes": 135133,
+ "bytes": 135131,
  "version": "2026.11.18",
- "built": "2026-11-18T10:41:28",
+ "built": "2026-11-18T10:50:03",
  "front_page": "wiki_content/course-home.html",
  "items": 69,
  "modules": [
@@ -512,7 +512,7 @@
    "module": "m_q2-week-3-classifying-matter-unlocking",
    "week": 3,
    "kind": null,
-   "points": 10.0,
+   "points": 20.0,
    "points_editable": false,
    "quiz_type": "assignment",
    "graded": true,
@@ -531,7 +531,7 @@
    "module": "m_q2-week-5-the-chemistry-of-everyday-thi",
    "week": 5,
    "kind": null,
-   "points": 10.0,
+   "points": 20.0,
    "points_editable": false,
    "quiz_type": "assignment",
    "graded": true,
@@ -550,7 +550,7 @@
    "module": "m_q2-week-8-operation-snowday-the-snowma",
    "week": 8,
    "kind": null,
-   "points": 25.0,
+   "points": 50.0,
    "points_editable": false,
    "quiz_type": "assignment",
    "graded": true,
@@ -597,10 +597,10 @@
    "assignments": 22,
    "discussions": 0,
    "files": 0,
-   "points_listed": 415.0
+   "points_listed": 505.0
   }
  },
  "status": "ready",
- "spec_sha": "e422206d72c59e11f5133b2a9015e9a23bf1001388e74aa6fdb04c27d8f729f0",
+ "spec_sha": "7bdddc9b93c302cff849f51409c899e48329d3176d5dc42f315cfb6b70470f9e",
  "art_pack": null
 }
