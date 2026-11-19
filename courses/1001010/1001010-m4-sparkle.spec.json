@@ -10,632 +10,17 @@
    "id": "rs_ag_assignments",
    "title": "Assignments",
    "weight": 0
+  },
+  {
+   "id": "rs_ag_quizzes_projects",
+   "title": "Quizzes and projects",
+   "weight": 0
   }
  ],
  "rubrics": [
   {
-   "id": "rs_r_w1_work",
-   "title": "Week 1 Work Rubric",
-   "free_form_comments": true,
-   "criteria": [
-    {
-     "description": "Chapter thinking",
-     "long_description": "",
-     "points": 6.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "All nine chapter answers are complete sentences with a specific detail from the text; the Hero or Outlaw chart has a trait and a moment in each column.",
-       "points": 6.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Quick Write 1: the three questions",
-     "long_description": "",
-     "points": 5.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Who the hero is, what they did, and the rule-breaking question are all answered with specific detail; 150 to 200 words.",
-       "points": 5.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Quick Write 1: reasoning",
-     "long_description": "",
-     "points": 4.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "A specific quality or action makes the person a hero, not \"they were nice.\"",
-       "points": 4.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Quick Write 1: rule-breaking position",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Takes a clear position on whether breaking a rule made the hero more or less heroic, and explains it.",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Mini-Research: sources",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Two reliable sources, both named in the paragraph, both listed in the MLA pattern.",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Mini-Research: agreement",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "States clearly what the sources agree and disagree on.",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Mini-Research: why sources disagree",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "A real reason, in the student's own words, why historians might disagree about a legendary figure.",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Proper nouns in own writing",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Quick Write capitalizes every proper noun and no common noun; the before-and-after sentence shows the check.",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "rs_r_w2_work",
-   "title": "Week 2 Work Rubric",
-   "free_form_comments": true,
-   "criteria": [
-    {
-     "description": "Chapter thinking",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "the chapter answers in the PDF are complete sentences with a specific detail from Ch. 3-5",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "First-person voice",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "First person throughout; sounds like Robin, not a narrator; 150-200 words",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Sensory detail",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "At least one specific thing Robin sees, hears or feels, true to the scene",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Character through thought",
-     "long_description": "",
-     "points": 4.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Robin's thoughts show what kind of man he is without saying it outright",
-       "points": 4.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Compound sentences",
-     "long_description": "",
-     "points": 2.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "At least two correct compound sentences; no run-ons; before-and-after shows a fix",
-       "points": 2.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "rs_r_w3_work",
-   "title": "Week 3 Work Rubric",
-   "free_form_comments": true,
-   "criteria": [
-    {
-     "description": "Chapter thinking",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "the chapter answers in the PDF are complete sentences with a specific detail from Ch. 6-8",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Position and form",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Clear claim, why, one paragraph of 150-200 words",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Specific scene",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Chapter, characters named, what happens, accurate to Green",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Explanation",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "How the scene supports the position",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Subject-verb agreement in own writing",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Every verb matches its true subject",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "rs_r_w4_work",
-   "title": "Week 4 Work Rubric",
-   "free_form_comments": true,
-   "criteria": [
-    {
-     "description": "Chapter thinking",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "the chapter answers in the PDF are complete sentences with a specific detail from Ch. 9-11",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "First-person voice",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "A character with a worldview, not a narrator",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "His reasons",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Self-justification is internal and specific; not simple wickedness",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Textual anchor",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "At least one accurate Ch. 9-11 detail",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Verb tense in own writing",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Consistent, or changes only for a real change in time",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "rs_r_w5_work",
-   "title": "Week 5 Work Rubric",
-   "free_form_comments": true,
-   "criteria": [
-    {
-     "description": "Chapter thinking",
-     "long_description": "",
-     "points": 4.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "The scene is accurate to Green with a specific detail; the chapter answers in the PDF are complete sentences with details",
-       "points": 4.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Concession and opposing claim",
-     "long_description": "",
-     "points": 4.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "The \"Although\" opening fairly states the earlier position; the topic sentence clearly contradicts it",
-       "points": 4.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Reasoning",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Explains why the scene supports the claim (\"because\"), not just retells",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Complex sentences",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "At least three complex sentences; comma correct after an opening dependent clause",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Form",
-     "long_description": "",
-     "points": 1.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "150-200 words, one paragraph",
-       "points": 1.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "rs_r_w6_work",
-   "title": "Week 6 Work Rubric",
-   "free_form_comments": true,
-   "criteria": [
-    {
-     "description": "Chapter thinking",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Each scene is named with its chapter and true to Green; chapter answers in the PDF in complete sentences with details",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Thesis",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Names Robin Hood; specific and arguable; because/although",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Body claims",
-     "long_description": "",
-     "points": 4.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Three arguable claims, each with a named scene and an explanation note, no plot summary",
-       "points": 4.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Concession and response",
-     "long_description": "",
-     "points": 2.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "A real objection; the response addresses it",
-       "points": 2.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Appositives",
-     "long_description": "",
-     "points": 2.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "At least two correct appositives, set off with commas",
-       "points": 2.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Organization and form",
-     "long_description": "",
-     "points": 1.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Headings in order",
-       "points": 1.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "rs_r_w7_work",
-   "title": "Week 7 Work Rubric",
+   "title": "Essay Draft Rubric",
    "free_form_comments": true,
    "criteria": [
     {
@@ -696,7 +81,7 @@
      "ratings": [
       {
        "description": "Full credit",
-       "long_description": "The essay and the chapter answers in the PDF show accurate, specific events from Ch. 18-21",
+       "long_description": "The essay shows accurate, specific events from Ch. 18-21",
        "points": 4.0
       },
       {
@@ -731,98 +116,6 @@
       {
        "description": "Full credit",
        "long_description": "700+ words (drafts may run short: 600+ earns full), count listed, file named correctly",
-       "points": 2.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "rs_r_w8_work",
-   "title": "Week 8 Work Rubric",
-   "free_form_comments": true,
-   "criteria": [
-    {
-     "description": "Then and now",
-     "long_description": "",
-     "points": 4.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Names the belief held at the start and the belief now",
-       "points": 4.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "What changed it",
-     "long_description": "",
-     "points": 4.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Names a specific scene (with chapter) or moment",
-       "points": 4.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "An open question",
-     "long_description": "",
-     "points": 2.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "One genuine, specific question",
-       "points": 2.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Chapter thinking",
-     "long_description": "",
-     "points": 3.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "Complete-sentence answers to the chapter questions in the PDF with accurate detail from Ch. 22-24 and the Epilogue",
-       "points": 3.0
-      },
-      {
-       "description": "No credit",
-       "long_description": "",
-       "points": 0.0
-      }
-     ]
-    },
-    {
-     "description": "Revision and variety in my own writing",
-     "long_description": "",
-     "points": 2.0,
-     "ratings": [
-      {
-       "description": "Full credit",
-       "long_description": "At least one choppy pair combined or one opening varied; its/it's and their/there checked; before-and-after shown",
        "points": 2.0
       },
       {
@@ -1235,320 +528,438 @@
    ]
   }
  ],
- "pages": [
-  {
-   "id": "rs_p_w1_l1",
-   "title": "A Hero Is Born in the Greenwood",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w1-lesson1-greenwood.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w1_l2",
-   "title": "Outlawed on a False Charge",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w1-lesson2-outlawed.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w1_l3",
-   "title": "The Writer's Bench (Week 1)",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w1-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w1_l4",
-   "title": "Hero or Outlaw?",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w1-lesson4-hero-or-outlaw.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w2_l1",
-   "title": "The Greenwood Oath",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w2-lesson1-greenwood-oath.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w2_l2",
-   "title": "A Friend on the Bridge",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w2-lesson2-friend-on-the-bridge.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w2_l3",
-   "title": "The Writer's Bench (Week 2)",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w2-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w2_l4",
-   "title": "Outlaw or Hero?",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w2-lesson4-outlaw-or-hero.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w3_l1",
-   "title": "The Knight's Debt",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w3-lesson1-the-knights-debt.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w3_l2",
-   "title": "Marian and the Friar",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w3-lesson2-marian-and-the-friar.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w3_l3",
-   "title": "The Writer's Bench (Week 3)",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w3-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w3_l4",
-   "title": "Just or Lawful?",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w3-lesson4-just-or-lawful.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w4_l1",
-   "title": "The Debt Repaid",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w4-lesson1-the-debt-repaid.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w4_l2",
-   "title": "The Sheriff's Dinner",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w4-lesson2-the-sheriffs-dinner.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w4_l3",
-   "title": "The Writer's Bench (Week 4)",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w4-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w4_l4",
-   "title": "Fair Play?",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w4-lesson4-fair-play.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w5_l1",
-   "title": "The Better Beggar",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w5-lesson1-the-better-beggar.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w5_l2",
-   "title": "The Tanner and the Wedding",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w5-lesson2-tanner-and-wedding.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w5_l3",
-   "title": "The Writer's Bench (Week 5)",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w5-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w5_l4",
-   "title": "The Weight of the Law",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w5-lesson4-the-weight-of-the-law.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w6_l1",
-   "title": "The Bishop's Trap",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w6-lesson1-the-bishops-trap.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w6_l2",
-   "title": "The Night Alarm",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w6-lesson2-the-night-alarm.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w6_l3",
-   "title": "The Writer's Bench (Week 6)",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w6-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w6_l4",
-   "title": "The Net Tightens",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w6-lesson4-the-net-tightens.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w7_l1",
-   "title": "The Last of Gisborne",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w7-lesson1-last-of-gisborne.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w7_l2",
-   "title": "The Pardon of the Tall Palmer",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w7-lesson2-the-pardon.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w7_l3",
-   "title": "The Writer's Bench (Week 7)",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w7-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w7_l4",
-   "title": "Hero or Outlaw, Again",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w7-lesson4-hero-or-outlaw-the-king.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w8_l1",
-   "title": "King John's Revenge",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w8-lesson1-kings-revenge.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w8_l2",
-   "title": "The Last Arrow",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w8-lesson2-the-last-arrow.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w8_l3",
-   "title": "The Writer's Bench (Week 8)",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w8-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  },
-  {
-   "id": "rs_p_w8_l4",
-   "title": "The Portrait of a Hero",
-   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w8-lesson4-the-portrait.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
-   "published": true
-  }
- ],
+ "pages": [],
  "assignments": [
   {
-   "id": "rs_a_w1_work",
-   "title": "Week 1 Work",
-   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#1E3A22;border-bottom:5px solid #C7922C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 1 Work</span><div style=\"color:#9DBF5A;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA · Robin Hood · Week 1</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">30 points</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">PDF</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">up to 4 files</span></div><span data-ob-end=\"optima-brand-v2\"></span><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">WRITE</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Your Week 1 PDF</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td><td style=\"width:8%;text-align:center;vertical-align:middle;color:#C7922C;font-size:34px;line-height:1;\">&#8594;</td><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">TURN IN</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Upload</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Quick Write 1: My Hero</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#1E3A22;border-left:9px solid #C7922C;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">Who is your hero? What makes them one? Did a broken rule help or hurt?</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">150 to 200 words</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Capital letters</span></div><div style=\"background:#FBF6EA;border-left:6px solid #C7922C;padding:18px 22px;margin:0 0 16px 0;\"><div style=\"font-size:15px;color:#2B3A2E;line-height:1.65;\">Mini-Research: two sources, agree and differ.</div></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">I took a side on the broken rule</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">I uploaded my PDF</td></tr></tbody></table>",
-   "points": 30.0,
+   "id": "rs_a_w1_l1",
+   "title": "A Hero Is Born in the Greenwood",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w1-lesson1-greenwood.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
    "group": "rs_ag_assignments",
-   "rubric": "rs_r_w1_work",
-   "rubric_use_for_grading": true,
    "grading_type": "points",
    "submission_types": "online_upload",
    "allowed_extensions": "pdf",
    "published": true,
    "week": 1,
-   "kind": "quick-write"
+   "kind": "lesson-assignment"
   },
   {
-   "id": "rs_a_w2_work",
-   "title": "Week 2 Work",
-   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#1E3A22;border-bottom:5px solid #C7922C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 2 Work</span><div style=\"color:#9DBF5A;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA · Robin Hood · Week 2</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">15 points</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">PDF</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">up to 4 files</span></div><span data-ob-end=\"optima-brand-v2\"></span><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">WRITE</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Your Week 2 PDF</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td><td style=\"width:8%;text-align:center;vertical-align:middle;color:#C7922C;font-size:34px;line-height:1;\">&#8594;</td><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">TURN IN</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Upload</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Quick Write 2: Inside Robin’s Head</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#1E3A22;border-left:9px solid #C7922C;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">Be Robin in one moment: the oath, the palmer, or the bridge. Show thoughts, not plot.</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">150 to 200 words</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">First person</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Two compound sentences</span></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">Every sentence is in Robin’s voice</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">I uploaded my PDF</td></tr></tbody></table>",
-   "points": 15.0,
+   "id": "rs_a_w1_l2",
+   "title": "Outlawed on a False Charge",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w1-lesson2-outlawed.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
    "group": "rs_ag_assignments",
-   "rubric": "rs_r_w2_work",
-   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 1,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w1_l3",
+   "title": "The Writer's Bench (Week 1)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w1-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 1,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w1_l4",
+   "title": "Hero or Outlaw?",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w1-lesson4-hero-or-outlaw.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 1,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w2_l1",
+   "title": "The Greenwood Oath",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w2-lesson1-greenwood-oath.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
    "grading_type": "points",
    "submission_types": "online_upload",
    "allowed_extensions": "pdf",
    "published": true,
    "week": 2,
-   "kind": "quick-write"
+   "kind": "lesson-assignment"
   },
   {
-   "id": "rs_a_w3_work",
-   "title": "Week 3 Work",
-   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#1E3A22;border-bottom:5px solid #C7922C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 3 Work</span><div style=\"color:#9DBF5A;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA · Robin Hood · Week 3</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">15 points</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">PDF</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">up to 4 files</span></div><span data-ob-end=\"optima-brand-v2\"></span><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">WRITE</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Your Week 3 PDF</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td><td style=\"width:8%;text-align:center;vertical-align:middle;color:#C7922C;font-size:34px;line-height:1;\">&#8594;</td><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">TURN IN</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Upload</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Quick Write 3: The Code of the Forest</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#1E3A22;border-left:9px solid #C7922C;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">Is Robin’s code just, or not enough? Defend it with one scene.</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">150 to 200 words</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">One paragraph</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Verbs match their subjects</span></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">My first sentence states my choice</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">I uploaded my PDF</td></tr></tbody></table>",
-   "points": 15.0,
+   "id": "rs_a_w2_l2",
+   "title": "A Friend on the Bridge",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w2-lesson2-friend-on-the-bridge.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
    "group": "rs_ag_assignments",
-   "rubric": "rs_r_w3_work",
-   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w2_l3",
+   "title": "The Writer's Bench (Week 2)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w2-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w2_l4",
+   "title": "Outlaw or Hero?",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w2-lesson4-outlaw-or-hero.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w3_l1",
+   "title": "The Knight's Debt",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w3-lesson1-the-knights-debt.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
    "grading_type": "points",
    "submission_types": "online_upload",
    "allowed_extensions": "pdf",
    "published": true,
    "week": 3,
-   "kind": "quick-write"
+   "kind": "lesson-assignment"
   },
   {
-   "id": "rs_a_w4_work",
-   "title": "Week 4 Work",
-   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#1E3A22;border-bottom:5px solid #C7922C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 4 Work</span><div style=\"color:#9DBF5A;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA · Robin Hood · Week 4</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">15 points</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">PDF</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">up to 4 files</span></div><span data-ob-end=\"optima-brand-v2\"></span><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">WRITE</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Your Week 4 PDF</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td><td style=\"width:8%;text-align:center;vertical-align:middle;color:#C7922C;font-size:34px;line-height:1;\">&#8594;</td><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">TURN IN</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Upload</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Quick Write 4: The Sheriff Speaks</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#1E3A22;border-left:9px solid #C7922C;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">The Sheriff walking home, or Sir Guy leaving Legh Hall: what he believes about himself, and why he went on.</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">150 to 200 words</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">First person</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">One tense</span></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">I stayed in one speaker’s voice</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">I uploaded my PDF</td></tr></tbody></table>",
-   "points": 15.0,
+   "id": "rs_a_w3_l2",
+   "title": "Marian and the Friar",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w3-lesson2-marian-and-the-friar.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
    "group": "rs_ag_assignments",
-   "rubric": "rs_r_w4_work",
-   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w3_l3",
+   "title": "The Writer's Bench (Week 3)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w3-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w3_l4",
+   "title": "Just or Lawful?",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w3-lesson4-just-or-lawful.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w4_l1",
+   "title": "The Debt Repaid",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w4-lesson1-the-debt-repaid.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
    "grading_type": "points",
    "submission_types": "online_upload",
    "allowed_extensions": "pdf",
    "published": true,
    "week": 4,
-   "kind": "quick-write"
+   "kind": "lesson-assignment"
   },
   {
-   "id": "rs_a_w5_work",
-   "title": "Week 5 Work",
-   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#1E3A22;border-bottom:5px solid #C7922C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 5 Work</span><div style=\"color:#9DBF5A;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA · Robin Hood · Week 5</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">15 points</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">PDF</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">up to 4 files</span></div><span data-ob-end=\"optima-brand-v2\"></span><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">WRITE</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Your Week 5 PDF</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td><td style=\"width:8%;text-align:center;vertical-align:middle;color:#C7922C;font-size:34px;line-height:1;\">&#8594;</td><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">TURN IN</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Upload</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Quick Write 5: Argue the Opposite</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#1E3A22;border-left:9px solid #C7922C;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">Open with “Although…” and one fair view of the code. Then argue the opposite with one scene.</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">150 to 200 words</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">One paragraph</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">3 complex sentences</span></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">My opening starts with Although</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">I uploaded my PDF</td></tr></tbody></table>",
-   "points": 15.0,
+   "id": "rs_a_w4_l2",
+   "title": "The Sheriff's Dinner",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w4-lesson2-the-sheriffs-dinner.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
    "group": "rs_ag_assignments",
-   "rubric": "rs_r_w5_work",
-   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w4_l3",
+   "title": "The Writer's Bench (Week 4)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w4-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w4_l4",
+   "title": "Fair Play?",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w4-lesson4-fair-play.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w5_l1",
+   "title": "The Better Beggar",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w5-lesson1-the-better-beggar.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
    "grading_type": "points",
    "submission_types": "online_upload",
    "allowed_extensions": "pdf",
    "published": true,
    "week": 5,
-   "kind": "quick-write"
+   "kind": "lesson-assignment"
   },
   {
-   "id": "rs_a_w6_work",
-   "title": "Week 6 Work",
-   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#1E3A22;border-bottom:5px solid #C7922C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 6 Work</span><div style=\"color:#9DBF5A;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA · Robin Hood · Week 6</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">15 points</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">PDF</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">up to 4 files</span></div><span data-ob-end=\"optima-brand-v2\"></span><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">WRITE</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Your Week 6 PDF</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td><td style=\"width:8%;text-align:center;vertical-align:middle;color:#C7922C;font-size:34px;line-height:1;\">&#8594;</td><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">TURN IN</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Upload</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Quick Write 6: The Essay Outline</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#1E3A22;border-left:9px solid #C7922C;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">Outline: Thesis. Three body claims, each with a scene and chapter. Concession.</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Headings in order</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Two appositives</span></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">My thesis names Robin Hood with because or although</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">I uploaded my PDF</td></tr></tbody></table>",
-   "points": 15.0,
+   "id": "rs_a_w5_l2",
+   "title": "The Tanner and the Wedding",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w5-lesson2-tanner-and-wedding.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
    "group": "rs_ag_assignments",
-   "rubric": "rs_r_w6_work",
-   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w5_l3",
+   "title": "The Writer's Bench (Week 5)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w5-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w5_l4",
+   "title": "The Weight of the Law",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w5-lesson4-the-weight-of-the-law.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w6_l1",
+   "title": "The Bishop's Trap",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w6-lesson1-the-bishops-trap.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
    "grading_type": "points",
    "submission_types": "online_upload",
    "allowed_extensions": "pdf",
    "published": true,
    "week": 6,
-   "kind": "quick-write"
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w6_l2",
+   "title": "The Night Alarm",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w6-lesson2-the-night-alarm.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w6_l3",
+   "title": "The Writer's Bench (Week 6)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w6-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w6_l4",
+   "title": "The Net Tightens",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w6-lesson4-the-net-tightens.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w7_l1",
+   "title": "The Last of Gisborne",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w7-lesson1-last-of-gisborne.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w7_l2",
+   "title": "The Pardon of the Tall Palmer",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w7-lesson2-the-pardon.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w7_l3",
+   "title": "The Writer's Bench (Week 7)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w7-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w7_l4",
+   "title": "Hero or Outlaw, Again",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w7-lesson4-hero-or-outlaw-the-king.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
   },
   {
    "id": "rs_a_w7_work",
-   "title": "Week 7 Work",
-   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#1E3A22;border-bottom:5px solid #C7922C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 7 Work</span><div style=\"color:#9DBF5A;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA · Robin Hood · Week 7</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">30 points</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">.docx + PDF</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">up to 4 files</span></div><span data-ob-end=\"optima-brand-v2\"></span><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">WRITE</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Word draft + PDF</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td><td style=\"width:8%;text-align:center;vertical-align:middle;color:#C7922C;font-size:34px;line-height:1;\">&#8594;</td><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">TURN IN</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Upload</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Quick Write 7: Portrait of a Hero</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#1E3A22;border-left:9px solid #C7922C;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">Is Robin a hero, an outlaw, or both? Draft your essay in Word.</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">700 to 900 words</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Present tense</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Two cited quotations</span></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">Named LastName_FirstName_Essay_ELA6_Draft1</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">I uploaded the Word draft and the PDF</td></tr></tbody></table>",
+   "title": "Essay Draft",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#1E3A22;border-bottom:5px solid #C7922C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Essay Draft</span><div style=\"color:#9DBF5A;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA · Robin Hood · Week 7</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">30 points</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">.docx</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">1 file</span></div><span data-ob-end=\"optima-brand-v2\"></span><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">WRITE</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Word draft</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td><td style=\"width:8%;text-align:center;vertical-align:middle;color:#C7922C;font-size:34px;line-height:1;\">&#8594;</td><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">TURN IN</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Upload</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Quick Write 7: Portrait of a Hero</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#1E3A22;border-left:9px solid #C7922C;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">Is Robin a hero, an outlaw, or both? Draft your essay in Word.</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">700 to 900 words</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Present tense</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Two cited quotations</span></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">Named LastName_FirstName_Essay_ELA6_Draft1</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">I uploaded the Word draft</td></tr></tbody></table>",
    "points": 30.0,
-   "group": "rs_ag_assignments",
+   "group": "rs_ag_quizzes_projects",
    "rubric": "rs_r_w7_work",
    "rubric_use_for_grading": true,
    "grading_type": "points",
    "submission_types": "online_upload",
-   "allowed_extensions": "pdf,docx",
+   "allowed_extensions": "docx",
    "published": true,
    "week": 7,
-   "kind": "quick-write"
+   "kind": "essay-draft"
   },
   {
-   "id": "rs_a_w8_work",
-   "title": "Week 8 Work",
-   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#1E3A22;border-bottom:5px solid #C7922C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 8 Work</span><div style=\"color:#9DBF5A;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA · Robin Hood · Week 8</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">15 points</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">PDF</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">up to 4 files</span></div><span data-ob-end=\"optima-brand-v2\"></span><table style=\"border-collapse:collapse;width:100%;margin:4px 0 8px 0;\"><tbody><tr><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">WRITE</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Your Week 8 PDF</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td><td style=\"width:8%;text-align:center;vertical-align:middle;color:#C7922C;font-size:34px;line-height:1;\">&#8594;</td><td style=\"width:46%;background:#F5F8FC;border-top:4px solid #9DBF5A;padding:20px 22px;vertical-align:top;\"><div style=\"font-size:12px;color:#C7922C;line-height:1.5;\">TURN IN</div><div style=\"font-size:21px;color:#1E3A22;line-height:1.3;margin-top:5px;\">Upload</div><div style=\"font-size:13.5px;color:#2B3A2E;line-height:1.55;margin-top:6px;\"></div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Quick Write 8: How Did My Answer Change?</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#1E3A22;border-left:9px solid #C7922C;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">What you believed. What you believe now. The scene that changed it. One open question.</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">150 to 200 words</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Name the chapter</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Varied openings</span></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">I named one scene</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">I uploaded my PDF</td></tr></tbody></table>",
-   "points": 15.0,
+   "id": "rs_a_w8_l1",
+   "title": "King John's Revenge",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w8-lesson1-kings-revenge.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
    "group": "rs_ag_assignments",
-   "rubric": "rs_r_w8_work",
-   "rubric_use_for_grading": true,
    "grading_type": "points",
    "submission_types": "online_upload",
    "allowed_extensions": "pdf",
    "published": true,
    "week": 8,
-   "kind": "quick-write"
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w8_l2",
+   "title": "The Last Arrow",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w8-lesson2-the-last-arrow.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 8,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w8_l3",
+   "title": "The Writer's Bench (Week 8)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w8-lesson3-writers-bench.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 8,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "rs_a_w8_l4",
+   "title": "The Portrait of a Hero",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/w8-lesson4-the-portrait.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "rs_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 8,
+   "kind": "lesson-assignment"
   },
   {
    "id": "rs_a_rr1",
@@ -1585,7 +996,7 @@
    "title": "Module Project: Portrait of a Hero",
    "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#1E3A22;border-bottom:5px solid #C7922C;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Portrait of a Hero</span><div style=\"color:#9DBF5A;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">6th Grade ELA &middot; Robin Hood</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">100 points</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">1 Word file (.docx)</span><span style=\"display:inline-block;border:1px solid #D7DEEA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#6b7a99;background:#ffffff;\">Microsoft OneDrive tab</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"background:#1E3A22;border-left:9px solid #C7922C;padding:30px 32px;margin:4px 0 16px 0;\"><div style=\"font-size:25px;color:#ffffff;line-height:1.45;\">What makes a true hero, and what happens when justice and law are not the same thing?</div></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Your essay</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#F5F8FC;border-left:7px solid #9DBF5A;padding:12px 22px 10px 22px;margin:0 0 6px 0;\"><div style=\"font-size:19px;color:#1E3A22;line-height:1.3;\">Introduction</div><div style=\"font-size:14px;color:#2B3A2E;line-height:1.55;margin-top:3px;\">Opening &middot; narrowing move &middot; thesis that answers the question</div></div><div style=\"background:#F5F8FC;border-left:7px solid #9DBF5A;padding:22px 22px 16px 22px;margin:0 0 6px 0;\"><div style=\"font-size:19px;color:#1E3A22;line-height:1.3;\">Three body paragraphs</div><div style=\"font-size:14px;color:#2B3A2E;line-height:1.55;margin-top:3px;\">Topic sentence &middot; quotation with (Ch. N) &middot; explanation &middot; transition</div></div><div style=\"background:#FBF6EA;border-left:7px solid #C7922C;padding:12px 22px 10px 22px;margin:0 0 6px 0;\"><div style=\"font-size:19px;color:#1E3A22;line-height:1.3;\">The other side</div><div style=\"font-size:14px;color:#2B3A2E;line-height:1.55;margin-top:3px;\">The strongest point against your thesis, then why it still stands</div></div><div style=\"background:#F5F8FC;border-left:7px solid #9DBF5A;padding:12px 22px 10px 22px;margin:0 0 6px 0;\"><div style=\"font-size:19px;color:#1E3A22;line-height:1.3;\">Conclusion</div><div style=\"font-size:14px;color:#2B3A2E;line-height:1.55;margin-top:3px;\">Thesis in fresh words &middot; answer the other side &middot; reach beyond the book</div></div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Save and submit</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#C7922C;line-height:0.95;padding:0 0 26px 0;\">1</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#1E3A22;line-height:1.35;\">Name</div><div style=\"font-size:14px;color:#2B3A2E;line-height:1.65;margin-top:6px;\"><code style=\"font-size:12px;word-break:break-all;\">LastName_FirstName_Essay_ELA6_Final</code></div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#C7922C;line-height:0.95;padding:0 0 26px 0;\">2</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#1E3A22;line-height:1.35;\">Save</div><div style=\"font-size:14px;color:#2B3A2E;line-height:1.65;margin-top:6px;\">OneDrive &#8594; Optima &#8594; ELA &#8594; ELA6.</div></td></tr><tr><td style=\"width:54px;min-width:54px;vertical-align:top;font-size:40px;color:#C7922C;line-height:0.95;padding:0 0 26px 0;\">3</td><td style=\"vertical-align:top;padding:2px 0 26px 8px;\"><div style=\"font-size:17.5px;color:#1E3A22;line-height:1.35;\">Submit</div><div style=\"font-size:14px;color:#2B3A2E;line-height:1.65;margin-top:6px;\">Microsoft OneDrive tab here. Check Submission Details.</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1E3A22;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #C7922C;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">700 to 900 words, in the present tense.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">Two or more quotations, each introduced and cited, like (Ch. 21).</td></tr><tr><td style=\"width:30px;min-width:30px;color:#9DBF5A;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#2B3A2E;line-height:1.55;padding:2px 0 13px 4px;\">Two sentence-variety tools. Title in Heading 1.</td></tr></tbody></table>",
    "points": 100.0,
-   "group": "rs_ag_assignments",
+   "group": "rs_ag_quizzes_projects",
    "rubric": "rs_r_project",
    "rubric_use_for_grading": true,
    "grading_type": "points",
@@ -1606,7 +1017,7 @@
    "allowed_attempts": 1,
    "shuffle_answers": true,
    "show_correct_answers": true,
-   "group": "rs_ag_assignments",
+   "group": "rs_ag_quizzes_projects",
    "published": true,
    "week": 1,
    "kind": "language-check",
@@ -1922,7 +1333,7 @@
    "allowed_attempts": 1,
    "shuffle_answers": true,
    "show_correct_answers": true,
-   "group": "rs_ag_assignments",
+   "group": "rs_ag_quizzes_projects",
    "published": true,
    "week": 2,
    "kind": "language-check",
@@ -2238,7 +1649,7 @@
    "allowed_attempts": 1,
    "shuffle_answers": true,
    "show_correct_answers": true,
-   "group": "rs_ag_assignments",
+   "group": "rs_ag_quizzes_projects",
    "published": true,
    "week": 3,
    "kind": "language-check",
@@ -2554,7 +1965,7 @@
    "allowed_attempts": 1,
    "shuffle_answers": true,
    "show_correct_answers": true,
-   "group": "rs_ag_assignments",
+   "group": "rs_ag_quizzes_projects",
    "published": true,
    "week": 4,
    "kind": "language-check",
@@ -2870,7 +2281,7 @@
    "allowed_attempts": 1,
    "shuffle_answers": true,
    "show_correct_answers": true,
-   "group": "rs_ag_assignments",
+   "group": "rs_ag_quizzes_projects",
    "published": true,
    "week": 5,
    "kind": "language-check",
@@ -3186,7 +2597,7 @@
    "allowed_attempts": 1,
    "shuffle_answers": true,
    "show_correct_answers": true,
-   "group": "rs_ag_assignments",
+   "group": "rs_ag_quizzes_projects",
    "published": true,
    "week": 6,
    "kind": "language-check",
@@ -3502,7 +2913,7 @@
    "allowed_attempts": 1,
    "shuffle_answers": true,
    "show_correct_answers": true,
-   "group": "rs_ag_assignments",
+   "group": "rs_ag_quizzes_projects",
    "published": true,
    "week": 7,
    "kind": "language-check",
@@ -3818,7 +3229,7 @@
    "allowed_attempts": 1,
    "shuffle_answers": true,
    "show_correct_answers": true,
-   "group": "rs_ag_assignments",
+   "group": "rs_ag_quizzes_projects",
    "published": true,
    "week": 8,
    "kind": "language-check",
@@ -4152,33 +3563,28 @@
    "sequential": false,
    "items": [
     {
-     "type": "page",
-     "ref": "rs_p_w1_l1",
+     "type": "assignment",
+     "ref": "rs_a_w1_l1",
      "week": 1,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w1_l2",
-     "week": 1,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w1_l3",
-     "week": 1,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w1_l4",
-     "week": 1,
-     "completion": "must_mark_done"
+     "completion": "must_submit"
     },
     {
      "type": "assignment",
-     "ref": "rs_a_w1_work",
-     "week": 1
+     "ref": "rs_a_w1_l2",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "rs_a_w1_l3",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "rs_a_w1_l4",
+     "week": 1,
+     "completion": "must_submit"
     },
     {
      "type": "quiz",
@@ -4194,33 +3600,28 @@
    "sequential": false,
    "items": [
     {
-     "type": "page",
-     "ref": "rs_p_w2_l1",
+     "type": "assignment",
+     "ref": "rs_a_w2_l1",
      "week": 2,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w2_l2",
-     "week": 2,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w2_l3",
-     "week": 2,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w2_l4",
-     "week": 2,
-     "completion": "must_mark_done"
+     "completion": "must_submit"
     },
     {
      "type": "assignment",
-     "ref": "rs_a_w2_work",
-     "week": 2
+     "ref": "rs_a_w2_l2",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "rs_a_w2_l3",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "rs_a_w2_l4",
+     "week": 2,
+     "completion": "must_submit"
     },
     {
      "type": "quiz",
@@ -4241,33 +3642,28 @@
    "sequential": false,
    "items": [
     {
-     "type": "page",
-     "ref": "rs_p_w3_l1",
+     "type": "assignment",
+     "ref": "rs_a_w3_l1",
      "week": 3,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w3_l2",
-     "week": 3,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w3_l3",
-     "week": 3,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w3_l4",
-     "week": 3,
-     "completion": "must_mark_done"
+     "completion": "must_submit"
     },
     {
      "type": "assignment",
-     "ref": "rs_a_w3_work",
-     "week": 3
+     "ref": "rs_a_w3_l2",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "rs_a_w3_l3",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "rs_a_w3_l4",
+     "week": 3,
+     "completion": "must_submit"
     },
     {
      "type": "quiz",
@@ -4283,33 +3679,28 @@
    "sequential": false,
    "items": [
     {
-     "type": "page",
-     "ref": "rs_p_w4_l1",
+     "type": "assignment",
+     "ref": "rs_a_w4_l1",
      "week": 4,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w4_l2",
-     "week": 4,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w4_l3",
-     "week": 4,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w4_l4",
-     "week": 4,
-     "completion": "must_mark_done"
+     "completion": "must_submit"
     },
     {
      "type": "assignment",
-     "ref": "rs_a_w4_work",
-     "week": 4
+     "ref": "rs_a_w4_l2",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "rs_a_w4_l3",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "rs_a_w4_l4",
+     "week": 4,
+     "completion": "must_submit"
     },
     {
      "type": "quiz",
@@ -4330,33 +3721,28 @@
    "sequential": false,
    "items": [
     {
-     "type": "page",
-     "ref": "rs_p_w5_l1",
+     "type": "assignment",
+     "ref": "rs_a_w5_l1",
      "week": 5,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w5_l2",
-     "week": 5,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w5_l3",
-     "week": 5,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w5_l4",
-     "week": 5,
-     "completion": "must_mark_done"
+     "completion": "must_submit"
     },
     {
      "type": "assignment",
-     "ref": "rs_a_w5_work",
-     "week": 5
+     "ref": "rs_a_w5_l2",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "rs_a_w5_l3",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "rs_a_w5_l4",
+     "week": 5,
+     "completion": "must_submit"
     },
     {
      "type": "quiz",
@@ -4377,33 +3763,28 @@
    "sequential": false,
    "items": [
     {
-     "type": "page",
-     "ref": "rs_p_w6_l1",
+     "type": "assignment",
+     "ref": "rs_a_w6_l1",
      "week": 6,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w6_l2",
-     "week": 6,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w6_l3",
-     "week": 6,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w6_l4",
-     "week": 6,
-     "completion": "must_mark_done"
+     "completion": "must_submit"
     },
     {
      "type": "assignment",
-     "ref": "rs_a_w6_work",
-     "week": 6
+     "ref": "rs_a_w6_l2",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "rs_a_w6_l3",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "rs_a_w6_l4",
+     "week": 6,
+     "completion": "must_submit"
     },
     {
      "type": "quiz",
@@ -4419,28 +3800,28 @@
    "sequential": false,
    "items": [
     {
-     "type": "page",
-     "ref": "rs_p_w7_l1",
+     "type": "assignment",
+     "ref": "rs_a_w7_l1",
      "week": 7,
-     "completion": "must_mark_done"
+     "completion": "must_submit"
     },
     {
-     "type": "page",
-     "ref": "rs_p_w7_l2",
+     "type": "assignment",
+     "ref": "rs_a_w7_l2",
      "week": 7,
-     "completion": "must_mark_done"
+     "completion": "must_submit"
     },
     {
-     "type": "page",
-     "ref": "rs_p_w7_l3",
+     "type": "assignment",
+     "ref": "rs_a_w7_l3",
      "week": 7,
-     "completion": "must_mark_done"
+     "completion": "must_submit"
     },
     {
-     "type": "page",
-     "ref": "rs_p_w7_l4",
+     "type": "assignment",
+     "ref": "rs_a_w7_l4",
      "week": 7,
-     "completion": "must_mark_done"
+     "completion": "must_submit"
     },
     {
      "type": "assignment",
@@ -4461,33 +3842,28 @@
    "sequential": false,
    "items": [
     {
-     "type": "page",
-     "ref": "rs_p_w8_l1",
+     "type": "assignment",
+     "ref": "rs_a_w8_l1",
      "week": 8,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w8_l2",
-     "week": 8,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w8_l3",
-     "week": 8,
-     "completion": "must_mark_done"
-    },
-    {
-     "type": "page",
-     "ref": "rs_p_w8_l4",
-     "week": 8,
-     "completion": "must_mark_done"
+     "completion": "must_submit"
     },
     {
      "type": "assignment",
-     "ref": "rs_a_w8_work",
-     "week": 8
+     "ref": "rs_a_w8_l2",
+     "week": 8,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "rs_a_w8_l3",
+     "week": 8,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "rs_a_w8_l4",
+     "week": 8,
+     "completion": "must_submit"
     },
     {
      "type": "quiz",
@@ -4503,6 +3879,6 @@
   }
  ],
  "source": {
-  "note": "Built by 'Module 4 - Robin Hood_Weeks2-8_Integrated/_src/canvas/make_kit_spec.py' from OneDrive 6th Grade ELA 03_Course (Canvas-Ready): canvas-native/*.md + *.html (graded items) and lesson page titles from 'Module 4 - Robin Hood_PILOT_Week1_Integrated' (Week 1) and 'Module 4 - Robin Hood_Weeks2-8_Integrated' (Weeks 2-8). Lessons are live at https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/. Rubric partial points from the 1001010-s2 spec. Sparkle = the integrated-week redesign of Module 4; the original Module 4 ships in 1001010-s2. Wrap-Up survey omitted by ruling."
+  "note": "Built by 'Module 4 - Robin Hood_Weeks2-8_Integrated/_src/canvas/make_kit_spec.py' from OneDrive 6th Grade ELA 03_Course (Canvas-Ready): canvas-native/*.md + *.html (graded items) and lesson titles from 'Module 4 - Robin Hood_PILOT_Week1_Integrated' (Week 1) and 'Module 4 - Robin Hood_Weeks2-8_Integrated' (Weeks 2-8). Lessons are live at https://optimaondemand.github.io/mj-english-language-arts-1/module-4-robin-hood-sparkle/. Rubric partial points from the 1001010-s2 spec. Sparkle = the integrated-week redesign of Module 4; the original Module 4 ships in 1001010-s2. Wrap-Up survey omitted by ruling. 2026-11-19: each lesson is a 10-point assignment that takes the lesson's PDF; Week Work removed except the Week 7 Word draft, kept as Essay Draft."
  }
 }
