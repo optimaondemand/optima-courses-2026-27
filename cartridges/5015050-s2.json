@@ -1,14 +1,14 @@
 {
  "id": "5015050-s2",
- "label": "Semester 2 (Mission: Move! units 1.9-1.16)",
+ "label": "Semester 2 (Mission: Move! units 1.9-1.17)",
  "code": "5015050",
  "title": "Physical Education - Grade 3 (Mission: Move!) Sem 2",
  "file": "cartridges/5015050-s2.imscc",
- "bytes": 101704,
- "version": "2026.10.13",
- "built": "2026-10-13T12:29:10",
+ "bytes": 90491,
+ "version": "2026.11.19",
+ "built": "2026-11-19T16:14:13",
  "front_page": "wiki_content/course-home.html",
- "items": 33,
+ "items": 36,
  "modules": [
   {
    "id": "m_1-9-kicking-striking",
@@ -73,16 +73,24 @@
    "published": true,
    "items": 4,
    "xml": "course_settings/module_meta.xml"
+  },
+  {
+   "id": "m_1-17-water-safety",
+   "title": "1.17: Water Safety & Swim Skills",
+   "gid": "g7f0298f2a81d5aa2d2790f18c2572d05",
+   "published": true,
+   "items": 3,
+   "xml": "course_settings/module_meta.xml"
   }
  ],
  "counts": {
-  "pages": 9,
-  "assignments": 15,
+  "pages": 10,
+  "assignments": 17,
   "quizzes": 2,
   "discussions": 8,
   "files": 0,
-  "modules": 8,
-  "items": 33
+  "modules": 9,
+  "items": 36
  },
  "weights": [
   {
@@ -380,6 +388,42 @@
    "lock_at": null
   },
   {
+   "id": "a_water-rescue-heroes",
+   "type": "assignment",
+   "title": "Water Rescue Heroes 🛟",
+   "gid": "gd13cfdcbbc6b74d10d9aa380b5a34bab",
+   "xml": "gd13cfdcbbc6b74d10d9aa380b5a34bab/assignment_settings.xml",
+   "module": "m_1-17-water-safety",
+   "week": 18,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "gcf5ec128f493e8ba7d49fe504306d4c2",
+   "published": false,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "a_swim-skills-guardian-form",
+   "type": "assignment",
+   "title": "Swim Skills Check 🏊 (Guardian Helper Needed!)",
+   "gid": "gd2f54a9d35c1ce9712ac4542796aa30d",
+   "xml": "gd2f54a9d35c1ce9712ac4542796aa30d/assignment_settings.xml",
+   "module": "m_1-17-water-safety",
+   "week": 19,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "gcf5ec128f493e8ba7d49fe504306d4c2",
+   "published": false,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
    "id": "q_quiz-4-movement-ball-skills",
    "type": "quiz",
    "title": "Quiz 4: Movement & Ball Skills",
@@ -574,35 +618,35 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 45,
+   "resources": 48,
    "resource_types": {
-    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 26,
-    "webcontent": 9,
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 28,
+    "webcontent": 10,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 2,
     "imsdt_xmlv1p1": 8
    },
-   "organization_items": 33,
-   "modules": 8,
-   "module_items": 33,
+   "organization_items": 36,
+   "modules": 9,
+   "module_items": 36,
    "module_item_types": {
-    "WikiPage": 8,
+    "WikiPage": 9,
     "DiscussionTopic": 8,
-    "Assignment": 15,
+    "Assignment": 17,
     "Quizzes::Quiz": 2
    },
    "default_view": "wiki",
-   "pages": 9,
+   "pages": 10,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 2,
-   "group_refs": 26,
+   "group_refs": 28,
    "quizzes": 2,
-   "assignments": 15,
+   "assignments": 17,
    "discussions": 8,
    "files": 0,
-   "points_listed": 220.0
+   "points_listed": 240.0
   }
  },
  "status": "ready",
- "spec_sha": "4e6fe79ce211e82e9ff122d193cc2328adbb02c44e71cdb02a8d1ad16fa302b1",
+ "spec_sha": "c1d4bb47fa2d9ea52034ed1866a4d1e4f25a407248aced316fcac853f02688ad",
  "art_pack": null
 }
