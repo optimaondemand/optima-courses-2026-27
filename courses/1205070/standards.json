@@ -53,7 +53,7 @@
    "file": "us-tx/teks/111-mathematics/111.28-grade-8-adopted-2012.json"
   }
  ],
- "tagged": "2026-11-18",
+ "tagged": "2026-11-19",
  "method": "Claude-proposed at build time. Each tag names its framework, quotes verbatim evidence from its own block, and passed the tag validator. status stays proposed until a reviewer confirms it in the Standards Audit.",
  "lessons": {
   "mj-grade-8-pre-algebra/s2-sparkle/7-01a-identifying-ordered-pairs-from-a-set-that-satisfy-a-system-of-equations.html": {
@@ -5054,7 +5054,7 @@
      "fw": "fl",
      "code": "MA.8.F.1.3",
      "role": "teach",
-     "evidence": "Then the amounts to steadily begin dropping in the fall months with low amounts in the late winter months.",
+     "evidence": "Then the amounts begin to steadily drop in the fall months, with low amounts in the late winter months.",
      "source": "claude",
      "status": "proposed"
     },
@@ -5062,7 +5062,7 @@
      "fw": "al",
      "code": "17",
      "role": "teach",
-     "evidence": "Then the amounts to steadily begin dropping in the fall months with low amounts in the late winter months.",
+     "evidence": "Then the amounts begin to steadily drop in the fall months, with low amounts in the late winter months.",
      "source": "claude",
      "status": "proposed"
     },
@@ -5070,7 +5070,7 @@
      "fw": "mde",
      "code": "8.F.5",
      "role": "teach",
-     "evidence": "Then the amounts to steadily begin dropping in the fall months with low amounts in the late winter months.",
+     "evidence": "Then the amounts begin to steadily drop in the fall months, with low amounts in the late winter months.",
      "source": "claude",
      "status": "proposed"
     },
@@ -5078,7 +5078,7 @@
      "fw": "ar",
      "code": "8.FN.8",
      "role": "teach",
-     "evidence": "Then the amounts to steadily begin dropping in the fall months with low amounts in the late winter months.",
+     "evidence": "Then the amounts begin to steadily drop in the fall months, with low amounts in the late winter months.",
      "source": "claude",
      "status": "proposed"
     },
@@ -5086,7 +5086,7 @@
      "fw": "mo",
      "code": "8.F.B.5",
      "role": "teach",
-     "evidence": "Then the amounts to steadily begin dropping in the fall months with low amounts in the late winter months.",
+     "evidence": "Then the amounts begin to steadily drop in the fall months, with low amounts in the late winter months.",
      "source": "claude",
      "status": "proposed"
     }
@@ -5125,14 +5125,14 @@
     {
      "id": "example-2-monthly-average-rainfall",
      "label": "Example 2: Monthly Average Rainfall",
-     "hash": "a69647372759",
+     "hash": "b02c460fe155",
      "words": 133,
      "tags": [
       {
        "fw": "fl",
        "code": "MA.8.F.1.3",
        "role": "teach",
-       "evidence": "Then the amounts to steadily begin dropping in the fall months with low amounts in the late winter months.",
+       "evidence": "Then the amounts begin to steadily drop in the fall months, with low amounts in the late winter months.",
        "source": "claude",
        "status": "proposed"
       },
@@ -5140,7 +5140,7 @@
        "fw": "al",
        "code": "17",
        "role": "teach",
-       "evidence": "Then the amounts to steadily begin dropping in the fall months with low amounts in the late winter months.",
+       "evidence": "Then the amounts begin to steadily drop in the fall months, with low amounts in the late winter months.",
        "source": "claude",
        "status": "proposed"
       },
@@ -5148,7 +5148,7 @@
        "fw": "mde",
        "code": "8.F.5",
        "role": "teach",
-       "evidence": "Then the amounts to steadily begin dropping in the fall months with low amounts in the late winter months.",
+       "evidence": "Then the amounts begin to steadily drop in the fall months, with low amounts in the late winter months.",
        "source": "claude",
        "status": "proposed"
       },
@@ -5156,7 +5156,7 @@
        "fw": "ar",
        "code": "8.FN.8",
        "role": "teach",
-       "evidence": "Then the amounts to steadily begin dropping in the fall months with low amounts in the late winter months.",
+       "evidence": "Then the amounts begin to steadily drop in the fall months, with low amounts in the late winter months.",
        "source": "claude",
        "status": "proposed"
       },
@@ -5164,7 +5164,7 @@
        "fw": "mo",
        "code": "8.F.B.5",
        "role": "teach",
-       "evidence": "Then the amounts to steadily begin dropping in the fall months with low amounts in the late winter months.",
+       "evidence": "Then the amounts begin to steadily drop in the fall months, with low amounts in the late winter months.",
        "source": "claude",
        "status": "proposed"
       }
