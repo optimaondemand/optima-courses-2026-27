@@ -1,0 +1,2756 @@
+{
+ "course": {
+  "title": "M/J Grade 7 Mathematics · Semester 2 (Sparkle)",
+  "code": "1205040",
+  "default_view": "wiki",
+  "weighted": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ms_ag_lessons",
+   "title": "Lessons",
+   "weight": 0
+  },
+  {
+   "id": "ms_ag_practice",
+   "title": "Practice & Checks",
+   "weight": 0
+  },
+  {
+   "id": "ms_ag_summative",
+   "title": "Summative Assessments",
+   "weight": 0
+  },
+  {
+   "id": "ms_ag_reviews",
+   "title": "Reviews & VR",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "ms_r_lesson-6-05c-independent-practice",
+   "title": "Data Project Rubric (30 pts)",
+   "criteria": [
+    {
+     "description": "Step 1: Choose Your Data Sets",
+     "long_description": "One numerical data set and one categorical data set, each chosen from the list provided, and both shown in the project.",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Complete",
+       "long_description": "One numerical and one categorical data set from the provided list, both shown in full.",
+       "points": 5
+      },
+      {
+       "description": "Minor gap",
+       "long_description": "Both kinds of data set chosen from the list, but one is shown incompletely.",
+       "points": 4
+      },
+      {
+       "description": "Major gap",
+       "long_description": "Only one data set is shown, or a data set is not from the provided list.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "No data sets shown.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Step 2: Choose the Right Graphical Representation",
+     "long_description": "A line plot, histogram, stem-and-leaf plot or box plot for the numerical data, and a bar graph or circle graph for the categorical data, each suited to the data and making trends easy to see.",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Both well chosen",
+       "long_description": "Both graph types come from the allowed choices and suit their data.",
+       "points": 5
+      },
+      {
+       "description": "Mostly suited",
+       "long_description": "Both graphs are allowed types, but one is not the best fit for its data.",
+       "points": 4
+      },
+      {
+       "description": "One graph unsuited",
+       "long_description": "One graph is not an allowed type, or only one graph type is chosen.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "No graph types chosen.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Step 3: Create Your Graphs",
+     "long_description": "Each graph has a title that describes the data, labels for the categories or values, and a clear, accurate representation of the data.",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Accurate and complete",
+       "long_description": "Both graphs have a descriptive title and labels and show the data accurately.",
+       "points": 5
+      },
+      {
+       "description": "Minor errors",
+       "long_description": "Both graphs are accurate, but a title or label is missing or unclear.",
+       "points": 4
+      },
+      {
+       "description": "Major errors",
+       "long_description": "A graph misrepresents its data, or one graph is missing.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "No graphs created.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Step 4: Analyze Your Data",
+     "long_description": "Categorical data: most and least popular categories, categories with similar frequencies, and three questions of the student's own with answers. Numerical data: gaps, peaks, skewness and outliers.",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Thorough and accurate",
+       "long_description": "Covers every required feature for both data sets, including three original questions with answers, and the observations are correct.",
+       "points": 5
+      },
+      {
+       "description": "Mostly complete",
+       "long_description": "Covers nearly all required features; one is missing or one observation is inaccurate.",
+       "points": 4
+      },
+      {
+       "description": "Partial",
+       "long_description": "Analysis of one data set is missing, or several required features are missing or inaccurate.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "No analysis.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Step 5: Calculate and Show Statistical Measures",
+     "long_description": "Numerical data: mean, median, mode and range, plus the interquartile range if a box plot is used. Categorical data: mode, plus percentages if a circle graph is used. Work is shown and correct.",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Correct and shown",
+       "long_description": "Every required measure is calculated correctly and the work is shown.",
+       "points": 5
+      },
+      {
+       "description": "Minor errors",
+       "long_description": "Required measures are present with one calculation error or one place where the work is not shown.",
+       "points": 4
+      },
+      {
+       "description": "Major errors",
+       "long_description": "A required measure is missing, or several calculations are wrong or unsupported.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "No statistical measures.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Step 6: Final Document or Presentation",
+     "long_description": "A document or presentation with a title page (name, project title and date), the data sets, the graphs, the analysis, the statistical calculations and a conclusion, neatly organized with clear explanations.",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Complete and clear",
+       "long_description": "All six parts are present, organized neatly, with clear explanations and a conclusion that says what the data shows and why the chosen graphs were useful.",
+       "points": 5
+      },
+      {
+       "description": "Mostly complete",
+       "long_description": "One part is thin or missing, or the organization is hard to follow in places.",
+       "points": 4
+      },
+      {
+       "description": "Incomplete",
+       "long_description": "Several parts are missing or the explanations are unclear.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "No final document or presentation.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ms_r_lesson-7-03b-independent-practice",
+   "title": "Probability Experiment Project Rubric (15 pts)",
+   "criteria": [
+    {
+     "description": "Part 1: Design Your Experiment",
+     "long_description": "A description of the experiment that gives its aim, the event or events being investigated and why it was chosen. If a simulation tool stands in for something else, it explains what each part represents.",
+     "points": 3,
+     "ratings": [
+      {
+       "description": "Clear and complete",
+       "long_description": "States the aim, the events and the reason for the choice; explains any stand-in parts.",
+       "points": 3
+      },
+      {
+       "description": "Mostly complete",
+       "long_description": "One element of the description is missing or unclear.",
+       "points": 2
+      },
+      {
+       "description": "Partial",
+       "long_description": "Only one element of the description is given.",
+       "points": 1
+      },
+      {
+       "description": "Missing",
+       "long_description": "No experiment design.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Part 2: Simulate and Record Results",
+     "long_description": "The experiment is simulated at least 100 times with a listed simulation tool, and the outcomes are recorded in a frequency table.",
+     "points": 3,
+     "ratings": [
+      {
+       "description": "Complete",
+       "long_description": "At least 100 trials and a clear frequency table of the outcomes.",
+       "points": 3
+      },
+      {
+       "description": "Minor gap",
+       "long_description": "At least 100 trials, but the frequency table is incomplete or unclear.",
+       "points": 2
+      },
+      {
+       "description": "Major gap",
+       "long_description": "Fewer than 100 trials, or results are reported without a frequency table.",
+       "points": 1
+      },
+      {
+       "description": "Missing",
+       "long_description": "No simulation results.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Part 3: Calculate Probabilities",
+     "long_description": "Theoretical probability of each outcome from the sample space, and experimental probability of each outcome from the frequency table.",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Correct",
+       "long_description": "Theoretical and experimental probabilities for every outcome are correct and clearly shown.",
+       "points": 4
+      },
+      {
+       "description": "Minor errors",
+       "long_description": "Both kinds of probability are given with one or two calculation errors.",
+       "points": 3
+      },
+      {
+       "description": "Major errors",
+       "long_description": "Only one kind of probability is given, or most calculations are incorrect.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "No probabilities calculated.",
+       "points": 0
+      }
+     ]
+    },
+    {
+     "description": "Part 4: Analysis, Conclusion and Presentation",
+     "long_description": "A paragraph comparing theoretical and experimental probabilities and explaining any differences (such as the Law of Large Numbers and randomness), a reflection on what the experiment shows, and the project presented as a snapshot with a recording, or as a document or presentation, clearly labeled with the student's name and class period.",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Thoughtful and complete",
+       "long_description": "Compares the probabilities, explains differences using the Law of Large Numbers and randomness, reflects on the experiment, and presents the project clearly and labeled.",
+       "points": 5
+      },
+      {
+       "description": "Mostly complete",
+       "long_description": "The comparison and explanation are sound, but the reflection or the labeling or presentation is thin.",
+       "points": 4
+      },
+      {
+       "description": "Partial",
+       "long_description": "The comparison is given without an explanation of the differences, or the presentation is hard to follow.",
+       "points": 2
+      },
+      {
+       "description": "Missing",
+       "long_description": "No analysis or presentation.",
+       "points": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "ms_p_module-6-lesson-maps",
+   "title": "Module 6 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2/teacher-resources/module-6-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 6 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  },
+  {
+   "id": "ms_p_module-7-lesson-maps",
+   "title": "Module 7 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2/teacher-resources/module-7-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 7 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  },
+  {
+   "id": "ms_p_module-8-lesson-maps",
+   "title": "Module 8 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2/teacher-resources/module-8-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 8 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  },
+  {
+   "id": "ms_p_module-9-lesson-maps",
+   "title": "Module 9 Lesson Maps",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2/teacher-resources/module-9-lesson-maps.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 9 Lesson Maps\" loading=\"lazy\"></iframe></p>",
+   "published": false
+  }
+ ],
+ "assignments": [
+  {
+   "id": "ms_a_lesson-6-01a",
+   "title": "Lesson 6.01a Find and Interpret Measures of Variation",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/6-01a-find-and-interpret-measures-of-variation.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 1,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-6-01a-independent-practice",
+   "title": "Lesson 6.01a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-6-01a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.01a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3961"
+   },
+   "resource_link_lookup_uuid": "de889e30-6637-49d0-a101-0ef4244a6c9e",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 1
+  },
+  {
+   "id": "ms_a_lesson-6-01b",
+   "title": "Lesson 6.01b Find and Interpret Measures of Center",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/6-01b-find-and-interpret-measures-of-center.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 1,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-6-01b-independent-practice",
+   "title": "Lesson 6.01b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-6-01b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.01b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3962"
+   },
+   "resource_link_lookup_uuid": "6f235fe0-319b-4618-83ee-9e4a96d44e5c",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 1
+  },
+  {
+   "id": "ms_a_lesson-6-01c",
+   "title": "Lesson 6.01c Effects of Addition or Removal of Data Values",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/6-01c-effects-of-addition-or-removal-of-data-values.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 1,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-6-01c-independent-practice",
+   "title": "Lesson 6.01c Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-6-01c-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.01c Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3963"
+   },
+   "resource_link_lookup_uuid": "78b48680-835f-47f9-88ef-6be53944992a",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 1
+  },
+  {
+   "id": "ms_a_lesson-6-01d",
+   "title": "Lesson 6.01d Effects of Outliers on Measures",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/6-01d-effects-of-outliers-on-measures.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 1,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-6-01d-independent-practice",
+   "title": "Lesson 6.01d Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-6-01d-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.01d Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3964"
+   },
+   "resource_link_lookup_uuid": "7a180234-3c85-4214-8628-43544df0e292",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 1
+  },
+  {
+   "id": "ms_a_lesson-6-02a",
+   "title": "Lesson 6.02a Appropriate Measures of Center",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/6-02a-appropriate-measures-of-center.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 1,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-6-02a-independent-practice",
+   "title": "Lesson 6.02a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-6-02a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.02a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3965"
+   },
+   "resource_link_lookup_uuid": "0430c03a-8a67-4d97-a4e8-ad2158074c36",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 1
+  },
+  {
+   "id": "ms_a_lesson-6-02b",
+   "title": "Lesson 6.02b Appropriate Measures of Variation",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/6-02b-appropriate-measures-of-variation.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-6-02b-independent-practice",
+   "title": "Lesson 6.02b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-6-02b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.02b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3966"
+   },
+   "resource_link_lookup_uuid": "d8d5ad51-8200-4440-a9a3-7a09203fb087",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 2
+  },
+  {
+   "id": "ms_a_lessons-6-01-6-02-mid-module-check",
+   "title": "Lessons 6.01-6.02 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lessons-6-01-6-02-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 6.01-6.02 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3967"
+   },
+   "resource_link_lookup_uuid": "8b75517d-7d50-4fbe-935d-dcd85eb8c870",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 2
+  },
+  {
+   "id": "ms_a_lesson-6-03a",
+   "title": "Lesson 6.03a Comparing Sets of Data and Interpreting Measures",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/6-03a-comparing-sets-of-data-and-interpreting-measures.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-6-03a-independent-practice",
+   "title": "Lesson 6.03a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-6-03a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.03a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3969"
+   },
+   "resource_link_lookup_uuid": "cf3fc3b0-31d4-4cc8-bc2b-6193b6c4a5b0",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 2
+  },
+  {
+   "id": "ms_a_lesson-6-03b",
+   "title": "Lesson 6.03b Comparing and Interpreting Graphical Representations",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/6-03b-comparing-and-interpreting-graphical-representations.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-6-03b-independent-practice",
+   "title": "Lesson 6.03b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-6-03b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.03b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3971"
+   },
+   "resource_link_lookup_uuid": "0c927dea-4224-49ac-82a3-9e7eef49c086",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 2
+  },
+  {
+   "id": "ms_a_lesson-6-04a",
+   "title": "Lesson 6.04a Making Predictions in Categorical Data",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/6-04a-making-predictions-in-categorical-data.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-6-04a-independent-practice",
+   "title": "Lesson 6.04a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-6-04a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.04a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3975"
+   },
+   "resource_link_lookup_uuid": "49a63e76-e69b-415b-88a1-e5f702ecbe2c",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 2
+  },
+  {
+   "id": "ms_a_lesson-6-04b",
+   "title": "Lesson 6.04b Reading and Interpreting Circle Graphs",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/6-04b-reading-and-interpreting-circle-graphs.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-6-04b-independent-practice",
+   "title": "Lesson 6.04b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-6-04b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.04b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3976"
+   },
+   "resource_link_lookup_uuid": "273fd7c4-de4d-409a-9d73-78836a05fcf2",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 3
+  },
+  {
+   "id": "ms_a_lesson-6-04c",
+   "title": "Lesson 6.04c Creating Circle Graphs",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/6-04c-creating-circle-graphs.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-6-04c-independent-practice",
+   "title": "Lesson 6.04c Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-6-04c-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.04c Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3977"
+   },
+   "resource_link_lookup_uuid": "4b081c71-b273-47b9-aa7c-4bd4ab716d03",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 3
+  },
+  {
+   "id": "ms_a_lessons-6-03-6-04-mid-module-check",
+   "title": "Lessons 6.03-6.04 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lessons-6-03-6-04-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 6.03-6.04 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3978"
+   },
+   "resource_link_lookup_uuid": "b5c5445c-a9ef-41ac-9e4b-4102282fd05e",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 3
+  },
+  {
+   "id": "ms_a_lesson-6-05a",
+   "title": "Lesson 6.05a Understanding the Purpose of Graphical Representations",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/6-05a-understanding-the-purpose-of-graphical-representations.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-6-05a-independent-practice",
+   "title": "Lesson 6.05a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-6-05a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3980"
+   },
+   "resource_link_lookup_uuid": "e44fc993-3f2b-48d1-9104-09546f1b070b",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 3
+  },
+  {
+   "id": "ms_a_lesson-6-05b",
+   "title": "Lesson 6.05b Identifying the Best Graphical Representation",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/6-05b-identifying-the-best-graphical-representation.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-6-05b-independent-practice",
+   "title": "Lesson 6.05b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-6-05b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3981"
+   },
+   "resource_link_lookup_uuid": "6e800dd3-8b9d-43aa-9717-23f2606f8dc4",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 3
+  },
+  {
+   "id": "ms_a_lesson-6-05c",
+   "title": "Lesson 6.05c Choosing and Creating the Best Graphical Representation",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/6-05c-choosing-and-creating-the-best-graphical-representation.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-6-05c-independent-practice",
+   "title": "Lesson 6.05c Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-6-05c-independent-practice.html\" style=\"width:100%;height:3640px;border:none;\" allowfullscreen=\"\" title=\"Lesson 6.05c Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 30.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "rubric": "ms_r_lesson-6-05c-independent-practice",
+   "submission_types": "none",
+   "week": 4
+  },
+  {
+   "id": "ms_a_module-6-summative-review",
+   "title": "Module 6 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/module-6-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 6 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3983"
+   },
+   "resource_link_lookup_uuid": "b4e00388-cf35-4fdb-ab9e-2b71cf414655",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 4
+  },
+  {
+   "id": "ms_a_module-6-summative-assessment",
+   "title": "Module 6 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/module-6-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 6 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3982"
+   },
+   "resource_link_lookup_uuid": "cf7c7f3c-07c0-4f09-af8f-cc079a466da3",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 4
+  },
+  {
+   "id": "ms_a_lesson-7-01a",
+   "title": "Lesson 7.01a Defining Likelihood and Identifying Likelihood of a Chance Event",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/7-01a-defining-likelihood-and-identifying-likelihood-of-a-chance-event.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-7-01a-independent-practice",
+   "title": "Lesson 7.01a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-7-01a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.01a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3989"
+   },
+   "resource_link_lookup_uuid": "69e300b5-7df0-40c5-b434-0ef23135a757",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 4
+  },
+  {
+   "id": "ms_a_lesson-7-01b",
+   "title": "Lesson 7.01b Comparing Chance Events",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/7-01b-comparing-chance-events.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-7-01b-independent-practice",
+   "title": "Lesson 7.01b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-7-01b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.01b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3990"
+   },
+   "resource_link_lookup_uuid": "8142f556-e0b3-42d4-8527-fc965359e74f",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 4
+  },
+  {
+   "id": "ms_a_lesson-7-02a",
+   "title": "Lesson 7.02a Defining and Determining Sample Space",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/7-02a-defining-and-determining-sample-space.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-7-02a-independent-practice",
+   "title": "Lesson 7.02a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-7-02a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.02a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3991"
+   },
+   "resource_link_lookup_uuid": "99a9c91f-bbda-44bb-8b01-ba5fda7f9274",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 5
+  },
+  {
+   "id": "ms_a_lesson-7-02b",
+   "title": "Lesson 7.02b Defining and Determining Theoretical Probability",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/7-02b-defining-and-determining-theoretical-probability.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-7-02b-independent-practice",
+   "title": "Lesson 7.02b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-7-02b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.02b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3992"
+   },
+   "resource_link_lookup_uuid": "57170111-6600-43f6-b2f6-5858202fe73c",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 5
+  },
+  {
+   "id": "ms_a_lesson-7-02c",
+   "title": "Lesson 7.02c Defining and Determining Experimental Probability",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/7-02c-defining-and-determining-experimental-probability.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-7-02c-independent-practice",
+   "title": "Lesson 7.02c Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-7-02c-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.02c Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3993"
+   },
+   "resource_link_lookup_uuid": "c41f5986-66ef-41dd-885b-c02f6b849dd2",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 5
+  },
+  {
+   "id": "ms_a_lessons-7-01-7-02-mid-module-check",
+   "title": "Lessons 7.01-7.02 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lessons-7-01-7-02-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lessons 7.01-7.02 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3994"
+   },
+   "resource_link_lookup_uuid": "fb7f366d-974e-41e9-8ff2-c31b58a08a16",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 5
+  },
+  {
+   "id": "ms_a_lesson-7-03a",
+   "title": "Lesson 7.03a Comparing Theoretical and Experimental Probabilities",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/7-03a-comparing-theoretical-and-experimental-probabilities.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-7-03a-independent-practice",
+   "title": "Lesson 7.03a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-7-03a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.03a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3996"
+   },
+   "resource_link_lookup_uuid": "0886a649-7ac9-4ec9-bf96-6f415a568368",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 5
+  },
+  {
+   "id": "ms_a_lesson-7-03b",
+   "title": "Lesson 7.03b Creating and Simulating a Simple Experiment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/7-03b-creating-and-simulating-a-simple-experiment.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-7-03b-independent-practice",
+   "title": "Lesson 7.03b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-7-03b-independent-practice.html\" style=\"width:100%;height:3240px;border:none;\" allowfullscreen=\"\" title=\"Lesson 7.03b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 15.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "rubric": "ms_r_lesson-7-03b-independent-practice",
+   "submission_types": "media_recording,online_upload",
+   "week": 6
+  },
+  {
+   "id": "ms_a_module-7-summative-review",
+   "title": "Module 7 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/module-7-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 7 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4000"
+   },
+   "resource_link_lookup_uuid": "3dba3178-d16d-4bc7-9a42-e22879f964ce",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 6
+  },
+  {
+   "id": "ms_a_module-7-summative-assessment",
+   "title": "Module 7 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/module-7-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 7 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "3999"
+   },
+   "resource_link_lookup_uuid": "7a57bb45-1834-48ff-b02f-f9b1a5cb1fe0",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 6
+  },
+  {
+   "id": "ms_a_lesson-8-01a",
+   "title": "Lesson 8.01a Area of Parallelograms and Rhombi",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/8-01a-area-of-parallelograms-and-rhombi.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-8-01a-independent-practice",
+   "title": "Lesson 8.01a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-8-01a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4004"
+   },
+   "resource_link_lookup_uuid": "a5e1fcf7-3b61-4031-85ea-62d103b34d20",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 6
+  },
+  {
+   "id": "ms_a_lesson-8-01b",
+   "title": "Lesson 8.01b Area of Trapezoids",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/8-01b-area-of-trapezoids.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-8-01b-independent-practice",
+   "title": "Lesson 8.01b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-8-01b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4005"
+   },
+   "resource_link_lookup_uuid": "fc0788eb-6661-47a4-8e03-25d4ea5c8686",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 6
+  },
+  {
+   "id": "ms_a_lesson-8-01c",
+   "title": "Lesson 8.01c Area of Polygons",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/8-01c-area-of-polygons.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-8-01c-independent-practice",
+   "title": "Lesson 8.01c Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-8-01c-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01c Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4006"
+   },
+   "resource_link_lookup_uuid": "5b257fd3-aba3-4a9c-9ed0-120045e7102d",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 7
+  },
+  {
+   "id": "ms_a_lesson-8-01d",
+   "title": "Lesson 8.01d Area of Composite Figures",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/8-01d-area-of-composite-figures.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-8-01d-independent-practice",
+   "title": "Lesson 8.01d Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-8-01d-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01d Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4007"
+   },
+   "resource_link_lookup_uuid": "53e8c20f-11f4-4353-8285-8ed5028e1b17",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 7
+  },
+  {
+   "id": "ms_a_lesson-8-01-mid-module-check",
+   "title": "Lesson 8.01 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-8-01-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.01 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4008"
+   },
+   "resource_link_lookup_uuid": "8720ccbd-0d07-407c-9f6e-78143483f72c",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 7
+  },
+  {
+   "id": "ms_a_lesson-8-02a",
+   "title": "Lesson 8.02a Circumference of a Circle",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/8-02a-circumference-of-a-circle.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-8-02a-independent-practice",
+   "title": "Lesson 8.02a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-8-02a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.02a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4010"
+   },
+   "resource_link_lookup_uuid": "4e252c0a-bec7-46b3-9c90-a9dbb928ad4a",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 7
+  },
+  {
+   "id": "ms_a_lesson-8-02b",
+   "title": "Lesson 8.02b Defining Pi",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/8-02b-defining-pi.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-8-02b-independent-practice",
+   "title": "Lesson 8.02b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-8-02b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.02b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4013"
+   },
+   "resource_link_lookup_uuid": "6835599f-9c46-43b7-8600-071f6a494f0e",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 7
+  },
+  {
+   "id": "ms_a_lesson-8-02c",
+   "title": "Lesson 8.02c Area of a Circle",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/8-02c-area-of-a-circle.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 8,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-8-02c-independent-practice",
+   "title": "Lesson 8.02c Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-8-02c-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.02c Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4012"
+   },
+   "resource_link_lookup_uuid": "2ca393f4-6086-4679-bf33-9011a6a66268",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 8
+  },
+  {
+   "id": "ms_a_lesson-8-02-mid-module-check",
+   "title": "Lesson 8.02 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-8-02-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.02 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4011"
+   },
+   "resource_link_lookup_uuid": "672f7dcb-51b3-4527-9f65-3e88677af3a4",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 8
+  },
+  {
+   "id": "ms_a_lesson-8-03a",
+   "title": "Lesson 8.03a Defining and Finding a Scale Factor",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/8-03a-defining-and-finding-a-scale-factor.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 8,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-8-03a-independent-practice",
+   "title": "Lesson 8.03a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-8-03a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.03a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4015"
+   },
+   "resource_link_lookup_uuid": "4d0d15ab-fc2b-49c4-bc5d-dd030e1fbd3d",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 8
+  },
+  {
+   "id": "ms_a_lesson-8-03b",
+   "title": "Lesson 8.03b Using Scale Factors",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/8-03b-using-scale-factors.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 8,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-8-03b-independent-practice",
+   "title": "Lesson 8.03b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-8-03b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.03b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4017"
+   },
+   "resource_link_lookup_uuid": "3c81c955-47d0-4344-b22b-771638cb1c66",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 8
+  },
+  {
+   "id": "ms_a_lesson-8-03c",
+   "title": "Lesson 8.03c Scale Factors and Area",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/8-03c-scale-factors-and-area.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 8,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-8-03c-independent-practice",
+   "title": "Lesson 8.03c Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-8-03c-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 8.03c Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4016"
+   },
+   "resource_link_lookup_uuid": "a334e4b0-94fc-40c2-9ceb-af478050abf0",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 8
+  },
+  {
+   "id": "ms_a_module-8-summative-review",
+   "title": "Module 8 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/module-8-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 8 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4020"
+   },
+   "resource_link_lookup_uuid": "e764cf11-1395-4ea4-a5f9-4ca0bfb47ec0",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 9
+  },
+  {
+   "id": "ms_a_module-8-summative-assessment",
+   "title": "Module 8 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/module-8-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 8 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4019"
+   },
+   "resource_link_lookup_uuid": "a484b39b-3cdd-443a-993c-fc94ace1f602",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 9
+  },
+  {
+   "id": "ms_a_lesson-9-01a",
+   "title": "Lesson 9.01a Surface Area of a Cylinder Using a Net",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/9-01a-surface-area-of-a-cylinder-using-a-net.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 9,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-9-01a-independent-practice",
+   "title": "Lesson 9.01a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-9-01a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.01a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4021"
+   },
+   "resource_link_lookup_uuid": "994daf3c-b873-4537-b329-9fb015059824",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 9
+  },
+  {
+   "id": "ms_a_lesson-9-01b",
+   "title": "Lesson 9.01b Surface Area of a Cylinder",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/9-01b-surface-area-of-a-cylinder.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 9,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-9-01b-independent-practice",
+   "title": "Lesson 9.01b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-9-01b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.01b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4028"
+   },
+   "resource_link_lookup_uuid": "b79d9ddc-f995-44ce-9963-785bedac4a7f",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 9
+  },
+  {
+   "id": "ms_a_lesson-9-01c",
+   "title": "Lesson 9.01c Volume of a Cylinder",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/9-01c-volume-of-a-cylinder.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 9,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-9-01c-independent-practice",
+   "title": "Lesson 9.01c Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-9-01c-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.01c Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4027"
+   },
+   "resource_link_lookup_uuid": "65292926-8b59-41af-810a-d3b9b8bbbe30",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 9
+  },
+  {
+   "id": "ms_a_lesson-9-01-mid-module-check",
+   "title": "Lesson 9.01 Mid-Module Check",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-9-01-mid-module-check.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.01 Mid-Module Check\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4026"
+   },
+   "resource_link_lookup_uuid": "9c1ef911-5cef-4c2d-9188-ee94aaba4b1f",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 10
+  },
+  {
+   "id": "ms_a_lesson-9-02a",
+   "title": "Lesson 9.02a Finding Missing Dimensions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/9-02a-finding-missing-dimensions.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 10,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-9-02a-independent-practice",
+   "title": "Lesson 9.02a Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-9-02a-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.02a Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4025"
+   },
+   "resource_link_lookup_uuid": "57e9a0f0-7b8a-4a4d-905e-5d3184ad7f4e",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 10
+  },
+  {
+   "id": "ms_a_lesson-9-02b",
+   "title": "Lesson 9.02b Solving Real-World Problems",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/9-02b-solving-real-world-problems.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"\" title=\"Lesson content\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_lessons",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 10,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "ms_a_lesson-9-02b-independent-practice",
+   "title": "Lesson 9.02b Independent Practice",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/lesson-9-02b-independent-practice.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Lesson 9.02b Independent Practice\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_practice",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4024"
+   },
+   "resource_link_lookup_uuid": "e8463ae9-8493-496a-a243-ab4794b46cbc",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 10
+  },
+  {
+   "id": "ms_a_module-9-summative-review",
+   "title": "Module 9 Summative Review",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/module-9-summative-review.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 9 Summative Review\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_reviews",
+   "grading_type": "pass_fail",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4023"
+   },
+   "resource_link_lookup_uuid": "8e0fd148-30a5-4e92-b5f5-2ad6ae921d96",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 10
+  },
+  {
+   "id": "ms_a_module-9-summative-assessment",
+   "title": "Module 9 Summative Assessment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/wiris/module-9-summative-assessment.html\" style=\"width:100%;height:840px;border:none;\" allowfullscreen=\"\" title=\"Module 9 Summative Assessment\" loading=\"lazy\"></iframe></p>",
+   "points": 10.0,
+   "group": "ms_ag_summative",
+   "grading_type": "points",
+   "published": true,
+   "submission_types": "external_tool",
+   "external_tool_url": "https://www.wiris.net/client/lti/quizzes/tool",
+   "external_tool_external_identifier": "800",
+   "external_tool_new_tab": false,
+   "external_tool_custom": {
+    "id": "4022"
+   },
+   "resource_link_lookup_uuid": "299c313e-eaf4-47d5-aad6-3fe029ab0237",
+   "lti_title": "WirisQuizzes LTI 1.3",
+   "lti_description": "Math and science assessment platform. Include automated computer-based grading questions in your STEM courses. Student can handwrite their answer in mobile and tablet devices. Formative assessment at hand with unlimited versions of a question thanks to algorithmically generated questions.",
+   "week": 10
+  }
+ ],
+ "modules": [
+  {
+   "published": true,
+   "id": "ms_m_6",
+   "title": "Representing Statistical Data",
+   "items": [
+    {
+     "type": "header",
+     "title": "Lesson 6.01 Statistical Measures and Effects of Data",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.01a Find and Interpret Measures of Variation",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-01a",
+     "indent": 2,
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-01a-independent-practice",
+     "title": "Lesson 6.01a Independent Practice",
+     "indent": 2,
+     "week": 1
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.01b Find and Interpret Measures of Center",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-01b",
+     "indent": 2,
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-01b-independent-practice",
+     "title": "Lesson 6.01b Independent Practice",
+     "indent": 2,
+     "week": 1
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.01c Effects of Addition or Removal of Data Values",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-01c",
+     "indent": 2,
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-01c-independent-practice",
+     "title": "Lesson 6.01c Independent Practice",
+     "indent": 2,
+     "week": 1
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.01d Effects of Outliers on Measures",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-01d",
+     "indent": 2,
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-01d-independent-practice",
+     "title": "Lesson 6.01d Independent Practice",
+     "indent": 2,
+     "week": 1
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.02 Measures of Center and Variability",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.02a Appropriate Measures of Center",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-02a",
+     "indent": 2,
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-02a-independent-practice",
+     "title": "Lesson 6.02a Independent Practice",
+     "indent": 2,
+     "week": 1
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.02b Appropriate Measures of Variation",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-02b",
+     "indent": 2,
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-02b-independent-practice",
+     "title": "Lesson 6.02b Independent Practice",
+     "indent": 2,
+     "week": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.01-6.02 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lessons-6-01-6-02-mid-module-check",
+     "title": "Lessons 6.01-6.02 Mid-Module Check",
+     "indent": 2,
+     "week": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.03 Comparing Data Representations",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.03a Comparing Sets of Data and Interpreting Measures",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-03a",
+     "indent": 2,
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-03a-independent-practice",
+     "title": "Lesson 6.03a Independent Practice",
+     "indent": 2,
+     "week": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.03b Comparing and Interpreting Graphical Representations",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-03b",
+     "indent": 2,
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-03b-independent-practice",
+     "title": "Lesson 6.03b Independent Practice",
+     "indent": 2,
+     "week": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.04 Categorical Data & Circle Graphs",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.04a Making Predictions in Categorical Data",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-04a",
+     "indent": 2,
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-04a-independent-practice",
+     "title": "Lesson 6.04a Independent Practice",
+     "indent": 2,
+     "week": 2
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.04b Reading and Interpreting Circle Graphs",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-04b",
+     "indent": 2,
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-04b-independent-practice",
+     "title": "Lesson 6.04b Independent Practice",
+     "indent": 2,
+     "week": 3
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.04c Creating Circle Graphs",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-04c",
+     "indent": 2,
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-04c-independent-practice",
+     "title": "Lesson 6.04c Independent Practice",
+     "indent": 2,
+     "week": 3
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.03-6.04 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lessons-6-03-6-04-mid-module-check",
+     "title": "Lessons 6.03-6.04 Mid-Module Check",
+     "indent": 1,
+     "week": 3
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.05 Graphical Representations",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.05a Understanding the Purpose of Graphical Representations",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-05a",
+     "indent": 2,
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-05a-independent-practice",
+     "title": "Lesson 6.05a Independent Practice",
+     "indent": 2,
+     "week": 3
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.05b Identifying the Best Graphical Representation",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-05b",
+     "indent": 2,
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-05b-independent-practice",
+     "title": "Lesson 6.05b Independent Practice",
+     "indent": 2,
+     "week": 3
+    },
+    {
+     "type": "header",
+     "title": "Lesson 6.05c Choosing and Creating the Best Graphical Representation",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-05c",
+     "indent": 2,
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-6-05c-independent-practice",
+     "title": "Lesson 6.05c Independent Practice",
+     "indent": 2,
+     "week": 4
+    },
+    {
+     "type": "header",
+     "title": "Module 6 Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_module-6-summative-review",
+     "title": "Module 6 Summative Review",
+     "indent": 1,
+     "week": 4
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_module-6-summative-assessment",
+     "title": "Module 6 Summative Assessment",
+     "indent": 1,
+     "week": 4
+    }
+   ]
+  },
+  {
+   "published": true,
+   "id": "ms_m_7",
+   "title": "Simple Experiments & Probability",
+   "items": [
+    {
+     "type": "header",
+     "title": "Lesson 7.01 Likelihood of an Event",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.01a Defining Likelihood and Identifying Likelihood of a Chance Event",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-7-01a",
+     "indent": 2,
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-7-01a-independent-practice",
+     "title": "Lesson 7.01a Independent Practice",
+     "indent": 2,
+     "week": 4
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.01b Comparing Chance Events",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-7-01b",
+     "indent": 2,
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-7-01b-independent-practice",
+     "title": "Lesson 7.01b Independent Practice",
+     "indent": 2,
+     "week": 4
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.02 Sample Space and Probability",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.02a Defining and Determining Sample Space",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-7-02a",
+     "indent": 2,
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-7-02a-independent-practice",
+     "title": "Lesson 7.02a Independent Practice",
+     "indent": 2,
+     "week": 5
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.02b Defining and Determining Theoretical Probability",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-7-02b",
+     "indent": 2,
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-7-02b-independent-practice",
+     "title": "Lesson 7.02b Independent Practice",
+     "indent": 2,
+     "week": 5
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.02c Defining and Determining Experimental Probability",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-7-02c",
+     "indent": 2,
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-7-02c-independent-practice",
+     "title": "Lesson 7.02c Independent Practice",
+     "indent": 2,
+     "week": 5
+    },
+    {
+     "type": "header",
+     "title": "Lessons 7.01-7.02 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lessons-7-01-7-02-mid-module-check",
+     "title": "Lessons 7.01-7.02 Mid-Module Check",
+     "indent": 1,
+     "week": 5
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.03 Simulations of Simple Experiments",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.03a Comparing Theoretical and Experimental Probabilities",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-7-03a",
+     "indent": 2,
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-7-03a-independent-practice",
+     "title": "Lesson 7.03a Independent Practice",
+     "indent": 2,
+     "week": 5
+    },
+    {
+     "type": "header",
+     "title": "Lesson 7.03b Creating and Simulating a Simple Experiment",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-7-03b",
+     "indent": 2,
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-7-03b-independent-practice",
+     "title": "Lesson 7.03b Independent Practice",
+     "indent": 2,
+     "week": 6
+    },
+    {
+     "type": "header",
+     "title": "Module 7 Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_module-7-summative-review",
+     "title": "Module 7 Summative Review",
+     "indent": 1,
+     "week": 6
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_module-7-summative-assessment",
+     "title": "Module 7 Summative Assessment",
+     "indent": 1,
+     "week": 6
+    }
+   ]
+  },
+  {
+   "published": true,
+   "id": "ms_m_8",
+   "title": "Two-Dimensional Figures & Scaling",
+   "items": [
+    {
+     "type": "header",
+     "title": "Lesson 8.01 Area of Quadrilaterals and Polygons",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.01a Area of Parallelograms and Rhombi",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-01a",
+     "indent": 2,
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-01a-independent-practice",
+     "title": "Lesson 8.01a Independent Practice",
+     "indent": 2,
+     "week": 6
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.01b Area of Trapezoids",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-01b",
+     "indent": 2,
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-01b-independent-practice",
+     "title": "Lesson 8.01b Independent Practice",
+     "indent": 2,
+     "week": 6
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.01c Area of Polygons",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-01c",
+     "indent": 2,
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-01c-independent-practice",
+     "title": "Lesson 8.01c Independent Practice",
+     "indent": 2,
+     "week": 7
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.01d Area of Composite Figures",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-01d",
+     "indent": 2,
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-01d-independent-practice",
+     "title": "Lesson 8.01d Independent Practice",
+     "indent": 2,
+     "week": 7
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.01 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-01-mid-module-check",
+     "title": "Lesson 8.01 Mid-Module Check",
+     "indent": 1,
+     "week": 7
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.02 Circles",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.02a Circumference of a Circle",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-02a",
+     "indent": 2,
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-02a-independent-practice",
+     "title": "Lesson 8.02a Independent Practice",
+     "indent": 2,
+     "week": 7
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.02b Defining Pi",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-02b",
+     "indent": 2,
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-02b-independent-practice",
+     "title": "Lesson 8.02b Independent Practice",
+     "indent": 2,
+     "week": 7
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.02c Area of a Circle",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-02c",
+     "indent": 2,
+     "week": 8,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-02c-independent-practice",
+     "title": "Lesson 8.02c Independent Practice",
+     "indent": 2,
+     "week": 8
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.02 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-02-mid-module-check",
+     "title": "Lesson 8.02 Mid-Module Check",
+     "indent": 2,
+     "week": 8
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.03 Scale Drawings",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.03a Defining and Finding a Scale Factor",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-03a",
+     "indent": 2,
+     "week": 8,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-03a-independent-practice",
+     "title": "Lesson 8.03a Independent Practice",
+     "indent": 2,
+     "week": 8
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.03b Using Scale Factors",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-03b",
+     "indent": 2,
+     "week": 8,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-03b-independent-practice",
+     "title": "Lesson 8.03b Independent Practice",
+     "indent": 2,
+     "week": 8
+    },
+    {
+     "type": "header",
+     "title": "Lesson 8.03c Scale Factors and Area",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-03c",
+     "indent": 2,
+     "week": 8,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-8-03c-independent-practice",
+     "title": "Lesson 8.03c Independent Practice",
+     "indent": 2,
+     "week": 8
+    },
+    {
+     "type": "header",
+     "title": "Module 8 Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_module-8-summative-review",
+     "title": "Module 8 Summative Review",
+     "indent": 1,
+     "week": 9
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_module-8-summative-assessment",
+     "title": "Module 8 Summative Assessment",
+     "indent": 1,
+     "week": 9
+    }
+   ]
+  },
+  {
+   "published": true,
+   "id": "ms_m_9",
+   "title": "Cylinders",
+   "items": [
+    {
+     "type": "header",
+     "title": "Lesson 9.01 Surface Area and Volume of a Cylinder",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 9.01a Surface Area of a Cylinder Using a Net",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-9-01a",
+     "indent": 2,
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-9-01a-independent-practice",
+     "title": "Lesson 9.01a Independent Practice",
+     "indent": 2,
+     "week": 9
+    },
+    {
+     "type": "header",
+     "title": "Lesson 9.01b Surface Area of a Cylinder",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-9-01b",
+     "indent": 2,
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-9-01b-independent-practice",
+     "title": "Lesson 9.01b Independent Practice",
+     "indent": 2,
+     "week": 9
+    },
+    {
+     "type": "header",
+     "title": "Lesson 9.01c Volume of a Cylinder",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-9-01c",
+     "indent": 2,
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-9-01c-independent-practice",
+     "title": "Lesson 9.01c Independent Practice",
+     "indent": 2,
+     "week": 9
+    },
+    {
+     "type": "header",
+     "title": "Lesson 9.01 Mid-Module Check",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-9-01-mid-module-check",
+     "title": "Lesson 9.01 Mid-Module Check",
+     "indent": 1,
+     "week": 10
+    },
+    {
+     "type": "header",
+     "title": "Lesson 9.02 Problems Involving Cylinders",
+     "indent": 0
+    },
+    {
+     "type": "header",
+     "title": "Lesson 9.02a Finding Missing Dimensions",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-9-02a",
+     "indent": 2,
+     "week": 10,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-9-02a-independent-practice",
+     "title": "Lesson 9.02a Independent Practice",
+     "indent": 2,
+     "week": 10
+    },
+    {
+     "type": "header",
+     "title": "Lesson 9.02b Solving Real-World Problems",
+     "indent": 1
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-9-02b",
+     "indent": 2,
+     "week": 10,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_lesson-9-02b-independent-practice",
+     "title": "Lesson 9.02b Independent Practice",
+     "indent": 2,
+     "week": 10
+    },
+    {
+     "type": "header",
+     "title": "Module 9 Summative",
+     "indent": 0
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_module-9-summative-review",
+     "title": "Module 9 Summative Review",
+     "indent": 1,
+     "week": 10
+    },
+    {
+     "type": "assignment",
+     "ref": "ms_a_module-9-summative-assessment",
+     "title": "Module 9 Summative Assessment",
+     "indent": 1,
+     "week": 10
+    }
+   ]
+  },
+  {
+   "published": false,
+   "id": "ms_m_teacher",
+   "title": "Teacher Resources",
+   "items": [
+    {
+     "type": "page",
+     "ref": "ms_p_module-6-lesson-maps",
+     "title": "Module 6 Lesson Maps",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "ms_p_module-7-lesson-maps",
+     "title": "Module 7 Lesson Maps",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "ms_p_module-8-lesson-maps",
+     "title": "Module 8 Lesson Maps",
+     "indent": 0
+    },
+    {
+     "type": "page",
+     "ref": "ms_p_module-9-lesson-maps",
+     "title": "Module 9 Lesson Maps",
+     "indent": 0
+    }
+   ]
+  }
+ ],
+ "files": [],
+ "source": {
+  "note": "Built by _src/kit/make_kit_spec.py in OneDrive 'Claude's Workshop\\Math builds\\Grade 7 Math S2 Sparkle' from the original 1205040-s2 spec. Sparkle = the integrated redesign of Semester 2 (Modules 6-9); the original ships unchanged in 1205040-s2. Module and item titles, order and sub-headers come from the original spec ('Affects' corrected to 'Effects'). Each of the 36 lessons is one 10-point PDF-upload assignment framing its page at https://optimaondemand.github.io/mj-grade-7-mathematics/s2-sparkle/ ; that page carries the original lesson text, the original Prior Knowledge Check as its Warm-Up tab (24 lessons) and the original VR activity as an optional note, so the separate Prior Knowledge Check items and VR Lesson Resources pages are not carried. All 50 practice and assessment items (34 Independent Practice, 6 Mid-Module Checks, 2 non-Wiris Independent Practice, 4 Summative Reviews, 4 Summative Assessments) are copied field for field from the original spec (tool url, quiz id, lookup uuid, points, grading type); only ids gain the ms_ prefix, and the short instruction page each one frames is a copy of the original page in s2-sparkle/wiris/ with the read-aloud player added (same wording). Gradebook groups: the original groups plus Lessons; weights left for the teacher to set. Weeks: the course files carry no week pacing; week numbers count five items a week in the original order (a lesson and its Independent Practice share a day)."
+ }
+}
