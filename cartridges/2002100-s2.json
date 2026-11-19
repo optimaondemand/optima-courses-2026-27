@@ -4,11 +4,11 @@
  "code": "2002100",
  "title": "M/J Comprehensive Science 3 Sem 2",
  "file": "cartridges/2002100-s2.imscc",
- "bytes": 331155,
- "version": "2026.11.18",
- "built": "2026-11-18T15:40:21",
+ "bytes": 333072,
+ "version": "2026.11.19",
+ "built": "2026-11-19T11:56:39",
  "front_page": "wiki_content/course-home.html",
- "items": 190,
+ "items": 193,
  "modules": [
   {
    "id": "m_vrguide",
@@ -183,7 +183,7 @@
    "title": "Q4 Week 10: The Science Showcase Begins — Building Our VR Museum Experience",
    "gid": "gfbcb2e4186d71d07bc67a9d9b592d13f",
    "published": true,
-   "items": 3,
+   "items": 6,
    "xml": "course_settings/module_meta.xml"
   },
   {
@@ -196,13 +196,13 @@
   }
  ],
  "counts": {
-  "pages": 97,
+  "pages": 99,
   "assignments": 30,
   "quizzes": 18,
   "discussions": 0,
   "files": 0,
   "modules": 23,
-  "items": 190
+  "items": 193
  },
  "weights": [
   {
@@ -1144,25 +1144,25 @@
   "ok": true,
   "warnings": [],
   "stats": {
-   "resources": 165,
+   "resources": 167,
    "resource_types": {
     "associatedcontent/imscc_xmlv1p1/learning-application-resource": 49,
-    "webcontent": 97,
+    "webcontent": 99,
     "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 18,
     "imswl_xmlv1p1": 1
    },
-   "organization_items": 145,
+   "organization_items": 147,
    "modules": 23,
-   "module_items": 190,
+   "module_items": 193,
    "module_item_types": {
-    "ContextModuleSubHeader": 45,
-    "WikiPage": 96,
+    "ContextModuleSubHeader": 46,
+    "WikiPage": 98,
     "ExternalUrl": 1,
     "Quizzes::Quiz": 18,
     "Assignment": 30
    },
    "default_view": "wiki",
-   "pages": 97,
+   "pages": 99,
    "front_page": "wiki_content/course-home.html",
    "assignment_groups": 4,
    "group_refs": 66,
@@ -1174,6 +1174,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "6608d974f456162bfbddf4e56cafbca8614827ab3f5515bd3952e4e825f22263",
+ "spec_sha": "3bb0ce48e8352e917ead76f934c98caf1ba2661ff6e1955cedb2f8a35c95c5a9",
  "art_pack": null
 }
