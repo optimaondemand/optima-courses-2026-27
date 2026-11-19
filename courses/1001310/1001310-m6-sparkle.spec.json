@@ -1,0 +1,4231 @@
+{
+ "course": {
+  "title": "English 1 · The Scarlet Letter (Sparkle)",
+  "code": "1001310",
+  "default_view": "wiki",
+  "weighted": false
+ },
+ "assignment_groups": [
+  {
+   "id": "sl_ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "sl_ag_quizzes_projects",
+   "title": "Quizzes and projects",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "sl_r_w1_l1",
+   "title": "The Prison Door Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Respond answers, Ch. I–III",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The first picks two people who read the scarlet letter differently, quotes each exactly, cites each like this: (Ch. II), and says what each reading shows about the person reading it (3 points). The second says what Hester’s refusal in \"Never!\" lets a reader infer from where her eyes go, and what the scene leaves unsaid, without claiming more than the text says (2 points).",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Your Question and reading cards, Ch. I–III",
+     "long_description": "",
+     "points": 2,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The answer about one event from Hawthorne’s own time is complete and ends with one question to carry into the reading. The three reading cards are complete and specific to the chapters.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Marks and notes, Ch. I–III",
+     "long_description": "",
+     "points": 3,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "At least 4 marks and at least 2 margin notes in the student’s own words. They appear under \"In the margin\" in the PDF.",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w1_l2",
+   "title": "Three Bonds Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Respond answers, Ch. IV–VI",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The first chooses one bond (the Mark, the Oath or the Child), quotes two lines from Ch. IV–VI exactly, cites each like this: (Ch. V), and explains how each supports the choice (3 points). The second says what Pearl’s \"I have no Heavenly Father!\" ties together, using what she touches and what Hester has just said (2 points).",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Before You Read, Acts and Words, reading cards, Ch. IV–VI",
+     "long_description": "",
+     "points": 2,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The Before You Read answer gives a reason a person might stay where they were shamed. The Acts and Words line uses one act and one saying from the ledger to say what Hester cannot make fit together. The three reading cards are complete and specific to the chapters.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Marks and notes, Ch. IV–VI",
+     "long_description": "",
+     "points": 3,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "At least 4 marks and at least 2 margin notes in the student’s own words. They appear under \"In the margin\" in the PDF.",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w1_l3",
+   "title": "The Writer’s Desk: The Letter in Public Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Style Lab sentences",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Three correct participial-phrase sentences about Ch. I–VI (one opening with a present participial phrase, one opening with a past participial phrase, one with a phrase that interrupts the sentence, set off by commas, each phrase beside the noun it describes) and three correct balanced sentences (two join complete halves with a semicolon; one uses \"; however,\").",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The Letter in Public paragraph, draft",
+     "long_description": "",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "150–200 words about how one observer in Ch. II–III reads the letter. It has one exact quotation cited like this: (Ch. II), one sentence that opens with a participial phrase, and one balanced sentence joined by a semicolon.",
+       "points": 6.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w1_l4",
+   "title": "Who Stands Trial? Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "The walk, Ch. I–VI",
+     "long_description": "",
+     "points": 2,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Four written answers (the prison door, the scaffold, the meeting-house balcony, Hester’s cottage), each answering its question in one or two sentences with words from the passage.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The verdict",
+     "long_description": "",
+     "points": 3,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The three parties (Hester, the child’s father whom she will not name, the town and its leaders) are ranked from most responsible to least, and the top choice is defended with one exact quotation cited like this: (Ch. III).",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Revision",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "A before-and-after sentence that shows a real change (1 point). A revised paragraph of 150–200 words that improves its claim, its quotation or its sentences as the three checklists ask (4 points).",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w2_l1",
+   "title": "The Governor’s Hall Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Respond answers, Ch. VII–VIII",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Both answers are accurate to the chapters. The first picks two places where Pearl is tied to the scarlet letter, quotes each exactly, cites it like this: (Ch. VII), and says what each shows about Pearl or about Hester. The second says what the end of the hearing lets a reader infer and what it leaves unsaid, without claiming more than the text says.",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Walk, Four Voices and reading cards, Ch. VII–VIII",
+     "long_description": "",
+     "points": 2,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The four walk answers use words from their passages. The Four Voices answer says whose argument wins and what it gives the Governor that the others do not. Before You Read and the three reading cards are complete and specific.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Marks and notes, Ch. VII–VIII",
+     "long_description": "",
+     "points": 3,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "At least 4 marks and at least 2 margin notes in the student’s own words. They appear under \"In the margin\" in the PDF.",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w2_l2",
+   "title": "The Leech and His Patient Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Respond answers, Ch. IX–XII",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The first quotes one line from each man in Ch. X exactly, cites each like this: (Ch. X), and says what each man believes about keeping guilt secret. The second explains what Pearl’s “Thou wast not bold!” shows about the minister, using what she asked him and what he answered in Ch. XII.",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Reading cards, Ch. IX–XII",
+     "long_description": "",
+     "points": 2,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Before You Read and the three reading cards are complete and specific to the chapters.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Marks and notes, Ch. IX–XII",
+     "long_description": "",
+     "points": 3,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "At least 4 marks and at least 2 margin notes in the student’s own words. They appear under \"In the margin\" in the PDF.",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w2_l3",
+   "title": "The Writer’s Desk: The Hearing Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Style Lab sentences",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Three correct absolute phrases about Ch. VII–XII (a noun plus a participle, set off by commas: one at the start of a sentence, one at the end, one in the middle) and three parallel sentences (a series of three verbs in one form; one with not only... but also and the same form after each half; one that repeats an opening word or phrase three times).",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The Hearing paragraph, draft",
+     "long_description": "",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "150–200 words about one speaker at the hearing in Ch. VIII and how that person argues about Pearl. It has one exact quotation cited like this: (Ch. VIII), one sentence with an absolute phrase set off by commas, and one sentence with a series whose items share one form.",
+       "points": 6.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w2_l4",
+   "title": "What Is He Owed? Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "The verdict",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "A clear answer to both halves of the question: what Roger Chillingworth is owed, and whether what he does in Ch. IX–XII changes it. One exact quotation, cited by chapter.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "What a source leaves out",
+     "long_description": "",
+     "points": 1,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "One thing a popular page about the Puritans might leave out, and one line from Ch. VII–VIII that shows it.",
+       "points": 1.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Revision",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "A before-and-after sentence that shows a real change, and a revised paragraph of 150–200 words that improves its claim, its quotation or its sentences as the three checklists ask.",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w3_l1",
+   "title": "Another View of Hester Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Before You Read and reading cards, Ch. XIII–XV",
+     "long_description": "",
+     "points": 2,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Before You Read and the three reading cards are complete and about the chapters.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Respond answers, Ch. XIII–XV",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The first compares two readings of the scarlet letter seven years on (the people, the rulers or Hester), each with an exact quotation cited like this: (Ch. XIII), and says what each reading shows (3 points). The second takes a side on who is to blame for what Chillingworth has become, with one exact quotation from Ch. XIV, cited, and an explanation (2 points).",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Marks and notes, Ch. XIII–XV",
+     "long_description": "",
+     "points": 3,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "At least 4 marks and at least 2 margin notes in the student’s own words. They appear under \"In the margin\" in the PDF.",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w3_l2",
+   "title": "The Forest Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Before You Read and the walk, Ch. XVI–XIX",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The Before You Read answer is complete (1 point). The four walk answers each use words from their passages (3 points).",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Respond answers, Ch. XVI–XIX",
+     "long_description": "",
+     "points": 3,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The first gives one exact line from Ch. XVI and one from Ch. XVIII about the minister, each cited like this: (Ch. XVI), and says what changed and what caused it (2 points). The second gives one exact cited line and says whether the sunshine approves of what they decided (1 point).",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Marks and notes, Ch. XVI–XIX",
+     "long_description": "",
+     "points": 3,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "At least 4 marks and at least 2 margin notes in the student’s own words. They appear under \"In the margin\" in the PDF.",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w3_l3",
+   "title": "The Writer’s Desk: The Forest Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Inverted sentences",
+     "long_description": "",
+     "points": 3,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Three sentences about Ch. XIII–XIX, each with the right pattern and the helper or verb before the subject: one opening with Never, Seldom or Hardly; one opening with Here or There; one opening with a describing word.",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "A question three ways",
+     "long_description": "",
+     "points": 2,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "A rhetorical question that ends with a question mark, the same question reported inside a statement that ends with a period, and a real question Pearl could want answered, with a question mark.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Read It Aloud",
+     "long_description": "",
+     "points": 2,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The marked passage shows at least 5 stressed words and at least 3 pauses, and the card names the heaviest word and says why the passage puts weight on it.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The Forest paragraph, draft",
+     "long_description": "",
+     "points": 3,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "150–200 words. The first sentence answers whether leaving the town frees Hester, and the paragraph has one exact quotation from Ch. XVI–XIX cited like this: (Ch. XVIII).",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w3_l4",
+   "title": "The Letter’s Office Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "The moment card and the verdict",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The moment card names one of the four moments and says why it changes the letter most (1 point). The verdict says in its first sentence whether the letter has done its office (it has, it has done a different office, or it has not) and supports the answer with two exact quotations from two different chapters, each cited (4 points).",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Revision",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "A before-and-after sentence that shows a real change (1 point). A revised paragraph of 150–200 words that applies the checklists: the claim, one exact quotation, one inverted sentence and one rhetorical question (4 points).",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_forum",
+   "title": "Should Hester and the Minister Flee? Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Post and reply",
+     "long_description": "",
+     "points": 10,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "A clear position, one exact quotation from Ch. XVI–XIX with its chapter cited, an explanation, and a reply that adds a reason, a question or a moment the classmate did not use.",
+       "points": 10.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Both a post and a reply, but the position is vague, the quotation is missing or inexact, or the reply only agrees.",
+       "points": 5.0
+      },
+      {
+       "description": "None",
+       "long_description": "No post, no reply, or off topic.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_recitation",
+   "title": "Recitation: A Passage from the Forest Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Point 1",
+     "long_description": "",
+     "points": 1,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The full passage is performed (about one minute), read expressively or from memory.",
+       "points": 1.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Point 2",
+     "long_description": "",
+     "points": 1,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The recording is clear and audible, with deliberate pacing and a tone a listener can name.",
+       "points": 1.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Point 3",
+     "long_description": "",
+     "points": 1,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The recording is submitted to this assignment on time.",
+       "points": 1.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w4_l1",
+   "title": "The Holiday Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Respond answers, Ch. XX–XXII",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The first says how the minister has changed between the forest and the market-place, with two exact quotations from two different chapters (XX, XXI or XXII), each cited like this: (Ch. XX) and explained (3 points). The second quotes one of Pearl’s questions from Ch. XXI–XXII exactly and explains what it shows that Hester cannot say in public (2 points).",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The walk, Ch. XX–XXII",
+     "long_description": "",
+     "points": 3,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Four written answers, each answering its question in one or two sentences with words from the passage.",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Marks, notes and cards, Ch. XX–XXII",
+     "long_description": "",
+     "points": 2,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "At least 4 marks, at least 2 margin notes in the student’s own words, and Before You Read and the three reading cards complete. Marks and notes appear under \"In the margin\" in the PDF.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w4_l2",
+   "title": "The Revelation Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Respond answers, Ch. XXIII–XXIV",
+     "long_description": "",
+     "points": 5,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The first chooses two of the people around the minister in Ch. XXIII, quotes one line by or about each exactly, cites it like this: (Ch. XXIII), and explains what each one’s part shows (3 points). The second explains why Hester comes back and puts the letter on again, with one more exact quotation from Ch. XXIV (2 points).",
+       "points": 5.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Before You Read and reading cards, Ch. XXIII–XXIV",
+     "long_description": "",
+     "points": 3,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "A prediction with a reason, and three reading cards that are complete; the second card copies one account of the scaffold exactly.",
+       "points": 3.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Marks and notes, Ch. XXIII–XXIV",
+     "long_description": "",
+     "points": 2,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "At least 4 marks and at least 2 margin notes in the student’s own words. They appear under \"In the margin\" in the PDF.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w4_l3",
+   "title": "The Writer’s Desk: Two Places Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Style Lab sentences",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "One true antithesis and one true chiasmus about Ch. XX–XXIV (2 points). One sentence about a character in loaded words and one about the same character in precise words the text can prove (2 points).",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Two Places paragraph, draft",
+     "long_description": "",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "150–200 words comparing Hester in the market-place and the minister in the pulpit in Ch. XXII. It has one exact quotation cited like this: (Ch. XXII), one sentence built as an antithesis, and precise words, not loaded ones, for each person.",
+       "points": 6.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w4_l4",
+   "title": "The Reader May Choose Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "The verdict",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "One account of the scaffold chosen and defended with an exact quotation from Ch. XXIII or XXIV, and one other account set aside with a reason (3 points). The narrator’s moral quoted exactly, with what it asks explained (1 point).",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Revision",
+     "long_description": "",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "A before-and-after sentence that shows a real change (1 point). A revised paragraph of 150–200 words that improves its claim, its quotation or its sentences as the checklists ask (5 points).",
+       "points": 6.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w5_l1",
+   "title": "Three Scaffolds Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Respond answers, Ch. XII and XXIII",
+     "long_description": "",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The first picks two of the three scaffold scenes, quotes one exact line from each that shows who is watching, cites it like this: (Ch. XII), and explains what is different about each scene because of who is watching (4 points). The second says what the hour of each scene lets people see and what it hides (2 points).",
+       "points": 6.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Reading cards, Ch. XII and XXIII",
+     "long_description": "",
+     "points": 2,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The before-you-reread card and the two reading cards are filled in and specific to the chapters.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Marks and notes, Ch. XII and XXIII",
+     "long_description": "",
+     "points": 2,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "At least 2 marks and at least 1 margin note in the student’s own words. They appear under \"In the margin\" in the PDF.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w5_l2",
+   "title": "The Letter Across the Novel Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Walk answers, Ch. XIII and XXIV",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Four written answers, each one or two sentences, using words from the passage and answering the question.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Starting point and Respond",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "The starting-point card is filled in (1 point). The Respond answer quotes two moments with the letter exactly, cites each by chapter like this: (Ch. XIII), and says what each gesture shows about Hester at that time (3 points).",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Marks and notes, Ch. XIII and XXIV",
+     "long_description": "",
+     "points": 2,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "At least 2 marks and at least 1 margin note in the student’s own words. They appear under \"In the margin\" in the PDF.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w5_l3",
+   "title": "The Writer’s Desk: Hawthorne’s Verdict Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Quoting sentences",
+     "long_description": "",
+     "points": 2,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Two sentences about the novel. One fits a short quotation into its own grammar, with a comma or no mark before it. One cuts words from inside a quotation and marks the cut with three periods (...). Each is cited, with the period after the chapter.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Conceding sentences",
+     "long_description": "",
+     "points": 2,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Two sentences that grant a point and answer it. One opens with Although or While; one uses It is true that ... ; however, ... Neither has a double conjunction or a comma splice.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Hawthorne’s Verdict paragraph, draft",
+     "long_description": "",
+     "points": 6,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "150–200 words that name one answer (the town, Hester, the minister or Roger Chillingworth). It has two exact quotations from two different chapters, one quotation with a cut marked by three periods, and one sentence that grants a point and answers it.",
+       "points": 6.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_w5_l4",
+   "title": "What the Secrets Cost Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "The verdict",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "All three secrets are ranked from most costly to least. The first choice is defended with one exact quotation cited by chapter and says who paid.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Before and after",
+     "long_description": "",
+     "points": 2,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "One real sentence copied from the draft and improved.",
+       "points": 2.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Revised paragraph",
+     "long_description": "",
+     "points": 4,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "A revised paragraph of 150–200 words that applies the checklists: the answer, both quotations fitted into its sentences, and the sentence that grants a point and answers it.",
+       "points": 4.0
+      },
+      {
+       "description": "No credit",
+       "long_description": "Missing or not yet there.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sl_r_project",
+   "title": "The Scarlet Letter Literary Analysis Essay Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Thesis and argument",
+     "long_description": "",
+     "points": 30,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "The thesis is arguable and specific, and every paragraph advances it. The counterclaim is stated fairly and answered with evidence. (30-27)",
+       "points": 30.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "The thesis is present but general, or some paragraphs drift. The counterclaim is thin or answered without evidence. (26-21)",
+       "points": 26.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "No clear thesis; the essay summarizes the plot. No counterclaim. (20-0)",
+       "points": 20.0
+      }
+     ]
+    },
+    {
+     "description": "Textual evidence and quotation",
+     "long_description": "",
+     "points": 25,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "At least three well-chosen quotations, accurate, introduced, cited by chapter, and explained. (25-23)",
+       "points": 25.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Quotations are present but dropped in, uncited, or explained only briefly. (22-18)",
+       "points": 22.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Fewer than three quotations, or evidence is inaccurate or missing. (17-0)",
+       "points": 17.0
+      }
+     ]
+    },
+    {
+     "description": "Researched source and MLA",
+     "long_description": "",
+     "points": 25,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "The source is credible, woven into the argument, cited in the text, and correct in Works Cited. (25-23)",
+       "points": 25.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "The source is present but stacked beside the argument, or citations contain errors. (22-18)",
+       "points": 22.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "No source, or the source is unused or uncited. (17-0)",
+       "points": 17.0
+      }
+     ]
+    },
+    {
+     "description": "Organization and conventions",
+     "long_description": "",
+     "points": 20,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "Clear introduction, body, and conclusion; transitions guide the reader; MLA format and length met; nearly error-free. (20-18)",
+       "points": 20.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "The structure is visible but uneven; some format or length issues; some errors. (17-14)",
+       "points": 17.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "The structure is unclear; length or format missing; frequent errors. (13-0)",
+       "points": 13.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [],
+ "assignments": [
+  {
+   "id": "sl_a_w1_l1",
+   "title": "The Prison Door",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w1-lesson1-the-prison-door.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 9,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w1_l1",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w1_l2",
+   "title": "Three Bonds",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w1-lesson2-three-bonds.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 9,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w1_l2",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w1_l3",
+   "title": "The Writer’s Desk: The Letter in Public",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w1-lesson3-writers-desk.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 9,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w1_l3",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w1_l4",
+   "title": "Who Stands Trial?",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w1-lesson4-who-stands-trial.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 9,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w1_l4",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w2_l1",
+   "title": "The Governor’s Hall",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w2-lesson1-the-governors-hall.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 10,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w2_l1",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w2_l2",
+   "title": "The Leech and His Patient",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w2-lesson2-the-leech.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 10,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w2_l2",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w2_l3",
+   "title": "The Writer’s Desk: The Hearing",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w2-lesson3-writers-desk.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 10,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w2_l3",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w2_l4",
+   "title": "What Is He Owed?",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w2-lesson4-what-is-he-owed.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 10,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w2_l4",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w3_l1",
+   "title": "Another View of Hester",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w3-lesson1-another-view.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 11,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w3_l1",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w3_l2",
+   "title": "The Forest",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w3-lesson2-the-forest.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 11,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w3_l2",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w3_l3",
+   "title": "The Writer’s Desk: The Forest",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w3-lesson3-writers-desk.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 11,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w3_l3",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w3_l4",
+   "title": "The Letter’s Office",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w3-lesson4-the-letters-office.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 11,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w3_l4",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_recitation",
+   "title": "Recitation: A Passage from the Forest",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Recitation: A Passage from the Forest</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">English 1 &middot; The Scarlet Letter &middot; Recitation</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">3 points (completion)</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">About 1 minute</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Record / Upload Media</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Due in Week 3</span></div><span data-ob-end=\"optima-brand-v2\"></span>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">The recitation</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:24px 28px;margin:4px 0 16px 0;\"><div style=\"font-size:21px;color:#1F2A2C;line-height:1.45;overflow-wrap:anywhere;\">Record a reading of one of the three passages below, about one minute long. Prose has no meter; the performance lives in pacing, emphasis, and tone. Reading from the page is permitted.</div></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">What to do</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:19px;vertical-align:top;padding:0 0 13px 0;line-height:1.35;\">1</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;overflow-wrap:anywhere;\"><strong>Choose one passage.</strong> Option A, B, or C below. All three are public domain.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:19px;vertical-align:top;padding:0 0 13px 0;line-height:1.35;\">2</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;overflow-wrap:anywhere;\"><strong>Mark and rehearse.</strong> Read it aloud three times. Mark the words that carry weight and the pauses.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:19px;vertical-align:top;padding:0 0 13px 0;line-height:1.35;\">3</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;overflow-wrap:anywhere;\"><strong>Record and submit.</strong> One take, about a minute. Say your name and your option first.</td></tr></tbody></table>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Choose one passage</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:0 0 12px 0;overflow-wrap:anywhere;\"><strong>Option A:</strong> the lingering in the forest, Chapter XVII (148 words). Narration: a held moment.<br><strong>Option B:</strong> Hester&rsquo;s argument for leaving, Chapter XVII (122 words). Speech: persuasion.<br><strong>Option C:</strong> the sunshine, Chapter XVIII (146 words). Narration: release.</div>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:22px 28px 10px 28px;margin:4px 0 18px 0;\"><div style=\"font-size:12px;color:#0F5560;line-height:1.5;margin:0 0 14px 0;\">OPTION A &middot; THE SCARLET LETTER, CHAPTER XVII (HAWTHORNE, 1850)</div><div style=\"font-size:17px;color:#1F2A2C;line-height:1.85;overflow-wrap:anywhere;\"><p style=\"margin:0 0 12px 0;\">The forest was obscure around them, and creaked with a blast that was passing through it. The boughs were tossing heavily above their heads; while one solemn old tree groaned dolefully to another, as if telling the sad story of the pair that sat beneath, or constrained to forebode evil to come.</p><p style=\"margin:0 0 12px 0;\">And yet they lingered. How dreary looked the forest-track that led backward to the settlement, where Hester Prynne must take up again the burden of her ignominy, and the minister the hollow mockery of his good name! So they lingered an instant longer. No golden light had ever been so precious as the gloom of this dark forest. Here, seen only by his eyes, the scarlet letter need not burn into the bosom of the fallen woman! Here, seen only by her eyes, Arthur Dimmesdale, false to God and man, might be, for one moment, true!</p></div></div><div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:22px 28px 10px 28px;margin:4px 0 18px 0;\"><div style=\"font-size:12px;color:#0F5560;line-height:1.5;margin:0 0 14px 0;\">OPTION B &middot; THE SCARLET LETTER, CHAPTER XVII, HESTER SPEAKING</div><div style=\"font-size:17px;color:#1F2A2C;line-height:1.85;overflow-wrap:anywhere;\"><p style=\"margin:0 0 12px 0;\">Doth the universe lie within the compass of yonder town, which only a little time ago was but a leaf-strewn desert, as lonely as this around us? Whither leads yonder forest-track? Backward to the settlement, thou sayest! Yes; but onward, too. Deeper it goes, and deeper, into the wilderness, less plainly to be seen at every step; until, some few miles hence, the yellow leaves will show no vestige of the white man&#8217;s tread. There thou art free! So brief a journey would bring thee from a world where thou hast been most wretched, to one where thou mayest still be happy! Is there not shade enough in all this boundless forest to hide thy heart from the gaze of Roger Chillingworth?</p></div></div><div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:22px 28px 10px 28px;margin:4px 0 18px 0;\"><div style=\"font-size:12px;color:#0F5560;line-height:1.5;margin:0 0 14px 0;\">OPTION C &middot; THE SCARLET LETTER, CHAPTER XVIII</div><div style=\"font-size:17px;color:#1F2A2C;line-height:1.85;overflow-wrap:anywhere;\"><p style=\"margin:0 0 12px 0;\">Her sex, her youth, and the whole richness of her beauty, came back from what men call the irrevocable past, and clustered themselves, with her maiden hope, and a happiness before unknown, within the magic circle of this hour. And, as if the gloom of the earth and sky had been but the effluence of these two mortal hearts, it vanished with their sorrow. All at once, as with a sudden smile of heaven, forth burst the sunshine, pouring a very flood into the obscure forest, gladdening each green leaf, transmuting the yellow fallen ones to gold, and gleaming adown the gray trunks of the solemn trees. The objects that had made a shadow hitherto, embodied the brightness now. The course of the little brook might be traced by its merry gleam afar into the wood&#8217;s heart of mystery, which had become a mystery of joy.</p></div></div>\n<div style=\"margin:0 0 4px 0;line-height:2.6;\"><a href=\"https://www.gutenberg.org/cache/epub/25344/pg25344-images.html#XVII\" style=\"display:inline-block;background:#0F5560;border-left:6px solid #C8706A;padding:9px 20px;margin:0 10px 0 0;color:#ffffff;font-size:15px;text-decoration:none;\">Chapter XVII (Options A and B) &#8599;</a><a href=\"https://www.gutenberg.org/cache/epub/25344/pg25344-images.html#XVIII\" style=\"display:inline-block;background:#0F5560;border-left:6px solid #C8706A;padding:9px 20px;color:#ffffff;font-size:15px;text-decoration:none;\">Chapter XVIII (Option C) &#8599;</a></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Record it</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:0 0 8px 0;overflow-wrap:anywhere;\">Use either tool; both earn full credit:</div>\n<table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;overflow-wrap:anywhere;\">the <strong>Canvas media recorder</strong> built into this assignment, or</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;overflow-wrap:anywhere;\">a <strong>phone</strong> recording, uploaded to the assignment.</td></tr></tbody></table>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">How this is scored</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:0 0 10px 0;overflow-wrap:anywhere;\">Completion rubric, 3 points.</div>\n<div style=\"overflow-x:auto;\"><table style=\"border-collapse:collapse;width:100%;min-width:0;margin:0;\"><thead><tr><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Point</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Earned when</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">1</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">The full passage is performed (about one minute), read expressively or from memory.</td></tr><tr style=\"background:#F6EEDC;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">2</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">The recording is clear and audible, with deliberate pacing and a tone a listener can name.</td></tr><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">3</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">The recording is submitted to this assignment on time.</td></tr></tbody></table></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;overflow-wrap:anywhere;\">I read one full passage, about a minute long</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;overflow-wrap:anywhere;\">You can hear every word, and the pacing and tone were my choice</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;overflow-wrap:anywhere;\">I said my name and my option first</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;overflow-wrap:anywhere;\">My recording is submitted here</td></tr></tbody></table>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Submit</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:24px 28px;margin:4px 0 16px 0;\"><div style=\"font-size:21px;color:#1F2A2C;line-height:1.45;overflow-wrap:anywhere;\">Submit the recording through this assignment (record in Canvas or upload the file). An uploaded file is named <strong>LastName_FirstName_Recitation6_ELA9</strong>.</div></div>",
+   "points": 3.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "media_recording,online_upload",
+   "rubric": "sl_r_recitation",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "week": 11,
+   "kind": "recitation"
+  },
+  {
+   "id": "sl_a_w4_l1",
+   "title": "The Holiday",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w4-lesson1-the-holiday.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 12,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w4_l1",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w4_l2",
+   "title": "The Revelation",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w4-lesson2-the-revelation.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 12,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w4_l2",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w4_l3",
+   "title": "The Writer’s Desk: Two Places",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w4-lesson3-writers-desk.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 12,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w4_l3",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w4_l4",
+   "title": "The Reader May Choose",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w4-lesson4-the-reader-may-choose.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 12,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w4_l4",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w5_l1",
+   "title": "Three Scaffolds",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w5-lesson1-three-scaffolds.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 13,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w5_l1",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w5_l2",
+   "title": "The Letter Across the Novel",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w5-lesson2-the-letter-across.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 13,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w5_l2",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w5_l3",
+   "title": "The Writer’s Desk: Hawthorne’s Verdict",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w5-lesson3-writers-desk.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 13,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w5_l3",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_w5_l4",
+   "title": "What the Secrets Cost",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/w5-lesson4-what-the-secrets-cost.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 13,
+   "kind": "lesson-assignment",
+   "rubric": "sl_r_w5_l4",
+   "rubric_use_for_grading": true
+  },
+  {
+   "id": "sl_a_proj_l1",
+   "title": "Literary Essay · Build Your Case",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/m6-project1-build-your-case.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 13,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "sl_a_proj_l2",
+   "title": "Literary Essay · Write Your Essay",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/m6-project2-write-your-essay.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe></p><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Turn in</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Upload the PDF you saved at the end of this lesson.</div></td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 13,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "sl_a_project",
+   "title": "The Scarlet Letter Literary Analysis Essay",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">The Scarlet Letter Literary Analysis Essay</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">English 1 &middot; The Scarlet Letter</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">100 points</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Word essay, 900 to 1,200 words</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Project PDF</span></div><span data-ob-end=\"optima-brand-v2\"></span>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Choose one prompt</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:0 0 12px 0;\"><strong>A. The letter.</strong> Hawthorne lets the meaning of the scarlet letter change. What changes it: the community or Hester?</div><div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:0 0 12px 0;\"><strong>B. The minister.</strong> Does Dimmesdale&rsquo;s public confession redeem him, or does it come too late?</div><div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:0 0 8px 0;\"><strong>C. The theme.</strong> What does a community owe the person it judges, and what does a person owe the truth? Argue what the novel answers.</div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">The essay must</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\"><strong>Length:</strong> 900 to 1,200 words, not counting the Works Cited page.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\"><strong>State one arguable thesis</strong> in the introduction.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\"><strong>Quote the novel at least three times,</strong> each introduced and cited by chapter, like this: (Hawthorne, ch. 6).</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\"><strong>Use one researched source</strong> beyond the novel, woven into your argument, cited in the text, and listed in Works Cited.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\"><strong>Include a counterclaim paragraph</strong> with a concession and a rebuttal.</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\"><strong>Use MLA format:</strong> Times New Roman 12 point, double-spaced, last name and page number in the header, a heading block, a title, and a Works Cited page.</td></tr></tbody></table>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Upload</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:24px 28px;margin:4px 0 16px 0;\"><div style=\"font-size:21px;color:#1F2A2C;line-height:1.45;\">Upload two files: your Word essay (.docx) and your project PDF.</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">LastName_FirstName_LiteraryEssay_ELA9_Final</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Typed</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Cite by chapter</span></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">How this is scored</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"overflow-x:auto;\"><table style=\"border-collapse:collapse;width:100%;min-width:640px;margin:0;\"><thead><tr><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Criterion</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Strong</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Developing</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Beginning</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><strong>Thesis and argument</strong><br><span style=\"font-size:12px;color:#5C5648;\">30 points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">The thesis is arguable and specific, and every paragraph advances it. The counterclaim is stated fairly and answered with evidence.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">The thesis is present but general, or some paragraphs drift. The counterclaim is thin or answered without evidence.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">No clear thesis; the essay summarizes the plot. No counterclaim.</td></tr><tr style=\"background:#F6EEDC;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><strong>Textual evidence and quotation</strong><br><span style=\"font-size:12px;color:#5C5648;\">25 points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">At least three well-chosen quotations, accurate, introduced, cited by chapter, and explained.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Quotations are present but dropped in, uncited, or explained only briefly.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Fewer than three quotations, or evidence is inaccurate or missing.</td></tr><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><strong>Researched source and MLA</strong><br><span style=\"font-size:12px;color:#5C5648;\">25 points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">The source is credible, woven into the argument, cited in the text, and correct in Works Cited.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">The source is present but stacked beside the argument, or citations contain errors.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">No source, or the source is unused or uncited.</td></tr><tr style=\"background:#F6EEDC;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><strong>Organization and conventions</strong><br><span style=\"font-size:12px;color:#5C5648;\">20 points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Clear introduction, body, and conclusion; transitions guide the reader; MLA format and length met; nearly error-free.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">The structure is visible but uneven; some format or length issues; some errors.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">The structure is unclear; length or format missing; frequent errors.</td></tr></tbody></table></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Done when</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">My thesis answers my prompt in an arguable sentence</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">I quoted the novel at least three times, each exact and cited by chapter</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">My source is woven into the argument, cited in the text, and in Works Cited</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">My essay is 900 to 1,200 words in MLA format and named LastName_FirstName_LiteraryEssay_ELA9_Final</td></tr><tr><td style=\"width:30px;min-width:30px;color:#0F5560;font-size:21px;vertical-align:top;padding:0 0 13px 0;line-height:1.2;\">&#9744;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 13px 4px;\">My Word essay and my project PDF are both uploaded here</td></tr></tbody></table>",
+   "points": 100.0,
+   "group": "sl_ag_quizzes_projects",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "docx,pdf",
+   "rubric": "sl_r_project",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "week": 13,
+   "kind": "module-project"
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "sl_q_w1",
+   "title": "Week 1 Quiz",
+   "quiz_type": "assignment",
+   "points": 15.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "sl_ag_quizzes_projects",
+   "published": true,
+   "week": 9,
+   "kind": "weekly-quiz",
+   "description": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 1 Quiz</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">English 1 &middot; The Scarlet Letter &middot; Week 1</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">15 points</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">15 questions</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">One attempt</span></div><span data-ob-end=\"optima-brand-v2\"></span>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter I, the narrator says the founders of a new colony soon set aside ground for two things. What are they?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "a church and a school",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a cemetery and a prison",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "a courthouse and a market-place",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a meeting-house and a common",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What grows beside the prison door in Chapter I?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "a wild rose-bush",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "an apple tree planted by the founders",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "an old oak that once shaded the scaffold",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a vine planted by the jailer",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter III, a townsman explains Hester's sentence to the stranger. What is it?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "three hours on the platform of the pillory, then a mark of shame on her bosom for the rest of her life",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "a public whipping, then banishment into the forest",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a year in prison, then the loss of her child to the town",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "three hours on the pillory, then a fine paid to the magistrates",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Standing on the scaffold in Chapter II, Hester sees scenes from her past. Which scene is among them?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "her native village in Old England and her father's decayed house of gray stone",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "her wedding in the Boston meeting-house",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "the voyage across the Atlantic with her husband",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "her first meeting with the governor",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Where does Hester live after her release (Ch. V)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "in a room above the prison, by order of the magistrates",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "in a small thatched cottage on the outskirts of the town, apart from other houses",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "in the governor's household, where she sews for his family",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "in a village a day's walk from Boston",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why does Hester name her daughter Pearl (Ch. VI)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Pearl was her own mother's name.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The child was \"of great price,\" bought with all Hester had.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The minister chose the name at the baptism.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The name hides the child's father's family.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Hester braces herself for \"the stings and venomous stabs of public contumely\" (Ch. II). <em>Contumely</em> means</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "curiosity",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "insulting scorn",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "legal punishment",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "pity",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The narrator calls Pearl an \"emblem and product of sin\" (Ch. VI). Here <em>emblem</em> means</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "a punishment handed down by a court",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "an object or figure that stands for an idea",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "a secret kept from the town",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a mark stitched onto clothing by law",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Hester lives \"of the plainest and most ascetic description\" (Ch. V). An <em>ascetic</em> life is one that</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "is spent in hiding from others",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "denies itself comfort and pleasure",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "is devoted to study and books",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "depends on charity from neighbors",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which word names an act of suffering or self-denial taken on to make up for a wrong?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "iniquity",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "alchemy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "penance",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "pillory",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The women at the prison door want to handle \"such malefactresses as this Hester Prynne\" (Ch. II). A <em>malefactress</em> is a woman who</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "has committed a crime",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "speaks against the magistrates",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "is new to the colony",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "refuses to attend church",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Chillingworth speaks of his \"old studies in alchemy\" (Ch. IV). <em>Alchemy</em> was</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "the study of the stars to foretell events",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "an early science that tried to turn common metals into gold",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "the practice of law in the colonies",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "the art of healing with prayer",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which part of this sentence is the participial phrase? <em>Hester, gathering the infant to her bosom, stepped out into the sunshine.</em></p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Hester stepped out",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "gathering the infant to her bosom",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "into the sunshine",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "out into the sunshine",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence has a dangling modifier?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Clutching the infant, Hester faced the crowd.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Clutching the infant, the crowd watched Hester.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Hester, clutching the infant, faced the crowd.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hester faced the crowd, clutching the infant.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence is punctuated correctly?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The crowd waited in silence; however, Hester would not speak.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The crowd waited in silence, however, Hester would not speak.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The crowd waited in silence; however Hester would not speak.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The crowd waited in silence however; Hester would not speak.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ]
+  },
+  {
+   "id": "sl_q_w2",
+   "title": "Week 2 Quiz",
+   "quiz_type": "assignment",
+   "points": 15.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "sl_ag_quizzes_projects",
+   "published": true,
+   "week": 10,
+   "kind": "weekly-quiz",
+   "description": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 2 Quiz</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">English 1 &middot; The Scarlet Letter &middot; Week 2</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">15 points</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">15 questions</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">One attempt</span></div><span data-ob-end=\"optima-brand-v2\"></span>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter VII, why does Hester go to the Governor’s mansion?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "To ask that the scarlet letter be taken off her gown.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To bring the gloves and to keep her child.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "To ask the Governor’s leave to sail back to England.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To complain to the Governor about the children who threw mud at Pearl.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Asked who made her, what does Pearl tell Mr. Wilson (Ch. VIII)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "That God made her, as the catechism teaches.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That her mother sewed her together out of scarlet velvet.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That she was plucked off the rose-bush by the prison door.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "That she does not know and will not be taught by Mr. Wilson.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does the Governor decide at the end of the hearing (Ch. VIII)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "To leave Pearl with her mother, as long as there is no scandal.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "To take Pearl at once and give her to Mr. Wilson to raise.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To place Pearl in a godly household and let Hester visit her each month.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To keep the matter open until the elders can meet and vote on it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why do the physician and the minister come to live in the same house (Ch. IX)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The minister asks the physician to move in so that the two men can study together.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Governor orders it so that the town can keep watch over the stranger.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The physician buys the house from a widow and invites the minister to live there.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The minister’s friends arrange it so the physician can watch his health.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does the physician do while the minister sleeps in his chair (Ch. X)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "He wakes the minister and demands that he confess his secret at once.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He pushes aside the vestment, then turns away in wild wonder.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He mixes a sleeping draught into the minister’s cup of medicine.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He reads the minister’s private papers and puts them back in place.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XII, the minister cries out from the scaffold at midnight. Where does Hester say she has been?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Gathering herbs in the forest at night to sell to the physician in town",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Sitting up all night with a sick child in a cottage near the shore",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "At Governor Winthrop’s death-bed, taking his measure for a robe",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Walking along the shore with Pearl, who could not sleep that night",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XII, what does the sexton say the great red letter in the sky stands for?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Angel, for Governor Winthrop, who died that night.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Alarm, a warning that war is coming to the colony.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Apostle, for the minister’s sermon the next morning.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Amen, the close of the town’s prayers for the governor.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which word means a sign that something important is about to happen?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "portent",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "vigil",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "caprice",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "expiation",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Chillingworth confronts “the emaciated and white-cheeked minister” (Ch. X). Here <em>emaciated</em> means</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "weak from long hours of prayer",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "angry and quick to quarrel",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "unwilling to speak openly",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "extremely thin from illness",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>Made-up example:</em> Long after the quarrel, she still felt such ______ for her harsh words that she could not sleep.</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "caprice",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "portent",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "remorse",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "antipathy",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The minister draws “the long, deep, and tremulous breath” (Ch. XI) before he speaks. Here <em>tremulous</em> means</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "slow, calm and steady",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "quivering or shaking",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "loud and ringing",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "cold and hard",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>Made-up example:</em> Without a single clue to go on, he knew by ______ that someone was watching him.</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "expiation",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "sagacity",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "observation",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "intuition",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>Made-up example:</em> His lantern swinging at his side, Mr. Wilson walked slowly home. Which part is the absolute phrase?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "His lantern swinging at his side",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Mr. Wilson walked slowly home",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "swinging at his side, Mr. Wilson walked",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "his side, Mr. Wilson walked slowly home",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>Made-up example:</em> Which sentence uses an absolute phrase correctly?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Pearl ran from the hall her tunic flashing red in the sun.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Pearl ran from the hall, her tunic flashing red in the sun.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Pearl ran from the hall, her tunic was flashing red in the sun.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Pearl ran from the hall. Her tunic flashing red in the sun.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>Made-up example:</em> Which sentence is parallel?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The minister fasted, kept vigils, and was studying late into the night.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The minister fasting, kept vigils, and he studied late into the night.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The minister fasted, kept vigils, and studied late into the night.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The minister fasted, vigils were kept, and studied late into the night.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ]
+  },
+  {
+   "id": "sl_q_w3",
+   "title": "Week 3 Quiz",
+   "quiz_type": "assignment",
+   "points": 15.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "sl_ag_quizzes_projects",
+   "published": true,
+   "week": 11,
+   "kind": "weekly-quiz",
+   "description": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 3 Quiz</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">English 1 &middot; The Scarlet Letter &middot; Week 3</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">15 points</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">15 questions</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">One attempt</span></div><span data-ob-end=\"optima-brand-v2\"></span>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XIII, the narrator says that if Pearl had never come to Hester, Hester might have become</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "a teacher of the town’s children and their mothers",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "the wife of one of the magistrates of the colony",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "the founder of a new religious group",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "a healer who traveled from one settlement to the next",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XIV, why does Hester tell Chillingworth she must reveal to the minister who he is?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "She owes the minister a debt of truth.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The magistrates have ordered her to speak out.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Chillingworth has threatened to harm Pearl if she waits.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "She hopes to win back her place in the town by doing it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>After Chillingworth goes away, what does Hester say she feels toward him (Ch. XV)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Pity, because so much good has been wasted in his nature",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Fear, because he has threatened to harm her child",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Gratitude, because of the care he has given the minister",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hatred, though she blames herself for feeling it",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XVI, Pearl asks whether her mother ever met the Black Man, the Devil of Puritan folklore. What does Hester answer?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "That there is no such being anywhere in the forest at all",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That she met him once, and the letter is his mark",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "That only Mistress Hibbins has ever met him in the forest",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That Pearl must never speak of him again to anyone",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XVII, Hester tells the minister that Chillingworth is her husband. How does he first answer her?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "He thanks her for the warning and asks what he should do.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He forgives her at once, before she has finished asking.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He says he half knew it, and cannot forgive her.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He denies it and says the physician has been a loyal friend.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these does Hester do right after she throws the scarlet letter aside (Ch. XVIII)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "She takes off her cap and lets her hair fall.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "She kneels at the brook and washes her hands clean of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "She asks the minister to carry the letter back to town.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "She calls Pearl to come and hold the letter for her.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XIX, after the minister kisses Pearl on the brow, what does she do?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "She takes his hand and walks off with him.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "She asks him for his blessing.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "She kisses the scarlet letter on her mother’s breast instead.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "She runs to the brook and washes the kiss away.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which word means ruling with total power, like a tyrant?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "benign",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "despotic",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "avowed",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "estranged",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>Made-up example:</em> The old sailor kept a carved stone in his pocket, sure that it would protect him at sea. It was his ______.</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "penitence",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "speculation",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "vivacity",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "talisman",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Hester has “such latitude of speculation” that the minister finds her thinking foreign (Ch. XVIII). Here <em>speculation</em> means</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "deep thinking about questions with no sure answer",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "buying and selling goods in the hope of a quick profit",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a strict habit of obeying every rule",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "careful watching of what other people do",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In “the despondency of a broken spirit” (Ch. XVII), <em>despondency</em> means</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "nervous fear of being found out",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "low spirits from losing hope",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "weakness of the body from illness",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a stubborn refusal to speak",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In “what men call the irrevocable past” (Ch. XVIII), <em>irrevocable</em> means</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "openly admitted or declared",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "full of lively high spirits",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "impossible to take back or undo",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "deeply sorry for having done wrong",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>Made-up example:</em> Which sentence is inverted correctly?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Seldom had Pearl stood so still.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Seldom Pearl had stood so still.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Seldom did Pearl stood so still.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Seldom had stood Pearl so still at all.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these questions is a rhetorical question, asked to make a point and not to get an answer?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "“Didst thou ever awake, and find thy mother gone?” (Ch. XVI)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "“What evil have I done the man?” (Ch. XIV)",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "“hast thou found peace?” (Ch. XVII)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "“Dost thou think the child will be glad to know me?” (Ch. XVIII)",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>Made-up example:</em> Which sentence reports Pearl’s question with the right punctuation?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Pearl asked, why does the minister keep his hand over his heart.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "“Why does the minister keep his hand over his heart.” asked Pearl.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Pearl asked why the minister kept his hand over his heart.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Pearl asked why the minister kept his hand over his heart?",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ]
+  },
+  {
+   "id": "sl_q_w4",
+   "title": "Week 4 Quiz",
+   "quiz_type": "assignment",
+   "points": 15.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "sl_ag_quizzes_projects",
+   "published": true,
+   "week": 12,
+   "kind": "weekly-quiz",
+   "description": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 4 Quiz</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">English 1 &middot; The Scarlet Letter &middot; Week 4</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">15 points</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">15 questions</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">One attempt</span></div><span data-ob-end=\"optima-brand-v2\"></span>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XX, why does the minister think it fortunate that the ship leaves when it does?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Chillingworth will have left Boston long before it sails.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hester will have time to sell the last of her needlework.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The deacons will have time to find a new pastor for the church.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He can preach the Election Sermon first.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the narrator, why does the minister feel wicked impulses on the walk home (Ch. XX)?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Mistress Hibbins cast a spell on him in the forest.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He chose what he knew was sin, and it spread.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Chillingworth’s medicine has left him feverish.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The walk has worn him out past all self-control.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XXI, what reason does Hester give Pearl for the holiday mood in the market-place?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A new ruler is beginning to govern.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A ship has come in from England with news for the colony.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The town is welcoming its minister home from a long journey.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Governor has given the people a free feast for the day.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XXI, why can Hester and the shipmaster talk without being overheard?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The music of the procession is too loud for anyone to hear them.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They meet inside the ship’s cabin down at the wharf.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "No one steps into the open space around her.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The beadle keeps the crowd back from the two of them.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XXII, Pearl asks whether the man in the procession is the same minister who kissed her by the brook. How does Hester answer?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "She hushes her, since the forest is not talked of here.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "She says it was a different minister who only looks like him.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "She promises that he will greet them kindly after the sermon.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "She says the minister did not see them in the crowd today.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XXIII, the minister asks whether this is better than what they dreamed of in the forest. How does Hester answer?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "She says yes, because the whole town will forgive them now.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "She says yes, because Pearl will at last be safe from Chillingworth.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "She says no, because he should have spoken seven years sooner.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "She says she does not know, and speaks of dying.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XXIV, what does Chillingworth’s will do?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It leaves everything to Hester, as his lawful wife.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It gives his books and herbs to the town.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It leaves property here and in England to Pearl.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It gives his whole fortune to the church.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which word means complete honesty and uprightness?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "obeisance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "probity",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "preternatural",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "conjectural",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>Made-up example:</em> As the king passed, each courtier made a deep ______.</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "obeisance",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "consternation",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "probity",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "fidelity",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In “it was the venerable John Wilson” (Ch. XXIII), <em>venerable</em> means</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "old and ready to retire from public life",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "deserving respect for age and character",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "dressed in fine, formal clothes",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "quick to anger and slow to forgive",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>To <em>repudiate</em> a rumor is to</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "prove it with careful evidence",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "pass it on to everyone you know",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "guess at where it began",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "reject it as untrue",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>Made-up example:</em> The old dog’s ______ to his master never wavered, even in the worst winter.</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "consternation",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "probity",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "fidelity",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "obeisance",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>Made-up example:</em> Which sentence is built on antithesis?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The town called him a saint; he called himself a sinner.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The town called him a saint, a scholar, and a leader.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The town called him a saint because he preached so well.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The town called him a saint, and he agreed with them for years.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>Made-up example:</em> Which sentence is a chiasmus?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Hester left the town, and Pearl left it too.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hester left the town; the town never left her.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Hester left the town and never looked back.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hester left the town; years later she came home.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>Made-up example:</em> Which sentence about Mistress Hibbins uses precise words the text can prove?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Mistress Hibbins was a crazy old witch who loved to blab to anyone.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Mistress Hibbins was a nosy gossip who loved to stir up trouble.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Mistress Hibbins said she knew the minister had visited the forest.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Mistress Hibbins was a wicked old hag who wanted to see him ruined at last.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ]
+  },
+  {
+   "id": "sl_q_w5",
+   "title": "Week 5 Quiz",
+   "quiz_type": "assignment",
+   "points": 15.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": true,
+   "show_correct_answers": false,
+   "group": "sl_ag_quizzes_projects",
+   "published": true,
+   "week": 13,
+   "kind": "weekly-quiz",
+   "description": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Week 5 Quiz</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">English 1 &middot; The Scarlet Letter &middot; Week 5</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">15 points</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">15 questions</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">One attempt</span></div><span data-ob-end=\"optima-brand-v2\"></span>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XII, who looks out from a window of the Governor’s house when the minister cries out?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The Governor and his sister",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Mr. Wilson, from his study at the end of the street",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hester, from her cottage on the edge of the shore",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The physician, from a room in the minister’s house",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XII, the minister bursts into laughter on the scaffold. What is he picturing?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Chillingworth failing to find him at home",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Pearl and Hester climbing up beside him",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Mr. Wilson climbing the steps with his lantern",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The town finding him there at dawn",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XIII, which group is slower to soften toward Hester?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The poor, whom she feeds and nurses in their homes",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The children, who once mocked her in the street",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The rulers and the learned men",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The women who watched her stand on the platform",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XXIII, an older minister steps forward to steady the minister as he walks. What does the minister do?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "He leans on the old man’s arm and thanks him warmly.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He pushes the old man’s arm away.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He asks the old man to walk ahead of him instead.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He stops and waits until the old man goes away.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XXIV, what do some of the spectators deny?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "That the minister preached the sermon that day at all",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That Hester stood on the platform beside the minister",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That the physician was in the crowd at the end of it",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That a mark was there on his breast",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XXIV, why does Hester come back to New England?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It is her own choice: her penitence is here.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The magistrates order her to return to the town and wear it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Pearl sends for her from across the sea.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "She has heard that her old cottage is about to be sold.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Chapter XXIII, how does the crowd explain the sad undertone of the sermon?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "They suspect a secret sin in his past.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They think he is leaving for England.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They think he will soon die.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They fear the colony faces ruin.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which word means deep public disgrace, a bad name known to all?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "efficacy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "infamy",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "pathos",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "eminence",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The night sky is covered “from zenith to horizon” (Ch. XII). Here <em>zenith</em> means</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "the point straight overhead",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "the farthest edge of the sky",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "the place where the sun rises",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "the darkest part of the clouds",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A visitor to the grave may “perplex himself with the purport” of its carving (Ch. XXIV). Here <em>purport</em> means</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "the name of the person buried beneath",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "the meaning that it carries",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "the exact date when it was carved",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "the money it cost to carve",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>Made-up example:</em> The invention of the printing press began a new ______ in Europe.</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "pathos",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "stigma",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "epoch",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "efficacy",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In “the men of civil eminence” (Ch. XXII), <em>eminence</em> means</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "a large fortune",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "long experience in office",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "a loud voice in the council",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "high rank",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence quotes Chapter XIII correctly?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Hawthorne writes that she “laid her finger on the scarlet letter” (Ch. XIII).",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Hawthorne writes that: she “laid her finger on the scarlet letter” (Ch. XIII).",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hawthorne writes that she “laid her finger on the scarlet letter”. (Ch. XIII)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hawthorne writes that she “laid her finger on the scarlet letter” Ch. XIII.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Hawthorne writes, “The rulers, and the wise and learned men of the community, were longer in acknowledging the influence of Hester’s good qualities than the people” (Ch. XIII). Which version cuts the words after the first comma, up to the next comma, and marks the cut correctly?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "“The rulers were longer in acknowledging the influence of Hester’s good qualities than the people” (Ch. XIII).",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "“The rulers ... were longer in acknowledging the influence of Hester’s good qualities than the people” (Ch. XIII).",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "“The rulers (and the learned men) were longer in acknowledging the influence of Hester’s good qualities than the people” (Ch. XIII).",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "“The rulers, and the wise and learned men, were longer in acknowledging the influence of Hester’s good qualities than the people” (Ch. XIII).",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p><em>Made-up example:</em> Which sentence grants a point and answers it with the right punctuation?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It is true that Hester kept the letter’s meaning from Pearl, however she never once hid the letter itself.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Although Hester kept the letter’s meaning from Pearl, but she never once hid the letter itself.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It is true that Hester kept the letter’s meaning from Pearl; however, she never hid the letter.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "While Hester kept the letter’s meaning from Pearl; she never once hid the letter itself.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ]
+  }
+ ],
+ "discussions": [
+  {
+   "id": "sl_d_w3",
+   "title": "Should Hester and the Minister Flee?",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Should Hester and the Minister Flee?</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">English 1 &middot; The Scarlet Letter &middot; Week 3</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">10 points</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">1 post</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">1 reply</span></div><span data-ob-end=\"optima-brand-v2\"></span><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">The question</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:0 0 8px 0;\">In Chapter XVII Hester asks, “Is the world, then, so narrow?” and urges the minister to leave by the forest-track or by sea. At first he answers, “I dare not quit my post” (Ch. XVII). In Chapter XVIII the narrator weighs the choice: “between fleeing as an avowed criminal, and remaining as a hypocrite, conscience might find it hard to strike the balance” (Ch. XVIII). At the end of Chapter XIX the plan still stands, and the scarlet letter is back on Hester’s breast.</div><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Your post (5–7 sentences)</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><table style=\"border-collapse:collapse;width:100%;margin:8px 0 0 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">1</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Take a position: should they flee, should the minister stay and tell the truth, or is neither choice enough?</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">2</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Quote one moment from Chapters XVI–XIX exactly, say who speaks or acts, and cite it like this: (Ch. XVII).</div></td></tr><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:30px;vertical-align:top;padding:0 0 16px 0;line-height:1.1;\">3</td><td style=\"vertical-align:top;padding:4px 0 16px 4px;\"><div style=\"font-size:16px;color:#1F2A2C;line-height:1.55;\">Explain how that moment supports your position, and what they owe: the truth, the town, or Pearl.</div></td></tr></tbody></table><div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Your reply (3–4 sentences)</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div><div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:0 0 8px 0;\">Answer a classmate who took a different position or used different evidence. Add a reason, ask a question, or point to a moment they did not use.</div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "sl_ag_assignments",
+   "rubric": "sl_r_forum",
+   "rubric_use_for_grading": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": true,
+   "week": 11,
+   "kind": "forum"
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "sl_m_w1",
+   "title": "The Scarlet Letter: Week 1",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "sl_a_w1_l1",
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_w1_l2",
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_w1_l3",
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_w1_l4",
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "sl_q_w1",
+     "week": 9
+    }
+   ]
+  },
+  {
+   "id": "sl_m_w2",
+   "title": "The Scarlet Letter: Week 2",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "sl_a_w2_l1",
+     "week": 10,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_w2_l2",
+     "week": 10,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_w2_l3",
+     "week": 10,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_w2_l4",
+     "week": 10,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "sl_q_w2",
+     "week": 10
+    }
+   ]
+  },
+  {
+   "id": "sl_m_w3",
+   "title": "The Scarlet Letter: Week 3",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "sl_a_w3_l1",
+     "week": 11,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_w3_l2",
+     "week": 11,
+     "completion": "must_submit"
+    },
+    {
+     "type": "discussion",
+     "ref": "sl_d_w3",
+     "week": 11
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_recitation",
+     "week": 11,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_w3_l3",
+     "week": 11,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_w3_l4",
+     "week": 11,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "sl_q_w3",
+     "week": 11
+    }
+   ]
+  },
+  {
+   "id": "sl_m_w4",
+   "title": "The Scarlet Letter: Week 4",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "sl_a_w4_l1",
+     "week": 12,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_w4_l2",
+     "week": 12,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_w4_l3",
+     "week": 12,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_w4_l4",
+     "week": 12,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "sl_q_w4",
+     "week": 12
+    }
+   ]
+  },
+  {
+   "id": "sl_m_w5",
+   "title": "The Scarlet Letter: Week 5",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "sl_a_w5_l1",
+     "week": 13,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_w5_l2",
+     "week": 13,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_w5_l3",
+     "week": 13,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_w5_l4",
+     "week": 13,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "sl_q_w5",
+     "week": 13
+    }
+   ]
+  },
+  {
+   "id": "sl_m_project",
+   "title": "The Scarlet Letter: Project",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "sl_a_proj_l1",
+     "week": 13,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_proj_l2",
+     "week": 13,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "sl_a_project",
+     "week": 13,
+     "completion": "must_submit"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Built by _src/canvas/make_kit_spec.py from OneDrive 9th Grade ELA 03_Development 'Module 6 - The Scarlet Letter_PILOT_Week1_Integrated' (canvas-native/*.md, _src/wN/week.json) and 'Projects_PILOT_Integrated' (canvas-native/m6-recitation, module-6-project; _src/p6/project.json). Lessons are hosted at https://optimaondemand.github.io/hs-english-1/module-6-the-scarlet-letter-sparkle/ . Every lesson (20, plus the 2 project lessons) is its own 10-pt assignment (PDF upload) wrapping the GitHub iframe; 5 weekly quizzes (15), the Week 3 forum (10), the recitation (3), the 100-pt essay. Sparkle = the integrated-week redesign of Module 6; the original Module 6 ships in 1001310-s2."
+ }
+}
