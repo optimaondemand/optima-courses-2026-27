@@ -1,0 +1,2124 @@
+{
+ "course": {
+  "title": "08 MJ Civics 2106010",
+  "code": "2106010",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag652",
+   "title": "Assignments",
+   "weight": 0,
+   "canvas_id": 652
+  },
+  {
+   "id": "ag745",
+   "title": "Async Homework",
+   "weight": 60.0,
+   "canvas_id": 745
+  },
+  {
+   "id": "ag746",
+   "title": "Projects & Milestones",
+   "weight": 30.0,
+   "canvas_id": 746
+  },
+  {
+   "id": "ag747",
+   "title": "Sync Activities",
+   "weight": 10.0,
+   "canvas_id": 747
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r1344",
+   "title": "Primary Source Report Rubric (3)",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the source",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Accurately states whom Bush names as the enemy and whom he does not, with an accurate quotation",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Mostly accurate with some gaps",
+       "points": 3.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Vague or partly wrong",
+       "points": 1.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Not shown",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Weighs safety against liberty with one reason on each side and compares the speech with the internment using specific evidence from the lesson",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Reasons given, evidence general",
+       "points": 3.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Assertions without reasons",
+       "points": 1.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Not shown",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Organized in the four parts, quotation short and accurate",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Mostly clear, some loose wording",
+       "points": 3.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Hard to follow",
+       "points": 1.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Not shown",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Names a real limit of the source and a place to look",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Names a limit, vague",
+       "points": 3.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Limit is not about the source",
+       "points": 1.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Not shown",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_module-8-map-a-republic-tested",
+   "title": "Map: A Republic Tested",
+   "slug": "module-8-map-a-republic-tested",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>MODULE MAP</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">A Republic Tested</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>How this module works</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Work through the items in order, top to bottom. Read each lesson and primary source, then take the quiz that follows it. Most sets of items close with a discussion. Begin with the Intro and finish with the Outro.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>By the end of this module you will be able to:</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">explain why the Weimar Republic was weak, and how Hitler used the republic’s own rules to end it; describe how the Nazi government took away German Jews’ citizenship and carried out the Holocaust; describe the attacks of September 11 and the steps the nation took in response; explain how safety and liberty can pull against each other, using Korematsu v. United States as an earlier test.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Start here</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\"><a href=\"{{quiz:q5383}}\" style=\"color:#233840; text-decoration:underline;\">Intro: A Republic Tested</a> (short survey, no wrong answers)</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 1</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\"><strong>Topics:</strong> From Weimar to the Holocaust; September 11 and the American Response</p><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#233840; color:#FFFFFF; font-size:14px;\">What it is</th><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#233840; color:#FFFFFF; font-size:14px; width:150px;\">What to do</th></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{page:p_8-dot-1-lesson-from-weimar-to-the-holocaust}}\" style=\"color:#233840; text-decoration:underline;\">Lesson: From Weimar to the Holocaust</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{quiz:q5384}}\" style=\"color:#233840; text-decoration:underline;\">Reading Quiz: From Weimar to the Holocaust</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#F2F4F5;\">Quiz</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{page:p_8-dot-3-primary-source-the-nuremberg-laws-1935}}\" style=\"color:#233840; text-decoration:underline;\">Primary Source: The Nuremberg Laws (1935)</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{quiz:q5385}}\" style=\"color:#233840; text-decoration:underline;\">Critical Questions: The Nuremberg Laws</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#F2F4F5;\">Quiz</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{page:p_8-dot-5-lesson-september-11-and-the-american-response}}\" style=\"color:#233840; text-decoration:underline;\">Lesson: September 11 and the American Response</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{page:p_8-dot-6-primary-source-bush-address-to-a-joint-session-of-congress-2001}}\" style=\"color:#233840; text-decoration:underline;\">Primary Source: Bush, Address to a Joint Session of Congress (2001)</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{assignment:a14216}}\" style=\"color:#233840; text-decoration:underline;\">Primary Source Report: Bush, Address to a Joint Session of Congress (2001)</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#FFF4D6;\">Submit report</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{quiz:q5386}}\" style=\"color:#233840; text-decoration:underline;\">Critical Questions: Bush, Address to a Joint Session of Congress</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#F2F4F5;\">Quiz</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{discussion:d1099}}\" style=\"color:#233840; text-decoration:underline;\">Discussion: Could Weimar Have Been Saved?</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#EBEBF2;\">Discussion</td></tr></tbody></table></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 2</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#233840; color:#FFFFFF; font-size:14px;\">What it is</th><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#233840; color:#FFFFFF; font-size:14px; width:150px;\">What to do</th></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{quiz:q5428}}\" style=\"color:#233840; text-decoration:underline;\">Quarter 3 Exam: The Republic’s Upkeep</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#FDE7E7;\">Exam</td></tr></tbody></table></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Finish here</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\"><a href=\"{{quiz:q5387}}\" style=\"color:#233840; text-decoration:underline;\">Outro: A Republic Tested</a> (reflection survey: revisit the module's big question, rate your confidence, and name what is still unclear)</p></div></div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_8-dot-1-lesson-from-weimar-to-the-holocaust",
+   "title": "Lesson: From Weimar to the Holocaust",
+   "slug": "8-dot-1-lesson-from-weimar-to-the-holocaust",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: From Weimar to the Holocaust</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-27/lesson-27-1.html\" width=\"100%\" height=\"2600\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-27/lesson-27-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_8-dot-3-primary-source-the-nuremberg-laws-1935",
+   "title": "Primary Source: The Nuremberg Laws (1935)",
+   "slug": "8-dot-3-primary-source-the-nuremberg-laws-1935",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: The Nuremberg Laws (1935)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-27/primary-source-27-1.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-27/primary-source-27-1.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_8-dot-5-lesson-september-11-and-the-american-response",
+   "title": "Lesson: September 11 and the American Response",
+   "slug": "8-dot-5-lesson-september-11-and-the-american-response",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: September 11 and the American Response</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-27/lesson-27-2.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-27/lesson-27-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_8-dot-6-primary-source-bush-address-to-a-joint-session-of-congress-2001",
+   "title": "Primary Source: Bush, Address to a Joint Session of Congress (2001)",
+   "slug": "8-dot-6-primary-source-bush-address-to-a-joint-session-of-congress-2001",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Bush, Address to a Joint Session of Congress (2001)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-27/primary-source-27-2.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-27/primary-source-27-2.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a14216",
+   "title": "Primary Source Report: Bush, Address to a Joint Session of Congress (2001)",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>PRIMARY SOURCE REPORT</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Report: Bush, Address to a Joint Session of Congress (2001)</div><div style=\"font-size:15px; color:#F6C44A;\">20 points · 300 to 450 words · one turn-in</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>What to do</strong></div><div style=\"display:flex; align-items:flex-start; gap:12px; margin-bottom:12px;\"><div style=\"min-width:28px; height:28px; border-radius:50%; background:#233840; color:#F6C44A; font-size:14px; text-align:center; line-height:28px; flex-shrink:0;\"><strong>1</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.6;\">Open the lesson <em>September 11 and the American Response</em> and the primary source <em>Bush, Address to a Joint Session of Congress (2001)</em>, and download <strong>My Notebook</strong> (the button at the end of the page), or open the page to see your saved answers.</div></div><div style=\"display:flex; align-items:flex-start; gap:12px; margin-bottom:12px;\"><div style=\"min-width:28px; height:28px; border-radius:50%; background:#233840; color:#F6C44A; font-size:14px; text-align:center; line-height:28px; flex-shrink:0;\"><strong>2</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.6;\">Select <strong>Start Assignment</strong>. Type your report in the text box, or upload a file.</div></div><div style=\"display:flex; align-items:flex-start; gap:12px; margin-bottom:12px;\"><div style=\"min-width:28px; height:28px; border-radius:50%; background:#233840; color:#F6C44A; font-size:14px; text-align:center; line-height:28px; flex-shrink:0;\"><strong>3</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.6;\">Write the four parts below in order, with the part name at the start of each.</div></div><div style=\"display:flex; align-items:flex-start; gap:12px; margin-bottom:12px;\"><div style=\"min-width:28px; height:28px; border-radius:50%; background:#233840; color:#F6C44A; font-size:14px; text-align:center; line-height:28px; flex-shrink:0;\"><strong>4</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.6;\">Read the rubric at the bottom. Check your report against it, then submit.</div></div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">You have read part of President Bush’s address to Congress and studied how the nation answered the attacks of September 11. Write a report of 300 to 450 words. Use your own words except where you quote.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 1 · What he says</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">In two or three sentences, say whom Bush names as the enemy and whom he says is not the enemy. Quote one short phrase from the speech.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 2 · Safety and liberty</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Use the lesson to name one action the nation took after the attacks that gave the government more power, and explain one reason a citizen might worry about it and one reason a citizen might support it.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 3 · An earlier test</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Compare Bush’s words about how Americans should treat one another with what happened to Japanese Americans in 1942. What does the comparison show about the difference between what a leader says and what a nation does?</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 4 · What this source cannot tell you</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Name one question about how Americans actually treated one another after the speech that the text alone cannot answer, and say where you might look for the answer.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#FCF2DB; font-size:14px; width:22%;\">Understanding of the source<br><span style=\"color:#A97218;\">5 pts</span></th><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>5 pts</strong><br>Full<br><span style=\"color:#5C5847;\">Accurately states whom Bush names as the enemy and whom he does not, with an accurate quotation</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3 pts</strong><br>Partial<br><span style=\"color:#5C5847;\">Mostly accurate with some gaps</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>1 pt</strong><br>Thin<br><span style=\"color:#5C5847;\">Vague or partly wrong</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>0 pts</strong><br>Missing<br><span style=\"color:#5C5847;\">Not shown</span></td></tr><tr><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#FCF2DB; font-size:14px; width:22%;\">Quality of reasoning<br><span style=\"color:#A97218;\">5 pts</span></th><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>5 pts</strong><br>Full<br><span style=\"color:#5C5847;\">Weighs safety against liberty with one reason on each side and compares the speech with the internment using specific evidence from the lesson</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3 pts</strong><br>Partial<br><span style=\"color:#5C5847;\">Reasons given, evidence general</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>1 pt</strong><br>Thin<br><span style=\"color:#5C5847;\">Assertions without reasons</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>0 pts</strong><br>Missing<br><span style=\"color:#5C5847;\">Not shown</span></td></tr><tr><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#FCF2DB; font-size:14px; width:22%;\">Clarity and precision<br><span style=\"color:#A97218;\">5 pts</span></th><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>5 pts</strong><br>Full<br><span style=\"color:#5C5847;\">Organized in the four parts, quotation short and accurate</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3 pts</strong><br>Partial<br><span style=\"color:#5C5847;\">Mostly clear, some loose wording</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>1 pt</strong><br>Thin<br><span style=\"color:#5C5847;\">Hard to follow</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>0 pts</strong><br>Missing<br><span style=\"color:#5C5847;\">Not shown</span></td></tr><tr><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#FCF2DB; font-size:14px; width:22%;\">Intellectual honesty<br><span style=\"color:#A97218;\">5 pts</span></th><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>5 pts</strong><br>Full<br><span style=\"color:#5C5847;\">Names a real limit of the source and a place to look</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3 pts</strong><br>Partial<br><span style=\"color:#5C5847;\">Names a limit, vague</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>1 pt</strong><br>Thin<br><span style=\"color:#5C5847;\">Limit is not about the source</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>0 pts</strong><br>Missing<br><span style=\"color:#5C5847;\">Not shown</span></td></tr></tbody></table></div></div>",
+   "points": 20.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "group": "ag746",
+   "rubric": "r1344",
+   "rubric_use_for_grading": true,
+   "published": false,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q5383",
+   "title": "Intro: A Republic Tested",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>MODULE INTRO · SURVEY</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Intro: A Republic Tested</div><div style=\"font-size:15px; color:#F6C44A;\">4 questions · survey · one attempt</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">In this module you will study a republic that was given away from the inside, and a republic that was struck from the outside. You will ask how a free people can lose its freedoms one step at a time, and how it can defend itself without giving up what it is defending. These questions come first so that you can see how your answers change by the end.</p></div><div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>By the end of this module you will be able to:</strong></div><ul style=\"margin:0; padding-left:22px;\"><li style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 6px;\">explain why the Weimar Republic was weak, and how Hitler used the republic’s own rules to end it;</li><li style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 6px;\">describe how the Nazi government took away German Jews’ citizenship and carried out the Holocaust;</li><li style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 6px;\">describe the attacks of September 11 and the steps the nation took in response;</li><li style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 6px;\">explain how safety and liberty can pull against each other, using Korematsu v. United States as an earlier test.</li></ul></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": false,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question, first answer. \"What does it take for a republic to survive a crisis, and what does it ask of its citizens?\" Answer in three or four sentences. There is no wrong answer yet. We will ask again at the end.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Objectives. \"I have read the module goals above.\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I have read them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I have a question about them. (Say what in the box below.)",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Question about the goals. If you chose the second answer above, what is your question? Otherwise write \"none.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Group work. \"Some assessments in this module may be done alone or with a group. If you choose a group, you will sign the Group Covenant first. Which would you like?\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I plan to work alone.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I would like to work in a group.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "I am not sure yet.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4
+  },
+  {
+   "id": "q5384",
+   "title": "Reading Quiz: From Weimar to the Holocaust",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: From Weimar to the Holocaust</div><div style=\"font-size:15px; color:#F6C44A;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Five questions on how the Weimar Republic ended and how the Nazi government carried out the Holocaust.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>What made many Germans lose trust in the Weimar Republic?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It had no constitution.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It never held an election.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Many blamed it for the defeat and the Treaty of Versailles, and then hyperinflation and the Depression left millions without savings or work.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Kaiser returned to power.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Frightened people looked for someone to blame, and for someone to save them.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How did Hitler become chancellor?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "President Hindenburg named him in January 1933 after conservative politicians urged it, thinking they could use the Nazis and keep control.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Nazis won a majority of the votes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The army seized the parliament building.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Every German voted for him directly.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The Nazis did not have a majority, and their vote had just slipped. It did not have to happen.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did the Enabling Act do?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It gave voters the right to remove the chancellor.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It let the chancellor and his cabinet make laws without the parliament for four years.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It ended the Treaty of Versailles.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It made Hindenburg emperor.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>It passed with two thirds of the vote, because many who would have voted no were in jail or hiding.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did the Nuremberg Laws do to German Jews?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They gave Jews full citizenship.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They required Jews to serve in the army.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They moved Jews to a separate country.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They made Jews subjects with no political rights, because only people of “German blood” could be citizens.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>A government took the power to decide who its people are and used it to strip a whole group of citizenship.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What principle did the Nuremberg trials set down?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Following orders is no excuse for committing crimes against humanity.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Only soldiers can be tried for war crimes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Trials of this kind must be held in secret.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only the winners of a war can hold trials.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The judges heard the evidence in open court, the opposite of how the Nazi state had worked.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5385",
+   "title": "Critical Questions: The Nuremberg Laws",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: The Nuremberg Laws</div><div style=\"font-size:15px; color:#F6C44A;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Two questions on how a government used law to take away citizenship. Read the source first.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Article 2 says that only a subject “of German or kindred blood” can be a citizen. What does this rule do?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It makes citizenship depend on ancestry, not only on what a person does.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It gives citizenship to everyone born in Germany.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It requires every citizen to take an oath.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It lets the parliament vote on each person.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>A person cannot change his ancestors, so no good conduct could earn citizenship.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "true_false",
+     "text": "<p>Under the text, a subject of the State who is not a citizen still has full political rights.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "False",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The text says that “only the citizen of the Reich enjoys full political rights.”</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5386",
+   "title": "Critical Questions: Bush, Address to a Joint Session of Congress",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Bush, Address to a Joint Session of Congress</div><div style=\"font-size:15px; color:#F6C44A;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Two questions on what the President said nine days after the attacks. Read the source first.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_answers",
+     "text": "<p>Which two statements does Bush make about Muslim and Arab Americans and friends?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "“The enemy of America is not our many Muslim friends.”",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "“No one should be singled out for unfair treatment or unkind words because of their ethnic background or religious faith.”",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Muslim Americans should be watched more closely than others.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Every government in the Arab world is an enemy of America.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Compare these words with the internment of Japanese Americans in the lesson.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Bush says that “our first responsibility is to live by” America’s principles. What does he mean?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Americans should avoid every fight.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Principles matter less than safety.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only the government has to follow the principles.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Even in a fight, Americans must follow their own values, such as fair treatment of all.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The question of how far a free republic should go to keep itself safe is the one the lesson asks.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5428",
+   "title": "Quarter 3 Exam: The Republic’s Upkeep",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#14254F; border-bottom:4px solid #C7922C; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>QUARTER 3 · EXAM</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Quarter 3 Exam: The Republic’s Upkeep</div><div style=\"font-size:15px; color:#F2C14E;\">40 questions · 40 points · 1 attempt</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-top:4px solid #14254F; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#14254F; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Forty multiple-choice questions on this quarter’s work: citizens and the vote, the watchful citizen, the republic at home, money and markets, and how a republic is tested. Work alone and without notes. You have one attempt.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 1</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">What did the 14th Amendment say about who is a citizen?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. Only free people of European ancestry may become citizens of the United States, whether by birth or by oath.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. A person is a citizen only if the state where he or she lives has first voted to grant citizenship.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. Anyone born or naturalized in the United States and under its laws is a citizen, whatever the person’s race.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. Only children of citizens count, so immigrants and their children must wait for Congress to act.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 2</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Wong Kim Ark was born in San Francisco to Chinese parents, and officials refused to let him come home from a trip abroad. What did the Supreme Court decide?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. He was not a citizen, because the law barred his parents from becoming citizens themselves.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. His birth on American soil made him a citizen, even though his parents could not be naturalized.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. He could return only if Congress passed a special law that admitted him by name to the country.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. He was a citizen only if he took an oath in court after reaching the age of twenty-one.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 3</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Which of these is a responsibility that a free citizen chooses, rather than an obligation the law requires?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. Paying income taxes each year.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. Serving on a jury when summoned.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. Obeying the traffic laws of the state.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. Volunteering to help in the community.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 4</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Why did Washington say that a free people needs virtue?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. A virtuous people can run a government without paying any taxes to support its courts or army.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. Laws can force a duty but cannot make a person care, and a people without self-control will need a strong ruler.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. Virtue replaces elections, so a people who have it need not choose their own leaders by vote.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. A people with enough virtue needs no written laws, since each person will always do what is right.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 5</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">People born in American Samoa are U.S. nationals but not automatically citizens. What does this show?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. The 14th Amendment was repealed, and Congress now grants citizenship only through a yearly lottery.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. Birth in any territory of the United States always makes a person a full citizen at once.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. Citizenship is set by Congress and the courts, and it can differ for people in territories.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. Each territory’s governor decides on his own who counts as a citizen of the United States.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 6</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Which steps does Article V require to amend the Constitution?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. A majority of Congress proposes the amendment, and the President signs it into law.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. A majority of the states propose the amendment, and the Supreme Court gives its approval.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. The President proposes the amendment, and two thirds of the Senate gives its consent.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. Two thirds of Congress propose the amendment, and three fourths of the states ratify it.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 7</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">After the 15th Amendment was ratified, how did Southern states work around it?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. They passed state laws that openly repealed the 15th Amendment within their own borders.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. They used poll taxes and literacy tests that did not name race but were applied unfairly.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. They asked the Supreme Court to declare the amendment void soon after it was ratified.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. They stopped holding elections and let the governors name every officeholder.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 8</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Why did the writers of the Declaration of Sentiments copy the form of the Declaration of Independence?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. To ask the British king to take the American colonies back into the empire.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. To claim that women alone should hold the offices of the national government.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. To show that the American promise of liberty was meant for women too.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. To win a lawsuit that was then pending before the Supreme Court.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 9</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">What happened in the Tennessee House in August 1920?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. The House rejected the 19th Amendment by a single vote, and the amendment then failed for a decade.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. A young member changed his vote to yes, and Tennessee ratified the 19th Amendment by 49 to 47.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. The Governor vetoed the 19th Amendment, and the House could not muster votes to override him.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. The House passed the 15th Amendment after a long debate over the vote for women.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 10</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Under the Elections Clause, who mainly decides how elections for Congress are run?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. The states, though Congress may change the rules.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. The President, though the Senate may change the rules.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. The Supreme Court, though the states may change the rules.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. The Electoral College, though the House may change the rules.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 11</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">The House has been fixed at 435 seats since 1929. What may happen to a state whose population grows more slowly than the nation’s?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. It may lose seats after a census, since a seat gained by one state must be lost by another.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. It gains seats after a census, because the House must grow to match the nation’s population.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. It keeps the same seats forever, since the Constitution fixes each state’s number of seats.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. It must hold a special election, since every seat in the House is then up for a new vote.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 12</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Which problem in the election of 1800 did the 12th Amendment fix?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. Electors had no separate vote for Vice President, so two candidates of one party could tie.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. Electors were chosen by the Senate, so the people had no say in who the electors would be.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. The President was elected for life, so no election could ever change who held the office.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. Only the House could count the electoral votes, so a tie could never be settled at all.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 13</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Why did Hamilton urge fellow Federalists to choose Jefferson over Burr in 1801?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. He had been promised a high office by Jefferson if the House voted for him on a certain ballot.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. He wanted Burr to take power as a strong ruler, since Burr shared his views on the economy.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. He hoped the House would fail to choose, so that the Federalists could name a new President by law.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. He disliked Jefferson but distrusted Burr more, and judged Jefferson a man of principle.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 14</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Why does the lesson stress that power passed from one party to another in 1800 without soldiers?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. It proved that the Electoral College is a perfect system that never needs repair or change.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. It showed that John Adams had really won the election, though the House gave it to Jefferson.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. It showed that a republic can survive a bitter election when the losers accept the result.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. It ended political parties in America for a generation, because both sides then agreed on policy.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 15</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Why was the jury’s verdict in the Zenger trial a surprise?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. Under the old rule, the jury was only to decide whether Zenger printed the words, and he had.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. Zenger had refused to attend his own trial, and the jury had to decide the case without him.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. The governor had chosen the jurors himself, and everyone expected them to side with him.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. The judge had told the jury that the printed words were true and that Zenger must go free.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 16</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Which statement is true of the burden of proof in a criminal trial?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. The government must prove guilt beyond a reasonable doubt, and the accused need not prove innocence.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. The accused must prove his or her innocence to the jury beyond a reasonable doubt at every trial.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. The judge alone decides what must be proved, and the jury only repeats the judge’s conclusion.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. The jury must gather the evidence itself, since neither side may bring any witnesses to court.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 17</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">How was the Sedition Act of 1798 mostly used?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. Against foreign soldiers who had landed on the coast during the undeclared war with France.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. Against Federalist printers who had published attacks on the new Vice President.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. Against Republican editors and writers who criticized the Federalist government.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. Against citizens who had refused to pay the new taxes that the Federalists had passed.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 18</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Which set of questions best helps a citizen judge a source for bias?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. How long is it, how old is it, and in what city was it printed?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. Who made it, who was it made for, and what does it want me to do?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. How many people have read it, how much did it cost, and who owns the press?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. Is it signed, is it dated, and is it printed in more than one color of ink?</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 19</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">A person wins a court judgment in Georgia and wants to collect in Florida. Which rule in Article IV makes Florida respect the judgment?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. Privileges and immunities.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. The Supremacy Clause.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. Judicial review.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. Full faith and credit.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 20</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Madison wrote that the powers of the national government are “few and defined” and those of the states “numerous and indefinite.” What did he mean?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. The nation handles a short list of large tasks, and the states handle most of daily life.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. The states may ignore any national law that they find to be unwise or too costly to carry out.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. The nation has only a few powers, so it must ask the states for every dollar it spends.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. The states handle only a few tasks, so the nation must run the schools and local police.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 21</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Which statement shows a way that Florida’s constitution differs from the national Constitution?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. It ends with a Declaration of Rights and is harder to change.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. It has no courts and gives all judging to the Governor.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. It begins with a Declaration of Rights and is easier to change.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. It overrules the national Constitution when the two conflict.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 22</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">A state agency writes detailed rules saying how often restaurant kitchens must be inspected. Which source of law is this?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. A regulation.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. A constitution.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. A statute.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. A precedent.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 23</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Residents of a Florida town want pumps to stop their streets from flooding. After researching the problem, what is the next step in the lesson’s method?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. Find the agency in charge, such as the city’s public works department.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. Write to the President, who holds the final say over every local street in the country.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. Wait for the state legislature to notice the problem and pass a law about it on its own.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. Choose a course of action first, and learn later which office has the power to carry it out.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 24</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">How did Jefferson and Hamilton disagree about the national bank?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. Jefferson wanted a larger national bank than Hamilton did, and Hamilton wanted the states to run it.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. Both said the states should charter a bank, but they quarreled over how many banks to allow.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. Hamilton said the Bill of Rights forbade a bank, and Jefferson said the Preamble required one.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. Jefferson said the Constitution gave Congress no power to charter a bank, and Hamilton said the “necessary and proper” power covered it.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 25</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Why did the whiskey excise tax fall so hard on western farmers?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. They were the only people in the country who bought whiskey, so they paid the whole of the tax.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. Whiskey was how they carried value over the mountains to market, so the tax hit their main way to earn money.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. The tax applied only to farms west of the mountains, and easterners were free of it altogether.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. Western farmers had to pay the tax twice, once to the state and again to the national government.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 26</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">How did Washington answer the Whiskey Rebellion?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. He repealed the tax at once and sent a letter of apology to every farmer in the western counties.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. He ignored the protest until it died away, and no one was ever arrested or tried for it.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. He asked Britain to send soldiers, and he refused to forgive any of the rebels who were caught.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. He sent a militia army to enforce the law and later pardoned the two men convicted of treason.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 27</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Which amendment lets Congress tax incomes?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. The 12th Amendment.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. The 14th Amendment.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. The 24th Amendment.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. The 16th Amendment.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 28</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">In a market economy, what does a rising price tell producers?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. The government has set a new price, and they must obey it from now on without question.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. The good is scarce or wanted, and they should make more of it.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. The good is no longer wanted, and they should stop making it as quickly as they can.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. The market has failed, and officials must now take over the making of the good themselves.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 29</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Why is the Erie Canal an example of a mixed economy?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. A single private company built it, and no government had any part in its cost or its use.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. The national government set every price on it, and private traders were barred from using it.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. The state of New York paid for it, and private farmers and merchants used it to trade.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. It was built to replace all private trade, and farmers had to hand their goods to the state.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 30</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">What did the Sherman Antitrust Act make a crime?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. Joining together to restrain trade, and monopolizing a market.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. Owning a business that employed more than a hundred workers in any one state.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. Charging a price for a good that was higher than the cost of making it.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. Selling goods across state lines without first paying a fee to the national government.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 31</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Beyond prices, why did a republic worry about giant monopolies?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. Monopolies always paid their workers less than the law allowed, and the courts could not stop it.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. The Constitution said in plain words that no business could grow past a certain size.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. Wealth gathered in a few hands can become political power, so ordinary citizens lose their say.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. Monopolies kept the census from being taken, because they would not let counters in their factories.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 32</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Why did planned economies, such as that of the Soviet Union, produce so many shortages?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. Too many private businesses competed with one another, and they wasted goods on needless variety.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. Prices rose and fell too freely, so planners could never tell what a good was worth to buyers.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. Citizens were free to choose their own jobs, and too many of them chose to leave the factories.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. Officials set the prices and goals, so planners lacked honest signals about what people wanted.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 33</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Why did the famine in China from 1958 to 1962 grow worse?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. Farmers refused to plant crops, because the government had offered them higher pay for staying home.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. Private farms hoarded grain for sale on a black market, and the state could not find it.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. Foreign countries stopped all trade with China, and no grain could be brought in from abroad.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. Local officials feared to report bad news and reported harvests that did not exist, so the state took grain on false numbers.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 34</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">What do China’s market reforms after 1978 show?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. Markets raised incomes, but they did not by themselves make China a free republic.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. Markets always lead to a free vote, so China became a republic once its economy had grown.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. Command economies always grow faster than markets, so the reforms were abandoned in time.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. Incomes did not change after the reforms, so China stayed as poor as it had been under Mao.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 35</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Why do economists divide GDP by the number of people?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. To count how many people in the country have jobs and how many of them are looking for work.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. To compare how much each person gets, since a large country can have a large GDP and still be poor.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. To prove that large countries are always richer than small countries in goods and services.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. To remove the effect of prices, so that every country’s output is measured in the same money.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 36</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Why are West and East Germany a good “natural experiment”?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. The two sides were made up of very different peoples, so any gap in wealth was no surprise.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. The people shared a language and history but chose different systems and got different results.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. Both sides chose command economies, and the only difference between them was their size.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. Neither side kept any records, so later economists could compare them only by guesswork.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 37</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Why does the lesson say the Nazi rise to power “did not have to happen”?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. The Nazis had won every election since 1919, and Hindenburg had no choice but to obey the voters.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. Germany had no constitution, so no one could say who had the right to name a chancellor.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. The Nazis had no majority and their vote had slipped, and Hindenburg could have chosen otherwise.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. The army had already taken the government, so Hindenburg’s choice made no difference at all.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 38</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">What is genocide?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. A war fought between two neighboring countries.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. The removal of a government by a free election.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. A law that limits trade between nations.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. The deliberate killing of a whole people or group.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 39</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">Which actions did the nation take after the attacks of September 11?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. Congress ended all immigration, closed the federal courts, and put the President in charge of every state.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. Congress authorized force against those who planned the attacks, passed the Patriot Act, and created the Department of Homeland Security.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. The states amended the Constitution to give the President a third term and then left the United Nations.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. The nation withdrew its armed forces from the world and signed a treaty of peace with the attackers.</div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-left:5px solid #A3431E; border-radius:12px; padding:14px 18px; margin-bottom:12px;\"><div style=\"font-size:13px; color:#A3431E; margin-bottom:6px;\"><strong>QUESTION 40</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.55; margin-bottom:6px;\">What did the Supreme Court decide in Korematsu v. United States (1944), and how is it viewed now?</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">A. It struck down the order, and the army obeyed, so no Japanese Americans were ever sent to camps.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">B. It ruled that the President has no emergency powers, and the ruling still stands without question.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">C. It upheld the order removing Japanese Americans from the West Coast, and the decision is now widely seen as wrong.</div><div style=\"border:1.5px solid #E3D6C0; border-radius:999px; padding:7px 14px; margin:6px 0; font-size:16px; color:#1F1A15;\">D. It upheld the order, and later courts and Congress have always agreed that the decision was right.</div></div></div>",
+   "quiz_type": "assignment",
+   "points": 40.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": "ag746",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did the 14th Amendment say about who is a citizen?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Only free people of European ancestry may become citizens of the United States, whether by birth or by oath.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A person is a citizen only if the state where he or she lives has first voted to grant citizenship.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Anyone born or naturalized in the United States and under its laws is a citizen, whatever the person’s race.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Only children of citizens count, so immigrants and their children must wait for Congress to act.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Wong Kim Ark was born in San Francisco to Chinese parents, and officials refused to let him come home from a trip abroad. What did the Supreme Court decide?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He was not a citizen, because the law barred his parents from becoming citizens themselves.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "His birth on American soil made him a citizen, even though his parents could not be naturalized.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He could return only if Congress passed a special law that admitted him by name to the country.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He was a citizen only if he took an oath in court after reaching the age of twenty-one.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is a responsibility that a free citizen chooses, rather than an obligation the law requires?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Paying income taxes each year.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Serving on a jury when summoned.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Obeying the traffic laws of the state.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Volunteering to help in the community.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did Washington say that a free people needs virtue?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A virtuous people can run a government without paying any taxes to support its courts or army.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Laws can force a duty but cannot make a person care, and a people without self-control will need a strong ruler.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Virtue replaces elections, so a people who have it need not choose their own leaders by vote.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A people with enough virtue needs no written laws, since each person will always do what is right.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>People born in American Samoa are U.S. nationals but not automatically citizens. What does this show?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The 14th Amendment was repealed, and Congress now grants citizenship only through a yearly lottery.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Birth in any territory of the United States always makes a person a full citizen at once.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Citizenship is set by Congress and the courts, and it can differ for people in territories.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Each territory’s governor decides on his own who counts as a citizen of the United States.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which steps does Article V require to amend the Constitution?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A majority of Congress proposes the amendment, and the President signs it into law.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A majority of the states propose the amendment, and the Supreme Court gives its approval.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The President proposes the amendment, and two thirds of the Senate gives its consent.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Two thirds of Congress propose the amendment, and three fourths of the states ratify it.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>After the 15th Amendment was ratified, how did Southern states work around it?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They passed state laws that openly repealed the 15th Amendment within their own borders.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They used poll taxes and literacy tests that did not name race but were applied unfairly.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They asked the Supreme Court to declare the amendment void soon after it was ratified.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They stopped holding elections and let the governors name every officeholder.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did the writers of the Declaration of Sentiments copy the form of the Declaration of Independence?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "To ask the British king to take the American colonies back into the empire.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To claim that women alone should hold the offices of the national government.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To show that the American promise of liberty was meant for women too.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "To win a lawsuit that was then pending before the Supreme Court.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What happened in the Tennessee House in August 1920?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The House rejected the 19th Amendment by a single vote, and the amendment then failed for a decade.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A young member changed his vote to yes, and Tennessee ratified the 19th Amendment by 49 to 47.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Governor vetoed the 19th Amendment, and the House could not muster votes to override him.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The House passed the 15th Amendment after a long debate over the vote for women.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Under the Elections Clause, who mainly decides how elections for Congress are run?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The states, though Congress may change the rules.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The President, though the Senate may change the rules.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court, though the states may change the rules.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Electoral College, though the House may change the rules.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The House has been fixed at 435 seats since 1929. What may happen to a state whose population grows more slowly than the nation’s?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It may lose seats after a census, since a seat gained by one state must be lost by another.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It gains seats after a census, because the House must grow to match the nation’s population.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It keeps the same seats forever, since the Constitution fixes each state’s number of seats.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It must hold a special election, since every seat in the House is then up for a new vote.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which problem in the election of 1800 did the 12th Amendment fix?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Electors had no separate vote for Vice President, so two candidates of one party could tie.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Electors were chosen by the Senate, so the people had no say in who the electors would be.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The President was elected for life, so no election could ever change who held the office.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only the House could count the electoral votes, so a tie could never be settled at all.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did Hamilton urge fellow Federalists to choose Jefferson over Burr in 1801?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He had been promised a high office by Jefferson if the House voted for him on a certain ballot.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He wanted Burr to take power as a strong ruler, since Burr shared his views on the economy.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He hoped the House would fail to choose, so that the Federalists could name a new President by law.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He disliked Jefferson but distrusted Burr more, and judged Jefferson a man of principle.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why does the lesson stress that power passed from one party to another in 1800 without soldiers?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It proved that the Electoral College is a perfect system that never needs repair or change.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It showed that John Adams had really won the election, though the House gave it to Jefferson.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It showed that a republic can survive a bitter election when the losers accept the result.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It ended political parties in America for a generation, because both sides then agreed on policy.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why was the jury’s verdict in the Zenger trial a surprise?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Under the old rule, the jury was only to decide whether Zenger printed the words, and he had.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Zenger had refused to attend his own trial, and the jury had to decide the case without him.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The governor had chosen the jurors himself, and everyone expected them to side with him.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The judge had told the jury that the printed words were true and that Zenger must go free.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which statement is true of the burden of proof in a criminal trial?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The government must prove guilt beyond a reasonable doubt, and the accused need not prove innocence.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The accused must prove his or her innocence to the jury beyond a reasonable doubt at every trial.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The judge alone decides what must be proved, and the jury only repeats the judge’s conclusion.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The jury must gather the evidence itself, since neither side may bring any witnesses to court.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How was the Sedition Act of 1798 mostly used?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Against foreign soldiers who had landed on the coast during the undeclared war with France.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Against Federalist printers who had published attacks on the new Vice President.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Against Republican editors and writers who criticized the Federalist government.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Against citizens who had refused to pay the new taxes that the Federalists had passed.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which set of questions best helps a citizen judge a source for bias?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "How long is it, how old is it, and in what city was it printed?",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Who made it, who was it made for, and what does it want me to do?",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "How many people have read it, how much did it cost, and who owns the press?",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Is it signed, is it dated, and is it printed in more than one color of ink?",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A person wins a court judgment in Georgia and wants to collect in Florida. Which rule in Article IV makes Florida respect the judgment?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Privileges and immunities.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Supremacy Clause.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Judicial review.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Full faith and credit.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Madison wrote that the powers of the national government are “few and defined” and those of the states “numerous and indefinite.” What did he mean?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The nation handles a short list of large tasks, and the states handle most of daily life.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The states may ignore any national law that they find to be unwise or too costly to carry out.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The nation has only a few powers, so it must ask the states for every dollar it spends.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The states handle only a few tasks, so the nation must run the schools and local police.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which statement shows a way that Florida’s constitution differs from the national Constitution?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It ends with a Declaration of Rights and is harder to change.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It has no courts and gives all judging to the Governor.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It begins with a Declaration of Rights and is easier to change.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It overrules the national Constitution when the two conflict.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A state agency writes detailed rules saying how often restaurant kitchens must be inspected. Which source of law is this?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A regulation.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A constitution.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A statute.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A precedent.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Residents of a Florida town want pumps to stop their streets from flooding. After researching the problem, what is the next step in the lesson’s method?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Find the agency in charge, such as the city’s public works department.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Write to the President, who holds the final say over every local street in the country.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Wait for the state legislature to notice the problem and pass a law about it on its own.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Choose a course of action first, and learn later which office has the power to carry it out.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How did Jefferson and Hamilton disagree about the national bank?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Jefferson wanted a larger national bank than Hamilton did, and Hamilton wanted the states to run it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Both said the states should charter a bank, but they quarreled over how many banks to allow.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hamilton said the Bill of Rights forbade a bank, and Jefferson said the Preamble required one.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Jefferson said the Constitution gave Congress no power to charter a bank, and Hamilton said the “necessary and proper” power covered it.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did the whiskey excise tax fall so hard on western farmers?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They were the only people in the country who bought whiskey, so they paid the whole of the tax.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Whiskey was how they carried value over the mountains to market, so the tax hit their main way to earn money.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The tax applied only to farms west of the mountains, and easterners were free of it altogether.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Western farmers had to pay the tax twice, once to the state and again to the national government.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How did Washington answer the Whiskey Rebellion?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He repealed the tax at once and sent a letter of apology to every farmer in the western counties.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He ignored the protest until it died away, and no one was ever arrested or tried for it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He asked Britain to send soldiers, and he refused to forgive any of the rebels who were caught.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He sent a militia army to enforce the law and later pardoned the two men convicted of treason.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which amendment lets Congress tax incomes?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The 12th Amendment.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The 14th Amendment.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The 24th Amendment.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The 16th Amendment.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a market economy, what does a rising price tell producers?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The government has set a new price, and they must obey it from now on without question.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The good is scarce or wanted, and they should make more of it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The good is no longer wanted, and they should stop making it as quickly as they can.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The market has failed, and officials must now take over the making of the good themselves.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why is the Erie Canal an example of a mixed economy?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A single private company built it, and no government had any part in its cost or its use.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The national government set every price on it, and private traders were barred from using it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The state of New York paid for it, and private farmers and merchants used it to trade.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It was built to replace all private trade, and farmers had to hand their goods to the state.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did the Sherman Antitrust Act make a crime?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Joining together to restrain trade, and monopolizing a market.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Owning a business that employed more than a hundred workers in any one state.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Charging a price for a good that was higher than the cost of making it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Selling goods across state lines without first paying a fee to the national government.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Beyond prices, why did a republic worry about giant monopolies?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Monopolies always paid their workers less than the law allowed, and the courts could not stop it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Constitution said in plain words that no business could grow past a certain size.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Wealth gathered in a few hands can become political power, so ordinary citizens lose their say.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Monopolies kept the census from being taken, because they would not let counters in their factories.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did planned economies, such as that of the Soviet Union, produce so many shortages?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Too many private businesses competed with one another, and they wasted goods on needless variety.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Prices rose and fell too freely, so planners could never tell what a good was worth to buyers.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Citizens were free to choose their own jobs, and too many of them chose to leave the factories.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Officials set the prices and goals, so planners lacked honest signals about what people wanted.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did the famine in China from 1958 to 1962 grow worse?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Farmers refused to plant crops, because the government had offered them higher pay for staying home.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Private farms hoarded grain for sale on a black market, and the state could not find it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Foreign countries stopped all trade with China, and no grain could be brought in from abroad.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Local officials feared to report bad news and reported harvests that did not exist, so the state took grain on false numbers.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What do China’s market reforms after 1978 show?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Markets raised incomes, but they did not by themselves make China a free republic.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Markets always lead to a free vote, so China became a republic once its economy had grown.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Command economies always grow faster than markets, so the reforms were abandoned in time.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Incomes did not change after the reforms, so China stayed as poor as it had been under Mao.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why do economists divide GDP by the number of people?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "To count how many people in the country have jobs and how many of them are looking for work.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To compare how much each person gets, since a large country can have a large GDP and still be poor.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "To prove that large countries are always richer than small countries in goods and services.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To remove the effect of prices, so that every country’s output is measured in the same money.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why are West and East Germany a good “natural experiment”?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The two sides were made up of very different peoples, so any gap in wealth was no surprise.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The people shared a language and history but chose different systems and got different results.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Both sides chose command economies, and the only difference between them was their size.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Neither side kept any records, so later economists could compare them only by guesswork.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why does the lesson say the Nazi rise to power “did not have to happen”?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Nazis had won every election since 1919, and Hindenburg had no choice but to obey the voters.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Germany had no constitution, so no one could say who had the right to name a chancellor.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Nazis had no majority and their vote had slipped, and Hindenburg could have chosen otherwise.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The army had already taken the government, so Hindenburg’s choice made no difference at all.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is genocide?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A war fought between two neighboring countries.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The removal of a government by a free election.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A law that limits trade between nations.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The deliberate killing of a whole people or group.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which actions did the nation take after the attacks of September 11?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Congress ended all immigration, closed the federal courts, and put the President in charge of every state.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress authorized force against those who planned the attacks, passed the Patriot Act, and created the Department of Homeland Security.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The states amended the Constitution to give the President a third term and then left the United Nations.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The nation withdrew its armed forces from the world and signed a treaty of peace with the attackers.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did the Supreme Court decide in Korematsu v. United States (1944), and how is it viewed now?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It struck down the order, and the army obeyed, so no Japanese Americans were ever sent to camps.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It ruled that the President has no emergency powers, and the ruling still stands without question.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It upheld the order removing Japanese Americans from the West Coast, and the decision is now widely seen as wrong.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It upheld the order, and later courts and Congress have always agreed that the decision was right.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 40
+  },
+  {
+   "id": "q5387",
+   "title": "Outro: A Republic Tested",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>MODULE OUTRO · SURVEY</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Outro: A Republic Tested</div><div style=\"font-size:15px; color:#F6C44A;\">5 questions · survey · one attempt</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">You have finished this module. Answer honestly. Your answers help your teacher see what is clear and what is not.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": false,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question, revisited. \"What does it take for a republic to survive a crisis, and what does it ask of its citizens?\" Answer in four or five sentences. Use at least one example from the module (for example the Enabling Act, the Nuremberg Laws, the passengers of Flight 93, or the internment of Japanese Americans). How is your answer different from the one you gave at the start?</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Confidence. \"How well could you explain this module's main ideas to a classmate?\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "5: Very well. I could teach it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "4: Well, with one or two gaps.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3: Somewhat. I need to review a few parts.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "2: Not very well.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "1: Not at all.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear. \"Name one idea, event, or term from this module that is still unclear to you. If nothing is unclear, say what you would like to learn more about.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Virtue. \"Which virtue did a person in this module's lessons show most clearly?\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage (for example the passengers of Flight 93, or Robert H. Jackson prosecuting the Nazi leaders)",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government (for example a free people keeping the law while it defends itself)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service (for example the rescue workers who ran toward the towers)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy (for example President Bush visiting a mosque to ask that Muslim Americans be treated with respect)",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Virtue reflection. \"Explain your choice in two or three sentences. Then name one place in your own life where this virtue will be asked of you.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d1099",
+   "title": "Discussion: Could Weimar Have Been Saved?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Could Weimar Have Been Saved?</div><div style=\"font-size:15px; color:#F6C44A;\">10 points · threaded discussion</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">The lessons say that Weimar did not fail by fate, and that its leaders made choices. Name one choice made by a particular person or group in the years before 1933, and say what a different choice would have looked like. Do you think it would have been enough to save the republic? Support your claim with at least two facts from the lessons. Then say one thing that a citizen of a republic today can do to keep a republic alive.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a point of your own. If not, respectfully explain where you think it falls short.</p></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag745",
+   "published": false,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_8",
+   "title": "A Republic Tested",
+   "published": false,
+   "items": [
+    {
+     "title": "Map: A Republic Tested",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_module-8-map-a-republic-tested"
+    },
+    {
+     "title": "Intro: A Republic Tested",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5383",
+     "week": 27
+    },
+    {
+     "title": "Lesson: From Weimar to the Holocaust",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_8-dot-1-lesson-from-weimar-to-the-holocaust",
+     "week": 27,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: From Weimar to the Holocaust",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5384",
+     "week": 27
+    },
+    {
+     "title": "Primary Source: The Nuremberg Laws (1935)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_8-dot-3-primary-source-the-nuremberg-laws-1935",
+     "week": 27,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: The Nuremberg Laws",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5385",
+     "week": 27
+    },
+    {
+     "title": "Lesson: September 11 and the American Response",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_8-dot-5-lesson-september-11-and-the-american-response",
+     "week": 27,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Bush, Address to a Joint Session of Congress (2001)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_8-dot-6-primary-source-bush-address-to-a-joint-session-of-congress-2001",
+     "week": 27,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Report: Bush, Address to a Joint Session of Congress (2001)",
+     "indent": 0,
+     "published": false,
+     "type": "assignment",
+     "ref": "a14216",
+     "week": 27
+    },
+    {
+     "title": "Critical Questions: Bush, Address to a Joint Session of Congress",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5386",
+     "week": 27
+    },
+    {
+     "title": "Discussion: Could Weimar Have Been Saved?",
+     "indent": 0,
+     "published": false,
+     "type": "discussion",
+     "ref": "d1099",
+     "week": 27
+    },
+    {
+     "title": "Quarter 3 Exam: The Republic’s Upkeep",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5428",
+     "week": 27
+    },
+    {
+     "title": "Outro: A Republic Tested",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5387",
+     "week": 27
+    }
+   ]
+  }
+ ],
+ "syllabus_html": "",
+ "source": {
+  "note": "Sparkled edition of one module of M/J Civics. Read from Canvas course 292 (naming authority; titles, order, points, groups, quiz questions) with _build/pull_canvas.py on 2026-11-20; the sparkled module, not its \"(Unsparkled)\" twin. Module numbers removed from student-facing titles; Canvas module-item links rewritten to link tokens; weeks taken from each lesson page URL. Lessons are iframe pages on https://optimaondemand.github.io/mjcivics-lessons-spring/."
+ }
+}

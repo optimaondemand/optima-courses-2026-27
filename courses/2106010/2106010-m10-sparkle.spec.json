@@ -1,0 +1,2059 @@
+{
+ "course": {
+  "title": "08 MJ Civics 2106010",
+  "code": "2106010",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag652",
+   "title": "Assignments",
+   "weight": 0,
+   "canvas_id": 652
+  },
+  {
+   "id": "ag745",
+   "title": "Async Homework",
+   "weight": 60.0,
+   "canvas_id": 745
+  },
+  {
+   "id": "ag746",
+   "title": "Projects & Milestones",
+   "weight": 30.0,
+   "canvas_id": 746
+  },
+  {
+   "id": "ag747",
+   "title": "Sync Activities",
+   "weight": 10.0,
+   "canvas_id": 747
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r1346",
+   "title": "Primary Source Report Rubric (5)",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the source",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Accurately states two warnings and the right protected, with an accurate quotation",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Mostly accurate with some gaps",
+       "points": 3.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Vague or partly wrong",
+       "points": 1.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Not shown",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Connects the ruling to the amendments and balances safety against rights in Miranda and Terry with specific evidence from the lesson",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Reasons given, evidence general",
+       "points": 3.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Assertions without reasons",
+       "points": 1.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Not shown",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Organized in the four parts, quotation short and accurate",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Mostly clear, some loose wording",
+       "points": 3.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Hard to follow",
+       "points": 1.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Not shown",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Names a real limit of the source and a place to look",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Names a limit, vague",
+       "points": 3.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Limit is not about the source",
+       "points": 1.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Not shown",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_module-10-map-organization-and-citizens",
+   "title": "Map: Organization and Citizens",
+   "slug": "module-10-map-organization-and-citizens",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>MODULE MAP</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Organization and Citizens</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>How this module works</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Work through the items in order, top to bottom. Read each lesson and primary source, then take the quiz that follows it. Most sets of items close with a discussion. Begin with the Intro and finish with the Outro.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2B4C96; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2B4C96; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>By the end of this module you will be able to:</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">describe the powers of Congress, the President, and the courts, and explain why the Founders chose three branches; explain checks and balances, judicial review, and the four ways the Constitution limits government; tell delegated, reserved, and concurrent powers apart, and compare federal, unitary, and confederal systems; explain how the Constitution is amended, how Florida’s constitution compares, and which level of government provides which services; tell the duties a citizen owes from the responsibilities a citizen chooses, explain the rights in the Bill of Rights and how the 14th Amendment carried them to the states, and describe how landmark cases and amendments widened the republic.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Start here</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\"><a href=\"{{quiz:q5401}}\" style=\"color:#152C4E; text-decoration:underline;\">Intro: Organization and Citizens</a> (short survey, no wrong answers)</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 1</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\"><strong>Topics:</strong> Three Branches, Three Jobs; Checks and Balances and the Limits on Government</p><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#152C4E; color:#FFFFFF; font-size:14px;\">What it is</th><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#152C4E; color:#FFFFFF; font-size:14px; width:150px;\">What to do</th></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{page:p_10-dot-1-lesson-three-branches-three-jobs}}\" style=\"color:#152C4E; text-decoration:underline;\">Lesson: Three Branches, Three Jobs</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{quiz:q5402}}\" style=\"color:#152C4E; text-decoration:underline;\">Reading Quiz: Three Branches, Three Jobs</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#F1F4F6;\">Quiz</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{page:p_10-dot-3-primary-source-madison-federalist-no-51-1788}}\" style=\"color:#152C4E; text-decoration:underline;\">Primary Source: Madison, Federalist No. 51 (1788)</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{quiz:q5403}}\" style=\"color:#152C4E; text-decoration:underline;\">Critical Questions: Madison, Federalist No. 51</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#F1F4F6;\">Quiz</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{page:p_10-dot-5-lesson-checks-and-balances-and-the-limits-on-government}}\" style=\"color:#152C4E; text-decoration:underline;\">Lesson: Checks and Balances and the Limits on Government</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{page:p_10-dot-6-primary-source-marbury-v-madison-1803}}\" style=\"color:#152C4E; text-decoration:underline;\">Primary Source: Marbury v. Madison (1803)</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{quiz:q5404}}\" style=\"color:#152C4E; text-decoration:underline;\">Reading Quiz: Checks and Balances and the Limits on Government</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#F1F4F6;\">Quiz</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{quiz:q5405}}\" style=\"color:#152C4E; text-decoration:underline;\">Critical Questions: Marbury v. Madison (1803)</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#F1F4F6;\">Quiz</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{discussion:d1103}}\" style=\"color:#152C4E; text-decoration:underline;\">Discussion: Do Checks and Balances Still Work?</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#EBE7F6;\">Discussion</td></tr></tbody></table></div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 2</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\"><strong>Topics:</strong> Federalism and the Tenth Amendment; Amending, Florida, and Government Services</p><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#152C4E; color:#FFFFFF; font-size:14px;\">What it is</th><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#152C4E; color:#FFFFFF; font-size:14px; width:150px;\">What to do</th></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{page:p_10-dot-11-lesson-federalism-and-the-tenth-amendment}}\" style=\"color:#152C4E; text-decoration:underline;\">Lesson: Federalism and the Tenth Amendment</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{quiz:q5406}}\" style=\"color:#152C4E; text-decoration:underline;\">Reading Quiz: Federalism and the Tenth Amendment</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#F1F4F6;\">Quiz</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{page:p_10-dot-13-primary-source-article-iv-article-v-and-the-tenth-amendment}}\" style=\"color:#152C4E; text-decoration:underline;\">Primary Source: Article IV, Article V, and the Tenth Amendment</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{quiz:q5407}}\" style=\"color:#152C4E; text-decoration:underline;\">Critical Questions: Article IV, Article V, and the Tenth Amendment</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#F1F4F6;\">Quiz</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{page:p_10-dot-15-lesson-amending-florida-and-government-services}}\" style=\"color:#152C4E; text-decoration:underline;\">Lesson: Amending, Florida, and Government Services</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{page:p_10-dot-16-primary-source-mcculloch-v-maryland-1819}}\" style=\"color:#152C4E; text-decoration:underline;\">Primary Source: McCulloch v. Maryland (1819)</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{quiz:q5408}}\" style=\"color:#152C4E; text-decoration:underline;\">Reading Quiz: Amending, Florida, and Government Services</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#F1F4F6;\">Quiz</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{quiz:q5409}}\" style=\"color:#152C4E; text-decoration:underline;\">Critical Questions: McCulloch v. Maryland (1819)</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#F1F4F6;\">Quiz</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{discussion:d1104}}\" style=\"color:#152C4E; text-decoration:underline;\">Discussion: Where Does State Power End?</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#EBE7F6;\">Discussion</td></tr></tbody></table></div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 3</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\"><strong>Topics:</strong> Citizens: Rights, Duties, and the Bill of Rights; Landmark Cases and the Widening of Participation</p><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#152C4E; color:#FFFFFF; font-size:14px;\">What it is</th><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#152C4E; color:#FFFFFF; font-size:14px; width:150px;\">What to do</th></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{page:p_10-dot-21-lesson-citizens-rights-duties-and-the-bill-of-rights}}\" style=\"color:#152C4E; text-decoration:underline;\">Lesson: Citizens: Rights, Duties, and the Bill of Rights</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{quiz:q5411}}\" style=\"color:#152C4E; text-decoration:underline;\">Reading Quiz: Citizens: Rights, Duties, and the Bill of Rights</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#F1F4F6;\">Quiz</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{page:p_10-dot-23-primary-source-the-bill-of-rights-1791}}\" style=\"color:#152C4E; text-decoration:underline;\">Primary Source: The Bill of Rights (1791)</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{quiz:q5412}}\" style=\"color:#152C4E; text-decoration:underline;\">Critical Questions: The Bill of Rights</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#F1F4F6;\">Quiz</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{page:p_10-dot-25-lesson-landmark-cases-and-the-widening-of-participation}}\" style=\"color:#152C4E; text-decoration:underline;\">Lesson: Landmark Cases and the Widening of Participation</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{page:p_10-dot-26-primary-source-miranda-v-arizona-1966}}\" style=\"color:#152C4E; text-decoration:underline;\">Primary Source: Miranda v. Arizona (1966)</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{assignment:a14246}}\" style=\"color:#152C4E; text-decoration:underline;\">Primary Source Report: Miranda v. Arizona (1966)</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#FCF7D9;\">Submit report</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{quiz:q5413}}\" style=\"color:#152C4E; text-decoration:underline;\">Critical Questions: Miranda v. Arizona (1966)</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#F1F4F6;\">Quiz</td></tr><tr><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16;\"><a href=\"{{discussion:d1105}}\" style=\"color:#152C4E; text-decoration:underline;\">Discussion: Which Right Matters Most to a Free Republic?</a></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:15px; color:#1E1B16; background:#EBE7F6;\">Discussion</td></tr></tbody></table></div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Finish here</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\"><a href=\"{{quiz:q5410}}\" style=\"color:#152C4E; text-decoration:underline;\">Outro: Organization and Citizens</a> (reflection survey: revisit the module's big question, rate your confidence, and name what is still unclear)</p></div></div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_10-dot-1-lesson-three-branches-three-jobs",
+   "title": "Lesson: Three Branches, Three Jobs",
+   "slug": "10-dot-1-lesson-three-branches-three-jobs",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Three Branches, Three Jobs</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-31/lesson-31-1.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-31/lesson-31-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_10-dot-3-primary-source-madison-federalist-no-51-1788",
+   "title": "Primary Source: Madison, Federalist No. 51 (1788)",
+   "slug": "10-dot-3-primary-source-madison-federalist-no-51-1788",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Madison, Federalist No. 51 (1788)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-31/primary-source-31-1.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-31/primary-source-31-1.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_10-dot-5-lesson-checks-and-balances-and-the-limits-on-government",
+   "title": "Lesson: Checks and Balances and the Limits on Government",
+   "slug": "10-dot-5-lesson-checks-and-balances-and-the-limits-on-government",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Checks and Balances and the Limits on Government</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-31/lesson-31-2.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-31/lesson-31-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_10-dot-6-primary-source-marbury-v-madison-1803",
+   "title": "Primary Source: Marbury v. Madison (1803)",
+   "slug": "10-dot-6-primary-source-marbury-v-madison-1803",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Marbury v. Madison (1803)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-31/primary-source-31-2.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-31/primary-source-31-2.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_10-dot-11-lesson-federalism-and-the-tenth-amendment",
+   "title": "Lesson: Federalism and the Tenth Amendment",
+   "slug": "10-dot-11-lesson-federalism-and-the-tenth-amendment",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Federalism and the Tenth Amendment</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-32/lesson-32-1.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-32/lesson-32-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_10-dot-13-primary-source-article-iv-article-v-and-the-tenth-amendment",
+   "title": "Primary Source: Article IV, Article V, and the Tenth Amendment",
+   "slug": "10-dot-13-primary-source-article-iv-article-v-and-the-tenth-amendment",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Article IV, Article V, and the Tenth Amendment</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-32/primary-source-32-1.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-32/primary-source-32-1.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_10-dot-15-lesson-amending-florida-and-government-services",
+   "title": "Lesson: Amending, Florida, and Government Services",
+   "slug": "10-dot-15-lesson-amending-florida-and-government-services",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Amending, Florida, and Government Services</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-32/lesson-32-2.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-32/lesson-32-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_10-dot-16-primary-source-mcculloch-v-maryland-1819",
+   "title": "Primary Source: McCulloch v. Maryland (1819)",
+   "slug": "10-dot-16-primary-source-mcculloch-v-maryland-1819",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: McCulloch v. Maryland (1819)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-32/primary-source-32-2.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-32/primary-source-32-2.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_10-dot-21-lesson-citizens-rights-duties-and-the-bill-of-rights",
+   "title": "Lesson: Citizens: Rights, Duties, and the Bill of Rights",
+   "slug": "10-dot-21-lesson-citizens-rights-duties-and-the-bill-of-rights",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Citizens: Rights, Duties, and the Bill of Rights</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-33/lesson-33-1.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-33/lesson-33-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_10-dot-23-primary-source-the-bill-of-rights-1791",
+   "title": "Primary Source: The Bill of Rights (1791)",
+   "slug": "10-dot-23-primary-source-the-bill-of-rights-1791",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: The Bill of Rights (1791)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-33/primary-source-33-1.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-33/primary-source-33-1.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_10-dot-25-lesson-landmark-cases-and-the-widening-of-participation",
+   "title": "Lesson: Landmark Cases and the Widening of Participation",
+   "slug": "10-dot-25-lesson-landmark-cases-and-the-widening-of-participation",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Landmark Cases and the Widening of Participation</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-33/lesson-33-2.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-33/lesson-33-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_10-dot-26-primary-source-miranda-v-arizona-1966",
+   "title": "Primary Source: Miranda v. Arizona (1966)",
+   "slug": "10-dot-26-primary-source-miranda-v-arizona-1966",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Miranda v. Arizona (1966)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-33/primary-source-33-2.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-33/primary-source-33-2.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a14246",
+   "title": "Primary Source Report: Miranda v. Arizona (1966)",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>PRIMARY SOURCE REPORT</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Report: Miranda v. Arizona (1966)</div><div style=\"font-size:15px; color:#E6CE5A;\">20 points · 300 to 450 words · one turn-in</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>What to do</strong></div><div style=\"display:flex; align-items:flex-start; gap:12px; margin-bottom:12px;\"><div style=\"min-width:28px; height:28px; border-radius:50%; background:#152C4E; color:#E6CE5A; font-size:14px; text-align:center; line-height:28px; flex-shrink:0;\"><strong>1</strong></div><div style=\"font-size:17px; color:#1E1B16; line-height:1.6;\">Open the lesson <em>Landmark Cases and the Widening of Participation</em> and the primary source <em>Miranda v. Arizona (1966)</em>, and download <strong>My Notebook</strong> (the button at the end of the page), or open the page to see your saved answers.</div></div><div style=\"display:flex; align-items:flex-start; gap:12px; margin-bottom:12px;\"><div style=\"min-width:28px; height:28px; border-radius:50%; background:#152C4E; color:#E6CE5A; font-size:14px; text-align:center; line-height:28px; flex-shrink:0;\"><strong>2</strong></div><div style=\"font-size:17px; color:#1E1B16; line-height:1.6;\">Select <strong>Start Assignment</strong>. Type your report in the text box, or upload a file.</div></div><div style=\"display:flex; align-items:flex-start; gap:12px; margin-bottom:12px;\"><div style=\"min-width:28px; height:28px; border-radius:50%; background:#152C4E; color:#E6CE5A; font-size:14px; text-align:center; line-height:28px; flex-shrink:0;\"><strong>3</strong></div><div style=\"font-size:17px; color:#1E1B16; line-height:1.6;\">Write the four parts below in order, with the part name at the start of each.</div></div><div style=\"display:flex; align-items:flex-start; gap:12px; margin-bottom:12px;\"><div style=\"min-width:28px; height:28px; border-radius:50%; background:#152C4E; color:#E6CE5A; font-size:14px; text-align:center; line-height:28px; flex-shrink:0;\"><strong>4</strong></div><div style=\"font-size:17px; color:#1E1B16; line-height:1.6;\">Read the rubric at the bottom. Check your report against it, then submit.</div></div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2B4C96; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2B4C96; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">You have read part of Chief Justice Warren’s opinion in Miranda v. Arizona and studied how the Bill of Rights applies to people accused of crimes. Write a report of 300 to 450 words. Use your own words except where you quote.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2B4C96; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2B4C96; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 1 · What the Court requires</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">In two or three sentences, name two of the warnings that police must give a suspect before questioning, and say which amendment the Court is protecting. Quote one short phrase from the opinion.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2B4C96; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2B4C96; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 2 · Why it matters</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Use the lesson to explain how Miranda is connected to the Fifth and Sixth Amendments, and to the 14th Amendment, since Arizona is a state.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2B4C96; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2B4C96; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 3 · Balancing safety and rights</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Compare Miranda with Terry v. Ohio. In each case, what is the Court trying to balance, and how does it decide? Use one fact from each case.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2B4C96; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2B4C96; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 4 · What this source cannot tell you</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Name one question about how the ruling has worked in practice that the opinion alone cannot answer, and say where you might look for the answer.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#F9F4DE; font-size:14px; width:22%;\">Understanding of the source<br><span style=\"color:#2B4C96;\">5 pts</span></th><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>5 pts</strong><br>Full<br><span style=\"color:#4A4C59;\">Accurately states two warnings and the right protected, with an accurate quotation</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>3 pts</strong><br>Partial<br><span style=\"color:#4A4C59;\">Mostly accurate with some gaps</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>1 pt</strong><br>Thin<br><span style=\"color:#4A4C59;\">Vague or partly wrong</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>0 pts</strong><br>Missing<br><span style=\"color:#4A4C59;\">Not shown</span></td></tr><tr><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#F9F4DE; font-size:14px; width:22%;\">Quality of reasoning<br><span style=\"color:#2B4C96;\">5 pts</span></th><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>5 pts</strong><br>Full<br><span style=\"color:#4A4C59;\">Connects the ruling to the amendments and balances safety against rights in Miranda and Terry with specific evidence from the lesson</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>3 pts</strong><br>Partial<br><span style=\"color:#4A4C59;\">Reasons given, evidence general</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>1 pt</strong><br>Thin<br><span style=\"color:#4A4C59;\">Assertions without reasons</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>0 pts</strong><br>Missing<br><span style=\"color:#4A4C59;\">Not shown</span></td></tr><tr><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#F9F4DE; font-size:14px; width:22%;\">Clarity and precision<br><span style=\"color:#2B4C96;\">5 pts</span></th><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>5 pts</strong><br>Full<br><span style=\"color:#4A4C59;\">Organized in the four parts, quotation short and accurate</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>3 pts</strong><br>Partial<br><span style=\"color:#4A4C59;\">Mostly clear, some loose wording</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>1 pt</strong><br>Thin<br><span style=\"color:#4A4C59;\">Hard to follow</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>0 pts</strong><br>Missing<br><span style=\"color:#4A4C59;\">Not shown</span></td></tr><tr><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#F9F4DE; font-size:14px; width:22%;\">Intellectual honesty<br><span style=\"color:#2B4C96;\">5 pts</span></th><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>5 pts</strong><br>Full<br><span style=\"color:#4A4C59;\">Names a real limit of the source and a place to look</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>3 pts</strong><br>Partial<br><span style=\"color:#4A4C59;\">Names a limit, vague</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>1 pt</strong><br>Thin<br><span style=\"color:#4A4C59;\">Limit is not about the source</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>0 pts</strong><br>Missing<br><span style=\"color:#4A4C59;\">Not shown</span></td></tr></tbody></table></div></div>",
+   "points": 20.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "group": "ag746",
+   "rubric": "r1346",
+   "rubric_use_for_grading": true,
+   "published": false,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q5401",
+   "title": "Intro: Organization and Citizens",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>MODULE INTRO · SURVEY</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Intro: Organization and Citizens</div><div style=\"font-size:15px; color:#E6CE5A;\">4 questions · survey · one attempt</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">In this module you will study how the Constitution is organized. You will ask what each branch does, how the branches and the states check one another, how the Constitution can change, and what rights and duties belong to citizens. These questions come first so that you can see how your answers change by the end.</p></div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2B4C96; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2B4C96; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>By the end of this module you will be able to:</strong></div><ul style=\"margin:0; padding-left:22px;\"><li style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 6px;\">describe the powers of Congress, the President, and the courts, and explain why the Founders chose three branches;</li><li style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 6px;\">explain checks and balances, judicial review, and the four ways the Constitution limits government;</li><li style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 6px;\">tell delegated, reserved, and concurrent powers apart, and compare federal, unitary, and confederal systems;</li><li style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 6px;\">explain how the Constitution is amended, how Florida’s constitution compares, and which level of government provides which services;</li><li style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 6px;\">tell the duties a citizen owes from the responsibilities a citizen chooses, explain the rights in the Bill of Rights and how the 14th Amendment carried them to the states, and describe how landmark cases and amendments widened the republic.</li></ul></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": false,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question, first answer. \"How does the Constitution divide power, and what keeps each part of government in its place?\" Answer in three or four sentences. There is no wrong answer yet. We will ask again at the end.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Objectives. \"I have read the module goals above.\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I have read them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I have a question about them. (Say what in the box below.)",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Question about the goals. If you chose the second answer above, what is your question? Otherwise write \"none.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Group work. \"Some assessments in this module may be done alone or with a group. If you choose a group, you will sign the Group Covenant first. Which would you like?\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I plan to work alone.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I would like to work in a group.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "I am not sure yet.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4
+  },
+  {
+   "id": "q5402",
+   "title": "Reading Quiz: Three Branches, Three Jobs",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Three Branches, Three Jobs</div><div style=\"font-size:15px; color:#E6CE5A;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Five questions on the powers and jobs of Congress, the President, and the courts, and why the Founders divided government into three.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which pair is correct for the Senate?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "435 members, two-year terms.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "100 members, four-year terms.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "100 members, six-year terms.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "50 members, one-year terms.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The Framers meant the House to be close to the people and the Senate to be slower and steadier.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How can Congress pass a bill that the President has vetoed?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "By a two-thirds vote in each house.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "By a simple majority in the House.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "By a vote of the Supreme Court.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It cannot.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>This is called an override.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What happens in an impeachment?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Senate accuses, and the House holds a trial.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court accuses, and the President holds a trial.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The President accuses, and the courts hold a trial.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The House accuses by a majority vote, and the Senate holds a trial where two thirds must vote to convict.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Impeachment is a check by Congress on the President, judges, and other officials.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why can a President not declare war or raise a tax?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Framers feared a king, so they gave those powers to Congress.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The President is not allowed to command the army.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Constitution does not mention war or taxes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The courts make those decisions.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The President is commander in chief, but war and money belong to Congress.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why do federal judges hold their offices “during good behavior,” usually for life?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "So that they will have no work to do.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "So that they can be removed at each election.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "So that they are free from pressure and can rule by the law, not by what is popular.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "So that the President can choose them again.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Judges can still be impeached and removed for wrongdoing.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5403",
+   "title": "Critical Questions: Madison, Federalist No. 51",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Madison, Federalist No. 51</div><div style=\"font-size:15px; color:#E6CE5A;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Two questions on how Madison explained the checks on power. Read the source first.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Madison writes, “If men were angels, no government would be necessary.” What does he mean?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "People are perfect, so we need only a few laws.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Government is not necessary in any country.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Angels should be chosen as rulers.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "People are not perfect, so government is needed, and it must be built to restrain itself too.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The government must first control the governed, and then control itself.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "true_false",
+     "text": "<p>According to Madison, ambition in each branch can be used to guard against the other branches taking too much power.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "False",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>He writes that “ambition must be made to counteract ambition.”</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5404",
+   "title": "Reading Quiz: Checks and Balances and the Limits on Government",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Checks and Balances and the Limits on Government</div><div style=\"font-size:15px; color:#E6CE5A;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Five questions on how each branch checks the others, Marbury v. Madison, and the ways the Constitution limits government.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is a check that Congress has on the President?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Declaring a law unconstitutional.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Vetoing a bill.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Senate must approve many appointments and two thirds must approve a treaty.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Choosing the Chief Justice for life.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Congress can also override a veto and impeach.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did Chief Justice Marshall decide in Marbury v. Madison?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Marbury had a right to his commission, but the Court could not order it, because part of the law of 1789 that gave the Court that power was unconstitutional.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Marbury had no right to his commission, and Madison won.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Court ordered Madison to deliver the commission at once.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The President could remove any judge he pleased.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Marshall lost the small battle and won a much larger one.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What power did the Court claim in this case?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The power to veto a bill.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Judicial review: striking down laws that conflict with the Constitution.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The power to impeach the President.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The power to declare war.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>It was not used again against a federal law for more than fifty years, but it has shaped American government ever since.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does Madison’s phrase “ambition must be made to counteract ambition” mean?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Citizens should never be ambitious.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only one branch should be ambitious.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Leaders in each branch will want to protect their own power, and that desire can be used to guard the Constitution.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Ambition always leads to tyranny.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>If one branch reaches for too much, the others have both the means and the motive to push back.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is one of the four ways the Constitution limits government?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Life tenure for the President.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Majority vote on every law.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Rule by the Senate alone.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Due process.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The four are checks and separated powers, individual rights, the rule of law, and due process.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5405",
+   "title": "Critical Questions: Marbury v. Madison (1803)",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Marbury v. Madison (1803)</div><div style=\"font-size:15px; color:#E6CE5A;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Two questions on Chief Justice Marshall’s opinion. Read the source first.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Marshall writes that it is “emphatically the province and duty of the judicial department to say what the law is.” What does this claim?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Only the President may interpret the law.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Judges decide what the law means, and may judge whether a law fits the Constitution.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Congress should reread every case.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The courts must follow every order of the President.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>This is the heart of judicial review.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "true_false",
+     "text": "<p>According to Marshall, a law that conflicts with the Constitution is still valid until Congress repeals it.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "False",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>He writes that a law repugnant to the Constitution is void.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5406",
+   "title": "Reading Quiz: Federalism and the Tenth Amendment",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Federalism and the Tenth Amendment</div><div style=\"font-size:15px; color:#E6CE5A;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Five questions on how the Constitution divides power between the nation and the states, and how federal, unitary, and confederal systems differ.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is a concurrent power, shared by the nation and the states?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Declaring war.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Coining money.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Running most local schools.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Taxing.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Both the nation and the states may also build roads and set up courts.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does the Supremacy Clause say?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "When the Constitution, a national law, or a treaty conflicts with a state law, the national law wins.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "State laws always win over national laws.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The President may cancel any state law.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court must approve every state law.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Without this clause, federalism would slide back into the confusion of the Articles.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How did Marshall answer the question of whether Congress could create a bank, though the word “bank” is not in the Constitution?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Constitution forbids it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only the states may create banks.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress has powers over taxes, borrowing, and trade, and under the Necessary and Proper Clause it may choose appropriate means to carry them out.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The President must approve it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>These are the implied powers.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Marshall wrote that “the power to tax involves the power to destroy.” Why did that decide the case?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It meant that banks are bad.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It showed that Congress could never tax.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It meant that Maryland needed more money.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "If states could tax national agencies, they could destroy the national government itself.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>A state could not tax an agency of the nation.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which system were the Articles of Confederation?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A federal system.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A confederal system, where the states held most power.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A unitary system.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A monarchy.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>You have seen how it failed.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5407",
+   "title": "Critical Questions: Article IV, Article V, and the Tenth Amendment",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Article IV, Article V, and the Tenth Amendment</div><div style=\"font-size:15px; color:#E6CE5A;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Two questions on how the Constitution treats the states and how it can be amended. Read the source first.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Tenth Amendment says that powers not delegated to the nation, nor prohibited to the states, “are reserved to the States respectively, or to the people.” What does this mean for a power the Constitution neither gives to the nation nor forbids to the states?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It belongs to the states or to the people.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It belongs to the President.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It belongs to the Supreme Court.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It belongs to no one.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>This is the basis of reserved powers.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "true_false",
+     "text": "<p>Article V says that an amendment becomes valid when ratified by the legislatures or conventions of three fourths of the states.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "False",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>This is why thirty-eight of fifty states must approve.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5408",
+   "title": "Reading Quiz: Amending, Florida, and Government Services",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Amending, Florida, and Government Services</div><div style=\"font-size:15px; color:#E6CE5A;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Five questions on how the Constitution can be amended, how Florida’s constitution compares with the national one, and what each level of government provides.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>How is an amendment proposed?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "By a vote of the Supreme Court.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "By a majority vote in the Senate.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "By the President alone.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "By two thirds of both houses of Congress, or by a convention that two thirds of the states ask for.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The first step is hard on purpose.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How many states must ratify an amendment?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Thirty-eight of fifty, or three fourths.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Twenty-six of fifty.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "All fifty.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Twenty-five of fifty.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>This is why the Constitution has only twenty-seven amendments.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What happened to the Equal Rights Amendment?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It was ratified in 1972.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It was ratified by all fifty states.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It won approval from thirty-five states, three short of the thirty-eight needed, before its deadline passed.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It was never proposed by Congress.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>An idea must win a large and lasting majority, in many different states.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How is Florida’s constitution different from the national one?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It does not have a Declaration of Rights.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It begins with a Declaration of Rights, and voters can amend it through routes such as a citizen initiative.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It is shorter than the national Constitution.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It can never be changed.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Florida’s constitution may give residents more rights than the national one, but never fewer.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A pothole has damaged a street near your home. Which office should you contact?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Governor.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The city or county public works office.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>A citizen who knows which door to knock on can make government answer.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5409",
+   "title": "Critical Questions: McCulloch v. Maryland (1819)",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: McCulloch v. Maryland (1819)</div><div style=\"font-size:15px; color:#E6CE5A;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Two questions on Chief Justice Marshall’s opinion about the national bank. Read the source first.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_answers",
+     "text": "<p>Which two statements does Marshall make in the opinion? Select two.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "“The power to tax involves the power to destroy.”",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Congress may choose means that are appropriate to a legitimate end, if they fit the letter and spirit of the Constitution.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Congress has only the powers that are listed word for word.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A state may tax any agency of the national government.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The first answers the question about Maryland’s tax. The second answers the question about the bank.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why does Marshall say that Maryland may not tax the Bank?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Bank was too small to tax.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Bank belonged to Maryland.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A state that could tax a national agency could destroy it, and the nation must not be at the mercy of the states.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Congress had not created the Bank.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>This protects the national government within its own sphere.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5411",
+   "title": "Reading Quiz: Citizens: Rights, Duties, and the Bill of Rights",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Citizens: Rights, Duties, and the Bill of Rights</div><div style=\"font-size:15px; color:#E6CE5A;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Five questions on what a citizen owes the republic, the rights in the Bill of Rights, and how the 14th Amendment carried those rights to the states.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is a duty, something the law requires of a citizen?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Volunteering at a food bank.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Voting in every election.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Serving on a jury when called.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Writing to a lawmaker.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Duties are required by law. Responsibilities, such as voting and volunteering, are chosen by a free citizen.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What must police usually have before they search a person’s home?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A warrant, signed by a judge, based on good reason.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The permission of a neighbor.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A tip from a newspaper.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A note from the mayor.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>This is the Fourth Amendment’s protection against unreasonable searches and seizures.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A woman is found not guilty of a crime, and then the government charges her with the same crime again. Which amendment forbids this?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The First Amendment.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Third Amendment.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Eighth Amendment.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Fifth Amendment, which forbids double jeopardy.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The Fifth also guarantees due process and protects a person from being forced to testify against himself or herself.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does the Ninth Amendment say?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Only the rights listed in the Bill of Rights belong to the people.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The people keep other rights even if they are not named in the Constitution.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The states may take away any right they wish.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Soldiers may live in private homes.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Together with the Tenth, it keeps the Bill of Rights from being read as a complete list of everything a free people may do.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is incorporation?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The way a person becomes a citizen after being born in another country.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The vote Congress takes to amend the Constitution.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The process by which the Supreme Court applied most of the Bill of Rights to the states through the 14th Amendment.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The rule that a jury verdict must be unanimous.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Because of incorporation, a state police officer must follow the Fourth Amendment, and a state court must follow the Sixth.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5412",
+   "title": "Critical Questions: The Bill of Rights",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: The Bill of Rights</div><div style=\"font-size:15px; color:#E6CE5A;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Two questions on the first ten amendments. Read the source first.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Fifth Amendment says that no person “shall be compelled in any criminal case to be a witness against himself.” What does this protect?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The right to a speedy trial.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A person accused of a crime cannot be forced to give evidence that could prove his own guilt.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The right to keep and bear arms.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A person’s right to a jury in civil cases.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Compare this with the warnings that police must give a suspect before questioning.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "true_false",
+     "text": "<p>The Ninth Amendment says that because the Constitution lists certain rights, other rights retained by the people are not denied or disparaged.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "False",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The list is not the whole story. The people keep rights that are not named.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5413",
+   "title": "Critical Questions: Miranda v. Arizona (1966)",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Miranda v. Arizona (1966)</div><div style=\"font-size:15px; color:#E6CE5A;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Two questions on Chief Justice Warren’s opinion. Read the source first.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_answers",
+     "text": "<p>Which two warnings must a suspect receive before police begin questioning? Select two.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He has the right to remain silent.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He must answer every question truthfully.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Anything he says can be used against him in a court of law.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He may have a lawyer only if he can pay for one.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The opinion also says that he has the right to the presence of an attorney, and that one will be appointed if he cannot afford one.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why does the Court require these warnings?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "To make police work slower.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To free every person who has confessed.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To give judges the power to question suspects.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To protect the privilege against self-incrimination from the pressure of questioning in custody.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Miranda was tried again without his confession and convicted anyway. The ruling made sure police follow fair steps.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5410",
+   "title": "Outro: Organization and Citizens",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>MODULE OUTRO · SURVEY</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Outro: Organization and Citizens</div><div style=\"font-size:15px; color:#E6CE5A;\">5 questions · survey · one attempt</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #152C4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#152C4E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">You have finished this module. Answer honestly. Your answers help your teacher see what is clear and what is not.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": false,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question, revisited. \"How does the Constitution divide power, and what keeps each part of government in its place?\" Answer in four or five sentences. Use at least one example from the module (for example Marbury v. Madison, McCulloch v. Maryland, the veto, or the Equal Rights Amendment). How is your answer different from the one you gave at the start?</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Confidence. \"How well could you explain this module's main ideas to a classmate?\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "5: Very well. I could teach it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "4: Well, with one or two gaps.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3: Somewhat. I need to review a few parts.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "2: Not very well.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "1: Not at all.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear. \"Name one idea, event, or term from this module that is still unclear to you. If nothing is unclear, say what you would like to learn more about.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Virtue. \"Which virtue did a person in this module's lessons show most clearly?\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage (for example Chief Justice Marshall choosing a path that protected the Court)",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance (for example the long road to a successful amendment)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government (for example a free people using checks and balances to restrain its own government)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility (for example a citizen who finds the right office to fix a problem)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Virtue reflection. \"Explain your choice in two or three sentences. Then name one place in your own life where this virtue will be asked of you.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d1103",
+   "title": "Discussion: Do Checks and Balances Still Work?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Do Checks and Balances Still Work?</div><div style=\"font-size:15px; color:#E6CE5A;\">10 points · threaded discussion</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2B4C96; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2B4C96; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Madison wrote that “ambition must be made to counteract ambition.” Choose one check from the lessons, such as the veto, the override, impeachment, Senate approval, or judicial review, and make a claim about whether it still works to keep a branch from taking too much power. Support your claim with at least two facts from the lessons, such as Marbury v. Madison. Then say what citizens must do for the checks to work.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a point of your own. If not, respectfully explain where you think it falls short.</p></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag745",
+   "published": false,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null
+  },
+  {
+   "id": "d1104",
+   "title": "Discussion: Where Does State Power End?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Where Does State Power End?</div><div style=\"font-size:15px; color:#E6CE5A;\">10 points · threaded discussion</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2B4C96; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2B4C96; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">McCulloch v. Maryland said that Congress has implied powers and that a state cannot tax the national government. The Tenth Amendment says that other powers are reserved to the states or to the people. Choose one service from the lessons, such as schools, roads, or defense, and make a claim about which level of government should be in charge of it. Support your claim with at least two facts from the lessons. Then say what would be lost if the other level held the power.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a point of your own. If not, respectfully explain where you think it falls short.</p></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag745",
+   "published": false,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null
+  },
+  {
+   "id": "d1105",
+   "title": "Discussion: Which Right Matters Most to a Free Republic?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#152C4E; border-bottom:4px solid #BC9F37; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Which Right Matters Most to a Free Republic?</div><div style=\"font-size:15px; color:#E6CE5A;\">10 points · threaded discussion</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #2B4C96; padding-top:6px; color:#BC9F37; font-size:18px; line-height:1;\">★ ✦ ★</div>\n<div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2B4C96; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2B4C96; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">The Bill of Rights protects many freedoms, among them religion, speech and the press, the rights of the accused, and protection from unreasonable searches. Choose the one right you think a free republic could least afford to lose, and make a claim about why. Support your claim with at least two facts from the lessons, such as a landmark case or the way a right was carried to the states. Then say what would happen to the other rights if the one you chose were taken away.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a point of your own. If not, respectfully explain where you think it falls short.</p></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag745",
+   "published": false,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_10",
+   "title": "Organization and Citizens",
+   "published": false,
+   "items": [
+    {
+     "title": "Map: Organization and Citizens",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_module-10-map-organization-and-citizens"
+    },
+    {
+     "title": "Intro: Organization and Citizens",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5401",
+     "week": 31
+    },
+    {
+     "title": "Lesson: Three Branches, Three Jobs",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_10-dot-1-lesson-three-branches-three-jobs",
+     "week": 31,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Three Branches, Three Jobs",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5402",
+     "week": 31
+    },
+    {
+     "title": "Primary Source: Madison, Federalist No. 51 (1788)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_10-dot-3-primary-source-madison-federalist-no-51-1788",
+     "week": 31,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Madison, Federalist No. 51",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5403",
+     "week": 31
+    },
+    {
+     "title": "Lesson: Checks and Balances and the Limits on Government",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_10-dot-5-lesson-checks-and-balances-and-the-limits-on-government",
+     "week": 31,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Marbury v. Madison (1803)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_10-dot-6-primary-source-marbury-v-madison-1803",
+     "week": 31,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Checks and Balances and the Limits on Government",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5404",
+     "week": 31
+    },
+    {
+     "title": "Critical Questions: Marbury v. Madison (1803)",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5405",
+     "week": 31
+    },
+    {
+     "title": "Discussion: Do Checks and Balances Still Work?",
+     "indent": 0,
+     "published": false,
+     "type": "discussion",
+     "ref": "d1103",
+     "week": 31
+    },
+    {
+     "title": "Lesson: Federalism and the Tenth Amendment",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_10-dot-11-lesson-federalism-and-the-tenth-amendment",
+     "week": 32,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Federalism and the Tenth Amendment",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5406",
+     "week": 32
+    },
+    {
+     "title": "Primary Source: Article IV, Article V, and the Tenth Amendment",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_10-dot-13-primary-source-article-iv-article-v-and-the-tenth-amendment",
+     "week": 32,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Article IV, Article V, and the Tenth Amendment",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5407",
+     "week": 32
+    },
+    {
+     "title": "Lesson: Amending, Florida, and Government Services",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_10-dot-15-lesson-amending-florida-and-government-services",
+     "week": 32,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: McCulloch v. Maryland (1819)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_10-dot-16-primary-source-mcculloch-v-maryland-1819",
+     "week": 32,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Amending, Florida, and Government Services",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5408",
+     "week": 32
+    },
+    {
+     "title": "Critical Questions: McCulloch v. Maryland (1819)",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5409",
+     "week": 32
+    },
+    {
+     "title": "Discussion: Where Does State Power End?",
+     "indent": 0,
+     "published": false,
+     "type": "discussion",
+     "ref": "d1104",
+     "week": 32
+    },
+    {
+     "title": "Lesson: Citizens: Rights, Duties, and the Bill of Rights",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_10-dot-21-lesson-citizens-rights-duties-and-the-bill-of-rights",
+     "week": 33,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Citizens: Rights, Duties, and the Bill of Rights",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5411",
+     "week": 33
+    },
+    {
+     "title": "Primary Source: The Bill of Rights (1791)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_10-dot-23-primary-source-the-bill-of-rights-1791",
+     "week": 33,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: The Bill of Rights",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5412",
+     "week": 33
+    },
+    {
+     "title": "Lesson: Landmark Cases and the Widening of Participation",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_10-dot-25-lesson-landmark-cases-and-the-widening-of-participation",
+     "week": 33,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Miranda v. Arizona (1966)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_10-dot-26-primary-source-miranda-v-arizona-1966",
+     "week": 33,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Report: Miranda v. Arizona (1966)",
+     "indent": 0,
+     "published": false,
+     "type": "assignment",
+     "ref": "a14246",
+     "week": 33
+    },
+    {
+     "title": "Critical Questions: Miranda v. Arizona (1966)",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5413",
+     "week": 33
+    },
+    {
+     "title": "Discussion: Which Right Matters Most to a Free Republic?",
+     "indent": 0,
+     "published": false,
+     "type": "discussion",
+     "ref": "d1105",
+     "week": 33
+    },
+    {
+     "title": "Outro: Organization and Citizens",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5410",
+     "week": 33
+    }
+   ]
+  }
+ ],
+ "syllabus_html": "",
+ "source": {
+  "note": "Sparkled edition of one module of M/J Civics. Read from Canvas course 292 (naming authority; titles, order, points, groups, quiz questions) with _build/pull_canvas.py on 2026-11-20; the sparkled module, not its \"(Unsparkled)\" twin. Module numbers removed from student-facing titles; Canvas module-item links rewritten to link tokens; weeks taken from each lesson page URL. Lessons are iframe pages on https://optimaondemand.github.io/mjcivics-lessons-spring/."
+ }
+}

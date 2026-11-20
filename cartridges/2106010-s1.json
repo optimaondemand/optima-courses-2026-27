@@ -4,9 +4,9 @@
  "code": "2106010",
  "title": "08 MJ Civics 2106010",
  "file": "cartridges/2106010-s1.imscc",
- "bytes": 765412,
- "version": "2026.09.28",
- "built": "2026-09-28T13:46:01",
+ "bytes": 765594,
+ "version": "2026.11.20",
+ "built": "2026-11-20T15:48:09",
  "front_page": "wiki_content/course-home.html",
  "items": 220,
  "modules": [
@@ -2373,7 +2373,7 @@
   "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
  },
  "weighted": true,
- "source": "Canvas course 35 on optimaoaoteam.instructure.com, pulled 2026-09-28",
+ "source": "Canvas course 35 on optimaoaoteam.instructure.com, pulled 2026-11-20",
  "verify": {
   "ok": true,
   "warnings": [
@@ -2408,6 +2408,6 @@
   }
  },
  "status": "ready",
- "spec_sha": "a8112b0e51b324f9056a3621e2808c607a931cef30cc6fc54b412596254fcccd",
+ "spec_sha": "9aea5cad358aa2c413d74b954744fa8efce459c9f71affda817b54ebb421cc3c",
  "art_pack": null
 }
