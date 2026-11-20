@@ -1,0 +1,2069 @@
+{
+ "course": {
+  "title": "08 MJ Civics 2106010",
+  "code": "2106010",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag652",
+   "title": "Assignments",
+   "weight": 0,
+   "canvas_id": 652
+  },
+  {
+   "id": "ag745",
+   "title": "Async Homework",
+   "weight": 60.0,
+   "canvas_id": 745
+  },
+  {
+   "id": "ag746",
+   "title": "Projects & Milestones",
+   "weight": 30.0,
+   "canvas_id": 746
+  },
+  {
+   "id": "ag747",
+   "title": "Sync Activities",
+   "weight": 10.0,
+   "canvas_id": 747
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r1343",
+   "title": "Primary Source Report Rubric (2)",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the source",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Accurately states what Sections 1 and 2 make illegal and the penalty, with an accurate quotation",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Mostly accurate with some gaps",
+       "points": 3.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Vague or partly wrong",
+       "points": 1.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Not shown",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Connects Smith’s idea to the harm of monopoly and compares the law’s words with its use, with specific evidence from the lesson",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Reasons given, evidence general",
+       "points": 3.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Assertions without reasons",
+       "points": 1.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Not shown",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Organized in the four parts, quotation short and accurate",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Mostly clear, some loose wording",
+       "points": 3.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Hard to follow",
+       "points": 1.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Not shown",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Names a real limit of the source and a place to look",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Names a limit, vague",
+       "points": 3.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Limit is not about the source",
+       "points": 1.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Not shown",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_module-7-map-money-and-markets",
+   "title": "Map: Money and Markets",
+   "slug": "module-7-map-money-and-markets",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>MODULE MAP</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Money and Markets</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>How this module works</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Work through the items in order, top to bottom. Read each lesson and primary source, then take the quiz that follows it. Most sets of items close with a discussion. Begin with the Intro and finish with the Outro.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>By the end of this module you will be able to:</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">explain what credit is and how Hamilton’s plan and the national bank built the new nation’s trust; describe the kinds of taxes, why the whiskey tax led to rebellion, and how Washington answered; explain how a market economy works, what a mixed economy is, and why a republic regulates monopolies; compare market and command economies, and use GDP per capita as evidence while naming what it leaves out.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Start here</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\"><a href=\"{{quiz:q5370}}\" style=\"color:#233840; text-decoration:underline;\">Intro: Money and Markets</a> (short survey, no wrong answers)</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 1</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\"><strong>Topics:</strong> Hamilton’s Debt Plan and the Bank; Taxes, the Whiskey Rebellion, and Public Services</p><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#233840; color:#FFFFFF; font-size:14px;\">What it is</th><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#233840; color:#FFFFFF; font-size:14px; width:150px;\">What to do</th></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{page:p_7-dot-1-lesson-hamiltons-debt-plan-and-the-bank}}\" style=\"color:#233840; text-decoration:underline;\">Lesson: Hamilton’s Debt Plan and the Bank</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{quiz:q5371}}\" style=\"color:#233840; text-decoration:underline;\">Reading Quiz: Hamilton’s Debt Plan and the Bank</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#F2F4F5;\">Quiz</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{page:p_7-dot-3-primary-source-hamilton-report-on-public-credit-1790}}\" style=\"color:#233840; text-decoration:underline;\">Primary Source: Hamilton, Report on Public Credit (1790)</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{quiz:q5372}}\" style=\"color:#233840; text-decoration:underline;\">Critical Questions: Hamilton, Report on Public Credit</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#F2F4F5;\">Quiz</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{page:p_7-dot-5-lesson-taxes-the-whiskey-rebellion-and-public-services}}\" style=\"color:#233840; text-decoration:underline;\">Lesson: Taxes, the Whiskey Rebellion, and Public Services</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{page:p_7-dot-6-primary-source-washington-proclamation-on-the-whiskey-rebellion-1794}}\" style=\"color:#233840; text-decoration:underline;\">Primary Source: Washington, Proclamation on the Whiskey Rebellion (1794)</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{quiz:q5373}}\" style=\"color:#233840; text-decoration:underline;\">Reading Quiz: Taxes, the Whiskey Rebellion, and Public Services</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#F2F4F5;\">Quiz</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{quiz:q5374}}\" style=\"color:#233840; text-decoration:underline;\">Critical Questions: Washington, Proclamation on the Whiskey Rebellion</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#F2F4F5;\">Quiz</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{discussion:d1096}}\" style=\"color:#233840; text-decoration:underline;\">Discussion: Hamilton’s Debt Plan: Fair to Whom?</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#EBEBF2;\">Discussion</td></tr></tbody></table></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 2</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\"><strong>Topics:</strong> Smith, Hamilton, and the Mixed Economy; Big Business and the Sherman Act</p><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#233840; color:#FFFFFF; font-size:14px;\">What it is</th><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#233840; color:#FFFFFF; font-size:14px; width:150px;\">What to do</th></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{page:p_7-dot-11-lesson-smith-hamilton-and-the-mixed-economy}}\" style=\"color:#233840; text-decoration:underline;\">Lesson: Smith, Hamilton, and the Mixed Economy</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{quiz:q5375}}\" style=\"color:#233840; text-decoration:underline;\">Reading Quiz: Smith, Hamilton, and the Mixed Economy</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#F2F4F5;\">Quiz</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{page:p_7-dot-13-primary-source-adam-smith-the-wealth-of-nations-book-4-1776}}\" style=\"color:#233840; text-decoration:underline;\">Primary Source: Adam Smith, The Wealth of Nations, Book 4 (1776)</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{quiz:q5376}}\" style=\"color:#233840; text-decoration:underline;\">Critical Questions: Adam Smith, The Wealth of Nations</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#F2F4F5;\">Quiz</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{page:p_7-dot-15-lesson-big-business-and-the-sherman-act}}\" style=\"color:#233840; text-decoration:underline;\">Lesson: Big Business and the Sherman Act</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{page:p_7-dot-16-primary-source-the-sherman-antitrust-act-1890}}\" style=\"color:#233840; text-decoration:underline;\">Primary Source: The Sherman Antitrust Act (1890)</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{assignment:a14206}}\" style=\"color:#233840; text-decoration:underline;\">Primary Source Report: The Sherman Antitrust Act (1890)</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#FFF4D6;\">Submit report</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{quiz:q5377}}\" style=\"color:#233840; text-decoration:underline;\">Critical Questions: The Sherman Antitrust Act</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#F2F4F5;\">Quiz</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{discussion:d1097}}\" style=\"color:#233840; text-decoration:underline;\">Discussion: Should Government Break Up Big Business?</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#EBEBF2;\">Discussion</td></tr></tbody></table></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 3</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\"><strong>Topics:</strong> Planned Economies: The Soviet Union and China; Measuring Standard of Living: GDP Per Capita</p><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#233840; color:#FFFFFF; font-size:14px;\">What it is</th><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#233840; color:#FFFFFF; font-size:14px; width:150px;\">What to do</th></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{page:p_7-dot-21-lesson-planned-economies-the-soviet-union-and-china}}\" style=\"color:#233840; text-decoration:underline;\">Lesson: Planned Economies: The Soviet Union and China</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{quiz:q5378}}\" style=\"color:#233840; text-decoration:underline;\">Reading Quiz: Planned Economies: The Soviet Union and China</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#F2F4F5;\">Quiz</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{page:p_7-dot-23-primary-source-marx-and-engels-the-communist-manifesto-1848}}\" style=\"color:#233840; text-decoration:underline;\">Primary Source: Marx and Engels, The Communist Manifesto (1848)</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{quiz:q5379}}\" style=\"color:#233840; text-decoration:underline;\">Critical Questions: Marx and Engels, The Communist Manifesto</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#F2F4F5;\">Quiz</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{page:p_7-dot-25-lesson-measuring-standard-of-living-gdp-per-capita}}\" style=\"color:#233840; text-decoration:underline;\">Lesson: Measuring Standard of Living: GDP Per Capita</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{page:p_7-dot-26-primary-source-reagan-address-at-the-brandenburg-gate-1987}}\" style=\"color:#233840; text-decoration:underline;\">Primary Source: Reagan, Address at the Brandenburg Gate (1987)</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{quiz:q5380}}\" style=\"color:#233840; text-decoration:underline;\">Reading Quiz: Measuring Standard of Living: GDP Per Capita</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#F2F4F5;\">Quiz</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{quiz:q5381}}\" style=\"color:#233840; text-decoration:underline;\">Critical Questions: Reagan, Address at the Brandenburg Gate</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#F2F4F5;\">Quiz</td></tr><tr><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15;\"><a href=\"{{discussion:d1098}}\" style=\"color:#233840; text-decoration:underline;\">Discussion: Which System Raises the Standard of Living?</a></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:15px; color:#1F1A15; background:#EBEBF2;\">Discussion</td></tr></tbody></table></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Finish here</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\"><a href=\"{{quiz:q5382}}\" style=\"color:#233840; text-decoration:underline;\">Outro: Money and Markets</a> (reflection survey: revisit the module's big question, rate your confidence, and name what is still unclear)</p></div></div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_7-dot-1-lesson-hamiltons-debt-plan-and-the-bank",
+   "title": "Lesson: Hamilton’s Debt Plan and the Bank",
+   "slug": "7-dot-1-lesson-hamiltons-debt-plan-and-the-bank",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Hamilton’s Debt Plan and the Bank</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-24/lesson-24-1.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-24/lesson-24-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_7-dot-3-primary-source-hamilton-report-on-public-credit-1790",
+   "title": "Primary Source: Hamilton, Report on Public Credit (1790)",
+   "slug": "7-dot-3-primary-source-hamilton-report-on-public-credit-1790",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Hamilton, Report on Public Credit (1790)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-24/primary-source-24-1.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-24/primary-source-24-1.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_7-dot-5-lesson-taxes-the-whiskey-rebellion-and-public-services",
+   "title": "Lesson: Taxes, the Whiskey Rebellion, and Public Services",
+   "slug": "7-dot-5-lesson-taxes-the-whiskey-rebellion-and-public-services",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Taxes, the Whiskey Rebellion, and Public Services</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-24/lesson-24-2.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-24/lesson-24-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_7-dot-6-primary-source-washington-proclamation-on-the-whiskey-rebellion-1794",
+   "title": "Primary Source: Washington, Proclamation on the Whiskey Rebellion (1794)",
+   "slug": "7-dot-6-primary-source-washington-proclamation-on-the-whiskey-rebellion-1794",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Washington, Proclamation on the Whiskey Rebellion (1794)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-24/primary-source-24-2.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-24/primary-source-24-2.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_7-dot-11-lesson-smith-hamilton-and-the-mixed-economy",
+   "title": "Lesson: Smith, Hamilton, and the Mixed Economy",
+   "slug": "7-dot-11-lesson-smith-hamilton-and-the-mixed-economy",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Smith, Hamilton, and the Mixed Economy</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-25/lesson-25-1.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-25/lesson-25-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_7-dot-13-primary-source-adam-smith-the-wealth-of-nations-book-4-1776",
+   "title": "Primary Source: Adam Smith, The Wealth of Nations, Book 4 (1776)",
+   "slug": "7-dot-13-primary-source-adam-smith-the-wealth-of-nations-book-4-1776",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Adam Smith, The Wealth of Nations, Book 4 (1776)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-25/primary-source-25-1.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-25/primary-source-25-1.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_7-dot-15-lesson-big-business-and-the-sherman-act",
+   "title": "Lesson: Big Business and the Sherman Act",
+   "slug": "7-dot-15-lesson-big-business-and-the-sherman-act",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Big Business and the Sherman Act</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-25/lesson-25-2.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-25/lesson-25-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_7-dot-16-primary-source-the-sherman-antitrust-act-1890",
+   "title": "Primary Source: The Sherman Antitrust Act (1890)",
+   "slug": "7-dot-16-primary-source-the-sherman-antitrust-act-1890",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: The Sherman Antitrust Act (1890)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-25/primary-source-25-2.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-25/primary-source-25-2.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_7-dot-21-lesson-planned-economies-the-soviet-union-and-china",
+   "title": "Lesson: Planned Economies: The Soviet Union and China",
+   "slug": "7-dot-21-lesson-planned-economies-the-soviet-union-and-china",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Planned Economies: The Soviet Union and China</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-26/lesson-26-1.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-26/lesson-26-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_7-dot-23-primary-source-marx-and-engels-the-communist-manifesto-1848",
+   "title": "Primary Source: Marx and Engels, The Communist Manifesto (1848)",
+   "slug": "7-dot-23-primary-source-marx-and-engels-the-communist-manifesto-1848",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Marx and Engels, The Communist Manifesto (1848)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-26/primary-source-26-1.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-26/primary-source-26-1.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_7-dot-25-lesson-measuring-standard-of-living-gdp-per-capita",
+   "title": "Lesson: Measuring Standard of Living: GDP Per Capita",
+   "slug": "7-dot-25-lesson-measuring-standard-of-living-gdp-per-capita",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Measuring Standard of Living: GDP Per Capita</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-26/lesson-26-2.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-26/lesson-26-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_7-dot-26-primary-source-reagan-address-at-the-brandenburg-gate-1987",
+   "title": "Primary Source: Reagan, Address at the Brandenburg Gate (1987)",
+   "slug": "7-dot-26-primary-source-reagan-address-at-the-brandenburg-gate-1987",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Reagan, Address at the Brandenburg Gate (1987)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-26/primary-source-26-2.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-26/primary-source-26-2.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a14206",
+   "title": "Primary Source Report: The Sherman Antitrust Act (1890)",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>PRIMARY SOURCE REPORT</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Report: The Sherman Antitrust Act (1890)</div><div style=\"font-size:15px; color:#F6C44A;\">20 points · 300 to 450 words · one turn-in</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>What to do</strong></div><div style=\"display:flex; align-items:flex-start; gap:12px; margin-bottom:12px;\"><div style=\"min-width:28px; height:28px; border-radius:50%; background:#233840; color:#F6C44A; font-size:14px; text-align:center; line-height:28px; flex-shrink:0;\"><strong>1</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.6;\">Open the lesson <em>Big Business and the Sherman Act</em> and the primary source <em>The Sherman Antitrust Act (1890)</em>, and download <strong>My Notebook</strong> (the button at the end of the page), or open the page to see your saved answers.</div></div><div style=\"display:flex; align-items:flex-start; gap:12px; margin-bottom:12px;\"><div style=\"min-width:28px; height:28px; border-radius:50%; background:#233840; color:#F6C44A; font-size:14px; text-align:center; line-height:28px; flex-shrink:0;\"><strong>2</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.6;\">Select <strong>Start Assignment</strong>. Type your report in the text box, or upload a file.</div></div><div style=\"display:flex; align-items:flex-start; gap:12px; margin-bottom:12px;\"><div style=\"min-width:28px; height:28px; border-radius:50%; background:#233840; color:#F6C44A; font-size:14px; text-align:center; line-height:28px; flex-shrink:0;\"><strong>3</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.6;\">Write the four parts below in order, with the part name at the start of each.</div></div><div style=\"display:flex; align-items:flex-start; gap:12px; margin-bottom:12px;\"><div style=\"min-width:28px; height:28px; border-radius:50%; background:#233840; color:#F6C44A; font-size:14px; text-align:center; line-height:28px; flex-shrink:0;\"><strong>4</strong></div><div style=\"font-size:17px; color:#1F1A15; line-height:1.6;\">Read the rubric at the bottom. Check your report against it, then submit.</div></div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">You have read the text of the Sherman Antitrust Act and studied how the republic answered the giant companies of the late 1800s. Write a report of 300 to 450 words. Use your own words except where you quote.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 1 · What the law does</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">In two or three sentences, say what Sections 1 and 2 make illegal and what the punishment is. Quote one short phrase from the law’s text.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 2 · Why a market needs it</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Use Adam Smith’s passage and the lesson to explain how a monopoly keeps the “invisible hand” from working. Give one specific example from the lesson.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 3 · Strong on paper, weak in use?</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Use the lesson to say how the Act was used in its first years, and how it was used against Standard Oil. What does this show about the difference between the words of a law and the way it is enforced?</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 4 · What this source cannot tell you</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Name one question about the Act’s results, such as whether it made prices lower, that the text alone cannot answer, and say where you might look for the answer.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#FCF2DB; font-size:14px; width:22%;\">Understanding of the source<br><span style=\"color:#A97218;\">5 pts</span></th><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>5 pts</strong><br>Full<br><span style=\"color:#5C5847;\">Accurately states what Sections 1 and 2 make illegal and the penalty, with an accurate quotation</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3 pts</strong><br>Partial<br><span style=\"color:#5C5847;\">Mostly accurate with some gaps</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>1 pt</strong><br>Thin<br><span style=\"color:#5C5847;\">Vague or partly wrong</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>0 pts</strong><br>Missing<br><span style=\"color:#5C5847;\">Not shown</span></td></tr><tr><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#FCF2DB; font-size:14px; width:22%;\">Quality of reasoning<br><span style=\"color:#A97218;\">5 pts</span></th><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>5 pts</strong><br>Full<br><span style=\"color:#5C5847;\">Connects Smith’s idea to the harm of monopoly and compares the law’s words with its use, with specific evidence from the lesson</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3 pts</strong><br>Partial<br><span style=\"color:#5C5847;\">Reasons given, evidence general</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>1 pt</strong><br>Thin<br><span style=\"color:#5C5847;\">Assertions without reasons</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>0 pts</strong><br>Missing<br><span style=\"color:#5C5847;\">Not shown</span></td></tr><tr><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#FCF2DB; font-size:14px; width:22%;\">Clarity and precision<br><span style=\"color:#A97218;\">5 pts</span></th><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>5 pts</strong><br>Full<br><span style=\"color:#5C5847;\">Organized in the four parts, quotation short and accurate</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3 pts</strong><br>Partial<br><span style=\"color:#5C5847;\">Mostly clear, some loose wording</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>1 pt</strong><br>Thin<br><span style=\"color:#5C5847;\">Hard to follow</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>0 pts</strong><br>Missing<br><span style=\"color:#5C5847;\">Not shown</span></td></tr><tr><th style=\"border:1px solid #E4D7BF; padding:8px; text-align:left; vertical-align:top; background:#FCF2DB; font-size:14px; width:22%;\">Intellectual honesty<br><span style=\"color:#A97218;\">5 pts</span></th><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>5 pts</strong><br>Full<br><span style=\"color:#5C5847;\">Names a real limit of the source and a place to look</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3 pts</strong><br>Partial<br><span style=\"color:#5C5847;\">Names a limit, vague</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>1 pt</strong><br>Thin<br><span style=\"color:#5C5847;\">Limit is not about the source</span></td><td style=\"border:1px solid #E4D7BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>0 pts</strong><br>Missing<br><span style=\"color:#5C5847;\">Not shown</span></td></tr></tbody></table></div></div>",
+   "points": 20.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "group": "ag746",
+   "rubric": "r1343",
+   "rubric_use_for_grading": true,
+   "published": false,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q5370",
+   "title": "Intro: Money and Markets",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>MODULE INTRO · SURVEY</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Intro: Money and Markets</div><div style=\"font-size:15px; color:#F6C44A;\">4 questions · survey · one attempt</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">In this module you will ask how a young nation borrowed money and kept its credit, how it raised taxes without losing its citizens, how a market works and what a republic does when one business grows too big, and what happened in nations that planned the whole economy. These questions come first so that you can see how your answers change by the end.</p></div><div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>By the end of this module you will be able to:</strong></div><ul style=\"margin:0; padding-left:22px;\"><li style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 6px;\">explain what credit is and how Hamilton’s plan and the national bank built the new nation’s trust;</li><li style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 6px;\">describe the kinds of taxes, why the whiskey tax led to rebellion, and how Washington answered;</li><li style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 6px;\">explain how a market economy works, what a mixed economy is, and why a republic regulates monopolies;</li><li style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 6px;\">compare market and command economies, and use GDP per capita as evidence while naming what it leaves out.</li></ul></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": false,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question, first answer. \"How should a free republic handle money, markets, and the power of wealth?\" Answer in three or four sentences. There is no wrong answer yet. We will ask again at the end.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Objectives. \"I have read the module goals above.\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I have read them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I have a question about them. (Say what in the box below.)",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Question about the goals. If you chose the second answer above, what is your question? Otherwise write \"none.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Group work. \"Some assessments in this module may be done alone or with a group. If you choose a group, you will sign the Group Covenant first. Which would you like?\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I plan to work alone.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I would like to work in a group.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "I am not sure yet.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4
+  },
+  {
+   "id": "q5371",
+   "title": "Reading Quiz: Hamilton’s Debt Plan and the Bank",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Hamilton’s Debt Plan and the Bank</div><div style=\"font-size:15px; color:#F6C44A;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Five questions on credit, Hamilton’s plan to pay the nation’s debts, and the fight over the national bank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why does the lesson say that credit is built on trust?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A lender must like the borrower personally.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A lender hands over money now and must believe the borrower will pay it back later.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The government guarantees every loan.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A trusted borrower never has to pay interest.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>A borrower with a record of not paying back will find that lenders refuse, or ask for very high interest.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What was Hamilton’s main argument for paying the national debt in full?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The debt made the nation poor, so it should be wiped away.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "France demanded payment at once.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only the states should have to pay.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A nation that keeps its word will be trusted, and a trusted nation can borrow when it must.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Hamilton wanted the republic to have good credit for emergencies such as a war.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What was the bargain of 1790?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Madison and other Virginians let the assumption of state debts pass, and in return the capital was placed on the Potomac River.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Hamilton dropped the national bank, and Jefferson agreed to pay the debt.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress cancelled the war debt, and the states agreed to a tariff.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Jefferson became Treasury Secretary, and Hamilton became Secretary of State.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Washington, D.C. came out of that bargain.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Jefferson said the Constitution does not give Congress the power to charter a bank. How did Hamilton answer?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Preamble promises liberty to the people.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Tenth Amendment gives that power to the states.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Constitution lets Congress make all laws that are “necessary and proper” for carrying out its listed powers, such as borrowing money.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "President Washington had already approved the bank.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>This was the first great argument about how broadly to read the Constitution.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does the Federal Deposit Insurance Corporation do?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It prints the nation’s money.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It is an agency that insures the money people put in a bank, up to a set amount.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It sets the interest rate on every loan.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It lends money to the states.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Congress created it in 1933, after thousands of banks failed in the Great Depression.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5372",
+   "title": "Critical Questions: Hamilton, Report on Public Credit",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Hamilton, Report on Public Credit</div><div style=\"font-size:15px; color:#F6C44A;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Two questions on Hamilton’s argument for paying the debt. Read the source first.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Hamilton writes that “The faith of America has been repeatedly pledged” for the debt. What is he arguing?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The debt is too large to be repaid.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Other nations will pay the debt for America.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The nation has promised again and again to pay, so refusing would break its word.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Only the states made promises to lenders.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>To pledge faith is to give a promise. Hamilton treats the debt as a promise the nation must keep.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "true_false",
+     "text": "<p>Hamilton says that a nation which does not keep its engagements will still be respected and trusted.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "False",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>He says that the “reverse” is the fate of those who break their engagements.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5373",
+   "title": "Reading Quiz: Taxes, the Whiskey Rebellion, and Public Services",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Taxes, the Whiskey Rebellion, and Public Services</div><div style=\"font-size:15px; color:#F6C44A;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Five questions on the kinds of taxes, the Whiskey Rebellion, and what citizens expect from government.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did the tax on whiskey fall so hard on farmers on the western frontier?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Whiskey was against the law in the West.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Western farmers did not grow any grain.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Grain was costly to haul over the mountains, and turning it into whiskey was how many farmers reached a market.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Tax collectors lived only in the West.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The lesson says the tax fell on the one product that let a frontier farmer reach a market.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which choice best describes how President Washington answered the rebellion?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He ordered the rebels home, sent commissioners to talk, called up a militia army, and later pardoned the two men convicted of treason.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He ignored the protest until it ended.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He repealed the tax at once to calm the farmers.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He punished every protester with the full penalty for treason.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Washington used force first and mercy after.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which level of government depends mostly on property taxes?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The national government.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The state legislature.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Local governments, which use them for schools, police, and fire protection.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The national government relies mostly on income and payroll taxes, and states rely on sales taxes.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did the 16th Amendment do?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It forbade the nation to tax incomes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It let Congress tax incomes, which grew into the main source of money for the national government.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It created the sales tax.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It gave the states power to tax goods from other countries.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The states ratified it in 1913.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The lesson says that citizens in a republic have a better road than armed protest. What is it?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Petition Congress, write to newspapers, and vote against the lawmakers who passed the law.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Refuse to pay and gather arms.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Wait for the President to pardon everyone.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Move to another state.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Many western farmers did just that, and they helped to elect Jefferson.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5374",
+   "title": "Critical Questions: Washington, Proclamation on the Whiskey Rebellion",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Washington, Proclamation on the Whiskey Rebellion</div><div style=\"font-size:15px; color:#F6C44A;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Two questions on what the President said to the western counties and what he ordered. Read the source first.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>What reason does Washington give for needing more than the ordinary courts?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "There were no courts in western Pennsylvania.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The laws had been opposed by combinations too powerful to be suppressed by the ordinary course of judicial proceedings.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The judges had refused to hear the cases.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The protesters had already been found innocent.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The text says that ordinary judicial proceedings could not suppress the opposition.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_answers",
+     "text": "<p>Which two things does Washington command the insurgents to do?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "To disperse",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "To retire peaceably to their homes",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "To hand over their land to the government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To pay the tax in gold",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The text commands them to “disperse and retire peaceably to their respective abodes.”</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5375",
+   "title": "Reading Quiz: Smith, Hamilton, and the Mixed Economy",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Smith, Hamilton, and the Mixed Economy</div><div style=\"font-size:15px; color:#F6C44A;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Five questions on how a market economy works, how it differs from a command economy, and what a mixed economy is.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>After a hurricane, the price of plywood in Florida rises. What does the higher price do?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It stops builders from buying anything.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It tells the government to take over the lumber business.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It makes sellers close their shops.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It tells sellers in other states that plywood is wanted here, so they send more.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The price carried the message, and thousands of sellers answered it.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did Smith say that a market needs from the law?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Nothing. A market runs best with no rules at all.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Courts that enforce contracts, laws that keep people honest, and safe property.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A law that sets the price of every good.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A rule that only rich people may trade.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>A market needs rule of law, just as a republic does.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How did Jefferson and Hamilton differ in what they hoped for the republic?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Jefferson wanted factories, and Hamilton wanted farms.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Both wanted a command economy.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Jefferson thought the best citizens were independent farmers, and Hamilton argued that manufacturing would make the country stronger.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Both wanted the nation to stop trading with other countries.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Both men were thinking like classical republicans, but they answered the question differently.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why is the Erie Canal an example of a mixed economy?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The government of New York paid for it, and private farmers and merchants used it to ship and sell goods.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The national government took over all shipping.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A private company built it with no help from any government.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It ended trade between the Midwest and the East.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>In a mixed economy, private people make most decisions but government also plays a part.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Who gained and who paid because of the early tariffs?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Everyone gained equally.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only farmers gained.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Tariffs ended in 1800, so no one was affected.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "American makers of cloth, iron, and tools gained, and a farmer who bought tools paid more.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Americans argued about who should gain and who should pay, and that argument is part of life in a mixed economy.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5376",
+   "title": "Critical Questions: Adam Smith, The Wealth of Nations",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Adam Smith, The Wealth of Nations</div><div style=\"font-size:15px; color:#F6C44A;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Two questions on Smith’s famous “invisible hand.” Read the source first.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "true_false",
+     "text": "<p>In this passage, Smith says that the merchant sets out to help society.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "False",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Smith says the merchant “intends only his own gain” and is led by an invisible hand to help others.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Smith writes that by pursuing his own interest a person “frequently” promotes the interest of society. What does the word “frequently” tell you?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Self-interest always helps society.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-interest often helps society, but Smith does not claim that it always does.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Self-interest never helps society.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-interest helps only the rich.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>A careful reader notices that Smith says “frequently,” not “always.”</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5377",
+   "title": "Critical Questions: The Sherman Antitrust Act",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: The Sherman Antitrust Act</div><div style=\"font-size:15px; color:#F6C44A;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Two questions on the text of the nation’s first antitrust law. Read the source first.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Section 2 punishes a person who “shall monopolize, or attempt to monopolize.” What do the words “attempt to” add?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Only people who succeed in taking over a market are punished.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only companies, and not persons, can be punished.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Trying and failing to take over a market is legal.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A person can be guilty even if the attempt to take over a market did not succeed.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The law reaches the attempt as well as the success.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_answers",
+     "text": "<p>Which two punishments does Section 2 allow?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A fine not exceeding five thousand dollars",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Imprisonment of up to ten years",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Imprisonment not exceeding one year",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Loss of citizenship",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The text also allows both punishments together, at the court’s discretion.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5378",
+   "title": "Reading Quiz: Planned Economies: The Soviet Union and China",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Planned Economies: The Soviet Union and China</div><div style=\"font-size:15px; color:#F6C44A;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Five questions on the promises of the Communist Manifesto and what happened in the Soviet Union and China.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these did The Communist Manifesto promise?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A society with no classes and no need for a government to rule over anyone.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A free market with no rules.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A king chosen by the workers.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A government that would grow larger forever.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The leaders who followed Marx did not make the government fade away. They made it all-powerful.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did a planned economy do so badly at making ordinary goods?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Soviet Union had no factories.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Workers refused to work.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The planners set the prices, so prices could not tell them what people wanted, and shortages and waste followed.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Citizens wanted very few goods.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>A planner in a distant office had to guess how many shoes and shoelaces a hundred million people needed.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did the famine of the Great Leap Forward become so deadly?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Bad weather alone caused it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Officials were afraid to report bad news, so they reported harvests that did not exist, and the state took grain based on the false numbers.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Other countries refused to sell China food.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Mao banned farming.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>A free press or an election might have let the truth out sooner.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What was collectivization?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Letting farmers buy more land.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Giving farmers new machines.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ending all taxes on farms.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Forcing farmers to give up their land, animals, and tools and join large state-run farms.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>It led to resistance and then to the famine of 1932 and 1933.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What do China’s reforms after Mao show?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That markets always fail.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That markets bring freedom automatically.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That incomes rose when markets were allowed, but China did not become a free republic.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "That command economies work better than markets.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>A market can be added without freedom following.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5379",
+   "title": "Critical Questions: Marx and Engels, The Communist Manifesto",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Marx and Engels, The Communist Manifesto</div><div style=\"font-size:15px; color:#F6C44A;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Two questions on what the Manifesto said its followers wanted. Read the source first.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>The authors say that the theory of the Communists may be summed up in a single sentence. What is it?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Free trade in all goods.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Abolition of private property.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Rule by a king.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Lower taxes for everyone.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>This is the idea that led to command economies.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_answers",
+     "text": "<p>Which two measures from the list put economic power in the hands of the government?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Abolition of property in land and use of all rents for public purposes",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Free choice of jobs for every worker",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Centralization of credit in the hands of the State",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Competition among private banks",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Both steps move land or lending out of private hands and into the government’s.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5380",
+   "title": "Reading Quiz: Measuring Standard of Living: GDP Per Capita",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Measuring Standard of Living: GDP Per Capita</div><div style=\"font-size:15px; color:#F6C44A;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Five questions on how GDP per capita measures a standard of living and what it shows about different economic systems.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why do economists divide GDP by the number of people?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "To make large countries look larger.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A large country can have a large GDP and still be poor, and a per-person number compares countries fairly.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "To count only the people who work.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To remove the effect of taxes.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Think of the party with a hundred guests and the party with ten.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these does GDP per capita not show?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The total value of what a country makes in a year.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The average amount produced per person.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The value of what a country makes and sells.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "How wealth is shared, how much unpaid work is done, or whether people are free to speak and vote.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>It is a useful tool, but it is only one tool.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why do the divisions of Germany and Korea work like experiments?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The people on each side shared a language, history, and culture, so the main thing that changed was the system.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The two sides spoke different languages.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Both sides chose the same system.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Neither side kept any records.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>In both cases the market half grew far richer than the command half.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is one of the reasons economists give for why markets do better?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Governments set every price.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Planners know what everyone wants.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "People who may keep the reward for hard work or a good idea work harder and try more things.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The state owns all property.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The other reasons are prices, property, and the rule of law.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these can a market not do alone?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Let sellers compete for customers.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Let people choose their jobs.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Let prices change when goods become scarce.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Protect itself from monopolies, or provide national defense, or give every family a fair start.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Citizens of a republic have to decide how far government should go. A mixed economy is the American way of answering.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5381",
+   "title": "Critical Questions: Reagan, Address at the Brandenburg Gate",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Reagan, Address at the Brandenburg Gate</div><div style=\"font-size:15px; color:#F6C44A;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Two questions on what President Reagan said at the Berlin Wall. Read the source first.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Reagan says that after four decades there is “one great and inescapable conclusion.” What is it?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Walls keep the peace.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Prosperity leads to freedom.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Freedom leads to prosperity.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Soviet Union can feed itself.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Reagan gives the Soviet food shortage as part of his evidence.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "true_false",
+     "text": "<p>Reagan says that the Soviet Union can feed itself.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "False",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>He says the opposite: “the Soviet Union still cannot feed itself.”</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5382",
+   "title": "Outro: Money and Markets",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>MODULE OUTRO · SURVEY</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Outro: Money and Markets</div><div style=\"font-size:15px; color:#F6C44A;\">5 questions · survey · one attempt</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #233840; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#233840; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">You have finished this module. Answer honestly. Your answers help your teacher see what is clear and what is not.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": false,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question, revisited. \"How should a free republic handle money, markets, and the power of wealth?\" Answer in four or five sentences. Use at least one example from the module (for example Hamilton’s plan, the whiskey tax, the Sherman Act, or the comparison of West and East Germany). How is your answer different from the one you gave at the start?</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Confidence. \"How well could you explain this module's main ideas to a classmate?\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "5: Very well. I could teach it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "4: Well, with one or two gaps.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3: Somewhat. I need to review a few parts.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "2: Not very well.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "1: Not at all.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear. \"Name one idea, event, or term from this module that is still unclear to you. If nothing is unclear, say what you would like to learn more about.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Virtue. \"Which virtue did a person in this module's lessons show most clearly?\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage (for example Gareth Jones reporting the famine, or Reagan speaking at the Berlin Wall)",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty (for example a government that keeps its word on its debts)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility (for example Washington enforcing the law and then showing mercy)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Virtue reflection. \"Explain your choice in two or three sentences. Then name one place in your own life where this virtue will be asked of you.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d1096",
+   "title": "Discussion: Hamilton’s Debt Plan: Fair to Whom?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Hamilton’s Debt Plan: Fair to Whom?</div><div style=\"font-size:15px; color:#F6C44A;\">10 points · threaded discussion</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Hamilton asked Congress to pay the national debt in full and to take over the debts of the states. Some states had already paid most of their debts, and speculators had bought old promises from poor soldiers at low prices. Choose one group affected by the plan (for example soldiers, states that had paid, speculators, or taxpayers) and make a claim about whether the plan was fair to that group. Support your claim with at least two facts from the lessons or from Hamilton’s report. Then say one change you would make to the plan, and what it would cost.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a point of your own. If not, respectfully explain where you think it falls short.</p></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag745",
+   "published": false,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null
+  },
+  {
+   "id": "d1097",
+   "title": "Discussion: Should Government Break Up Big Business?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Should Government Break Up Big Business?</div><div style=\"font-size:15px; color:#F6C44A;\">10 points · threaded discussion</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Roosevelt’s government broke Standard Oil into more than thirty companies. Some said that big companies are more efficient and lower prices. Others said that a company which can crush every rival will not keep prices low for long. Take a side: should the government break up a business that has grown very large? Support your claim with at least two facts from the lessons, such as Smith’s idea of competition, what Standard Oil did to rivals, or what happened after the breakup. Then state the strongest argument for the other side, and say what evidence would help to decide between you.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a point of your own. If not, respectfully explain where you think it falls short.</p></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag745",
+   "published": false,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null
+  },
+  {
+   "id": "d1098",
+   "title": "Discussion: Which System Raises the Standard of Living?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#233840; border-bottom:4px solid #CB9528; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Which System Raises the Standard of Living?</div><div style=\"font-size:15px; color:#F6C44A;\">10 points · threaded discussion</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #A97218; padding-top:6px; color:#CB9528; font-size:18px; line-height:1;\">● ○ ●</div>\n<div style=\"background:#FFFFFF; border:1px solid #E4D7BF; border-top:4px solid #A97218; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A97218; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Make a claim about which kind of economy, market or command, better raises the standard of living. Use at least one comparison from the lessons, such as West and East Germany, South and North Korea, or GDP per capita figures for different countries. Then name one thing that GDP per capita does not measure, and say whether it changes your answer. End with one thing a market cannot do alone, and who in a republic should decide how to handle it.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a point of your own. If not, respectfully explain where you think it falls short.</p></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag745",
+   "published": false,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_7",
+   "title": "Money and Markets",
+   "published": false,
+   "items": [
+    {
+     "title": "Map: Money and Markets",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_module-7-map-money-and-markets"
+    },
+    {
+     "title": "Intro: Money and Markets",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5370",
+     "week": 24
+    },
+    {
+     "title": "Lesson: Hamilton’s Debt Plan and the Bank",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_7-dot-1-lesson-hamiltons-debt-plan-and-the-bank",
+     "week": 24,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Hamilton’s Debt Plan and the Bank",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5371",
+     "week": 24
+    },
+    {
+     "title": "Primary Source: Hamilton, Report on Public Credit (1790)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_7-dot-3-primary-source-hamilton-report-on-public-credit-1790",
+     "week": 24,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Hamilton, Report on Public Credit",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5372",
+     "week": 24
+    },
+    {
+     "title": "Lesson: Taxes, the Whiskey Rebellion, and Public Services",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_7-dot-5-lesson-taxes-the-whiskey-rebellion-and-public-services",
+     "week": 24,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Washington, Proclamation on the Whiskey Rebellion (1794)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_7-dot-6-primary-source-washington-proclamation-on-the-whiskey-rebellion-1794",
+     "week": 24,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Taxes, the Whiskey Rebellion, and Public Services",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5373",
+     "week": 24
+    },
+    {
+     "title": "Critical Questions: Washington, Proclamation on the Whiskey Rebellion",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5374",
+     "week": 24
+    },
+    {
+     "title": "Discussion: Hamilton’s Debt Plan: Fair to Whom?",
+     "indent": 0,
+     "published": false,
+     "type": "discussion",
+     "ref": "d1096",
+     "week": 24
+    },
+    {
+     "title": "Lesson: Smith, Hamilton, and the Mixed Economy",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_7-dot-11-lesson-smith-hamilton-and-the-mixed-economy",
+     "week": 25,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Smith, Hamilton, and the Mixed Economy",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5375",
+     "week": 25
+    },
+    {
+     "title": "Primary Source: Adam Smith, The Wealth of Nations, Book 4 (1776)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_7-dot-13-primary-source-adam-smith-the-wealth-of-nations-book-4-1776",
+     "week": 25,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Adam Smith, The Wealth of Nations",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5376",
+     "week": 25
+    },
+    {
+     "title": "Lesson: Big Business and the Sherman Act",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_7-dot-15-lesson-big-business-and-the-sherman-act",
+     "week": 25,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: The Sherman Antitrust Act (1890)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_7-dot-16-primary-source-the-sherman-antitrust-act-1890",
+     "week": 25,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Report: The Sherman Antitrust Act (1890)",
+     "indent": 0,
+     "published": false,
+     "type": "assignment",
+     "ref": "a14206",
+     "week": 25
+    },
+    {
+     "title": "Critical Questions: The Sherman Antitrust Act",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5377",
+     "week": 25
+    },
+    {
+     "title": "Discussion: Should Government Break Up Big Business?",
+     "indent": 0,
+     "published": false,
+     "type": "discussion",
+     "ref": "d1097",
+     "week": 25
+    },
+    {
+     "title": "Lesson: Planned Economies: The Soviet Union and China",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_7-dot-21-lesson-planned-economies-the-soviet-union-and-china",
+     "week": 26,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Planned Economies: The Soviet Union and China",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5378",
+     "week": 26
+    },
+    {
+     "title": "Primary Source: Marx and Engels, The Communist Manifesto (1848)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_7-dot-23-primary-source-marx-and-engels-the-communist-manifesto-1848",
+     "week": 26,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Marx and Engels, The Communist Manifesto",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5379",
+     "week": 26
+    },
+    {
+     "title": "Lesson: Measuring Standard of Living: GDP Per Capita",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_7-dot-25-lesson-measuring-standard-of-living-gdp-per-capita",
+     "week": 26,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Reagan, Address at the Brandenburg Gate (1987)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_7-dot-26-primary-source-reagan-address-at-the-brandenburg-gate-1987",
+     "week": 26,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Measuring Standard of Living: GDP Per Capita",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5380",
+     "week": 26
+    },
+    {
+     "title": "Critical Questions: Reagan, Address at the Brandenburg Gate",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5381",
+     "week": 26
+    },
+    {
+     "title": "Discussion: Which System Raises the Standard of Living?",
+     "indent": 0,
+     "published": false,
+     "type": "discussion",
+     "ref": "d1098",
+     "week": 26
+    },
+    {
+     "title": "Outro: Money and Markets",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5382",
+     "week": 26
+    }
+   ]
+  }
+ ],
+ "syllabus_html": "",
+ "source": {
+  "note": "Sparkled edition of one module of M/J Civics. Read from Canvas course 292 (naming authority; titles, order, points, groups, quiz questions) with _build/pull_canvas.py on 2026-11-20; the sparkled module, not its \"(Unsparkled)\" twin. Module numbers removed from student-facing titles; Canvas module-item links rewritten to link tokens; weeks taken from each lesson page URL. Lessons are iframe pages on https://optimaondemand.github.io/mjcivics-lessons-spring/."
+ }
+}

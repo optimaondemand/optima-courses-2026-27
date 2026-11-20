@@ -1,0 +1,3797 @@
+{
+ "course": {
+  "title": "08 MJ Civics 2106010",
+  "code": "2106010",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag652",
+   "title": "Assignments",
+   "weight": 0,
+   "canvas_id": 652
+  },
+  {
+   "id": "ag745",
+   "title": "Async Homework",
+   "weight": 60.0,
+   "canvas_id": 745
+  },
+  {
+   "id": "ag746",
+   "title": "Projects & Milestones",
+   "weight": 30.0,
+   "canvas_id": 746
+  },
+  {
+   "id": "ag747",
+   "title": "Sync Activities",
+   "weight": 10.0,
+   "canvas_id": 747
+  }
+ ],
+ "rubrics": [],
+ "pages": [
+  {
+   "id": "p_module-11-map-policy-and-practice",
+   "title": "Map: Policy and Practice",
+   "slug": "module-11-map-policy-and-practice",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#26313D; border-bottom:4px solid #CF9F24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>MODULE MAP</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Policy and Practice</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #288C99; padding-top:6px; color:#CF9F24; font-size:18px; line-height:1;\">☐ ☑ ☐</div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>How this module works</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Work through the items in order, top to bottom. Read each lesson and primary source, then take the quiz that follows it. Most sets of items close with a discussion. Begin with the Intro and finish with the Outro.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>By the end of this module you will be able to:</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">follow the steps of an election, explain the Electoral College, and tell how the election of 1800 led to the 12th Amendment; explain Madison’s idea of faction and Tocqueville’s view of associations, judge a source for bias, and act on a local problem; describe how America has argued about its place in the world, from Washington’s warning to the Truman Doctrine; compare market, mixed, and command economies, and use GDP per capita as evidence; review the whole course by tracing each part of the Constitution to the failure it answers.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Start here</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\"><a href=\"{{quiz:q5414}}\" style=\"color:#26313D; text-decoration:underline;\">Intro: Policy and Practice</a> (short survey, no wrong answers)</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 1</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\"><strong>Topics:</strong> Elections and the Electoral College; Media, Interest Groups, and Local Action</p><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E5D9BE; padding:8px; text-align:left; vertical-align:top; background:#26313D; color:#FFFFFF; font-size:14px;\">What it is</th><th style=\"border:1px solid #E5D9BE; padding:8px; text-align:left; vertical-align:top; background:#26313D; color:#FFFFFF; font-size:14px; width:150px;\">What to do</th></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{page:p_11-dot-1-lesson-elections-and-the-electoral-college}}\" style=\"color:#26313D; text-decoration:underline;\">Lesson: Elections and the Electoral College</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{quiz:q5415}}\" style=\"color:#26313D; text-decoration:underline;\">Reading Quiz: Elections and the Electoral College</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#F3F4F4;\">Quiz</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{page:p_11-dot-3-primary-source-madison-federalist-no-10-1787}}\" style=\"color:#26313D; text-decoration:underline;\">Primary Source: Madison, Federalist No. 10 (1787)</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{quiz:q5416}}\" style=\"color:#26313D; text-decoration:underline;\">Critical Questions: Madison, Federalist No. 10</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#F3F4F4;\">Quiz</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{page:p_11-dot-5-lesson-media-interest-groups-and-local-action}}\" style=\"color:#26313D; text-decoration:underline;\">Lesson: Media, Interest Groups, and Local Action</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{page:p_11-dot-6-primary-source-tocqueville-democracy-in-america-1835}}\" style=\"color:#26313D; text-decoration:underline;\">Primary Source: Tocqueville, Democracy in America (1835)</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{quiz:q5417}}\" style=\"color:#26313D; text-decoration:underline;\">Reading Quiz: Media, Interest Groups, and Local Action</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#F3F4F4;\">Quiz</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{quiz:q5418}}\" style=\"color:#26313D; text-decoration:underline;\">Critical Questions: Tocqueville, Democracy in America</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#F3F4F4;\">Quiz</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{discussion:d1106}}\" style=\"color:#26313D; text-decoration:underline;\">Discussion: How Should a Citizen Try to Change a Law?</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#EDEBF2;\">Discussion</td></tr></tbody></table></div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 2</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\"><strong>Topics:</strong> Foreign Policy and International Organizations; Capitalism, Command Economies, and Communism</p><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E5D9BE; padding:8px; text-align:left; vertical-align:top; background:#26313D; color:#FFFFFF; font-size:14px;\">What it is</th><th style=\"border:1px solid #E5D9BE; padding:8px; text-align:left; vertical-align:top; background:#26313D; color:#FFFFFF; font-size:14px; width:150px;\">What to do</th></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{page:p_11-dot-11-lesson-foreign-policy-and-international-organizations}}\" style=\"color:#26313D; text-decoration:underline;\">Lesson: Foreign Policy and International Organizations</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{quiz:q5419}}\" style=\"color:#26313D; text-decoration:underline;\">Reading Quiz: Foreign Policy and International Organizations</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#F3F4F4;\">Quiz</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{page:p_11-dot-13-primary-source-monroe-seventh-annual-message-1823}}\" style=\"color:#26313D; text-decoration:underline;\">Primary Source: Monroe, Seventh Annual Message (1823)</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{quiz:q5420}}\" style=\"color:#26313D; text-decoration:underline;\">Critical Questions: Monroe, Seventh Annual Message (1823)</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#F3F4F4;\">Quiz</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{page:p_11-dot-15-lesson-capitalism-command-economies-and-communism}}\" style=\"color:#26313D; text-decoration:underline;\">Lesson: Capitalism, Command Economies, and Communism</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{page:p_11-dot-16-primary-source-the-truman-doctrine-1947}}\" style=\"color:#26313D; text-decoration:underline;\">Primary Source: The Truman Doctrine (1947)</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{quiz:q5421}}\" style=\"color:#26313D; text-decoration:underline;\">Reading Quiz: Capitalism, Command Economies, and Communism</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#F3F4F4;\">Quiz</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{quiz:q5422}}\" style=\"color:#26313D; text-decoration:underline;\">Critical Questions: The Truman Doctrine (1947)</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#F3F4F4;\">Quiz</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{discussion:d1107}}\" style=\"color:#26313D; text-decoration:underline;\">Discussion: Should America Lead the World?</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#EDEBF2;\">Discussion</td></tr></tbody></table></div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 3</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\"><strong>Topics:</strong> Practice: Origins and Organization; Practice: Roles and Policies</p><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E5D9BE; padding:8px; text-align:left; vertical-align:top; background:#26313D; color:#FFFFFF; font-size:14px;\">What it is</th><th style=\"border:1px solid #E5D9BE; padding:8px; text-align:left; vertical-align:top; background:#26313D; color:#FFFFFF; font-size:14px; width:150px;\">What to do</th></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{page:p_11-dot-21-lesson-practice-origins-and-organization}}\" style=\"color:#26313D; text-decoration:underline;\">Lesson: Practice: Origins and Organization</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{quiz:q5423}}\" style=\"color:#26313D; text-decoration:underline;\">Practice Exam: Origins and Organization</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#E8F5E9;\">Practice, ungraded</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{page:p_11-dot-25-lesson-practice-roles-and-policies}}\" style=\"color:#26313D; text-decoration:underline;\">Lesson: Practice: Roles and Policies</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{quiz:q5424}}\" style=\"color:#26313D; text-decoration:underline;\">Practice Exam: Roles and Policies</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#E8F5E9;\">Practice, ungraded</td></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{discussion:d1108}}\" style=\"color:#26313D; text-decoration:underline;\">Discussion: Which Part of the Constitution Answers Which Failure?</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#EDEBF2;\">Discussion</td></tr></tbody></table></div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 4</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E5D9BE; padding:8px; text-align:left; vertical-align:top; background:#26313D; color:#FFFFFF; font-size:14px;\">What it is</th><th style=\"border:1px solid #E5D9BE; padding:8px; text-align:left; vertical-align:top; background:#26313D; color:#FFFFFF; font-size:14px; width:150px;\">What to do</th></tr><tr><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14;\"><a href=\"{{quiz:q5429}}\" style=\"color:#26313D; text-decoration:underline;\">Quarter 4 Exam: The Republic Reviewed</a></td><td style=\"border:1px solid #E5D9BE; padding:8px; vertical-align:top; font-size:15px; color:#201B14; background:#FDE7E7;\">Exam</td></tr></tbody></table></div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Finish here</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\"><a href=\"{{quiz:q5425}}\" style=\"color:#26313D; text-decoration:underline;\">Outro: Policy and Practice</a> (reflection survey: revisit the module's big question, rate your confidence, and name what is still unclear)</p></div></div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_11-dot-1-lesson-elections-and-the-electoral-college",
+   "title": "Lesson: Elections and the Electoral College",
+   "slug": "11-dot-1-lesson-elections-and-the-electoral-college",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Elections and the Electoral College</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-34/lesson-34-1.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-34/lesson-34-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_11-dot-3-primary-source-madison-federalist-no-10-1787",
+   "title": "Primary Source: Madison, Federalist No. 10 (1787)",
+   "slug": "11-dot-3-primary-source-madison-federalist-no-10-1787",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Madison, Federalist No. 10 (1787)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-34/primary-source-34-1.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-34/primary-source-34-1.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_11-dot-5-lesson-media-interest-groups-and-local-action",
+   "title": "Lesson: Media, Interest Groups, and Local Action",
+   "slug": "11-dot-5-lesson-media-interest-groups-and-local-action",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Media, Interest Groups, and Local Action</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-34/lesson-34-2.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-34/lesson-34-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_11-dot-6-primary-source-tocqueville-democracy-in-america-1835",
+   "title": "Primary Source: Tocqueville, Democracy in America (1835)",
+   "slug": "11-dot-6-primary-source-tocqueville-democracy-in-america-1835",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Tocqueville, Democracy in America (1835)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-34/primary-source-34-2.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-34/primary-source-34-2.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_11-dot-11-lesson-foreign-policy-and-international-organizations",
+   "title": "Lesson: Foreign Policy and International Organizations",
+   "slug": "11-dot-11-lesson-foreign-policy-and-international-organizations",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Foreign Policy and International Organizations</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-35/lesson-35-1.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-35/lesson-35-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_11-dot-13-primary-source-monroe-seventh-annual-message-1823",
+   "title": "Primary Source: Monroe, Seventh Annual Message (1823)",
+   "slug": "11-dot-13-primary-source-monroe-seventh-annual-message-1823",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Monroe, Seventh Annual Message (1823)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-35/primary-source-35-1.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-35/primary-source-35-1.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_11-dot-15-lesson-capitalism-command-economies-and-communism",
+   "title": "Lesson: Capitalism, Command Economies, and Communism",
+   "slug": "11-dot-15-lesson-capitalism-command-economies-and-communism",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Capitalism, Command Economies, and Communism</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-35/lesson-35-2.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-35/lesson-35-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_11-dot-16-primary-source-the-truman-doctrine-1947",
+   "title": "Primary Source: The Truman Doctrine (1947)",
+   "slug": "11-dot-16-primary-source-the-truman-doctrine-1947",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: The Truman Doctrine (1947)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-35/primary-source-35-2.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-35/primary-source-35-2.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_11-dot-21-lesson-practice-origins-and-organization",
+   "title": "Lesson: Practice: Origins and Organization",
+   "slug": "11-dot-21-lesson-practice-origins-and-organization",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Practice: Origins and Organization</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-36/lesson-36-1.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-36/lesson-36-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_11-dot-25-lesson-practice-roles-and-policies",
+   "title": "Lesson: Practice: Roles and Policies",
+   "slug": "11-dot-25-lesson-practice-roles-and-policies",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Practice: Roles and Policies</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-36/lesson-36-2.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-36/lesson-36-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q5414",
+   "title": "Intro: Policy and Practice",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#26313D; border-bottom:4px solid #CF9F24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>MODULE INTRO · SURVEY</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Intro: Policy and Practice</div><div style=\"font-size:15px; color:#FAD046;\">4 questions · survey · one attempt</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #288C99; padding-top:6px; color:#CF9F24; font-size:18px; line-height:1;\">☐ ☑ ☐</div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">In this module you will study how citizens take part in public policy and how the republic deals with the world. You will follow an election from registration to the count, ask what a citizen can do between elections, look at the republic’s place among other nations, and compare economic systems. You will also practice for the end-of-course exam. These questions come first so that you can see how your answers change by the end.</p></div><div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>By the end of this module you will be able to:</strong></div><ul style=\"margin:0; padding-left:22px;\"><li style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 6px;\">follow the steps of an election, explain the Electoral College, and tell how the election of 1800 led to the 12th Amendment;</li><li style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 6px;\">explain Madison’s idea of faction and Tocqueville’s view of associations, judge a source for bias, and act on a local problem;</li><li style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 6px;\">describe how America has argued about its place in the world, from Washington’s warning to the Truman Doctrine;</li><li style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 6px;\">compare market, mixed, and command economies, and use GDP per capita as evidence;</li><li style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 6px;\">review the whole course by tracing each part of the Constitution to the failure it answers.</li></ul></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": false,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question, first answer. \"What does it take for citizens to keep a free republic working, at home and in the world?\" Answer in three or four sentences. There is no wrong answer yet. We will ask again at the end.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Objectives. \"I have read the module goals above.\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I have read them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I have a question about them. (Say what in the box below.)",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Question about the goals. If you chose the second answer above, what is your question? Otherwise write \"none.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Group work. \"Some assessments in this module may be done alone or with a group. If you choose a group, you will sign the Group Covenant first. Which would you like?\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I plan to work alone.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I would like to work in a group.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "I am not sure yet.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4
+  },
+  {
+   "id": "q5415",
+   "title": "Reading Quiz: Elections and the Electoral College",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#26313D; border-bottom:4px solid #CF9F24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Elections and the Electoral College</div><div style=\"font-size:15px; color:#FAD046;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #288C99; padding-top:6px; color:#CF9F24; font-size:18px; line-height:1;\">☐ ☑ ☐</div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Five questions on how elections work, the Electoral College, and the election of 1800.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Who has the main job of running elections in the United States?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The President.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The states, under rules that Congress may change.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The United Nations.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>That is why voting rules and ballots differ from place to place.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which set of qualifications fits the office of President?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "At least twenty-five years old and a citizen for seven years.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "At least thirty years old and a citizen for nine years.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "At least thirty-five years old, a natural-born citizen, and a resident for fourteen years.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "At least twenty-one years old and born in the capital.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The first set fits a member of the House, and the second fits a senator.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In which order do the steps of an election come?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Registration, primaries, general election, count.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Primaries, registration, count, general election.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "General election, registration, primaries, count.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Count, registration, primaries, general election.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Each step has rules, and citizens and the press can watch each one.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How many electoral votes does a candidate need to win the presidency?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "538.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "435.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "100.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "270.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>There are 538 electors in all: one for each member of Congress, plus three for the District of Columbia.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did Jefferson and Burr tie in the election of 1800?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The House refused to count the votes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Every Republican elector voted for both men, because electors had no separate vote for Vice President.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Burr had won more votes in every state.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Senate had changed the rules.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The 12th Amendment fixed the flaw by having electors cast separate votes for President and Vice President.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5416",
+   "title": "Critical Questions: Madison, Federalist No. 10",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#26313D; border-bottom:4px solid #CF9F24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Madison, Federalist No. 10</div><div style=\"font-size:15px; color:#FAD046;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #288C99; padding-top:6px; color:#CF9F24; font-size:18px; line-height:1;\">☐ ☑ ☐</div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Two questions on how Madison thought about factions. Read the source first.</p><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Madison writes, “Liberty is to faction what air is to fire.” What does he mean?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Liberty puts an end to faction.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Faction is the cause of liberty.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Liberty feeds faction, but to abolish liberty in order to remove faction would be a worse mistake.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Faction cannot exist in a republic.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Madison says it would be as foolish to destroy liberty because it feeds faction as to destroy air because it feeds fire.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "true_false",
+     "text": "<p>Madison says that the way to cure faction is to give every citizen the same opinions, passions, and interests, and that this is easy to do.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "False",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Madison calls this cure impracticable. He turns instead to controlling the effects of faction.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5417",
+   "title": "Reading Quiz: Media, Interest Groups, and Local Action",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#26313D; border-bottom:4px solid #CF9F24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Media, Interest Groups, and Local Action</div><div style=\"font-size:15px; color:#FAD046;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #288C99; padding-top:6px; color:#CF9F24; font-size:18px; line-height:1;\">☐ ☑ ☐</div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Five questions on Madison and factions, Tocqueville and associations, the press, and acting on a local problem.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson, why does a large republic help limit the harm of faction?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It has fewer people with different interests.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It is hard for any single faction to gain a majority when there are many different groups.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It forbids groups from meeting.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It has one ruler who decides.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>In a small republic, one faction can easily become a majority and rule everyone else.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did Tocqueville notice about Americans?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They waited for the government to solve problems.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They did not trust their neighbors.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They often formed groups to work together on almost any purpose.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They let the nobles do most things.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>He believed this habit helped keep the republic free.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which example shows bias in the way a writer describes a plan?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Calling the plan “a scheme” instead of “a proposal.”",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Giving the date the plan was announced.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Listing who voted for the plan.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Quoting the plan’s text.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Loaded words can push a reader toward a belief without giving any facts.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sequence matches the lesson’s method for acting on a local problem?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Complain, wait, ask someone else, give up.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Choose an action, research, find the agency, weigh alternatives.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Find the Governor, write to Congress, wait, research.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Research the problem, find the agency in charge, weigh the alternatives, choose an action.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>A street in town belongs to the city or county, not to the Governor or Congress.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is propaganda?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A message made to change what people believe or do, often by stirring up feeling instead of giving fair facts.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A law passed by a state legislature.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A neutral report of the day’s weather.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A signed request to the government.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>A careful reader asks who made a message, who it was made for, and what it wants the audience to do.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5418",
+   "title": "Critical Questions: Tocqueville, Democracy in America",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#26313D; border-bottom:4px solid #CF9F24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Tocqueville, Democracy in America</div><div style=\"font-size:15px; color:#FAD046;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #288C99; padding-top:6px; color:#CF9F24; font-size:18px; line-height:1;\">☐ ☑ ☐</div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Two questions on what Tocqueville saw in American life. Read the source first.</p><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Tocqueville writes that “Americans of all ages, all conditions, and all dispositions, constantly form associations.” What is he describing?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Americans of every kind often join together in groups.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Only the wealthy form groups.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only the government forms groups.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Americans avoid joining groups.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>He says that where the French would look to the government, Americans form an association.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_answers",
+     "text": "<p>Which two statements agree with the text? Select two.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Americans form not only business companies but associations of a thousand other kinds, religious, moral, serious, or silly.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Associations in America are formed only for business.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Where a Frenchman would look to the government, an American is sure to form an association.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Americans leave every new project to a man of rank.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>This habit of working together is one of the ways a free people keeps its freedom.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5419",
+   "title": "Reading Quiz: Foreign Policy and International Organizations",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#26313D; border-bottom:4px solid #CF9F24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Foreign Policy and International Organizations</div><div style=\"font-size:15px; color:#FAD046;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #288C99; padding-top:6px; color:#CF9F24; font-size:18px; line-height:1;\">☐ ☑ ☐</div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Five questions on how foreign policy connects to life at home, the Monroe Doctrine, the League of Nations, and the Truman Doctrine.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>What advice did Washington give about alliances?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Join every alliance that is offered.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Never trade with other nations.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Deal fairly with all nations, but steer clear of permanent alliances.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Let Congress make every alliance in secret.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The new republic was weak, and Washington wanted time to grow strong.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did the Monroe Doctrine say?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Americas were no longer open to new colonies from Europe, and the United States would stay out of Europe’s wars.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The United States would take over Spain’s colonies.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The United States would join every European war.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only Great Britain could settle new land.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>At the time, Great Britain’s fleet did more than the American navy to enforce it.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did the United States never join the League of Nations?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The League refused to let America in.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The President would not sign the treaty.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The League was shut down before the vote.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Senate voted on the treaty and did not reach the two thirds needed.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>A treaty needs two thirds of the Senate, and senators answer to voters.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is the main promise of NATO?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That every member will share one army.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That an attack on one member is an attack on all.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "That members will not trade with each other.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That the President may declare war alone.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The United States and eleven other countries formed NATO in 1949.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did the Truman Doctrine ask Congress to do?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Withdraw all troops from Europe.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "End the United Nations.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Give money to Greece and Turkey to support free peoples resisting being forced into a communist system.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Declare war on the Soviet Union.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>It set the pattern for years of Cold War policy.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5420",
+   "title": "Critical Questions: Monroe, Seventh Annual Message (1823)",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#26313D; border-bottom:4px solid #CF9F24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Monroe, Seventh Annual Message (1823)</div><div style=\"font-size:15px; color:#FAD046;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #288C99; padding-top:6px; color:#CF9F24; font-size:18px; line-height:1;\">☐ ☑ ☐</div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Two questions on President Monroe’s message to Congress. Read the source first.</p><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_answers",
+     "text": "<p>Which two statements does Monroe make? Select two.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The United States has not taken part in the wars of European powers in matters relating to themselves.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The United States will join every European war.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Any attempt by Europe to extend its system to this hemisphere would be dangerous to the nation’s peace and safety.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Europe may take back its colonies in the Americas.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Notice the bargain. The United States stays out of Europe’s quarrels, and Europe stays out of the Americas.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Monroe says the American continents are “not to be considered as subjects for future colonization by any European powers.” What does this mean?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Europeans may settle anywhere they wish.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "No European power should start new colonies in the Americas.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The United States will start colonies in Europe.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Colonies must pay taxes to Britain.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The nations of the Americas had won their independence, and Monroe was warning Europe not to take it back.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5421",
+   "title": "Reading Quiz: Capitalism, Command Economies, and Communism",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#26313D; border-bottom:4px solid #CF9F24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Capitalism, Command Economies, and Communism</div><div style=\"font-size:15px; color:#FAD046;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #288C99; padding-top:6px; color:#CF9F24; font-size:18px; line-height:1;\">☐ ☑ ☐</div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Five questions on market, mixed, and command economies, what communism did, and GDP per capita.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>In a market economy, who decides what to make and sell?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Government officials.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A single ruling party.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The United Nations.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Private people and businesses, guided by prices.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Prices rise when something is scarce and drop when it is plentiful, and these signals tell producers what to make.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these describes a mixed economy such as that of the United States?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The government owns almost every farm and factory.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Most of the economy is private, but government builds roads and schools, enforces contracts, and regulates unfair competition.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "There are no taxes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Prices are set only by the government.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>A free market is not a market without rules. It is a market under law.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does the lesson give as the cause of the famines in the Soviet Union and China?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Bad weather alone.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Too many private farms.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Orders from the government that no one could question, such as forcing farmers onto state-run farms.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Too much trade with other countries.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The deaths were not caused by bad weather alone.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does China’s story after 1978 show?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Markets raise incomes, but the freedom to speak and vote is a separate matter that markets alone do not guarantee.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Markets always lead to a free vote.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Command economies always grow faster.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Private business causes famine.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The economy grew fast and hundreds of millions climbed out of poverty, but the Communist Party still rules.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why do East and West Germany, and North and South Korea, make a good comparison?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The people on each side were different peoples.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The people on each side were the same people with the same history, but chose different systems and got different results.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Both sides chose command economies.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Both sides chose markets.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The lesson calls this a natural experiment.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5422",
+   "title": "Critical Questions: The Truman Doctrine (1947)",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#26313D; border-bottom:4px solid #CF9F24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: The Truman Doctrine (1947)</div><div style=\"font-size:15px; color:#FAD046;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #288C99; padding-top:6px; color:#CF9F24; font-size:18px; line-height:1;\">☐ ☑ ☐</div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Two questions on what the President asked of Congress. Read the source first.</p><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "true_false",
+     "text": "<p>Truman says that it must be the policy of the United States to support free peoples who are resisting attempted subjugation by armed minorities or by outside pressures.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "False",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>This is the heart of the Truman Doctrine.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Truman says that “the seeds of totalitarian regimes are nurtured by misery and want.” What is he arguing?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Only rich nations can be free.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hunger and hardship make people open to harsh rulers, so aid could help prevent them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Totalitarian regimes cannot grow in poor nations.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The United States should not help any nation.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>He argued that helping Greece and Turkey was a matter of America’s own safety and principles.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5423",
+   "title": "Practice Exam: Origins and Organization",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#26313D; border-bottom:4px solid #CF9F24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>PRACTICE EXAM · NOT GRADED</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Practice Exam: Origins and Organization</div><div style=\"font-size:15px; color:#FAD046;\">15 questions · 15 points · unlimited attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #288C99; padding-top:6px; color:#CF9F24; font-size:18px; line-height:1;\">☐ ☑ ☐</div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">A timed practice section on the roots of American government and how the Constitution is organized. It is not graded. Work alone, without notes, and watch the clock.</p></div></div>",
+   "quiz_type": "practice_quiz",
+   "points": 15.0,
+   "allowed_attempts": -1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which ancient society gave the Founders the idea of a mixed constitution?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Egypt.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Rome.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Persia.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Sparta.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on Greece, Rome, and Jerusalem.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which document first said that a king must follow the law before he punishes a free man?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Declaration of Independence.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Magna Carta.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Mayflower Compact.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Common Sense.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on Magna Carta to Paine. This is the root of due process.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which document is an early example of government by consent, made by the people themselves?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Mayflower Compact.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Federalist Papers.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Treaty of Versailles.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The English Bill of Rights.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on Magna Carta to Paine.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which thinker taught that people are born with natural rights to life, liberty, and property?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Locke.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Hobbes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Polybius.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Rousseau.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on the Enlightenment and natural rights.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Congress makes laws, the President carries them out, and the courts judge cases. Which idea does this describe?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Checks and balances.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Judicial review.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Separation of powers.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Federalism.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lessons on the Enlightenment and on three branches. Separation of powers divides the jobs.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is an example of checks and balances?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A judge hears a trial.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress passes a bill.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Senate must approve a treaty before it takes effect.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A state governor signs a state law.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on checks and balances. A check is one branch limiting another.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Under the Articles of Confederation, Congress could not tax. How did the Constitution answer this weakness?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It left taxes to the states alone.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It ended all taxes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It gave the President the power to tax.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It gave Congress the power to tax in Article I.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on the Articles of Confederation. Each weakness had a remedy.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did Shays’ Rebellion show?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That farmers were pleased with their taxes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That Massachusetts had no courts.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That a government with no money or army could not keep order.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "That the Articles worked well.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on the Articles of Confederation.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How did the Great Compromise settle the quarrel between large and small states?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Every state has one vote in one house.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only large states send delegates.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The President chooses the members of Congress.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Seats in the House go by population, and each state has two senators.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on the Articles of Confederation.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What promise helped win ratification of the Constitution in states such as Virginia and New York?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That the Articles would return.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That states could leave the Union.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That there would be no President.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That the first Congress would take up a bill of rights.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on ratification and the Federalists and Anti-Federalists.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How does impeachment of a federal official work?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The President accuses and Congress approves.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The House accuses by majority vote, and the Senate holds a trial where two thirds must vote to convict.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court accuses and the President decides.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Senate accuses and the House holds a trial.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on three branches.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What power did the Court claim in Marbury v. Madison?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The power to impeach a President.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The power to veto a bill.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The power to declare war.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Judicial review, the power to strike down laws that conflict with the Constitution.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on checks and balances and the case of Marbury v. Madison.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is a reserved power, kept by the states under the Tenth Amendment?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Declaring war.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Coining money.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Making treaties.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Running most local schools and police.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on federalism and the Tenth Amendment.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did McCulloch v. Maryland decide?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That states may tax the national bank as they wish.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That Congress has implied powers, and a state may not tax an agency of the national government.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "That the President may close a bank.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That Congress may use only powers listed word for word.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on federalism and McCulloch v. Maryland.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A town’s government has only the powers its national government allows it. Which kind of system is this?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Confederal.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Federal.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Mixed.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Unitary.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on federalism. In a unitary system one central government holds the power.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 15
+  },
+  {
+   "id": "q5424",
+   "title": "Practice Exam: Roles and Policies",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#26313D; border-bottom:4px solid #CF9F24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>PRACTICE EXAM · NOT GRADED</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Practice Exam: Roles and Policies</div><div style=\"font-size:15px; color:#FAD046;\">15 questions · 15 points · unlimited attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #288C99; padding-top:6px; color:#CF9F24; font-size:18px; line-height:1;\">☐ ☑ ☐</div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">A timed practice section on citizens, rights, elections, and public policy. It is not graded. Work alone, without notes, and watch the clock.</p></div></div>",
+   "quiz_type": "practice_quiz",
+   "points": 15.0,
+   "allowed_attempts": -1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is a responsibility, not a duty?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Voting and staying informed.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Paying taxes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Obeying the law.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Serving on a jury.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on citizens, rights, and duties. Duties are required by law.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What must police usually have before searching a person’s home?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A warrant, based on good reason.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A vote of the city council.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A note from a newspaper.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A neighbor’s permission.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on the Bill of Rights.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did the Court require in Miranda v. Arizona?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That police warn a suspect of his rights before questioning.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "That suspects be released within a day.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That every confession be thrown out.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That jurors question the suspect.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on landmark cases.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is the effect of the 14th Amendment on the Bill of Rights?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It added new amendments to it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It applies it only to the President.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Through incorporation, most of it binds state governments.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It repealed it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lessons on rights and on landmark cases.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did Brown v. Board of Education decide about Plessy v. Ferguson in public schools?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It said Plessy applied to all states.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It ignored Plessy.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It upheld Plessy.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It overturned Plessy, saying separate schools are inherently unequal.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on landmark cases.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which amendment lowered the voting age to eighteen?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The 15th.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The 26th.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The 19th.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The 24th.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on landmark cases and the participation amendments.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How many electoral votes does a candidate need to win the presidency?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "100.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "270.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "435.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "538.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on elections and the Electoral College.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What flaw in the election of 1800 did the 12th Amendment fix?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It gave the vote to women.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It let electors cast separate votes for President and Vice President.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It ended the Electoral College.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It lowered the age for President.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on elections and the election of 1800.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Federalist No. 10, how does Madison say a large republic limits the harm of faction?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It makes everyone think alike.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It has many groups, so it is hard for any one faction to gain a majority.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It gives one party all the power.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It forbids all groups.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on media, interest groups, and local action.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A newspaper calls a plan “a scheme.” What should a careful reader do?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Check who made it, who it is for, and what it wants, and compare it with other sources.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Believe it, because it is in print.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Share it at once.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ignore all news.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on media, interest groups, and local action.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A citizen wants a crosswalk near a school. Which is the best first set of steps?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Complain to the Governor.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Write to Congress and wait.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Vote in the next presidential election.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Research the problem and find the city or county agency in charge.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on local action.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which statement about treaties is correct?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The President makes them, and two thirds of the Senate must approve.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court makes them.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The states make them.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The House alone approves them.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on foreign policy and international organizations.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which President announced that the Americas were closed to new European colonies?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Wilson.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Monroe.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Truman.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Washington.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on foreign policy and international organizations.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which statement describes a mixed economy such as that of the United States?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Run by one ruling party.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Fully owned by the government.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Mostly private, with some rules and services from the government.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Fully free of rules.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on capitalism, command economies, and communism.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>South Korea’s GDP per capita is many times North Korea’s. What does the comparison best show?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That the economic system a country chooses can matter greatly for the standard of living.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "That size of land decides wealth.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That GDP per capita does not measure anything.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That the two peoples are very different.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Review the lesson on capitalism, command economies, and communism.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 15
+  },
+  {
+   "id": "q5429",
+   "title": "Quarter 4 Exam: The Republic Reviewed",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#26313D; border-bottom:4px solid #CF9F24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>QUARTER 4 · EXAM</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Quarter 4 Exam: The Republic Reviewed</div><div style=\"font-size:15px; color:#FAD046;\">40 questions · 40 points · 1 attempt</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #288C99; padding-top:6px; color:#CF9F24; font-size:18px; line-height:1;\">☐ ☑ ☐</div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Forty multiple-choice questions on this quarter’s work: the roots of American government, the Founding, how the Constitution is organized, rights and cases, elections, and the republic’s place in the world. Work alone and without notes. You have one attempt.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 40.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": false,
+   "group": "ag746",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which Roman idea is a root of the rule of law?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Written laws known in advance that bind everyone, such as the Twelve Tables.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Rule by a single king whose word is the law, so that no one else has to write laws down.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Laws kept secret by the nobles, so that only the judges of the city can know what they are.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Rule by whichever general commands the largest army, as in the last years of the Republic.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which ancient place gave the Founders the idea that law stands above kings?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Sparta, in the story of its two kings and its council.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Jerusalem, in the story of King David and the prophet Nathan.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Persia, in the story of its emperor and his governors.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Egypt, in the story of its pharaohs and their priests.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did the clause in Magna Carta about a “lawful judgment” begin?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The right of every adult to vote, which later spread from England to the American colonies.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The idea of due process, that a ruler must follow the law before punishing someone.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The power of judicial review, which let English judges strike down the king’s orders.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Electoral College, which the English used to choose their kings after John.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why is the Mayflower Compact an early example of government by consent?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The king wrote it for the colony, and the passengers agreed to it only after they reached shore.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It set up a Parliament of the colonists, with a House of Lords chosen by the king.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Every person in England signed it before the ship sailed, so the whole nation consented.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The signers made their own government by agreeing together, and no king gave it to them.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why is the Glorious Revolution called “glorious”?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It changed the government with little bloodshed, and Parliament then set limits on the Crown.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It ended every tax in England, and the new king ruled without any Parliament at all.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It crowned a king for life, and it gave him the power to make laws on his own.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It made England a republic, and the monarchy was abolished for the next hundred years.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How did Locke’s view of government differ from Hobbes’s?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Locke wanted a king with unlimited power, while Hobbes wanted a republic with a written constitution.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Both said that government has no purpose, and they differed only on how to end it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Locke said rights come from the ruler, while Hobbes said they come from the people.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Locke said people have natural rights that government must protect, while Hobbes wanted a ruler with almost unlimited power.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did Montesquieu say the three jobs of government should be in different hands?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It makes the government cheaper to run, because each branch can share the same buildings.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "When one person or group makes, carries out, and judges the laws, liberty is lost.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It makes laws pass faster, because fewer people have to agree on each one.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It gives the people no voice, so the government can act in secret without fear of the voters.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In the Declaration of Independence, what comes after the statement of principles?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A plan for the Articles of Confederation, set out article by article for the thirteen states.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A treaty with France, offered in exchange for money and ships to fight the war.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A bill of rights, listing the freedoms of speech, of religion, and of the press.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A list of grievances, offered as proof that the king broke the contract that made his rule just.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why does the lesson call the Olive Branch Petition a “road not taken”?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The colonists never sent it, and so the king never learned that they wanted peace.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The king accepted it at once, and the colonies then returned to peaceful British rule.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It asked for independence, and the king rejected it as he did every demand for freedom.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The king refused even to read it, and had he listened, he might have kept the colonies.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which charge in the Declaration violated the principle of consent of the governed?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Imposing taxes on the colonists without their consent.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Closing every church in the colonies during the long winter of 1775.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Forbidding the colonists to print books or to read newspapers in their own homes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Refusing to trade with France, which was then the colonists’ best customer.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which pairing correctly matches a weakness of the Articles of Confederation with its remedy in the Constitution?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "No national courts: Article II creates a President.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "No power to tax: Article III creates the courts.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hard to amend: Article I gives the President a veto.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "No executive: Article II creates a President.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why do the votes in Virginia (89 to 79) and New York (30 to 27) matter?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They show that ratification was easy, since each state approved the Constitution by a wide margin.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Any one state could have said no and the nation might have split, and a promise of a bill of rights carried the day.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They show that the Anti-Federalists won, since they carried both states in the end.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They show that the Constitution was rewritten before it was ratified, to answer every critic.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did the Anti-Federalists say the Constitution lacked?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A President to carry out the laws.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A Congress to make the laws.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A bill of rights to protect individual citizens.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A Supreme Court to judge the laws.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is the highest source of law in the United States?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Constitution.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A regulation.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A statute.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Case law.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is a precedent?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A law that Congress passes with the approval of the President in the same year.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "An earlier court decision that judges use as a guide in later, similar cases.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A rule that an agency writes to carry out a law that the legislature has passed.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A vote of a grand jury on whether a person must stand trial for a serious crime.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Who must approve a treaty the President makes?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A majority of the House.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Two thirds of the Senate.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The governors of the states.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is a check that the Senate has on the courts?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Overturning a court’s decision by a simple voice vote of the senators present on that day.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Choosing the members of every jury that sits in a federal trial anywhere in the country.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Setting the salary of each federal judge anew at the start of every year of service.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Confirming the President’s choices for federal judges.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How did Marshall’s decision in Marbury v. Madison avoid an order that the President might defy?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He ordered Madison to deliver the commission and asked the army to see that the order was carried out.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He refused to hear the case at all, and he sent it back to Congress to be decided by a vote.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He said Marbury had a right to his commission but the Court could not order it, because part of a law of 1789 was unconstitutional.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He ruled that Marbury had no right to the commission, and Jefferson then named him to another office.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is an example of judicial review?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The President vetoes a bill that Congress has passed.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Senate confirms an ambassador chosen by the President.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A court declares a law of Congress unconstitutional.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The House votes to impeach a federal official.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The President vetoes a bill that both houses of Congress passed. What can Congress do?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Override the veto with a two-thirds vote in each house.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Pass the bill again with a simple majority of both houses and send it back to the President.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ask the Supreme Court to sign the bill so that it becomes law without the President.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Nothing at all, because under the Constitution a veto can never be overridden.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Both the nation and the states may tax, build roads, and set up courts. What kind of power is this?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Reserved power.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Delegated power.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Concurrent power.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Implied power.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A state law conflicts with a national law. Which wins, and why?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The national law, because of the Supremacy Clause.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The state law, because of the Tenth Amendment.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Whichever was passed first, because of the rule of precedent.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Neither, until the people of the state vote on the question.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What are implied powers?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Powers not listed in the Constitution but reasonably needed to carry out the ones that are listed.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Powers that the states keep for themselves, since the Constitution does not give them away.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Powers that belong to the President alone, since the Constitution says nothing about them.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Powers that were once in the Constitution but have since been taken away by an amendment.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why does the Constitution have only twenty-seven amendments?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Supreme Court limits how many amendments the people may add to the Constitution.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The President decides which amendments the states may be asked to vote on each year.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "An amendment needs two thirds of Congress and three fourths of the states, which is hard on purpose.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Every amendment is repealed after ten years unless the states vote to renew it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which level of government mainly uses property taxes to pay for local schools, police, and fire protection?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The national government.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Local governments.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The United Nations.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which amendment forbids unreasonable searches and says police must usually have a warrant?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Second Amendment.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Sixth Amendment.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Fourth Amendment.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Ninth Amendment.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did the Court decide in Gideon v. Wainwright?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A state may refuse a lawyer to a poor person, since the Sixth Amendment binds only the nation.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A state must provide a lawyer to a poor person charged with a serious crime.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A confession must be thrown out of court unless the suspect has first been read his rights.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A jury must be chosen by the judge, and neither side may question the people in the pool.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did Brown v. Board of Education decide?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Separate public schools are inherently unequal, which overturned Plessy in schools.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Separate public schools are allowed if the buildings and books are equal in every way.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Each school district may decide for itself whether to separate its students by race.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Plessy v. Ferguson was upheld, and segregated schools were declared lawful in every state.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did Justice Harlan say in his lone dissent in Plessy v. Ferguson?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That the law was fair, because railway cars for each race were equal in every respect.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That Louisiana could pass any law it wished about its railroads, free of the Constitution.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That the Court should not hear the case, since no one had been hurt by the Louisiana law.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That the Constitution is color-blind and neither knows nor tolerates classes among citizens.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which case held that a state could not make a woman choose between her faith and her unemployment benefits?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Lemon v. Kurtzman.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Sherbert v. Verner.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Terry v. Ohio.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Miranda v. Arizona.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How many electors does each state have?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "As many as its members of Congress, in the House and the Senate together.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "One for each county in the state, as counted by the most recent census of the people.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Exactly three, no matter how large or how small the population of the state may be.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "As many as its members in the House only, with no electors for its senators.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Madison says there are two ways to cure faction. Why does he reject them?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Both are too costly, and a republic could not raise enough taxes to carry either one out.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Both are forbidden by the Constitution, which says no group may ever be broken up.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Both would make factions larger, because the people would then join together against the government.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "One would destroy liberty, and the other would need everyone to think alike, which cannot be done.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did Tocqueville think American associations helped keep the republic free?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They made elections unnecessary, since the groups chose every leader without a vote.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They let the government pick the leaders of each group, so that no one could oppose the law.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Citizens who work together do not wait for a ruler to solve their problems.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They were required by law, and every citizen had to join one or pay a fine to the state.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is the best example of a citizen acting on a local problem?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Posting an angry complaint online without naming any agency or asking for any particular change.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Waiting for the Governor to notice the problem and to send help to the town without being asked.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Gathering facts about accidents at a crossing, finding the agency in charge, and asking it for a specific change.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Writing to Congress about a dangerous street that lies wholly inside one town in one state.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which statement best compares the Monroe Doctrine with the Truman Doctrine?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Monroe closed the Americas to new European colonies, and Truman pledged support for free peoples resisting a forced communist system.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Both pledged to stay out of every foreign conflict, and both asked the Senate to reject every treaty.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Monroe founded NATO to defend Europe, and Truman founded the League of Nations to keep the peace.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Monroe offered aid to Greece and Turkey, and Truman closed the Americas to European colonies.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which part of the national government has the power to declare war?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The President alone.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The United Nations.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is communism, as the lesson describes it?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A system in which private businesses and buyers make every decision with no rules from the government.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A system in which a king owns all the land and lends it to farmers in return for their loyalty.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A system in which the states control the army and the national government controls the farms.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A system in which the government, under one ruling party, owns the farms and factories and controls the economy.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why is GDP per capita useful but limited?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It measures freedom exactly, so no other figure is needed to compare how well people live.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It counts only the goods the government makes, and it leaves out everything made by private firms.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It cannot be used to compare countries, since each country counts its own money in a different way.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It lets us compare how much each person receives, but it leaves out things such as health and freedom.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Preamble says “insure domestic Tranquility.” Which failure of the Articles does this answer?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The states taxed one another’s goods as if they were foreign nations.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Shays’ Rebellion showed that the government could not keep the peace at home.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "There were no national courts to settle quarrels between the states.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Articles could not be amended unless every state agreed.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What made the difference between the American republic of 1800 and the German republic of 1933?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "America had a written constitution and Germany had none, so Germany had no rules to abandon.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Germany held no elections after 1919, and America held elections every year without fail.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Americans divided power, protected rights, and accepted an election’s result, while many Germans abandoned the rules in a crisis.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "America had no political parties and Germany had too many, so only Germany lost its republic.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 40
+  },
+  {
+   "id": "q5425",
+   "title": "Outro: Policy and Practice",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#26313D; border-bottom:4px solid #CF9F24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>MODULE OUTRO · SURVEY</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Outro: Policy and Practice</div><div style=\"font-size:15px; color:#FAD046;\">5 questions · survey · one attempt</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #288C99; padding-top:6px; color:#CF9F24; font-size:18px; line-height:1;\">☐ ☑ ☐</div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #26313D; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#26313D; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">You have finished this module. Answer honestly. Your answers help your teacher see what is clear and what is not.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": false,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question, revisited. \"What does it take for citizens to keep a free republic working, at home and in the world?\" Answer in four or five sentences. Use at least one example from the module (for example the election of 1800, Madison on factions, the Senate’s vote on the League of Nations, or the comparison of North and South Korea). How is your answer different from the one you gave at the start?</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Confidence. \"How well could you explain this module's main ideas to a classmate?\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "5: Very well. I could teach it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "4: Well, with one or two gaps.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3: Somewhat. I need to review a few parts.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "2: Not very well.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "1: Not at all.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear. \"Name one idea, event, or term from this module that is still unclear to you. If nothing is unclear, say what you would like to learn more about.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Virtue. \"Which virtue did a person in this module's lessons show most clearly?\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage (for example Justice Harlan writing a lone dissent)",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty (for example a careful reader who checks a source for bias)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance (for example the long road from Plessy to Brown)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government (for example the House choosing a President after thirty-five tied ballots, and then accepting the result)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service (for example a citizen who serves on a jury)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility (for example a citizen who researches a local problem and finds the right agency)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Virtue reflection. \"Explain your choice in two or three sentences. Then name one place in your own life where this virtue will be asked of you.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d1106",
+   "title": "Discussion: How Should a Citizen Try to Change a Law?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#26313D; border-bottom:4px solid #CF9F24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: How Should a Citizen Try to Change a Law?</div><div style=\"font-size:15px; color:#FAD046;\">10 points · threaded discussion</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #288C99; padding-top:6px; color:#CF9F24; font-size:18px; line-height:1;\">☐ ☑ ☐</div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Suppose there is a local rule that you think is unfair or a problem near your school that needs fixing. Choose one way a citizen can act, such as writing to an official, speaking at a public meeting, starting a petition, joining or forming a group, or voting, and make a claim about why it is the best first step. Support your claim with at least two facts from the lessons, such as Madison on factions or Tocqueville on associations. Then say who the citizen should ask, and what specific thing the citizen should ask for.</p><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a point of your own. If not, respectfully explain where you think it falls short.</p></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag745",
+   "published": false,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null
+  },
+  {
+   "id": "d1107",
+   "title": "Discussion: Should America Lead the World?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#26313D; border-bottom:4px solid #CF9F24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Should America Lead the World?</div><div style=\"font-size:15px; color:#FAD046;\">10 points · threaded discussion</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #288C99; padding-top:6px; color:#CF9F24; font-size:18px; line-height:1;\">☐ ☑ ☐</div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Washington warned against permanent alliances, and America later helped found the United Nations and NATO. Take a side: should America lead the world, or should it be careful about its commitments? Support your claim with at least two facts from the lessons, such as the Senate’s vote on the League of Nations, the Monroe Doctrine, or the Truman Doctrine. Then state the strongest argument for the other side, and say what evidence would help decide between you.</p><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a point of your own. If not, respectfully explain where you think it falls short.</p></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag745",
+   "published": false,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null
+  },
+  {
+   "id": "d1108",
+   "title": "Discussion: Which Part of the Constitution Answers Which Failure?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#26313D; border-bottom:4px solid #CF9F24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Which Part of the Constitution Answers Which Failure?</div><div style=\"font-size:15px; color:#FAD046;\">10 points · threaded discussion</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #288C99; padding-top:6px; color:#CF9F24; font-size:18px; line-height:1;\">☐ ☑ ☐</div>\n<div style=\"background:#FFFFFF; border:1px solid #E5D9BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">The Constitution was built to answer failures that earlier governments had shown. Choose three parts of the Constitution or the Bill of Rights, and for each one name the failure it answers and one example from the course. Then say which of the three you think a republic most needs in a time of crisis, and why. Support your claim with at least two facts from the lessons, such as the republic of 1800 or the republic of 1933.</p><p style=\"font-size:17px; color:#201B14; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a point of your own. If not, respectfully explain where you think it falls short.</p></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag745",
+   "published": false,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_11",
+   "title": "Policy and Practice",
+   "published": false,
+   "items": [
+    {
+     "title": "Map: Policy and Practice",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_module-11-map-policy-and-practice"
+    },
+    {
+     "title": "Intro: Policy and Practice",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5414",
+     "week": 34
+    },
+    {
+     "title": "Lesson: Elections and the Electoral College",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_11-dot-1-lesson-elections-and-the-electoral-college",
+     "week": 34,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Elections and the Electoral College",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5415",
+     "week": 34
+    },
+    {
+     "title": "Primary Source: Madison, Federalist No. 10 (1787)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_11-dot-3-primary-source-madison-federalist-no-10-1787",
+     "week": 34,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Madison, Federalist No. 10",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5416",
+     "week": 34
+    },
+    {
+     "title": "Lesson: Media, Interest Groups, and Local Action",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_11-dot-5-lesson-media-interest-groups-and-local-action",
+     "week": 34,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Tocqueville, Democracy in America (1835)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_11-dot-6-primary-source-tocqueville-democracy-in-america-1835",
+     "week": 34,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Media, Interest Groups, and Local Action",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5417",
+     "week": 34
+    },
+    {
+     "title": "Critical Questions: Tocqueville, Democracy in America",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5418",
+     "week": 34
+    },
+    {
+     "title": "Discussion: How Should a Citizen Try to Change a Law?",
+     "indent": 0,
+     "published": false,
+     "type": "discussion",
+     "ref": "d1106",
+     "week": 34
+    },
+    {
+     "title": "Lesson: Foreign Policy and International Organizations",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_11-dot-11-lesson-foreign-policy-and-international-organizations",
+     "week": 35,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Foreign Policy and International Organizations",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5419",
+     "week": 35
+    },
+    {
+     "title": "Primary Source: Monroe, Seventh Annual Message (1823)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_11-dot-13-primary-source-monroe-seventh-annual-message-1823",
+     "week": 35,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Monroe, Seventh Annual Message (1823)",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5420",
+     "week": 35
+    },
+    {
+     "title": "Lesson: Capitalism, Command Economies, and Communism",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_11-dot-15-lesson-capitalism-command-economies-and-communism",
+     "week": 35,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: The Truman Doctrine (1947)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_11-dot-16-primary-source-the-truman-doctrine-1947",
+     "week": 35,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Capitalism, Command Economies, and Communism",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5421",
+     "week": 35
+    },
+    {
+     "title": "Critical Questions: The Truman Doctrine (1947)",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5422",
+     "week": 35
+    },
+    {
+     "title": "Discussion: Should America Lead the World?",
+     "indent": 0,
+     "published": false,
+     "type": "discussion",
+     "ref": "d1107",
+     "week": 35
+    },
+    {
+     "title": "Lesson: Practice: Origins and Organization",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_11-dot-21-lesson-practice-origins-and-organization",
+     "week": 36,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Practice Exam: Origins and Organization",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5423",
+     "week": 36
+    },
+    {
+     "title": "Lesson: Practice: Roles and Policies",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_11-dot-25-lesson-practice-roles-and-policies",
+     "week": 36,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Practice Exam: Roles and Policies",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5424",
+     "week": 36
+    },
+    {
+     "title": "Discussion: Which Part of the Constitution Answers Which Failure?",
+     "indent": 0,
+     "published": false,
+     "type": "discussion",
+     "ref": "d1108",
+     "week": 36
+    },
+    {
+     "title": "Quarter 4 Exam: The Republic Reviewed",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5429",
+     "week": 36
+    },
+    {
+     "title": "Outro: Policy and Practice",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5425",
+     "week": 36
+    }
+   ]
+  }
+ ],
+ "syllabus_html": "",
+ "source": {
+  "note": "Sparkled edition of one module of M/J Civics. Read from Canvas course 292 (naming authority; titles, order, points, groups, quiz questions) with _build/pull_canvas.py on 2026-11-20; the sparkled module, not its \"(Unsparkled)\" twin. Module numbers removed from student-facing titles; Canvas module-item links rewritten to link tokens; weeks taken from each lesson page URL. Lessons are iframe pages on https://optimaondemand.github.io/mjcivics-lessons-spring/."
+ }
+}

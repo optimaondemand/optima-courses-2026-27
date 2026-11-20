@@ -1,0 +1,2059 @@
+{
+ "course": {
+  "title": "08 MJ Civics 2106010",
+  "code": "2106010",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag652",
+   "title": "Assignments",
+   "weight": 0,
+   "canvas_id": 652
+  },
+  {
+   "id": "ag745",
+   "title": "Async Homework",
+   "weight": 60.0,
+   "canvas_id": 745
+  },
+  {
+   "id": "ag746",
+   "title": "Projects & Milestones",
+   "weight": 30.0,
+   "canvas_id": 746
+  },
+  {
+   "id": "ag747",
+   "title": "Sync Activities",
+   "weight": 10.0,
+   "canvas_id": 747
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r1345",
+   "title": "Primary Source Report Rubric (4)",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the source",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Accurately states the purpose of government and the source of its power, with an accurate quotation",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Mostly accurate with some gaps",
+       "points": 3.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Vague or partly wrong",
+       "points": 1.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Not shown",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Matches the grievance to the right violated and weighs both sides using specific evidence from the lesson",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Reasons given, evidence general",
+       "points": 3.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Assertions without reasons",
+       "points": 1.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Not shown",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Organized in the four parts, quotation short and accurate",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Mostly clear, some loose wording",
+       "points": 3.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Hard to follow",
+       "points": 1.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Not shown",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Names a real limit of the source and a place to look",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Names a limit, vague",
+       "points": 3.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Limit is not about the source",
+       "points": 1.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Not shown",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_module-9-map-origins",
+   "title": "Map: Origins",
+   "slug": "module-9-map-origins",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>MODULE MAP</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Origins</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>How this module works</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Work through the items in order, top to bottom. Read each lesson and primary source, then take the quiz that follows it. Most sets of items close with a discussion. Begin with the Intro and finish with the Outro.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #8D3442; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8D3442; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>By the end of this module you will be able to:</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">explain what the Founders took from Athens, Rome, the Judeo-Christian tradition, and the English documents from Magna Carta to Paine; compare Hobbes, Locke, Montesquieu, and Rousseau, and explain natural rights, the social contract, and consent of the governed; describe the British policies that led to the Declaration and match its grievances to the rights it says were violated; explain the failures of the Articles of Confederation, how the Constitution answered each one, and why the Federalists and Anti-Federalists argued over a bill of rights.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Start here</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\"><a href=\"{{quiz:q5388}}\" style=\"color:#412E22; text-decoration:underline;\">Intro: Origins</a> (short survey, no wrong answers)</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 1</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\"><strong>Topics:</strong> Greece, Rome, and Jerusalem; Magna Carta to Paine</p><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E0D7C3; padding:8px; text-align:left; vertical-align:top; background:#412E22; color:#FFFFFF; font-size:14px;\">What it is</th><th style=\"border:1px solid #E0D7C3; padding:8px; text-align:left; vertical-align:top; background:#412E22; color:#FFFFFF; font-size:14px; width:150px;\">What to do</th></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{page:p_9-dot-1-lesson-greece-rome-and-jerusalem}}\" style=\"color:#412E22; text-decoration:underline;\">Lesson: Greece, Rome, and Jerusalem</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{quiz:q5389}}\" style=\"color:#412E22; text-decoration:underline;\">Reading Quiz: Greece, Rome, and Jerusalem</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#F5F3F2;\">Quiz</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{page:p_9-dot-3-primary-source-magna-carta-1215}}\" style=\"color:#412E22; text-decoration:underline;\">Primary Source: Magna Carta (1215)</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{quiz:q5390}}\" style=\"color:#412E22; text-decoration:underline;\">Critical Questions: Magna Carta (1215)</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#F5F3F2;\">Quiz</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{page:p_9-dot-5-lesson-magna-carta-to-paine}}\" style=\"color:#412E22; text-decoration:underline;\">Lesson: Magna Carta to Paine</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{page:p_9-dot-6-primary-source-the-mayflower-compact-1620}}\" style=\"color:#412E22; text-decoration:underline;\">Primary Source: The Mayflower Compact (1620)</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{quiz:q5391}}\" style=\"color:#412E22; text-decoration:underline;\">Reading Quiz: Magna Carta to Paine</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#F5F3F2;\">Quiz</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{quiz:q5392}}\" style=\"color:#412E22; text-decoration:underline;\">Critical Questions: The Mayflower Compact (1620)</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#F5F3F2;\">Quiz</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{discussion:d1100}}\" style=\"color:#412E22; text-decoration:underline;\">Discussion: What Did America Inherit?</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#F2F2EB;\">Discussion</td></tr></tbody></table></div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 2</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\"><strong>Topics:</strong> The Enlightenment and Natural Rights; British Policy to the Declaration</p><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E0D7C3; padding:8px; text-align:left; vertical-align:top; background:#412E22; color:#FFFFFF; font-size:14px;\">What it is</th><th style=\"border:1px solid #E0D7C3; padding:8px; text-align:left; vertical-align:top; background:#412E22; color:#FFFFFF; font-size:14px; width:150px;\">What to do</th></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{page:p_9-dot-11-lesson-the-enlightenment-and-natural-rights}}\" style=\"color:#412E22; text-decoration:underline;\">Lesson: The Enlightenment and Natural Rights</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{quiz:q5393}}\" style=\"color:#412E22; text-decoration:underline;\">Reading Quiz: The Enlightenment and Natural Rights</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#F5F3F2;\">Quiz</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{page:p_9-dot-13-primary-source-the-english-bill-of-rights-1689}}\" style=\"color:#412E22; text-decoration:underline;\">Primary Source: The English Bill of Rights (1689)</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{quiz:q5394}}\" style=\"color:#412E22; text-decoration:underline;\">Critical Questions: The English Bill of Rights (1689)</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#F5F3F2;\">Quiz</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{page:p_9-dot-15-lesson-british-policy-to-the-declaration}}\" style=\"color:#412E22; text-decoration:underline;\">Lesson: British Policy to the Declaration</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{page:p_9-dot-16-primary-source-the-declaration-of-independence-1776}}\" style=\"color:#412E22; text-decoration:underline;\">Primary Source: The Declaration of Independence (1776)</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{assignment:a14226}}\" style=\"color:#412E22; text-decoration:underline;\">Primary Source Report: The Declaration of Independence (1776)</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#FCF4D9;\">Submit report</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{quiz:q5395}}\" style=\"color:#412E22; text-decoration:underline;\">Critical Questions: The Declaration of Independence</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#F5F3F2;\">Quiz</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{discussion:d1101}}\" style=\"color:#412E22; text-decoration:underline;\">Discussion: Were the Colonists’ Grievances Natural-Rights Violations?</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#F2F2EB;\">Discussion</td></tr></tbody></table></div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 3</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\"><strong>Topics:</strong> The Articles of Confederation to the Constitution; Ratification, Rule of Law, and Sources of Law</p><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E0D7C3; padding:8px; text-align:left; vertical-align:top; background:#412E22; color:#FFFFFF; font-size:14px;\">What it is</th><th style=\"border:1px solid #E0D7C3; padding:8px; text-align:left; vertical-align:top; background:#412E22; color:#FFFFFF; font-size:14px; width:150px;\">What to do</th></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{page:p_9-dot-21-lesson-the-articles-of-confederation-to-the-constitution}}\" style=\"color:#412E22; text-decoration:underline;\">Lesson: The Articles of Confederation to the Constitution</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{quiz:q5396}}\" style=\"color:#412E22; text-decoration:underline;\">Reading Quiz: The Articles of Confederation to the Constitution</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#F5F3F2;\">Quiz</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{page:p_9-dot-23-primary-source-the-articles-of-confederation-1781}}\" style=\"color:#412E22; text-decoration:underline;\">Primary Source: The Articles of Confederation (1781)</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{quiz:q5397}}\" style=\"color:#412E22; text-decoration:underline;\">Critical Questions: The Articles of Confederation</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#F5F3F2;\">Quiz</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{page:p_9-dot-25-lesson-ratification-rule-of-law-and-sources-of-law}}\" style=\"color:#412E22; text-decoration:underline;\">Lesson: Ratification, Rule of Law, and Sources of Law</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{page:p_9-dot-26-primary-source-brutus-no-1-1787}}\" style=\"color:#412E22; text-decoration:underline;\">Primary Source: Brutus No. 1 (1787)</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#E8F7FB;\">Read</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{quiz:q5398}}\" style=\"color:#412E22; text-decoration:underline;\">Reading Quiz: Ratification, Rule of Law, and Sources of Law</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#F5F3F2;\">Quiz</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{quiz:q5399}}\" style=\"color:#412E22; text-decoration:underline;\">Critical Questions: Brutus No. 1</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#F5F3F2;\">Quiz</td></tr><tr><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16;\"><a href=\"{{discussion:d1102}}\" style=\"color:#412E22; text-decoration:underline;\">Discussion: Federalists or Anti-Federalists: Who Was Right About a Bill of Rights?</a></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:15px; color:#1E1A16; background:#F2F2EB;\">Discussion</td></tr></tbody></table></div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Finish here</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\"><a href=\"{{quiz:q5400}}\" style=\"color:#412E22; text-decoration:underline;\">Outro: Origins</a> (reflection survey: revisit the module's big question, rate your confidence, and name what is still unclear)</p></div></div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_9-dot-1-lesson-greece-rome-and-jerusalem",
+   "title": "Lesson: Greece, Rome, and Jerusalem",
+   "slug": "9-dot-1-lesson-greece-rome-and-jerusalem",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Greece, Rome, and Jerusalem</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-28/lesson-28-1.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-28/lesson-28-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_9-dot-3-primary-source-magna-carta-1215",
+   "title": "Primary Source: Magna Carta (1215)",
+   "slug": "9-dot-3-primary-source-magna-carta-1215",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Magna Carta (1215)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-28/primary-source-28-1.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-28/primary-source-28-1.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_9-dot-5-lesson-magna-carta-to-paine",
+   "title": "Lesson: Magna Carta to Paine",
+   "slug": "9-dot-5-lesson-magna-carta-to-paine",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Magna Carta to Paine</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-28/lesson-28-2.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-28/lesson-28-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_9-dot-6-primary-source-the-mayflower-compact-1620",
+   "title": "Primary Source: The Mayflower Compact (1620)",
+   "slug": "9-dot-6-primary-source-the-mayflower-compact-1620",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: The Mayflower Compact (1620)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-28/primary-source-28-2.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-28/primary-source-28-2.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_9-dot-11-lesson-the-enlightenment-and-natural-rights",
+   "title": "Lesson: The Enlightenment and Natural Rights",
+   "slug": "9-dot-11-lesson-the-enlightenment-and-natural-rights",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: The Enlightenment and Natural Rights</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-29/lesson-29-1.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-29/lesson-29-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_9-dot-13-primary-source-the-english-bill-of-rights-1689",
+   "title": "Primary Source: The English Bill of Rights (1689)",
+   "slug": "9-dot-13-primary-source-the-english-bill-of-rights-1689",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: The English Bill of Rights (1689)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-29/primary-source-29-1.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-29/primary-source-29-1.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_9-dot-15-lesson-british-policy-to-the-declaration",
+   "title": "Lesson: British Policy to the Declaration",
+   "slug": "9-dot-15-lesson-british-policy-to-the-declaration",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: British Policy to the Declaration</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-29/lesson-29-2.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-29/lesson-29-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_9-dot-16-primary-source-the-declaration-of-independence-1776",
+   "title": "Primary Source: The Declaration of Independence (1776)",
+   "slug": "9-dot-16-primary-source-the-declaration-of-independence-1776",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: The Declaration of Independence (1776)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-29/primary-source-29-2.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-29/primary-source-29-2.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_9-dot-21-lesson-the-articles-of-confederation-to-the-constitution",
+   "title": "Lesson: The Articles of Confederation to the Constitution",
+   "slug": "9-dot-21-lesson-the-articles-of-confederation-to-the-constitution",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: The Articles of Confederation to the Constitution</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-30/lesson-30-1.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-30/lesson-30-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_9-dot-23-primary-source-the-articles-of-confederation-1781",
+   "title": "Primary Source: The Articles of Confederation (1781)",
+   "slug": "9-dot-23-primary-source-the-articles-of-confederation-1781",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: The Articles of Confederation (1781)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-30/primary-source-30-1.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-30/primary-source-30-1.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_9-dot-25-lesson-ratification-rule-of-law-and-sources-of-law",
+   "title": "Lesson: Ratification, Rule of Law, and Sources of Law",
+   "slug": "9-dot-25-lesson-ratification-rule-of-law-and-sources-of-law",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 1.05em;\">Lesson: Ratification, Rule of Law, and Sources of Law</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-30/lesson-30-2.html\" width=\"100%\" height=\"2400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-30/lesson-30-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": false
+  },
+  {
+   "id": "p_9-dot-26-primary-source-brutus-no-1-1787",
+   "title": "Primary Source: Brutus No. 1 (1787)",
+   "slug": "9-dot-26-primary-source-brutus-no-1-1787",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\"><div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Brutus No. 1 (1787)</div><iframe src=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-30/primary-source-30-2.html\" width=\"100%\" height=\"2000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons-spring/weeks/week-30/primary-source-30-2.html\" target=\"_blank\">open it in a new tab</a>.</div></div>",
+   "front_page": false,
+   "published": false
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a14226",
+   "title": "Primary Source Report: The Declaration of Independence (1776)",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>PRIMARY SOURCE REPORT</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Report: The Declaration of Independence (1776)</div><div style=\"font-size:15px; color:#E5C25B;\">20 points · 300 to 450 words · one turn-in</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>What to do</strong></div><div style=\"display:flex; align-items:flex-start; gap:12px; margin-bottom:12px;\"><div style=\"min-width:28px; height:28px; border-radius:50%; background:#412E22; color:#E5C25B; font-size:14px; text-align:center; line-height:28px; flex-shrink:0;\"><strong>1</strong></div><div style=\"font-size:17px; color:#1E1A16; line-height:1.6;\">Open the lesson <em>British Policy to the Declaration</em> and the primary source <em>The Declaration of Independence (1776)</em>, and download <strong>My Notebook</strong> (the button at the end of the page), or open the page to see your saved answers.</div></div><div style=\"display:flex; align-items:flex-start; gap:12px; margin-bottom:12px;\"><div style=\"min-width:28px; height:28px; border-radius:50%; background:#412E22; color:#E5C25B; font-size:14px; text-align:center; line-height:28px; flex-shrink:0;\"><strong>2</strong></div><div style=\"font-size:17px; color:#1E1A16; line-height:1.6;\">Select <strong>Start Assignment</strong>. Type your report in the text box, or upload a file.</div></div><div style=\"display:flex; align-items:flex-start; gap:12px; margin-bottom:12px;\"><div style=\"min-width:28px; height:28px; border-radius:50%; background:#412E22; color:#E5C25B; font-size:14px; text-align:center; line-height:28px; flex-shrink:0;\"><strong>3</strong></div><div style=\"font-size:17px; color:#1E1A16; line-height:1.6;\">Write the four parts below in order, with the part name at the start of each.</div></div><div style=\"display:flex; align-items:flex-start; gap:12px; margin-bottom:12px;\"><div style=\"min-width:28px; height:28px; border-radius:50%; background:#412E22; color:#E5C25B; font-size:14px; text-align:center; line-height:28px; flex-shrink:0;\"><strong>4</strong></div><div style=\"font-size:17px; color:#1E1A16; line-height:1.6;\">Read the rubric at the bottom. Check your report against it, then submit.</div></div></div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #8D3442; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8D3442; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">You have read part of the Declaration of Independence and studied the Enlightenment ideas and the British policies behind it. Write a report of 300 to 450 words. Use your own words except where you quote.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #8D3442; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8D3442; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 1 · What it says</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">In two or three sentences, say what the Declaration says is the purpose of government and where a government gets its power. Quote one short phrase from the text.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #8D3442; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8D3442; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 2 · A charge and a right</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Choose one grievance from the list against the king. Use the lesson to say which policy it refers to and which natural right or principle it says was violated.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #8D3442; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8D3442; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 3 · Was the case fair?</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Name one reason a reader in 1776 might have thought this grievance was serious enough to justify independence, and one reason a loyal colonist might have disagreed. Use the lesson’s facts, such as the Olive Branch Petition.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #8D3442; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8D3442; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Part 4 · What this source cannot tell you</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Name one question about the colonists that the text alone cannot answer, such as whether all of them supported independence, and say where you might look for the answer.</p></div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E0D7C3; padding:8px; text-align:left; vertical-align:top; background:#F9F1DE; font-size:14px; width:22%;\">Understanding of the source<br><span style=\"color:#8D3442;\">5 pts</span></th><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:14px;\"><strong>5 pts</strong><br>Full<br><span style=\"color:#584C4B;\">Accurately states the purpose of government and the source of its power, with an accurate quotation</span></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:14px;\"><strong>3 pts</strong><br>Partial<br><span style=\"color:#584C4B;\">Mostly accurate with some gaps</span></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:14px;\"><strong>1 pt</strong><br>Thin<br><span style=\"color:#584C4B;\">Vague or partly wrong</span></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:14px;\"><strong>0 pts</strong><br>Missing<br><span style=\"color:#584C4B;\">Not shown</span></td></tr><tr><th style=\"border:1px solid #E0D7C3; padding:8px; text-align:left; vertical-align:top; background:#F9F1DE; font-size:14px; width:22%;\">Quality of reasoning<br><span style=\"color:#8D3442;\">5 pts</span></th><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:14px;\"><strong>5 pts</strong><br>Full<br><span style=\"color:#584C4B;\">Matches the grievance to the right violated and weighs both sides using specific evidence from the lesson</span></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:14px;\"><strong>3 pts</strong><br>Partial<br><span style=\"color:#584C4B;\">Reasons given, evidence general</span></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:14px;\"><strong>1 pt</strong><br>Thin<br><span style=\"color:#584C4B;\">Assertions without reasons</span></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:14px;\"><strong>0 pts</strong><br>Missing<br><span style=\"color:#584C4B;\">Not shown</span></td></tr><tr><th style=\"border:1px solid #E0D7C3; padding:8px; text-align:left; vertical-align:top; background:#F9F1DE; font-size:14px; width:22%;\">Clarity and precision<br><span style=\"color:#8D3442;\">5 pts</span></th><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:14px;\"><strong>5 pts</strong><br>Full<br><span style=\"color:#584C4B;\">Organized in the four parts, quotation short and accurate</span></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:14px;\"><strong>3 pts</strong><br>Partial<br><span style=\"color:#584C4B;\">Mostly clear, some loose wording</span></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:14px;\"><strong>1 pt</strong><br>Thin<br><span style=\"color:#584C4B;\">Hard to follow</span></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:14px;\"><strong>0 pts</strong><br>Missing<br><span style=\"color:#584C4B;\">Not shown</span></td></tr><tr><th style=\"border:1px solid #E0D7C3; padding:8px; text-align:left; vertical-align:top; background:#F9F1DE; font-size:14px; width:22%;\">Intellectual honesty<br><span style=\"color:#8D3442;\">5 pts</span></th><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:14px;\"><strong>5 pts</strong><br>Full<br><span style=\"color:#584C4B;\">Names a real limit of the source and a place to look</span></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:14px;\"><strong>3 pts</strong><br>Partial<br><span style=\"color:#584C4B;\">Names a limit, vague</span></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:14px;\"><strong>1 pt</strong><br>Thin<br><span style=\"color:#584C4B;\">Limit is not about the source</span></td><td style=\"border:1px solid #E0D7C3; padding:8px; vertical-align:top; font-size:14px;\"><strong>0 pts</strong><br>Missing<br><span style=\"color:#584C4B;\">Not shown</span></td></tr></tbody></table></div></div>",
+   "points": 20.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry,online_upload",
+   "group": "ag746",
+   "rubric": "r1345",
+   "rubric_use_for_grading": true,
+   "published": false,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q5388",
+   "title": "Intro: Origins",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>MODULE INTRO · SURVEY</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Intro: Origins</div><div style=\"font-size:15px; color:#E5C25B;\">4 questions · survey · one attempt</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">In this module you will go back to the roots of the American republic. You will ask what ideas the Founders took from Athens, Rome, and Jerusalem and from English charters, how the Enlightenment and the quarrel with Britain led to the Declaration, and how the Constitution was written and won approval. These questions come first so that you can see how your answers change by the end.</p></div><div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #8D3442; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8D3442; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>By the end of this module you will be able to:</strong></div><ul style=\"margin:0; padding-left:22px;\"><li style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 6px;\">explain what the Founders took from Athens, Rome, the Judeo-Christian tradition, and the English documents from Magna Carta to Paine;</li><li style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 6px;\">compare Hobbes, Locke, Montesquieu, and Rousseau, and explain natural rights, the social contract, and consent of the governed;</li><li style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 6px;\">describe the British policies that led to the Declaration and match its grievances to the rights it says were violated;</li><li style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 6px;\">explain the failures of the Articles of Confederation, how the Constitution answered each one, and why the Federalists and Anti-Federalists argued over a bill of rights.</li></ul></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": false,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question, first answer. \"What did the Founders inherit, and what did they have to invent?\" Answer in three or four sentences. There is no wrong answer yet. We will ask again at the end.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Objectives. \"I have read the module goals above.\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I have read them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I have a question about them. (Say what in the box below.)",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Question about the goals. If you chose the second answer above, what is your question? Otherwise write \"none.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Group work. \"Some assessments in this module may be done alone or with a group. If you choose a group, you will sign the Group Covenant first. Which would you like?\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I plan to work alone.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I would like to work in a group.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "I am not sure yet.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4
+  },
+  {
+   "id": "q5389",
+   "title": "Reading Quiz: Greece, Rome, and Jerusalem",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Greece, Rome, and Jerusalem</div><div style=\"font-size:15px; color:#E5C25B;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Five questions on what the Founders took from Athens, Rome, and the Judeo-Christian tradition, and how each had failed before.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>What happened in Athens in 404 BC, and what does the lesson take from it?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Athenians gave up voting forever, which shows that democracy cannot work.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A king was crowned, which shows that Athens wanted a ruler.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A small group of rich men took control and ruled by fear, but the citizens drove them out within a year, which shows that free government can be lost and won back.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Sparta joined Athens, which shows that city-states are stronger together.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The lesson cuts two ways: free government can be lost in a bad year, and people willing to fight for it can win it back.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How was Roman government different from Athenian government?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Roman citizens elected officials to act for them, and did not vote on every law themselves.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Roman citizens never voted at all.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Roman government was ruled by one king for its whole history.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Roman citizens voted directly on every law in a great Assembly.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>This is representative government: citizens choose people to act in their name.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did the Romans write the laws on the Twelve Tables and set them up in the public square?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "So that the nobles could change the laws more easily.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "So that only judges could read the laws.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "So that a king could be crowned.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "So that anyone, rich or poor, could read what the law said, and judges could not bend it.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>This is the rule of law: laws that are known in advance and that bind everyone, including those who make them.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to Polybius, why did Rome grow so strong?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It had the largest army in the world.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It mixed three kinds of government, a king-like consul, an aristocratic Senate, and democratic assemblies, so each part held back the other two.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It chose its leaders by lot.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It had no written laws to slow it down.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>This mixed constitution points toward the separation of powers.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does the story of King David and the prophet Nathan teach?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A king may do as he pleases if he is wise.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A prophet should never speak to a king.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Even the most powerful ruler must answer to a law higher than his own wishes.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Only the wealthy have to obey the law.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The Founders used this idea against King George, and in the Constitution against any ruler.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5390",
+   "title": "Critical Questions: Magna Carta (1215)",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Magna Carta (1215)</div><div style=\"font-size:15px; color:#E5C25B;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Two questions on a clause of the Great Charter. Read the source first.</p><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>A clause of the charter says that no free man shall be seized or imprisoned or stripped of his possessions “except by the lawful judgment of his equals or by the law of the land.” What must the king do before he punishes a free man?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Follow the law and a lawful judgment first.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Ask the Pope for permission.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Pay the man for his property.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Give the man a place in Parliament.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>This is the root of due process.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "true_false",
+     "text": "<p>Under this clause, the protection applies to every person in England, including those who were not free.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "False",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The text names the “free man.” Many people in 1215 were not free, and the protection did not reach them. Later generations widened it.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5391",
+   "title": "Reading Quiz: Magna Carta to Paine",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Magna Carta to Paine</div><div style=\"font-size:15px; color:#E5C25B;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Five questions on four steps on the road from medieval England to the American Revolution.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which American idea began with the clause in Magna Carta that a king must follow the law before he punishes a free man?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Judicial review.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Due process.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Electoral College.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Necessary and Proper Clause.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The Fifth Amendment says that no person may be deprived of life, liberty, or property “without due process of law.”</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What happened to Magna Carta soon after King John sealed it?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Pope declared it annulled, and civil war followed. Later it was reissued and confirmed again and again.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It was copied at once into the laws of France.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Every baron signed it, and peace followed.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "John kept every promise he had made.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>It was a fragile victory, and it became the foundation of English liberty only because later kings confirmed it.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why is the Mayflower Compact an early example of government by consent?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A king wrote it for the colony.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It set up a Parliament.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The passengers made their own government by agreeing together, and no king gave it to them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It was signed by every person in England.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The same idea echoes in the opening words of the Constitution: “We the People.”</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which American clause echoes the English Bill of Rights ban on “cruel and unusual” punishments?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The First Amendment.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Preamble.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Tenth Amendment.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Eighth Amendment.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Americans copied those words from the English Bill of Rights of 1689.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did Thomas Paine’s pamphlet Common Sense argue?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That the colonies should keep trying to reconcile with the king.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That a king was no better than any other man, and that America should govern itself.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "That Parliament should tax the colonies more.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That the colonies should join France.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>It helped turn a quarrel over taxes into a movement for independence.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5392",
+   "title": "Critical Questions: The Mayflower Compact (1620)",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: The Mayflower Compact (1620)</div><div style=\"font-size:15px; color:#E5C25B;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Two questions on the agreement the Pilgrims signed aboard their ship. Read the source first.</p><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>The signers promise to “combine ourselves together into a civil Body Politic.” What are they doing?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Asking the king to choose their leaders.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Forming a government by their own agreement.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Planning to return to England.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Dividing the land among themselves.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>No king gave them this government. They made it themselves.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_answers",
+     "text": "<p>Which two statements does the Compact make or imply about the signers? Select two.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They will make “just and equal Laws” for the good of the colony.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They promise “due submission and obedience” to the laws they set up.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The king will appoint every officer.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Each person may ignore any law he dislikes.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Notice that they bind themselves to laws that they make together. That is consent.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5393",
+   "title": "Reading Quiz: The Enlightenment and Natural Rights",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: The Enlightenment and Natural Rights</div><div style=\"font-size:15px; color:#E5C25B;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Five questions on four Enlightenment thinkers, natural rights, the social contract, and how the Declaration uses them.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did Thomas Hobbes say that people give up some freedom to a strong ruler?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Because rulers are always wise.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Because without any government, everyone would fight everyone else and life would be “solitary, poor, nasty, brutish, and short.”",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Because natural rights come from the ruler.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Because the people had voted for a king.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Hobbes wanted a ruler with almost unlimited power. Most Americans thought this went too far, but they agreed that government exists because people need protection.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did John Locke say about natural rights?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They are given by the government and may be taken back.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They belong only to the rich.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Every person is born with rights to life, liberty, and property, and government exists to protect them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They are found only in Rome.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Since people form a government by agreement, it has only the power that they give it. That is consent of the governed.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Congress makes the laws, the President carries them out, and the courts judge cases. Which idea does this describe?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Checks and balances.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The social contract.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The right of revolution.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Separation of powers.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Separation of powers divides the jobs. Checks and balances lets each branch limit the others.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is an example of checks and balances, not of separation of powers?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Congress passes a bill.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A judge hears a case.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The President vetoes a bill that Congress passed.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Senate meets in its own chamber.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>A veto is one branch limiting another.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which idea did Rousseau add to the discussion?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A government is only fair when it rests on the shared will of the whole people.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Government should be run by a hereditary king.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Three branches should divide the power.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Life is safer without any laws.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Americans borrowed Rousseau’s belief that the people are the source of government power, but they mostly built on Locke and Montesquieu.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5394",
+   "title": "Critical Questions: The English Bill of Rights (1689)",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: The English Bill of Rights (1689)</div><div style=\"font-size:15px; color:#E5C25B;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Two questions on what Parliament required of the Crown after the Glorious Revolution. Read the source first.</p><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>The text says that raising or keeping a standing army in time of peace, unless it is with the consent of Parliament, is against law. What does this limit?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The right of the people to petition.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The king’s power to keep an army in peacetime without Parliament’s consent.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The power of the courts to hold trials.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The size of Parliament.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Compare this with the Declaration of Independence, which charges the king with keeping “Standing Armies among us, in times of peace.”</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "true_false",
+     "text": "<p>Under the text, the king may collect money for the Crown on his own authority, without a grant from Parliament.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "False",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The text says that levying money for the Crown without a grant of Parliament is illegal.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5395",
+   "title": "Critical Questions: The Declaration of Independence",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: The Declaration of Independence</div><div style=\"font-size:15px; color:#E5C25B;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Two questions on the principles and the charges in the Declaration. Read the source first.</p><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Declaration says that governments derive “their just powers from the consent of the governed.” What does this say about where a government gets its power?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "From a king chosen by God alone.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "From the strongest army.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "From the people it governs.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "From the oldest family.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>This is Locke’s idea of consent.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_answers",
+     "text": "<p>Which two of these are among the charges the Declaration makes against King George? Select two.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He imposed “Taxes on us without our Consent.”",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He deprived colonists, in many cases, “of the benefits of Trial by Jury.”",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He closed every church in the colonies.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He forbade colonists to print newspapers.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Each charge says that the king did something and that it violated a right. Match the charge to the right.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5396",
+   "title": "Reading Quiz: The Articles of Confederation to the Constitution",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: The Articles of Confederation to the Constitution</div><div style=\"font-size:15px; color:#E5C25B;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Five questions on the weaknesses of the Articles, Shays’ Rebellion, the Philadelphia Convention, and how the Constitution answered each failure.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why could Congress under the Articles not pay the soldiers who had won the war?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "There were no soldiers to pay.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The President refused to sign the bills.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The states had agreed to pay them directly.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress could not tax. It could only ask the states for money, and they often did not send it.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Money was the first weakness of the Articles.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why were the Articles almost impossible to change?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "An amendment needed all thirteen states to agree, so one state could block it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Only the President could propose changes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court had to approve every change.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They could be changed only once a century.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Article V of the Constitution lets three fourths of the states approve an amendment.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did Shays’ Rebellion show?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That farmers were pleased with their taxes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That Massachusetts had no courts.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That the Articles worked well.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That a government without money or an army could not keep order, and leaders feared people would turn to a strong man.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The old story of Athens and Rome seemed to be repeating.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How did the Great Compromise settle the quarrel between large and small states?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Every state got one vote in a single house.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Seats in the House go by population, and each state has two senators.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Only the large states would send delegates.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress would be dropped and the President would rule.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Congress would have two houses. This saved the convention.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Preamble says “establish Justice.” Which failure of the Articles does this answer?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The states taxed one another’s goods.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress could not raise an army.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "There were no national courts to settle disputes.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Articles could not be amended.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Article III created a Supreme Court and let Congress set up lower ones.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5397",
+   "title": "Critical Questions: The Articles of Confederation",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: The Articles of Confederation</div><div style=\"font-size:15px; color:#E5C25B;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Two questions on how the first American government divided power. Read the source first.</p><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Article II says that each state keeps “every power, jurisdiction, and right” that is not “expressly delegated” to Congress. What does this show about the Articles?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The central government held nearly all the power.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The states kept most of the power, and Congress had only what the states gave it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The states had no power at all.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The President held most of the power.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>This is a confederation. Compare how the Constitution divides power.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "true_false",
+     "text": "<p>Under Article XIII, a change to the Articles must be confirmed by the legislatures of every state.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "False",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>One state could therefore block any change. Compare the three-fourths rule in Article V of the Constitution.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5398",
+   "title": "Reading Quiz: Ratification, Rule of Law, and Sources of Law",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Ratification, Rule of Law, and Sources of Law</div><div style=\"font-size:15px; color:#E5C25B;\">5 questions · 5 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Five questions on the ratification debate, the Bill of Rights, the rule of law, and the main sources and types of law.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>What was the main worry of the Anti-Federalists?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That the Constitution gave too much power to the states.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That a national government far from home would become a tyranny, and that the Constitution had no list of rights.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "That Congress would have only one house.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That the President would have no power.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Federalists answered that a government with only listed powers could not violate rights it had no power to touch.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What finally carried the day in Virginia and New York?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Federalists took back the Constitution.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Every Anti-Federalist changed sides.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A promise that the first Congress would take up a bill of rights.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A new vote of the whole country.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The votes were very close, 89 to 79 in Virginia and 30 to 27 in New York.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How many of the twelve amendments Congress sent to the states became the Bill of Rights by 1791?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Twelve.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Eight.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Fifteen.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ten.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>The Anti-Federalists lost the argument over the Constitution, but they won a lasting gift for the country.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A transportation agency writes rules about how road signs must be posted. Which source of law is this?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A regulation.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A statute.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Case law.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Constitution.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Regulations are rules made by executive agencies to carry out statutes.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Two neighbors go to court over a damaged car. Which kind of law applies?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Criminal law.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Civil law.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Military law.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Treaty law.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>In a civil case one side sues another, and the usual result is money or an order to act.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q5399",
+   "title": "Critical Questions: Brutus No. 1",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Brutus No. 1</div><div style=\"font-size:15px; color:#E5C25B;\">2 questions · 2 points · 2 attempts</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Two questions on an essay that argued against the new Constitution. Read the source first.</p><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the primary source page. Choose the same answers here, and finish any you left blank.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 2.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag745",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_answers",
+     "text": "<p>Which two statements would Brutus agree with? Select two.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A government over a vast country cannot know the needs of people far away.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A national government with too much power may become a tyranny.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Constitution should be adopted without debate.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The states are unnecessary.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>He and others who opposed the Constitution wanted a bill of rights and a government close to home.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "true_false",
+     "text": "<p>Brutus writes in support of the Constitution as it was drafted in Philadelphia.</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "True",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "False",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "<p>Brutus is an Anti-Federalist. He argues against adopting the Constitution as written.</p>",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 2
+  },
+  {
+   "id": "q5400",
+   "title": "Outro: Origins",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>MODULE OUTRO · SURVEY</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Outro: Origins</div><div style=\"font-size:15px; color:#E5C25B;\">5 questions · survey · one attempt</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #412E22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#412E22; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">You have finished this module. Answer honestly. Your answers help your teacher see what is clear and what is not.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": false,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question, revisited. \"What did the Founders inherit, and what did they have to invent?\" Answer in four or five sentences. Use at least one example from the module (for example Magna Carta, the Mayflower Compact, the Olive Branch Petition, or the Great Compromise). How is your answer different from the one you gave at the start?</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Confidence. \"How well could you explain this module's main ideas to a classmate?\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "5: Very well. I could teach it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "4: Well, with one or two gaps.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3: Somewhat. I need to review a few parts.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "2: Not very well.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "1: Not at all.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear. \"Name one idea, event, or term from this module that is still unclear to you. If nothing is unclear, say what you would like to learn more about.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Virtue. \"Which virtue did a person in this module's lessons show most clearly?\"</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage (for example the barons at Runnymede, or the Federalists and Anti-Federalists who spoke their minds in public)",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance (for example the Athenians who won back their assembly)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government (for example the Pilgrims who made their own government by agreement)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility (for example John Adams defending the soldiers in court)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Virtue reflection. \"Explain your choice in two or three sentences. Then name one place in your own life where this virtue will be asked of you.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d1100",
+   "title": "Discussion: What Did America Inherit?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: What Did America Inherit?</div><div style=\"font-size:15px; color:#E5C25B;\">10 points · threaded discussion</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #8D3442; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8D3442; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">The lessons trace American ideas back to Athens, Rome, Jerusalem, Magna Carta, the Mayflower Compact, the English Bill of Rights, and Thomas Paine. Choose one of these that you think matters most to a citizen today, and make a claim about why. Support your claim with at least two facts from the lessons. Then name one way that the same place or document failed or fell short, and say how the Founders tried to repair it.</p><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a point of your own. If not, respectfully explain where you think it falls short.</p></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag745",
+   "published": false,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null
+  },
+  {
+   "id": "d1101",
+   "title": "Discussion: Were the Colonists’ Grievances Natural-Rights Violations?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Were the Colonists’ Grievances Natural-Rights Violations?</div><div style=\"font-size:15px; color:#E5C25B;\">10 points · threaded discussion</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #8D3442; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8D3442; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">The Declaration lists grievances against the king, and each one says that a right was violated. Choose one grievance and make a claim about whether it really violated a natural right such as life, liberty, or property. Support your claim with at least two facts from the lessons. Then say whether you think this grievance, by itself, was serious enough to justify independence, remembering Locke’s warning that people should not change governments for light and passing causes.</p><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a point of your own. If not, respectfully explain where you think it falls short.</p></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag745",
+   "published": false,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null
+  },
+  {
+   "id": "d1102",
+   "title": "Discussion: Federalists or Anti-Federalists: Who Was Right About a Bill of Rights?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#412E22; border-bottom:4px solid #BB9438; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FDAF0; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Federalists or Anti-Federalists: Who Was Right About a Bill of Rights?</div><div style=\"font-size:15px; color:#E5C25B;\">10 points · threaded discussion</div></div>\n<div style=\"text-align:center; margin:0 0 20px; border-top:1px solid #8D3442; padding-top:6px; color:#BB9438; font-size:18px; line-height:1;\">❦ ❧ ❦</div>\n<div style=\"background:#FFFFFF; border:1px solid #E0D7C3; border-top:4px solid #8D3442; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8D3442; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">The Federalists said that a bill of rights was not needed, because the national government had only listed powers. The Anti-Federalists said that a list of rights was needed to guard against tyranny. Take a side: who was right? Support your claim with at least two facts from the lessons, such as the close votes or the promise made to win Virginia and New York. Then state the strongest argument for the other side.</p><p style=\"font-size:17px; color:#1E1A16; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a point of your own. If not, respectfully explain where you think it falls short.</p></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag745",
+   "published": false,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_9",
+   "title": "Origins",
+   "published": false,
+   "items": [
+    {
+     "title": "Map: Origins",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_module-9-map-origins"
+    },
+    {
+     "title": "Intro: Origins",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5388",
+     "week": 28
+    },
+    {
+     "title": "Lesson: Greece, Rome, and Jerusalem",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_9-dot-1-lesson-greece-rome-and-jerusalem",
+     "week": 28,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Greece, Rome, and Jerusalem",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5389",
+     "week": 28
+    },
+    {
+     "title": "Primary Source: Magna Carta (1215)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_9-dot-3-primary-source-magna-carta-1215",
+     "week": 28,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Magna Carta (1215)",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5390",
+     "week": 28
+    },
+    {
+     "title": "Lesson: Magna Carta to Paine",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_9-dot-5-lesson-magna-carta-to-paine",
+     "week": 28,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: The Mayflower Compact (1620)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_9-dot-6-primary-source-the-mayflower-compact-1620",
+     "week": 28,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Magna Carta to Paine",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5391",
+     "week": 28
+    },
+    {
+     "title": "Critical Questions: The Mayflower Compact (1620)",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5392",
+     "week": 28
+    },
+    {
+     "title": "Discussion: What Did America Inherit?",
+     "indent": 0,
+     "published": false,
+     "type": "discussion",
+     "ref": "d1100",
+     "week": 28
+    },
+    {
+     "title": "Lesson: The Enlightenment and Natural Rights",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_9-dot-11-lesson-the-enlightenment-and-natural-rights",
+     "week": 29,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: The Enlightenment and Natural Rights",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5393",
+     "week": 29
+    },
+    {
+     "title": "Primary Source: The English Bill of Rights (1689)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_9-dot-13-primary-source-the-english-bill-of-rights-1689",
+     "week": 29,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: The English Bill of Rights (1689)",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5394",
+     "week": 29
+    },
+    {
+     "title": "Lesson: British Policy to the Declaration",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_9-dot-15-lesson-british-policy-to-the-declaration",
+     "week": 29,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: The Declaration of Independence (1776)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_9-dot-16-primary-source-the-declaration-of-independence-1776",
+     "week": 29,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Report: The Declaration of Independence (1776)",
+     "indent": 0,
+     "published": false,
+     "type": "assignment",
+     "ref": "a14226",
+     "week": 29
+    },
+    {
+     "title": "Critical Questions: The Declaration of Independence",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5395",
+     "week": 29
+    },
+    {
+     "title": "Discussion: Were the Colonists’ Grievances Natural-Rights Violations?",
+     "indent": 0,
+     "published": false,
+     "type": "discussion",
+     "ref": "d1101",
+     "week": 29
+    },
+    {
+     "title": "Lesson: The Articles of Confederation to the Constitution",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_9-dot-21-lesson-the-articles-of-confederation-to-the-constitution",
+     "week": 30,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: The Articles of Confederation to the Constitution",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5396",
+     "week": 30
+    },
+    {
+     "title": "Primary Source: The Articles of Confederation (1781)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_9-dot-23-primary-source-the-articles-of-confederation-1781",
+     "week": 30,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: The Articles of Confederation",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5397",
+     "week": 30
+    },
+    {
+     "title": "Lesson: Ratification, Rule of Law, and Sources of Law",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_9-dot-25-lesson-ratification-rule-of-law-and-sources-of-law",
+     "week": 30,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Brutus No. 1 (1787)",
+     "indent": 0,
+     "published": false,
+     "type": "page",
+     "ref": "p_9-dot-26-primary-source-brutus-no-1-1787",
+     "week": 30,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Ratification, Rule of Law, and Sources of Law",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5398",
+     "week": 30
+    },
+    {
+     "title": "Critical Questions: Brutus No. 1",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5399",
+     "week": 30
+    },
+    {
+     "title": "Discussion: Federalists or Anti-Federalists: Who Was Right About a Bill of Rights?",
+     "indent": 0,
+     "published": false,
+     "type": "discussion",
+     "ref": "d1102",
+     "week": 30
+    },
+    {
+     "title": "Outro: Origins",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q5400",
+     "week": 30
+    }
+   ]
+  }
+ ],
+ "syllabus_html": "",
+ "source": {
+  "note": "Sparkled edition of one module of M/J Civics. Read from Canvas course 292 (naming authority; titles, order, points, groups, quiz questions) with _build/pull_canvas.py on 2026-11-20; the sparkled module, not its \"(Unsparkled)\" twin. Module numbers removed from student-facing titles; Canvas module-item links rewritten to link tokens; weeks taken from each lesson page URL. Lessons are iframe pages on https://optimaondemand.github.io/mjcivics-lessons-spring/."
+ }
+}

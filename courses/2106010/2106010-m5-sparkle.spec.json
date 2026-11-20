@@ -1,0 +1,2335 @@
+{
+ "course": {
+  "title": "08 MJ Civics 2106010",
+  "code": "2106010",
+  "default_view": "wiki",
+  "canvas_id": 35,
+  "canvas_code": "08 2106010",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag72",
+   "title": "Async Homework",
+   "weight": 60.0,
+   "canvas_id": 72
+  },
+  {
+   "id": "ag78",
+   "title": "Projects & Milestones",
+   "weight": 30.0,
+   "canvas_id": 78
+  },
+  {
+   "id": "ag79",
+   "title": "Synchronous Homework & Activities",
+   "weight": 10.0,
+   "canvas_id": 79
+  }
+ ],
+ "rubrics": [],
+ "pages": [
+  {
+   "id": "p_5-dot-2-lesson-beyond-the-ballot-box",
+   "title": "Lesson: Beyond the Ballot Box",
+   "slug": "5-dot-2-lesson-beyond-the-ballot-box",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Lesson: Beyond the Ballot Box</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-16/lesson-16-1.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-16/lesson-16-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_5-dot-4-primary-source-1-franklin-d-roosevelt-address-to-congress-dec-8-1941",
+   "title": "Primary Source 1: Franklin D. Roosevelt, Address to Congress (Dec 8, 1941)",
+   "slug": "5-dot-4-primary-source-1-franklin-d-roosevelt-address-to-congress-dec-8-1941",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Franklin D. Roosevelt, Address to Congress (Dec 8, 1941)</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-16/primary-source-1.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-16/primary-source-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_5-dot-6-lesson-three-drafts-three-controversies",
+   "title": "Lesson: Three Drafts, Three Controversies",
+   "slug": "5-dot-6-lesson-three-drafts-three-controversies",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Lesson: Three Drafts, Three Controversies</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-16/lesson-16-2.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-16/lesson-16-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_5-dot-7-primary-source-2-lyndon-b-johnson-johns-hopkins-address-1965",
+   "title": "Primary Source 2: Lyndon B. Johnson, Johns Hopkins Address (1965)",
+   "slug": "5-dot-7-primary-source-2-lyndon-b-johnson-johns-hopkins-address-1965",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Lyndon B. Johnson, Johns Hopkins Address (1965)</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-16/primary-source-2.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-16/primary-source-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_5-dot-12-lesson-containment-and-the-birth-of-nato",
+   "title": "Lesson: Containment and the Birth of NATO",
+   "slug": "5-dot-12-lesson-containment-and-the-birth-of-nato",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Lesson: Containment and the Birth of NATO</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-17/lesson-17-1.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-17/lesson-17-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_5-dot-14-primary-source-1-harry-s-truman-address-to-congress-the-truman-doctrine-march-12-1947",
+   "title": "Primary Source 1: Harry S. Truman, Address to Congress, \"The Truman Doctrine\" (March 12, 1947)",
+   "slug": "5-dot-14-primary-source-1-harry-s-truman-address-to-congress-the-truman-doctrine-march-12-1947",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Harry S. Truman, Address to Congress, \"The Truman Doctrine\" (March 12, 1947)</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-17/primary-source-1.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-17/primary-source-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_5-dot-16-lesson-after-the-cold-war-a-new-world-order",
+   "title": "Lesson: After the Cold War, A New World Order",
+   "slug": "5-dot-16-lesson-after-the-cold-war-a-new-world-order",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Lesson: After the Cold War, A New World Order</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-17/lesson-17-2.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-17/lesson-17-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_5-dot-17-primary-source-2-george-h-dot-w-bush-address-to-congress-toward-a-new-world-order-september-11-1990",
+   "title": "Primary Source 2: George H.W. Bush, Address to Congress, \"Toward a New World Order\" (September 11, 1990)",
+   "slug": "5-dot-17-primary-source-2-george-h-dot-w-bush-address-to-congress-toward-a-new-world-order-september-11-1990",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: George H.W. Bush, Address to Congress, \"Toward a New World Order\" (September 11, 1990)</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-17/primary-source-2.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-17/primary-source-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_5-dot-22-lesson-a-famine-the-world-was-told-did-not-exist",
+   "title": "Lesson: A Famine the World Was Told Did Not Exist",
+   "slug": "5-dot-22-lesson-a-famine-the-world-was-told-did-not-exist",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Lesson: A Famine the World Was Told Did Not Exist</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-18/lesson-18-1.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-18/lesson-18-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_5-dot-24-primary-source-1-gareth-jones-famine-rules-russia-1933",
+   "title": "Primary Source 1: Gareth Jones, \"Famine Rules Russia\" (1933)",
+   "slug": "5-dot-24-primary-source-1-gareth-jones-famine-rules-russia-1933",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Gareth Jones, \"Famine Rules Russia\" (1933)</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-18/primary-source-1.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-18/primary-source-1.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_5-dot-26-lesson-the-gulag-silencing-dissent-by-law",
+   "title": "Lesson: The Gulag, Silencing Dissent by Law",
+   "slug": "5-dot-26-lesson-the-gulag-silencing-dissent-by-law",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Lesson: The Gulag, Silencing Dissent by Law</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-18/lesson-18-2.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-18/lesson-18-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_5-dot-27-primary-source-2-aleksandr-solzhenitsyn-the-gulag-archipelago-1973",
+   "title": "Primary Source 2: Aleksandr Solzhenitsyn, The Gulag Archipelago (1973)",
+   "slug": "5-dot-27-primary-source-2-aleksandr-solzhenitsyn-the-gulag-archipelago-1973",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Primary Source: Aleksandr Solzhenitsyn, The Gulag Archipelago (1973)</div>\n  <iframe src=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-18/primary-source-2.html\" width=\"100%\" height=\"2200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-family: Arial, sans-serif; font-size: 0.8em; color: #666; background: #eaf2f8;\">\n    If the interactive doesn't load, <a href=\"https://optimaondemand.github.io/mjcivics-lessons/weeks/week-18/primary-source-2.html\" target=\"_blank\">open it in a new tab</a>.\n  </div>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_m365-setup-and-file-organization-guide",
+   "title": "M365 Setup & File Organization Guide",
+   "slug": "m365-setup-and-file-organization-guide",
+   "html": "<p style=\"color:#666;font-size:13px;\">Grade Band B (Grades 6–8) scaffold. This page is pinned in every module so a scholar who enrolls mid-year can find it without asking the teacher.</p>\n\n<div style=\"border-top:3px solid #C7922C;border:1px solid #D0D9E8;border-radius:8px;padding:16px 22px;margin:16px 0;\">\n<p style=\"color:#0E1C42;margin:0 0 8px 0;\">1 · How to Sign In</p>\n<p style=\"margin:0;\">Go to <strong>office.com</strong> and sign in with your <strong>school Microsoft account</strong> (not a personal Microsoft account). Your username is your Optima email address. If you don't know your password, contact your teacher.</p>\n</div>\n\n<div style=\"border:1px solid #D0D9E8;border-radius:8px;padding:16px 22px;margin:16px 0;\">\n<p style=\"color:#0E1C42;margin:0 0 8px 0;\">2 · This Course's OneDrive Folder</p>\n<p style=\"margin:0;\">Create (or confirm you already have) this folder path in OneDrive: <code>Optima → Civics → Civics_2026-27</code>. Save every Word or PowerPoint file for this course there.</p>\n</div>\n\n<div style=\"border:1px solid #D0D9E8;border-radius:8px;padding:16px 22px;margin:16px 0;\">\n<p style=\"color:#0E1C42;margin:0 0 8px 0;\">3 · File Naming Rule</p>\n<p style=\"margin:0 0 8px 0;\">Every file you submit follows this pattern: <code>LastName_FirstName_AssignmentShortName_CIV8_2627</code></p>\n<p style=\"color:#666;font-size:13px;margin:0;\">Example: <code>Reed_Patrick_LockeAnalysis_CIV8_2627</code>. Multi-draft assignments add <code>_Draft1</code>, <code>_Draft2</code>, or <code>_Final</code>.</p>\n</div>\n\n<div style=\"border:1px solid #D0D9E8;border-radius:8px;padding:16px 22px;margin:16px 0;\">\n<p style=\"color:#0E1C42;margin:0 0 8px 0;\">4 · How to Submit via Canvas</p>\n<p style=\"margin:0;\">Open the assignment in Canvas. If it uses the OneDrive cloud-assignment tool, your personal copy opens automatically; complete it and click Submit in Canvas when done. If it's a file-upload assignment, use the OneDrive tab in the submission window to attach your saved file directly; don't download-then-reupload.</p>\n</div>\n\n<div style=\"border:1px solid #D0D9E8;border-radius:8px;padding:16px 22px;margin:16px 0;\">\n<p style=\"color:#0E1C42;margin:0 0 8px 0;\">I Joined Mid-Year: What Do I Do?</p>\n<ol style=\"margin:0;padding-left:20px;\">\n<li>Confirm you have a school M365 account. If not, contact your teacher.</li>\n<li>Create your <code>Optima → Civics → Civics_2026-27</code> OneDrive folder if it doesn't exist yet.</li>\n<li>Review the file naming rule above and bookmark this page.</li>\n<li>Ask your teacher whether any earlier assignments need to be made up in M365 format.</li>\n</ol>\n</div>\n\n<div style=\"border:1px solid #D0D9E8;border-radius:8px;padding:16px 22px;margin:16px 0;\">\n<p style=\"color:#0E1C42;margin:0 0 8px 0;\">Where to Get Help</p>\n<p style=\"margin:0;\">Ask your teacher first. For Microsoft's own beginner tutorials, visit <strong>support.microsoft.com</strong>.</p>\n</div>\n",
+   "front_page": false,
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a664",
+   "title": "Critical Questions",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · CRITICAL QUESTIONS</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions</div><div style=\"font-size:15px; color:#FACC46;\">10 points · written answers</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Open the primary source page <strong>Franklin D. Roosevelt, Address to Congress (Dec 8, 1941)</strong> and read it. Then answer both questions below. Type your answers in the text box, numbering them 1 and 2.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Reread the Roosevelt excerpt above, then read it in the context of the lesson “Beyond the Ballot Box” before answering.</p><ol style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">A declaration of war is the constitutional trigger that would soon justify a national draft compelling military service. Explain how this speech connects a single formal legislative act to the personal civic obligation of millions of individual citizens.</li><li style=\"margin-bottom:8px;\">Suppose Congress had declined to declare war despite Roosevelt's request. Based on Module 3's account of Congress's war powers, could Roosevelt have ordered a full-scale war effort, including a draft, on his own authority? Explain.</li></ol></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag72",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  },
+  {
+   "id": "a665",
+   "title": "Primary Source Exercise",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · PRIMARY SOURCE EXERCISE</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Exercise</div><div style=\"font-size:15px; color:#FACC46;\">10 points · written answers</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Open the primary source page <strong>Lyndon B. Johnson, Johns Hopkins Address (1965)</strong> and read it. Then answer both questions below. Type your answers in the text box, numbering them 1 and 2.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Answer directly in the Canvas text box. Quote at least once from the Johnson excerpt above.</p><ol style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Compare the tone and purpose of this speech to Roosevelt's Pearl Harbor address. Both defend American military commitment, but do they rest that commitment on the same kind of justification? Explain.</li><li style=\"margin-bottom:8px;\">Suppose the Vietnam-era draft had applied a wealthy-citizen exemption similar to the Civil War's $300 commutation fee, rather than a college deferment. Based on the lesson “Three Drafts, Three Controversies”, would this have made the draft more or less controversial, and why?</li></ol></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag72",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  },
+  {
+   "id": "a666",
+   "title": "VR: The Draft Board Table",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · VR ACTIVITY</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">VR: The Draft Board Table</div><div style=\"font-size:15px; color:#FACC46;\">10 points · file upload</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Setting:</strong> the 20th-Century American Home Front. <strong>Time:</strong> ~30 minutes. <strong>Category:</strong> Synchronous Homework and Activities.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">This activity works whether you attend a live VR class session or complete it solo; the steps are identical either way. Enter the recreated Home Front. You will find three stations, each labeled with one draft era: Civil War (1863), World War II (1940s), and Vietnam (1960s), each displaying a posted placard summarizing that era's draft rules.</p><ol style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">At each of the three stations, leave a note recording the one detail of that era's draft rules you think made it more or less fair.</li><li style=\"margin-bottom:8px;\">Stand at the center table and use the whiteboard to rank the three drafts from most evenly shared burden to least evenly shared burden, based on your three notes.</li><li style=\"margin-bottom:8px;\">Record a short walkthrough of yourself narrating your ranking and defending your placement of the World War II draft specifically: do you agree with the lesson's claim that it was the most widely accepted of the three? Why or why not?</li></ol><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Submit:</strong> the recording of your walkthrough, uploaded here.</p></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag79",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  },
+  {
+   "id": "a667",
+   "title": "VR A: December 8th",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · VR ACTIVITY</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">VR A: December 8th</div><div style=\"font-size:15px; color:#FACC46;\">5 points · file upload</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Setting:</strong> a 1940s living room. <strong>Time:</strong> ~15 minutes.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Enter the virtual 1940s living room, set up around a period radio. A posted placard plays the key line from Roosevelt's address: 'a date which will live in infamy.' Using a note, write one sentence imagining how a family listening at home in December 1941 might have reacted differently from how a modern reader encountering the same words in a textbook does. Take a snapshot of your finished note.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Submit:</strong> the named snapshot, uploaded here.</p></div></div>",
+   "points": 5.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag72",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  },
+  {
+   "id": "a668",
+   "title": "VR B: The Jury Box",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · VR ACTIVITY</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">VR B: The Jury Box</div><div style=\"font-size:15px; color:#FACC46;\">5 points · file upload</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Setting:</strong> a courtroom. <strong>Time:</strong> ~15 minutes.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Enter the virtual courtroom and take a seat in the jury box. A large whiteboard at the front lists reasons citizens sometimes try to avoid jury duty. Using the drawing tool, add one specific consequence you think would follow if most citizens successfully avoided jury service. Record a short walkthrough explaining your addition.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Submit:</strong> the recording of your walkthrough, uploaded here.</p></div></div>",
+   "points": 5.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag72",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  },
+  {
+   "id": "a670",
+   "title": "Critical Questions",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · CRITICAL QUESTIONS</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions</div><div style=\"font-size:15px; color:#FACC46;\">10 points · written answers</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Open the primary source page <strong>Harry S. Truman, Address to Congress, \"The Truman Doctrine\" (March 12, 1947)</strong> and read it. Then answer both questions below. Type your answers in the text box, numbering them 1 and 2.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Directions: Reread the Truman Doctrine excerpt (the first primary source), then read it in the context of the lesson “Containment and the Birth of NATO” before answering. Your answers should reason from the text, not just restate it.</p><ol style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Truman frames American support for \"free peoples\" as tied directly to protecting \"the welfare of this Nation.\" Explain the connection this passage draws between foreign policy abroad and domestic security at home.</li><li style=\"margin-bottom:8px;\">Suppose Congress had rejected Truman's request for aid to Greece and Turkey in 1947. Based on this passage's reasoning, what specific consequence does Truman warn would follow for the United States itself, not just for Greece and Turkey?</li></ol></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag72",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": false,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  },
+  {
+   "id": "a671",
+   "title": "Primary Source Exercise",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · PRIMARY SOURCE EXERCISE</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Exercise</div><div style=\"font-size:15px; color:#FACC46;\">10 points · written answers</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Open the primary source page <strong>George H.W. Bush, Address to Congress, \"Toward a New World Order\" (September 11, 1990)</strong> and read it. Then answer both questions below. Type your answers in the text box, numbering them 1 and 2.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Directions: Answer directly in the Canvas text box. Quote at least once from the Bush excerpt (the second primary source).</p><ol style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Compare Truman's phrase \"free peoples... resisting... outside pressures\" to Bush's phrase \"the strong respect the rights of the weak.\" Both defend smaller or threatened nations, but do they rest on the same theory of how the international system should be organized (rival blocs vs. collective institutions)? Explain.</li><li style=\"margin-bottom:8px;\">Suppose the Soviet Union had still held its Cold War-era veto power and used it to block UN action against Iraq's invasion of Kuwait. Based on this passage and the lesson “After the Cold War, A New World Order”, what alternative foreign policy tool might Bush have needed to rely on instead?</li></ol></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag72",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": false,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  },
+  {
+   "id": "a672",
+   "title": "VR: The UN Security Council Chamber",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · VR ACTIVITY</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">VR: The UN Security Council Chamber</div><div style=\"font-size:15px; color:#FACC46;\">10 points · file upload</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Setting:</strong> the United Nations Security Council Chamber. <strong>Time:</strong> ~30 minutes. <strong>Category:</strong> Synchronous Homework &amp; Activities.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">This activity works whether you attend a live VR class session or complete it solo; the steps are identical either way. Enter the recreated Security Council Chamber. You will find the horseshoe table with member-state placards and a posted placard summarizing the 1990 Gulf crisis resolution process.</p><ol style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Sit at a permanent member's seat (identified on the placard) and leave a note explaining what the veto power at that seat means for how the Council can act.</li><li style=\"margin-bottom:8px;\">Move to a NATO member's seat and leave a second note explaining how NATO's mutual-defense promise differs from the UN Security Council's collective-action process.</li><li style=\"margin-bottom:8px;\">Stand at the podium and use the whiteboard to sketch a simple flowchart: crisis occurs, UN resolution sought, coalition built, action taken, labeling where NATO could fit into that process if invoked.</li><li style=\"margin-bottom:8px;\">Record a short walkthrough of yourself narrating: which organization, the UN or NATO, do you think gives the United States more independent freedom of action, and which gives it more legitimacy in the eyes of other nations? Defend your answer in under two minutes.</li></ol><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Submit:</strong> the recording of your walkthrough, uploaded to the Canvas assignment. If completed live, your facilitator may also ask you to briefly share your answer aloud.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><em>Facilitator note:</em> This is the module's featured graded VR activity (Synchronous Homework &amp; Activities, 10% of course grade). Students often conflate the UN and NATO; steer them back to the distinction between a near-universal collective-security forum (UN) and a specific mutual-defense alliance (NATO) if this surfaces.</p></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag79",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": false,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  },
+  {
+   "id": "a673",
+   "title": "VR A: Containment on the Map",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · VR ACTIVITY</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">VR A: Containment on the Map</div><div style=\"font-size:15px; color:#FACC46;\">5 points · file upload</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Setting:</strong> the Cold War Situation Room. <strong>Time:</strong> ~15 minutes.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Enter the virtual Cold War Situation Room. A large wall map shows Europe in 1947. Using a note, mark Greece and Turkey and write one sentence explaining, based on this week's reading, why a crisis in these two specific countries prompted a doctrine meant to apply \"at the present moment in world history\" everywhere. Take a snapshot of your finished note.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Submit:</strong> the named snapshot, uploaded to Canvas.</p></div></div>",
+   "points": 5.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag72",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": false,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  },
+  {
+   "id": "a674",
+   "title": "VR B: Building the Coalition",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · VR ACTIVITY</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">VR B: Building the Coalition</div><div style=\"font-size:15px; color:#FACC46;\">5 points · file upload</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Setting:</strong> the Study Gallery. <strong>Time:</strong> ~15 minutes.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Enter the virtual Study Gallery. A large whiteboard lists nations that joined the 1990-91 Gulf War coalition. Using the drawing tool, circle one nation you find surprising to see on the list and record a short walkthrough explaining why a broad, diverse coalition like this one might carry more international legitimacy than a single nation acting alone.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Submit:</strong> the recording of your walkthrough, uploaded to Canvas.</p></div></div>",
+   "points": 5.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag72",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": false,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  },
+  {
+   "id": "a676",
+   "title": "Critical Questions",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · CRITICAL QUESTIONS</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions</div><div style=\"font-size:15px; color:#FACC46;\">10 points · written answers</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Open the primary source page <strong>Gareth Jones, \"Famine Rules Russia\" (1933)</strong> and read it. Then answer both questions below. Type your answers in the text box, numbering them 1 and 2.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Directions: Reread the Gareth Jones excerpt (the first primary source), then read it in the context of the lesson “A Famine the World Was Told Did Not Exist” before answering. Your answers should reason from the text, not just restate it.</p><ol style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Jones was an independent, foreign journalist rather than someone answerable to the Soviet state. Explain why his independence from the government he was reporting on mattered to the reliability of his account.</li><li style=\"margin-bottom:8px;\">Suppose Jones had only been permitted to travel on official government press tours, like the journalists who echoed the Soviet denial. Based on this passage, what specific piece of evidence would he most likely never have obtained?</li></ol></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag72",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": false,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  },
+  {
+   "id": "a677",
+   "title": "Primary Source Exercise",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · PRIMARY SOURCE EXERCISE</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Exercise</div><div style=\"font-size:15px; color:#FACC46;\">10 points · written answers</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Open the primary source page <strong>Aleksandr Solzhenitsyn, The Gulag Archipelago (1973)</strong> and read it. Then answer both questions below. Type your answers in the text box, numbering them 1 and 2.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Directions: Answer directly in the Canvas text box. Quote at least once from the Solzhenitsyn excerpt (the second primary source).</p><ol style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">The lesson “The Gulag, Silencing Dissent by Law” argues that an independent judiciary and a free press make a system capable of correcting its own failures. Using Solzhenitsyn's idea that anyone can shift toward \"evil\" or \"good\" depending on circumstances, explain why external checks like courts and a free press might matter more than trusting individuals to police themselves.</li><li style=\"margin-bottom:8px;\">Suppose the Soviet Union had possessed an independent judiciary with real power to review arrests, similar to the Article III courts you studied in the lesson “The Shortest, Vaguest Branch”. Based on this passage and the lesson “The Gulag, Silencing Dissent by Law”, would you expect the Gulag system to have operated at the same scale? Explain your reasoning.</li></ol></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag72",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": false,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  },
+  {
+   "id": "a678",
+   "title": "VR: Two Systems, Side by Side",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · VR ACTIVITY</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">VR: Two Systems, Side by Side</div><div style=\"font-size:15px; color:#FACC46;\">10 points · file upload</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Setting:</strong> the Comparative Government Gallery. <strong>Time:</strong> ~30 minutes. <strong>Category:</strong> Synchronous Homework &amp; Activities.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">This activity works whether you attend a live VR class session or complete it solo; the steps are identical either way. Enter the Comparative Government Gallery, set up with two facing walls: one labeled \"U.S. Constitutional Republic,\" the other \"Soviet Communist System.\" A posted placard on each wall summarizes that system's courts, press, and economy.</p><ol style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">At the U.S. wall, leave a note naming one specific institution from this course (a court case, a constitutional clause, an amendment) that acts as a check against the kind of abuse this week's readings describe.</li><li style=\"margin-bottom:8px;\">At the Soviet wall, leave a note naming the specific absence that allowed that abuse to happen: no independent press, no independent courts, or both.</li><li style=\"margin-bottom:8px;\">Stand at the center point between the two walls and use the whiteboard to draw one arrow connecting your two notes, labeling exactly what function the missing Soviet institution would have needed to serve.</li><li style=\"margin-bottom:8px;\">Record a short walkthrough of yourself narrating your full comparison and stating, in your own words, the single most important lesson you are taking from this course's study of American constitutional government.</li></ol><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Submit:</strong> the recording of your walkthrough, uploaded to the Canvas assignment. If completed live, your facilitator may also ask you to briefly share your comparison aloud.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><em>Facilitator note:</em> This is the module's featured graded VR activity (Synchronous Homework &amp; Activities, 10% of course grade) and Quarter 2's closing reflection. Encourage specific, textually grounded comparisons rather than general statements that \"America is better\"; the goal is precise institutional reasoning, not slogans.</p></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag79",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": false,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  },
+  {
+   "id": "a679",
+   "title": "VR A: The Village Jones Walked Through",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · VR ACTIVITY</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">VR A: The Village Jones Walked Through</div><div style=\"font-size:15px; color:#FACC46;\">5 points · file upload</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Setting:</strong> a 1930s Ukrainian village. <strong>Time:</strong> ~15 minutes.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Enter the virtual 1930s Ukrainian village. A posted placard summarizes Gareth Jones's decision to leave the official press tour and walk through villages alone. Using a note, write one sentence explaining what specific risk Jones took by choosing to investigate independently rather than accepting the government's guided version of events. Take a snapshot of your finished note.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Submit:</strong> the named snapshot, uploaded to Canvas.</p></div></div>",
+   "points": 5.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag72",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": false,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  },
+  {
+   "id": "a680",
+   "title": "VR B: The Line Through the Heart",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · VR ACTIVITY</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">VR B: The Line Through the Heart</div><div style=\"font-size:15px; color:#FACC46;\">5 points · file upload</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Setting:</strong> the Study Gallery. <strong>Time:</strong> ~15 minutes.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Enter the virtual Study Gallery. A large whiteboard displays Solzhenitsyn's line, \"the line dividing good and evil cuts through the heart of every human being.\" Using the drawing tool, write one institution or rule from anywhere in this course's work so far that you think exists specifically because its designers assumed ordinary people, not just villains, could misuse power. Record a short walkthrough explaining your choice.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>Submit:</strong> the recording of your walkthrough, uploaded to Canvas.</p></div></div>",
+   "points": 5.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag72",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": false,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q361",
+   "title": "Intro Wrapper",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · INTRO WRAPPER</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Intro Wrapper</div><div style=\"font-size:15px; color:#FACC46;\">3 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Before we start Module 5 (Civic Participation, Foreign Policy and Comparative Government), a few quick check-in questions. This is ungraded and untimed; there is no wrong answer.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>This is the final module of the course. Before starting, write two or three sentences: of everything you have studied in this course, which single idea, document, or case has changed how you think about government the most? We'll return to this at the end of the module.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which best describes what you already know about the difference between the United Nations and NATO?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I couldn't explain the difference",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "I know one is global and one is a military alliance but not much more",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "I could explain how each one works",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "I could explain how the U.S. has used both historically",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Every week in this final module includes a graded VR Sync Activity, the most in any module in this course. Would you like a reminder posted to your Canvas calendar before each one is due?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "No preference either way",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "No",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 3
+  },
+  {
+   "id": "q362",
+   "title": "Reading Quiz",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · READING QUIZ</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz</div><div style=\"font-size:15px; color:#FACC46;\">5 questions · 5 points · one attempt</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #17454C; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#17454C; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Five inference questions on civic obligations and Pearl Harbor.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Open the lesson <strong>Beyond the Ballot Box</strong> first and read it through. Then choose the one best answer for each question below.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag72",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Based on the lesson, jury duty depends on:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Professional lawyers volunteering their time",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ordinary citizens being willing to show up and serve when summoned",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The President appointing jurors directly",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Judges selecting their own juries",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The lesson connects jury duty to a specific earlier lesson's protections. Which one?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Sixth Amendment lesson",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Senate powers lesson",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Athenian Assembly lesson",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The foreign policy lesson",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson, the connection between a constitutional guarantee and jury duty is that:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "There is no connection",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Jury duty is optional under the Constitution",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A guarantee like the right to an impartial jury only functions in practice if citizens actually agree to serve as jurors",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Only lawyers may serve on juries",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Roosevelt's speech to Congress came:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Before the attack on Pearl Harbor",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Several years after the attack",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "During the Vietnam War",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The day after the attack on Pearl Harbor",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A student claims voting is the only civic obligation this lesson discusses. Based on the lesson, is this accurate?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "No, the lesson also discusses jury duty and military service as civic obligations",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Yes",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Yes, jury duty is a right, not an obligation",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "No, because voting is not actually discussed",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q363",
+   "title": "Reading Quiz",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · READING QUIZ</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz</div><div style=\"font-size:15px; color:#FACC46;\">5 questions · 5 points · one attempt</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #17454C; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#17454C; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div>Based on the lesson “Containment and the Birth of NATO”: Containment and the Birth of NATO.<p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Open the lesson <strong>Containment and the Birth of NATO</strong> first and read it through. Then choose the one best answer for each question below.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag72",
+   "published": false,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Based on the lesson, the immediate crisis that prompted Truman's 1947 speech involved:",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A direct Soviet invasion of the United States",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The founding of NATO",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Pressure on Greece and Turkey",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Vietnam War",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The policy of \"containment,\" according to the lesson, aimed to:",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Roll back Soviet communism by force wherever it existed",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Merge the U.S. and Soviet economies",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Withdraw the U.S. from all foreign commitments",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Prevent the further spread of Soviet communism without necessarily reversing it where it already existed",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "NATO's core promise, as described in the lesson, is that:",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "All members must have identical governments",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "An attack on any member is treated as an attack on all",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Only the United States may act militarily",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Members may not trade with non-members",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Based on the lesson, why did containment \"need institutions... to make it credible over the long run\"?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A single speech alone provides no lasting military commitment without an organization to back it up",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Congress required it by law",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The United Nations demanded it",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "NATO existed before the Truman Doctrine was announced",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "A student claims NATO was founded before the Truman Doctrine speech. Based on the lesson, is this accurate?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Yes, by several decades",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "No, because NATO and the Truman Doctrine occurred in the same year",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "No, the Truman Doctrine speech came in 1947, and NATO was founded in 1949",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q364",
+   "title": "Reading Quiz",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · READING QUIZ</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz</div><div style=\"font-size:15px; color:#FACC46;\">5 questions · 5 points · one attempt</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #17454C; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#17454C; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div>Based on the lesson “A Famine the World Was Told Did Not Exist”: A Famine the World Was Told Did Not Exist.<p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Open the lesson <strong>A Famine the World Was Told Did Not Exist</strong> first and read it through. Then choose the one best answer for each question below.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 5.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag72",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Based on the lesson, forced agricultural collectivization involved:",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Peasants voluntarily forming farming cooperatives",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The abolition of all farming in the Soviet Union",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Independent farms merged into state-run collectives, often against the owners' will",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A program limited to industrial factories, not farms",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "According to the lesson, the 1932-1933 famine was largely caused by:",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "An unusually severe drought with no government role",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A foreign military blockade",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A decision by peasant farmers to withhold their own grain for profit",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "State grain-requisition policy, not primarily natural disaster",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Gareth Jones's reporting was significant, based on the lesson, because it:",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Repeated the official Soviet denial of any famine",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Directly contradicted the Soviet government's claims after Jones personally visited villages outside official press tours",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Was written from inside the Kremlin",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Focused only on Soviet industrial achievements",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The lesson connects this week's topic back to the lesson “Two Chambers, One Congress” and the lesson “The Price of Ratification”. What specific connection does it draw?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A government without an independent press or courts has less friction preventing it from hiding a crisis",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Soviet Union also had a bicameral legislature",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Soviet Union followed the U.S. Bill of Rights",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "There is no connection drawn",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "A student claims all Western journalists in Moscow accurately reported the famine as it was happening. Based on the lesson, is this accurate?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "No, some journalists, dependent on continued Soviet access, echoed the government's denial rather than reporting accurately",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Yes",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Yes, except for Gareth Jones",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "No, because no journalists were stationed in Moscow at the time",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 5
+  },
+  {
+   "id": "q2271",
+   "title": "Quarter 2 Exam",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>QUARTER 2 · EXAM</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Quarter 2 Exam</div><div style=\"font-size:15px; color:#FACC46;\">31 questions · 31 points · one attempt · 45 minutes</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #17454C; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#17454C; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">This is your Quarter 2 Exam, covering everything from Article II (the Executive Branch) through Comparative Government: the presidency, the judiciary, the Bill of Rights, landmark civil liberties and civil rights cases, civic obligations, foreign policy, and comparative government. You have one attempt and 45 minutes. No notes.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 31.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag78",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “A Single Executive, Carefully Bound”, the President's power to make treaties and appoint federal judges requires:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Advice and Consent of the Senate",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A public referendum of all citizens",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Approval from the Supreme Court",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A unanimous vote of the House",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>Stated directly as a shared power requiring Senate cooperation.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “The Veto and Hamilton's Case for It”, the presidential veto is textually located in:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Article II, Section 1",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Article III, Section 2",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Bill of Rights",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Article I, Section 7, not Article II",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>The lesson calls this a fact that \"surprises most students.\"</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Hamilton names two reasons for the presidential veto in Federalist No. 73. Which pair correctly matches his own ranking?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Primary: protecting the community; secondary: letting the President defend himself",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Primary: letting the President defend himself; secondary: protecting the community against bad laws",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Both reasons are equally primary, with no ranking",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Neither reason concerns the legislature at all",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>Hamilton calls self-defense the \"primary\" inducement and protecting the community \"secondary.\"</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “The Shortest, Vaguest Branch”, federal judges hold office \"during good Behaviour\" chiefly so that:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Congress can replace them easily",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They can serve on multiple courts at once",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A judge who feared losing the job would not be a genuinely independent check on the other branches",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They never need Senate confirmation",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>This is the lesson's stated reason for life tenure.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “The Shortest, Vaguest Branch”, federal courts may:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Only hear cases falling within specific categories named in Article III, Section 2",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Choose to rule on any dispute they find interesting",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only hear cases involving the President",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Never review acts of Congress",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>Federal jurisdiction is limited to the categories the text names.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Hamilton calls the judiciary \"the least dangerous\" branch in Federalist No. 78 because, unlike Congress and the President, it:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Has the fewest members",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Rarely hears real cases",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Cannot ever be checked by the other branches",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Commands neither the power of the purse nor the power of the sword, only judgment",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>Hamilton's own phrase: \"neither FORCE nor WILL, but merely judgment.\"</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “The Price of Ratification”, the Bill of Rights is best understood as:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A grant of brand-new freedoms from a generous government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A fence marking territory the government may not enter, not a grant of new freedoms",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A list of duties citizens owe the government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A replacement for the original Constitution",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>The lesson's own metaphor for the Bill of Rights.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The First Amendment's opening phrase, \"Congress shall make no law,\" tells you the amendment directly restrains:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Private citizens",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "State governments only",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The national legislature",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Foreign governments",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>The amendment's grammatical subject is Congress.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “A Well Regulated Militia”, the Supreme Court's 2008 ruling in <em>District of Columbia v. Heller</em> held that the Second Amendment protects:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "An individual right to keep a firearm for lawful purposes, unconnected with militia service",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A right that exists only for members of an organized state militia",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "No right at all, since the amendment was ruled obsolete",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A right that only Congress, not individuals, may exercise",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>Stated directly as the Court's 2008 holding.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “A Test for the Establishment Clause”, a government action touching religion satisfies the Lemon test only if it:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Has any purpose Congress considers reasonable",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Directly funds a specific religious denomination",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Avoids all mention of religion in any statute",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Has a secular purpose, neither advances nor inhibits religion as its primary effect, and avoids excessive government entanglement with religion",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>The three cumulative prongs of the Lemon test.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Pennsylvania and Rhode Island laws struck down in <em>Lemon v. Kurtzman</em> had used state funds to:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Build new public schools",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Pay religious school teachers' salaries for secular subjects",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Fund a national church",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ban religious schools entirely",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>Stated directly as the facts of the case.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “The Free Exercise Clause and Sherbert v. Verner”, once a law substantially burdens someone's free exercise of religion, the <em>Sherbert</em> test requires the government to show:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That a majority of citizens support the law",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only that the law applies equally to everyone",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A \"compelling state interest\" justifying the burden",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Nothing further, since free exercise claims automatically fail",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>Stated directly as the Sherbert test's standard.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “The Right to Remain Silent”, Miranda warnings are legally required only when a suspect is:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "In police custody and about to be questioned to draw out incriminating information",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Asked any question at all by any officer, custody or not",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Formally charged in court",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Released on bail",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>The lesson stresses the trigger is custody together with interrogation, not questioning alone.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “Stop and Frisk, Terry v. Ohio”, <em>Terry v. Ohio</em> permits a brief stop and pat-down for weapons based on:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A formal warrant",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Probable cause identical to the standard for a full arrest",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Anonymous tips alone, with no officer observation required",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "\"Reasonable suspicion,\" supported by specific and articulable facts, a lower standard than probable cause",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>Stated directly as the Terry standard.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A student claims the <em>Miranda</em> ruling found Ernesto Miranda factually innocent of the crime he was accused of. Based on the lesson “The Right to Remain Silent”, is this accurate?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "No: the ruling concerned the constitutionality of how his confession was obtained, not his factual guilt or innocence",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Yes, and he was awarded damages",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "No, because the Court refused to hear his case",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>Requires distinguishing the procedural ruling from factual guilt.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “Inherently Unequal”, the Supreme Court's ruling in <em>Brown v. Board of Education</em> held that segregated schools were:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Equal so long as funding was matched",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A matter for each state legislature to decide, not the courts",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Inherently unequal, regardless of whether resources were formally matched",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Constitutional under the Fourteenth Amendment",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>Stated directly as the Court's holding.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “The Precedent Brown Corrected”, Homer Plessy's boarding of the railway car reserved for white passengers was:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A deliberately staged test case arranged in advance with the railroad's cooperation",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A spontaneous, unplanned act of civil disobedience",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "An accident, since Plessy did not know the law existed",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ordered by the state government itself",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>The Comité des Citoyens and the East Louisiana Railroad arranged the test case together.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In his lone dissent in <em>Plessy v. Ferguson</em>, Justice Harlan wrote that:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Segregation should be decided by popular vote",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The federal government had no authority over state railway law",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "\"Separate but equal\" was an efficient solution",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "\"Our Constitution is color-blind, and neither knows nor tolerates classes among citizens\"",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>Harlan's own words, vindicated by <em>Brown</em> fifty-eight years later.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “Beyond the Ballot Box”, the Sixth Amendment's guarantee of an impartial jury depends on:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Judges selecting their own juries",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ordinary citizens actually showing up to serve when summoned",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Professional lawyers volunteering their time",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The President appointing jurors directly",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>A right that exists only on paper unless citizens staff it.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “Three Drafts, Three Controversies”, the 1863 Civil War draft allowed a drafted man to avoid service by:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Enlisting in the Navy instead",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Serving only within his home state",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Paying a $300 commutation fee or hiring a substitute",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Registering as a conscientious objector",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>This option, available mainly to the wealthy, helped spark the New York City Draft Riots.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Roosevelt's December 8, 1941, address asked Congress to formally declare that a state of war existed, rather than declaring war himself, because:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Article I, Section 8 gives Congress, not the President, the power to declare war",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Constitution required a unanimous Cabinet vote first",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress alone could raise a militia under the Second Amendment",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Roosevelt lacked the authority to command the armed forces",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>Requires connecting Week 16 back to Week 9's Article I, Section 8.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “Containment and the Birth of NATO”, the policy of \"containment,\" first announced in the Truman Doctrine, aimed to:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Merge the U.S. and Soviet economies",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Roll back Soviet communism by force wherever it existed",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Withdraw the U.S. from all foreign commitments",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Prevent the further spread of Soviet communism, without necessarily reversing it where it already existed",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>The lesson's explicit distinction between containing and rolling back.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>NATO's core promise, according to the lesson “Containment and the Birth of NATO”, is that:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "All members must adopt identical governments",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "An attack on any member is treated as an attack on all",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Only the United States may act militarily",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Members may not trade with non-members",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>NATO's mutual-defense principle.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “After the Cold War, A New World Order”, President George H.W. Bush's response to the 1990 invasion of Kuwait differed from Truman's approach chiefly in that Bush:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Acted entirely alone, without allies",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Refused to involve the United Nations",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Built a multinational coalition through UN Security Council resolutions rather than confronting a single rival superpower alone",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Declared containment obsolete and adopted rollback instead",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>The lesson's explicit contrast between Truman's and Bush's methods.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “A Famine the World Was Told Did Not Exist”, the 1932–1933 Soviet famine was largely caused by:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "State grain-requisition policy, not primarily natural disaster",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "An unusually severe drought with no government role",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A foreign military blockade",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Peasant farmers withholding their own grain for profit",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>Stated directly in the lesson.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “A Famine the World Was Told Did Not Exist”, Gareth Jones's reporting mattered because he:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Repeated the official Soviet denial of any famine",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Wrote his account from inside the Kremlin",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Focused only on Soviet industrial achievements",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Personally visited villages outside official press tours and directly contradicted the Soviet government's denial",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>Stated directly as the significance of Jones's independent reporting.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the lesson “The Gulag, Silencing Dissent by Law”, the Gulag system was able to operate at such scale largely because the Soviet Union lacked:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A written constitution of any kind",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "An independent judiciary and a free press capable of checking the state",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Any prisons or courts whatsoever",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A standing army",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>This is the lesson's closing comparative point.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Olive Branch Petition modeled a civic problem-solving process that involved identifying the proper authority, stating the grievance clearly, and:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Declaring independence immediately",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Organizing a military response first",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Proposing a specific resolution the authority could grant",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Appealing directly to a foreign government instead",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>The petition asked the King specifically for reconciliation, not just to air a complaint.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Comparing the U.S. and Florida constitutions' preambles, the Extension reading explains that Florida's constitution:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Can grant Floridians rights beyond what the federal Constitution requires, but cannot take away any federal constitutional right",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Can override any federal constitutional right it chooses",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Has no preamble of its own",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Must be identical in wording to the U.S. Constitution",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>This one-directional relationship follows from federalism.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Northwest Ordinance of 1787 stated that \"schools and the means of education shall forever be encouraged\" because the framers judged them:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A purely private matter with no government interest",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A federal responsibility only",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Unnecessary for good government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Necessary to good government and the happiness of mankind",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>Quoted directly from the Ordinance's own text.</p>"
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The 12th Amendment rewrote the electoral process after the 1800 election specifically to prevent:</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "States from having unequal numbers of electors",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A tie between a party's own presidential and vice-presidential candidates, as happened between Jefferson and Burr",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Electors from meeting in separate states",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress from ever counting electoral votes",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": "<p>The 1800 Jefferson–Burr tie is exactly what prompted the amendment.</p>"
+    }
+   ],
+   "canvas_question_count": 31
+  },
+  {
+   "id": "q365",
+   "title": "Outro Wrapper: Course Closing Reflection",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#17454C; border-bottom:4px solid #CF9B24; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · OUTRO WRAPPER</strong></div><div style=\"font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Outro Wrapper: Course Closing Reflection</div><div style=\"font-size:15px; color:#FACC46;\">6 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#CF9B24; font-size:20px; line-height:1; margin:0 0 20px;\">❦ ❧ ❦<div style=\"border-top:1px solid #288C99; margin-top:8px;\"></div></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #288C99; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#288C99; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Now that we're finishing Module 5 (Civic Participation, Foreign Policy, and Comparative Government), and this course so far, a few closing reflection questions. This is ungraded and untimed; there is no wrong answer.</p>\n</div></div>",
+   "quiz_type": "survey",
+   "points": 0.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "Revisit your answer from the Module 5 Intro Wrapper: the single idea, document, or case that changed how you think about government the most. After studying civic obligations, U.S. foreign policy, and a direct comparison to Soviet communism, has your answer changed, or been confirmed more strongly? Explain.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How confident do you feel explaining, using specific evidence from this course, why an independent judiciary and a free press matter to preventing the kind of abuses documented in the lesson “The Gulag, Silencing Dissent by Law”?\n",
+     "points": 0,
+     "answers": [
+      {
+       "text": "1, Not confident at all",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "2, Slightly confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3, Somewhat confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "4, Confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "5, Very confident",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Of the three weeks in this module, which topic do you think deserves more time in a future course?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Civic obligations (voting, juries, the draft)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "U.S. foreign policy (containment, the UN, NATO)",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Comparative government (Soviet communism)",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "short_answer",
+     "text": "What is still unclear to you after Module 5?",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "short_answer",
+     "text": "Gareth Jones chose to leave an official, controlled press tour to investigate independently, at real professional and personal risk. Name one virtue (courage, courtesy, honesty, perseverance, self-government, service, responsibility) this required of him, and explain in a sentence why it matters for a citizen of any country, not just a journalist.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Looking back across the whole course so far, from Athens and Rome, through the Enlightenment and the founding documents, through the three branches and the Bill of Rights, to this final module, write a short paragraph naming what you now think a citizen owes the political community that protects their rights, and why.\n",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 6
+  }
+ ],
+ "discussions": [],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_5",
+   "title": "Civic Participation, Foreign Policy & Comparative Government",
+   "published": false,
+   "items": [
+    {
+     "title": "Intro Wrapper",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q361",
+     "week": 16
+    },
+    {
+     "title": "Lesson: Beyond the Ballot Box",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_5-dot-2-lesson-beyond-the-ballot-box",
+     "week": 16,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz",
+     "indent": 1,
+     "published": true,
+     "type": "quiz",
+     "ref": "q362",
+     "week": 16
+    },
+    {
+     "title": "Primary Source 1: Franklin D. Roosevelt, Address to Congress (Dec 8, 1941)",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_5-dot-4-primary-source-1-franklin-d-roosevelt-address-to-congress-dec-8-1941",
+     "week": 16,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions",
+     "indent": 1,
+     "published": true,
+     "type": "assignment",
+     "ref": "a664",
+     "week": 16
+    },
+    {
+     "title": "Lesson: Three Drafts, Three Controversies",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_5-dot-6-lesson-three-drafts-three-controversies",
+     "week": 16,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 2: Lyndon B. Johnson, Johns Hopkins Address (1965)",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_5-dot-7-primary-source-2-lyndon-b-johnson-johns-hopkins-address-1965",
+     "week": 16,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Exercise",
+     "indent": 1,
+     "published": true,
+     "type": "assignment",
+     "ref": "a665",
+     "week": 16
+    },
+    {
+     "title": "VR: The Draft Board Table",
+     "indent": 1,
+     "published": true,
+     "type": "assignment",
+     "ref": "a666",
+     "week": 16
+    },
+    {
+     "title": "VR A: December 8th",
+     "indent": 1,
+     "published": true,
+     "type": "assignment",
+     "ref": "a667",
+     "week": 16
+    },
+    {
+     "title": "VR B: The Jury Box",
+     "indent": 1,
+     "published": true,
+     "type": "assignment",
+     "ref": "a668",
+     "week": 16
+    },
+    {
+     "title": "Lesson: Containment and the Birth of NATO",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_5-dot-12-lesson-containment-and-the-birth-of-nato",
+     "week": 17,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz",
+     "indent": 0,
+     "published": false,
+     "type": "quiz",
+     "ref": "q363",
+     "week": 17
+    },
+    {
+     "title": "Primary Source 1: Harry S. Truman, Address to Congress, \"The Truman Doctrine\" (March 12, 1947)",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_5-dot-14-primary-source-1-harry-s-truman-address-to-congress-the-truman-doctrine-march-12-1947",
+     "week": 17,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions",
+     "indent": 0,
+     "published": false,
+     "type": "assignment",
+     "ref": "a670",
+     "week": 17
+    },
+    {
+     "title": "Lesson: After the Cold War, A New World Order",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_5-dot-16-lesson-after-the-cold-war-a-new-world-order",
+     "week": 17,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 2: George H.W. Bush, Address to Congress, \"Toward a New World Order\" (September 11, 1990)",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_5-dot-17-primary-source-2-george-h-dot-w-bush-address-to-congress-toward-a-new-world-order-september-11-1990",
+     "week": 17,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Exercise",
+     "indent": 0,
+     "published": false,
+     "type": "assignment",
+     "ref": "a671",
+     "week": 17
+    },
+    {
+     "title": "VR: The UN Security Council Chamber",
+     "indent": 0,
+     "published": false,
+     "type": "assignment",
+     "ref": "a672",
+     "week": 17
+    },
+    {
+     "title": "VR A: Containment on the Map",
+     "indent": 0,
+     "published": false,
+     "type": "assignment",
+     "ref": "a673",
+     "week": 17
+    },
+    {
+     "title": "VR B: Building the Coalition",
+     "indent": 0,
+     "published": false,
+     "type": "assignment",
+     "ref": "a674",
+     "week": 17
+    },
+    {
+     "title": "Lesson: A Famine the World Was Told Did Not Exist",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_5-dot-22-lesson-a-famine-the-world-was-told-did-not-exist",
+     "week": 18,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q364",
+     "week": 18
+    },
+    {
+     "title": "Primary Source 1: Gareth Jones, \"Famine Rules Russia\" (1933)",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_5-dot-24-primary-source-1-gareth-jones-famine-rules-russia-1933",
+     "week": 18,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions",
+     "indent": 0,
+     "published": false,
+     "type": "assignment",
+     "ref": "a676",
+     "week": 18
+    },
+    {
+     "title": "Lesson: The Gulag, Silencing Dissent by Law",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_5-dot-26-lesson-the-gulag-silencing-dissent-by-law",
+     "week": 18,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 2: Aleksandr Solzhenitsyn, The Gulag Archipelago (1973)",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_5-dot-27-primary-source-2-aleksandr-solzhenitsyn-the-gulag-archipelago-1973",
+     "week": 18,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Exercise",
+     "indent": 0,
+     "published": false,
+     "type": "assignment",
+     "ref": "a677",
+     "week": 18
+    },
+    {
+     "title": "VR: Two Systems, Side by Side",
+     "indent": 0,
+     "published": false,
+     "type": "assignment",
+     "ref": "a678",
+     "week": 18
+    },
+    {
+     "title": "VR A: The Village Jones Walked Through",
+     "indent": 0,
+     "published": false,
+     "type": "assignment",
+     "ref": "a679",
+     "week": 18
+    },
+    {
+     "title": "VR B: The Line Through the Heart",
+     "indent": 0,
+     "published": false,
+     "type": "assignment",
+     "ref": "a680",
+     "week": 18
+    },
+    {
+     "title": "Quarter 2 Exam",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q2271",
+     "week": 18
+    },
+    {
+     "title": "Outro Wrapper: Course Closing Reflection",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q365",
+     "week": 18
+    },
+    {
+     "title": "M365 Setup & File Organization Guide",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_m365-setup-and-file-organization-guide",
+     "week": 18
+    }
+   ]
+  }
+ ],
+ "syllabus_html": "",
+ "source": {
+  "note": "Sparkled edition of one module of M/J Civics. Read from Canvas course 35 (naming authority; titles, order, points, groups, quiz questions) with _build/pull_canvas.py on 2026-11-20; the sparkled module, not its \"(Unsparkled)\" twin. Module numbers removed from student-facing titles; Canvas module-item links rewritten to link tokens; weeks taken from each lesson page URL. Lessons are iframe pages on https://optimaondemand.github.io/mjcivics-lessons/."
+ }
+}

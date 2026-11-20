@@ -1,0 +1,270 @@
+{
+ "id": "2106010-m8-sparkle",
+ "label": "A Republic Tested · Sparkle",
+ "code": "2106010",
+ "title": "08 MJ Civics 2106010",
+ "file": "cartridges/2106010-m8-sparkle.imscc",
+ "bytes": 81678,
+ "version": "2026.11.20",
+ "built": "2026-11-20T15:47:41",
+ "front_page": "wiki_content/course-home.html",
+ "items": 13,
+ "modules": [
+  {
+   "id": "m_8",
+   "title": "A Republic Tested",
+   "gid": "g55e3d9b1f8dd612d204101e0c15dbf0b",
+   "published": false,
+   "items": 13,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 6,
+  "assignments": 1,
+  "quizzes": 6,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 13
+ },
+ "weights": [
+  {
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "title": "Async Homework",
+   "weight": 60.0
+  },
+  {
+   "title": "Projects & Milestones",
+   "weight": 30.0
+  },
+  {
+   "title": "Sync Activities",
+   "weight": 10.0
+  }
+ ],
+ "groups": [
+  {
+   "id": "g55ba2ebe307080a24a2c6ec4e91e0790",
+   "title": "Assignments",
+   "weight": 0.0,
+   "position": 1
+  },
+  {
+   "id": "g3d0b5c9b8e9ef0398309c2ee2275f407",
+   "title": "Async Homework",
+   "weight": 60.0,
+   "position": 2
+  },
+  {
+   "id": "g32121e992833b8a6241fba40fe9fbc9e",
+   "title": "Projects & Milestones",
+   "weight": 30.0,
+   "position": 3
+  },
+  {
+   "id": "g1d98dc446e18e1bb2a2ee313a1592996",
+   "title": "Sync Activities",
+   "weight": 10.0,
+   "position": 4
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "a14216",
+   "type": "assignment",
+   "title": "Primary Source Report: Bush, Address to a Joint Session of Congress (2001)",
+   "gid": "ge199fecd6121ddb964cf4bdacd2488c6",
+   "xml": "ge199fecd6121ddb964cf4bdacd2488c6/assignment_settings.xml",
+   "module": "m_8",
+   "week": 27,
+   "kind": null,
+   "points": 20.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g32121e992833b8a6241fba40fe9fbc9e",
+   "published": false,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q5383",
+   "type": "quiz",
+   "title": "Intro: A Republic Tested",
+   "gid": "g0b326a4e7b020ba918758ad387bff7b4",
+   "xml": "g0b326a4e7b020ba918758ad387bff7b4/assessment_meta.xml",
+   "module": "m_8",
+   "week": 27,
+   "kind": null,
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": false,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q5384",
+   "type": "quiz",
+   "title": "Reading Quiz: From Weimar to the Holocaust",
+   "gid": "g07e2d411b233bd2c87af3e4059b0cb9d",
+   "xml": "g07e2d411b233bd2c87af3e4059b0cb9d/assessment_meta.xml",
+   "module": "m_8",
+   "week": 27,
+   "kind": null,
+   "points": 5.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g3d0b5c9b8e9ef0398309c2ee2275f407",
+   "published": false,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q5385",
+   "type": "quiz",
+   "title": "Critical Questions: The Nuremberg Laws",
+   "gid": "gfcf9717f85901566ebe873e7d8d86b79",
+   "xml": "gfcf9717f85901566ebe873e7d8d86b79/assessment_meta.xml",
+   "module": "m_8",
+   "week": 27,
+   "kind": null,
+   "points": 2.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g3d0b5c9b8e9ef0398309c2ee2275f407",
+   "published": false,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q5386",
+   "type": "quiz",
+   "title": "Critical Questions: Bush, Address to a Joint Session of Congress",
+   "gid": "g0b5a2eee61ae6c6eae654809c1661f97",
+   "xml": "g0b5a2eee61ae6c6eae654809c1661f97/assessment_meta.xml",
+   "module": "m_8",
+   "week": 27,
+   "kind": null,
+   "points": 2.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g3d0b5c9b8e9ef0398309c2ee2275f407",
+   "published": false,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q5428",
+   "type": "quiz",
+   "title": "Quarter 3 Exam: The Republic’s Upkeep",
+   "gid": "g01c8171ecf5b9ddf14ff0c09f6728e38",
+   "xml": "g01c8171ecf5b9ddf14ff0c09f6728e38/assessment_meta.xml",
+   "module": "m_8",
+   "week": 27,
+   "kind": null,
+   "points": 40.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g32121e992833b8a6241fba40fe9fbc9e",
+   "published": false,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q5387",
+   "type": "quiz",
+   "title": "Outro: A Republic Tested",
+   "gid": "gca684049238d2640b24542c4689504f8",
+   "xml": "gca684049238d2640b24542c4689504f8/assessment_meta.xml",
+   "module": "m_8",
+   "week": 27,
+   "kind": null,
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": false,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d1099",
+   "type": "discussion",
+   "title": "Discussion: Could Weimar Have Been Saved?",
+   "gid": "g20340995999b9590893218f70330e9b0",
+   "xml": "g87b2607a69439e93a704ebc6a41a18b9.xml",
+   "module": "m_8",
+   "week": 27,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g3d0b5c9b8e9ef0398309c2ee2275f407",
+   "published": false,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec 2106010-m8-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [],
+  "stats": {
+   "resources": 22,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 9,
+    "webcontent": 6,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 6,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 13,
+   "modules": 1,
+   "module_items": 13,
+   "module_item_types": {
+    "WikiPage": 5,
+    "Quizzes::Quiz": 6,
+    "Assignment": 1,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 6,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 4,
+   "group_refs": 10,
+   "quizzes": 6,
+   "assignments": 1,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 128.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "6585452e78b152540b5bde76b9c514d557624e0f7e685794b119f58a135d7f26",
+ "art_pack": null
+}
