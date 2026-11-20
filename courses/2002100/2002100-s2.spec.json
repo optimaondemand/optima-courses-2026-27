@@ -616,6 +616,18 @@
    "title": "VR Museum of Science: Quick Reference Guide",
    "published": true,
    "html": "<div style=\"margin: 24px 0; border: 2px solid #22304A; border-radius: 10px; overflow: hidden; background: #FAF6EE;\"><div style=\"background: #22304A; color: #FFFFFF; padding: 10px 18px; font-family: 'Segoe UI', Arial, sans-serif; font-size: 1.05em;\">VR Museum of Science: Quick Reference Guide</div><iframe src=\"https://optimaondemand.github.io/OAO-Science/sci8/q4w10/r1-museum-guide.html\" title=\"VR Museum of Science: Quick Reference Guide\" width=\"100%\" height=\"1800\" style=\"border: none; display: block;\" allow=\"autoplay\" allowfullscreen loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: 'Segoe UI', Arial, sans-serif; font-size: 0.8em; color: #5B667A; background: #EFEAE0;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/OAO-Science/sci8/q4w10/r1-museum-guide.html\" target=\"_blank\" rel=\"noopener\">open it in a new tab</a>.</div></div>"
+  },
+  {
+   "id": "p_q4w11_reading",
+   "title": "Final Transmission: Weekly Reading",
+   "published": true,
+   "html": "<div style=\"margin: 24px 0; border: 2px solid #22304A; border-radius: 10px; overflow: hidden; background: #FAF6EE;\"><div style=\"background: #22304A; color: #FFFFFF; padding: 10px 18px; font-family: 'Segoe UI', Arial, sans-serif; font-size: 1.05em;\">Final Transmission: Weekly Reading</div><iframe src=\"https://optimaondemand.github.io/OAO-Science/sci8/q4w11/l1-reading.html\" title=\"Final Transmission: Weekly Reading\" width=\"100%\" height=\"1800\" style=\"border: none; display: block;\" allow=\"autoplay\" allowfullscreen loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: 'Segoe UI', Arial, sans-serif; font-size: 0.8em; color: #5B667A; background: #EFEAE0;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/OAO-Science/sci8/q4w11/l1-reading.html\" target=\"_blank\" rel=\"noopener\">open it in a new tab</a>.</div></div>"
+  },
+  {
+   "id": "p_q4w11_guide",
+   "title": "Your Year in Science: Quick Reference Guide",
+   "published": true,
+   "html": "<div style=\"margin: 24px 0; border: 2px solid #22304A; border-radius: 10px; overflow: hidden; background: #FAF6EE;\"><div style=\"background: #22304A; color: #FFFFFF; padding: 10px 18px; font-family: 'Segoe UI', Arial, sans-serif; font-size: 1.05em;\">Your Year in Science: Quick Reference Guide</div><iframe src=\"https://optimaondemand.github.io/OAO-Science/sci8/q4w11/r1-year-guide.html\" title=\"Your Year in Science: Quick Reference Guide\" width=\"100%\" height=\"1800\" style=\"border: none; display: block;\" allow=\"autoplay\" allowfullscreen loading=\"lazy\"></iframe><div style=\"padding: 6px 18px; font-family: 'Segoe UI', Arial, sans-serif; font-size: 0.8em; color: #5B667A; background: #EFEAE0;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/OAO-Science/sci8/q4w11/r1-year-guide.html\" target=\"_blank\" rel=\"noopener\">open it in a new tab</a>.</div></div>"
   }
  ],
  "assignments": [
@@ -5629,7 +5641,23 @@
    "items": [
     {
      "type": "header",
+     "title": "Helpful Information"
+    },
+    {
+     "type": "page",
+     "ref": "p_q4w11_guide",
+     "completion": "must_mark_done",
+     "week": 20
+    },
+    {
+     "type": "header",
      "title": "Weekly Assignments"
+    },
+    {
+     "type": "page",
+     "ref": "p_q4w11_reading",
+     "completion": "must_mark_done",
+     "week": 20
     },
     {
      "type": "assignment",
