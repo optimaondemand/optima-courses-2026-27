@@ -1,0 +1,2261 @@
+{
+ "course": {
+  "title": "07 MJ US Hist 1492-Recon Spring 2100010",
+  "code": "2100010",
+  "default_view": "wiki",
+  "canvas_id": 289,
+  "canvas_code": "07 1492-Recon",
+  "weighted": true
+ },
+ "rubrics": [
+  {
+   "id": "r1212",
+   "title": "Primary Source Report Rubric (16 pts)",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "Shows accurate, specific knowledge of the source and the lessons.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Accurate and specific; uses details from the source and lessons well.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly accurate; some details used.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Partly accurate or general; few details.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Inaccurate or missing key ideas.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "Explains why, and supports claims with evidence.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, well supported argument; considers cause, consequence, or alternatives.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Reasonable argument with some support.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Claims stated with little support.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "No clear reasoning.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision of expression",
+     "long_description": "Writes clearly, in complete sentences, in the student&#39;s own words.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, precise, organized, in own words.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly clear; minor errors.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Often unclear or disorganized.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Hard to follow or copied.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "Names the limits of what the source or the student&#39;s own knowledge can show.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Names what the source cannot tell us or what remains uncertain.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Shows some awareness of limits.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Little awareness of limits.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Overstates certainty.",
+       "points": 1.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r1396",
+   "title": "Capstone Rubric (40 pts)",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "Facts, names, dates, and causes are accurate and drawn from the lessons and sources.",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Accurate and specific; the quarter's main ideas are clear.",
+       "points": 10.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly accurate; some details used.",
+       "points": 8.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Partly accurate or general; few details.",
+       "points": 6.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Inaccurate or missing key ideas.",
+       "points": 3.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "Explains why, supports claims with specific evidence, and considers what else could have happened.",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, well supported; cause and effect explained; the \"what if\" is realistic and shows what would have been hard.",
+       "points": 10.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Reasonable argument with some support.",
+       "points": 8.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Claims stated with little support.",
+       "points": 6.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "No clear reasoning.",
+       "points": 3.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision of expression",
+     "long_description": "Organized, in the student&#39;s own words, correct terms, tidy Word formatting.",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, precise, organized, in own words; headings and table work well.",
+       "points": 10.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly clear; minor errors.",
+       "points": 8.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Often unclear or disorganized.",
+       "points": 6.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Hard to follow.",
+       "points": 3.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "Names what the sources cannot show, what is uncertain, and where reasonable people disagree.",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Names specific limits of the sources or real disagreements.",
+       "points": 10.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Names a limit in a general way.",
+       "points": 8.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Gestures at uncertainty without saying what.",
+       "points": 6.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "No acknowledgment of limits.",
+       "points": 3.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_lesson-7-dot-1-johnson-brings-north-and-south-to-compromise",
+   "title": "Lesson 7.1: Johnson Brings North and South to Compromise",
+   "slug": "lesson-7-dot-1-johnson-brings-north-and-south-to-compromise",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-35/lesson-35-1.html\" width=\"100%\" height=\"3062\" style=\"border: 0;\" title=\"Lesson 7.1: Johnson Brings North and South to Compromise\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-dot-2-radical-republicans-remake-the-constitution",
+   "title": "Lesson 7.2: Radical Republicans Remake the Constitution",
+   "slug": "lesson-7-dot-2-radical-republicans-remake-the-constitution",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-35/lesson-35-2.html\" width=\"100%\" height=\"3031\" style=\"border: 0;\" title=\"Lesson 7.2: Radical Republicans Remake the Constitution\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-1-mississippi-black-code",
+   "title": "Primary Source 1: Mississippi Black Code",
+   "slug": "primary-source-1-mississippi-black-code",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-35/primary-source-1.html\" width=\"100%\" height=\"3000\" style=\"border: 0;\" title=\"Primary Source 1: Mississippi Black Code\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-2-the-fourteenth-amendment-section-1",
+   "title": "Primary Source 2: The Fourteenth Amendment, Section 1",
+   "slug": "primary-source-2-the-fourteenth-amendment-section-1",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-35/primary-source-2.html\" width=\"100%\" height=\"2943\" style=\"border: 0;\" title=\"Primary Source 2: The Fourteenth Amendment, Section 1\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-dot-3-freedpeople-build-new-lives-under-federal-protection",
+   "title": "Lesson 7.3: Freedpeople Build New Lives Under Federal Protection",
+   "slug": "lesson-7-dot-3-freedpeople-build-new-lives-under-federal-protection",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-36/lesson-36-1.html\" width=\"100%\" height=\"3031\" style=\"border: 0;\" title=\"Lesson 7.3: Freedpeople Build New Lives Under Federal Protection\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-7-dot-4-reconstruction-ends",
+   "title": "Lesson 7.4: Reconstruction Ends",
+   "slug": "lesson-7-dot-4-reconstruction-ends",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-36/lesson-36-2.html\" width=\"100%\" height=\"3079\" style=\"border: 0;\" title=\"Lesson 7.4: Reconstruction Ends\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-1-letter-to-his-old-master",
+   "title": "Primary Source 1: Letter to His Old Master",
+   "slug": "primary-source-1-letter-to-his-old-master",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-36/primary-source-1.html\" width=\"100%\" height=\"3000\" style=\"border: 0;\" title=\"Primary Source 1: Letter to His Old Master\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-2-testimony-before-congress-on-the-ku-klux-klan",
+   "title": "Primary Source 2: Testimony Before Congress on the Ku Klux Klan",
+   "slug": "primary-source-2-testimony-before-congress-on-the-ku-klux-klan",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-36/primary-source-2.html\" width=\"100%\" height=\"3004\" style=\"border: 0;\" title=\"Primary Source 2: Testimony Before Congress on the Ku Klux Klan\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a13434",
+   "title": "Critical Questions: The Mississippi Black Code (1865)",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#213D64; border-bottom:4px solid #CAA029; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 7 · CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: The Mississippi Black Code (1865)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#CAA029; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #AC6715;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E4D9BF; border-top:4px solid #AC6715; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#AC6715; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Read the primary source for this week: an excerpt from the Mississippi Black Code of 1865. Then answer both questions in your own words. Aim for four to six sentences each.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">The Black Code gave freedpeople some rights, such as marrying and suing in court, but limited others. What idea about the difference between being free and being equal under the law lies behind these rules?</li><li style=\"margin-bottom:8px;\">Why did laws like this, passed by Southern legislatures in 1865, matter for what Congress decided to do next?</li></ol><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 35
+  },
+  {
+   "id": "a13435",
+   "title": "Primary Source Report: The Fourteenth Amendment (1868)",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#213D64; border-bottom:4px solid #CAA029; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 7 · PRIMARY SOURCE REPORT</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Report: The Fourteenth Amendment (1868)</div><div style=\"font-size:15px; color:#F2C14E;\">16 points · Word document · one turn-in</div></div><div style=\"text-align:center; color:#CAA029; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #AC6715;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E4D9BF; border-top:4px solid #AC6715; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#AC6715; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Read the Fourteenth Amendment. Then write a response of <strong>250 to 400 words</strong> in a Word document that answers both questions below. Use your own words and refer to the source and to the lessons.</p><ol style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">The Fourteenth Amendment speaks of \"due process of law\" and \"equal protection of the laws\" without explaining them. Pick one of these ideas and explain in your own words what it means and what problem in 1866 it was meant to address.</li><li style=\"margin-bottom:8px;\">Before this amendment, the Bill of Rights limited what the national government could do, and the Fourteenth Amendment spoke of what states could do. Why does that change matter for ordinary Americans, then and now?</li></ol><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Your teacher will score your report with the rubric attached to this assignment: understanding of the material, quality of reasoning, clarity and precision of expression, and intellectual honesty. Intellectual honesty means telling what the source cannot show or what you are still unsure about. For example, think about what the words of an amendment can and cannot guarantee.</p><h3 style=\"font-size:19px; color:#213D64; margin:16px 0 8px; line-height:1.3;\">M365 Skill Step</h3><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Name your file <strong>LastName_FirstName_FourteenthReport_HIS7</strong>, save it in your Optima → History → HIS7_2026-27 folder in OneDrive, and upload it here with Submit Assignment, then File Upload.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\"><strong>M365 Skill You're Practicing: Setting Margins (Word).</strong> Open the Layout tab, choose Margins, and select Normal (1 inch on every side) before you save.</p></div><div style=\"background:#FFFFFF; border:1px solid #E4D9BF; border-top:4px solid #213D64; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#213D64; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E4D9BF; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Understanding of the material<br><span style=\"color:#5B5148;\">Shows accurate, specific knowledge of the source and the lessons.</span><br><span style=\"color:#AC6715;\">4.0 pts</span></th><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Accurate and specific; uses details from the source and lessons well.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly accurate; some details used.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Partly accurate or general; few details.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Inaccurate or missing key ideas.</span></td></tr><tr><th style=\"border:1px solid #E4D9BF; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Quality of reasoning<br><span style=\"color:#5B5148;\">Explains why, and supports claims with evidence.</span><br><span style=\"color:#AC6715;\">4.0 pts</span></th><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, well supported argument; considers cause, consequence, or alternatives.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Reasonable argument with some support.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Claims stated with little support.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">No clear reasoning.</span></td></tr><tr><th style=\"border:1px solid #E4D9BF; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Clarity and precision of expression<br><span style=\"color:#5B5148;\">Writes clearly, in complete sentences, in the student's own words.</span><br><span style=\"color:#AC6715;\">4.0 pts</span></th><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, precise, organized, in own words.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly clear; minor errors.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Often unclear or disorganized.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Hard to follow or copied.</span></td></tr><tr><th style=\"border:1px solid #E4D9BF; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Intellectual honesty<br><span style=\"color:#5B5148;\">Names the limits of what the source or the student's own knowledge can show.</span><br><span style=\"color:#AC6715;\">4.0 pts</span></th><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Names what the source cannot tell us or what remains uncertain.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Shows some awareness of limits.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Little awareness of limits.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Overstates certainty.</span></td></tr></tbody></table></div></div>",
+   "points": 16.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag771",
+   "rubric": "r1212",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "allowed_extensions": "docx",
+   "omit_from_final_grade": false,
+   "week": 35
+  },
+  {
+   "id": "a13438",
+   "title": "Critical Questions: Jourdon Anderson's Letter to His Former Master (1865)",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#213D64; border-bottom:4px solid #CAA029; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 7 · CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Jourdon Anderson's Letter to His Former Master (1865)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#CAA029; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #AC6715;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E4D9BF; border-top:4px solid #AC6715; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#AC6715; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Read the primary source for this week: Jourdon Anderson's letter to his former master. Then answer both questions in your own words. Aim for four to six sentences each.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Suppose Jourdon Anderson had decided to return to his former master's farm. How might his life and his family's life have been different, and what does the letter suggest he feared?</li><li style=\"margin-bottom:8px;\">Why is a letter written by a freedman himself valuable to historians who want to understand the first years of freedom? Name one thing it can show, and one thing a historian should be careful about when using it.</li></ol><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 36
+  },
+  {
+   "id": "a13439",
+   "title": "Primary Source Report: Testimony Before Congress on the Ku Klux Klan (1871)",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#213D64; border-bottom:4px solid #CAA029; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 7 · PRIMARY SOURCE REPORT</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Report: Testimony Before Congress on the Ku Klux Klan (1871)</div><div style=\"font-size:15px; color:#F2C14E;\">16 points · Word document · one turn-in</div></div><div style=\"text-align:center; color:#CAA029; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #AC6715;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E4D9BF; border-top:4px solid #AC6715; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#AC6715; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Read the excerpt of testimony given before Congress in the Ku Klux Klan hearings of 1871. Then write a response of <strong>250 to 400 words</strong> in a Word document that answers both questions below. Use your own words and refer to the source and to the lessons.</p><ol style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Why does it matter that Congress heard testimony from victims of Klan violence and kept a record of it?</li><li style=\"margin-bottom:8px;\">Suppose the Supreme Court had read the Fourteenth Amendment broadly in <em>Cruikshank</em> and allowed the federal government to prosecute private attackers. How might the end of Reconstruction have been different, and what would still have made enforcement hard?</li></ol><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Your teacher will score your report with the rubric attached to this assignment: understanding of the material, quality of reasoning, clarity and precision of expression, and intellectual honesty. Intellectual honesty means telling what the source cannot show or what you are still unsure about. For example, think about what a few witnesses can and cannot tell us about the whole South.</p><h3 style=\"font-size:19px; color:#213D64; margin:16px 0 8px; line-height:1.3;\">M365 Skill Step</h3><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Name your file <strong>LastName_FirstName_KlanHearingsReport_HIS7</strong>, save it in your Optima → History → HIS7_2026-27 folder in OneDrive, and upload it here with Submit Assignment, then File Upload.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\"><strong>M365 Skill You're Practicing: Applying Block Quote Formatting with Indents (Word).</strong> If you quote a longer passage from the testimony, set it off as a block quote: select the quotation, open the Layout tab, and set the left indent to 0.5 inches.</p></div><div style=\"background:#FFFFFF; border:1px solid #E4D9BF; border-top:4px solid #213D64; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#213D64; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E4D9BF; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Understanding of the material<br><span style=\"color:#5B5148;\">Shows accurate, specific knowledge of the source and the lessons.</span><br><span style=\"color:#AC6715;\">4.0 pts</span></th><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Accurate and specific; uses details from the source and lessons well.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly accurate; some details used.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Partly accurate or general; few details.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Inaccurate or missing key ideas.</span></td></tr><tr><th style=\"border:1px solid #E4D9BF; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Quality of reasoning<br><span style=\"color:#5B5148;\">Explains why, and supports claims with evidence.</span><br><span style=\"color:#AC6715;\">4.0 pts</span></th><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, well supported argument; considers cause, consequence, or alternatives.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Reasonable argument with some support.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Claims stated with little support.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">No clear reasoning.</span></td></tr><tr><th style=\"border:1px solid #E4D9BF; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Clarity and precision of expression<br><span style=\"color:#5B5148;\">Writes clearly, in complete sentences, in the student's own words.</span><br><span style=\"color:#AC6715;\">4.0 pts</span></th><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, precise, organized, in own words.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly clear; minor errors.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Often unclear or disorganized.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Hard to follow or copied.</span></td></tr><tr><th style=\"border:1px solid #E4D9BF; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Intellectual honesty<br><span style=\"color:#5B5148;\">Names the limits of what the source or the student's own knowledge can show.</span><br><span style=\"color:#AC6715;\">4.0 pts</span></th><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Names what the source cannot tell us or what remains uncertain.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Shows some awareness of limits.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Little awareness of limits.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Overstates certainty.</span></td></tr></tbody></table></div></div>",
+   "points": 16.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag771",
+   "rubric": "r1212",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "allowed_extensions": "docx",
+   "omit_from_final_grade": false,
+   "week": 36
+  },
+  {
+   "id": "a14375",
+   "title": "Quarter 4 Capstone: Point of No Return, A Case File on the Union Tested",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#213D64; border-bottom:4px solid #CAA029; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>QUARTER 4 · CAPSTONE</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Quarter 4 Capstone: Point of No Return, A Case File on the Union Tested</div><div style=\"font-size:15px; color:#F2C14E;\">40 points · Word document · one turn-in</div></div><div style=\"text-align:center; color:#CAA029; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #AC6715;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E4D9BF; border-top:4px solid #AC6715; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#AC6715; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><h3 style=\"font-size:19px; color:#213D64; margin:16px 0 8px; line-height:1.3;\">What you are doing</h3><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Historians argue about when the Union could no longer have been saved by compromise, and about what the war and Reconstruction actually settled. For this Capstone you will act as an investigator. You will pick three moments between 1850 and 1877, build a case file in Word, and then argue for which moment was the real point of no return.</p><h3 style=\"font-size:19px; color:#213D64; margin:16px 0 8px; line-height:1.3;\">Choose three moments (from different stages: at least one before the war, one during it, and one after it)</h3><ul style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Before: the Compromise of 1850 and Fugitive Slave Act, the Kansas-Nebraska Act, <em>Dred Scott</em> and the Lincoln-Douglas debates, John Brown's raid, the secession of the Lower South</li><li style=\"margin-bottom:8px;\">During: Fort Sumter, the Emancipation Proclamation, Vicksburg and Gettysburg, Sherman's march, Lee's surrender</li><li style=\"margin-bottom:8px;\">After: Johnson's plan, the Fourteenth Amendment, freedpeople's new lives, the end of Reconstruction in 1877</li></ul><h3 style=\"font-size:19px; color:#213D64; margin:16px 0 8px; line-height:1.3;\">What your case file must include (800 to 1,100 words, plus the table)</h3><ol style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\"><strong>Three Exhibits (about 150 words each).</strong> For each moment: what happened, who decided, and what the choice was. Give one quotation or detail from a lesson or source for each.</li><li style=\"margin-bottom:8px;\"><strong>A Timeline Table.</strong> At least six rows (Date, Event, What changed).</li><li style=\"margin-bottom:8px;\"><strong>Could It Have Gone Otherwise? (about 150 words, for one exhibit).</strong> What might have happened with a different choice, and what would have made it hard?</li><li style=\"margin-bottom:8px;\"><strong>Your Verdict (about 200 words).</strong> Which of your three moments was the real point of no return, the moment after which the outcome could not be changed? Defend your choice with at least two pieces of evidence. Then say what the strongest argument for a different moment would be.</li><li style=\"margin-bottom:8px;\"><strong>What the War Settled and What It Left Unresolved (about 100 words).</strong> Name one thing settled and one thing left open by 1877.</li><li style=\"margin-bottom:8px;\"><strong>What I Am Still Unsure About (2 to 3 sentences).</strong> Name something the evidence cannot settle.</li></ol><h3 style=\"font-size:19px; color:#213D64; margin:16px 0 8px; line-height:1.3;\">Working alone or in a group</h3><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Same rules as before: solo, or one shared file for a group of two or three who opted in. A group of two adds 300 words; a group of three adds 500. Every member's name goes at the top, and each member adds a 2 to 3 sentence note on their contribution. Same rubric, one submitter.</p><h3 style=\"font-size:19px; color:#213D64; margin:16px 0 8px; line-height:1.3;\">M365 Skill Step</h3><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Name your file <strong>LastName_FirstName_Q4Capstone_HIS7</strong> (group: add _Group). Save it in your Optima → History → HIS7_2026-27 folder in OneDrive and upload it here with Submit Assignment, then File Upload.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\"><strong>M365 Skill You're Practicing: Inserting Footnotes (Word).</strong> Add at least two footnotes (References tab, then Insert Footnote) to cite your quotations by lesson or source title.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Your teacher will score your Capstone with the rubric attached to this assignment: understanding of the material, quality of reasoning, clarity and precision of expression, and intellectual honesty.</p></div><div style=\"background:#FFFFFF; border:1px solid #E4D9BF; border-top:4px solid #213D64; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#213D64; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E4D9BF; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Understanding of the material<br><span style=\"color:#5B5148;\">Facts, names, dates, and causes are accurate and drawn from the lessons and sources.</span><br><span style=\"color:#AC6715;\">10.0 pts</span></th><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>10.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Accurate and specific; the quarter's main ideas are clear.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>8.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly accurate; some details used.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>6.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Partly accurate or general; few details.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Inaccurate or missing key ideas.</span></td></tr><tr><th style=\"border:1px solid #E4D9BF; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Quality of reasoning<br><span style=\"color:#5B5148;\">Explains why, supports claims with specific evidence, and considers what else could have happened.</span><br><span style=\"color:#AC6715;\">10.0 pts</span></th><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>10.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, well supported; cause and effect explained; the \"what if\" is realistic and shows what would have been hard.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>8.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Reasonable argument with some support.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>6.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Claims stated with little support.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">No clear reasoning.</span></td></tr><tr><th style=\"border:1px solid #E4D9BF; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Clarity and precision of expression<br><span style=\"color:#5B5148;\">Organized, in the student's own words, correct terms, tidy Word formatting.</span><br><span style=\"color:#AC6715;\">10.0 pts</span></th><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>10.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, precise, organized, in own words; headings and table work well.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>8.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly clear; minor errors.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>6.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Often unclear or disorganized.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Hard to follow.</span></td></tr><tr><th style=\"border:1px solid #E4D9BF; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Intellectual honesty<br><span style=\"color:#5B5148;\">Names what the sources cannot show, what is uncertain, and where reasonable people disagree.</span><br><span style=\"color:#AC6715;\">10.0 pts</span></th><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>10.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Names specific limits of the sources or real disagreements.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>8.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Names a limit in a general way.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>6.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Gestures at uncertainty without saying what.</span></td><td style=\"border:1px solid #E4D9BF; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">No acknowledgment of limits.</span></td></tr></tbody></table></div></div>",
+   "points": 40.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag771",
+   "rubric": "r1396",
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "docx",
+   "omit_from_final_grade": false,
+   "week": 36
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q4938",
+   "title": "Intro (Lessons 7.1 and 7.2): After a War, Who Decides How a Defeated Region Returns to the Nation?",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#213D64; border-bottom:4px solid #CAA029; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 7 · INTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 7 Intro: After a War, Who Decides How a Defeated Region Returns to the Nation?</div><div style=\"font-size:15px; color:#F2C14E;\">3 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#CAA029; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #AC6715;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E4D9BF; border-top:4px solid #213D64; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#213D64; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Before you start these lessons, answer three quick questions. There are no wrong answers. You will come back to the first question when you finish.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Start with <strong>Johnson Brings North and South to Compromise</strong>.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "After a war between two parts of one country, someone has to decide how the losing side returns and what rights people will have. Who should decide, and what might go wrong? Answer in two or three sentences. You will revisit this answer at the end of these lessons.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "I have read the goals for these lessons: to explain Johnson's plan and the Black Codes, and how Congress used the Fourteenth and Fifteenth Amendments to change the Constitution.",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I am ready to begin",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet, I have a question",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "This quarter has an optional group capstone. Would you like to work in a group?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "No, I will work on my own",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Undecided",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 3,
+   "week": 35
+  },
+  {
+   "id": "q4939",
+   "title": "Reading Quiz: Lessons 7.1 and 7.2",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#213D64; border-bottom:4px solid #CAA029; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 7 · READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Johnson Brings North and South to Compromise and Radical Republicans Remake the Constitution</div><div style=\"font-size:15px; color:#F2C14E;\">7 questions · 7 points · 2 attempts</div></div><div style=\"text-align:center; color:#CAA029; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #AC6715;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E4D9BF; border-top:4px solid #213D64; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#213D64; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">This quiz covers <em>Johnson Brings North and South to Compromise</em> and <em>Radical Republicans Remake the Constitution</em>. You may take it twice, and your higher score counts. Some questions ask you to put two or more facts together, so think before you answer.</p></div></div></div>",
+   "quiz_type": "assignment",
+   "points": 7.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag769",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Some Republicans thought Lincoln's ten percent plan was too easy on the South. Which fact explains their view?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It let a state form a new government after only ten percent of its 1860 voters took the oath, while the Wade-Davis Bill would have required a majority.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It required every Southern citizen to move North.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It would have kept slavery legal in the South.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It gave Congress no role in Reconstruction.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Johnson disliked rich planters, yet his plan changed the South very little. Which fact best explains why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He refused to pardon anyone.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He let Congress run Reconstruction.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He gave Black men the vote in every state.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Most ex-Confederates could be pardoned with an oath, he granted thousands of pardons to planters who asked, and he opposed Black voting.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why did many Northerners read the Black Codes as an attempt to bring back slavery under another name?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They tied workers to yearly labor contracts, fined people for vagrancy, and limited where they could rent land, which kept a steady supply of workers for white landowners.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They made all freedpeople leave the South.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They gave freedpeople the same rights as white citizens.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They ended the Freedmen's Bureau.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Congress refused to seat the Southerners elected in 1865, and this helped the Radical Republicans. Why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Southerners had all voted for the Fourteenth Amendment.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "No Southern state had held an election.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The new Southern states had elected former Confederate leaders, which made many Northerners ask whether Union soldiers had died for this.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Southerners wanted to give the vote to Black men.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Republicans wrote the protections of the Civil Rights Act into the Fourteenth Amendment. What was their reason?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Civil Rights Act had already been repealed.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "President Johnson had asked them to.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Civil Rights Act applied only to Florida.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A simple law could be undone by a later Congress or struck down by the courts.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How did the first sentence of the Fourteenth Amendment answer the Dred Scott decision?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It repeated that Black Americans could not be citizens.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It made all persons born or naturalized in the United States citizens, undoing the ruling that Black Americans could not be citizens.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It ended slavery in the territories.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It banned the Supreme Court from hearing citizenship cases.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which statement shows how Florida's 1868 constitution differed from its 1838 constitution?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Both let only free white men vote.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The 1868 constitution protected slavery.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The 1868 constitution let all adult male citizens vote regardless of race and created a system of public schools, while the 1838 constitution protected slavery and let only free white men vote.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The 1838 constitution created public schools.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 7,
+   "week": 35
+  },
+  {
+   "id": "q4940",
+   "title": "Outro (Lessons 7.1 and 7.2): Looking Back at Johnson, Congress, and the Amendments",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#213D64; border-bottom:4px solid #CAA029; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 7 · OUTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 7 Outro: Looking Back at Johnson, Congress, and the Amendments</div><div style=\"font-size:15px; color:#F2C14E;\">4 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#CAA029; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #AC6715;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E4D9BF; border-top:4px solid #213D64; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#213D64; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">You have finished these lessons and their work. Answer four short questions. Your answers help your teacher see where students feel strong and where more help is needed.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "At the start you answered this question: after a war between two parts of one country, who should decide how the losing side returns, and what might go wrong? Answer it again now in two or three sentences. If your answer changed, say what changed it.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How confident do you feel explaining the difference between Johnson's plan and the plan Congress put in place?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "1 - Not at all confident",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "2 - A little confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3 - Somewhat confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "4 - Mostly confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "5 - Very confident",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Which idea from these lessons is still unclear to you? It might be the Black Codes, the Freedmen's Bureau, the Civil Rights Act, due process, equal protection, or the military districts. Say what you do not yet understand.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Senator Trumbull wrote the Civil Rights Act, yet he voted to acquit President Johnson because he thought removing a president on weak grounds would set a dangerous example. Which of these virtues did that vote require: courage, courtesy, honesty, perseverance, self-government, service, or responsibility? Explain in two or three sentences, and tell about a time you needed that same virtue.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4,
+   "week": 35
+  },
+  {
+   "id": "q4941",
+   "title": "Intro (Lessons 7.3 and 7.4): What Does It Take for Written Rights to Become Real?",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#213D64; border-bottom:4px solid #CAA029; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 7 · INTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 7 Intro: What Does It Take for Written Rights to Become Real?</div><div style=\"font-size:15px; color:#F2C14E;\">3 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#CAA029; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #AC6715;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E4D9BF; border-top:4px solid #213D64; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#213D64; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Before you start these lessons, answer three quick questions. There are no wrong answers. You will come back to the first question when you finish.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Start with <strong>Freedpeople Build New Lives Under Federal Protection</strong>.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "A constitution can promise rights to everyone. What might have to happen for those promises to become real in people's daily lives? Answer in two or three sentences. You will revisit this answer at the end of these lessons.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "I have read the goals for these lessons: to explain what freedpeople built after slavery, why Reconstruction ended, and what the Civil War settled and left unresolved.",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I am ready to begin",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet, I have a question",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "This quarter has an optional group capstone. Would you like to work in a group?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "No, I will work on my own",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Undecided",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 3,
+   "week": 36
+  },
+  {
+   "id": "q4942",
+   "title": "Reading Quiz: Lessons 7.3 and 7.4",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#213D64; border-bottom:4px solid #CAA029; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 7 · READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Freedpeople Build New Lives Under Federal Protection and Reconstruction Ends</div><div style=\"font-size:15px; color:#F2C14E;\">7 questions · 7 points · 2 attempts</div></div><div style=\"text-align:center; color:#CAA029; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #AC6715;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E4D9BF; border-top:4px solid #213D64; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#213D64; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">This quiz covers <em>Freedpeople Build New Lives Under Federal Protection</em> and <em>Reconstruction Ends</em>. You may take it twice, and your higher score counts. Some questions ask you to put two or more facts together, so think before you answer.</p></div></div></div>",
+   "quiz_type": "assignment",
+   "points": 7.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag769",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Rumors spread of \"forty acres and a mule,\" yet most freedpeople received no land. Which explanation fits the lesson?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "President Johnson returned most of the land to its pardoned owners, and Congress refused Stevens's plan because many Republicans believed strongly in protecting property.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Freedpeople did not want any land.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Sherman never set aside any land.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Northern farmers bought all the land first.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Many sharecroppers ended each year owing more than they had earned. What best explains this?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They were paid in gold by their landlords.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They had to pay taxes to the Freedmen's Bureau.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They bought seed, tools, and food on credit with the crop held as payment, so a failed crop or low prices left them in debt.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They were not allowed to grow cotton.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Freedpeople built schools in churches and cabins and paid for their own teachers. What does this best show?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They had no interest in churches.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Freedmen's Bureau had refused to help them.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They preferred to leave the South.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They saw education as a high priority, a way to protect themselves, read the Bible, and sign contracts.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which statement about the Southern Republican governments of Reconstruction is best supported by the lesson?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They did not build any public works.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They built the first public school systems in many Southern states and repaired roads, though critics charged them with waste and corruption.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They kept taxes at zero.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They were made up only of Northerners.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In Cruikshank in 1876, the Supreme Court weakened federal protection of voting. What was the Court's reasoning?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It said the Fourteenth Amendment limited what states could do, so the federal government could not use it to punish private individuals for attacking citizens.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It said the Fourteenth Amendment had been repealed.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It said Black citizens could not vote.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It said the Ku Klux Klan was a legal organization.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which set of events best explains why Northern support for Reconstruction faded in the 1870s?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Civil War ended again.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Northerners voted to bring slavery back.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A depression after the Panic of 1873, scandals in Grant's administration, and a Democratic win in the House in 1874 turned attention elsewhere.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Congress passed more Enforcement Acts every year.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How did the disputed election of 1876 lead to the end of Reconstruction?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Tilden won and removed the troops himself.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hayes lost the election but stayed in office anyway.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court ended the election by ruling the vote invalid.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A commission gave the disputed votes to Hayes, and many historians believe Democrats accepted him in return for his withdrawing the last federal troops from the South.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 7,
+   "week": 36
+  },
+  {
+   "id": "q5201",
+   "title": "Quarter 4 Exam: Compromise Fails and the Union Is Tested",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#213D64; border-bottom:4px solid #CAA029; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>QUARTER 4 · EXAM</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Quarter 4 Exam: Compromise Fails and the Union Is Tested</div><div style=\"font-size:15px; color:#F2C14E;\">27 questions · 27 points · one attempt</div></div><div style=\"text-align:center; color:#CAA029; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #AC6715;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E4D9BF; border-top:4px solid #213D64; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#213D64; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">This exam covers only the Compromise of 1850 through the end of Reconstruction. It has 27 multiple-choice questions, one point each, and should take about 40 minutes. Read every question and all four answers before you choose. Many questions ask you to put two or more facts together, so think before you answer.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 27.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag771",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "The Wilmot Proviso, which banned slavery from land taken from Mexico, passed the House several times but always died in the Senate. Which fact best explains why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Senate had no members from the free states, so the bill had no support there.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Senate was evenly split between 15 free states and 15 slave states, so neither side could pass its way.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The President vetoed it each time it passed the House, and the veto was never overridden.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Its text would have banned slavery in the Southern states, which the Senate rejected.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Douglas split Clay's failed bill into five separate bills and passed all five by September 1850. Why did that work?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Each separate bill needed only a handful of votes to pass the Senate.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "President Fillmore ordered the Senate to pass each of the five bills.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Separate bills did not need to be passed by the House of Representatives.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Members who opposed the whole package could still vote for the parts they liked.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Southerners had once argued that a state could refuse to obey a federal law it thought unconstitutional. Why did Northern \"personal liberty laws\" against the Fugitive Slave Act make the South distrust any compromise?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The North was now picking which federal laws to obey, so Southerners doubted it would honor any deal.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Southerners feared the North would stop buying Southern cotton and ruin its planters.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Southerners feared Northern states would send armed soldiers across the border into the South.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Southerners feared the Supreme Court would soon side with the North on every question.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Southern senators would not vote to organize Kansas and Nebraska unless a change was made. What was the change, and what did it help bring about?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The ban on slavery was extended to Kansas, and the Whig Party grew stronger.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress ended the Fugitive Slave Act, and the Free Soil Party disappeared.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The ban on slavery north of 36°30′ was repealed, and angry Northerners formed the Republican Party.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The railroad plan was cancelled, and the Democrats split in two.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Taney's opinion in Dred Scott said Congress had no power to ban slavery in the territories. Why did Republicans say the decision made their whole program illegal?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Their main goal was to end slavery in every state at once.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Their main goal was to make Dred Scott a citizen.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Their main goal was to keep slavery out of the territories.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Their main goal was to give the Supreme Court more power.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Douglas's Freeport answer helped him win in Illinois. Why did it hurt him with Southern Democrats?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It seemed to say that settlers could ignore the Court's ruling by refusing to pass laws that protect slavery.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Their main goal was to end slavery in every state of the Union at once.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Their main goal was to win Dred Scott his citizenship through a new court case.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Their main goal was to give the Supreme Court more power over the territories.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Frederick Douglass told John Brown that Harpers Ferry was a trap. Which result of the raid showed Douglass was right?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Lee's Marines drove Brown's men out, and the slaves rose in the mountains.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Brown escaped to Canada with the stolen weapons.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Virginia freed Brown after Northern leaders protested.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Brown's men were trapped in the fire engine house and captured, and the slaves did not rise.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Lincoln won the election of 1860 with only about 40 percent of the popular vote. How did he still win the presidency?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Southern states allowed his name on their ballots and counted every vote he received.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He carried every Northern state, and the Democrats had split their vote between two candidates.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The House of Representatives chose him after the electoral vote ended in a tie.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Constitutional Union Party withdrew from the race and urged its voters to back him.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Florida troops seized the arsenal at Chattahoochee and the forts at St. Augustine, but Union soldiers kept Fort Pickens, Key West, and the Dry Tortugas. Why did those forts matter later in the war?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They gave the Union Navy bases on Florida's coast for the blockade.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They protected the railroad that carried Florida's cattle to Virginia.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They were the only place where Black soldiers could enlist.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They blocked the Union from ever reaching Georgia.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Lincoln sent ships carrying only food to Fort Sumter and told South Carolina's governor they were coming. What was his thinking?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It would force the soldiers inside the fort to surrender as soon as they had eaten.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It would show the Confederacy that the Union Navy was too weak to fight a war.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It would trick the Confederates into leaving Charleston Harbor without a fight.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It left Davis to decide whether to fire first, so the Confederacy would be the one to start a war.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Virginia, North Carolina, Tennessee, and Arkansas refused to leave the Union until April 1861. What changed their minds?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Lincoln announced that slavery would end in every state, including their own.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Lincoln asked them to send troops against their neighbors in the Confederacy.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Davis offered them important places in the new Confederate government.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court ruled that a state had the legal right to secede.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why did the smaller Confederate army keep beating the larger Union army in Virginia in 1862?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Lee had many more soldiers and far more weapons than McClellan did.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "McClellan refused to follow Lincoln's orders and retreated without being attacked.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Lee took bold risks and trusted his officers, while McClellan feared losing his army more than winning.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Jackson's army was larger than all of the Union forces in the East put together.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "When critics wanted Grant removed after Shiloh, Lincoln said, \"I can't spare this man. He fights.\" Which problem in the East did this remark answer?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Lee's refusal to cross the Potomac into the state of Maryland.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Pope's decision to retreat from the supply base at Manassas.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Jackson's long march through the Shenandoah Valley in the spring.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "McClellan's habit of not attacking even when his army was larger.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Secretary of State Seward told Lincoln to wait for a Union victory before announcing the Emancipation Proclamation. Why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Because the Constitution required a victory first.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "If it came during a defeat, it would look like a cry for help.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Because Congress had not yet passed the Confiscation Acts.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Because the border states would not hear it before then.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The Emancipation Proclamation freed slaves only in states still in rebellion. Which reason did Lincoln give that explains this limit?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Lincoln believed Congress would end slavery in the border states during the following year.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Lincoln thought the Constitution allowed him to free slaves only inside the Deep South.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It was a war measure against property that helped the enemy, so it did not reach loyal border states.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Lincoln wanted slavery to continue in the border states for as long as the war lasted.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "On July 3-4, 1863, Pickett's Charge failed and Vicksburg surrendered. What did these two events do together?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They ended Lee's hope of winning by invading the North and cut the Confederacy in two along the Mississippi.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They ended the war within weeks, because Lee and Davis agreed to make peace.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They gave the Confederacy control of the whole length of the Mississippi River.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They persuaded Britain and France to recognize the Confederacy as a nation.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In 1863 a poor laborer and a rich merchant in New York both received draft notices. Which man was more likely to avoid service, and why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The laborer, because the draft excused men who owned no property.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The merchant, because he could pay $300 or hire a substitute.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The merchant, because the draft excused men over thirty.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Neither, because the Union draft allowed no exceptions.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Black regiments, including the 54th Massachusetts, fought at Olustee in 1864. Which earlier change made it possible for Black men to serve in the Union army?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Homestead Act, which gave land to soldiers.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Thirteenth Amendment, which ended slavery.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Union draft, which required Black men to serve.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Emancipation Proclamation, after which Black men could join.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In six weeks of fighting, Grant lost about 55,000 men and Lee about 33,000, yet Grant kept attacking. Why was this a sound plan?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Union could replace its soldiers and the Confederacy could not.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Grant believed Lee would surrender after the first heavy losses.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Grant's army was smaller and had to attack before Lee grew stronger.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Lincoln had ordered him not to stop fighting for any reason.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Lincoln believed in the summer of 1864 that he would probably lose the election. Why did the fall of Atlanta help him win?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It forced McClellan to withdraw from the race for President that November.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It ended the war, so voters felt they no longer needed a change in leaders.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It showed voters that the war was being won, which ended the weariness that had made them doubt it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It convinced a large number of Southern voters to support Lincoln in the election.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Some of Lee's officers urged him to scatter his army and fight on as guerrillas. Why did it matter that Lee refused?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Lee's army was too large to hide in the mountains.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Grant had promised to hang every officer who kept fighting.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A guerrilla war might have dragged on for years and left much deeper hatred.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Guerrilla fighters were not allowed to sign a parole.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Mississippi's Black Code let freedpeople marry, own some property, and sue in court, but required yearly labor contracts and fined people without work. What aim did the codes share?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "To give freedpeople the same rights as white citizens.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To pay for new schools in the South.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To help the Freedmen's Bureau find work for former soldiers.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To keep a steady supply of workers for white landowners.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The Fourteenth Amendment says each state's seats in Congress depend on its whole population, and a state that kept men from voting would lose seats. Why would this give Southern states a reason to let Black men vote?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Black voters would pay higher taxes to the state.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Keeping Black men from voting would lower the state's number of seats in Congress.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The amendment ordered every state to hold a new election.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Southern states would lose their seats if they refused to ratify it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which choice correctly compares Florida's constitutions of 1838 and 1868?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The 1838 constitution protected slavery and let only free white men vote, but the 1868 one let all adult male citizens vote and made everyone equal before the law.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The 1838 constitution let all adult male citizens vote regardless of race, but the 1868 one let only free white men vote.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Both constitutions protected slavery, but the 1868 one also set up a system of public schools for the state.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Both constitutions let every man vote, but the 1868 one gave the governor strong powers over county officials.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Many sharecroppers bought seed, tools, and food on credit before the crop came in. Why did so many end the year owing more than they earned?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Landowners charged them more in rent each year than the whole crop was worth.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "If the crop failed or prices fell, they could not pay the store debt, and it carried over to the next year.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They were paid in paper money that lost its value before they could spend it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Freedmen's Bureau charged them a fee for every labor contract they signed.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Grant's Enforcement Acts and troops broke up the Klan for a time, yet federal protection of Black voters soon faded. Which pair of events best explains the change?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Supreme Court narrowed federal power in Cruikshank, and Northerners tired of the struggle after the Panic of 1873.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Congress repealed the Fourteenth Amendment, and Grant resigned from the presidency in disgrace.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court banned the Klan, and Southern voters elected Black governors in every state.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Freedmen's Bureau closed its offices, and Congress then passed the Fifteenth Amendment.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which statement best describes what the Civil War settled and what it left unsettled?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It settled that the Court alone decides the meaning of the Constitution, but left slavery in the border states.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It settled that Congress could not override a veto, but left the question of the Union open.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It settled that the amendments would be strictly enforced, but left the states free to leave.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It settled that no state could leave the Union, but how far the new amendments would be enforced stayed open.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 27,
+   "week": 36
+  },
+  {
+   "id": "q4943",
+   "title": "Outro (Lessons 7.3 and 7.4): Looking Back at Freedom's Gains and Reconstruction's End",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#213D64; border-bottom:4px solid #CAA029; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 7 · OUTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 7 Outro: Looking Back at Freedom's Gains and Reconstruction's End</div><div style=\"font-size:15px; color:#F2C14E;\">4 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#CAA029; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #AC6715;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E4D9BF; border-top:4px solid #213D64; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#213D64; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">You have finished these lessons and their work. Answer four short questions. Your answers help your teacher see where students feel strong and where more help is needed.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "At the start you answered this question: what might have to happen for the promises of a constitution to become real in people's daily lives? Answer it again now in two or three sentences. If your answer changed, say what changed it.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How confident do you feel explaining why Reconstruction ended?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "1 - Not at all confident",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "2 - A little confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3 - Somewhat confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "4 - Mostly confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "5 - Very confident",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Which idea from these lessons, or from the whole semester, is still unclear to you? It might be sharecropping, the Enforcement Acts, the Redeemers, the Compromise of 1877, or how the compromises of the 1800s led to the Civil War. Say what you do not yet understand.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Many Black Southerners kept voting and serving in office during Reconstruction even though the Klan threatened them. Which of these virtues did that require: courage, courtesy, honesty, perseverance, self-government, service, or responsibility? Explain in two or three sentences, and tell about a time you needed that same virtue.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4,
+   "week": 36
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d968",
+   "title": "Discussion: Was the Fourteenth Amendment a Revolution?",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#213D64; border-bottom:4px solid #CAA029; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 7 · DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Was the Fourteenth Amendment a Revolution?</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written post and one reply · threaded discussion</div></div><div style=\"text-align:center; color:#CAA029; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #AC6715;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E4D9BF; border-top:4px solid #CAA029; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#CAA029; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The prompt</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">The Fourteenth Amendment changed who counted as a citizen and what states could do. Some say it was a revolution. Others say its promise depended on enforcement that soon faded. Make one specific claim: was the Fourteenth Amendment a revolution, a promise that was only partly kept, or something else? Use at least one fact from this week's lessons or sources to back your claim, and explain why that fact supports it. Write about 100 to 150 words.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Then do two things:</p><ol style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\"><strong>Reply to one classmate</strong> (about 50 to 100 words). If you agree, strengthen their reasoning with a new fact. If you disagree, respectfully explain where their reasoning falls short.</li><li style=\"margin-bottom:8px;\"><strong>Connect to today.</strong> Find a current news story that mentions the Fourteenth Amendment. In one or two sentences, say what right is being argued about and how it is like or unlike the problems of 1866.</li></ol></div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag770",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null,
+   "week": 35
+  },
+  {
+   "id": "d969",
+   "title": "Discussion: What Did the Civil War Settle, and What Did It Leave Unresolved?",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#213D64; border-bottom:4px solid #CAA029; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 7 · DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: What Did the Civil War Settle, and What Did It Leave Unresolved?</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written post and one reply · threaded discussion</div></div><div style=\"text-align:center; color:#CAA029; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #AC6715;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E4D9BF; border-top:4px solid #CAA029; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#CAA029; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The prompt</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">This is the question that ties the whole course together. Look back at the compromises and crises you have studied, from Washington's warning about party spirit to the end of Reconstruction. The war settled that no state could leave the Union, and it ended slavery. It left other questions open. Make one specific claim about the most important thing the war settled, or the most important question it left unresolved. Use at least one fact from these lessons or from earlier in the course to back your claim, and explain why that fact supports it. Write about 100 to 150 words.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate (about 50 to 100 words). If you agree, strengthen their reasoning with a new fact. If you disagree, respectfully explain where their reasoning falls short.</p></div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag770",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null,
+   "week": 36
+  }
+ ],
+ "files": [],
+ "assignment_groups": [
+  {
+   "id": "ag769",
+   "title": "Tier 1: Student & Material",
+   "weight": 55.0,
+   "canvas_id": 769
+  },
+  {
+   "id": "ag770",
+   "title": "Tier 2: Student & Community",
+   "weight": 30.0,
+   "canvas_id": 770
+  },
+  {
+   "id": "ag771",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 15.0,
+   "canvas_id": 771
+  }
+ ],
+ "modules": [
+  {
+   "id": "m_sp_7",
+   "title": "Reconstruction",
+   "published": true,
+   "items": [
+    {
+     "title": "Intro (Lessons 7.1 and 7.2): After a War, Who Decides How a Defeated Region Returns to the Nation?",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4938",
+     "published": true,
+     "week": 35
+    },
+    {
+     "title": "Lesson 7.1: Johnson Brings North and South to Compromise",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-7-dot-1-johnson-brings-north-and-south-to-compromise",
+     "published": true,
+     "week": 35,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Lesson 7.2: Radical Republicans Remake the Constitution",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-7-dot-2-radical-republicans-remake-the-constitution",
+     "published": true,
+     "week": 35,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 1: Mississippi Black Code",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-1-mississippi-black-code",
+     "published": true,
+     "week": 35,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: The Mississippi Black Code (1865)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13434",
+     "published": true,
+     "week": 35
+    },
+    {
+     "title": "Primary Source 2: The Fourteenth Amendment, Section 1",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-2-the-fourteenth-amendment-section-1",
+     "published": true,
+     "week": 35,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Report: The Fourteenth Amendment (1868)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13435",
+     "published": true,
+     "week": 35
+    },
+    {
+     "title": "Discussion: Was the Fourteenth Amendment a Revolution?",
+     "indent": 0,
+     "type": "discussion",
+     "ref": "d968",
+     "published": true,
+     "week": 35
+    },
+    {
+     "title": "Reading Quiz: Lessons 7.1 and 7.2",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4939",
+     "published": true,
+     "week": 35
+    },
+    {
+     "title": "Outro (Lessons 7.1 and 7.2): Looking Back at Johnson, Congress, and the Amendments",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4940",
+     "published": true,
+     "week": 35
+    },
+    {
+     "title": "Intro (Lessons 7.3 and 7.4): What Does It Take for Written Rights to Become Real?",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4941",
+     "published": true,
+     "week": 36
+    },
+    {
+     "title": "Lesson 7.3: Freedpeople Build New Lives Under Federal Protection",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-7-dot-3-freedpeople-build-new-lives-under-federal-protection",
+     "published": true,
+     "week": 36,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Lesson 7.4: Reconstruction Ends",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-7-dot-4-reconstruction-ends",
+     "published": true,
+     "week": 36,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 1: Letter to His Old Master",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-1-letter-to-his-old-master",
+     "published": true,
+     "week": 36,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Jourdon Anderson's Letter to His Former Master (1865)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13438",
+     "published": true,
+     "week": 36
+    },
+    {
+     "title": "Primary Source 2: Testimony Before Congress on the Ku Klux Klan",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-2-testimony-before-congress-on-the-ku-klux-klan",
+     "published": true,
+     "week": 36,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Report: Testimony Before Congress on the Ku Klux Klan (1871)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13439",
+     "published": true,
+     "week": 36
+    },
+    {
+     "title": "Discussion: What Did the Civil War Settle, and What Did It Leave Unresolved?",
+     "indent": 0,
+     "type": "discussion",
+     "ref": "d969",
+     "published": true,
+     "week": 36
+    },
+    {
+     "title": "Reading Quiz: Lessons 7.3 and 7.4",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4942",
+     "published": true,
+     "week": 36
+    },
+    {
+     "title": "Quarter 4 Exam: Compromise Fails and the Union Is Tested",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q5201",
+     "published": true,
+     "week": 36
+    },
+    {
+     "title": "Quarter 4 Capstone: Point of No Return, A Case File on the Union Tested",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a14375",
+     "published": true,
+     "week": 36
+    },
+    {
+     "title": "Outro (Lessons 7.3 and 7.4): Looking Back at Freedom's Gains and Reconstruction's End",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4943",
+     "published": true,
+     "week": 36
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of M/J U.S. History 1492-Reconstruction, Spring. Read from Canvas course 289 (naming authority: titles, order, points, groups, quiz questions) with _build/pull_canvas.py on 2026-11-21; the sparkled module, not its \"(Unsparkled)\" twin. Item ids are the same as in 2100010-s2 (Civics precedent); weeks, published state and Mark as done taken from the s2 kit. Module number removed from student-facing module and intro/outro titles. Lessons are iframe pages on https://optimaondemand.github.io/mjushistory-lessons-spring/."
+ }
+}
