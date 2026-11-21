@@ -1,0 +1,382 @@
+{
+ "course": {
+  "title": "10 HS US Hist Recon-Pres 2100310 Q3-Q4",
+  "code": "2100310",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_tier1",
+   "title": "Tier 1: Student & Material",
+   "weight": 30.0
+  },
+  {
+   "id": "ag_tier2",
+   "title": "Tier 2: Student & Community",
+   "weight": 25.0
+  },
+  {
+   "id": "ag_tier3",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 45.0
+  },
+  {
+   "id": "ag_tier4",
+   "title": "Tier 4: Ungraded Scaffolding",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_m12_discussion",
+   "title": "Rubric: Discussion: Nonviolence: Principle or Strategy?",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Post and reply",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Clear position, specific evidence from the week, names a counterpoint, and the reply engages a classmate's actual reasoning",
+       "points": 10.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Position stated but evidence vague, no counterpoint, or the reply only says \"I agree\"",
+       "points": 6.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no reply",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_12-dot-2-the-courts-and-the-boycott",
+   "title": "The Courts and the Boycott",
+   "slug": "12-dot-2-the-courts-and-the-boycott",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">12.2 The Courts and the Boycott</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-30/lesson-1.html\" width=\"100%\" height=\"2809\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_12-dot-3-primary-source-brown-v-board-of-education",
+   "title": "Primary Source: Brown v. Board of Education",
+   "slug": "12-dot-3-primary-source-brown-v-board-of-education",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">12.3 Primary Source: Brown v. Board of Education</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-30/primary-source-1.html\" width=\"100%\" height=\"2654\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_12-dot-4-direct-action-and-the-federal-response",
+   "title": "Direct Action and the Federal Response",
+   "slug": "12-dot-4-direct-action-and-the-federal-response",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">12.4 Direct Action and the Federal Response</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-30/lesson-2.html\" width=\"100%\" height=\"2836\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_12-dot-5-primary-source-martin-luther-king-jr-dot-letter-from-birmingham-jail",
+   "title": "Primary Source: Martin Luther King Jr., Letter from Birmingham Jail",
+   "slug": "12-dot-5-primary-source-martin-luther-king-jr-dot-letter-from-birmingham-jail",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">12.5 Primary Source: Martin Luther King Jr., Letter from Birmingham Jail</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-30/primary-source-2.html\" width=\"100%\" height=\"2690\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_m12_intro",
+   "title": "Module Intro: Before You Begin",
+   "description": "<p>Welcome to this module. This short survey is not graded for correctness. Your answers help your teacher see where the class is starting.</p>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Why might ordinary citizens succeed through protest when courts and laws alone have failed to change how people live? Give your best answer now. You will come back to this question at the end of the module.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>This module has these goals. Read them, then choose one answer.</p>\n<ul>\n<li>Explain how the NAACP's legal strategy led to Brown v. Board of Education.</li>\n<li>Describe why Brown did not end segregation right away.</li>\n<li>Describe the Montgomery bus boycott and the crisis at Little Rock.</li>\n<li>Explain what direct action is, and describe the sit-ins and the Freedom Rides.</li>\n<li>Describe the Birmingham campaign, the March on Washington, the Civil Rights Act of 1964, and the Voting Rights Act of 1965.</li>\n<li>Weigh whether nonviolence was a principle or a strategy.</li>\n</ul>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I have read the goals and I understand what this module asks of me.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I have read the goals, but I have a question about one of them.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Some assignments in this course allow you to work with classmates. How do you plan to work this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I would like to work with a group when that is an option.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I would rather work on my own.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "I am not sure yet.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-intro-survey",
+   "week": 12
+  },
+  {
+   "id": "q_m12_outro",
+   "title": "Module Outro: Looking Back",
+   "description": "<p>You have finished this module. Please answer honestly. Your answers help your teacher see how the class is doing.</p>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Look back at the question from the start of the module. Why might ordinary citizens succeed through protest when courts and laws alone have failed to change how people live? Give your answer now, using at least one fact from this module. You may say if your thinking has changed.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident do you feel about the material in this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Very confident. I could explain it to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Fairly confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Somewhat unsure. I understand parts of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Not confident. I need help.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear to you? Name a person, event, or idea. If nothing is unclear, write \"nothing.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these did the people in this module most need, whether they had it or not?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Pick one person from this module (Martin Luther King Jr., Thurgood Marshall, Rosa Parks, Eisenhower, Johnson, or someone else) and explain, in two or three sentences, how that virtue showed up in what they did, or how its absence did.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-outro-survey",
+   "week": 12
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_m12",
+   "title": "Discussion: Nonviolence: Principle or Strategy?",
+   "html": "<p>Many leaders of the civil rights movement chose nonviolence. For Martin Luther King Jr., it was a matter of faith and conscience. Others saw it as a tool that worked because of what the country saw on television. Was nonviolence a principle, a strategy, or both? Your job is to decide which view fits the evidence better.</p>\n<p><strong>Your post (about 100 to 150 words):</strong></p>\n<ol>\n<li>Take a clear position: principle, strategy, or a mix that leans one way.</li>\n<li>Give one specific piece of evidence from the lesson \"The Courts and the Boycott\" or the source Brown v. Board of Education that supports you.</li>\n<li>Name one fact that cuts against your position, and explain why you still hold it.</li>\n</ol>\n<p><strong>Your reply (about 50 to 75 words):</strong> Respond to one classmate. Do you agree with their reasoning? If so, strengthen it with something they did not use. If not, say respectfully where their reasoning falls short.</p>\n<p>Post first, then reply. You will not see your classmates' posts until you have posted.</p>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_tier2",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": "r_m12_discussion",
+   "kind": "module-discussion",
+   "week": 12
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_12",
+   "title": "The Civil Rights Movement",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "title": "Module Intro: Before You Begin",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m12_intro"
+    },
+    {
+     "title": "The Courts and the Boycott",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_12-dot-2-the-courts-and-the-boycott",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Brown v. Board of Education",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_12-dot-3-primary-source-brown-v-board-of-education",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Direct Action and the Federal Response",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_12-dot-4-direct-action-and-the-federal-response",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Martin Luther King Jr., Letter from Birmingham Jail",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_12-dot-5-primary-source-martin-luther-king-jr-dot-letter-from-birmingham-jail",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Discussion: Nonviolence: Principle or Strategy?",
+     "indent": 0,
+     "published": true,
+     "type": "discussion",
+     "ref": "d_m12"
+    },
+    {
+     "title": "Module Outro: Looking Back",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m12_outro"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Plain edition of one module of HS U.S. History: Reconstruction to Present, Spring Semester. Read from Canvas course 291 with _build/pull_canvas.py on 2026-11-21; the \"(Unsparkled)\" twin module. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/. Build folder: Course Workshops/10USHistoryRec-Present-Spring/03_Build."
+ }
+}

@@ -1,0 +1,552 @@
+{
+ "course": {
+  "title": "10 HS US Hist Recon-Pres 2100310 Q3-Q4",
+  "code": "2100310",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_tier1",
+   "title": "Tier 1: Student & Material",
+   "weight": 30.0
+  },
+  {
+   "id": "ag_tier2",
+   "title": "Tier 2: Student & Community",
+   "weight": 25.0
+  },
+  {
+   "id": "ag_tier3",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 45.0
+  },
+  {
+   "id": "ag_tier4",
+   "title": "Tier 4: Ungraded Scaffolding",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_m5_psr",
+   "title": "Rubric: Primary Source Report: Roosevelt's Inaugural Address or First Fireside Chat",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "Source and lesson used accurately; steps 1 to 4 all present",
+       "points": 5.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Mostly accurate; one step thin",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Source misread or lesson not used",
+       "points": 1.0
+      },
+      {
+       "description": "No evidence",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "Tests the claim against evidence and weighs both",
+       "points": 5.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Reports the claim, tests it lightly",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Summarizes only",
+       "points": 1.0
+      },
+      {
+       "description": "No evidence",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "Organized in paragraphs, precise, within length",
+       "points": 5.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Understandable, some wandering",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Hard to follow or far off length",
+       "points": 1.0
+      },
+      {
+       "description": "No evidence",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "The limit in step 5 is real and specific",
+       "points": 5.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Limit is generic",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "No limit named",
+       "points": 1.0
+      },
+      {
+       "description": "No evidence",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m5_discussion",
+   "title": "Rubric: Discussion: The New Deal: Emergency Measure or New Constitutional Order?",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Post and reply",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Clear position, specific evidence from the week, names a counterpoint, and the reply engages a classmate's actual reasoning",
+       "points": 10.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Position stated but evidence vague, no counterpoint, or the reply only says \"I agree\"",
+       "points": 6.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no reply",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_module-5-map",
+   "title": "Module Map",
+   "slug": "module-5-map",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Module 5 Map</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-23/module-map.html\" width=\"100%\" height=\"1424\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_5-dot-2-the-hundred-days",
+   "title": "The Hundred Days",
+   "slug": "5-dot-2-the-hundred-days",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">5.2 The Hundred Days</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-23/lesson-1.html\" width=\"100%\" height=\"2817\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_5-dot-3-primary-source-franklin-d-roosevelt-first-inaugural-address",
+   "title": "Primary Source: Franklin D. Roosevelt, First Inaugural Address",
+   "slug": "5-dot-3-primary-source-franklin-d-roosevelt-first-inaugural-address",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">5.3 Primary Source: Franklin D. Roosevelt, First Inaugural Address</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-23/primary-source-1.html\" width=\"100%\" height=\"2699\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_5-dot-4-experiment-critics-and-the-states",
+   "title": "Experiment, Critics, and the States",
+   "slug": "5-dot-4-experiment-critics-and-the-states",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">5.4 Experiment, Critics, and the States</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-23/lesson-2.html\" width=\"100%\" height=\"2817\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_5-dot-5-primary-source-franklin-d-roosevelt-first-fireside-chat",
+   "title": "Primary Source: Franklin D. Roosevelt, First Fireside Chat",
+   "slug": "5-dot-5-primary-source-franklin-d-roosevelt-first-fireside-chat",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">5.5 Primary Source: Franklin D. Roosevelt, First Fireside Chat</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-23/primary-source-2.html\" width=\"100%\" height=\"2699\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_5-dot-8-week-23-wrap-up",
+   "title": "Wrap-Up",
+   "slug": "5-dot-8-week-23-wrap-up",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">5.8 Week 23 Wrap-Up</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-23/week-wrap-up.html\" width=\"100%\" height=\"1422\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a_m5_psr",
+   "title": "Primary Source Report: Roosevelt's Inaugural Address or First Fireside Chat",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#1C2B3A; border-bottom:4px solid #1F5FA0; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#F2C14E; margin-bottom:6px;\"><strong>MODULE PROJECT</strong></div><div style=\"font-family:'Oswald','Arial Narrow',Impact,sans-serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Report: Roosevelt's Inaugural Address or First Fireside Chat</div><div style=\"font-size:15px; color:#E1ECF7;\">20 points · Word document · one turn-in</div></div><div style=\"border-top:3px double #1F5FA0; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #1C2B3A; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#1C2B3A; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Your task</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">This week you read two sources by Franklin D. Roosevelt: his First Inaugural Address and his first fireside chat. Choose <strong>one</strong> of them and write a report of about 400 to 500 words that evaluates it as a historian would.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #1F5FA0; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#1F5FA0; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Your Five Steps</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Your report should do five things, in this order:</p><div style=\"margin:0 0 12px; overflow:hidden;\"><div style=\"float:left; width:28px; height:28px; line-height:28px; text-align:center; border-radius:50%; background:#1C2B3A; color:#FFFFFF; font-size:15px; margin-right:12px;\">1</div><div style=\"margin-left:42px; font-size:17px; color:#1C1B1A; line-height:1.6;\"><strong>Place the source.</strong> Who spoke, when, and to whom? What was the speaker trying to get listeners to feel, believe, or do?</div></div><div style=\"margin:0 0 12px; overflow:hidden;\"><div style=\"float:left; width:28px; height:28px; line-height:28px; text-align:center; border-radius:50%; background:#1C2B3A; color:#FFFFFF; font-size:15px; margin-right:12px;\">2</div><div style=\"margin-left:42px; font-size:17px; color:#1C1B1A; line-height:1.6;\"><strong>State the main claim</strong> in your own words.</div></div><div style=\"margin:0 0 12px; overflow:hidden;\"><div style=\"float:left; width:28px; height:28px; line-height:28px; text-align:center; border-radius:50%; background:#1C2B3A; color:#FFFFFF; font-size:15px; margin-right:12px;\">3</div><div style=\"margin-left:42px; font-size:17px; color:#1C1B1A; line-height:1.6;\"><strong>Point to evidence.</strong> Quote or describe one specific passage the speaker uses to support the claim.</div></div><div style=\"margin:0 0 12px; overflow:hidden;\"><div style=\"float:left; width:28px; height:28px; line-height:28px; text-align:center; border-radius:50%; background:#1C2B3A; color:#FFFFFF; font-size:15px; margin-right:12px;\">4</div><div style=\"margin-left:42px; font-size:17px; color:#1C1B1A; line-height:1.6;\"><strong>Test the claim.</strong> Using the lesson \"The Hundred Days\" or the source Franklin D. Roosevelt, First Inaugural Address, say what the lesson confirms, what it complicates, and what the speaker leaves out.</div></div><div style=\"margin:0 0 12px; overflow:hidden;\"><div style=\"float:left; width:28px; height:28px; line-height:28px; text-align:center; border-radius:50%; background:#1C2B3A; color:#FFFFFF; font-size:15px; margin-right:12px;\">5</div><div style=\"margin-left:42px; font-size:17px; color:#1C1B1A; line-height:1.6;\"><strong>Name a limit.</strong> Tell one thing you cannot learn about this period from this source alone.</div></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Write in complete paragraphs. You do not need a title page. Cite the source and the lesson by name.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #8A5A00; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8A5A00; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you submit</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\"><strong>Before you submit:</strong></p><ul style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Write your report in Word and save it to your course folder in OneDrive.</li><li style=\"margin-bottom:8px;\">Name your file: LastName_FirstName_PrimarySourceReport2_HIS10</li><li style=\"margin-bottom:8px;\">Submit through Canvas using the OneDrive tab or a file upload.</li><li style=\"margin-bottom:8px;\">Need help? Open the \"M365 Setup &amp; File Organization Guide\" linked in this module.</li></ul></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #1C2B3A; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#1C2B3A; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#E1ECF7; font-size:14px; width:22%;\">Understanding of the material<br><span style=\"color:#1F5FA0;\">5.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>5.0 pts</strong> Strong<br><span style=\"color:#55524C;\">Source and lesson used accurately; steps 1 to 4 all present</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Developing<br><span style=\"color:#55524C;\">Mostly accurate; one step thin</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#55524C;\">Source misread or lesson not used</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> No evidence<br><span style=\"color:#55524C;\"></span></td></tr><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#E1ECF7; font-size:14px; width:22%;\">Quality of reasoning<br><span style=\"color:#1F5FA0;\">5.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>5.0 pts</strong> Strong<br><span style=\"color:#55524C;\">Tests the claim against evidence and weighs both</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Developing<br><span style=\"color:#55524C;\">Reports the claim, tests it lightly</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#55524C;\">Summarizes only</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> No evidence<br><span style=\"color:#55524C;\"></span></td></tr><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#E1ECF7; font-size:14px; width:22%;\">Clarity and precision<br><span style=\"color:#1F5FA0;\">5.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>5.0 pts</strong> Strong<br><span style=\"color:#55524C;\">Organized in paragraphs, precise, within length</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Developing<br><span style=\"color:#55524C;\">Understandable, some wandering</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#55524C;\">Hard to follow or far off length</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> No evidence<br><span style=\"color:#55524C;\"></span></td></tr><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#E1ECF7; font-size:14px; width:22%;\">Intellectual honesty<br><span style=\"color:#1F5FA0;\">5.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>5.0 pts</strong> Strong<br><span style=\"color:#55524C;\">The limit in step 5 is real and specific</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Developing<br><span style=\"color:#55524C;\">Limit is generic</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#55524C;\">No limit named</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> No evidence<br><span style=\"color:#55524C;\"></span></td></tr></tbody></table></div></div>",
+   "points": 20.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag_tier3",
+   "rubric": "r_m5_psr",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "allowed_extensions": "docx",
+   "omit_from_final_grade": false,
+   "kind": "primary-source-report",
+   "week": 5
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q_m5_intro",
+   "title": "Module Intro: Before You Begin",
+   "description": "<p>Welcome to this module. This short survey is not graded for correctness. Your answers help your teacher see where the class is starting.</p>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>When a country faces a crisis, should its government act as fast as it can, or take its time to make sure the laws are carefully made? Give your best answer now. You will come back to this question at the end of the module.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>This module has these goals. Read them, then choose one answer.</p>\n<ul>\n<li>Explain how Franklin Roosevelt and Congress responded to the banking crisis in March 1933.</li>\n<li>Describe the main programs of the Hundred Days and sort them into relief, recovery, and reform.</li>\n<li>Evaluate the strengths and risks of acting quickly in a crisis.</li>\n<li>Weigh the arguments of the New Deal's critics on the left and on the right.</li>\n<li>Explain how the New Deal depended on, and was limited by, the states.</li>\n<li>Judge whether the New Deal was an emergency measure or a lasting change.</li>\n</ul>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I have read the goals and I understand what this module asks of me.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I have read the goals, but I have a question about one of them.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Some assignments in this course allow you to work with classmates. How do you plan to work this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I would like to work with a group when that is an option.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I would rather work on my own.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "I am not sure yet.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-intro-survey",
+   "week": 5
+  },
+  {
+   "id": "q_m5_outro",
+   "title": "Module Outro: Looking Back",
+   "description": "<p>You have finished this module. Please answer honestly. Your answers help your teacher see how the class is doing.</p>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Look back at the question from the start of the module. When a country faces a crisis, should its government act as fast as it can, or take its time to make sure the laws are carefully made? Give your answer now, using at least one fact from this module. You may say if your thinking has changed.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident do you feel about the material in this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Very confident. I could explain it to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Fairly confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Somewhat unsure. I understand parts of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Not confident. I need help.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear to you? Name a person, event, or idea. If nothing is unclear, write \"nothing.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these did the people in this module most need, whether they had it or not?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Pick one person from this module (Roosevelt, Perkins, Long, Brandeis, or someone else) and explain, in two or three sentences, how that virtue showed up in what they did, or how its absence did.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-outro-survey",
+   "week": 5
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_m5",
+   "title": "Discussion: The New Deal: Emergency Measure or New Constitutional Order?",
+   "html": "<p>Was the New Deal a set of temporary steps to get through an emergency, or the start of a lasting change in how the American government works? Both views have some truth. Your job is to decide which one fits the evidence better.</p>\n<p><strong>Your post (about 100 to 150 words):</strong></p>\n<ol>\n<li>Take a clear position: emergency measure, new order, or a mix that leans one way.</li>\n<li>Give one specific piece of evidence from the lesson \"The Hundred Days\" or the source Franklin D. Roosevelt, First Inaugural Address that supports you.</li>\n<li>Name one fact that cuts against your position, and explain why you still hold it.</li>\n</ol>\n<p><strong>Your reply (about 50 to 75 words):</strong> Respond to one classmate. Do you agree with their reasoning? If so, strengthen it with something they did not use. If not, say respectfully where their reasoning falls short.</p>\n<p>Post first, then reply. You will not see your classmates' posts until you have posted.</p>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_tier2",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": "r_m5_discussion",
+   "kind": "module-discussion",
+   "week": 5
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_5",
+   "title": "The Hundred Days and the New Deal",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "title": "Module Intro: Before You Begin",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m5_intro"
+    },
+    {
+     "title": "Module Map",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_module-5-map"
+    },
+    {
+     "title": "The Hundred Days",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_5-dot-2-the-hundred-days",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Franklin D. Roosevelt, First Inaugural Address",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_5-dot-3-primary-source-franklin-d-roosevelt-first-inaugural-address",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Experiment, Critics, and the States",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_5-dot-4-experiment-critics-and-the-states",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Franklin D. Roosevelt, First Fireside Chat",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_5-dot-5-primary-source-franklin-d-roosevelt-first-fireside-chat",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Report: Roosevelt's Inaugural Address or First Fireside Chat",
+     "indent": 0,
+     "published": true,
+     "type": "assignment",
+     "ref": "a_m5_psr"
+    },
+    {
+     "title": "Discussion: The New Deal: Emergency Measure or New Constitutional Order?",
+     "indent": 0,
+     "published": true,
+     "type": "discussion",
+     "ref": "d_m5"
+    },
+    {
+     "title": "Wrap-Up",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_5-dot-8-week-23-wrap-up",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Module Outro: Looking Back",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m5_outro"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Plain edition of one module of HS U.S. History: Reconstruction to Present, Spring Semester. Read from Canvas course 291 with _build/pull_canvas.py on 2026-11-21; the \"(Unsparkled)\" twin module. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/. Build folder: Course Workshops/10USHistoryRec-Present-Spring/03_Build."
+ }
+}

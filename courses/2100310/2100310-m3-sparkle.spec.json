@@ -1,0 +1,413 @@
+{
+ "course": {
+  "title": "10 HS US Hist Recon-Pres 2100310 Q3-Q4",
+  "code": "2100310",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_tier1",
+   "title": "Tier 1: Student & Material",
+   "weight": 30.0
+  },
+  {
+   "id": "ag_tier2",
+   "title": "Tier 2: Student & Community",
+   "weight": 25.0
+  },
+  {
+   "id": "ag_tier3",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 45.0
+  },
+  {
+   "id": "ag_tier4",
+   "title": "Tier 4: Ungraded Scaffolding",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_m3_discussion",
+   "title": "Rubric: Discussion: Jazz Age or Culture War: Which Was the Real 1920s?",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Post and reply",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Clear position, specific evidence from the week, names a counterpoint, and the reply engages a classmate's actual reasoning",
+       "points": 10.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Position stated but evidence vague, no counterpoint, or the reply only says \"I agree\"",
+       "points": 6.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no reply",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_module-3-map",
+   "title": "Module Map",
+   "slug": "module-3-map",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Module 3 Map</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-21/module-map.html\" width=\"100%\" height=\"1487\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_3-dot-2-radio-movies-and-a-shared-culture",
+   "title": "Radio, Movies, and a Shared Culture",
+   "slug": "3-dot-2-radio-movies-and-a-shared-culture",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">3.2 Radio, Movies, and a Shared Culture</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-21/lesson-1.html\" width=\"100%\" height=\"2809\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_3-dot-3-primary-source-w-e-b-du-bois-of-mr-booker-t-washington-and-others",
+   "title": "Primary Source: W. E. B. Du Bois, \"Of Mr. Booker T. Washington and Others\"",
+   "slug": "3-dot-3-primary-source-w-e-b-du-bois-of-mr-booker-t-washington-and-others",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">3.3 Primary Source: W. E. B. Du Bois, \"Of Mr. Booker T. Washington and Others\"</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-21/primary-source-1.html\" width=\"100%\" height=\"2799\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_3-dot-4-prohibition-the-klan-scopes-and-garvey",
+   "title": "Prohibition, the Klan, Scopes, and Garvey",
+   "slug": "3-dot-4-prohibition-the-klan-scopes-and-garvey",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">3.4 Prohibition, the Klan, Scopes, and Garvey</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-21/lesson-2.html\" width=\"100%\" height=\"2782\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_3-dot-5-primary-source-marcus-garvey-philosophy-and-opinions",
+   "title": "Primary Source: Marcus Garvey, Philosophy and Opinions",
+   "slug": "3-dot-5-primary-source-marcus-garvey-philosophy-and-opinions",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">3.5 Primary Source: Marcus Garvey, Philosophy and Opinions</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-21/primary-source-2.html\" width=\"100%\" height=\"2654\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_3-dot-8-week-21-wrap-up",
+   "title": "Wrap-Up",
+   "slug": "3-dot-8-week-21-wrap-up",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">3.8 Week 21 Wrap-Up</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-21/week-wrap-up.html\" width=\"100%\" height=\"1444\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_m3_intro",
+   "title": "Module Intro: Before You Begin",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#1B1A38; border-bottom:4px solid #8C2A62; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#F0C75E; margin-bottom:6px;\"><strong>MODULE INTRO</strong></div><div style=\"font-family:'Josefin Sans','Century Gothic',Futura,Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module Intro: Before You Begin</div><div style=\"font-size:15px; color:#F6E3EE;\">3 questions · survey · one attempt</div></div><div style=\"border-top:3px double #8C2A62; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #0F6B66; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#0F6B66; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Welcome to this module. This short survey is not graded for correctness. Your answers help your teacher see where the class is starting.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>What helps a large country feel like one people, and what can pull it apart? Give your best answer now. You will come back to this question at the end of the module.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>This module has these goals. Read them, then choose one answer.</p>\n<ul>\n<li>Explain how radio, movies, and national heroes created a shared American culture in the 1920s.</li>\n<li>Describe the contribution of Black artists to jazz and the Harlem Renaissance.</li>\n<li>Evaluate whether a shared mass culture can bind citizens together as a political community.</li>\n<li>Explain why Prohibition failed to win lasting public support and what that suggests about law and civic habits.</li>\n<li>Describe the Klan, the Scopes Trial, and Marcus Garvey's movement as responses to a changing America.</li>\n<li>Evaluate whether the 1920s are better described as a Jazz Age or a culture war.</li>\n</ul>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I have read the goals and I understand what this module asks of me.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I have read the goals, but I have a question about one of them.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Some assignments in this course allow you to work with classmates. How do you plan to work this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I would like to work with a group when that is an option.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I would rather work on my own.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "I am not sure yet.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-intro-survey",
+   "week": 3
+  },
+  {
+   "id": "q_m3_outro",
+   "title": "Module Outro: Looking Back",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#1B1A38; border-bottom:4px solid #8C2A62; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#F0C75E; margin-bottom:6px;\"><strong>MODULE OUTRO</strong></div><div style=\"font-family:'Josefin Sans','Century Gothic',Futura,Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module Outro: Looking Back</div><div style=\"font-size:15px; color:#F6E3EE;\">5 questions · survey · one attempt</div></div><div style=\"border-top:3px double #8C2A62; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #0F6B66; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#0F6B66; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">You have finished this module. Please answer honestly. Your answers help your teacher see how the class is doing.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Look back at the question from the start of the module. What helps a large country feel like one people, and what can pull it apart? Give your answer now, using at least one fact from this module. You may say if your thinking has changed.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident do you feel about the material in this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Very confident. I could explain it to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Fairly confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Somewhat unsure. I understand parts of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Not confident. I need help.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear to you? Name a person, event, or idea. If nothing is unclear, write \"nothing.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these did the people in this module most need, whether they had it or not?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Pick one person from this module (Lindbergh, Hughes, Bryan, Darrow, Garvey, or someone else) and explain, in two or three sentences, how that virtue showed up in what they did, or how its absence did.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-outro-survey",
+   "week": 3
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_m3",
+   "title": "Discussion: Jazz Age or Culture War: Which Was the Real 1920s?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#1B1A38; border-bottom:4px solid #8C2A62; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#F0C75E; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:'Josefin Sans','Century Gothic',Futura,Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Jazz Age or Culture War: Which Was the Real 1920s?</div><div style=\"font-size:15px; color:#F6E3EE;\">10 points · threaded discussion</div></div><div style=\"border-top:3px double #8C2A62; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #0F6B66; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#0F6B66; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Open the lessons \"Radio, Movies, and a Shared Culture\" and \"Prohibition, the Klan, Scopes, and Garvey\". Use My Notebook on those pages to gather your notes and marks, then come back here to post.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #1B1A38; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#1B1A38; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The question</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Was the real 1920s the Jazz Age of radio, movies, and new music, or the culture war over Prohibition, the Klan, the Scopes Trial, and who counted as a \"real American\"? The lessons ask you to decide.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #8C2A62; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8C2A62; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Your post</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\"><strong>Your post (about 100 to 150 words):</strong></p><ol style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 6px; padding-left:22px;\"><li style=\"margin-bottom:6px;\">Take a clear position: Jazz Age, culture war, or both about equally.</li><li style=\"margin-bottom:6px;\">Give one specific piece of evidence from this week's lessons that supports you.</li><li style=\"margin-bottom:6px;\">Name one fact that cuts against your position, and explain why you still hold it.</li></ol></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #0F6B66; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#0F6B66; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Your reply</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\"><strong>Your reply (about 50 to 75 words):</strong> Respond to one classmate. Do you agree with their reasoning? If so, strengthen it with something they did not use. If not, say respectfully where their reasoning falls short.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #1B1A38; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#1B1A38; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you post</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Post first, then reply.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #1B1A38; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#1B1A38; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#F6E3EE; font-size:14px; width:22%;\">Post and reply<br><span style=\"color:#8C2A62;\">10.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>10.0 pts</strong> Substantive<br><span style=\"color:#55524C;\">Clear position, specific evidence from the week, names a counterpoint, and the reply engages a classmate's actual reasoning</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>6.0 pts</strong> Thin<br><span style=\"color:#55524C;\">Position stated but evidence vague, no counterpoint, or the reply only says \"I agree\"</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> Missing<br><span style=\"color:#55524C;\">No post, or no reply</span></td></tr></tbody></table></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_tier2",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": "r_m3_discussion",
+   "kind": "module-discussion",
+   "week": 3
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_3",
+   "title": "Mass Culture and Culture War in the 1920s",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "title": "Module Intro: Before You Begin",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m3_intro"
+    },
+    {
+     "title": "Module Map",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_module-3-map"
+    },
+    {
+     "title": "Radio, Movies, and a Shared Culture",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_3-dot-2-radio-movies-and-a-shared-culture",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: W. E. B. Du Bois, \"Of Mr. Booker T. Washington and Others\"",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_3-dot-3-primary-source-w-e-b-du-bois-of-mr-booker-t-washington-and-others",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Prohibition, the Klan, Scopes, and Garvey",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_3-dot-4-prohibition-the-klan-scopes-and-garvey",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Marcus Garvey, Philosophy and Opinions",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_3-dot-5-primary-source-marcus-garvey-philosophy-and-opinions",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Discussion: Jazz Age or Culture War: Which Was the Real 1920s?",
+     "indent": 0,
+     "published": true,
+     "type": "discussion",
+     "ref": "d_m3"
+    },
+    {
+     "title": "Wrap-Up",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_3-dot-8-week-21-wrap-up",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Module Outro: Looking Back",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m3_outro"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of HS U.S. History: Reconstruction to Present, Spring Semester. Read from Canvas course 291 with _build/pull_canvas.py on 2026-11-21; the sparkled module. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/10USHistoryRec-Present-Spring/. Build folder: Course Workshops/10USHistoryRec-Present-Spring/03_Build."
+ }
+}

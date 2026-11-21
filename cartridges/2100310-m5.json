@@ -1,0 +1,204 @@
+{
+ "id": "2100310-m5",
+ "label": "The Hundred Days and the New Deal",
+ "code": "2100310",
+ "title": "10 HS US Hist Recon-Pres 2100310 Q3-Q4",
+ "file": "cartridges/2100310-m5.imscc",
+ "bytes": 25844,
+ "version": "2026.11.21",
+ "built": "2026-11-21T02:45:39",
+ "front_page": "wiki_content/course-home.html",
+ "items": 10,
+ "modules": [
+  {
+   "id": "m_5",
+   "title": "The Hundred Days and the New Deal",
+   "gid": "gfe1f4862c38c5f414ede9ace148a0e5b",
+   "published": true,
+   "items": 10,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 7,
+  "assignments": 1,
+  "quizzes": 2,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 10
+ },
+ "weights": [
+  {
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "title": "Tier 1: Student & Material",
+   "weight": 30.0
+  },
+  {
+   "title": "Tier 2: Student & Community",
+   "weight": 25.0
+  },
+  {
+   "title": "Tier 3: Student & Teacher",
+   "weight": 45.0
+  },
+  {
+   "title": "Tier 4: Ungraded Scaffolding",
+   "weight": 0
+  }
+ ],
+ "groups": [
+  {
+   "id": "g106810928602910cc964c2cd835d06e6",
+   "title": "Assignments",
+   "weight": 0.0,
+   "position": 1
+  },
+  {
+   "id": "gad0faab80d13a88b48d13f2d4a2fa6b3",
+   "title": "Tier 1: Student & Material",
+   "weight": 30.0,
+   "position": 2
+  },
+  {
+   "id": "gbfa6d8946702326c31f433dbc5d536b7",
+   "title": "Tier 2: Student & Community",
+   "weight": 25.0,
+   "position": 3
+  },
+  {
+   "id": "gdc1f05459985f4aad9a4e2186919dc43",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 45.0,
+   "position": 4
+  },
+  {
+   "id": "gb1eb2c309ea08acda581b21d9a99a522",
+   "title": "Tier 4: Ungraded Scaffolding",
+   "weight": 0.0,
+   "position": 5
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "a_m5_psr",
+   "type": "assignment",
+   "title": "Primary Source Report: Roosevelt's Inaugural Address or First Fireside Chat",
+   "gid": "gd675ba1d7bd0142ffd8279ebb455e6c6",
+   "xml": "gd675ba1d7bd0142ffd8279ebb455e6c6/assignment_settings.xml",
+   "module": "m_5",
+   "week": 5,
+   "kind": "primary-source-report",
+   "points": 20.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "gdc1f05459985f4aad9a4e2186919dc43",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m5_intro",
+   "type": "quiz",
+   "title": "Module Intro: Before You Begin",
+   "gid": "gdba6c0772973495e3e3894953d93d3b7",
+   "xml": "gdba6c0772973495e3e3894953d93d3b7/assessment_meta.xml",
+   "module": "m_5",
+   "week": 5,
+   "kind": "module-intro-survey",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m5_outro",
+   "type": "quiz",
+   "title": "Module Outro: Looking Back",
+   "gid": "gc769b6e18e940fd45b439d969efddd5d",
+   "xml": "gc769b6e18e940fd45b439d969efddd5d/assessment_meta.xml",
+   "module": "m_5",
+   "week": 5,
+   "kind": "module-outro-survey",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_m5",
+   "type": "discussion",
+   "title": "Discussion: The New Deal: Emergency Measure or New Constitutional Order?",
+   "gid": "ge013d3089c7d875ad849c4a864f81441",
+   "xml": "g408ea16ba687e5ddabfa27be1747efb4.xml",
+   "module": "m_5",
+   "week": 5,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "gbfa6d8946702326c31f433dbc5d536b7",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec 2100310-m5.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [],
+  "stats": {
+   "resources": 15,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 5,
+    "webcontent": 7,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 2,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 10,
+   "modules": 1,
+   "module_items": 10,
+   "module_item_types": {
+    "Quizzes::Quiz": 2,
+    "WikiPage": 6,
+    "Assignment": 1,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 7,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 5,
+   "group_refs": 2,
+   "quizzes": 2,
+   "assignments": 1,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 30.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "0d91932f5aa51e62641cd9b7247aa95ce622754a5fad6060ba7e0d33f6eaa205",
+ "art_pack": null
+}

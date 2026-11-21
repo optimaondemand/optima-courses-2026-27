@@ -1,0 +1,653 @@
+{
+ "course": {
+  "title": "10 HS US Hist Recon-Pres 2100310 Q3-Q4",
+  "code": "2100310",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_tier1",
+   "title": "Tier 1: Student & Material",
+   "weight": 30.0
+  },
+  {
+   "id": "ag_tier2",
+   "title": "Tier 2: Student & Community",
+   "weight": 25.0
+  },
+  {
+   "id": "ag_tier3",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 45.0
+  },
+  {
+   "id": "ag_tier4",
+   "title": "Tier 4: Ungraded Scaffolding",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_m7_discussion",
+   "title": "Rubric: Discussion: Could America Have Stayed Out of the War?",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Post and reply",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Clear position, specific evidence from the week, names a counterpoint, and the reply engages a classmate's actual reasoning",
+       "points": 10.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Position stated but evidence vague, no counterpoint, or the reply only says \"I agree\"",
+       "points": 6.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no reply",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_7-dot-2-the-dictators-and-an-isolated-republic",
+   "title": "The Dictators and an Isolated Republic",
+   "slug": "7-dot-2-the-dictators-and-an-isolated-republic",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">7.2 The Dictators and an Isolated Republic</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-25/lesson-1.html\" width=\"100%\" height=\"2872\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_7-dot-3-primary-source-franklin-d-roosevelt-arsenal-of-democracy",
+   "title": "Primary Source: Franklin D. Roosevelt, \"Arsenal of Democracy\"",
+   "slug": "7-dot-3-primary-source-franklin-d-roosevelt-arsenal-of-democracy",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">7.3 Primary Source: Franklin D. Roosevelt, \"Arsenal of Democracy\"</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-25/primary-source-1.html\" width=\"100%\" height=\"2716\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_7-dot-4-from-cash-and-carry-to-pearl-harbor",
+   "title": "From Cash and Carry to Pearl Harbor",
+   "slug": "7-dot-4-from-cash-and-carry-to-pearl-harbor",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">7.4 From Cash and Carry to Pearl Harbor</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-25/lesson-2.html\" width=\"100%\" height=\"2782\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_7-dot-5-primary-source-franklin-d-roosevelt-day-of-infamy-address",
+   "title": "Primary Source: Franklin D. Roosevelt, \"Day of Infamy\" Address",
+   "slug": "7-dot-5-primary-source-franklin-d-roosevelt-day-of-infamy-address",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">7.5 Primary Source: Franklin D. Roosevelt, \"Day of Infamy\" Address</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-25/primary-source-2.html\" width=\"100%\" height=\"2716\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_m7_intro",
+   "title": "Module Intro: Before You Begin",
+   "description": "<p>Welcome to this module. This short survey is not graded for correctness. Your answers help your teacher see where the class is starting.</p>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>If a distant country is run by a government that threatens its neighbors, does a free nation have a duty to act before it is attacked? Give your best answer now. You will come back to this question at the end of the module.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>This module has these goals. Read them, then choose one answer.</p>\n<ul>\n<li>Explain what totalitarianism and fascism were and how they spread in Europe and Asia.</li>\n<li>Explain why many Americans supported isolation in the 1930s.</li>\n<li>Describe how the United States moved from neutrality to aiding Britain.</li>\n<li>Explain why Japan and the United States came into conflict in 1941.</li>\n<li>Describe the attack on Pearl Harbor and the declarations of war that followed.</li>\n<li>Judge whether America could have stayed out of the war.</li>\n</ul>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I have read the goals and I understand what this module asks of me.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I have read the goals, but I have a question about one of them.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Some assignments in this course allow you to work with classmates. How do you plan to work this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I would like to work with a group when that is an option.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I would rather work on my own.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "I am not sure yet.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-intro-survey",
+   "week": 7
+  },
+  {
+   "id": "q_m7_reading",
+   "title": "Reading Quiz: From Isolation to Pearl Harbor",
+   "description": "<p>Answer each question using what you learned in this week's two lessons. You may look back at them, but the answers are not stated word for word. You will need to put facts together.</p>",
+   "quiz_type": "assignment",
+   "points": 8.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_tier1",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>In 1935, Italy invaded Ethiopia. Congress had just passed a Neutrality Act banning weapon sales to countries at war. What was the effect of this law on Ethiopia?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The United States sold weapons to Ethiopia but not to Italy.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The United States sent its navy to protect Ethiopia.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The League of Nations took over the sale of American weapons.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ethiopia could not buy American weapons any more easily than Italy could.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Neville Chamberlain came home from Munich and said he had brought \"peace for our time.\" Which later event best shows that his claim was wrong?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Czechoslovakia was invited to the next meeting with Hitler.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hitler broke his promise to ask for nothing more by taking the rest of Czechoslovakia six months later.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The League of Nations punished Germany for the Sudetenland.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Britain and France sent armies into the Rhineland.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The \"cash and carry\" policy let Britain and France buy American weapons if they paid in full and carried the goods away in their own ships. Why did this policy help the Allies much more than Germany?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Allies did not have to pay for the weapons.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress ordered American factories to sell only to the Allies.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The British navy controlled the Atlantic, so only the Allies could carry the goods across it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Germany refused to buy American weapons.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>By late 1940, Britain was running out of money, yet it still needed weapons. How did Lend-Lease solve this problem?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It let Britain receive weapons without paying cash on the spot.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It forced Britain to sell its colonies to the United States.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It ended the draft in the United States.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It sent American soldiers to fight in Britain at once.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In 1938, Roosevelt worked hard to stop a proposed amendment that would require a national vote before any declaration of war. Which concern did many supporters of the amendment hold?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That the Navy was too large for peacetime.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That Britain would refuse to fight without American help.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That a president might take the country into war without the people's say.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "That the Constitution should be rewritten to remove Congress's war power.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>After Roosevelt froze Japanese money and cut off oil, why were Japan's leaders in such a hard position?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Japan imported most of its oil from the United States, so they had to give up their conquests in China or seize oil elsewhere by force.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Japan had no army left to fight with.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The League of Nations had ordered Japan to leave Manchuria.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Roosevelt had promised to stop the embargo if Japan attacked Hawaii.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Hitler declared war on the United States three days after Pearl Harbor, though no treaty required him to. Which statement best describes the importance of this choice?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It ended the war in the Pacific.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It placed the United States in a war with all three Axis powers, instead of letting it focus on Japan alone.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It allowed Britain to leave the war.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It gave Congress no reason to declare war on Japan.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In September 1940, Roosevelt traded fifty old destroyers to Britain without a vote of Congress. Why did some people say he had gone too far?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A major step toward war, taken without Congress, struck critics as a president taking power the Constitution gives to Congress.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The ships were too new to give away.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The ships were needed to fight Japan.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Britain had not asked for any help.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "reading-quiz",
+   "week": 7
+  },
+  {
+   "id": "q_m7_outro",
+   "title": "Module Outro: Looking Back",
+   "description": "<p>You have finished this module. Please answer honestly. Your answers help your teacher see how the class is doing.</p>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Look back at the question from the start of the module. If a distant country is run by a government that threatens its neighbors, does a free nation have a duty to act before it is attacked? Give your answer now, using at least one fact from this module. You may say if your thinking has changed.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident do you feel about the material in this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Very confident. I could explain it to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Fairly confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Somewhat unsure. I understand parts of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Not confident. I need help.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear to you? Name a person, event, or idea. If nothing is unclear, write \"nothing.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these did the people in this module most need, whether they had it or not?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Pick one person from this module (Roosevelt, Chamberlain, Churchill, Lindbergh, or someone else) and explain, in two or three sentences, how that virtue showed up in what they did, or how its absence did.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-outro-survey",
+   "week": 7
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_m7",
+   "title": "Discussion: Could America Have Stayed Out of the War?",
+   "html": "<p>Could the United States have stayed out of World War II? Some say the Axis powers left no choice. Others say a different policy, especially toward Japan, might have kept the peace for a time. Your job is to decide which view fits the evidence better.</p>\n<p><strong>Your post (about 100 to 150 words):</strong></p>\n<ol>\n<li>Take a clear position: America could have stayed out, could not have, or could have stayed out only for a while.</li>\n<li>Give one specific piece of evidence from the lesson \"The Dictators and an Isolated Republic\" or the source Franklin D. Roosevelt, \"Arsenal of Democracy\" that supports you.</li>\n<li>Name one fact that cuts against your position, and explain why you still hold it.</li>\n</ol>\n<p><strong>Your reply (about 50 to 75 words):</strong> Respond to one classmate. Do you agree with their reasoning? If so, strengthen it with something they did not use. If not, say respectfully where their reasoning falls short.</p>\n<p>Post first, then reply. You will not see your classmates' posts until you have posted.</p>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_tier2",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": "r_m7_discussion",
+   "kind": "module-discussion",
+   "week": 7
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_7",
+   "title": "Isolation and the Road to War",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "title": "Module Intro: Before You Begin",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m7_intro"
+    },
+    {
+     "title": "The Dictators and an Isolated Republic",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_7-dot-2-the-dictators-and-an-isolated-republic",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Franklin D. Roosevelt, \"Arsenal of Democracy\"",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_7-dot-3-primary-source-franklin-d-roosevelt-arsenal-of-democracy",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "From Cash and Carry to Pearl Harbor",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_7-dot-4-from-cash-and-carry-to-pearl-harbor",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Franklin D. Roosevelt, \"Day of Infamy\" Address",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_7-dot-5-primary-source-franklin-d-roosevelt-day-of-infamy-address",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: From Isolation to Pearl Harbor",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m7_reading"
+    },
+    {
+     "title": "Discussion: Could America Have Stayed Out of the War?",
+     "indent": 0,
+     "published": true,
+     "type": "discussion",
+     "ref": "d_m7"
+    },
+    {
+     "title": "Module Outro: Looking Back",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m7_outro"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Plain edition of one module of HS U.S. History: Reconstruction to Present, Spring Semester. Read from Canvas course 291 with _build/pull_canvas.py on 2026-11-21; the \"(Unsparkled)\" twin module. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/. Build folder: Course Workshops/10USHistoryRec-Present-Spring/03_Build."
+ }
+}

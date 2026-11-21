@@ -1,0 +1,204 @@
+{
+ "id": "2100310-m9-sparkle",
+ "label": "The Home Front and the End of the War · Sparkle",
+ "code": "2100310",
+ "title": "10 HS US Hist Recon-Pres 2100310 Q3-Q4",
+ "file": "cartridges/2100310-m9-sparkle.imscc",
+ "bytes": 25976,
+ "version": "2026.11.21",
+ "built": "2026-11-21T03:12:08",
+ "front_page": "wiki_content/course-home.html",
+ "items": 8,
+ "modules": [
+  {
+   "id": "m_9",
+   "title": "The Home Front and the End of the War",
+   "gid": "g7a13af0511266fcaf5f571fb4796a4ce",
+   "published": true,
+   "items": 8,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 5,
+  "assignments": 1,
+  "quizzes": 2,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 8
+ },
+ "weights": [
+  {
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "title": "Tier 1: Student & Material",
+   "weight": 30.0
+  },
+  {
+   "title": "Tier 2: Student & Community",
+   "weight": 25.0
+  },
+  {
+   "title": "Tier 3: Student & Teacher",
+   "weight": 45.0
+  },
+  {
+   "title": "Tier 4: Ungraded Scaffolding",
+   "weight": 0
+  }
+ ],
+ "groups": [
+  {
+   "id": "g106810928602910cc964c2cd835d06e6",
+   "title": "Assignments",
+   "weight": 0.0,
+   "position": 1
+  },
+  {
+   "id": "gad0faab80d13a88b48d13f2d4a2fa6b3",
+   "title": "Tier 1: Student & Material",
+   "weight": 30.0,
+   "position": 2
+  },
+  {
+   "id": "gbfa6d8946702326c31f433dbc5d536b7",
+   "title": "Tier 2: Student & Community",
+   "weight": 25.0,
+   "position": 3
+  },
+  {
+   "id": "gdc1f05459985f4aad9a4e2186919dc43",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 45.0,
+   "position": 4
+  },
+  {
+   "id": "gb1eb2c309ea08acda581b21d9a99a522",
+   "title": "Tier 4: Ungraded Scaffolding",
+   "weight": 0.0,
+   "position": 5
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "a_m9_psr",
+   "type": "assignment",
+   "title": "Primary Source Report: Korematsu or Truman on Hiroshima",
+   "gid": "g914663516bfc14ca770050b8fb5cdc79",
+   "xml": "g914663516bfc14ca770050b8fb5cdc79/assignment_settings.xml",
+   "module": "m_9",
+   "week": 9,
+   "kind": "primary-source-report",
+   "points": 20.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "gdc1f05459985f4aad9a4e2186919dc43",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m9_intro",
+   "type": "quiz",
+   "title": "Module Intro: Before You Begin",
+   "gid": "g3cb374ccee4506f03ddb32a890c18d88",
+   "xml": "g3cb374ccee4506f03ddb32a890c18d88/assessment_meta.xml",
+   "module": "m_9",
+   "week": 9,
+   "kind": "module-intro-survey",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m9_outro",
+   "type": "quiz",
+   "title": "Module Outro: Looking Back",
+   "gid": "g64f1d7fd3989752b4f285e7d96761bb4",
+   "xml": "g64f1d7fd3989752b4f285e7d96761bb4/assessment_meta.xml",
+   "module": "m_9",
+   "week": 9,
+   "kind": "module-outro-survey",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_m9",
+   "type": "discussion",
+   "title": "Discussion: Was There a Better Way to End the War With Japan?",
+   "gid": "g64ebdc83db255b71bbfa5a893188d5d5",
+   "xml": "gaf2da4ed6579fd55315b2f6e18ecc82b.xml",
+   "module": "m_9",
+   "week": 9,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "gbfa6d8946702326c31f433dbc5d536b7",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec 2100310-m9-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [],
+  "stats": {
+   "resources": 13,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 5,
+    "webcontent": 5,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 2,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 8,
+   "modules": 1,
+   "module_items": 8,
+   "module_item_types": {
+    "Quizzes::Quiz": 2,
+    "WikiPage": 4,
+    "Assignment": 1,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 5,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 5,
+   "group_refs": 2,
+   "quizzes": 2,
+   "assignments": 1,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 30.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "dd567edc59f22255f4e240df5f93523f603de2ea425aec3d230baa08b056e4d8",
+ "art_pack": null
+}

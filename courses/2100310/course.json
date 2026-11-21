@@ -5,7 +5,229 @@
  "subject": "Social Studies",
  "owner": "rreed",
  "kits": [
-  {"id": "2100310-s1", "label": "Weeks 1-18 (Reconstruction through WWI)"},
-  {"id": "2100310-s2", "label": "Modules 1-18 (League of Nations to the Present)"}
+  {
+   "id": "2100310-s1",
+   "label": "Weeks 1-18 (Reconstruction through WWI)"
+  },
+  {
+   "id": "2100310-s2",
+   "label": "Modules 1-18 (League of Nations to the Present)"
+  },
+  {
+   "id": "2100310-m1",
+   "label": "The League Rejected and the Red Scare",
+   "unit": "The League Rejected and the Red Scare",
+   "replaces": "Module 1"
+  },
+  {
+   "id": "2100310-m1-sparkle",
+   "label": "The League Rejected and the Red Scare · Sparkle",
+   "unit": "The League Rejected and the Red Scare",
+   "replaces": "Module 1"
+  },
+  {
+   "id": "2100310-m2",
+   "label": "Henry Ford, Mass Production, and Credit",
+   "unit": "Henry Ford, Mass Production, and Credit",
+   "replaces": "Module 2"
+  },
+  {
+   "id": "2100310-m2-sparkle",
+   "label": "Henry Ford, Mass Production, and Credit · Sparkle",
+   "unit": "Henry Ford, Mass Production, and Credit",
+   "replaces": "Module 2"
+  },
+  {
+   "id": "2100310-m3",
+   "label": "Mass Culture and Culture War in the 1920s",
+   "unit": "Mass Culture and Culture War in the 1920s",
+   "replaces": "Module 3"
+  },
+  {
+   "id": "2100310-m3-sparkle",
+   "label": "Mass Culture and Culture War in the 1920s · Sparkle",
+   "unit": "Mass Culture and Culture War in the 1920s",
+   "replaces": "Module 3"
+  },
+  {
+   "id": "2100310-m4",
+   "label": "The Crash of 1929 and the Depression",
+   "unit": "The Crash of 1929 and the Depression",
+   "replaces": "Module 4"
+  },
+  {
+   "id": "2100310-m4-sparkle",
+   "label": "The Crash of 1929 and the Depression · Sparkle",
+   "unit": "The Crash of 1929 and the Depression",
+   "replaces": "Module 4"
+  },
+  {
+   "id": "2100310-m5",
+   "label": "The Hundred Days and the New Deal",
+   "unit": "The Hundred Days and the New Deal",
+   "replaces": "Module 5"
+  },
+  {
+   "id": "2100310-m5-sparkle",
+   "label": "The Hundred Days and the New Deal · Sparkle",
+   "unit": "The Hundred Days and the New Deal",
+   "replaces": "Module 5"
+  },
+  {
+   "id": "2100310-m6",
+   "label": "The Second New Deal and the Court",
+   "unit": "The Second New Deal and the Court",
+   "replaces": "Module 6"
+  },
+  {
+   "id": "2100310-m6-sparkle",
+   "label": "The Second New Deal and the Court · Sparkle",
+   "unit": "The Second New Deal and the Court",
+   "replaces": "Module 6"
+  },
+  {
+   "id": "2100310-m7",
+   "label": "Isolation and the Road to War",
+   "unit": "Isolation and the Road to War",
+   "replaces": "Module 7"
+  },
+  {
+   "id": "2100310-m7-sparkle",
+   "label": "Isolation and the Road to War · Sparkle",
+   "unit": "Isolation and the Road to War",
+   "replaces": "Module 7"
+  },
+  {
+   "id": "2100310-m8",
+   "label": "The War in Europe and the Pacific",
+   "unit": "The War in Europe and the Pacific",
+   "replaces": "Module 8"
+  },
+  {
+   "id": "2100310-m8-sparkle",
+   "label": "The War in Europe and the Pacific · Sparkle",
+   "unit": "The War in Europe and the Pacific",
+   "replaces": "Module 8"
+  },
+  {
+   "id": "2100310-m9",
+   "label": "The Home Front and the End of the War",
+   "unit": "The Home Front and the End of the War",
+   "replaces": "Module 9"
+  },
+  {
+   "id": "2100310-m9-sparkle",
+   "label": "The Home Front and the End of the War · Sparkle",
+   "unit": "The Home Front and the End of the War",
+   "replaces": "Module 9"
+  },
+  {
+   "id": "2100310-m10",
+   "label": "The Postwar Order and Containment",
+   "unit": "The Postwar Order and Containment",
+   "replaces": "Module 10"
+  },
+  {
+   "id": "2100310-m10-sparkle",
+   "label": "The Postwar Order and Containment · Sparkle",
+   "unit": "The Postwar Order and Containment",
+   "replaces": "Module 10"
+  },
+  {
+   "id": "2100310-m11",
+   "label": "Korea, the Red Scare, and the Affluent Society",
+   "unit": "Korea, the Red Scare, and the Affluent Society",
+   "replaces": "Module 11"
+  },
+  {
+   "id": "2100310-m11-sparkle",
+   "label": "Korea, the Red Scare, and the Affluent Society · Sparkle",
+   "unit": "Korea, the Red Scare, and the Affluent Society",
+   "replaces": "Module 11"
+  },
+  {
+   "id": "2100310-m12",
+   "label": "The Civil Rights Movement",
+   "unit": "The Civil Rights Movement",
+   "replaces": "Module 12"
+  },
+  {
+   "id": "2100310-m12-sparkle",
+   "label": "The Civil Rights Movement · Sparkle",
+   "unit": "The Civil Rights Movement",
+   "replaces": "Module 12"
+  },
+  {
+   "id": "2100310-m13",
+   "label": "The Brink and the Great Society",
+   "unit": "The Brink and the Great Society",
+   "replaces": "Module 13"
+  },
+  {
+   "id": "2100310-m13-sparkle",
+   "label": "The Brink and the Great Society · Sparkle",
+   "unit": "The Brink and the Great Society",
+   "replaces": "Module 13"
+  },
+  {
+   "id": "2100310-m14",
+   "label": "Vietnam and the Movements",
+   "unit": "Vietnam and the Movements",
+   "replaces": "Module 14"
+  },
+  {
+   "id": "2100310-m14-sparkle",
+   "label": "Vietnam and the Movements · Sparkle",
+   "unit": "Vietnam and the Movements",
+   "replaces": "Module 14"
+  },
+  {
+   "id": "2100310-m15",
+   "label": "Nixon, Watergate, and the Test of the Constitution",
+   "unit": "Nixon, Watergate, and the Test of the Constitution",
+   "replaces": "Module 15"
+  },
+  {
+   "id": "2100310-m15-sparkle",
+   "label": "Nixon, Watergate, and the Test of the Constitution · Sparkle",
+   "unit": "Nixon, Watergate, and the Test of the Constitution",
+   "replaces": "Module 15"
+  },
+  {
+   "id": "2100310-m16",
+   "label": "The End of the Cold War",
+   "unit": "The End of the Cold War",
+   "replaces": "Module 16"
+  },
+  {
+   "id": "2100310-m16-sparkle",
+   "label": "The End of the Cold War · Sparkle",
+   "unit": "The End of the Cold War",
+   "replaces": "Module 16"
+  },
+  {
+   "id": "2100310-m17",
+   "label": "The Post-Cold War World",
+   "unit": "The Post-Cold War World",
+   "replaces": "Module 17"
+  },
+  {
+   "id": "2100310-m17-sparkle",
+   "label": "The Post-Cold War World · Sparkle",
+   "unit": "The Post-Cold War World",
+   "replaces": "Module 17"
+  },
+  {
+   "id": "2100310-m18",
+   "label": "America and the World",
+   "unit": "America and the World",
+   "replaces": "Module 18"
+  },
+  {
+   "id": "2100310-m18-sparkle",
+   "label": "America and the World · Sparkle",
+   "unit": "America and the World",
+   "replaces": "Module 18"
+  }
  ]
 }
