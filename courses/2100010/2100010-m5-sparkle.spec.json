@@ -1,0 +1,1792 @@
+{
+ "course": {
+  "title": "07 MJ US Hist 1492-Recon Spring 2100010",
+  "code": "2100010",
+  "default_view": "wiki",
+  "canvas_id": 289,
+  "canvas_code": "07 1492-Recon",
+  "weighted": true
+ },
+ "rubrics": [
+  {
+   "id": "r1212",
+   "title": "Primary Source Report Rubric (16 pts)",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "Shows accurate, specific knowledge of the source and the lessons.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Accurate and specific; uses details from the source and lessons well.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly accurate; some details used.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Partly accurate or general; few details.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Inaccurate or missing key ideas.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "Explains why, and supports claims with evidence.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, well supported argument; considers cause, consequence, or alternatives.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Reasonable argument with some support.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Claims stated with little support.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "No clear reasoning.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision of expression",
+     "long_description": "Writes clearly, in complete sentences, in the student&#39;s own words.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, precise, organized, in own words.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly clear; minor errors.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Often unclear or disorganized.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Hard to follow or copied.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "Names the limits of what the source or the student&#39;s own knowledge can show.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Names what the source cannot tell us or what remains uncertain.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Shows some awareness of limits.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Little awareness of limits.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Overstates certainty.",
+       "points": 1.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_lesson-5-dot-1-abolitionists-rouse-the-public",
+   "title": "Lesson 5.1: Abolitionists Rouse the Public",
+   "slug": "lesson-5-dot-1-abolitionists-rouse-the-public",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-28/lesson-28-2.html\" width=\"100%\" height=\"3028\" style=\"border: 0;\" title=\"Lesson 5.1: Abolitionists Rouse the Public\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-1-the-constitution-and-the-union-the-seventh-of-march-speech",
+   "title": "Primary Source 1: The Constitution and the Union (the Seventh of March Speech)",
+   "slug": "primary-source-1-the-constitution-and-the-union-the-seventh-of-march-speech",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-28/primary-source-1.html\" width=\"100%\" height=\"3004\" style=\"border: 0;\" title=\"Primary Source 1: The Constitution and the Union (the Seventh of March Speech)\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-2-what-to-the-slave-is-the-fourth-of-july",
+   "title": "Primary Source 2: What to the Slave Is the Fourth of July?",
+   "slug": "primary-source-2-what-to-the-slave-is-the-fourth-of-july",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-28/primary-source-2.html\" width=\"100%\" height=\"2971\" style=\"border: 0;\" title=\"Primary Source 2: What to the Slave Is the Fourth of July?\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-5-dot-2-douglas-attempts-a-new-compromise",
+   "title": "Lesson 5.2: Douglas Attempts a New Compromise",
+   "slug": "lesson-5-dot-2-douglas-attempts-a-new-compromise",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-29/lesson-29-1.html\" width=\"100%\" height=\"3057\" style=\"border: 0;\" title=\"Lesson 5.2: Douglas Attempts a New Compromise\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-5-dot-3-lincoln-pledges-to-unify-the-country-around-freedom",
+   "title": "Lesson 5.3: Lincoln Pledges to Unify the Country around Freedom",
+   "slug": "lesson-5-dot-3-lincoln-pledges-to-unify-the-country-around-freedom",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-29/lesson-29-2.html\" width=\"100%\" height=\"3139\" style=\"border: 0;\" title=\"Lesson 5.3: Lincoln Pledges to Unify the Country around Freedom\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-1-dred-scott-v-sandford-opinion-of-the-court",
+   "title": "Primary Source 1: Dred Scott v. Sandford, opinion of the Court",
+   "slug": "primary-source-1-dred-scott-v-sandford-opinion-of-the-court",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-29/primary-source-1.html\" width=\"100%\" height=\"3131\" style=\"border: 0;\" title=\"Primary Source 1: Dred Scott v. Sandford, opinion of the Court\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-2-house-divided-speech",
+   "title": "Primary Source 2: House Divided Speech",
+   "slug": "primary-source-2-house-divided-speech",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-29/primary-source-2.html\" width=\"100%\" height=\"3051\" style=\"border: 0;\" title=\"Primary Source 2: House Divided Speech\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-5-dot-4-john-brown-pronounces-divine-judgment-on-slavery",
+   "title": "Lesson 5.4: John Brown Pronounces Divine Judgment on Slavery",
+   "slug": "lesson-5-dot-4-john-brown-pronounces-divine-judgment-on-slavery",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-30/lesson-30-1.html\" width=\"100%\" height=\"3079\" style=\"border: 0;\" title=\"Lesson 5.4: John Brown Pronounces Divine Judgment on Slavery\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-5-dot-5-south-carolina-leads-the-south-out-of-the-union",
+   "title": "Lesson 5.5: South Carolina Leads the South Out of the Union",
+   "slug": "lesson-5-dot-5-south-carolina-leads-the-south-out-of-the-union",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-30/lesson-30-2.html\" width=\"100%\" height=\"3075\" style=\"border: 0;\" title=\"Lesson 5.5: South Carolina Leads the South Out of the Union\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-1-last-speech-to-the-court",
+   "title": "Primary Source 1: Last Speech to the Court",
+   "slug": "primary-source-1-last-speech-to-the-court",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-30/primary-source-1.html\" width=\"100%\" height=\"2943\" style=\"border: 0;\" title=\"Primary Source 1: Last Speech to the Court\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-2-declaration-of-the-immediate-causes-of-secession",
+   "title": "Primary Source 2: Declaration of the Immediate Causes of Secession",
+   "slug": "primary-source-2-declaration-of-the-immediate-causes-of-secession",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-30/primary-source-2.html\" width=\"100%\" height=\"3024\" style=\"border: 0;\" title=\"Primary Source 2: Declaration of the Immediate Causes of Secession\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a13406",
+   "title": "Critical Questions: Webster's Seventh of March Speech (1850)",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Webster's Seventh of March Speech (1850)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #982929; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#982929; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Read the primary source for this week: Daniel Webster's Seventh of March Speech. Then answer both questions in your own words. Aim for four to six sentences each.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Suppose Webster had opposed Clay's plan instead of supporting it. How might the Senate vote and the Compromise of 1850 have turned out, and why?</li><li style=\"margin-bottom:8px;\">Many people in New England felt betrayed by Webster, yet he said he spoke \"not as a Massachusetts man, nor as a Northern man, but as an American.\" Why does the choice he made matter for how Americans later thought about their duties to the Union?</li></ol><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 28
+  },
+  {
+   "id": "a13407",
+   "title": "Primary Source Exercise: Douglass, \"What to the Slave Is the Fourth of July?\" (1852)",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · PRIMARY SOURCE EXERCISE</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Exercise: Douglass, \"What to the Slave Is the Fourth of July?\" (1852)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #982929; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#982929; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Read the primary source: part of Frederick Douglass's speech \"What to the Slave Is the Fourth of July?\" Then answer both questions in your own words, in four to six sentences each.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Douglass gave this speech to people gathered to celebrate American independence. Why does it matter that he spoke on that occasion and to that audience?</li><li style=\"margin-bottom:8px;\">Suppose Douglass had agreed with Garrison that the Constitution was a proslavery document. How might his speech and his advice to his listeners have been different?</li></ol><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 28
+  },
+  {
+   "id": "a13410",
+   "title": "Critical Questions: Taney's Opinion in Dred Scott v. Sandford (1857)",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Taney's Opinion in Dred Scott v. Sandford (1857)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #982929; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#982929; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Read the primary source for this week: an excerpt from Chief Justice Taney's opinion in <em>Dred Scott v. Sandford</em>. Then answer both questions in your own words. Aim for four to six sentences each.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Taney wrote that no Black person could be a citizen and that Congress could not ban slavery in the territories. Using the opinion and the lesson <em>Douglas Attempts a New Compromise</em>, explain what events before 1857 led many Americans to hope that the Court could settle the slavery question.</li><li style=\"margin-bottom:8px;\">Suppose the Court had decided only that Dred Scott's stay in a free state did not make him free, and had not ruled on Congress's power over the territories. How might the political fight have changed, and why?</li></ol><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 29
+  },
+  {
+   "id": "a13411",
+   "title": "Primary Source Report: Lincoln's House Divided Speech (1858)",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · PRIMARY SOURCE REPORT</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Report: Lincoln's House Divided Speech (1858)</div><div style=\"font-size:15px; color:#F2C14E;\">16 points · Word document · one turn-in</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #982929; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#982929; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Read Abraham Lincoln's House Divided Speech. Then write a response of <strong>250 to 400 words</strong> in a Word document that answers both questions below. Use your own words and refer to the source and to the lessons.</p><ol style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">What events between 1854 and 1858 led Lincoln to say that the country could not go on permanently half slave and half free?</li><li style=\"margin-bottom:8px;\">Suppose Lincoln had left the House Divided passage out of his speech to avoid losing votes. How might the 1858 campaign and his later career have been different, and why?</li></ol><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Your teacher will score your report with the rubric attached to this assignment: understanding of the material, quality of reasoning, clarity and precision of expression, and intellectual honesty. Intellectual honesty means telling what the source cannot show or what you are still unsure about.</p><h3 style=\"font-size:19px; color:#571A26; margin:16px 0 8px; line-height:1.3;\">M365 Skill Step</h3><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Name your file <strong>LastName_FirstName_HouseDividedReport_HIS7</strong>, save it in your Optima → History → HIS7_2026-27 folder in OneDrive, and upload it here with Submit Assignment, then File Upload.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>M365 Skill You're Practicing: Adding and Replying to Comments (Word).</strong> Select the one sentence you are least sure about, open the Review tab, choose New Comment, and write a short note about what you are unsure of. Then submit the file with your comment in the margin.</p></div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #571A26; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#571A26; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E5D8BE; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Understanding of the material<br><span style=\"color:#5B5148;\">Shows accurate, specific knowledge of the source and the lessons.</span><br><span style=\"color:#982929;\">4.0 pts</span></th><td style=\"border:1px solid #E5D8BE; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Accurate and specific; uses details from the source and lessons well.</span></td><td style=\"border:1px solid #E5D8BE; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly accurate; some details used.</span></td><td style=\"border:1px solid #E5D8BE; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Partly accurate or general; few details.</span></td><td style=\"border:1px solid #E5D8BE; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Inaccurate or missing key ideas.</span></td></tr><tr><th style=\"border:1px solid #E5D8BE; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Quality of reasoning<br><span style=\"color:#5B5148;\">Explains why, and supports claims with evidence.</span><br><span style=\"color:#982929;\">4.0 pts</span></th><td style=\"border:1px solid #E5D8BE; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, well supported argument; considers cause, consequence, or alternatives.</span></td><td style=\"border:1px solid #E5D8BE; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Reasonable argument with some support.</span></td><td style=\"border:1px solid #E5D8BE; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Claims stated with little support.</span></td><td style=\"border:1px solid #E5D8BE; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">No clear reasoning.</span></td></tr><tr><th style=\"border:1px solid #E5D8BE; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Clarity and precision of expression<br><span style=\"color:#5B5148;\">Writes clearly, in complete sentences, in the student&amp;#39;s own words.</span><br><span style=\"color:#982929;\">4.0 pts</span></th><td style=\"border:1px solid #E5D8BE; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, precise, organized, in own words.</span></td><td style=\"border:1px solid #E5D8BE; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly clear; minor errors.</span></td><td style=\"border:1px solid #E5D8BE; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Often unclear or disorganized.</span></td><td style=\"border:1px solid #E5D8BE; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Hard to follow or copied.</span></td></tr><tr><th style=\"border:1px solid #E5D8BE; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Intellectual honesty<br><span style=\"color:#5B5148;\">Names the limits of what the source or the student&amp;#39;s own knowledge can show.</span><br><span style=\"color:#982929;\">4.0 pts</span></th><td style=\"border:1px solid #E5D8BE; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Names what the source cannot tell us or what remains uncertain.</span></td><td style=\"border:1px solid #E5D8BE; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Shows some awareness of limits.</span></td><td style=\"border:1px solid #E5D8BE; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Little awareness of limits.</span></td><td style=\"border:1px solid #E5D8BE; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Overstates certainty.</span></td></tr></tbody></table></div></div>",
+   "points": 16.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag771",
+   "rubric": "r1212",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "allowed_extensions": "docx",
+   "omit_from_final_grade": false,
+   "week": 29
+  },
+  {
+   "id": "a13414",
+   "title": "Critical Questions: John Brown's Last Speech to the Court (1859)",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: John Brown's Last Speech to the Court (1859)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #982929; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#982929; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Read the primary source for this week: John Brown's last speech to the court. Then answer both questions in your own words. Aim for four to six sentences each.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Brown said that he believed he had done right. Using the speech and the lesson <em>John Brown Pronounces Divine Judgment on Slavery</em>, explain what experiences led Brown to think that slavery could be ended only by force.</li><li style=\"margin-bottom:8px;\">Brown claims a higher authority than the court that is trying him. What idea about conscience and law is he relying on, and how is it different from Lincoln's idea of how a free republic changes a bad law?</li></ol><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 30
+  },
+  {
+   "id": "a13415",
+   "title": "Primary Source Exercise: South Carolina's Declaration of the Causes of Secession (1860)",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · PRIMARY SOURCE EXERCISE</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Exercise: South Carolina's Declaration of the Causes of Secession (1860)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #982929; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#982929; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Read the primary source: part of South Carolina's Declaration of the Immediate Causes of Secession. Then answer both questions in your own words, in four to six sentences each.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">What reasons does South Carolina give for leaving the Union, and what events between 1850 and 1860 does the Declaration point to?</li><li style=\"margin-bottom:8px;\">South Carolina argues that a state may leave when the agreement among the states has been broken. What idea about what the Constitution is does this rely on, and how did Lincoln and most Northerners see it differently?</li></ol><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 30
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q4917",
+   "title": "Intro (Lessons 4.4 and 5.1): When Is It Wise to Give Something Up to Keep a Nation Together?",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · INTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 5 Intro: When Is It Wise to Give Something Up to Keep a Nation Together?</div><div style=\"font-size:15px; color:#F2C14E;\">3 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #571A26; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#571A26; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">This set of work covers <em>Clay and Webster Compromise on California</em> and <em>Abolitionists Rouse the Public</em>. If you have not finished <strong>Clay and Webster Compromise on California</strong>, read it first. Then answer three quick questions. There are no wrong answers. You will come back to the first question when you finish.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Next up is <strong>Abolitionists Rouse the Public</strong>.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "Sometimes leaders give up something they care about to keep a country together. When might that be wise, and when might it be a mistake? Answer in two or three sentences. You will revisit this answer at the end of these lessons.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "I have read the goals for these lessons: to explain what the Compromise of 1850 settled and left unsettled, and how abolitionists and Northern states turned the Fugitive Slave Act into a national argument.",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I am ready to begin",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet, I have a question",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "This quarter has an optional group capstone. Would you like to work in a group?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "No, I will work on my own",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Undecided",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 3,
+   "week": 28
+  },
+  {
+   "id": "q4918",
+   "title": "Reading Quiz: Lessons 4.4 and 5.1",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Clay and Webster Compromise on California and Abolitionists Rouse the Public</div><div style=\"font-size:15px; color:#F2C14E;\">7 questions · 7 points · 2 attempts</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #571A26; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#571A26; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">This quiz covers <em>Clay and Webster Compromise on California</em> and <em>Abolitionists Rouse the Public</em>. You may take it twice, and your higher score counts. Some questions ask you to put two or more facts together, so think before you answer.</p></div></div></div>",
+   "quiz_type": "assignment",
+   "points": 7.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag769",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "California's request to join the Union as a free state worried the South. Why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "California had too few people to become a state.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The South wanted California to be divided into two states.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It would give the free states a 16 to 15 majority in the Senate for the first time, ending the balance held since 1820.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "President Taylor was against admitting any new state.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "President Taylor's sudden death in July 1850 mattered to the Compromise of 1850. Why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "His death meant the Senate had to be reelected.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "His successor, Fillmore, supported the compromise, while Taylor had opposed Clay's approach.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Taylor had written the compromise himself.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Taylor's death ended the Mexican War.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which part of the Compromise of 1850 did the South want most, and why did it cause trouble in the North?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The ban on the slave trade in Washington, D.C., because it closed Northern markets.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The admission of California, because it had gold.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The payment of Texas's debts, because it raised Northern taxes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The stronger Fugitive Slave Act, because it required officials in every state to help return escaped slaves, drawing Northerners into slavery.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "After the Fugitive Slave Act of 1850, thousands of free Black people in Northern cities left for Canada. What best explains this?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The accused person could not testify, so free Black people feared being seized by mistake.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Canada had promised free land to everyone who came.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress ordered all free Black people to leave the North.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Act applied only to people born in Canada.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How did Frederick Douglass's view of the Constitution differ from William Lloyd Garrison's?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Both thought the Constitution should be burned.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Garrison thought it should be amended; Douglass thought it should be ignored.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Garrison thought the Constitution was proslavery, while Douglass came to believe that, rightly read, it was antislavery and urged people to use politics.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Douglass thought slavery would end by itself.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which statement about the Underground Railroad is best supported by the lesson?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It was a railroad built under the ground in Philadelphia.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It was a network of free Black people, white abolitionists, and churches, although most escapes were not organized by any network.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It was run entirely by the federal government.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It ended with the Fugitive Slave Act.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Northern states passed personal liberty laws that made it harder to return a fugitive. Why did this make Southerners distrust compromise?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Southerners believed the laws were unconstitutional but were happy to follow them.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Southerners wanted Northern states to leave the Union.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Southerners no longer owned any slaves.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Southerners had once argued that a state could refuse a federal law, and now Northern states were doing the same, so why trust any compromise?",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 7,
+   "week": 28
+  },
+  {
+   "id": "q4919",
+   "title": "Outro (Lessons 4.4 and 5.1): Looking Back at the Compromise of 1850 and the Abolitionists",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · OUTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 5 Outro: Looking Back at the Compromise of 1850 and the Abolitionists</div><div style=\"font-size:15px; color:#F2C14E;\">4 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #571A26; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#571A26; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">You have finished these lessons and their work. Answer four short questions. Your answers help your teacher see where students feel strong and where more help is needed.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "At the start you answered this question: when might it be wise to give up something you care about to keep a country together, and when might it be a mistake? Answer it again now in two or three sentences. If your answer changed, say what changed it.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How confident do you feel explaining the five parts of the Compromise of 1850?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "1 - Not at all confident",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "2 - A little confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3 - Somewhat confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "4 - Mostly confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "5 - Very confident",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Which idea from these lessons is still unclear to you? It might be popular sovereignty, the Mexican Cession, the Fugitive Slave Act, personal liberty laws, or the Underground Railroad. Say what you do not yet understand.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Harriet Tubman escaped slavery and then returned about thirteen times to guide others to freedom. Which of these virtues did that require: courage, courtesy, honesty, perseverance, self-government, service, or responsibility? Explain in two or three sentences, and tell about a time you needed that same virtue.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4,
+   "week": 28
+  },
+  {
+   "id": "q4920",
+   "title": "Intro (Lessons 5.2 and 5.3): What Happens When a Politician Reopens an Old Settlement?",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · INTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 5 Intro: What Happens When a Politician Reopens an Old Settlement?</div><div style=\"font-size:15px; color:#F2C14E;\">3 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #571A26; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#571A26; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Before you start these lessons, answer three quick questions. There are no wrong answers. You will come back to the first question when you finish.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Start with <strong>Douglas Attempts a New Compromise</strong>.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "Suppose leaders cancel an old agreement that people had treated as a promise for more than thirty years. What reactions might they expect, and why? Answer in two or three sentences. You will revisit this answer at the end of these lessons.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "I have read the goals for these lessons: to explain how the Kansas-Nebraska Act and the Dred Scott decision deepened the quarrel over slavery, and how Lincoln entered the debate.",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I am ready to begin",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet, I have a question",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "This quarter has an optional group capstone. Would you like to work in a group?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "No, I will work on my own",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Undecided",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 3,
+   "week": 29
+  },
+  {
+   "id": "q4921",
+   "title": "Reading Quiz: Lessons 5.2 and 5.3",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Douglas Attempts a New Compromise and Lincoln Pledges to Unify the Country Around Freedom</div><div style=\"font-size:15px; color:#F2C14E;\">7 questions · 7 points · 2 attempts</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #571A26; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#571A26; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">This quiz covers <em>Douglas Attempts a New Compromise</em> and <em>Lincoln Pledges to Unify the Country Around Freedom</em>. You may take it twice, and your higher score counts. Some questions ask you to put two or more facts together, so think before you answer.</p></div></div></div>",
+   "quiz_type": "assignment",
+   "points": 7.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag769",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Why did Douglas agree to repeal the Missouri Compromise ban on slavery in the Kansas-Nebraska Act?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Southern senators would not vote to organize the territories, which his railroad plan needed, unless the ban came off.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court had ordered the ban removed.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "President Pierce wrote the repeal himself.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Kansas and Nebraska had already voted to allow slavery.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why did the Kansas-Nebraska Act lead to the founding of the Republican Party?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Southern Democrats wanted a new party to protect slavery.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Whig Party won every election in 1854.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Douglas started the party so he could run for President.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Many Northerners felt a promise of thirty-four years was broken to help slaveholders, so Whigs, Free Soilers, and antislavery Democrats formed a party to stop slavery from spreading.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "After the Dred Scott decision, Republicans said it made their whole program illegal. Why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It said that Republicans could not hold office.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "If Congress could not ban slavery in the territories, then keeping slavery out of the territories, their main goal, was not allowed.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It forbade any new political parties.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It said the Republican Party was a Southern party.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Preston Brooks beat Senator Sumner with a cane, and many Southerners sent Brooks new canes. What does this episode best show?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Both sections strongly condemned the act.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress passed a law protecting senators.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The sections no longer saw the same events in the same way.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Sumner had started the fight with his fists.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which statement best describes Lincoln's position on slavery in 1858?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He believed the Constitution protected slavery in the states where it existed, but he wanted to stop its spread and put it on a course of ultimate extinction.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He wanted to end slavery everywhere at once, as Garrison did.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He believed slavery should spread to every territory.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He had no opinion about slavery.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Douglas's Freeport answer helped him win in Illinois but hurt him with Southern Democrats. Why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He said that slavery should be banned in all states.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He admitted that he had voted against Dred Scott.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He told the Court to resign.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He said settlers could keep slavery out by refusing to pass local laws to protect it, which seemed to ignore the Court's ruling.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Lincoln said, \"A house divided against itself cannot stand.\" What did he actually predict?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That the Union would break apart within a year.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That the country could not remain permanently half slave and half free, and would become all one thing or all the other.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "That the South would win the next election.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That slavery would end in the territories by itself.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 7,
+   "week": 29
+  },
+  {
+   "id": "q4922",
+   "title": "Outro (Lessons 5.2 and 5.3): Looking Back at Kansas, Dred Scott, and Lincoln",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · OUTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 5 Outro: Looking Back at Kansas, Dred Scott, and Lincoln</div><div style=\"font-size:15px; color:#F2C14E;\">4 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #571A26; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#571A26; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">You have finished these lessons and their work. Answer four short questions. Your answers help your teacher see where students feel strong and where more help is needed.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "At the start you answered this question: what reactions might leaders expect if they cancel an old agreement that people had treated as a promise for more than thirty years? Answer it again now in two or three sentences. If your answer changed, say what changed it.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How confident do you feel explaining what popular sovereignty was and why it failed in Kansas?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "1 - Not at all confident",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "2 - A little confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3 - Somewhat confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "4 - Mostly confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "5 - Very confident",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Which idea from these lessons is still unclear to you? It might be the Kansas-Nebraska Act, Bleeding Kansas, the Dred Scott decision, the House Divided speech, or the Freeport doctrine. Say what you do not yet understand.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Lincoln said he would accept the Dred Scott decision for the people in the case, but would work to change it through votes and debate instead of violence. Which of these virtues did that choice require: courage, courtesy, honesty, perseverance, self-government, service, or responsibility? Explain in two or three sentences, and tell about a time you needed that same virtue.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4,
+   "week": 29
+  },
+  {
+   "id": "q4923",
+   "title": "Intro (Lessons 5.4 and 5.5): When Peaceful Change Seems to Fail, What Should Citizens Do?",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · INTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 5 Intro: When Peaceful Change Seems to Fail, What Should Citizens Do?</div><div style=\"font-size:15px; color:#F2C14E;\">3 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #571A26; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#571A26; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Before you start these lessons, answer three quick questions. There are no wrong answers. You will come back to the first question when you finish.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Start with <strong>John Brown Pronounces Divine Judgment on Slavery</strong>.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "People sometimes feel that voting and debate are not working to fix a serious wrong. What choices do they have then, and what might each choice cost? Answer in two or three sentences. You will revisit this answer at the end of these lessons.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "I have read the goals for these lessons: to explain John Brown's raid and how people reacted, and how the election of 1860 led South Carolina and six other states to leave the Union.",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I am ready to begin",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet, I have a question",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "This quarter has an optional group capstone. Would you like to work in a group?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "No, I will work on my own",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Undecided",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 3,
+   "week": 30
+  },
+  {
+   "id": "q4924",
+   "title": "Reading Quiz: Lessons 5.4 and 5.5",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: John Brown Pronounces Divine Judgment on Slavery and South Carolina Leads the South Out of the Union</div><div style=\"font-size:15px; color:#F2C14E;\">7 questions · 7 points · 2 attempts</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #571A26; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#571A26; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">This quiz covers <em>John Brown Pronounces Divine Judgment on Slavery</em> and <em>South Carolina Leads the South Out of the Union</em>. You may take it twice, and your higher score counts. Some questions ask you to put two or more facts together, so think before you answer.</p></div></div></div>",
+   "quiz_type": "assignment",
+   "points": 7.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag769",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Frederick Douglass argued against John Brown's plan to raid Harpers Ferry. What was his reason?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He believed slavery was not wrong.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He thought Harpers Ferry was a trap where Brown would be surrounded.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He had already joined the raid.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He wanted the raid to take place in Kansas.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Southern newspapers asked whether Northerners who praised Brown could be trusted. Which fact could a Republican such as Lincoln point to in reply?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Lincoln said that all slave owners should be punished.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Lincoln told Brown to start a rebellion.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Lincoln said that slavery was not wrong.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Lincoln said Brown was right to think slavery wrong, but that this could not excuse violence, bloodshed, and treason, and that votes were the way to end slavery.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why did Brown's raid make a war easier to imagine, even though it did not start one?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It frightened the South, which saw a Northern man try to start an uprising praised by Northern writers, and Southern states raised militias.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It ended in a victory for the raiders.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It caused the Marines to leave the army.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It was supported by President Buchanan.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The Democratic Party split in 1860. Why was this so important?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It meant that no one ran against Lincoln.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It meant that the Democrats had ended slavery.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It was the one party that reached across the sections, and its split helped Lincoln win.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It forced Lincoln to give up the election.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Lincoln won in 1860 with about 40 percent of the popular vote and not a single Southern electoral vote. What does this show?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The South had voted for Lincoln in secret.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Constitution was changed before the election.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The popular vote was ignored by law.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The North held most of the nation's electoral votes, and the Democratic split helped him, so the South could now be outvoted.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Lincoln promised not to interfere with slavery where it already existed. Why did Southern leaders still distrust him?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "His party believed slavery was wrong and had won the White House without a Southern vote, so they feared the government would one day work to end slavery everywhere.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He had said that he would end slavery on his first day in office.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He had refused to speak to any Southerner.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He was born in the North.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "A student says that Virginia was among the first states to leave the Union. Which fact shows the student is wrong?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Virginia voted 169 to 0 to leave on December 20, 1860.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Virginia never held a convention.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Seven Deep South states, including Florida, left between December 1860 and February 1861, while Virginia and the rest of the Upper South hesitated.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Virginia was the first state to join the Confederacy.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 7,
+   "week": 30
+  },
+  {
+   "id": "q4925",
+   "title": "Outro (Lessons 5.4 and 5.5): Looking Back at Harpers Ferry and Secession",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · OUTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 5 Outro: Looking Back at Harpers Ferry and Secession</div><div style=\"font-size:15px; color:#F2C14E;\">4 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #571A26; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#571A26; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">You have finished these lessons and their work. Answer four short questions. Your answers help your teacher see where students feel strong and where more help is needed.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "At the start you answered this question: when voting and debate seem not to be working, what choices do people have, and what might each choice cost? Answer it again now in two or three sentences. If your answer changed, say what changed it.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How confident do you feel explaining why the election of 1860 led to secession?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "1 - Not at all confident",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "2 - A little confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3 - Somewhat confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "4 - Mostly confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "5 - Very confident",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Which idea from these lessons is still unclear to you? It might be the raid on Harpers Ferry, the four-way race of 1860, the ordinance of secession, the order in which states left, or the border states. Say what you do not yet understand.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Sam Houston, the governor of Texas, opposed secession and lost his office when he refused to swear loyalty to the Confederacy. Which of these virtues did his choice require: courage, courtesy, honesty, perseverance, self-government, service, or responsibility? Explain in two or three sentences, and tell about a time you needed that same virtue.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4,
+   "week": 30
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d961",
+   "title": "Discussion: Webster's Seventh of March Speech, Statesmanship or Surrender?",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Webster's Seventh of March Speech, Statesmanship or Surrender?</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written post and one reply · threaded discussion</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #CF9A24; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#CF9A24; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The prompt</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Webster supported the Compromise of 1850, including the Fugitive Slave Act, to keep the Union together. Many people in his own region called it a surrender. Make one specific claim: was his speech an act of statesmanship, a surrender, or something in between? Use at least one fact from this week's lessons or sources to back your claim, and explain why that fact supports it. Write about 100 to 150 words.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate (about 50 to 100 words). If you agree, strengthen their reasoning with a new fact. If you disagree, respectfully explain where their reasoning falls short.</p></div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag770",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null,
+   "week": 28
+  },
+  {
+   "id": "d962",
+   "title": "Discussion: Dred Scott, Can the Court Settle What Congress Cannot?",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Dred Scott, Can the Court Settle What Congress Cannot?</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written post and one reply · threaded discussion</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #CF9A24; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#CF9A24; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The prompt</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Many Americans hoped the Supreme Court could end the argument over slavery in the territories. Instead, the Dred Scott decision made the fight worse. Make one specific claim: can a court settle a question that the elected branches cannot? Use at least one fact from this week's lessons or sources to back your claim, and explain why that fact supports it. Write about 100 to 150 words.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate (about 50 to 100 words). If you agree, strengthen their reasoning with a new fact. If you disagree, respectfully explain where their reasoning falls short.</p></div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag770",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null,
+   "week": 29
+  },
+  {
+   "id": "d963",
+   "title": "Discussion: John Brown, Martyr, Terrorist, or Prophet?",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#571A26; border-bottom:4px solid #CF9A24; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 5 · DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: John Brown, Martyr, Terrorist, or Prophet?</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written post and one reply · threaded discussion</div></div><div style=\"text-align:center; color:#CF9A24; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #982929;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #E5D8BE; border-top:4px solid #CF9A24; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#CF9A24; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The prompt</strong></div><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Historians still disagree about John Brown. Some call him a martyr, some a terrorist, some a prophet. Make one specific claim about which description fits him best, or explain why none of them does. Use at least one fact from this week's lessons or sources, such as what he said or what he actually did, to back your claim, and explain why that fact supports it. Write about 100 to 150 words.</p><p style=\"font-size:17px; color:#201A14; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate (about 50 to 100 words). If you agree, strengthen their reasoning with a new fact. If you disagree, respectfully explain where their reasoning falls short.</p></div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag770",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null,
+   "week": 30
+  }
+ ],
+ "files": [],
+ "assignment_groups": [
+  {
+   "id": "ag769",
+   "title": "Tier 1: Student & Material",
+   "weight": 55.0,
+   "canvas_id": 769
+  },
+  {
+   "id": "ag770",
+   "title": "Tier 2: Student & Community",
+   "weight": 30.0,
+   "canvas_id": 770
+  },
+  {
+   "id": "ag771",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 15.0,
+   "canvas_id": 771
+  }
+ ],
+ "modules": [
+  {
+   "id": "m_sp_5",
+   "title": "North and South Reject Compromise and Face Crisis",
+   "published": true,
+   "items": [
+    {
+     "title": "Intro (Lessons 4.4 and 5.1): When Is It Wise to Give Something Up to Keep a Nation Together?",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4917",
+     "published": true,
+     "week": 28
+    },
+    {
+     "title": "Lesson 5.1: Abolitionists Rouse the Public",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-5-dot-1-abolitionists-rouse-the-public",
+     "published": true,
+     "week": 28,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 1: The Constitution and the Union (the Seventh of March Speech)",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-1-the-constitution-and-the-union-the-seventh-of-march-speech",
+     "published": true,
+     "week": 28,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Webster's Seventh of March Speech (1850)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13406",
+     "published": true,
+     "week": 28
+    },
+    {
+     "title": "Primary Source 2: What to the Slave Is the Fourth of July?",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-2-what-to-the-slave-is-the-fourth-of-july",
+     "published": true,
+     "week": 28,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Exercise: Douglass, \"What to the Slave Is the Fourth of July?\" (1852)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13407",
+     "published": true,
+     "week": 28
+    },
+    {
+     "title": "Discussion: Webster's Seventh of March Speech, Statesmanship or Surrender?",
+     "indent": 0,
+     "type": "discussion",
+     "ref": "d961",
+     "published": true,
+     "week": 28
+    },
+    {
+     "title": "Reading Quiz: Lessons 4.4 and 5.1",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4918",
+     "published": true,
+     "week": 28
+    },
+    {
+     "title": "Outro (Lessons 4.4 and 5.1): Looking Back at the Compromise of 1850 and the Abolitionists",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4919",
+     "published": true,
+     "week": 28
+    },
+    {
+     "title": "Intro (Lessons 5.2 and 5.3): What Happens When a Politician Reopens an Old Settlement?",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4920",
+     "published": true,
+     "week": 29
+    },
+    {
+     "title": "Lesson 5.2: Douglas Attempts a New Compromise",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-5-dot-2-douglas-attempts-a-new-compromise",
+     "published": true,
+     "week": 29,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Lesson 5.3: Lincoln Pledges to Unify the Country around Freedom",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-5-dot-3-lincoln-pledges-to-unify-the-country-around-freedom",
+     "published": true,
+     "week": 29,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 1: Dred Scott v. Sandford, opinion of the Court",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-1-dred-scott-v-sandford-opinion-of-the-court",
+     "published": true,
+     "week": 29,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Taney's Opinion in Dred Scott v. Sandford (1857)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13410",
+     "published": true,
+     "week": 29
+    },
+    {
+     "title": "Primary Source 2: House Divided Speech",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-2-house-divided-speech",
+     "published": true,
+     "week": 29,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Report: Lincoln's House Divided Speech (1858)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13411",
+     "published": true,
+     "week": 29
+    },
+    {
+     "title": "Discussion: Dred Scott, Can the Court Settle What Congress Cannot?",
+     "indent": 0,
+     "type": "discussion",
+     "ref": "d962",
+     "published": true,
+     "week": 29
+    },
+    {
+     "title": "Reading Quiz: Lessons 5.2 and 5.3",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4921",
+     "published": true,
+     "week": 29
+    },
+    {
+     "title": "Outro (Lessons 5.2 and 5.3): Looking Back at Kansas, Dred Scott, and Lincoln",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4922",
+     "published": true,
+     "week": 29
+    },
+    {
+     "title": "Intro (Lessons 5.4 and 5.5): When Peaceful Change Seems to Fail, What Should Citizens Do?",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4923",
+     "published": true,
+     "week": 30
+    },
+    {
+     "title": "Lesson 5.4: John Brown Pronounces Divine Judgment on Slavery",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-5-dot-4-john-brown-pronounces-divine-judgment-on-slavery",
+     "published": true,
+     "week": 30,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Lesson 5.5: South Carolina Leads the South Out of the Union",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-5-dot-5-south-carolina-leads-the-south-out-of-the-union",
+     "published": true,
+     "week": 30,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 1: Last Speech to the Court",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-1-last-speech-to-the-court",
+     "published": true,
+     "week": 30,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: John Brown's Last Speech to the Court (1859)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13414",
+     "published": true,
+     "week": 30
+    },
+    {
+     "title": "Primary Source 2: Declaration of the Immediate Causes of Secession",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-2-declaration-of-the-immediate-causes-of-secession",
+     "published": true,
+     "week": 30,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Exercise: South Carolina's Declaration of the Causes of Secession (1860)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13415",
+     "published": true,
+     "week": 30
+    },
+    {
+     "title": "Discussion: John Brown, Martyr, Terrorist, or Prophet?",
+     "indent": 0,
+     "type": "discussion",
+     "ref": "d963",
+     "published": true,
+     "week": 30
+    },
+    {
+     "title": "Reading Quiz: Lessons 5.4 and 5.5",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4924",
+     "published": true,
+     "week": 30
+    },
+    {
+     "title": "Outro (Lessons 5.4 and 5.5): Looking Back at Harpers Ferry and Secession",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4925",
+     "published": true,
+     "week": 30
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of M/J U.S. History 1492-Reconstruction, Spring. Read from Canvas course 289 (naming authority: titles, order, points, groups, quiz questions) with _build/pull_canvas.py on 2026-11-21; the sparkled module, not its \"(Unsparkled)\" twin. Item ids are the same as in 2100010-s2 (Civics precedent); weeks, published state and Mark as done taken from the s2 kit. Module number removed from student-facing module and intro/outro titles. Lessons are iframe pages on https://optimaondemand.github.io/mjushistory-lessons-spring/."
+ }
+}

@@ -1,0 +1,1262 @@
+{
+ "course": {
+  "title": "07 MJ US Hist 1492-Recon Spring 2100010",
+  "code": "2100010",
+  "default_view": "wiki",
+  "canvas_id": 289,
+  "canvas_code": "07 1492-Recon",
+  "weighted": true
+ },
+ "rubrics": [
+  {
+   "id": "r1212",
+   "title": "Primary Source Report Rubric (16 pts)",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "Shows accurate, specific knowledge of the source and the lessons.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Accurate and specific; uses details from the source and lessons well.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly accurate; some details used.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Partly accurate or general; few details.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Inaccurate or missing key ideas.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "Explains why, and supports claims with evidence.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, well supported argument; considers cause, consequence, or alternatives.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Reasonable argument with some support.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Claims stated with little support.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "No clear reasoning.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision of expression",
+     "long_description": "Writes clearly, in complete sentences, in the student&#39;s own words.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, precise, organized, in own words.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly clear; minor errors.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Often unclear or disorganized.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Hard to follow or copied.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "Names the limits of what the source or the student&#39;s own knowledge can show.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Names what the source cannot tell us or what remains uncertain.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Shows some awareness of limits.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Little awareness of limits.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Overstates certainty.",
+       "points": 1.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_lesson-f-dot-1-hamilton-builds-a-national-economy-jefferson-organizes-the-opposition",
+   "title": "Lesson F.1: Hamilton Builds a National Economy; Jefferson Organizes the Opposition",
+   "slug": "lesson-f-dot-1-hamilton-builds-a-national-economy-jefferson-organizes-the-opposition",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-19/lesson-19-1.html\" width=\"100%\" height=\"3052\" style=\"border: 0;\" title=\"Lesson F.1: Hamilton Builds a National Economy; Jefferson Organizes the Opposition\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-f-dot-2-adams-avoids-war-with-france-federalists-silence-their-critics",
+   "title": "Lesson F.2: Adams Avoids War with France; Federalists Silence Their Critics",
+   "slug": "lesson-f-dot-2-adams-avoids-war-with-france-federalists-silence-their-critics",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-19/lesson-19-2.html\" width=\"100%\" height=\"2824\" style=\"border: 0;\" title=\"Lesson F.2: Adams Avoids War with France; Federalists Silence Their Critics\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-1-opinions-on-the-constitutionality-of-a-national-bank",
+   "title": "Primary Source 1: Opinions on the Constitutionality of a National Bank",
+   "slug": "primary-source-1-opinions-on-the-constitutionality-of-a-national-bank",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-19/primary-source-1.html\" width=\"100%\" height=\"2772\" style=\"border: 0;\" title=\"Primary Source 1: Opinions on the Constitutionality of a National Bank\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-2-the-sedition-act",
+   "title": "Primary Source 2: The Sedition Act",
+   "slug": "primary-source-2-the-sedition-act",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-19/primary-source-2.html\" width=\"100%\" height=\"2774\" style=\"border: 0;\" title=\"Primary Source 2: The Sedition Act\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-f-dot-3-jefferson-wins-the-revolution-of-1800",
+   "title": "Lesson F.3: Jefferson Wins the Revolution of 1800",
+   "slug": "lesson-f-dot-3-jefferson-wins-the-revolution-of-1800",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-20/lesson-20-1.html\" width=\"100%\" height=\"2967\" style=\"border: 0;\" title=\"Lesson F.3: Jefferson Wins the Revolution of 1800\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-f-dot-4-marshall-builds-a-strong-court-and-a-strong-nation",
+   "title": "Lesson F.4: Marshall Builds a Strong Court and a Strong Nation",
+   "slug": "lesson-f-dot-4-marshall-builds-a-strong-court-and-a-strong-nation",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-20/lesson-20-2.html\" width=\"100%\" height=\"2793\" style=\"border: 0;\" title=\"Lesson F.4: Marshall Builds a Strong Court and a Strong Nation\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-1-first-inaugural-address-jefferson-1801",
+   "title": "Primary Source 1: First Inaugural Address (Jefferson, 1801)",
+   "slug": "primary-source-1-first-inaugural-address-jefferson-1801",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-20/primary-source-1.html\" width=\"100%\" height=\"2726\" style=\"border: 0;\" title=\"Primary Source 1: First Inaugural Address\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-2-marbury-v-madison-opinion-of-the-court",
+   "title": "Primary Source 2: Marbury v. Madison, opinion of the Court",
+   "slug": "primary-source-2-marbury-v-madison-opinion-of-the-court",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-20/primary-source-2.html\" width=\"100%\" height=\"2738\" style=\"border: 0;\" title=\"Primary Source 2: Marbury v. Madison, opinion of the Court\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a13370",
+   "title": "Critical Questions: Hamilton and Jefferson on the National Bank (1791)",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#14254F; border-bottom:4px solid #C7922C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>FOUNDING ERA · CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Hamilton and Jefferson on the National Bank (1791)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"height:12px; margin:2px 0 18px;  \"></div><div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-top:4px solid #A3431E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A3431E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Read the primary source for this week: the opinions Thomas Jefferson and Alexander Hamilton wrote for President Washington about the national bank. Then answer both questions in your own words. Aim for four to six sentences each.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Both men are reading the same Constitution, but they follow different rules for deciding what Congress is allowed to do. Without copying their words, explain the rule each man is using, and tell which rule leaves Congress with more room to act.</li><li style=\"margin-bottom:8px;\">Washington read both opinions and then signed the bank bill. Explain why this decision mattered for Americans who lived long after 1791, not just for the government in that year.</li></ol><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 19
+  },
+  {
+   "id": "a13371",
+   "title": "Primary Source Exercise: The Alien and Sedition Acts (1798)",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#14254F; border-bottom:4px solid #C7922C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>FOUNDING ERA · PRIMARY SOURCE EXERCISE</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Exercise: The Alien and Sedition Acts (1798)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"height:12px; margin:2px 0 18px;  \"></div><div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-top:4px solid #A3431E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A3431E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Read the Alien and Sedition Acts. Then answer both questions in your own words, in four to six sentences each.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">The Sedition Act made it a crime to publish \"false\" writing against the government. The Federalists said they were punishing lies, not free speech. What idea about free speech were they relying on, and why would that idea be hard to use fairly when the country is afraid of war?</li><li style=\"margin-bottom:8px;\">Jefferson and Madison answered the Acts with the Kentucky and Virginia Resolutions. Why might their idea, that a state can judge a federal law for itself, matter for the United States long after 1798?</li></ol><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 19
+  },
+  {
+   "id": "a13374",
+   "title": "Critical Questions: Jefferson's First Inaugural Address (1801)",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#14254F; border-bottom:4px solid #C7922C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>FOUNDING ERA · CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Jefferson's First Inaugural Address (1801)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"height:12px; margin:2px 0 18px;  \"></div><div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-top:4px solid #A3431E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A3431E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Read the primary source for this week: Thomas Jefferson's First Inaugural Address. Then answer both questions in your own words. Aim for four to six sentences each.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Jefferson spoke to a country that had just come through a tie, 36 votes, and talk of force. Suppose his speech had attacked the Federalists as enemies of the republic instead of calling them fellow citizens. What might have happened next, and why?</li><li style=\"margin-bottom:8px;\">Why would later Americans care about a speech in which the winner of a bitter election speaks to the losers as part of the same nation? Explain why it matters beyond the year 1801.</li></ol><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 20
+  },
+  {
+   "id": "a13375",
+   "title": "Primary Source Report: Marshall in Marbury v. Madison (1803)",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#14254F; border-bottom:4px solid #C7922C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>FOUNDING ERA · PRIMARY SOURCE REPORT</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Report: Marshall in Marbury v. Madison (1803)</div><div style=\"font-size:15px; color:#F2C14E;\">16 points · Word document · one turn-in</div></div><div style=\"height:12px; margin:2px 0 18px;  \"></div><div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-top:4px solid #A3431E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A3431E; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Read the opinion excerpt from <em>Marbury v. Madison</em>. Then write a response of <strong>250 to 400 words</strong> in a Word document that answers both questions below. Use your own words and refer to the source and to the lessons.</p><ol style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Suppose Marshall had ordered Madison to deliver Marbury's commission. What would Jefferson likely have done, and what would that have meant for the Court?</li><li style=\"margin-bottom:8px;\">Why does the power Marshall claimed in this opinion matter to ordinary Americans today, not just to the government in 1803?</li></ol><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Your teacher will score your report with the rubric attached to this assignment: understanding of the material, quality of reasoning, clarity and precision of expression, and intellectual honesty. Intellectual honesty means telling what the source cannot show or what you are still unsure about.</p><h3 style=\"font-size:19px; color:#14254F; margin:16px 0 8px; line-height:1.3;\">M365 Skill Step</h3><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Before you submit, make sure you have:</p><ul style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">☐ Opened Word from your school Microsoft account (not a personal account)</li><li style=\"margin-bottom:8px;\">☐ Named your file: <strong>LastName_FirstName_MarburyReport_HIS7</strong></li><li style=\"margin-bottom:8px;\">☐ Saved it in OneDrive in the folder Optima → History → HIS7_2026-27 (create the folders if they are not there yet)</li><li style=\"margin-bottom:8px;\">☐ Checked that the file shows up in OneDrive</li><li style=\"margin-bottom:8px;\">☐ Uploaded it here using Submit Assignment, then File Upload</li></ul><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\"><strong>M365 Skill You're Practicing: Setting Line Spacing and Paragraph Spacing (Word).</strong> Select all of your text, open the Home tab, choose Line and Paragraph Spacing, and set double spacing before you save.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Need help with Word, OneDrive, or file names? Ask your teacher.</p></div><div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-top:4px solid #14254F; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#14254F; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E3D6C0; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Understanding of the material<br><span style=\" color:#5B5148;\">Shows accurate, specific knowledge of the source and the lessons.</span><br><span style=\"color:#A3431E;\">4.0 pts</span></th><td style=\"border:1px solid #E3D6C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Accurate and specific; uses details from the source and lessons well.</span></td><td style=\"border:1px solid #E3D6C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly accurate; some details used.</span></td><td style=\"border:1px solid #E3D6C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Partly accurate or general; few details.</span></td><td style=\"border:1px solid #E3D6C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Inaccurate or missing key ideas.</span></td></tr><tr><th style=\"border:1px solid #E3D6C0; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Quality of reasoning<br><span style=\" color:#5B5148;\">Explains why, and supports claims with evidence.</span><br><span style=\"color:#A3431E;\">4.0 pts</span></th><td style=\"border:1px solid #E3D6C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, well supported argument; considers cause, consequence, or alternatives.</span></td><td style=\"border:1px solid #E3D6C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Reasonable argument with some support.</span></td><td style=\"border:1px solid #E3D6C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Claims stated with little support.</span></td><td style=\"border:1px solid #E3D6C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">No clear reasoning.</span></td></tr><tr><th style=\"border:1px solid #E3D6C0; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Clarity and precision of expression<br><span style=\" color:#5B5148;\">Writes clearly, in complete sentences, in the student&amp;#39;s own words.</span><br><span style=\"color:#A3431E;\">4.0 pts</span></th><td style=\"border:1px solid #E3D6C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, precise, organized, in own words.</span></td><td style=\"border:1px solid #E3D6C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly clear; minor errors.</span></td><td style=\"border:1px solid #E3D6C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Often unclear or disorganized.</span></td><td style=\"border:1px solid #E3D6C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Hard to follow or copied.</span></td></tr><tr><th style=\"border:1px solid #E3D6C0; padding:8px; text-align:left; vertical-align:top; background:#FBF1DC; font-size:14px; width:22%;\">Intellectual honesty<br><span style=\" color:#5B5148;\">Names the limits of what the source or the student&amp;#39;s own knowledge can show.</span><br><span style=\"color:#A3431E;\">4.0 pts</span></th><td style=\"border:1px solid #E3D6C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Names what the source cannot tell us or what remains uncertain.</span></td><td style=\"border:1px solid #E3D6C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Shows some awareness of limits.</span></td><td style=\"border:1px solid #E3D6C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Little awareness of limits.</span></td><td style=\"border:1px solid #E3D6C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Overstates certainty.</span></td></tr></tbody></table></div></div>",
+   "points": 16.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag771",
+   "rubric": "r1212",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "allowed_extensions": "docx",
+   "omit_from_final_grade": false,
+   "week": 20
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q4890",
+   "title": "Founding Era Intro (Lessons F.1 and F.2): Why Did the Republic Split Into Two Parties?",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#14254F; border-bottom:4px solid #C7922C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>FOUNDING ERA · INTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Founding Era Intro: Why Did the Republic Split Into Two Parties?</div><div style=\"font-size:15px; color:#F2C14E;\">3 questions · 0 points · one attempt</div></div><div style=\"height:12px; margin:2px 0 18px;  \"></div><div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-top:4px solid #14254F; border-left:5px solid #A3431E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#14254F; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Before you start these lessons, answer three quick questions. There are no wrong answers. You will come back to the first question when you finish.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Start with <strong>Hamilton Builds a National Economy; Jefferson Organizes the Opposition</strong>.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "George Washington warned that \"party spirit\" could damage the new republic. Why do you think a republic might split into rival groups within just a few years? Answer in two or three sentences. You will revisit this answer at the end of these lessons.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "I have read the goals for these lessons: to explain how Hamilton and Jefferson disagreed about the Constitution, and how the Alien and Sedition Acts tested free speech.",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I am ready to begin",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet, I have a question",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "This quarter has an optional group capstone. Would you like to work in a group?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "No, I will work on my own",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Undecided",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 3,
+   "week": 19
+  },
+  {
+   "id": "q4891",
+   "title": "Reading Quiz: Lessons F.1 and F.2",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#14254F; border-bottom:4px solid #C7922C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>FOUNDING ERA · READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Hamilton Builds a National Economy; Jefferson Organizes the Opposition and Adams Avoids War with France; Federalists Silence Their Critics</div><div style=\"font-size:15px; color:#F2C14E;\">7 questions · 7 points · 2 attempts</div></div><div style=\"height:12px; margin:2px 0 18px;  \"></div><div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-top:4px solid #14254F; border-left:5px solid #A3431E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#14254F; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">This quiz covers <em>Hamilton Builds a National Economy; Jefferson Organizes the Opposition</em> and <em>Adams Avoids War with France; Federalists Silence Their Critics</em>. You may take it twice, and your higher score counts. Some questions ask you to put two or more facts together, so think before you answer.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 7.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag769",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Virginia had already paid most of its war debts by 1790. Based on this, which reaction to Hamilton's assumption plan would you expect from many Virginians?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They would welcome it, because it would lower their taxes to nothing.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They would ignore it, because it affected only the national government.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They would object, because their state would help pay other states' debts.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They would demand it, because Virginia was owed money by the other states.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In 1794, farmers in western Pennsylvania attacked tax collectors. Which fact about their lives best explains why the whiskey tax hurt them more than most Americans?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Hauling grain over the mountains cost too much, so they turned it into whiskey, which they also used like money.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They were mostly bankers who owned shares in the Bank of the United States.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They had fought for Britain in the Revolution and were taxed as a punishment.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They lived in cities where whiskey was the main product sold in stores.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Hamilton admitted the Constitution never mentions a national bank, yet he said Congress could create one. Which idea did his argument depend on?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The President may do anything that Congress has not forbidden.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The states had agreed to let Congress copy the banks of Britain.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Bill of Rights lets citizens vote on any new government agency.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress may use powers not listed if they help carry out powers that are listed.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In 1793, a merchant whose business depended on trade with Britain would most likely have supported which group, and why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Republicans, because they sympathized with Britain.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Federalists, because Hamilton and his friends favored Britain, the nation's biggest trading partner.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Republicans, because Jefferson wanted the Bank to help merchants.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Neither group, because Washington's neutrality banned all trade with Britain.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Jefferson and Madison believed the Sedition Act broke the Constitution, but they did not take the question to the Supreme Court. What was the best reason?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Supreme Court had not yet been created.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Constitution forbids the Court from hearing laws about speech.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Jefferson was afraid that Washington would overrule the Court.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Court was full of Federalists, so they expected it to side with the law.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which person would have been most likely to be charged under the Sedition Act of 1798?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A Republican newspaper editor who wrote harsh attacks on President Adams.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A Federalist newspaper editor who praised President Adams.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A French diplomat who refused to pay a bribe.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A sailor who criticized the British navy in a letter to his family.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The fight over the Bank and the fight over the Sedition Act were different disputes. What question lay underneath both of them?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Which party had more members in Congress?",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Whether the nation should side with Britain or France.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "How much power the Constitution really gives the federal government.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Whether Washington should serve a third term.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 7,
+   "week": 19
+  },
+  {
+   "id": "q4892",
+   "title": "Founding Era Outro (Lessons F.1 and F.2): Looking Back at the Two Parties",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#14254F; border-bottom:4px solid #C7922C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>FOUNDING ERA · OUTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Founding Era Outro: Looking Back at the Two Parties</div><div style=\"font-size:15px; color:#F2C14E;\">4 questions · 0 points · one attempt</div></div><div style=\"height:12px; margin:2px 0 18px;  \"></div><div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-top:4px solid #14254F; border-left:5px solid #A3431E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#14254F; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">You have finished these lessons and their work. Answer four short questions. Your answers help your teacher see where students feel strong and where more help is needed.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "At the start you answered this question: why might a republic split into rival groups within just a few years? Answer it again now in two or three sentences. If your answer changed, say what changed it.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How confident do you feel explaining the difference between Hamilton's and Jefferson's readings of the Constitution?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "1 - Not at all confident",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "2 - A little confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3 - Somewhat confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "4 - Mostly confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "5 - Very confident",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Which idea from these lessons is still unclear to you? It might be the assumption plan, the Bank, neutrality, the XYZ Affair, or the Alien and Sedition Acts. Say what you do not yet understand.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "John Adams chose peace with France even though his own party wanted war, and it cost him the next election. Which of these virtues did his choice require: courage, courtesy, honesty, perseverance, self-government, service, or responsibility? Explain in two or three sentences, and tell about a time you needed that same virtue.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4,
+   "week": 19
+  },
+  {
+   "id": "q4893",
+   "title": "Founding Era Intro (Lessons F.3 and F.4): Can a Republic Lose an Election and Walk Away?",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#14254F; border-bottom:4px solid #C7922C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>FOUNDING ERA · INTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Founding Era Intro: Can a Republic Lose an Election and Walk Away?</div><div style=\"font-size:15px; color:#F2C14E;\">3 questions · 0 points · one attempt</div></div><div style=\"height:12px; margin:2px 0 18px;  \"></div><div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-top:4px solid #14254F; border-left:5px solid #A3431E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#14254F; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Before you start these lessons, answer three quick questions. There are no wrong answers. You will come back to the first question when you finish.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Start with <strong>Jefferson Wins the Revolution of 1800</strong>.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "Imagine a country where two bitter rivals compete for power, and one of them loses. What might make the losers accept the result instead of fighting? Answer in two or three sentences. You will revisit this answer at the end of these lessons.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "I have read the goals for these lessons: to explain how the election of 1800 passed power peacefully, and how Chief Justice Marshall made the Supreme Court a strong, equal branch of government.",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I am ready to begin",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet, I have a question",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "This quarter has an optional group capstone. Would you like to work in a group?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "No, I will work on my own",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Undecided",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 3,
+   "week": 20
+  },
+  {
+   "id": "q4894",
+   "title": "Reading Quiz: Lessons F.3 and F.4",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#14254F; border-bottom:4px solid #C7922C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>FOUNDING ERA · READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Jefferson Wins the Revolution of 1800 and Marshall Builds a Strong Court and a Strong Nation</div><div style=\"font-size:15px; color:#F2C14E;\">7 questions · 7 points · 2 attempts</div></div><div style=\"height:12px; margin:2px 0 18px;  \"></div><div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-top:4px solid #14254F; border-left:5px solid #A3431E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#14254F; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">This quiz covers <em>Jefferson Wins the Revolution of 1800</em> and <em>Marshall Builds a Strong Court and a Strong Nation</em>. You may take it twice, and your higher score counts. Some questions ask you to put two or more facts together, so think before you answer.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 7.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag769",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "In the election of 1800 the Republicans clearly wanted Jefferson to be President, yet Jefferson and Burr tied with 73 votes each. What caused the tie?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Several Federalist electors voted for Burr to confuse the count.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Electors cast two votes with no separate vote for Vice President, and every Republican elector voted for both men.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The House of Representatives had already voted and could not agree.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Burr refused to accept the Vice Presidency and asked for a recount.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Hamilton disliked Jefferson's ideas, yet he urged Federalists in the House to support Jefferson over Burr. Which reason best explains his choice?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He hoped Jefferson would bring back the whiskey tax.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He had promised Adams that he would help Jefferson win.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He wanted to end the Twelfth Amendment as soon as possible.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He thought Burr had no principles and put the safety of the republic ahead of his party.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The three-fifths compromise was a formula for dividing up House seats and taxes among the states. How did it matter to the election of 1800?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It added seats and electors to the slaveholding states, which may have helped Jefferson defeat Adams.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It gave every state the same number of electors, which caused the tie.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It let each state decide whether to count its free citizens.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It was repealed in 1800, so it had no effect on the election.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In Marbury v. Madison, Marbury did not get his commission, yet people say Marshall won the larger fight. Why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He forced Madison to deliver every commission Adams had signed.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He convinced Jefferson to pardon the midnight judges.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He gave up a small power but claimed judicial review, the power to say a law is unconstitutional.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He ruled that the Supreme Court could be overruled by the President.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Jefferson did not like the way Marshall's Court claimed the final word on the Constitution. Which belief would Jefferson most likely have held?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Only state governors can decide what the Constitution allows.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Each branch of government, not just the Court, can judge what the Constitution allows.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Constitution should not be explained by anyone after it is ratified.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court should be abolished and replaced by Congress.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Maryland tried to tax the Baltimore branch of the Bank of the United States. Using Marshall's reasoning in McCulloch v. Maryland, why would that tax fail?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Banks are never allowed to be taxed.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Bank was owned by Maryland's own citizens.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress had no power to create the Bank in the first place.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The power to tax can become the power to destroy, and federal law is supreme over state law.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "A merchant in 1824 wants to ship goods by steamboat from New Jersey to New York. Which result of Gibbons v. Ogden helps the merchant most?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Each state may now set its own steamboat rules.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only New York may license steamboats on its waters.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress controls trade between the states, so one set of federal rules replaces many state rules.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Steamboats are not considered part of commerce.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 7,
+   "week": 20
+  },
+  {
+   "id": "q4895",
+   "title": "Founding Era Outro (Lessons F.3 and F.4): Looking Back at 1800 and the Court",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#14254F; border-bottom:4px solid #C7922C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>FOUNDING ERA · OUTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Founding Era Outro: Looking Back at 1800 and the Court</div><div style=\"font-size:15px; color:#F2C14E;\">4 questions · 0 points · one attempt</div></div><div style=\"height:12px; margin:2px 0 18px;  \"></div><div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-top:4px solid #14254F; border-left:5px solid #A3431E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#14254F; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">You have finished these lessons and their work. Answer four short questions. Your answers help your teacher see where students feel strong and where more help is needed.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "At the start you answered this question: what might make the losers of a bitter election accept the result instead of fighting? Answer it again now in two or three sentences. If your answer changed, say what changed it.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How confident do you feel explaining what judicial review is and how Marbury v. Madison created it?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "1 - Not at all confident",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "2 - A little confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3 - Somewhat confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "4 - Mostly confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "5 - Very confident",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Which idea from these lessons is still unclear to you? It might be the tie in 1800, the Twelfth Amendment, the midnight judges, judicial review, McCulloch, or Gibbons. Say what you do not yet understand.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Alexander Hamilton disliked Jefferson, yet he urged Federalists to support Jefferson because he feared Burr more. Which of these virtues did that choice require: courage, courtesy, honesty, perseverance, self-government, service, or responsibility? Explain in two or three sentences, and tell about a time you needed that same virtue.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4,
+   "week": 20
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d952",
+   "title": "Discussion: Hamilton vs. Jefferson, How Much Power Does the Constitution Give the Federal Government?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#14254F; border-bottom:4px solid #C7922C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>FOUNDING ERA · DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Hamilton vs. Jefferson, How Much Power Does the Constitution Give the Federal Government?</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written post and one reply · threaded discussion</div></div><div style=\"height:12px; margin:2px 0 18px;  \"></div><div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-top:4px solid #C7922C; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#C7922C; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The prompt</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Pick one side. Make one specific claim about how much power the Constitution gives the federal government. You may defend Hamilton's reading (Congress may use powers that help carry out its listed powers) or Jefferson's reading (Congress may use only the powers the Constitution lists). Use at least one fact from this week's lessons or primary sources to back your claim, and explain why that fact supports it. Write about 100 to 150 words.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Then do two things:</p><ol style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\"><strong>Reply to one classmate</strong> (about 50 to 100 words). If you agree, strengthen their reasoning with a new fact. If you disagree, respectfully explain where their reasoning falls short.</li><li style=\"margin-bottom:8px;\"><strong>Connect to today.</strong> In one or two sentences, name one decision the federal government makes today that people still argue about, and say which man's reading the people on one side of that argument seem to follow.</li></ol></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag770",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null,
+   "week": 19
+  },
+  {
+   "id": "d953",
+   "title": "Discussion: Why Is the Election of 1800 Called a Revolution?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#14254F; border-bottom:4px solid #C7922C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px;  color:#7FD3F0; margin-bottom:6px;\"><strong>FOUNDING ERA · DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Why Is the Election of 1800 Called a Revolution?</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written post and one reply · threaded discussion</div></div><div style=\"height:12px; margin:2px 0 18px;  \"></div><div style=\"background:#FFFFFF; border:1px solid #E3D6C0; border-top:4px solid #C7922C; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#C7922C; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The prompt</strong></div><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Thomas Jefferson later called the election of 1800 a revolution, yet no one was killed and no government was overthrown. Make one specific claim about what, if anything, was truly revolutionary about it. Use at least one fact from this week's lessons or sources to back your claim, and explain why that fact supports it. Write about 100 to 150 words.</p><p style=\"font-size:17px; color:#1F1A15; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate (about 50 to 100 words). If you agree, strengthen their reasoning with a new fact. If you disagree, respectfully explain where their reasoning falls short.</p></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag770",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null,
+   "week": 20
+  }
+ ],
+ "files": [],
+ "assignment_groups": [
+  {
+   "id": "ag769",
+   "title": "Tier 1: Student & Material",
+   "weight": 55.0,
+   "canvas_id": 769
+  },
+  {
+   "id": "ag770",
+   "title": "Tier 2: Student & Community",
+   "weight": 30.0,
+   "canvas_id": 770
+  },
+  {
+   "id": "ag771",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 15.0,
+   "canvas_id": 771
+  }
+ ],
+ "modules": [
+  {
+   "id": "m_sp_fe",
+   "title": "Founding Era: The Republic Learns to Disagree",
+   "published": true,
+   "items": [
+    {
+     "title": "Founding Era Intro (Lessons F.1 and F.2): Why Did the Republic Split Into Two Parties?",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4890",
+     "published": true,
+     "week": 19
+    },
+    {
+     "title": "Lesson F.1: Hamilton Builds a National Economy; Jefferson Organizes the Opposition",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-f-dot-1-hamilton-builds-a-national-economy-jefferson-organizes-the-opposition",
+     "published": true,
+     "week": 19,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Lesson F.2: Adams Avoids War with France; Federalists Silence Their Critics",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-f-dot-2-adams-avoids-war-with-france-federalists-silence-their-critics",
+     "published": true,
+     "week": 19,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 1: Opinions on the Constitutionality of a National Bank",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-1-opinions-on-the-constitutionality-of-a-national-bank",
+     "published": true,
+     "week": 19,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Hamilton and Jefferson on the National Bank (1791)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13370",
+     "published": true,
+     "week": 19
+    },
+    {
+     "title": "Primary Source 2: The Sedition Act",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-2-the-sedition-act",
+     "published": true,
+     "week": 19,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Exercise: The Alien and Sedition Acts (1798)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13371",
+     "published": true,
+     "week": 19
+    },
+    {
+     "title": "Discussion: Hamilton vs. Jefferson, How Much Power Does the Constitution Give the Federal Government?",
+     "indent": 0,
+     "type": "discussion",
+     "ref": "d952",
+     "published": true,
+     "week": 19
+    },
+    {
+     "title": "Reading Quiz: Lessons F.1 and F.2",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4891",
+     "published": true,
+     "week": 19
+    },
+    {
+     "title": "Founding Era Outro (Lessons F.1 and F.2): Looking Back at the Two Parties",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4892",
+     "published": true,
+     "week": 19
+    },
+    {
+     "title": "Founding Era Intro (Lessons F.3 and F.4): Can a Republic Lose an Election and Walk Away?",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4893",
+     "published": true,
+     "week": 20
+    },
+    {
+     "title": "Lesson F.3: Jefferson Wins the Revolution of 1800",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-f-dot-3-jefferson-wins-the-revolution-of-1800",
+     "published": true,
+     "week": 20,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Lesson F.4: Marshall Builds a Strong Court and a Strong Nation",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-f-dot-4-marshall-builds-a-strong-court-and-a-strong-nation",
+     "published": true,
+     "week": 20,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 1: First Inaugural Address (Jefferson, 1801)",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-1-first-inaugural-address-jefferson-1801",
+     "published": true,
+     "week": 20,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Jefferson's First Inaugural Address (1801)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13374",
+     "published": true,
+     "week": 20
+    },
+    {
+     "title": "Primary Source 2: Marbury v. Madison, opinion of the Court",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-2-marbury-v-madison-opinion-of-the-court",
+     "published": true,
+     "week": 20,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Report: Marshall in Marbury v. Madison (1803)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13375",
+     "published": true,
+     "week": 20
+    },
+    {
+     "title": "Discussion: Why Is the Election of 1800 Called a Revolution?",
+     "indent": 0,
+     "type": "discussion",
+     "ref": "d953",
+     "published": true,
+     "week": 20
+    },
+    {
+     "title": "Reading Quiz: Lessons F.3 and F.4",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4894",
+     "published": true,
+     "week": 20
+    },
+    {
+     "title": "Founding Era Outro (Lessons F.3 and F.4): Looking Back at 1800 and the Court",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4895",
+     "published": true,
+     "week": 20
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of M/J U.S. History 1492-Reconstruction, Spring. Read from Canvas course 289 (naming authority: titles, order, points, groups, quiz questions) with _build/pull_canvas.py on 2026-11-21; the sparkled module, not its \"(Unsparkled)\" twin. Item ids are the same as in 2100010-s2 (Civics precedent); weeks, published state and Mark as done taken from the s2 kit. Module number removed from student-facing module and intro/outro titles. Lessons are iframe pages on https://optimaondemand.github.io/mjushistory-lessons-spring/."
+ }
+}
