@@ -1,0 +1,1262 @@
+{
+ "course": {
+  "title": "07 MJ US Hist 1492-Recon Spring 2100010",
+  "code": "2100010",
+  "default_view": "wiki",
+  "canvas_id": 289,
+  "canvas_code": "07 1492-Recon",
+  "weighted": true
+ },
+ "rubrics": [
+  {
+   "id": "r1212",
+   "title": "Primary Source Report Rubric (16 pts)",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "Shows accurate, specific knowledge of the source and the lessons.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Accurate and specific; uses details from the source and lessons well.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly accurate; some details used.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Partly accurate or general; few details.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Inaccurate or missing key ideas.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "Explains why, and supports claims with evidence.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, well supported argument; considers cause, consequence, or alternatives.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Reasonable argument with some support.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Claims stated with little support.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "No clear reasoning.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision of expression",
+     "long_description": "Writes clearly, in complete sentences, in the student&#39;s own words.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, precise, organized, in own words.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly clear; minor errors.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Often unclear or disorganized.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Hard to follow or copied.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "Names the limits of what the source or the student&#39;s own knowledge can show.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Names what the source cannot tell us or what remains uncertain.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Shows some awareness of limits.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Little awareness of limits.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Overstates certainty.",
+       "points": 1.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_lesson-3-dot-1-jefferson-and-madison-grapple-with-a-troubling-inheritance",
+   "title": "Lesson 3.1: Jefferson and Madison Grapple with a Troubling Inheritance",
+   "slug": "lesson-3-dot-1-jefferson-and-madison-grapple-with-a-troubling-inheritance",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-24/lesson-24-2.html\" width=\"100%\" height=\"3088\" style=\"border: 0;\" title=\"Lesson 3.1: Jefferson and Madison Grapple with a Troubling Inheritance\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-1-declaration-of-sentiments",
+   "title": "Primary Source 1: Declaration of Sentiments",
+   "slug": "primary-source-1-declaration-of-sentiments",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-24/primary-source-1.html\" width=\"100%\" height=\"3051\" style=\"border: 0;\" title=\"Primary Source 1: Declaration of Sentiments\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-2-notes-on-the-state-of-virginia-query-xviii",
+   "title": "Primary Source 2: Notes on the State of Virginia, Query XVIII",
+   "slug": "primary-source-2-notes-on-the-state-of-virginia-query-xviii",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-24/primary-source-2.html\" width=\"100%\" height=\"3026\" style=\"border: 0;\" title=\"Primary Source 2: Notes on the State of Virginia, Query XVIII\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-3-dot-2-southerners-crown-cotton-king",
+   "title": "Lesson 3.2: Southerners Crown Cotton King",
+   "slug": "lesson-3-dot-2-southerners-crown-cotton-king",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-25/lesson-25-1.html\" width=\"100%\" height=\"3057\" style=\"border: 0;\" title=\"Lesson 3.2: Southerners Crown Cotton King\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-3-dot-3-calhoun-casts-vision-of-southern-society-and-the-peculiar-institution",
+   "title": "Lesson 3.3: Calhoun Casts Vision of Southern Society and the Peculiar Institution",
+   "slug": "lesson-3-dot-3-calhoun-casts-vision-of-southern-society-and-the-peculiar-institution",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-25/lesson-25-2.html\" width=\"100%\" height=\"3088\" style=\"border: 0;\" title=\"Lesson 3.3: Calhoun Casts Vision of Southern Society and the Peculiar Institution\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-1-twelve-years-a-slave",
+   "title": "Primary Source 1: Twelve Years a Slave",
+   "slug": "primary-source-1-twelve-years-a-slave",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-25/primary-source-1.html\" width=\"100%\" height=\"3051\" style=\"border: 0;\" title=\"Primary Source 1: Twelve Years a Slave\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-2-speech-on-the-reception-of-abolition-petitions",
+   "title": "Primary Source 2: Speech on the Reception of Abolition Petitions",
+   "slug": "primary-source-2-speech-on-the-reception-of-abolition-petitions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-25/primary-source-2.html\" width=\"100%\" height=\"3004\" style=\"border: 0;\" title=\"Primary Source 2: Speech on the Reception of Abolition Petitions\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-3-dot-4-southerners-take-texas",
+   "title": "Lesson 3.4: Southerners Take Texas",
+   "slug": "lesson-3-dot-4-southerners-take-texas",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-26/lesson-26-1.html\" width=\"100%\" height=\"3053\" style=\"border: 0;\" title=\"Lesson 3.4: Southerners Take Texas\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a13390",
+   "title": "Critical Questions: The Declaration of Sentiments (1848)",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#47331F; border-bottom:4px solid #C79D2C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 3 · CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: The Declaration of Sentiments (1848)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#C79D2C; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #497D44;\">❦ ❧ ❦</div><div style=\"background:#FFFFFF; border:1px solid #E3D9C0; border-top:4px solid #497D44; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#497D44; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Read the primary source for this week: the Declaration of Sentiments from the Seneca Falls convention. Then answer both questions in your own words. Aim for four to six sentences each.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">The demand for the vote was the hardest one to win at Seneca Falls, and it passed by a narrow margin. Suppose the convention had left it out and asked only for property rights, jobs, and education. How might the movement have changed, and why?</li><li style=\"margin-bottom:8px;\">Why did the writers copy the wording of the Declaration of Independence, and why does that choice matter for how later Americans argued for women's rights?</li></ol><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 24
+  },
+  {
+   "id": "a13391",
+   "title": "Primary Source Report: Jefferson on Slavery in Notes on the State of Virginia",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#47331F; border-bottom:4px solid #C79D2C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 3 · PRIMARY SOURCE REPORT</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Report: Jefferson on Slavery in Notes on the State of Virginia</div><div style=\"font-size:15px; color:#F2C14E;\">16 points · Word document · one turn-in</div></div><div style=\"text-align:center; color:#C79D2C; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #497D44;\">❦ ❧ ❦</div><div style=\"background:#FFFFFF; border:1px solid #E3D9C0; border-top:4px solid #497D44; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#497D44; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Read the excerpt from Thomas Jefferson's <em>Notes on the State of Virginia</em>, Query XVIII. Then write a response of <strong>250 to 400 words</strong> in a Word document that answers both questions below. Use your own words and refer to the source and to the lessons.</p><ol style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Jefferson wrote that slavery corrupts both master and slave and that he trembled for his country, yet he freed almost no one. Why does it matter, for people who read his words later, that a leading founder wrote them?</li><li style=\"margin-bottom:8px;\">Suppose Jefferson had used his fame to push for a plan of gradual emancipation in Virginia. What might have happened, and what would have made it hard?</li></ol><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Your teacher will score your report with the rubric attached to this assignment: understanding of the material, quality of reasoning, clarity and precision of expression, and intellectual honesty. Intellectual honesty means telling what the source cannot show or what you are still unsure about.</p><h3 style=\"font-size:19px; color:#47331F; margin:16px 0 8px; line-height:1.3;\">M365 Skill Step</h3><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Before you submit, make sure you have:</p><ul style=\"font-size:17px; color:%s; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">☐ Opened Word from your school Microsoft account (not a personal account)</li><li style=\"margin-bottom:8px;\">☐ Named your file as the next paragraph says</li><li style=\"margin-bottom:8px;\">☐ Saved it in OneDrive in the folder Optima → History → HIS7_2026-27 (create the folders if they are not there yet)</li><li style=\"margin-bottom:8px;\">☐ Uploaded it here using Submit Assignment, then File Upload</li></ul><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Name your file <strong>LastName_FirstName_JeffersonReport_HIS7</strong>, save it in your Optima → History → HIS7_2026-27 folder in OneDrive, and upload it here with Submit Assignment, then File Upload.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\"><strong>M365 Skill You're Practicing: Using Find and Replace (Word).</strong> Press Ctrl+H to open Find and Replace. Search for \"Jefferson\" to check that you spelled his name the same way every time.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Need help with Word, OneDrive, or file names? Ask your teacher.</p></div><div style=\"background:#FFFFFF; border:1px solid #E3D9C0; border-top:4px solid #47331F; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#47331F; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E3D9C0; padding:8px; text-align:left; vertical-align:top; background:#F3ECD8; font-size:14px; width:22%;\">Understanding of the material<br><span style=\"color:#5B5148;\">Shows accurate, specific knowledge of the source and the lessons.</span><br><span style=\"color:#497D44;\">4.0 pts</span></th><td style=\"border:1px solid #E3D9C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Accurate and specific; uses details from the source and lessons well.</span></td><td style=\"border:1px solid #E3D9C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly accurate; some details used.</span></td><td style=\"border:1px solid #E3D9C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Partly accurate or general; few details.</span></td><td style=\"border:1px solid #E3D9C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Inaccurate or missing key ideas.</span></td></tr><tr><th style=\"border:1px solid #E3D9C0; padding:8px; text-align:left; vertical-align:top; background:#F3ECD8; font-size:14px; width:22%;\">Quality of reasoning<br><span style=\"color:#5B5148;\">Explains why, and supports claims with evidence.</span><br><span style=\"color:#497D44;\">4.0 pts</span></th><td style=\"border:1px solid #E3D9C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, well supported argument; considers cause, consequence, or alternatives.</span></td><td style=\"border:1px solid #E3D9C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Reasonable argument with some support.</span></td><td style=\"border:1px solid #E3D9C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Claims stated with little support.</span></td><td style=\"border:1px solid #E3D9C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">No clear reasoning.</span></td></tr><tr><th style=\"border:1px solid #E3D9C0; padding:8px; text-align:left; vertical-align:top; background:#F3ECD8; font-size:14px; width:22%;\">Clarity and precision of expression<br><span style=\"color:#5B5148;\">Writes clearly, in complete sentences, in the student's own words.</span><br><span style=\"color:#497D44;\">4.0 pts</span></th><td style=\"border:1px solid #E3D9C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, precise, organized, in own words.</span></td><td style=\"border:1px solid #E3D9C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly clear; minor errors.</span></td><td style=\"border:1px solid #E3D9C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Often unclear or disorganized.</span></td><td style=\"border:1px solid #E3D9C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Hard to follow or copied.</span></td></tr><tr><th style=\"border:1px solid #E3D9C0; padding:8px; text-align:left; vertical-align:top; background:#F3ECD8; font-size:14px; width:22%;\">Intellectual honesty<br><span style=\"color:#5B5148;\">Names the limits of what the source or the student's own knowledge can show.</span><br><span style=\"color:#497D44;\">4.0 pts</span></th><td style=\"border:1px solid #E3D9C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Names what the source cannot tell us or what remains uncertain.</span></td><td style=\"border:1px solid #E3D9C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Shows some awareness of limits.</span></td><td style=\"border:1px solid #E3D9C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Little awareness of limits.</span></td><td style=\"border:1px solid #E3D9C0; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Overstates certainty.</span></td></tr></tbody></table></div></div>",
+   "points": 16.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag771",
+   "rubric": "r1212",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "allowed_extensions": "docx",
+   "omit_from_final_grade": false,
+   "week": 24
+  },
+  {
+   "id": "a13394",
+   "title": "Critical Questions: Solomon Northup, Twelve Years a Slave",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#47331F; border-bottom:4px solid #C79D2C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 3 · CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Solomon Northup, Twelve Years a Slave</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#C79D2C; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #497D44;\">❦ ❧ ❦</div><div style=\"background:#FFFFFF; border:1px solid #E3D9C0; border-top:4px solid #497D44; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#497D44; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Read the primary source for this week: an excerpt from Solomon Northup's <em>Twelve Years a Slave</em>. Then answer both questions in your own words. Aim for four to six sentences each.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Northup was a free man from New York who was kidnapped and sold in Louisiana. Using his account and the lesson <em>Southerners Crown Cotton King</em>, explain what conditions in the cotton South made buying and selling people so profitable that someone would kidnap a free man.</li><li style=\"margin-bottom:8px;\">Suppose cotton had stayed too hard to clean and the cotton gin had never been invented. How might the history of slavery in the South have been different, and what might have stayed the same?</li></ol><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 25
+  },
+  {
+   "id": "a13395",
+   "title": "Primary Source Exercise: Calhoun on Abolition Petitions (1837)",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#47331F; border-bottom:4px solid #C79D2C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 3 · PRIMARY SOURCE EXERCISE</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Exercise: Calhoun on Abolition Petitions (1837)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#C79D2C; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #497D44;\">❦ ❧ ❦</div><div style=\"background:#FFFFFF; border:1px solid #E3D9C0; border-top:4px solid #497D44; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#497D44; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Read the primary source: John C. Calhoun's speech on the reception of abolition petitions, 1837. Then answer both questions in your own words, in four to six sentences each.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Calhoun calls slavery a positive good. What events of the early 1830s, described in the lesson <em>Calhoun Casts Vision of Southern Society and the Peculiar Institution</em>, help explain why he and other Southern leaders changed their argument?</li><li style=\"margin-bottom:8px;\">Suppose Calhoun had argued for a gradual end to slavery, as Jefferson at least imagined. How might Southern thinking and later compromises have been different, and what might have made that path hard?</li></ol><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 25
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q4905",
+   "title": "Intro (Lessons 2.3 and 3.1): What Did Americans Mean by Progress, and Who Was Included?",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#47331F; border-bottom:4px solid #C79D2C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 3 · INTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 3 Intro: What Did Americans Mean by Progress, and Who Was Included?</div><div style=\"font-size:15px; color:#F2C14E;\">3 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#C79D2C; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #497D44;\">❦ ❧ ❦</div><div style=\"background:#FFFFFF; border:1px solid #E3D9C0; border-top:4px solid #47331F; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#47331F; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">This set of work covers <em>Writers and Reformers Work to Define Progress</em> and <em>Jefferson and Madison Grapple with a Troubling Inheritance</em>. If you have not finished <strong>Writers and Reformers Work to Define Progress</strong>, read it first. Then answer three quick questions. There are no wrong answers. You will come back to the first question when you finish.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Next up is <strong>Jefferson and Madison Grapple with a Troubling Inheritance</strong>.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "People in a country can disagree about what \"progress\" means. Why might a reform that helps one group still leave another group out? Answer in two or three sentences. You will revisit this answer at the end of these lessons.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "I have read the goals for these lessons: to explain how writers and reformers tried to define progress, and why the founders left the problem of slavery to later generations.",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I am ready to begin",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet, I have a question",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "This quarter has an optional group capstone. Would you like to work in a group?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "No, I will work on my own",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Undecided",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 3,
+   "week": 24
+  },
+  {
+   "id": "q4906",
+   "title": "Reading Quiz: Lessons 2.3 and 3.1",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#47331F; border-bottom:4px solid #C79D2C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 3 · READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Writers and Reformers Work to Define Progress and Jefferson and Madison Grapple with a Troubling Inheritance</div><div style=\"font-size:15px; color:#F2C14E;\">7 questions · 7 points · 2 attempts</div></div><div style=\"text-align:center; color:#C79D2C; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #497D44;\">❦ ❧ ❦</div><div style=\"background:#FFFFFF; border:1px solid #E3D9C0; border-top:4px solid #47331F; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#47331F; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">This quiz covers <em>Writers and Reformers Work to Define Progress</em> and <em>Jefferson and Madison Grapple with a Troubling Inheritance</em>. You may take it twice, and your higher score counts. Some questions ask you to put two or more facts together, so think before you answer.</p></div></div></div>",
+   "quiz_type": "assignment",
+   "points": 7.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag769",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Thoreau spent a night in jail for refusing to pay a poll tax. Which belief did that action show?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A person should openly refuse to obey a law he thinks is unjust and accept the punishment.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A person should never pay any tax.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A government should punish anyone who writes against it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A person should leave the country instead of protesting.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Emerson told readers to trust themselves and nature. How did Hawthorne and Melville differ from him?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They thought nature taught nothing.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They agreed with Emerson in every way.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They warned that people are not as perfect as the optimists believed, writing about guilt and pride.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They wanted everyone to move to Walden Pond.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Most utopian communities, such as Brook Farm, did not last. Which reason from the lesson explains why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Congress passed a law against them.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They were burned down by neighbors.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Their members all wanted to be preachers.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Sharing everything is hard when people have different goals and work habits, and a community that cannot feed itself cannot stay together.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The Declaration of Sentiments copied the language of the Declaration of Independence. What was the best reason for that choice?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The writers had no ideas of their own.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It argued that \"all men and women are created equal\" and listed wrongs the way the colonists had, so the nation's own promise could be used for women.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It showed that women had signed the first Declaration.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It was required by Congress.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Horace Mann pushed for free common schools. What was his main reason?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He wanted to end all private schools.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He wanted to make wealthy families pay for every school.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He believed a republic needs educated citizens, and that rich and poor children learning side by side would grow up to be better citizens.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He wanted to train workers only for the Lowell mills.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which pair of facts led many founders to hope that slavery might fade away on its own?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Tobacco prices were rising and Congress had just banned all slavery.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Most Northern states had already ended slavery and the South agreed to do the same.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Northwest Ordinance applied to Virginia and the Constitution banned the slave trade immediately.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Tobacco was wearing out Virginia's soil, and Congress could end the slave trade in 1808.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Jefferson wrote that \"we have the wolf by the ear, and we can neither hold him, nor safely let him go.\" What did he mean?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Slavery was wrong, but he could see no safe way to end it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He was afraid of animals on his farm.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He thought slavery would end soon without any action.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He believed Northern states should be forced to take slaves.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 7,
+   "week": 24
+  },
+  {
+   "id": "q4907",
+   "title": "Outro (Lessons 2.3 and 3.1): Looking Back at Progress and the Founders' Inheritance",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#47331F; border-bottom:4px solid #C79D2C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 3 · OUTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 3 Outro: Looking Back at Progress and the Founders' Inheritance</div><div style=\"font-size:15px; color:#F2C14E;\">4 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#C79D2C; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #497D44;\">❦ ❧ ❦</div><div style=\"background:#FFFFFF; border:1px solid #E3D9C0; border-top:4px solid #47331F; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#47331F; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">You have finished these lessons and their work. Answer four short questions. Your answers help your teacher see where students feel strong and where more help is needed.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "At the start you answered this question: why might a reform that helps one group still leave another group out? Answer it again now in two or three sentences. If your answer changed, say what changed it.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How confident do you feel explaining why Jefferson and Madison did not end slavery?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "1 - Not at all confident",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "2 - A little confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3 - Somewhat confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "4 - Mostly confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "5 - Very confident",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Which idea from these lessons is still unclear to you? It might be Transcendentalism, civil disobedience, utopian communities, the Declaration of Sentiments, or colonization. Say what you do not yet understand.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Dorothea Dix spent years visiting jails and poorhouses to report what she saw, until states built hospitals. Which of these virtues did her work require: courage, courtesy, honesty, perseverance, self-government, service, or responsibility? Explain in two or three sentences, and tell about a time you needed that same virtue.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4,
+   "week": 24
+  },
+  {
+   "id": "q4908",
+   "title": "Intro (Lessons 3.2 and 3.3): Why Did Leaders Who Once Called Slavery a Wrong Begin to Call It Good?",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#47331F; border-bottom:4px solid #C79D2C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 3 · INTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 3 Intro: Why Did Leaders Who Once Called Slavery a Wrong Begin to Call It Good?</div><div style=\"font-size:15px; color:#F2C14E;\">3 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#C79D2C; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #497D44;\">❦ ❧ ❦</div><div style=\"background:#FFFFFF; border:1px solid #E3D9C0; border-top:4px solid #47331F; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#47331F; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Before you start these lessons, answer three quick questions. There are no wrong answers. You will come back to the first question when you finish.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Start with <strong>Southerners Crown Cotton King</strong>.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "Sometimes people who once admitted that something was wrong later defend it as right. What might push people to change their argument in that way? Answer in two or three sentences. You will revisit this answer at the end of these lessons.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "I have read the goals for these lessons: to explain how cotton made slavery grow, and why Southern leaders changed their argument from slavery as a tolerated evil to slavery as a positive good.",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I am ready to begin",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet, I have a question",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "This quarter has an optional group capstone. Would you like to work in a group?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "No, I will work on my own",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Undecided",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 3,
+   "week": 25
+  },
+  {
+   "id": "q4909",
+   "title": "Reading Quiz: Lessons 3.2 and 3.3",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#47331F; border-bottom:4px solid #C79D2C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 3 · READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Southerners Crown Cotton King and Calhoun Casts Vision of Southern Society and the Peculiar Institution</div><div style=\"font-size:15px; color:#F2C14E;\">7 questions · 7 points · 2 attempts</div></div><div style=\"text-align:center; color:#C79D2C; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #497D44;\">❦ ❧ ❦</div><div style=\"background:#FFFFFF; border:1px solid #E3D9C0; border-top:4px solid #47331F; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#47331F; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">This quiz covers <em>Southerners Crown Cotton King</em> and <em>Calhoun Casts Vision of Southern Society and the Peculiar Institution</em>. You may take it twice, and your higher score counts. Some questions ask you to put two or more facts together, so think before you answer.</p></div></div></div>",
+   "quiz_type": "assignment",
+   "points": 7.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag769",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Eli Whitney's cotton gin saved labor, yet slavery grew after it was invented. What best explains this?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The gin broke often and needed many workers to repair it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The gin cleaned the cotton, but planting and picking were still done by hand, and cotton became so profitable that planters wanted more land and more slave workers.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The gin was too expensive, so planters bought more slaves instead.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress required every planter to own a gin and a slave.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Congress banned the import of slaves from Africa in 1808, yet about a million slaves were sold or moved within the country by 1860. What best explains this?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Slaves were moved because Congress ordered them to move.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Slaves were sold mainly to Northern factories.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Slaves were moved because of the end of cotton farming.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Demand for workers in the new cotton lands was growing, while Virginia and Maryland had more slaves than their farms needed.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which fact shows that the cotton economy did not belong to the South alone?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Northern banks, shippers, and insurance companies took part in the cotton trade, and Northern and British mills bought the cotton.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Cotton was never grown in Florida.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Northern states passed laws forbidding the use of cotton.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only Southern mills made cloth.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "What was one main effect of Nat Turner's revolt on Southern law?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Virginia ended slavery within a year.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Southern states made it easier to teach slaves to read.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Fear led many Southern states to pass harsher laws, such as making it a crime to teach slaves to read.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Northern states agreed to return all runaways at once.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Once Southern leaders began calling slavery a positive good, why did compromise with the North get harder?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Earlier compromises treated slavery as a tolerated evil that would fade, and now compromise would mean protecting something the South called good and permanent.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The North no longer cared about slavery.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress lost the power to make compromises.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The South had stopped sending senators to Washington.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "John Quincy Adams fought the gag rule for eight years. Why did the rule make some Northerners worry about their own freedoms?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It required Northerners to keep slaves.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It blocked the right of petition, which the First Amendment protects, and not only for abolitionists.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It ended the House of Representatives.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It took away the vote from Northern citizens.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which statement from Calhoun's argument is an opinion rather than a fact that can be checked?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Calhoun gave a Senate speech on February 6, 1837.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Southerners adopted many of Calhoun's arguments.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Slaves in the South were better off than factory workers in the North.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Slavery was part of the economies of many ancient civilizations.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 7,
+   "week": 25
+  },
+  {
+   "id": "q4910",
+   "title": "Outro (Lessons 3.2 and 3.3): Looking Back at Cotton and the New Southern Argument",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#47331F; border-bottom:4px solid #C79D2C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 3 · OUTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 3 Outro: Looking Back at Cotton and the New Southern Argument</div><div style=\"font-size:15px; color:#F2C14E;\">4 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#C79D2C; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #497D44;\">❦ ❧ ❦</div><div style=\"background:#FFFFFF; border:1px solid #E3D9C0; border-top:4px solid #47331F; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#47331F; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">You have finished these lessons and their work. Answer four short questions. Your answers help your teacher see where students feel strong and where more help is needed.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "At the start you answered this question: what might push people who once called something wrong to defend it as right? Answer it again now in two or three sentences. If your answer changed, say what changed it.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How confident do you feel explaining how the cotton gin made slavery grow?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "1 - Not at all confident",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "2 - A little confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3 - Somewhat confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "4 - Mostly confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "5 - Very confident",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Which idea from these lessons is still unclear to you? It might be the domestic slave trade, the Cotton Kingdom, the peculiar institution, the positive good argument, or the gag rule. Say what you do not yet understand.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "John Quincy Adams fought the gag rule in the House for eight years before it was repealed. Which of these virtues did his fight require: courage, courtesy, honesty, perseverance, self-government, service, or responsibility? Explain in two or three sentences, and tell about a time you needed that same virtue.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4,
+   "week": 25
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d957",
+   "title": "Discussion: Jefferson's Dilemma, Holding \"a Wolf by the Ear\"",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#47331F; border-bottom:4px solid #C79D2C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 3 · DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Jefferson's Dilemma, Holding \"a Wolf by the Ear\"</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written post and one reply · threaded discussion</div></div><div style=\"text-align:center; color:#C79D2C; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #497D44;\">❦ ❧ ❦</div><div style=\"background:#FFFFFF; border:1px solid #E3D9C0; border-top:4px solid #C79D2C; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#C79D2C; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The prompt</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Jefferson called slavery \"a wolf by the ear\": wrong to hold, but dangerous to let go. Historians disagree about whether Jefferson and Madison could have found a safe way to end slavery, or whether they simply did not try hard enough. Make one specific claim about which view the evidence supports better. Use at least one fact from this week's lessons or sources to back your claim, and explain why that fact supports it. Write about 100 to 150 words.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate (about 50 to 100 words). If you agree, strengthen their reasoning with a new fact. If you disagree, respectfully explain where their reasoning falls short.</p></div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag770",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null,
+   "week": 24
+  },
+  {
+   "id": "d958",
+   "title": "Discussion: Calhoun's \"Positive Good,\" Why Did the South's Argument Change?",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#47331F; border-bottom:4px solid #C79D2C; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 3 · DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Calhoun's \"Positive Good,\" Why Did the South's Argument Change?</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written post and one reply · threaded discussion</div></div><div style=\"text-align:center; color:#C79D2C; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #497D44;\">❦ ❧ ❦</div><div style=\"background:#FFFFFF; border:1px solid #E3D9C0; border-top:4px solid #C79D2C; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#C79D2C; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The prompt</strong></div><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">In Jefferson's time many Southern leaders called slavery a wrong they did not know how to end. By the 1830s Calhoun called it a positive good. Make one specific claim about which cause mattered most in that change: the profits of cotton, the fear after Nat Turner's revolt, the growth of the abolitionist movement, or something else. Use at least one fact from this week's lessons or sources to back your claim, and explain why that fact supports it. Write about 100 to 150 words.</p><p style=\"font-size:17px; color:#1F1B15; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate (about 50 to 100 words). If you agree, strengthen their reasoning with a new fact. If you disagree, respectfully explain where their reasoning falls short.</p></div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag770",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null,
+   "week": 25
+  }
+ ],
+ "files": [],
+ "assignment_groups": [
+  {
+   "id": "ag769",
+   "title": "Tier 1: Student & Material",
+   "weight": 55.0,
+   "canvas_id": 769
+  },
+  {
+   "id": "ag770",
+   "title": "Tier 2: Student & Community",
+   "weight": 30.0,
+   "canvas_id": 770
+  },
+  {
+   "id": "ag771",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 15.0,
+   "canvas_id": 771
+  }
+ ],
+ "modules": [
+  {
+   "id": "m_sp_3",
+   "title": "The South Embraces Hierarchy and Tradition",
+   "published": true,
+   "items": [
+    {
+     "title": "Intro (Lessons 2.3 and 3.1): What Did Americans Mean by Progress, and Who Was Included?",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4905",
+     "published": true,
+     "week": 24
+    },
+    {
+     "title": "Lesson 3.1: Jefferson and Madison Grapple with a Troubling Inheritance",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-3-dot-1-jefferson-and-madison-grapple-with-a-troubling-inheritance",
+     "published": true,
+     "week": 24,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 1: Declaration of Sentiments",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-1-declaration-of-sentiments",
+     "published": true,
+     "week": 24,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: The Declaration of Sentiments (1848)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13390",
+     "published": true,
+     "week": 24
+    },
+    {
+     "title": "Primary Source 2: Notes on the State of Virginia, Query XVIII",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-2-notes-on-the-state-of-virginia-query-xviii",
+     "published": true,
+     "week": 24,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Report: Jefferson on Slavery in Notes on the State of Virginia",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13391",
+     "published": true,
+     "week": 24
+    },
+    {
+     "title": "Discussion: Jefferson's Dilemma, Holding \"a Wolf by the Ear\"",
+     "indent": 0,
+     "type": "discussion",
+     "ref": "d957",
+     "published": true,
+     "week": 24
+    },
+    {
+     "title": "Reading Quiz: Lessons 2.3 and 3.1",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4906",
+     "published": true,
+     "week": 24
+    },
+    {
+     "title": "Outro (Lessons 2.3 and 3.1): Looking Back at Progress and the Founders' Inheritance",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4907",
+     "published": true,
+     "week": 24
+    },
+    {
+     "title": "Intro (Lessons 3.2 and 3.3): Why Did Leaders Who Once Called Slavery a Wrong Begin to Call It Good?",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4908",
+     "published": true,
+     "week": 25
+    },
+    {
+     "title": "Lesson 3.2: Southerners Crown Cotton King",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-3-dot-2-southerners-crown-cotton-king",
+     "published": true,
+     "week": 25,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Lesson 3.3: Calhoun Casts Vision of Southern Society and the Peculiar Institution",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-3-dot-3-calhoun-casts-vision-of-southern-society-and-the-peculiar-institution",
+     "published": true,
+     "week": 25,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 1: Twelve Years a Slave",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-1-twelve-years-a-slave",
+     "published": true,
+     "week": 25,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Solomon Northup, Twelve Years a Slave",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13394",
+     "published": true,
+     "week": 25
+    },
+    {
+     "title": "Primary Source 2: Speech on the Reception of Abolition Petitions",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-2-speech-on-the-reception-of-abolition-petitions",
+     "published": true,
+     "week": 25,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Exercise: Calhoun on Abolition Petitions (1837)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13395",
+     "published": true,
+     "week": 25
+    },
+    {
+     "title": "Discussion: Calhoun's \"Positive Good,\" Why Did the South's Argument Change?",
+     "indent": 0,
+     "type": "discussion",
+     "ref": "d958",
+     "published": true,
+     "week": 25
+    },
+    {
+     "title": "Reading Quiz: Lessons 3.2 and 3.3",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4909",
+     "published": true,
+     "week": 25
+    },
+    {
+     "title": "Outro (Lessons 3.2 and 3.3): Looking Back at Cotton and the New Southern Argument",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4910",
+     "published": true,
+     "week": 25
+    },
+    {
+     "title": "Lesson 3.4: Southerners Take Texas",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-3-dot-4-southerners-take-texas",
+     "published": true,
+     "week": 26,
+     "completion": "must_mark_done"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of M/J U.S. History 1492-Reconstruction, Spring. Read from Canvas course 289 (naming authority: titles, order, points, groups, quiz questions) with _build/pull_canvas.py on 2026-11-21; the sparkled module, not its \"(Unsparkled)\" twin. Item ids are the same as in 2100010-s2 (Civics precedent); weeks, published state and Mark as done taken from the s2 kit. Module number removed from student-facing module and intro/outro titles. Lessons are iframe pages on https://optimaondemand.github.io/mjushistory-lessons-spring/."
+ }
+}

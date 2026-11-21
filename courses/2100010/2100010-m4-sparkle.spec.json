@@ -1,0 +1,2261 @@
+{
+ "course": {
+  "title": "07 MJ US Hist 1492-Recon Spring 2100010",
+  "code": "2100010",
+  "default_view": "wiki",
+  "canvas_id": 289,
+  "canvas_code": "07 1492-Recon",
+  "weighted": true
+ },
+ "rubrics": [
+  {
+   "id": "r1212",
+   "title": "Primary Source Report Rubric (16 pts)",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "Shows accurate, specific knowledge of the source and the lessons.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Accurate and specific; uses details from the source and lessons well.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly accurate; some details used.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Partly accurate or general; few details.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Inaccurate or missing key ideas.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "Explains why, and supports claims with evidence.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, well supported argument; considers cause, consequence, or alternatives.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Reasonable argument with some support.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Claims stated with little support.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "No clear reasoning.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision of expression",
+     "long_description": "Writes clearly, in complete sentences, in the student&#39;s own words.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, precise, organized, in own words.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly clear; minor errors.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Often unclear or disorganized.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Hard to follow or copied.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "Names the limits of what the source or the student&#39;s own knowledge can show.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Names what the source cannot tell us or what remains uncertain.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Shows some awareness of limits.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Little awareness of limits.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Overstates certainty.",
+       "points": 1.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r1396",
+   "title": "Capstone Rubric (40 pts)",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "Facts, names, dates, and causes are accurate and drawn from the lessons and sources.",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Accurate and specific; the quarter's main ideas are clear.",
+       "points": 10.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly accurate; some details used.",
+       "points": 8.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Partly accurate or general; few details.",
+       "points": 6.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Inaccurate or missing key ideas.",
+       "points": 3.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "Explains why, supports claims with specific evidence, and considers what else could have happened.",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, well supported; cause and effect explained; the \"what if\" is realistic and shows what would have been hard.",
+       "points": 10.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Reasonable argument with some support.",
+       "points": 8.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Claims stated with little support.",
+       "points": 6.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "No clear reasoning.",
+       "points": 3.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision of expression",
+     "long_description": "Organized, in the student&#39;s own words, correct terms, tidy Word formatting.",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, precise, organized, in own words; headings and table work well.",
+       "points": 10.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly clear; minor errors.",
+       "points": 8.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Often unclear or disorganized.",
+       "points": 6.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Hard to follow.",
+       "points": 3.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "Names what the sources cannot show, what is uncertain, and where reasonable people disagree.",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Names specific limits of the sources or real disagreements.",
+       "points": 10.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Names a limit in a general way.",
+       "points": 8.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Gestures at uncertainty without saying what.",
+       "points": 6.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "No acknowledgment of limits.",
+       "points": 3.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_lesson-4-dot-1-clays-missouri-compromise-maintains-the-balance-of-free-and-slave-states",
+   "title": "Lesson 4.1: Clay’s Missouri Compromise Maintains the Balance of Free and Slave States",
+   "slug": "lesson-4-dot-1-clays-missouri-compromise-maintains-the-balance-of-free-and-slave-states",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-26/lesson-26-2.html\" width=\"100%\" height=\"3088\" style=\"border: 0;\" title=\"Lesson 4.1: Clay’s Missouri Compromise Maintains the Balance of Free and Slave States\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-1-constitution-of-the-republic-of-texas-general-provisions",
+   "title": "Primary Source 1: Constitution of the Republic of Texas, General Provisions",
+   "slug": "primary-source-1-constitution-of-the-republic-of-texas-general-provisions",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-26/primary-source-1.html\" width=\"100%\" height=\"3054\" style=\"border: 0;\" title=\"Primary Source 1: Constitution of the Republic of Texas, General Provisions\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-2-letter-to-john-holmes",
+   "title": "Primary Source 2: Letter to John Holmes",
+   "slug": "primary-source-2-letter-to-john-holmes",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-26/primary-source-2.html\" width=\"100%\" height=\"3051\" style=\"border: 0;\" title=\"Primary Source 2: Letter to John Holmes\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-4-dot-2-south-carolina-nullifies-tariffs-and-threatens-secession-jackson-threatens-force-clay-makes-peace",
+   "title": "Lesson 4.2: South Carolina Nullifies Tariffs and Threatens Secession; Jackson Threatens Force; Clay Makes Peace",
+   "slug": "lesson-4-dot-2-south-carolina-nullifies-tariffs-and-threatens-secession-jackson-threatens-force-clay-makes-peace",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-27/lesson-27-1.html\" width=\"100%\" height=\"3073\" style=\"border: 0;\" title=\"Lesson 4.2: South Carolina Nullifies Tariffs and Threatens Secession; Jackson Threatens Force; Clay Makes Peace\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-4-dot-3-polk-brings-texas-into-the-union-and-the-u-dot-s-into-war-with-mexico",
+   "title": "Lesson 4.3: Polk Brings Texas into the Union and the U.S. into War with Mexico",
+   "slug": "lesson-4-dot-3-polk-brings-texas-into-the-union-and-the-u-dot-s-into-war-with-mexico",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-27/lesson-27-2.html\" width=\"100%\" height=\"3059\" style=\"border: 0;\" title=\"Lesson 4.3: Polk Brings Texas into the Union and the U.S. into War with Mexico\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-1-proclamation-to-the-people-of-south-carolina",
+   "title": "Primary Source 1: Proclamation to the People of South Carolina",
+   "slug": "primary-source-1-proclamation-to-the-people-of-south-carolina",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-27/primary-source-1.html\" width=\"100%\" height=\"3026\" style=\"border: 0;\" title=\"Primary Source 1: Proclamation to the People of South Carolina\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-2-special-message-to-congress-on-mexican-relations",
+   "title": "Primary Source 2: Special Message to Congress on Mexican Relations",
+   "slug": "primary-source-2-special-message-to-congress-on-mexican-relations",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-27/primary-source-2.html\" width=\"100%\" height=\"3004\" style=\"border: 0;\" title=\"Primary Source 2: Special Message to Congress on Mexican Relations\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-4-dot-4-clay-and-webster-compromise-on-california",
+   "title": "Lesson 4.4: Clay and Webster Compromise on California",
+   "slug": "lesson-4-dot-4-clay-and-webster-compromise-on-california",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-28/lesson-28-1.html\" width=\"100%\" height=\"3165\" style=\"border: 0;\" title=\"Lesson 4.4: Clay and Webster Compromise on California\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a13398",
+   "title": "Critical Questions: The Constitution of the Republic of Texas (1836)",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#2A3C53; border-bottom:4px solid #BD9D36; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 4 · CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: The Constitution of the Republic of Texas (1836)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#BD9D36; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #7E932E;\">≡ ∴ ≡</div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #7E932E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#5F6E22; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Read the primary source for this week: the General Provisions of the Constitution of the Republic of Texas. Then answer both questions in your own words. Aim for four to six sentences each.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">The Texas constitution protected slavery and barred free Black people from living in Texas without special permission. Using the document and the lesson <em>Southerners Take Texas</em>, explain what events and choices led Texans to write these rules into their constitution.</li><li style=\"margin-bottom:8px;\">The authors of this constitution had just fought a revolution to free themselves from Mexico, yet they protected slavery. What idea about liberty are they relying on, and what tension does it show with the claim that all men are created equal?</li></ol><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 26
+  },
+  {
+   "id": "a13399",
+   "title": "Primary Source Report: Jefferson's Letter to John Holmes (1820)",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#2A3C53; border-bottom:4px solid #BD9D36; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 4 · PRIMARY SOURCE REPORT</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Report: Jefferson's Letter to John Holmes (1820)</div><div style=\"font-size:15px; color:#F2C14E;\">16 points · Word document · one turn-in</div></div><div style=\"text-align:center; color:#BD9D36; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #7E932E;\">≡ ∴ ≡</div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #7E932E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#5F6E22; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Read Thomas Jefferson's 1820 letter to John Holmes about the Missouri question. Then write a response of <strong>250 to 400 words</strong> in a Word document that answers both questions below. Use your own words and refer to the source and to the lessons.</p><ol style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">What did Jefferson think the Missouri Compromise showed about where the country was heading, and what developments in the years before 1820 led him to that fear?</li><li style=\"margin-bottom:8px;\">Explain in your own words why a division that follows a line on the map can be more dangerous than an ordinary disagreement.</li></ol><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Your teacher will score your report with the rubric attached to this assignment: understanding of the material, quality of reasoning, clarity and precision of expression, and intellectual honesty. Intellectual honesty means telling what the source cannot show or what you are still unsure about.</p><h3 style=\"font-size:19px; color:#2A3C53; margin:16px 0 8px; line-height:1.3;\">M365 Skill Step</h3><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Name your file <strong>LastName_FirstName_HolmesReport_HIS7</strong>, save it in your Optima → History → HIS7_2026-27 folder in OneDrive, and upload it here with Submit Assignment, then File Upload.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\"><strong>M365 Skill You're Practicing: Using Word Count (Word).</strong> Open the Review tab and choose Word Count. Check that your report is between 250 and 400 words before you submit.</p></div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2A3C53; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2A3C53; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#F4EEDB; font-size:14px; width:22%;\">Understanding of the material<br><span style=\" color:#5B5148;\">Shows accurate, specific knowledge of the source and the lessons.</span><br><span style=\"color:#5F6E22;\">4.0 pts</span></th><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Accurate and specific; uses details from the source and lessons well.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly accurate; some details used.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Partly accurate or general; few details.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Inaccurate or missing key ideas.</span></td></tr><tr><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#F4EEDB; font-size:14px; width:22%;\">Quality of reasoning<br><span style=\" color:#5B5148;\">Explains why, and supports claims with evidence.</span><br><span style=\"color:#5F6E22;\">4.0 pts</span></th><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, well supported argument; considers cause, consequence, or alternatives.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Reasonable argument with some support.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Claims stated with little support.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">No clear reasoning.</span></td></tr><tr><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#F4EEDB; font-size:14px; width:22%;\">Clarity and precision of expression<br><span style=\" color:#5B5148;\">Writes clearly, in complete sentences, in the student's own words.</span><br><span style=\"color:#5F6E22;\">4.0 pts</span></th><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, precise, organized, in own words.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly clear; minor errors.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Often unclear or disorganized.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Hard to follow or copied.</span></td></tr><tr><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#F4EEDB; font-size:14px; width:22%;\">Intellectual honesty<br><span style=\" color:#5B5148;\">Names the limits of what the source or the student's own knowledge can show.</span><br><span style=\"color:#5F6E22;\">4.0 pts</span></th><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Names what the source cannot tell us or what remains uncertain.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Shows some awareness of limits.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Little awareness of limits.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Overstates certainty.</span></td></tr></tbody></table></div></div>",
+   "points": 16.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag771",
+   "rubric": "r1212",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "allowed_extensions": "docx",
+   "omit_from_final_grade": false,
+   "week": 26
+  },
+  {
+   "id": "a13402",
+   "title": "Critical Questions: Jackson's Proclamation to the People of South Carolina (1832)",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#2A3C53; border-bottom:4px solid #BD9D36; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 4 · CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Jackson's Proclamation to the People of South Carolina (1832)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#BD9D36; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #7E932E;\">≡ ∴ ≡</div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #7E932E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#5F6E22; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Read the primary source for this week: President Jackson's Proclamation to the People of South Carolina. Then answer both questions in your own words. Aim for four to six sentences each.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Jackson says the Union is older than the Constitution and cannot be broken up by one state. What idea about what the United States is does he rely on, and how is it different from Calhoun's idea?</li><li style=\"margin-bottom:8px;\">Why does it matter for later crises that a President declared in 1832 that disunion by armed force is treason?</li></ol><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 27
+  },
+  {
+   "id": "a13403",
+   "title": "Primary Source Exercise: Polk's War Message to Congress (1846)",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#2A3C53; border-bottom:4px solid #BD9D36; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 4 · PRIMARY SOURCE EXERCISE</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Exercise: Polk's War Message to Congress (1846)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#BD9D36; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #7E932E;\">≡ ∴ ≡</div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #7E932E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#5F6E22; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Read the primary source: President Polk's War Message to Congress, 1846. Then answer both questions in your own words, in four to six sentences each.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Polk says Mexico \"shed American blood upon the American soil.\" What idea is he using to justify war, and what question about the border does his claim leave out?</li><li style=\"margin-bottom:8px;\">Why did the question of slavery in the land won from Mexico matter beyond the war itself?</li></ol><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 27
+  },
+  {
+   "id": "a14374",
+   "title": "Quarter 3 Capstone: Crossroads, A Turning-Point Dossier",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#2A3C53; border-bottom:4px solid #BD9D36; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>QUARTER 3 · CAPSTONE</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Quarter 3 Capstone: Crossroads, A Turning-Point Dossier</div><div style=\"font-size:15px; color:#F2C14E;\">40 points · Word document · one turn-in</div></div><div style=\"text-align:center; color:#BD9D36; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #7E932E;\">≡ ∴ ≡</div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2A3C53; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2A3C53; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>What you are doing</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">All quarter you have followed a young republic as it made choices about money, land, power, and freedom. Each choice settled one question and opened a bigger one. For this Capstone you will pick one turning point and build a dossier about it: a short, organized Word document that explains what happened, shows how it could have gone another way, and traces what it left unresolved.</p></div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #BD9D36; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#BD9D36; color:#1E1B16; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Choose one turning point</strong></div><ul style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Hamilton's plan for the national bank and the debt</li><li style=\"margin-bottom:8px;\">The Alien and Sedition Acts and the election of 1800</li><li style=\"margin-bottom:8px;\"><em>Marbury v. Madison</em> and <em>McCulloch v. Maryland</em></li><li style=\"margin-bottom:8px;\">The Louisiana Purchase</li><li style=\"margin-bottom:8px;\">The War of 1812 and the Monroe Doctrine</li><li style=\"margin-bottom:8px;\">Clay's American System</li><li style=\"margin-bottom:8px;\">Indian removal under Jackson</li><li style=\"margin-bottom:8px;\">The Missouri Compromise</li><li style=\"margin-bottom:8px;\">The Nullification Crisis</li><li style=\"margin-bottom:8px;\">The annexation of Texas and the Mexican War</li></ul></div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #7E932E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#5F6E22; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>What your dossier must include (700 to 1,000 words, plus the table)</strong></div><ol style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\"><strong>The Situation (about 150 words).</strong> What problem did leaders face, and who wanted what?</li><li style=\"margin-bottom:8px;\"><strong>The Decision (about 200 words).</strong> What did they do, and why? Name at least two people and what each one argued.</li><li style=\"margin-bottom:8px;\"><strong>A Timeline Table.</strong> A Word table with at least five rows (Date, Event, Why it mattered).</li><li style=\"margin-bottom:8px;\"><strong>Two Sources.</strong> Quote or closely describe two primary sources from this quarter's lessons or Primary Source pages. For each, say who wrote it, for whom, and what it can and cannot tell us.</li><li style=\"margin-bottom:8px;\"><strong>The Road Not Taken (about 200 words).</strong> Pick one point where a different choice was truly possible. What might have happened, and what would have made it hard?</li><li style=\"margin-bottom:8px;\"><strong>What It Left Unresolved (about 150 words).</strong> What question did this turning point leave open that a later generation had to face?</li><li style=\"margin-bottom:8px;\"><strong>What I Am Still Unsure About (2 to 3 sentences).</strong> Name something the sources cannot settle or where historians disagree.</li></ol></div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2A3C53; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2A3C53; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Working alone or in a group</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">You can work alone. If you chose \"Yes\" to group work in your Module Intro, you may team up with one or two classmates and submit <strong>one shared dossier</strong>. A group of two adds 300 words; a group of three adds 500. Put every member's name at the top. Each member also writes a 2 to 3 sentence note at the end saying what they contributed. Group members are scored with the same rubric. One member submits the file for the group.</p></div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #BD9D36; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#BD9D36; color:#1E1B16; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>M365 Skill Step</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Create your dossier in Word from your school Microsoft account. Name your file <strong>LastName_FirstName_Q3Capstone_HIS7</strong> (a group uses the submitter's name and adds the other last names, such as LastName_FirstName_Q3Capstone_HIS7_Group). Save it in your Optima → History → HIS7_2026-27 folder in OneDrive, then upload it here with Submit Assignment, then File Upload.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\"><strong>M365 Skill You're Practicing: Inserting and Formatting a Table (Word).</strong> Use Insert, then Table, for your timeline. Apply a Heading 1 style to each section title.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Your teacher will score your Capstone with the rubric attached to this assignment: understanding of the material, quality of reasoning, clarity and precision of expression, and intellectual honesty.</p></div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2A3C53; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2A3C53; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#F4EEDB; font-size:14px; width:22%;\">Understanding of the material<br><span style=\" color:#5B5148;\">Facts, names, dates, and causes are accurate and drawn from the lessons and sources.</span><br><span style=\"color:#5F6E22;\">10.0 pts</span></th><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>10.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Accurate and specific; the quarter's main ideas are clear.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>8.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly accurate; some details used.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>6.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Partly accurate or general; few details.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Inaccurate or missing key ideas.</span></td></tr><tr><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#F4EEDB; font-size:14px; width:22%;\">Quality of reasoning<br><span style=\" color:#5B5148;\">Explains why, supports claims with specific evidence, and considers what else could have happened.</span><br><span style=\"color:#5F6E22;\">10.0 pts</span></th><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>10.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, well supported; cause and effect explained; the \"what if\" is realistic and shows what would have been hard.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>8.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Reasonable argument with some support.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>6.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Claims stated with little support.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">No clear reasoning.</span></td></tr><tr><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#F4EEDB; font-size:14px; width:22%;\">Clarity and precision of expression<br><span style=\" color:#5B5148;\">Organized, in the student's own words, correct terms, tidy Word formatting.</span><br><span style=\"color:#5F6E22;\">10.0 pts</span></th><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>10.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, precise, organized, in own words; headings and table work well.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>8.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly clear; minor errors.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>6.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Often unclear or disorganized.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Hard to follow.</span></td></tr><tr><th style=\"border:1px solid #E1D9C2; padding:8px; text-align:left; vertical-align:top; background:#F4EEDB; font-size:14px; width:22%;\">Intellectual honesty<br><span style=\" color:#5B5148;\">Names what the sources cannot show, what is uncertain, and where reasonable people disagree.</span><br><span style=\"color:#5F6E22;\">10.0 pts</span></th><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>10.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Names specific limits of the sources or real disagreements.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>8.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Names a limit in a general way.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>6.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Gestures at uncertainty without saying what.</span></td><td style=\"border:1px solid #E1D9C2; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">No acknowledgment of limits.</span></td></tr></tbody></table></div></div>",
+   "points": 40.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag771",
+   "rubric": "r1396",
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "docx",
+   "omit_from_final_grade": false,
+   "week": 27
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q4911",
+   "title": "Intro (Lessons 3.4 and 4.1): Can a Compromise Settle a Quarrel, or Only Postpone It?",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#2A3C53; border-bottom:4px solid #BD9D36; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 4 · INTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 4 Intro: Can a Compromise Settle a Quarrel, or Only Postpone It?</div><div style=\"font-size:15px; color:#F2C14E;\">3 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#BD9D36; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #7E932E;\">≡ ∴ ≡</div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2A3C53; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2A3C53; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">This set of work covers <em>Southerners Take Texas</em> and <em>Clay’s Missouri Compromise Maintains the Balance of Free and Slave States</em>. If you have not finished <strong>Southerners Take Texas</strong>, read it first. Then answer three quick questions. There are no wrong answers. You will come back to the first question when you finish.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Next up is <strong>Clay's Missouri Compromise Maintains the Balance of Free and Slave States</strong>.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "A compromise can end an argument for a while without answering the question underneath it. What might make a compromise only a delay? Answer in two or three sentences. You will revisit this answer at the end of these lessons.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "I have read the goals for these lessons: to explain how Texas became a slaveholding republic, and what the Missouri Compromise settled and left unsettled.",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I am ready to begin",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet, I have a question",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "This quarter has an optional group capstone. Would you like to work in a group?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "No, I will work on my own",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Undecided",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 3,
+   "week": 26
+  },
+  {
+   "id": "q4912",
+   "title": "Reading Quiz: Lessons 3.4 and 4.1",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#2A3C53; border-bottom:4px solid #BD9D36; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 4 · READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Southerners Take Texas and Clay’s Missouri Compromise Maintains the Balance of Free and Slave States</div><div style=\"font-size:15px; color:#F2C14E;\">7 questions · 7 points · 2 attempts</div></div><div style=\"text-align:center; color:#BD9D36; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #7E932E;\">≡ ∴ ≡</div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2A3C53; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2A3C53; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">This quiz covers <em>Southerners Take Texas</em> and <em>Clay’s Missouri Compromise Maintains the Balance of Free and Slave States</em>. You may take it twice, and your higher score counts. Some questions ask you to put two or more facts together, so think before you answer.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 7.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag769",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Which situation most worried the Mexican government in Texas by 1830?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Texas settlers were refusing to speak Spanish.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Comanche raids had ended.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Americans outnumbered Mexicans in Texas, and many brought slaves even though Mexico was moving to end slavery.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Mexico City had been captured by Texas settlers.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "President Van Buren did not annex Texas in 1837, even though Texas wanted it. What was the main reason?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Annexation would add a huge slave state and risk war with Mexico.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Texas had asked to remain independent.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress had passed a law forbidding any new states.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Mexico had agreed to pay for Texas to stay Mexican.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Texas settlers signed so-called labor contracts that kept people in bondage for life. What does this show?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Mexico had never made any laws about slavery.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The settlers wanted to free the slaves.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Mexico had already given Texas to the United States.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The contracts were a way around Mexico's law against slavery.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In 1819 there were eleven free states and eleven slave states. Why was the Senate the South's protection?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Senate could ban any state from joining.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Each state had two senators, so equal numbers of free and slave states gave the sides equal strength, while the North had more seats in the House because it had more people.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Southern senators had two votes each.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Senate had no free-state members.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Clay knew members would not vote for the whole Missouri Compromise at once. What did he do about it?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He asked the President to pass it by order.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He waited until Missouri became a free state.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He asked the Supreme Court to decide.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He split it into separate bills, so each could pass with a different group of votes.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Some Southerners argued that spreading slavery over a wider area would thin it out and make it easier to end. What does the lesson say about that argument?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Cotton farming proved it correct.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Northerners agreed with it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Where slavery spread with cotton farming, it grew deeper, which showed the argument was wrong.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Missouri ended slavery within ten years.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Most Americans were relieved by the Missouri Compromise, but Jefferson heard \"a fire bell in the night.\" Why was he alarmed?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He saw that the line matched a division between free and slave states, and that such a division could harden into two nations, so the compromise had only postponed the fight.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He thought Missouri would never become a state.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He feared that Maine would not join the Union.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He believed that Clay had cheated the South.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 7,
+   "week": 26
+  },
+  {
+   "id": "q4913",
+   "title": "Outro (Lessons 3.4 and 4.1): Looking Back at Texas and the Missouri Compromise",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#2A3C53; border-bottom:4px solid #BD9D36; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 4 · OUTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 4 Outro: Looking Back at Texas and the Missouri Compromise</div><div style=\"font-size:15px; color:#F2C14E;\">4 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#BD9D36; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #7E932E;\">≡ ∴ ≡</div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2A3C53; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2A3C53; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">You have finished these lessons and their work. Answer four short questions. Your answers help your teacher see where students feel strong and where more help is needed.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "At the start you answered this question: what might make a compromise only a delay? Answer it again now in two or three sentences. If your answer changed, say what changed it.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How confident do you feel explaining what the Missouri Compromise settled and what it left unsettled?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "1 - Not at all confident",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "2 - A little confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3 - Somewhat confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "4 - Mostly confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "5 - Very confident",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Which idea from these lessons is still unclear to you? It might be the empresarios, the Texas Revolution, annexation, the balance of power, the 36 degrees 30 minutes line, or diffusion. Say what you do not yet understand.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Henry Clay worked behind the scenes, splitting a hard problem into smaller bills, to keep the Union together. Which of these virtues did that work require: courage, courtesy, honesty, perseverance, self-government, service, or responsibility? Explain in two or three sentences, and tell about a time you needed that same virtue.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4,
+   "week": 26
+  },
+  {
+   "id": "q4914",
+   "title": "Intro (Lessons 4.2 and 4.3): Can a Single State Overrule the Nation?",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#2A3C53; border-bottom:4px solid #BD9D36; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 4 · INTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 4 Intro: Can a Single State Overrule the Nation?</div><div style=\"font-size:15px; color:#F2C14E;\">3 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#BD9D36; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #7E932E;\">≡ ∴ ≡</div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2A3C53; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2A3C53; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Before you start these lessons, answer three quick questions. There are no wrong answers. You will come back to the first question when you finish.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Start with <strong>South Carolina Nullifies Tariffs and Threatens Secession; Jackson Threatens Force; Clay Makes Peace</strong>.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "Imagine that one state in a union decides a national law does not apply inside its borders. What problems could that cause for the whole country? Answer in two or three sentences. You will revisit this answer at the end of these lessons.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "I have read the goals for these lessons: to explain the nullification crisis, and how Texas joined the Union and led the country into war with Mexico.",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I am ready to begin",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet, I have a question",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "This quarter has an optional group capstone. Would you like to work in a group?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "No, I will work on my own",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Undecided",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 3,
+   "week": 27
+  },
+  {
+   "id": "q4915",
+   "title": "Reading Quiz: Lessons 4.2 and 4.3",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#2A3C53; border-bottom:4px solid #BD9D36; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 4 · READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: South Carolina Nullifies Tariffs and Threatens Secession; Jackson Threatens Force; Clay Makes Peace and Polk Brings Texas into the Union and the U.S. into War with Mexico</div><div style=\"font-size:15px; color:#F2C14E;\">7 questions · 7 points · 2 attempts</div></div><div style=\"text-align:center; color:#BD9D36; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #7E932E;\">≡ ∴ ≡</div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2A3C53; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2A3C53; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">This quiz covers <em>South Carolina Nullifies Tariffs and Threatens Secession; Jackson Threatens Force; Clay Makes Peace</em> and <em>Polk Brings Texas into the Union and the U.S. into War with Mexico</em>. You may take it twice, and your higher score counts. Some questions ask you to put two or more facts together, so think before you answer.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 7.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag769",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Which fact shows that many Southerners disliked the tariff but did not support nullification?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Calhoun supported the tariff in 1832.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "South Carolina's convention never met.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Senate voted to approve nullification.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Virginia and other states wanted lower tariffs but did not back South Carolina, so it stood alone.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Calhoun's South Carolina Exposition and Protest argued that a state could declare a federal law void. Which earlier writings did this idea build on?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Kentucky and Virginia Resolutions of 1798.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Northwest Ordinance.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Missouri Compromise.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Treaty of Ghent.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Jackson thought the tariff of 1828 was unfair, yet he threatened force against South Carolina. Which explanation fits the lesson best?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He was a strong supporter of high tariffs.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He drew the line at nullification, because he believed the Union was the nation's first necessity.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He wanted to start a war with South Carolina.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He did not know how South Carolina felt.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How did the nullification crisis end?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Supreme Court ordered South Carolina to leave the Union.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Jackson sent the army, and South Carolina surrendered at once.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Clay's Compromise Tariff lowered rates over ten years, and South Carolina canceled its nullification of the tariff, so both sides claimed victory.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Congress abolished the tariff for the whole country.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The Senate rejected the Texas annexation treaty in 1844. What best explains why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Calhoun's letter said annexation was needed to protect slavery, which angered Northern senators, and a treaty needs two-thirds of the Senate.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Mexico had agreed to give Texas to Britain.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "President Tyler withdrew the treaty on his own.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Texas had asked the Senate to refuse it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Supporters of annexation used a joint resolution in 1845 instead of a treaty. Why did that help them?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It required a vote of every state legislature.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It could be passed by the President alone.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It gave Mexico a chance to approve Texas.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It needed only a majority in both houses of Congress, not two-thirds of the Senate.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Congress paired Florida's entry into the Union in 1845 with Iowa's entry in 1846. What was the most likely reason?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Iowa and Florida had the same population.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To keep the balance of free and slave states.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Because Florida and Iowa shared a border.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Because both states wanted the same tariff.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 7,
+   "week": 27
+  },
+  {
+   "id": "q5200",
+   "title": "Quarter 3 Exam: A Republic Divides Over What It Is Building",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#2A3C53; border-bottom:4px solid #BD9D36; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>QUARTER 3 · EXAM</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Quarter 3 Exam: A Republic Divides Over What It Is Building</div><div style=\"font-size:15px; color:#F2C14E;\">27 questions · 27 points · one attempt</div></div><div style=\"text-align:center; color:#BD9D36; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #7E932E;\">≡ ∴ ≡</div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2A3C53; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2A3C53; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">This exam covers only the Founding Era through the annexation of Texas and the Mexican War. It has 27 multiple-choice questions, one point each, and should take about 40 minutes. Read every question and all four answers before you choose. Many questions ask you to put two or more facts together, so think before you answer.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 27.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag771",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "A small farmer in Virginia owns his own land, sells his crops nearby, and distrusts bankers. Which leader's picture of the republic would he most likely support?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Hamilton, whose plan paid the war debts and gave the nation sound credit.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hamilton, who wanted the national government to hold the money of every state's farmers.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Jefferson, who pictured a republic of independent farmers and feared favors for bankers and merchants.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Neither man, because both wanted the same kind of government.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Congressman Matthew Lyon was jailed under the Sedition Act, and his Vermont voters re-elected him while he sat in jail. Which conclusion does this fact best support?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Many voters did not think that criticizing the President deserved punishment.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Most Vermont voters had never heard of the Sedition Act.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court had already struck down the Sedition Act.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Federalists had lost control of Congress by then.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Jefferson and Madison answered the Alien and Sedition Acts through the Kentucky and Virginia legislatures instead of asking the Supreme Court. Which fact best explains their choice?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Constitution forbids the Supreme Court to hear cases about Congress.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "President Adams had ordered the Court to stay out of the dispute.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Kentucky and Virginia were the only states that had ever been taxed.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Court was full of Federalists, the party that had passed the Acts.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In the election of 1800, Jefferson and Burr each received 73 electoral votes, even though everyone knew Jefferson was the candidate for President. What caused the tie?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Burr secretly persuaded enough Republican electors to cast every one of their votes for him alone.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Each elector cast two votes for President, with no separate vote for Vice President, and all Republican electors voted for both men.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Congress had changed the number of electors in each state just before the election was held.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Federalist electors had all agreed to vote for Burr so that Jefferson could not win outright.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In Marbury v. Madison, Marshall said Marbury had a right to his commission but did not order Madison to deliver it. Why is the case still called a great victory for the Court?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Court forced Jefferson to hand over every commission the midnight judges had been given.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Court claimed the power of judicial review without giving Jefferson an order he could ignore.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Court won the power to choose who becomes President.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Court removed Madison from office for refusing to obey it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In McCulloch v. Maryland, Marshall read the \"necessary and proper\" clause to allow a national bank. Whose argument from the 1790s did his reading follow?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Jefferson's argument that Congress may use only the powers the Constitution lists.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Madison's argument that a state may interpose against a federal law.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Adams's argument that the government could punish false writing.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hamilton's argument for implied powers.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which chain of events best explains why France offered to sell all of Louisiana in 1803?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A slave revolt in Haiti defeated Napoleon's army, so Louisiana lost its value to him, and he needed money for war.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Jefferson threatened war, so Napoleon sold the land rather than fight the United States over it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Spain demanded that Louisiana be returned, so Napoleon sold it before Spain could take it back.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "American settlers had filled the land, so France could no longer make any claim to it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Jefferson believed the federal government could use only powers the Constitution lists. Why did the Louisiana Purchase put him in a hard position?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Constitution forbade the President to make any treaty with France.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress had already voted against buying New Orleans from France.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Nothing in the Constitution said the President could buy land from a foreign country.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Senate wanted to pay France far more than Jefferson was willing to pay.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The Monroe Doctrine told Europe to stay out of the Americas, even though the United States had a small navy. What gave the warning real force?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A treaty with Spain that gave the United States a large fleet.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The French army, which had stayed on after selling Louisiana.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A pledge from the Latin American nations to fight beside the United States.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The British navy, because Britain also wanted free trade in the Americas.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "A Southern planter in 1820 sells his cotton to Britain and buys many goods from Europe. Why would he likely dislike Clay's protective tariff?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It forced him to sell all of his cotton to Northern factories at a fixed price.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It raised the price of the goods he bought and might lead Britain to buy less of his cotton.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It took away his right to vote in federal elections unless he paid it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It banned the export of cotton to Britain and every other country.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In Marbury, Marshall worried that Jefferson might simply ignore an order from the Court. Which later event showed that this kind of worry was realistic?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Maryland refused to accept the ruling in McCulloch v. Maryland and taxed the bank anyway.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "New York ignored the Gibbons ruling and kept its steamboat monopoly in place.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Georgia ignored the ruling in Worcester v. Georgia, and Jackson did nothing to enforce it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Congress voted to abolish the Supreme Court in 1832 after the Worcester ruling.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Black Seminoles fought beside the Seminoles in the Second Seminole War. Which fact best explains why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Many were free or had escaped slavery, and they would lose their freedom if the army won.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The army had promised them land in the West if they agreed to stop fighting.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Spain was paying them to defend Florida against the United States Army.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Osceola had threatened to harm them if they refused to fight.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Lowell mill women earned cash wages they controlled, yet they went on strike when owners cut their pay. Which statement best describes what this shows?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Mill work gave them new independence but also long hours and little control over their pay.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Mill work paid so well that owners could afford to hire only men.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Mill workers were forced to labor without wages.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The mills closed after the first strike, and the women returned to their farms.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "A Lowell mill worker in 1835 and a slave on a Georgia plantation seem to live in different worlds. How were their lives connected?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Both were paid wages set by the same owners.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Both worked in mills owned by Francis Cabot Lowell.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The mill ran on cotton that slaves grew in the South.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Both attended the same camp meetings.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which belief would most likely lead a person in the 1830s to join a voluntary society that fought drunkenness?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That God had already decided long ago who would be saved.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That people can choose to change, and that society can be improved.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "That government should solve every problem so citizens need not.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That the nation's problems would fade away without any effort.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The Declaration of Sentiments copied the language of the Declaration of Independence. What was the best reason?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Because Congress required reform documents to use that wording.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To show that women wanted to rejoin Britain.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Because the Declaration of Independence already named women as equal citizens.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To argue that the nation's founding promise of equality applied to women too.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Most utopian communities, such as Brook Farm, lasted only a short time. According to the course, which earlier example did they repeat?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Like Roanoke, they vanished after an attack by Spanish soldiers on their village.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Like the Pilgrims, they were forced out by a king who disliked their ideas.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Like Jamestown and Plymouth, sharing everything made it hard to produce enough to survive.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Like the Quakers, they refused to form any government among themselves.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Jefferson wrote that \"we have the wolf by the ear, and we can neither hold him, nor safely let him go.\" What did he mean?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Slavery was a Northern problem that Northerners should solve.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Slavery was wrong, but he saw no safe way to end it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Slavery would end on its own within a few years.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress was too weak to ban the slave trade.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The cotton gin cleaned cotton fifty times faster than hand work, yet it increased the demand for slaves. Why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The gin needed hundreds of workers to turn its crank all day long.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Cotton prices fell sharply, so planters needed more workers just to break even.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress required planters to use slave labor to run every cotton gin.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "People still had to plant, hoe, and pick cotton by hand, and each acre now earned a large profit.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In the winter of 1831-32, Virginia's legislature debated ending slavery and then did nothing, and lawmakers across the South passed harsher laws. Which event, just months earlier, best explains the fear behind this?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Nat Turner's revolt in Southampton County.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The founding of Liberia.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Panic of 1819.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The invention of the cotton gin.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which of these statements about Calhoun's time is an opinion rather than a fact that can be checked?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Calhoun gave the speech in the Senate on February 6, 1837.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Slaves in the South were better off than factory workers in the North.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The House passed a gag rule on antislavery petitions in 1836.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Nat Turner's revolt took place in 1831.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "By 1835 about 30,000 settlers from the United States lived in Texas, compared with a few thousand Tejanos. How did this change worry Mexico?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Mexico feared that Texas would slip away from it, just as Florida had slipped away from Spain.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Mexico feared the settlers would raise taxes on the Tejanos.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Mexico feared that the Comanche would join the settlers.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Mexico feared that the settlers would convert the Tejanos to a new religion.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Clay split the Missouri Compromise into separate bills. Why did that help it pass?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Senate could vote on the separate parts without needing any vote in the House.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Separate bills did not need to be signed by the President to become law.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It let Missouri join the Union without having to write a state constitution.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Each bill could win a different group of votes, because few members liked the whole package.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Most Americans were relieved when the Missouri Compromise passed, but Jefferson was terrified. What did he see that others missed?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The compromise gave Congress the power to end slavery in every state of the Union at once.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Missouri's new constitution would soon outlaw slavery there and upset the balance again.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The line matched the split between free and slave states, and a split along a map line could harden into two nations.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Maine's entry into the Union as a free state would give the North a clear majority in the Senate.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Jackson agreed that the Tariff of 1828 was unfair, yet he threatened to use force against South Carolina. Which reason best explains this?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He wanted to keep the tariff high because he believed it helped Northern factories.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He believed Calhoun had fought for Britain against the United States in 1812.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress had already ordered him to collect the tariff by force of arms.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He believed nullification threatened the Union, which he saw as the nation's first necessity.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Calhoun's argument for nullification in 1828 built on ideas from which earlier documents?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Alien and Sedition Acts of 1798.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Missouri Compromise of 1820.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Kentucky and Virginia Resolutions of 1798.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Jackson's Proclamation to the People of South Carolina.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The treaty to annex Texas failed in the Senate, 35 to 16, but a joint resolution passed, 27 to 25. What explains the different results?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A treaty needs two-thirds of the Senate, while a joint resolution needs only a majority of both houses.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The treaty needed the approval of every state, but the resolution needed only Congress.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Senate changed its mind when Calhoun apologized for his letter.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The President of Texas signed the resolution, so the Senate could not vote against it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 27,
+   "week": 27
+  },
+  {
+   "id": "q4916",
+   "title": "Outro (Lessons 4.2 and 4.3): Looking Back at Nullification and Texas",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#2A3C53; border-bottom:4px solid #BD9D36; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 4 · OUTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 4 Outro: Looking Back at Nullification and Texas</div><div style=\"font-size:15px; color:#F2C14E;\">4 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#BD9D36; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #7E932E;\">≡ ∴ ≡</div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #2A3C53; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2A3C53; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">You have finished these lessons and their work. Answer four short questions. Your answers help your teacher see where students feel strong and where more help is needed.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "At the start you answered this question: what problems could it cause for a whole country if one state decided a national law did not apply inside its borders? Answer it again now in two or three sentences. If your answer changed, say what changed it.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How confident do you feel explaining what nullification was and how the crisis ended?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "1 - Not at all confident",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "2 - A little confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3 - Somewhat confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "4 - Mostly confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "5 - Very confident",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Which idea from these lessons is still unclear to you? It might be nullification, secession, the Force Bill, annexation, the joint resolution, or the disputed border between the Nueces and the Rio Grande. Say what you do not yet understand.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "When South Carolina and the President faced each other, Henry Clay stepped in with a plan that let both sides save face. Which of these virtues did he need: courage, courtesy, honesty, perseverance, self-government, service, or responsibility? Explain in two or three sentences, and tell about a time you needed that same virtue.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4,
+   "week": 27
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d959",
+   "title": "Discussion: Jefferson's \"Fire Bell in the Night,\" Why Did Missouri Alarm Him?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#2A3C53; border-bottom:4px solid #BD9D36; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 4 · DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Jefferson's \"Fire Bell in the Night,\" Why Did Missouri Alarm Him?</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written post and one reply · threaded discussion</div></div><div style=\"text-align:center; color:#BD9D36; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #7E932E;\">≡ ∴ ≡</div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #BD9D36; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#BD9D36; color:#1E1B16; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The prompt</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Most Americans were glad when the Missouri Compromise passed. Jefferson heard \"a fire bell in the night\" and called it the knell of the Union. Make one specific claim: was Jefferson right that the compromise only postponed the fight, or was it a wise way to keep the peace for thirty years? Use at least one fact from this week's lessons or sources to back your claim, and explain why that fact supports it. Write about 100 to 150 words.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate (about 50 to 100 words). If you agree, strengthen their reasoning with a new fact. If you disagree, respectfully explain where their reasoning falls short.</p></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag770",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null,
+   "week": 26
+  },
+  {
+   "id": "d960",
+   "title": "Discussion: Nullification, Can a State Overrule the Union?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#2A3C53; border-bottom:4px solid #BD9D36; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 4 · DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Nullification, Can a State Overrule the Union?</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written post and one reply · threaded discussion</div></div><div style=\"text-align:center; color:#BD9D36; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #7E932E;\">≡ ∴ ≡</div><div style=\"background:#FFFFFF; border:1px solid #E1D9C2; border-top:4px solid #BD9D36; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#BD9D36; color:#1E1B16; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The prompt</strong></div><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">South Carolina said a state could declare a federal law void inside its borders. Jackson said that disunion by armed force is treason. Make one specific claim: can a single state overrule the federal government? Use at least one fact from this week's lessons or sources to back your claim, and explain why that fact supports it. Write about 100 to 150 words.</p><p style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px;\">Then do two things:</p><ol style=\"font-size:17px; color:#1E1B16; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\"><strong>Reply to one classmate</strong> (about 50 to 100 words). If you agree, strengthen their reasoning with a new fact. If you disagree, respectfully explain where their reasoning falls short.</li><li style=\"margin-bottom:8px;\"><strong>Connect to today.</strong> Look for a news story about a state and the federal government disagreeing over a law, a tax, or a program. In one or two sentences, say how it is like or unlike the nullification crisis.</li></ol></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag770",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null,
+   "week": 27
+  }
+ ],
+ "files": [],
+ "assignment_groups": [
+  {
+   "id": "ag769",
+   "title": "Tier 1: Student & Material",
+   "weight": 55.0,
+   "canvas_id": 769
+  },
+  {
+   "id": "ag770",
+   "title": "Tier 2: Student & Community",
+   "weight": 30.0,
+   "canvas_id": 770
+  },
+  {
+   "id": "ag771",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 15.0,
+   "canvas_id": 771
+  }
+ ],
+ "modules": [
+  {
+   "id": "m_sp_4",
+   "title": "North and South Practice Compromise",
+   "published": true,
+   "items": [
+    {
+     "title": "Intro (Lessons 3.4 and 4.1): Can a Compromise Settle a Quarrel, or Only Postpone It?",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4911",
+     "published": true,
+     "week": 26
+    },
+    {
+     "title": "Lesson 4.1: Clay’s Missouri Compromise Maintains the Balance of Free and Slave States",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-4-dot-1-clays-missouri-compromise-maintains-the-balance-of-free-and-slave-states",
+     "published": true,
+     "week": 26,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 1: Constitution of the Republic of Texas, General Provisions",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-1-constitution-of-the-republic-of-texas-general-provisions",
+     "published": true,
+     "week": 26,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: The Constitution of the Republic of Texas (1836)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13398",
+     "published": true,
+     "week": 26
+    },
+    {
+     "title": "Primary Source 2: Letter to John Holmes",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-2-letter-to-john-holmes",
+     "published": true,
+     "week": 26,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Report: Jefferson's Letter to John Holmes (1820)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13399",
+     "published": true,
+     "week": 26
+    },
+    {
+     "title": "Discussion: Jefferson's \"Fire Bell in the Night,\" Why Did Missouri Alarm Him?",
+     "indent": 0,
+     "type": "discussion",
+     "ref": "d959",
+     "published": true,
+     "week": 26
+    },
+    {
+     "title": "Reading Quiz: Lessons 3.4 and 4.1",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4912",
+     "published": true,
+     "week": 26
+    },
+    {
+     "title": "Outro (Lessons 3.4 and 4.1): Looking Back at Texas and the Missouri Compromise",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4913",
+     "published": true,
+     "week": 26
+    },
+    {
+     "title": "Intro (Lessons 4.2 and 4.3): Can a Single State Overrule the Nation?",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4914",
+     "published": true,
+     "week": 27
+    },
+    {
+     "title": "Lesson 4.2: South Carolina Nullifies Tariffs and Threatens Secession; Jackson Threatens Force; Clay Makes Peace",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-4-dot-2-south-carolina-nullifies-tariffs-and-threatens-secession-jackson-threatens-force-clay-makes-peace",
+     "published": true,
+     "week": 27,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Lesson 4.3: Polk Brings Texas into the Union and the U.S. into War with Mexico",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-4-dot-3-polk-brings-texas-into-the-union-and-the-u-dot-s-into-war-with-mexico",
+     "published": true,
+     "week": 27,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 1: Proclamation to the People of South Carolina",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-1-proclamation-to-the-people-of-south-carolina",
+     "published": true,
+     "week": 27,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Jackson's Proclamation to the People of South Carolina (1832)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13402",
+     "published": true,
+     "week": 27
+    },
+    {
+     "title": "Primary Source 2: Special Message to Congress on Mexican Relations",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-2-special-message-to-congress-on-mexican-relations",
+     "published": true,
+     "week": 27,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Exercise: Polk's War Message to Congress (1846)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13403",
+     "published": true,
+     "week": 27
+    },
+    {
+     "title": "Discussion: Nullification, Can a State Overrule the Union?",
+     "indent": 0,
+     "type": "discussion",
+     "ref": "d960",
+     "published": true,
+     "week": 27
+    },
+    {
+     "title": "Reading Quiz: Lessons 4.2 and 4.3",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4915",
+     "published": true,
+     "week": 27
+    },
+    {
+     "title": "Quarter 3 Exam: A Republic Divides Over What It Is Building",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q5200",
+     "published": true,
+     "week": 27
+    },
+    {
+     "title": "Quarter 3 Capstone: Crossroads, A Turning-Point Dossier",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a14374",
+     "published": true,
+     "week": 27
+    },
+    {
+     "title": "Outro (Lessons 4.2 and 4.3): Looking Back at Nullification and Texas",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4916",
+     "published": true,
+     "week": 27
+    },
+    {
+     "title": "Lesson 4.4: Clay and Webster Compromise on California",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-4-dot-4-clay-and-webster-compromise-on-california",
+     "published": true,
+     "week": 28,
+     "completion": "must_mark_done"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of M/J U.S. History 1492-Reconstruction, Spring. Read from Canvas course 289 (naming authority: titles, order, points, groups, quiz questions) with _build/pull_canvas.py on 2026-11-21; the sparkled module, not its \"(Unsparkled)\" twin. Item ids are the same as in 2100010-s2 (Civics precedent); weeks, published state and Mark as done taken from the s2 kit. Module number removed from student-facing module and intro/outro titles. Lessons are iframe pages on https://optimaondemand.github.io/mjushistory-lessons-spring/."
+ }
+}

@@ -1,0 +1,2356 @@
+{
+ "course": {
+  "title": "07 MJ US Hist 1492-Recon Spring 2100010",
+  "code": "2100010",
+  "default_view": "wiki",
+  "canvas_id": 289,
+  "canvas_code": "07 1492-Recon",
+  "weighted": true
+ },
+ "rubrics": [
+  {
+   "id": "r1212",
+   "title": "Primary Source Report Rubric (16 pts)",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "Shows accurate, specific knowledge of the source and the lessons.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Accurate and specific; uses details from the source and lessons well.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly accurate; some details used.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Partly accurate or general; few details.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Inaccurate or missing key ideas.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "Explains why, and supports claims with evidence.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, well supported argument; considers cause, consequence, or alternatives.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Reasonable argument with some support.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Claims stated with little support.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "No clear reasoning.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision of expression",
+     "long_description": "Writes clearly, in complete sentences, in the student&#39;s own words.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, precise, organized, in own words.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly clear; minor errors.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Often unclear or disorganized.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Hard to follow or copied.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "Names the limits of what the source or the student&#39;s own knowledge can show.",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Names what the source cannot tell us or what remains uncertain.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Shows some awareness of limits.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Little awareness of limits.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Overstates certainty.",
+       "points": 1.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_lesson-6-dot-1-lincoln-holds-fort-sumter-the-upper-south-chooses-sides",
+   "title": "Lesson 6.1: Lincoln Holds Fort Sumter; the Upper South Chooses Sides",
+   "slug": "lesson-6-dot-1-lincoln-holds-fort-sumter-the-upper-south-chooses-sides",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-31/lesson-31-1.html\" width=\"100%\" height=\"3059\" style=\"border: 0;\" title=\"Lesson 6.1: Lincoln Holds Fort Sumter; the Upper South Chooses Sides\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-dot-2-lee-and-jackson-outmaneuver-the-army-of-the-potomac",
+   "title": "Lesson 6.2: Lee and Jackson Outmaneuver the Army of the Potomac",
+   "slug": "lesson-6-dot-2-lee-and-jackson-outmaneuver-the-army-of-the-potomac",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-31/lesson-31-2.html\" width=\"100%\" height=\"3088\" style=\"border: 0;\" title=\"Lesson 6.2: Lee and Jackson Outmaneuver the Army of the Potomac\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-1-first-inaugural-address-lincoln-1861",
+   "title": "Primary Source 1: First Inaugural Address (Lincoln, 1861)",
+   "slug": "primary-source-1-first-inaugural-address-lincoln-1861",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-31/primary-source-1.html\" width=\"100%\" height=\"2994\" style=\"border: 0;\" title=\"Primary Source 1: First Inaugural Address\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-2-the-cornerstone-speech",
+   "title": "Primary Source 2: The Cornerstone Speech",
+   "slug": "primary-source-2-the-cornerstone-speech",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-31/primary-source-2.html\" width=\"100%\" height=\"3022\" style=\"border: 0;\" title=\"Primary Source 2: The Cornerstone Speech\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-dot-3-grant-and-farragut-dominate-the-western-theater",
+   "title": "Lesson 6.3: Grant and Farragut Dominate the Western Theater",
+   "slug": "lesson-6-dot-3-grant-and-farragut-dominate-the-western-theater",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-32/lesson-32-1.html\" width=\"100%\" height=\"3062\" style=\"border: 0;\" title=\"Lesson 6.3: Grant and Farragut Dominate the Western Theater\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-dot-4-lincoln-makes-emancipation-the-cause",
+   "title": "Lesson 6.4: Lincoln Makes Emancipation the Cause",
+   "slug": "lesson-6-dot-4-lincoln-makes-emancipation-the-cause",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-32/lesson-32-2.html\" width=\"100%\" height=\"3050\" style=\"border: 0;\" title=\"Lesson 6.4: Lincoln Makes Emancipation the Cause\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-1-emancipation-proclamation",
+   "title": "Primary Source 1: Emancipation Proclamation",
+   "slug": "primary-source-1-emancipation-proclamation",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-32/primary-source-1.html\" width=\"100%\" height=\"2943\" style=\"border: 0;\" title=\"Primary Source 1: Emancipation Proclamation\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-2-men-of-color-to-arms",
+   "title": "Primary Source 2: Men of Color, To Arms!",
+   "slug": "primary-source-2-men-of-color-to-arms",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-32/primary-source-2.html\" width=\"100%\" height=\"2971\" style=\"border: 0;\" title=\"Primary Source 2: Men of Color, To Arms!\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-dot-5-vicksburg-and-gettysburg-turn-the-tide",
+   "title": "Lesson 6.5: Vicksburg and Gettysburg Turn the Tide",
+   "slug": "lesson-6-dot-5-vicksburg-and-gettysburg-turn-the-tide",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-33/lesson-33-1.html\" width=\"100%\" height=\"3057\" style=\"border: 0;\" title=\"Lesson 6.5: Vicksburg and Gettysburg Turn the Tide\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-dot-6-the-war-reaches-every-home",
+   "title": "Lesson 6.6: The War Reaches Every Home",
+   "slug": "lesson-6-dot-6-the-war-reaches-every-home",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-33/lesson-33-2.html\" width=\"100%\" height=\"3028\" style=\"border: 0;\" title=\"Lesson 6.6: The War Reaches Every Home\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-1-the-gettysburg-address",
+   "title": "Primary Source 1: The Gettysburg Address",
+   "slug": "primary-source-1-the-gettysburg-address",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-33/primary-source-1.html\" width=\"100%\" height=\"2994\" style=\"border: 0;\" title=\"Primary Source 1: The Gettysburg Address\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-2-a-diary-from-dixie",
+   "title": "Primary Source 2: A Diary from Dixie",
+   "slug": "primary-source-2-a-diary-from-dixie",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-33/primary-source-2.html\" width=\"100%\" height=\"3000\" style=\"border: 0;\" title=\"Primary Source 2: A Diary from Dixie\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-dot-7-grant-and-sherman-break-the-confederacy",
+   "title": "Lesson 6.7: Grant and Sherman Break the Confederacy",
+   "slug": "lesson-6-dot-7-grant-and-sherman-break-the-confederacy",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-34/lesson-34-1.html\" width=\"100%\" height=\"3084\" style=\"border: 0;\" title=\"Lesson 6.7: Grant and Sherman Break the Confederacy\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_lesson-6-dot-8-lee-surrenders-lincolns-assassination",
+   "title": "Lesson 6.8: Lee Surrenders; Lincoln’s Assassination",
+   "slug": "lesson-6-dot-8-lee-surrenders-lincolns-assassination",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-34/lesson-34-2.html\" width=\"100%\" height=\"3028\" style=\"border: 0;\" title=\"Lesson 6.8: Lee Surrenders; Lincoln’s Assassination\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-1-second-inaugural-address",
+   "title": "Primary Source 1: Second Inaugural Address",
+   "slug": "primary-source-1-second-inaugural-address",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-34/primary-source-1.html\" width=\"100%\" height=\"2994\" style=\"border: 0;\" title=\"Primary Source 1: Second Inaugural Address\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_primary-source-2-personal-memoirs-the-surrender-at-appomattox",
+   "title": "Primary Source 2: Personal Memoirs, the surrender at Appomattox",
+   "slug": "primary-source-2-personal-memoirs-the-surrender-at-appomattox",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/mjushistory-lessons-spring/weeks/week-34/primary-source-2.html\" width=\"100%\" height=\"3022\" style=\"border: 0;\" title=\"Primary Source 2: Personal Memoirs, the surrender at Appomattox\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></p>",
+   "front_page": false,
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a13418",
+   "title": "Critical Questions: Lincoln's First Inaugural Address (1861)",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Lincoln's First Inaugural Address (1861)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">★ ☆ ★</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #9A272C; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#9A272C; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Read the primary source for this week: Abraham Lincoln's First Inaugural Address. Then answer both questions in your own words. Aim for four to six sentences each.</p><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Lincoln told the South, \"You can have no conflict without being yourselves the aggressors.\" What idea about who would be responsible for starting a war is he using, and why would it matter to people in the Upper South and the border states?</li><li style=\"margin-bottom:8px;\">Lincoln ended his speech with the \"mystic chords of memory.\" Why would a President end a speech this way at that moment, and why do later Americans still remember it?</li></ol><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 31
+  },
+  {
+   "id": "a13419",
+   "title": "Primary Source Exercise: Stephens's Cornerstone Speech (1861)",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · PRIMARY SOURCE EXERCISE</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Exercise: Stephens's Cornerstone Speech (1861)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">★ ☆ ★</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #9A272C; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#9A272C; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Read the primary source: part of Alexander Stephens's Cornerstone Speech. Stephens was the vice president of the Confederacy. Then answer both questions in your own words, in four to six sentences each.</p><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Stephens says the new Confederate government rests on a different idea than the idea in the Declaration of Independence. What idea is he naming, and how does it differ from the Declaration's claim that all men are created equal?</li><li style=\"margin-bottom:8px;\">Why is it important to historians that a Confederate leader described the purpose of the new government in his own words? What can one speech show, and what can it not show about all Southerners?</li></ol><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 31
+  },
+  {
+   "id": "a13422",
+   "title": "Critical Questions: The Emancipation Proclamation (1863)",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: The Emancipation Proclamation (1863)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">★ ☆ ★</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #9A272C; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#9A272C; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Read the primary source for this week: the Emancipation Proclamation. Then answer both questions in your own words. Aim for four to six sentences each.</p><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Suppose Lincoln had issued the Emancipation Proclamation in the summer of 1862, right after the Union defeats in Virginia. How might people in the North, the border states, and Britain have reacted, and why?</li><li style=\"margin-bottom:8px;\">The Proclamation freed slaves only in areas still in rebellion. Why is it still one of the most important documents in American history?</li></ol><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 32
+  },
+  {
+   "id": "a13423",
+   "title": "Primary Source Exercise: Douglass, \"Men of Color, to Arms!\" (1863)",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · PRIMARY SOURCE EXERCISE</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Exercise: Douglass, \"Men of Color, to Arms!\" (1863)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">★ ☆ ★</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #9A272C; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#9A272C; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Read the primary source: part of Frederick Douglass's call \"Men of Color, to Arms!\" Then answer both questions in your own words, in four to six sentences each.</p><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Why did it matter, both to the Union cause and to Black Americans, that Black men could now serve in the army?</li><li style=\"margin-bottom:8px;\">Suppose Black men had not been allowed to serve in the Union army. How might the war, and the way Northerners saw Black Americans, have been different?</li></ol><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 32
+  },
+  {
+   "id": "a13426",
+   "title": "Critical Questions: Lincoln's Gettysburg Address (1863)",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Lincoln's Gettysburg Address (1863)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #9A272C; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#9A272C; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Read the primary source for this week: Abraham Lincoln's Gettysburg Address. Then answer both questions in your own words. Aim for four to six sentences each.</p><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Lincoln spoke for about two minutes and did not talk about winning or losing. Using the address and the lesson <em>Vicksburg and Gettysburg Turn the Tide</em>, explain what events of July 1863 made it possible for him to speak about what the war was for.</li><li style=\"margin-bottom:8px;\">Suppose the Union had lost at Gettysburg and at Vicksburg in July 1863. How might Britain, Northern voters, and Lincoln's call for \"a new birth of freedom\" have been affected?</li></ol><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 33
+  },
+  {
+   "id": "a13427",
+   "title": "Primary Source Report: Mary Chesnut's Diary from Dixie",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · PRIMARY SOURCE REPORT</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Report: Mary Chesnut's Diary from Dixie</div><div style=\"font-size:15px; color:#F2C14E;\">16 points · Word document · one turn-in</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #9A272C; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#9A272C; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Read the excerpt from Mary Chesnut's <em>A Diary from Dixie</em>. Then write a response of <strong>250 to 400 words</strong> in a Word document that answers both questions below. Use your own words and refer to the source and to the lessons.</p><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Your draft answers are already in My Notebook from the primary source page. Use them as a starting point for your report, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Chesnut writes about hardship and fear among the people around her. Using her diary and the lesson <em>The War Reaches Every Home</em>, explain what caused shortages and hardship on the Confederate home front.</li><li style=\"margin-bottom:8px;\">Suppose the Union blockade had never been put in place. How might Chesnut's account of daily life in the South, and the Confederacy's ability to keep fighting, have been different?</li></ol><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Your teacher will score your report with the rubric attached to this assignment: understanding of the material, quality of reasoning, clarity and precision of expression, and intellectual honesty. Intellectual honesty means telling what the source cannot show or what you are still unsure about. For example, think about whose life one diary can and cannot describe.</p><h3 style=\"font-size:19px; color:#2E2F34; margin:16px 0 8px; line-height:1.3;\">M365 Skill Step</h3><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Name your file <strong>LastName_FirstName_ChesnutReport_HIS7</strong>, save it in your Optima → History → HIS7_2026-27 folder in OneDrive, and upload it here with Submit Assignment, then File Upload.</p><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\"><strong>M365 Skill You're Practicing: Using Editor for Spelling and Grammar (Word).</strong> Open the Review tab, choose Editor, and read through each suggestion before you submit. Accept a change only if it makes your meaning clearer.</p></div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #2E2F34; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2E2F34; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #DBD5C8; padding:8px; text-align:left; vertical-align:top; background:#F4F0E6; font-size:14px; width:22%;\">Understanding of the material<br><span style=\"color:#5B5148;\">Shows accurate, specific knowledge of the source and the lessons.</span><br><span style=\"color:#9A272C;\">4.0 pts</span></th><td style=\"border:1px solid #DBD5C8; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Accurate and specific; uses details from the source and lessons well.</span></td><td style=\"border:1px solid #DBD5C8; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly accurate; some details used.</span></td><td style=\"border:1px solid #DBD5C8; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Partly accurate or general; few details.</span></td><td style=\"border:1px solid #DBD5C8; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Inaccurate or missing key ideas.</span></td></tr><tr><th style=\"border:1px solid #DBD5C8; padding:8px; text-align:left; vertical-align:top; background:#F4F0E6; font-size:14px; width:22%;\">Quality of reasoning<br><span style=\"color:#5B5148;\">Explains why, and supports claims with evidence.</span><br><span style=\"color:#9A272C;\">4.0 pts</span></th><td style=\"border:1px solid #DBD5C8; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, well supported argument; considers cause, consequence, or alternatives.</span></td><td style=\"border:1px solid #DBD5C8; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Reasonable argument with some support.</span></td><td style=\"border:1px solid #DBD5C8; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Claims stated with little support.</span></td><td style=\"border:1px solid #DBD5C8; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">No clear reasoning.</span></td></tr><tr><th style=\"border:1px solid #DBD5C8; padding:8px; text-align:left; vertical-align:top; background:#F4F0E6; font-size:14px; width:22%;\">Clarity and precision of expression<br><span style=\"color:#5B5148;\">Writes clearly, in complete sentences, in the student's own words.</span><br><span style=\"color:#9A272C;\">4.0 pts</span></th><td style=\"border:1px solid #DBD5C8; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Clear, precise, organized, in own words.</span></td><td style=\"border:1px solid #DBD5C8; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Mostly clear; minor errors.</span></td><td style=\"border:1px solid #DBD5C8; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Often unclear or disorganized.</span></td><td style=\"border:1px solid #DBD5C8; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Hard to follow or copied.</span></td></tr><tr><th style=\"border:1px solid #DBD5C8; padding:8px; text-align:left; vertical-align:top; background:#F4F0E6; font-size:14px; width:22%;\">Intellectual honesty<br><span style=\"color:#5B5148;\">Names the limits of what the source or the student's own knowledge can show.</span><br><span style=\"color:#9A272C;\">4.0 pts</span></th><td style=\"border:1px solid #DBD5C8; padding:8px; vertical-align:top; font-size:14px;\"><strong>4.0 pts</strong> Excellent<br><span style=\"color:#5B5148;\">Names what the source cannot tell us or what remains uncertain.</span></td><td style=\"border:1px solid #DBD5C8; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Proficient<br><span style=\"color:#5B5148;\">Shows some awareness of limits.</span></td><td style=\"border:1px solid #DBD5C8; padding:8px; vertical-align:top; font-size:14px;\"><strong>2.0 pts</strong> Developing<br><span style=\"color:#5B5148;\">Little awareness of limits.</span></td><td style=\"border:1px solid #DBD5C8; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#5B5148;\">Overstates certainty.</span></td></tr></tbody></table></div></div>",
+   "points": 16.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag771",
+   "rubric": "r1212",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "allowed_extensions": "docx",
+   "omit_from_final_grade": false,
+   "week": 33
+  },
+  {
+   "id": "a13430",
+   "title": "Critical Questions: Lincoln's Second Inaugural Address (1865)",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · CRITICAL QUESTIONS</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Lincoln's Second Inaugural Address (1865)</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #9A272C; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#9A272C; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Read the primary source for this week: Abraham Lincoln's Second Inaugural Address. Then answer both questions in your own words. Aim for four to six sentences each.</p><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Lincoln said that both sides read the same Bible and prayed to the same God, and that the war might be a judgment on the nation for slavery. What experiences of the war years led Lincoln to speak this way instead of boasting of victory?</li><li style=\"margin-bottom:8px;\">Lincoln ended with \"With malice toward none, with charity for all.\" What idea about how a republic should treat a defeated part of itself is he using, and how is it different from Sherman's idea of how to end the war?</li></ol><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 34
+  },
+  {
+   "id": "a13431",
+   "title": "Primary Source Exercise: Grant's Memoirs, the Surrender at Appomattox",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · PRIMARY SOURCE EXERCISE</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Exercise: Grant's Memoirs, the Surrender at Appomattox</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written answers · one turn-in</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #9A272C; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#9A272C; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Read the primary source: an excerpt from Ulysses S. Grant's <em>Personal Memoirs</em> about the surrender at Appomattox. Then answer both questions in your own words, in four to six sentences each.</p><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Your answers are already in My Notebook from the lessons. Copy each one into your submission under its question number, and finish any you left blank.</p><ol style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Grant's surrender terms were generous. According to his own account and the lesson <em>Lee Surrenders; Lincoln’s Assassination</em>, what events and beliefs led him to offer them?</li><li style=\"margin-bottom:8px;\">Grant told his soldiers to stop cheering and said that the rebels were countrymen again. What idea about the end of a war, and the start of a peace, is he relying on?</li></ol><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\"><strong>How to submit:</strong> type both answers in the text box, numbering them 1 and 2. This assignment is graded on effort and thinking: a complete, thoughtful answer to both questions earns full credit.</p></div></div></div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag770",
+   "rubric": null,
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "week": 34
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q4926",
+   "title": "Intro (Lessons 6.1 and 6.2): How Does a War Begin When Neither Side Wants to Fire First?",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · INTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 6 Intro: How Does a War Begin When Neither Side Wants to Fire First?</div><div style=\"font-size:15px; color:#F2C14E;\">3 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">★ ☆ ★</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #2E2F34; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2E2F34; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Before you start these lessons, answer three quick questions. There are no wrong answers. You will come back to the first question when you finish.</p><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Start with <strong>Lincoln Holds Fort Sumter; the Upper South Chooses Sides</strong>.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "Imagine two sides in a quarrel, and each wants the other to be blamed for striking the first blow. Why might that matter in a war, and who might it matter to? Answer in two or three sentences. You will revisit this answer at the end of these lessons.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "I have read the goals for these lessons: to explain how the war began at Fort Sumter, what advantages each side held, and why the Confederates won so many early battles in the East.",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I am ready to begin",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet, I have a question",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "This quarter has an optional group capstone. Would you like to work in a group?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "No, I will work on my own",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Undecided",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 3,
+   "week": 31
+  },
+  {
+   "id": "q4927",
+   "title": "Reading Quiz: Lessons 6.1 and 6.2",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Lincoln Holds Fort Sumter; the Upper South Chooses Sides and Lee and Jackson Outmaneuver the Army of the Potomac</div><div style=\"font-size:15px; color:#F2C14E;\">7 questions · 7 points · 2 attempts</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">★ ☆ ★</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #2E2F34; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2E2F34; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">This quiz covers <em>Lincoln Holds Fort Sumter; the Upper South Chooses Sides</em> and <em>Lee and Jackson Outmaneuver the Army of the Potomac</em>. You may take it twice, and your higher score counts. Some questions ask you to put two or more facts together, so think before you answer.</p></div></div></div>",
+   "quiz_type": "assignment",
+   "points": 7.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag769",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Lincoln sent ships carrying only food to Fort Sumter. Why was this a clever choice?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It let him sneak soldiers into the fort without being noticed.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It was the only way to win the support of Virginia.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It put the choice in Jefferson Davis's hands: if Davis fired on ships carrying bread, the Confederacy would be the one to start the war.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It showed that the Union had no army.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Virginia, North Carolina, Tennessee, and Arkansas had refused to leave the Union until April 1861. What changed their minds?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Lincoln asked the states for 75,000 militia, which meant sending troops against their neighbors, and they refused.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Confederate capital was moved to Washington.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Maryland and Kentucky left the Union first.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress passed a new tariff.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why was it so important for Lincoln to keep Maryland in the Union?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Maryland had the largest army of any border state.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Maryland controlled the Ohio River.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Maryland had the most cotton in the Union.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Losing Maryland would have cut off Washington, D.C.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The Confederacy left the Union in the name of the rights of states. How did that create a problem for Jefferson Davis in wartime?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The states refused to fly the Confederate flag.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Davis needed the same states to hand over soldiers and money, and some governors refused.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Davis had no states to give him land.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The states wanted to rejoin the Union at once.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which of these actions was part of General Scott's Anaconda Plan?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Closing Southern ports with a blockade and taking the Mississippi River to split the Confederacy.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Attacking Richmond right away with a huge army.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Asking Britain to join the war.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Moving the Union capital to the West.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "McClellan had a larger army than Lee in 1862 but pulled back to the James River. Which explanation fits the lesson best?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He had run out of food.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Lincoln had ordered him to retreat.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Jackson's army had surrounded him.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He always believed the enemy was stronger than it really was and feared losing his army more than he wanted to win.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How did Jackson's Valley campaign help protect Richmond?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It captured Washington, D.C.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Union had to keep tens of thousands of soldiers near Washington to guard against him, which kept them away from McClellan.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It ended the Seven Days battles.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It led Lincoln to order McClellan to retreat.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 7,
+   "week": 31
+  },
+  {
+   "id": "q4928",
+   "title": "Outro (Lessons 6.1 and 6.2): Looking Back at Fort Sumter and the War in the East",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · OUTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 6 Outro: Looking Back at Fort Sumter and the War in the East</div><div style=\"font-size:15px; color:#F2C14E;\">4 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">★ ☆ ★</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #2E2F34; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2E2F34; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">You have finished these lessons and their work. Answer four short questions. Your answers help your teacher see where students feel strong and where more help is needed.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "At the start you answered this question: why might it matter in a war which side is blamed for striking the first blow? Answer it again now in two or three sentences. If your answer changed, say what changed it.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How confident do you feel explaining the advantages and weaknesses of the Union and the Confederacy in 1861?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "1 - Not at all confident",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "2 - A little confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3 - Somewhat confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "4 - Mostly confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "5 - Very confident",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Which idea from these lessons is still unclear to you? It might be Fort Sumter, the border states, the Anaconda Plan, the Peninsula Campaign, or Jackson's Valley campaign. Say what you do not yet understand.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Lee took bold risks, while McClellan feared losing his army more than he wanted to win. Which of these virtues did McClellan most lack: courage, courtesy, honesty, perseverance, self-government, service, or responsibility? Explain in two or three sentences, and tell about a time you needed that same virtue.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4,
+   "week": 31
+  },
+  {
+   "id": "q4929",
+   "title": "Intro (Lessons 6.3 and 6.4): Why Might a Leader Who Thinks Something Is Wrong Wait to Act Against It?",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · INTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 6 Intro: Why Might a Leader Who Thinks Something Is Wrong Wait to Act Against It?</div><div style=\"font-size:15px; color:#F2C14E;\">3 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">★ ☆ ★</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #2E2F34; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2E2F34; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Before you start these lessons, answer three quick questions. There are no wrong answers. You will come back to the first question when you finish.</p><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Start with <strong>Grant and Farragut Dominate the Western Theater</strong>.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "A leader believes something is wrong but does not act against it right away. What might be good reasons for waiting, and what might be the cost? Answer in two or three sentences. You will revisit this answer at the end of these lessons.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "I have read the goals for these lessons: to explain how Union victories on the rivers and the coast changed the war, and how Lincoln made emancipation a cause of the war.",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I am ready to begin",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet, I have a question",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "This quarter has an optional group capstone. Would you like to work in a group?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "No, I will work on my own",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Undecided",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 3,
+   "week": 32
+  },
+  {
+   "id": "q4930",
+   "title": "Reading Quiz: Lessons 6.3 and 6.4",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Grant and Farragut Dominate the Western Theater and Lincoln Makes Emancipation the Cause</div><div style=\"font-size:15px; color:#F2C14E;\">7 questions · 7 points · 2 attempts</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">★ ☆ ★</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #2E2F34; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2E2F34; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">This quiz covers <em>Grant and Farragut Dominate the Western Theater</em> and <em>Lincoln Makes Emancipation the Cause</em>. You may take it twice, and your higher score counts. Some questions ask you to put two or more facts together, so think before you answer.</p></div></div></div>",
+   "quiz_type": "assignment",
+   "points": 7.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag769",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Why did Union commanders put so much effort into controlling the Mississippi, Tennessee, and Cumberland rivers?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Rivers were the only place the Confederacy kept its army.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Rivers worked like highways, so controlling them let armies move deep into enemy land and helped split the Confederacy.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The rivers were the border between Union and Confederate states.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Navy had no ships that could travel on the sea.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "After the heavy losses at Shiloh, critics demanded that Lincoln remove Grant. Lincoln answered, \"I can't spare this man. He fights.\" Why would that matter to Lincoln?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Grant had promised to end the war within a year.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Grant was Lincoln's close friend.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Grant was the only general who had been to West Point.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Lincoln had been struggling with generals who would not use their armies, so he valued one who was willing to fight.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why did the fall of New Orleans in April 1862 hurt the Confederacy so badly?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It was the largest city in the South and the mouth of the Mississippi, so cotton and sugar could no longer leave by the river.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It was the Confederate capital.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It was the only city with a Navy yard.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It had been the home of Jefferson Davis.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How did the Union blockade hurt life in the South?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It made cotton cheaper in Europe.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It forced every Southern state to join the Union.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Cotton piled up on docks, and medicine, shoes, and machines became hard to buy, so prices rose.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It gave the Confederacy more ironclad ships.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Lincoln waited until after Antietam to announce the Emancipation Proclamation. Why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He did not yet believe that slavery was wrong.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress had forbidden him to act earlier.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "McClellan had asked him to wait.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Seward warned him that issuing it during defeat would look like a cry for help, and Antietam gave him a victory to stand on.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which slaves were NOT freed by the Emancipation Proclamation as it was written?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Slaves in Confederate states that were still in rebellion.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Slaves in the border states and in parts of the South already held by Union armies.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Slaves who escaped to Union lines in Virginia.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Slaves who built forts for the Confederate army.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How did the Emancipation Proclamation change the chances that Britain or France would help the Confederacy?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It gave Britain and France a reason to join the Confederacy.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It made no difference at all.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Now that the war was about slavery, few British or French leaders dared to side with the Confederacy.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It forced Britain and France to declare war on the Union.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 7,
+   "week": 32
+  },
+  {
+   "id": "q4931",
+   "title": "Outro (Lessons 6.3 and 6.4): Looking Back at the Western War and Emancipation",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · OUTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 6 Outro: Looking Back at the Western War and Emancipation</div><div style=\"font-size:15px; color:#F2C14E;\">4 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">★ ☆ ★</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #2E2F34; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2E2F34; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">You have finished these lessons and their work. Answer four short questions. Your answers help your teacher see where students feel strong and where more help is needed.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "At the start you answered this question: what might be good reasons for a leader to wait before acting against something he thinks is wrong, and what might be the cost? Answer it again now in two or three sentences. If your answer changed, say what changed it.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How confident do you feel explaining what the Emancipation Proclamation did and did not do?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "1 - Not at all confident",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "2 - A little confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3 - Somewhat confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "4 - Mostly confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "5 - Very confident",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Which idea from these lessons is still unclear to you? It might be the river war, the blockade, ironclads, the contraband policy, the Emancipation Proclamation, or the United States Colored Troops. Say what you do not yet understand.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Before the war Grant failed at farming and business, yet he kept going and became the general Lincoln needed. Which of these virtues did that require: courage, courtesy, honesty, perseverance, self-government, service, or responsibility? Explain in two or three sentences, and tell about a time you needed that same virtue.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4,
+   "week": 32
+  },
+  {
+   "id": "q4932",
+   "title": "Intro (Lessons 6.5 and 6.6): What Makes One Moment in a Long War a Turning Point?",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · INTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 6 Intro: What Makes One Moment in a Long War a Turning Point?</div><div style=\"font-size:15px; color:#F2C14E;\">3 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #2E2F34; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2E2F34; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Before you start these lessons, answer three quick questions. There are no wrong answers. You will come back to the first question when you finish.</p><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Start with <strong>Vicksburg and Gettysburg Turn the Tide</strong>.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "A long war has many battles. What might make one moment a turning point instead of just another battle? Answer in two or three sentences. You will revisit this answer at the end of these lessons.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "I have read the goals for these lessons: to explain why the summer of 1863 was a turning point, what Lincoln said at Gettysburg, and how the war changed life for people who never fought.",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I am ready to begin",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet, I have a question",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "This quarter has an optional group capstone. Would you like to work in a group?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "No, I will work on my own",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Undecided",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 3,
+   "week": 33
+  },
+  {
+   "id": "q4933",
+   "title": "Reading Quiz: Lessons 6.5 and 6.6",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Vicksburg and Gettysburg Turn the Tide and The War Reaches Every Home</div><div style=\"font-size:15px; color:#F2C14E;\">7 questions · 7 points · 2 attempts</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #2E2F34; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2E2F34; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">This quiz covers <em>Vicksburg and Gettysburg Turn the Tide</em> and <em>The War Reaches Every Home</em>. You may take it twice, and your higher score counts. Some questions ask you to put two or more facts together, so think before you answer.</p></div></div></div>",
+   "quiz_type": "assignment",
+   "points": 7.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag769",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Lee decided to invade the North in the summer of 1863. Which set of reasons fits the lesson best?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Lincoln had invited him to talk peace.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He had been ordered by Jefferson Davis to take Washington.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Gettysburg was an important Confederate port.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Virginia's farms were worn out, so he could feed his army on enemy land, and an invasion might win foreign help and make Northerners tired of the war.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "After Pickett's Charge, Lee told the survivors, \"It is all my fault.\" Why would he say that?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He had ordered the attack on the center of the Union line, and about half the men were killed, wounded, or captured.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He had not been at the battle.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Pickett had disobeyed his orders.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He wanted to blame Jackson.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why did the surrender of Vicksburg cut the Confederacy in two?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Vicksburg was the Confederate capital.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It ended the Battle of Gettysburg.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It gave the Union the Mississippi River, so Texas, Arkansas, and most of Louisiana were cut off from the rest.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It closed all Southern railroads.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Lincoln spoke for about two minutes at Gettysburg. What did he choose to talk about?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "How many soldiers the Union had lost.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "What the war was for: the idea that all men are created equal and a new birth of freedom.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "How General Meade won the battle.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "How the Confederacy should be punished.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Many working men said the war was \"a rich man's war and a poor man's fight.\" What fact about the Union draft explains this?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Only workers were allowed to serve.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Rich men were forbidden to serve.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The draft applied only to Black men.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A man could avoid service by paying $300 or hiring a substitute.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The Confederacy passed a national draft in 1862. Why was that a surprise?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It was the first time any country had a draft.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It applied only to Northern men.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It came from a government built to defend the rights of states, yet it took power over individual men.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It ended the war early.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Earlier attempts to pass a Homestead Act had failed before the war, but the Republican Congress passed it in 1862. What is the best explanation?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Southern members had left Congress, and Southern senators had blocked such a law before the war.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The President ordered Congress to pass it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "No one wanted western land before 1862.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court required Congress to pass it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 7,
+   "week": 33
+  },
+  {
+   "id": "q4934",
+   "title": "Outro (Lessons 6.5 and 6.6): Looking Back at 1863 and the Home Front",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · OUTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 6 Outro: Looking Back at 1863 and the Home Front</div><div style=\"font-size:15px; color:#F2C14E;\">4 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #2E2F34; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2E2F34; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">You have finished these lessons and their work. Answer four short questions. Your answers help your teacher see where students feel strong and where more help is needed.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "At the start you answered this question: what might make one moment in a long war a turning point instead of just another battle? Answer it again now in two or three sentences. If your answer changed, say what changed it.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How confident do you feel explaining why Gettysburg and Vicksburg together turned the tide of the war?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "1 - Not at all confident",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "2 - A little confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3 - Somewhat confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "4 - Mostly confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "5 - Very confident",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Which idea from these lessons is still unclear to you? It might be Chancellorsville, Pickett's Charge, the siege of Vicksburg, conscription, habeas corpus, or the Homestead Act. Say what you do not yet understand.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "After Pickett's Charge failed, Lee said, \"It is all my fault.\" Which of these virtues did that statement show: courage, courtesy, honesty, perseverance, self-government, service, or responsibility? Explain in two or three sentences, and tell about a time you needed that same virtue.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4,
+   "week": 33
+  },
+  {
+   "id": "q4935",
+   "title": "Intro (Lessons 6.7 and 6.8): Can a Harsher War Be the Kinder War?",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · INTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 6 Intro: Can a Harsher War Be the Kinder War?</div><div style=\"font-size:15px; color:#F2C14E;\">3 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #2E2F34; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2E2F34; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Before you start these lessons, answer three quick questions. There are no wrong answers. You will come back to the first question when you finish.</p><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Start with <strong>Grant and Sherman Break the Confederacy</strong>.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "Some people argue that a war fought with great force ends sooner and costs fewer lives in the end. Others disagree. What might be the strongest point on each side? Answer in two or three sentences. You will revisit this answer at the end of these lessons.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "I have read the goals for these lessons: to explain how Grant and Sherman broke the Confederacy, how Lincoln won reelection in wartime, and how the war ended with Lee's surrender and Lincoln's death.",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I am ready to begin",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet, I have a question",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "This quarter has an optional group capstone. Would you like to work in a group?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "No, I will work on my own",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Undecided",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 3,
+   "week": 34
+  },
+  {
+   "id": "q4936",
+   "title": "Reading Quiz: Lessons 6.7 and 6.8",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · READING QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Grant and Sherman Break the Confederacy and Lee Surrenders; Lincoln’s Assassination</div><div style=\"font-size:15px; color:#F2C14E;\">7 questions · 7 points · 2 attempts</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #2E2F34; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2E2F34; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">This quiz covers <em>Grant and Sherman Break the Confederacy</em> and <em>Lee Surrenders; Lincoln’s Assassination</em>. You may take it twice, and your higher score counts. Some questions ask you to put two or more facts together, so think before you answer.</p></div></div></div>",
+   "quiz_type": "assignment",
+   "points": 7.0,
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag769",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Grant ordered every Union army to attack at the same time. What was the purpose?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "To let each army rest in turn.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "So that the Confederates could not move troops from one place to another.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "To give Lee time to surrender.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "To make sure the Navy could blockade the coast.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In the Overland Campaign the Union lost about 55,000 men and Lee about 33,000, yet this still favored the Union. Why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Grant had decided to retreat.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Lee lost his best officers in the first week.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Union could replace its men, and the Confederacy could not.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Union lost fewer men than expected.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why did the fall of Atlanta matter so much to Lincoln in 1864?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Northern voters had grown tired of the war, and the victory changed the mood and helped Lincoln win reelection.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Atlanta was the Confederate capital.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "McClellan had asked Lincoln to end the war.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It gave Lincoln the votes to pass the Thirteenth Amendment.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Sherman believed that a harsh war would be a shorter war. What reasoning did he use?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Southerners would give up as soon as they saw a Union flag.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress had ordered him to destroy every Southern town.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He did not care what happened to the South.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Southern farms and railroads fed and supplied the armies, and the people at home kept up the will to fight, so showing that rebellion would cost everything would end it sooner.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Which statement about Sherman's March to the Sea is best supported by the lesson?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Sherman's men burned every house and killed most of the civilians in their path.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Sherman's men destroyed railroads and took crops and livestock, burned barns, mills, and cotton gins along a path about sixty miles wide, but did not usually kill civilians.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Sherman's army stayed in supply camps and did not move.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The march ended at Richmond.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "At Appomattox, some of Lee's officers urged him to scatter into the hills and fight as guerrillas. Why did he refuse?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It would have left the country in ruin and the South with years of misery.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He had already been captured.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Grant had promised to give Lee command of the Union army.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "His men would not have obeyed him.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Grant let Confederate soldiers keep their horses and mules, ordered food for Lee's army, and told his own men not to cheer. What does this show about how he saw the end of the war?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He did not care what happened to the Confederate soldiers.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He wanted the Confederate army to fight again.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He was afraid of Lee.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He wanted the men to go home and plow, and he saw them as countrymen again, not as enemies to be humbled.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 7,
+   "week": 34
+  },
+  {
+   "id": "q4937",
+   "title": "Outro (Lessons 6.7 and 6.8): Looking Back at the End of the War",
+   "description": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · OUTRO QUIZ</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module 6 Outro: Looking Back at the End of the War</div><div style=\"font-size:15px; color:#F2C14E;\">4 questions · survey · one attempt</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #2E2F34; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2E2F34; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">You have finished these lessons and their work. Answer four short questions. Your answers help your teacher see where students feel strong and where more help is needed.</p></div></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "At the start you answered this question: what might be the strongest point on each side of the argument that a harsher war ends sooner? Answer it again now in two or three sentences. If your answer changed, say what changed it.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How confident do you feel explaining how Grant's strategy and Sherman's march helped the Union win?",
+     "points": 0,
+     "answers": [
+      {
+       "text": "1 - Not at all confident",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "2 - A little confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3 - Somewhat confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "4 - Mostly confident",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "5 - Very confident",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "Which idea from these lessons is still unclear to you? It might be the Overland Campaign, total war, the election of 1864, the Thirteenth Amendment, the surrender at Appomattox, or Juneteenth. Say what you do not yet understand.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "At Appomattox, Grant stopped his soldiers from cheering and ordered food for Lee's starving army. Which of these virtues did that show: courage, courtesy, honesty, perseverance, self-government, service, or responsibility? Explain in two or three sentences, and tell about a time you needed that same virtue.",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "canvas_question_count": 4,
+   "week": 34
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d964",
+   "title": "Discussion: Why Did the Upper South Wait?",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Why Did the Upper South Wait?</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written post and one reply · threaded discussion</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">★ ☆ ★</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #A58B4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A58B4E; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The prompt</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Seven states left the Union before Fort Sumter. Virginia, North Carolina, Tennessee, and Arkansas waited until Lincoln called for troops, and four border states never left. Make one specific claim about the main reason the Upper South waited, and what Lincoln's call for 75,000 militia changed. Use at least one fact from this week's lessons or sources to back your claim, and explain why that fact supports it. Write about 100 to 150 words.</p><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate (about 50 to 100 words). If you agree, strengthen their reasoning with a new fact. If you disagree, respectfully explain where their reasoning falls short.</p></div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag770",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null,
+   "week": 31
+  },
+  {
+   "id": "d965",
+   "title": "Discussion: Why Did Lincoln Wait to Free the Slaves?",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Why Did Lincoln Wait to Free the Slaves?</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written post and one reply · threaded discussion</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">★ ☆ ★</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #A58B4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A58B4E; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The prompt</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">When the war began, Lincoln said he fought to save the Union. He did not announce the Emancipation Proclamation until almost two years later. Make one specific claim: was Lincoln wise to wait, did he wait too long, or was waiting the only choice he had? Use at least one fact from this week's lessons or sources to back your claim, and explain why that fact supports it. Write about 100 to 150 words.</p><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate (about 50 to 100 words). If you agree, strengthen their reasoning with a new fact. If you disagree, respectfully explain where their reasoning falls short.</p></div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag770",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null,
+   "week": 32
+  },
+  {
+   "id": "d966",
+   "title": "Discussion: What Did Lincoln Mean by \"a New Birth of Freedom\"?",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: What Did Lincoln Mean by \"a New Birth of Freedom\"?</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written post and one reply · threaded discussion</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #A58B4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A58B4E; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The prompt</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">At Gettysburg, Lincoln said that the nation would have \"a new birth of freedom.\" Make one specific claim about what he meant: freedom for the slaves, a renewed Union, a new understanding of the Declaration of Independence, or something else. Use at least one fact from this week's lessons or sources to back your claim, and explain why that fact supports it. Write about 100 to 150 words.</p><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate (about 50 to 100 words). If you agree, strengthen their reasoning with a new fact. If you disagree, respectfully explain where their reasoning falls short.</p></div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag770",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null,
+   "week": 33
+  },
+  {
+   "id": "d967",
+   "title": "Discussion: Was Sherman's March Justified?",
+   "html": "<div id=\"sparkled-assessment\"><div><div style=\"background:#2E2F34; border-bottom:4px solid #A58B4E; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#7FD3F0; margin-bottom:6px;\"><strong>MODULE 6 · DISCUSSION</strong></div><div style=\"font-family:Marcellus, Georgia, 'Times New Roman', serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Was Sherman's March Justified?</div><div style=\"font-size:15px; color:#F2C14E;\">10 points · written post and one reply · threaded discussion</div></div><div style=\"text-align:center; color:#A58B4E; font-size:18px; line-height:1; margin:2px 0 18px; padding-top:8px; border-top:1px solid #9A272C;\">✦ ✧ ✦</div><div style=\"background:#FFFFFF; border:1px solid #DBD5C8; border-top:4px solid #A58B4E; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A58B4E; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The prompt</strong></div><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Sherman believed in total war and said that \"war is cruelty, and you cannot refine it.\" His soldiers destroyed railroads, took crops, and burned barns, mills, and cotton gins, but did not usually kill civilians. Make one specific claim: was Sherman's March justified, unjustified, or justified only in part? Use at least one fact from this week's lessons or sources, including what Sherman did, what he did not do, and what he was trying to accomplish, to back your claim. Write about 100 to 150 words.</p><p style=\"font-size:17px; color:#1D1A17; line-height:1.6; margin:0 0 10px;\">Then reply to one classmate (about 50 to 100 words). If you agree, strengthen their reasoning with a new fact. If you disagree, respectfully explain where their reasoning falls short.</p></div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag770",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": null,
+   "week": 34
+  }
+ ],
+ "files": [],
+ "assignment_groups": [
+  {
+   "id": "ag769",
+   "title": "Tier 1: Student & Material",
+   "weight": 55.0,
+   "canvas_id": 769
+  },
+  {
+   "id": "ag770",
+   "title": "Tier 2: Student & Community",
+   "weight": 30.0,
+   "canvas_id": 770
+  },
+  {
+   "id": "ag771",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 15.0,
+   "canvas_id": 771
+  }
+ ],
+ "modules": [
+  {
+   "id": "m_sp_6",
+   "title": "The American Civil War",
+   "published": true,
+   "items": [
+    {
+     "title": "Intro (Lessons 6.1 and 6.2): How Does a War Begin When Neither Side Wants to Fire First?",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4926",
+     "published": true,
+     "week": 31
+    },
+    {
+     "title": "Lesson 6.1: Lincoln Holds Fort Sumter; the Upper South Chooses Sides",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-6-dot-1-lincoln-holds-fort-sumter-the-upper-south-chooses-sides",
+     "published": true,
+     "week": 31,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Lesson 6.2: Lee and Jackson Outmaneuver the Army of the Potomac",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-6-dot-2-lee-and-jackson-outmaneuver-the-army-of-the-potomac",
+     "published": true,
+     "week": 31,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 1: First Inaugural Address (Lincoln, 1861)",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-1-first-inaugural-address-lincoln-1861",
+     "published": true,
+     "week": 31,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Lincoln's First Inaugural Address (1861)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13418",
+     "published": true,
+     "week": 31
+    },
+    {
+     "title": "Primary Source 2: The Cornerstone Speech",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-2-the-cornerstone-speech",
+     "published": true,
+     "week": 31,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Exercise: Stephens's Cornerstone Speech (1861)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13419",
+     "published": true,
+     "week": 31
+    },
+    {
+     "title": "Discussion: Why Did the Upper South Wait?",
+     "indent": 0,
+     "type": "discussion",
+     "ref": "d964",
+     "published": true,
+     "week": 31
+    },
+    {
+     "title": "Reading Quiz: Lessons 6.1 and 6.2",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4927",
+     "published": true,
+     "week": 31
+    },
+    {
+     "title": "Outro (Lessons 6.1 and 6.2): Looking Back at Fort Sumter and the War in the East",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4928",
+     "published": true,
+     "week": 31
+    },
+    {
+     "title": "Intro (Lessons 6.3 and 6.4): Why Might a Leader Who Thinks Something Is Wrong Wait to Act Against It?",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4929",
+     "published": true,
+     "week": 32
+    },
+    {
+     "title": "Lesson 6.3: Grant and Farragut Dominate the Western Theater",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-6-dot-3-grant-and-farragut-dominate-the-western-theater",
+     "published": true,
+     "week": 32,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Lesson 6.4: Lincoln Makes Emancipation the Cause",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-6-dot-4-lincoln-makes-emancipation-the-cause",
+     "published": true,
+     "week": 32,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 1: Emancipation Proclamation",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-1-emancipation-proclamation",
+     "published": true,
+     "week": 32,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: The Emancipation Proclamation (1863)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13422",
+     "published": true,
+     "week": 32
+    },
+    {
+     "title": "Primary Source 2: Men of Color, To Arms!",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-2-men-of-color-to-arms",
+     "published": true,
+     "week": 32,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Exercise: Douglass, \"Men of Color, to Arms!\" (1863)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13423",
+     "published": true,
+     "week": 32
+    },
+    {
+     "title": "Discussion: Why Did Lincoln Wait to Free the Slaves?",
+     "indent": 0,
+     "type": "discussion",
+     "ref": "d965",
+     "published": true,
+     "week": 32
+    },
+    {
+     "title": "Reading Quiz: Lessons 6.3 and 6.4",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4930",
+     "published": true,
+     "week": 32
+    },
+    {
+     "title": "Outro (Lessons 6.3 and 6.4): Looking Back at the Western War and Emancipation",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4931",
+     "published": true,
+     "week": 32
+    },
+    {
+     "title": "Intro (Lessons 6.5 and 6.6): What Makes One Moment in a Long War a Turning Point?",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4932",
+     "published": true,
+     "week": 33
+    },
+    {
+     "title": "Lesson 6.5: Vicksburg and Gettysburg Turn the Tide",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-6-dot-5-vicksburg-and-gettysburg-turn-the-tide",
+     "published": true,
+     "week": 33,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Lesson 6.6: The War Reaches Every Home",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-6-dot-6-the-war-reaches-every-home",
+     "published": true,
+     "week": 33,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 1: The Gettysburg Address",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-1-the-gettysburg-address",
+     "published": true,
+     "week": 33,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Lincoln's Gettysburg Address (1863)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13426",
+     "published": true,
+     "week": 33
+    },
+    {
+     "title": "Primary Source 2: A Diary from Dixie",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-2-a-diary-from-dixie",
+     "published": true,
+     "week": 33,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Report: Mary Chesnut's Diary from Dixie",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13427",
+     "published": true,
+     "week": 33
+    },
+    {
+     "title": "Discussion: What Did Lincoln Mean by \"a New Birth of Freedom\"?",
+     "indent": 0,
+     "type": "discussion",
+     "ref": "d966",
+     "published": true,
+     "week": 33
+    },
+    {
+     "title": "Reading Quiz: Lessons 6.5 and 6.6",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4933",
+     "published": true,
+     "week": 33
+    },
+    {
+     "title": "Outro (Lessons 6.5 and 6.6): Looking Back at 1863 and the Home Front",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4934",
+     "published": true,
+     "week": 33
+    },
+    {
+     "title": "Intro (Lessons 6.7 and 6.8): Can a Harsher War Be the Kinder War?",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4935",
+     "published": true,
+     "week": 34
+    },
+    {
+     "title": "Lesson 6.7: Grant and Sherman Break the Confederacy",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-6-dot-7-grant-and-sherman-break-the-confederacy",
+     "published": true,
+     "week": 34,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Lesson 6.8: Lee Surrenders; Lincoln’s Assassination",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_lesson-6-dot-8-lee-surrenders-lincolns-assassination",
+     "published": true,
+     "week": 34,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source 1: Second Inaugural Address",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-1-second-inaugural-address",
+     "published": true,
+     "week": 34,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Critical Questions: Lincoln's Second Inaugural Address (1865)",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13430",
+     "published": true,
+     "week": 34
+    },
+    {
+     "title": "Primary Source 2: Personal Memoirs, the surrender at Appomattox",
+     "indent": 0,
+     "type": "page",
+     "ref": "p_primary-source-2-personal-memoirs-the-surrender-at-appomattox",
+     "published": true,
+     "week": 34,
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Exercise: Grant's Memoirs, the Surrender at Appomattox",
+     "indent": 0,
+     "type": "assignment",
+     "ref": "a13431",
+     "published": true,
+     "week": 34
+    },
+    {
+     "title": "Discussion: Was Sherman's March Justified?",
+     "indent": 0,
+     "type": "discussion",
+     "ref": "d967",
+     "published": true,
+     "week": 34
+    },
+    {
+     "title": "Reading Quiz: Lessons 6.7 and 6.8",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4936",
+     "published": true,
+     "week": 34
+    },
+    {
+     "title": "Outro (Lessons 6.7 and 6.8): Looking Back at the End of the War",
+     "indent": 0,
+     "type": "quiz",
+     "ref": "q4937",
+     "published": true,
+     "week": 34
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of M/J U.S. History 1492-Reconstruction, Spring. Read from Canvas course 289 (naming authority: titles, order, points, groups, quiz questions) with _build/pull_canvas.py on 2026-11-21; the sparkled module, not its \"(Unsparkled)\" twin. Item ids are the same as in 2100010-s2 (Civics precedent); weeks, published state and Mark as done taken from the s2 kit. Module number removed from student-facing module and intro/outro titles. Lessons are iframe pages on https://optimaondemand.github.io/mjushistory-lessons-spring/."
+ }
+}

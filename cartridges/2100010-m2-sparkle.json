@@ -1,0 +1,213 @@
+{
+ "id": "2100010-m2-sparkle",
+ "label": "The North Pursues Innovation and Progress · Sparkle",
+ "code": "2100010",
+ "title": "07 MJ US Hist 1492-Recon Spring 2100010",
+ "file": "cartridges/2100010-m2-sparkle.imscc",
+ "bytes": 33761,
+ "version": "2026.11.21",
+ "built": "2026-11-21T02:38:07",
+ "front_page": "wiki_content/course-home.html",
+ "items": 11,
+ "modules": [
+  {
+   "id": "m_sp_2",
+   "title": "The North Pursues Innovation and Progress",
+   "gid": "gc3bbc74136b6dda7c29bbe7ce2d1665c",
+   "published": true,
+   "items": 11,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 6,
+  "assignments": 2,
+  "quizzes": 3,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 11
+ },
+ "weights": [
+  {
+   "title": "Tier 1: Student & Material",
+   "weight": 55.0
+  },
+  {
+   "title": "Tier 2: Student & Community",
+   "weight": 30.0
+  }
+ ],
+ "groups": [
+  {
+   "id": "gc6d3fd9caf7c63fbd896c494da769d10",
+   "title": "Tier 1: Student & Material",
+   "weight": 55.0,
+   "position": 1
+  },
+  {
+   "id": "ge9b02d067b4890e1b131beaccd5e9670",
+   "title": "Tier 2: Student & Community",
+   "weight": 30.0,
+   "position": 2
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "a13386",
+   "type": "assignment",
+   "title": "Critical Questions: Harriet Hanson Robinson on the Lowell Mills",
+   "gid": "gbfba57e5bd2a1261e58678389624b151",
+   "xml": "gbfba57e5bd2a1261e58678389624b151/assignment_settings.xml",
+   "module": "m_sp_2",
+   "week": 23,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "ge9b02d067b4890e1b131beaccd5e9670",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "a13387",
+   "type": "assignment",
+   "title": "Primary Source Exercise: Finney on Revivals of Religion",
+   "gid": "g8178ccf1331fbd85aaa9e932a9475d03",
+   "xml": "g8178ccf1331fbd85aaa9e932a9475d03/assignment_settings.xml",
+   "module": "m_sp_2",
+   "week": 23,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "ge9b02d067b4890e1b131beaccd5e9670",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q4902",
+   "type": "quiz",
+   "title": "Intro (Lessons 2.1 and 2.2): How Do New Machines and New Ideas Change Ordinary Lives?",
+   "gid": "gba1def0d54ed7b3ac8cfbfecbfc64515",
+   "xml": "gba1def0d54ed7b3ac8cfbfecbfc64515/assessment_meta.xml",
+   "module": "m_sp_2",
+   "week": 23,
+   "kind": null,
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q4903",
+   "type": "quiz",
+   "title": "Reading Quiz: Lessons 2.1 and 2.2",
+   "gid": "g89649bbd881579ffdd5d507ec75c6c23",
+   "xml": "g89649bbd881579ffdd5d507ec75c6c23/assessment_meta.xml",
+   "module": "m_sp_2",
+   "week": 23,
+   "kind": null,
+   "points": 7.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "gc6d3fd9caf7c63fbd896c494da769d10",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q4904",
+   "type": "quiz",
+   "title": "Outro (Lessons 2.1 and 2.2): Looking Back at Machines and Conscience",
+   "gid": "gb8d3ba18dca5bb38438b57e30c89f8ba",
+   "xml": "gb8d3ba18dca5bb38438b57e30c89f8ba/assessment_meta.xml",
+   "module": "m_sp_2",
+   "week": 23,
+   "kind": null,
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d956",
+   "type": "discussion",
+   "title": "Discussion: Lowell Mills, Opportunity or Exploitation?",
+   "gid": "g7b3c19f7305ab4b347565baf6f012e4b",
+   "xml": "gdd90a044714dee8dec4784695b0dae8e.xml",
+   "module": "m_sp_2",
+   "week": 23,
+   "kind": null,
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "ge9b02d067b4890e1b131beaccd5e9670",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec 2100010-m2-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [
+   "weighted grading on but weights sum to 85.0"
+  ],
+  "stats": {
+   "resources": 17,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 7,
+    "webcontent": 6,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 3,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 11,
+   "modules": 1,
+   "module_items": 11,
+   "module_item_types": {
+    "Quizzes::Quiz": 3,
+    "WikiPage": 5,
+    "Assignment": 2,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 6,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 2,
+   "group_refs": 5,
+   "quizzes": 3,
+   "assignments": 2,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 44.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "adb7e09c50e227738644bc4000e44041dae35258c27e350f8eabf7bfc00238e6",
+ "art_pack": null
+}
