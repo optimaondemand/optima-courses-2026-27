@@ -1,0 +1,204 @@
+{
+ "id": "2100310-m11",
+ "label": "Korea, the Red Scare, and the Affluent Society",
+ "code": "2100310",
+ "title": "10 HS US Hist Recon-Pres 2100310 Q3-Q4",
+ "file": "cartridges/2100310-m11.imscc",
+ "bytes": 24379,
+ "version": "2026.11.21",
+ "built": "2026-11-21T02:45:44",
+ "front_page": "wiki_content/course-home.html",
+ "items": 8,
+ "modules": [
+  {
+   "id": "m_11",
+   "title": "Korea, the Red Scare, and the Affluent Society",
+   "gid": "gd96dfa37377279b158ac50994c7686d1",
+   "published": true,
+   "items": 8,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 5,
+  "assignments": 1,
+  "quizzes": 2,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 8
+ },
+ "weights": [
+  {
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "title": "Tier 1: Student & Material",
+   "weight": 30.0
+  },
+  {
+   "title": "Tier 2: Student & Community",
+   "weight": 25.0
+  },
+  {
+   "title": "Tier 3: Student & Teacher",
+   "weight": 45.0
+  },
+  {
+   "title": "Tier 4: Ungraded Scaffolding",
+   "weight": 0
+  }
+ ],
+ "groups": [
+  {
+   "id": "g106810928602910cc964c2cd835d06e6",
+   "title": "Assignments",
+   "weight": 0.0,
+   "position": 1
+  },
+  {
+   "id": "gad0faab80d13a88b48d13f2d4a2fa6b3",
+   "title": "Tier 1: Student & Material",
+   "weight": 30.0,
+   "position": 2
+  },
+  {
+   "id": "gbfa6d8946702326c31f433dbc5d536b7",
+   "title": "Tier 2: Student & Community",
+   "weight": 25.0,
+   "position": 3
+  },
+  {
+   "id": "gdc1f05459985f4aad9a4e2186919dc43",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 45.0,
+   "position": 4
+  },
+  {
+   "id": "gb1eb2c309ea08acda581b21d9a99a522",
+   "title": "Tier 4: Ungraded Scaffolding",
+   "weight": 0.0,
+   "position": 5
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "a_m11_psr",
+   "type": "assignment",
+   "title": "Primary Source Report: MacArthur or Smith",
+   "gid": "g26862ff7882424331dec524d5d453e65",
+   "xml": "g26862ff7882424331dec524d5d453e65/assignment_settings.xml",
+   "module": "m_11",
+   "week": 11,
+   "kind": "primary-source-report",
+   "points": 20.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "gdc1f05459985f4aad9a4e2186919dc43",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m11_intro",
+   "type": "quiz",
+   "title": "Module Intro: Before You Begin",
+   "gid": "gb3539e8d94c89494e911c7817b402b82",
+   "xml": "gb3539e8d94c89494e911c7817b402b82/assessment_meta.xml",
+   "module": "m_11",
+   "week": 11,
+   "kind": "module-intro-survey",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m11_outro",
+   "type": "quiz",
+   "title": "Module Outro: Looking Back",
+   "gid": "g43c8d4f381988be54841514d9fa36aca",
+   "xml": "g43c8d4f381988be54841514d9fa36aca/assessment_meta.xml",
+   "module": "m_11",
+   "week": 11,
+   "kind": "module-outro-survey",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_m11",
+   "type": "discussion",
+   "title": "Discussion: Truman and MacArthur: Who Commands the Army in a Republic?",
+   "gid": "g9fcb2eb0946fb019de1c1345c442f008",
+   "xml": "gbe1c71435ec8f44be2b4a1b3de3c45f8.xml",
+   "module": "m_11",
+   "week": 11,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "gbfa6d8946702326c31f433dbc5d536b7",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec 2100310-m11.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [],
+  "stats": {
+   "resources": 13,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 5,
+    "webcontent": 5,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 2,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 8,
+   "modules": 1,
+   "module_items": 8,
+   "module_item_types": {
+    "Quizzes::Quiz": 2,
+    "WikiPage": 4,
+    "Assignment": 1,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 5,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 5,
+   "group_refs": 2,
+   "quizzes": 2,
+   "assignments": 1,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 30.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "4f7127d26bef12a1ccadc576adc2088326525f27bb5867cda955bf47c7b0c71f",
+ "art_pack": null
+}

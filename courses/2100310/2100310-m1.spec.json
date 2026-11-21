@@ -1,0 +1,1037 @@
+{
+ "course": {
+  "title": "10 HS US Hist Recon-Pres 2100310 Q3-Q4",
+  "code": "2100310",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_tier1",
+   "title": "Tier 1: Student & Material",
+   "weight": 30.0
+  },
+  {
+   "id": "ag_tier2",
+   "title": "Tier 2: Student & Community",
+   "weight": 25.0
+  },
+  {
+   "id": "ag_tier3",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 45.0
+  },
+  {
+   "id": "ag_tier4",
+   "title": "Tier 4: Ungraded Scaffolding",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_m1_psr",
+   "title": "Rubric: Primary Source Report: Lodge or Palmer",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "Source and lesson used accurately; steps 1 to 4 all present",
+       "points": 5.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Mostly accurate; one step thin",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Source misread or lesson not used",
+       "points": 1.0
+      },
+      {
+       "description": "No evidence",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "Tests the claim against evidence and weighs both",
+       "points": 5.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Reports the claim, tests it lightly",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Summarizes only",
+       "points": 1.0
+      },
+      {
+       "description": "No evidence",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "Organized in paragraphs, precise, within length",
+       "points": 5.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Understandable, some wandering",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Hard to follow or far off length",
+       "points": 1.0
+      },
+      {
+       "description": "No evidence",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "The limit in step 5 is real and specific",
+       "points": 5.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Limit is generic",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "No limit named",
+       "points": 1.0
+      },
+      {
+       "description": "No evidence",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m1_critical_questions",
+   "title": "Rubric: Critical Questions: Lodge, Speech Against the League of Nations",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "Uses accurate details from the speech and Lesson 1.1",
+       "points": 5.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Mostly accurate, some gaps",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Little connection to the source or lesson",
+       "points": 1.0
+      },
+      {
+       "description": "No evidence",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "Each answer gives a clear reason and a plausible consequence",
+       "points": 5.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Reasons are present but thin",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Opinion with no support",
+       "points": 1.0
+      },
+      {
+       "description": "No evidence",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "Direct, organized, precise",
+       "points": 5.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Understandable, some vague points",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Hard to follow",
+       "points": 1.0
+      },
+      {
+       "description": "No evidence",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "Names a limit, an uncertainty, or a point that cuts against the answer",
+       "points": 5.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Gestures at uncertainty",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Claims certainty about what cannot be known",
+       "points": 1.0
+      },
+      {
+       "description": "No evidence",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m1_ps_exercise",
+   "title": "Rubric: Primary Source Exercise: Palmer, \"The Case Against the 'Reds'\"",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "Uses accurate details from the article and Lesson 1.3",
+       "points": 5.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Mostly accurate, some gaps",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Little connection to the source or lesson",
+       "points": 1.0
+      },
+      {
+       "description": "No evidence",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "Clear reasons, plausible consequences",
+       "points": 5.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Reasons present but thin",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Opinion with no support",
+       "points": 1.0
+      },
+      {
+       "description": "No evidence",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "Direct, organized, precise",
+       "points": 5.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Understandable, some vague points",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Hard to follow",
+       "points": 1.0
+      },
+      {
+       "description": "No evidence",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "Names a limit, an uncertainty, or a point that cuts against the answer",
+       "points": 5.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Gestures at uncertainty",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Claims certainty about what cannot be known",
+       "points": 1.0
+      },
+      {
+       "description": "No evidence",
+       "long_description": "",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_m1_discussion",
+   "title": "Rubric: Discussion: Who Killed the League: Wilson or the Senate?",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Post and reply",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Clear position, specific evidence from the week, names a counterpoint, and the reply engages a classmate's actual reasoning",
+       "points": 10.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Position stated but evidence vague, no counterpoint, or the reply only says \"I agree\"",
+       "points": 6.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no reply",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_module-1-map",
+   "title": "Module Map",
+   "slug": "module-1-map",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #0E1C42; border-radius: 12px; overflow: hidden; background: #FFFDF8;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; border-bottom: 4px solid #8E2F2A; font-family: 'Old Standard TT', Georgia, 'Times New Roman', serif; font-size: 1.15em;\">Module 1 Map</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-19/module-map.html\" width=\"100%\" height=\"1300\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_1-dot-2-the-league-rejected-1919-to-1922",
+   "title": "The League Rejected, 1919 to 1922",
+   "slug": "1-dot-2-the-league-rejected-1919-to-1922",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">1.2 The League Rejected, 1919 to 1922</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-19/lesson-1.html\" width=\"100%\" height=\"4000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_1-dot-3-primary-source-henry-cabot-lodge-speech-against-the-league-of-nations",
+   "title": "Primary Source: Henry Cabot Lodge, Speech Against the League of Nations",
+   "slug": "1-dot-3-primary-source-henry-cabot-lodge-speech-against-the-league-of-nations",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">1.3 Primary Source: Henry Cabot Lodge, Speech Against the League of Nations</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-19/primary-source-1.html\" width=\"100%\" height=\"1500\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_1-dot-4-red-scare-strikes-and-the-closing-door",
+   "title": "Red Scare, Strikes, and the Closing Door",
+   "slug": "1-dot-4-red-scare-strikes-and-the-closing-door",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">1.4 Red Scare, Strikes, and the Closing Door</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-19/lesson-2.html\" width=\"100%\" height=\"4000\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_1-dot-5-primary-source-a-mitchell-palmer-the-case-against-the-reds",
+   "title": "Primary Source: A. Mitchell Palmer, \"The Case Against the 'Reds'\"",
+   "slug": "1-dot-5-primary-source-a-mitchell-palmer-the-case-against-the-reds",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">1.5 Primary Source: A. Mitchell Palmer, \"The Case Against the 'Reds'\"</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-19/primary-source-2.html\" width=\"100%\" height=\"1500\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_1-dot-11-week-19-wrap-up",
+   "title": "Wrap-Up",
+   "slug": "1-dot-11-week-19-wrap-up",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #0E1C42; border-radius: 12px; overflow: hidden; background: #FFFDF8;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; border-bottom: 4px solid #8E2F2A; font-family: 'Old Standard TT', Georgia, 'Times New Roman', serif; font-size: 1.15em;\">1.11 Week 19 Wrap-Up</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/week-19/week-wrap-up.html\" width=\"100%\" height=\"1400\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a_m1_psr",
+   "title": "Primary Source Report: Lodge or Palmer",
+   "html": "<div style=\"background:#0E1C42; border-bottom:4px solid #8E2F2A; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px;  color:#55C8E8; margin-bottom:6px;\"><strong>MODULE PROJECT</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Report: Lodge or Palmer</div><div style=\"font-size:15px; color:#F4E3E0;\">20 points · Word document · one turn-in</div></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #8E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8E2F2A; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Today's Focus</strong></div><p style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:21px; color:#0E1C42; line-height:1.4; margin:0 0 10px;\"><strong>Which source will you test: Lodge or Palmer?</strong></p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Choose one source and write a report of 400 to 500 words in five parts. Both sources are in the book to reread and mark. One article by a historian, found on JStor, helps you test the claim.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2D4D73; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2D4D73; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Start Here</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Open the project book: <a href=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-19/project-primary-source-report.html\" target=\"_blank\"><strong>Primary Source Report: Lodge or Palmer</strong></a>. It holds both sources, word for word, for you to read and mark. It also checks a quotation against the source, builds your citation, and gathers your notes for the report.</p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Then write your report in Word and submit it here. The steps below show everything you need.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2D4D73; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2D4D73; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Objectives</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 6px;\">By the end of this project, you will be able to:</p><ul style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">place a source: who wrote it, when, for what audience, and what the author wanted readers to do or believe</li><li style=\"margin-bottom:8px;\">state the author's main claim in your own words and point to one specific passage that supports it</li><li style=\"margin-bottom:8px;\">find, judge, and cite one scholarly article on JStor</li><li style=\"margin-bottom:8px;\">test the claim against a lesson and that article: what they confirm, what they complicate, and what the author leaves out</li><li style=\"margin-bottom:8px;\">name one thing you cannot learn about this period from this source alone</li><li style=\"margin-bottom:8px;\">write 400 to 500 words in complete paragraphs and submit them as a Word file through Canvas</li></ul></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #8E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8E2F2A; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Your Five Steps</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Write in complete paragraphs. You do not need a title page. Cite the source, the lesson, and your JStor article by name.</p><div style=\"margin:0 0 12px; overflow:hidden;\"><div style=\"float:left; width:28px; height:28px; line-height:28px; text-align:center; border-radius:50%; background:#0E1C42; color:#FFFFFF;  font-size:15px; margin-right:12px;\">1</div><div style=\"margin-left:42px; font-size:17px; color:#1C1B1A; line-height:1.6;\"><strong>Place the source.</strong> Who wrote it, when, and for what audience? What was the author trying to get readers to do or believe?</div></div><div style=\"margin:0 0 12px; overflow:hidden;\"><div style=\"float:left; width:28px; height:28px; line-height:28px; text-align:center; border-radius:50%; background:#0E1C42; color:#FFFFFF;  font-size:15px; margin-right:12px;\">2</div><div style=\"margin-left:42px; font-size:17px; color:#1C1B1A; line-height:1.6;\"><strong>State the main claim</strong> in your own words.</div></div><div style=\"margin:0 0 12px; overflow:hidden;\"><div style=\"float:left; width:28px; height:28px; line-height:28px; text-align:center; border-radius:50%; background:#0E1C42; color:#FFFFFF;  font-size:15px; margin-right:12px;\">3</div><div style=\"margin-left:42px; font-size:17px; color:#1C1B1A; line-height:1.6;\"><strong>Point to evidence.</strong> Quote or describe one specific passage the author uses to support the claim.</div></div><div style=\"margin:0 0 12px; overflow:hidden;\"><div style=\"float:left; width:28px; height:28px; line-height:28px; text-align:center; border-radius:50%; background:#0E1C42; color:#FFFFFF;  font-size:15px; margin-right:12px;\">4</div><div style=\"margin-left:42px; font-size:17px; color:#1C1B1A; line-height:1.6;\"><strong>Test the claim.</strong> Using the lesson “The League Rejected, 1919 to 1922” or the lesson “Red Scare, Strikes, and the Closing Door,” and one scholarly article you find on JStor, say what they confirm, what they complicate, and what the author leaves out.</div></div><div style=\"margin:0 0 12px; overflow:hidden;\"><div style=\"float:left; width:28px; height:28px; line-height:28px; text-align:center; border-radius:50%; background:#0E1C42; color:#FFFFFF;  font-size:15px; margin-right:12px;\">5</div><div style=\"margin-left:42px; font-size:17px; color:#1C1B1A; line-height:1.6;\"><strong>Name a limit.</strong> Tell one thing you cannot learn about this period from this source alone.</div></div></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2D4D73; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2D4D73; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Research Desk · JStor</strong></div><ul style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\"><strong>It holds:</strong> Journal articles, books, and primary sources in one searchable library.</li><li style=\"margin-bottom:8px;\"><strong>You get in:</strong> Your teacher posts the school's JStor login for this assignment. The login is not on the project page.</li><li style=\"margin-bottom:8px;\"><strong>You want:</strong> One historian's argument about your source's subject, not a summary of events.</li></ul><h3 style=\"font-size:19px; color:#0E1C42; margin:16px 0 8px; line-height:1.3;\">1. Search</h3><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Start from your source. Put an exact phrase in quotation marks and join terms with AND.</p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">In Advanced Search, each term gets its own box, with AND, OR, or NOT between them. Below the boxes, narrow the results by item type and publication date.</p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">A search for “League of Nations” alone returns thousands of results. Decide what the best next move is before you open anything.</p><h3 style=\"font-size:19px; color:#0E1C42; margin:16px 0 8px; line-height:1.3;\">2. Read before you save</h3><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Open a result and read the abstract or the first-page preview. Ask five questions.</p><ul style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\"><strong>Who wrote it?</strong> The author's name is under the title, on the results list and on the first page.</li><li style=\"margin-bottom:8px;\"><strong>When was it published?</strong> The year is in the line that names the journal, its volume, and its issue.</li><li style=\"margin-bottom:8px;\"><strong>Where was it published?</strong> A scholarly journal appears with a volume, an issue, and page numbers. Book reviews and front matter are not articles.</li><li style=\"margin-bottom:8px;\"><strong>What does it argue?</strong> Find the sentence in the abstract or the first page that states the author's argument. Put it in your own words.</li><li style=\"margin-bottom:8px;\"><strong>Does it speak to your source?</strong> Look for your author, the event, or the years 1919 and 1920 in the abstract. An article about a different decade will not test your claim.</li></ul><div style=\"background:#F4E3E0; border-left:4px solid #8E2F2A; border-radius:6px; padding:10px 14px; margin:0 0 12px; font-size:17px; color:#1C1B1A; line-height:1.6;\"><strong>AI tools can invent articles and authors that do not exist.</strong> Use only an article you opened on JStor yourself.</div><h3 style=\"font-size:19px; color:#0E1C42; margin:16px 0 8px; line-height:1.3;\">3. Cite</h3><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Every item on JStor has a Cite button that gives the citation in several styles. Copy the Chicago citation.</p><div style=\"background:#E4EBF3; border-left:4px solid #2D4D73; border-radius:6px; padding:10px 14px; margin:0 0 12px; font-size:16px; color:#1C1B1A; line-height:1.6;\"><em>Pattern, not a real article:</em><br>Last, First. “Title of the Article.” Journal Name vol. #, no. # (Year): #–#. https://www.jstor.org/stable/#####.</div><h3 style=\"font-size:19px; color:#0E1C42; margin:16px 0 8px; line-height:1.3;\">4. Keep three notes</h3><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">The project book gathers these with your other prep:</p><ul style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\"><strong>Your search.</strong> Terms you used, results, what you changed.</li><li style=\"margin-bottom:8px;\"><strong>Your article.</strong> Copied from JStor's Cite button.</li><li style=\"margin-bottom:8px;\"><strong>What it argues.</strong> Its argument in one sentence, and whether it confirms or complicates your source.</li></ul></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #8E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8E2F2A; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before You Submit</strong></div><ul style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Write your report in Word and save it to your course folder in OneDrive.</li><li style=\"margin-bottom:8px;\">Name your file: <strong>LastName_FirstName_PrimarySourceReport1_HIS10</strong></li><li style=\"margin-bottom:8px;\">Submit through Canvas using the OneDrive tab or a file upload.</li><li style=\"margin-bottom:8px;\">Need help? Open the “M365 Setup &amp; File Organization Guide” linked in this module.</li></ul><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\"><em>Keep this in mind:</em> Say what the source claims, test it against what you learned, and name what it cannot tell you.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #0E1C42; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#0E1C42; color:#FFFFFF; font-size:12px;  padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#F4E3E0; font-size:14px; width:22%;\">Understanding of the material<br><span style=\"color:#8E2F2A;\">5.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>5.0 pts</strong> Strong<br><span style=\"color:#55524C;\">Source and lesson used accurately; steps 1 to 4 all present</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Developing<br><span style=\"color:#55524C;\">Mostly accurate; one step thin</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#55524C;\">Source misread or lesson not used</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> No evidence</td></tr><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#F4E3E0; font-size:14px; width:22%;\">Quality of reasoning<br><span style=\"color:#8E2F2A;\">5.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>5.0 pts</strong> Strong<br><span style=\"color:#55524C;\">Tests the claim against evidence and weighs both</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Developing<br><span style=\"color:#55524C;\">Reports the claim, tests it lightly</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#55524C;\">Summarizes only</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> No evidence</td></tr><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#F4E3E0; font-size:14px; width:22%;\">Clarity and precision<br><span style=\"color:#8E2F2A;\">5.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>5.0 pts</strong> Strong<br><span style=\"color:#55524C;\">Organized in paragraphs, precise, within length</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Developing<br><span style=\"color:#55524C;\">Understandable, some wandering</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#55524C;\">Hard to follow or far off length</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> No evidence</td></tr><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#F4E3E0; font-size:14px; width:22%;\">Intellectual honesty<br><span style=\"color:#8E2F2A;\">5.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>5.0 pts</strong> Strong<br><span style=\"color:#55524C;\">The limit in step 5 is real and specific</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Developing<br><span style=\"color:#55524C;\">Limit is generic</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#55524C;\">No limit named</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> No evidence</td></tr></tbody></table></div>",
+   "points": 20.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "group": "ag_tier3",
+   "rubric": "r_m1_psr",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "allowed_extensions": "docx",
+   "omit_from_final_grade": false,
+   "kind": "primary-source-report",
+   "week": 1
+  },
+  {
+   "id": "a_m1_critical_questions",
+   "title": "Critical Questions: Lodge, Speech Against the League of Nations",
+   "html": "<div style=\"background:#0E1C42; border-bottom:4px solid #8E2F2A; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#55C8E8; margin-bottom:6px;\"><strong>CRITICAL QUESTIONS</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Critical Questions: Lodge, Speech Against the League of Nations</div><div style=\"font-size:15px; color:#F4E3E0;\">20 points · written answers · one turn-in</div></div><div style=\"border-top:3px double #8E2F2A; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #8E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8E2F2A; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Read the Lodge speech, then answer all four questions. Write three to five sentences for each. Use evidence from the speech and from the lesson \"The League Rejected, 1919 to 1922\". A strong answer gives a reason, not just an opinion. If your answer depends on something you cannot know, say so.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-left:5px solid #8E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"font-size:13px; color:#8E2F2A; margin-bottom:8px;\"><strong>QUESTION 1</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Suppose Wilson had accepted Lodge's change to Article 10 in the fall of 1919, and the Senate had approved the League with that change. Would the League have been stronger or weaker with the United States as a member under those conditions? Explain your reasoning.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-left:5px solid #8E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"font-size:13px; color:#8E2F2A; margin-bottom:8px;\"><strong>QUESTION 2</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Lodge was not one of the senators who opposed the League on any terms, yet his objection to Article 10 persuaded many senators who were. Why did an argument about one article carry so much weight in the Senate?</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-left:5px solid #8E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"font-size:13px; color:#8E2F2A; margin-bottom:8px;\"><strong>QUESTION 3</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Lodge's argument rests on an idea about who should hold the power to commit a nation to war. What is that idea, and why would a citizen of a republic care about it?</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-left:5px solid #8E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"font-size:13px; color:#8E2F2A; margin-bottom:8px;\"><strong>QUESTION 4</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Suppose the Senate had approved the League without any changes. Would the United States have been better or worse off in the 1920s? Defend your answer with at least one specific consequence.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2D4D73; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2D4D73; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Submit</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\"><strong>Submit:</strong> type your answers in the text box in Canvas and submit.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #0E1C42; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#0E1C42; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#F4E3E0; font-size:14px; width:22%;\">Understanding of the material<br><span style=\"color:#8E2F2A;\">5.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>5.0 pts</strong> Strong<br><span style=\"color:#55524C;\">Uses accurate details from the speech and the lesson \"The League Rejected, 1919 to 1922\"</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Developing<br><span style=\"color:#55524C;\">Mostly accurate, some gaps</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#55524C;\">Little connection to the source or lesson</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> No evidence</td></tr><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#F4E3E0; font-size:14px; width:22%;\">Quality of reasoning<br><span style=\"color:#8E2F2A;\">5.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>5.0 pts</strong> Strong<br><span style=\"color:#55524C;\">Each answer gives a clear reason and a plausible consequence</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Developing<br><span style=\"color:#55524C;\">Reasons are present but thin</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#55524C;\">Opinion with no support</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> No evidence</td></tr><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#F4E3E0; font-size:14px; width:22%;\">Clarity and precision<br><span style=\"color:#8E2F2A;\">5.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>5.0 pts</strong> Strong<br><span style=\"color:#55524C;\">Direct, organized, precise</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Developing<br><span style=\"color:#55524C;\">Understandable, some vague points</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#55524C;\">Hard to follow</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> No evidence</td></tr><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#F4E3E0; font-size:14px; width:22%;\">Intellectual honesty<br><span style=\"color:#8E2F2A;\">5.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>5.0 pts</strong> Strong<br><span style=\"color:#55524C;\">Names a limit, an uncertainty, or a point that cuts against the answer</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Developing<br><span style=\"color:#55524C;\">Gestures at uncertainty</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#55524C;\">Claims certainty about what cannot be known</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> No evidence</td></tr></tbody></table></div>",
+   "points": 20.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag_tier3",
+   "rubric": "r_m1_critical_questions",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "kind": "critical-questions",
+   "week": 1
+  },
+  {
+   "id": "a_m1_ps_exercise",
+   "title": "Primary Source Exercise: Palmer, \"The Case Against the 'Reds'\"",
+   "html": "<div style=\"background:#0E1C42; border-bottom:4px solid #8E2F2A; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#55C8E8; margin-bottom:6px;\"><strong>PRIMARY SOURCE EXERCISE</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Primary Source Exercise: Palmer, \"The Case Against the 'Reds'\"</div><div style=\"font-size:15px; color:#F4E3E0;\">20 points · written answers · one turn-in</div></div><div style=\"border-top:3px double #8E2F2A; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #8E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8E2F2A; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Read the Palmer article, then answer all four questions. Write three to five sentences for each. Use evidence from the article and from the source Henry Cabot Lodge, Speech Against the League of Nations. A strong answer gives a reason, not just an opinion.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-left:5px solid #8E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"font-size:13px; color:#8E2F2A; margin-bottom:8px;\"><strong>QUESTION 1</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Palmer wrote in 1920 as if revolution had been close. What events of 1919 made his warning believable to many Americans, even those who had never met a radical?</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-left:5px solid #8E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"font-size:13px; color:#8E2F2A; margin-bottom:8px;\"><strong>QUESTION 2</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Palmer defends the raids as the way to protect the country. Which principle about how a republic should treat people it accuses of crimes is missing from his defense? Use an example from the raids to show why that principle matters.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-left:5px solid #8E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"font-size:13px; color:#8E2F2A; margin-bottom:8px;\"><strong>QUESTION 3</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Palmer predicted violence for May 1, 1920, and nothing happened. Suppose instead that bombs had gone off in several cities that day. How would the Red Scare, and Palmer's reputation, probably have been different? Explain.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-left:5px solid #8E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"font-size:13px; color:#8E2F2A; margin-bottom:8px;\"><strong>QUESTION 4</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Palmer wrote to persuade readers, not only to inform them. What in the article shows this? Then name one kind of evidence from outside the article that you would want to check before trusting his claims.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2D4D73; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2D4D73; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Submit</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\"><strong>Submit:</strong> type your answers in the text box in Canvas and submit.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #0E1C42; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#0E1C42; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#F4E3E0; font-size:14px; width:22%;\">Understanding of the material<br><span style=\"color:#8E2F2A;\">5.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>5.0 pts</strong> Strong<br><span style=\"color:#55524C;\">Uses accurate details from the article and the source Henry Cabot Lodge, Speech Against the League of Nations</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Developing<br><span style=\"color:#55524C;\">Mostly accurate, some gaps</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#55524C;\">Little connection to the source or lesson</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> No evidence</td></tr><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#F4E3E0; font-size:14px; width:22%;\">Quality of reasoning<br><span style=\"color:#8E2F2A;\">5.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>5.0 pts</strong> Strong<br><span style=\"color:#55524C;\">Clear reasons, plausible consequences</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Developing<br><span style=\"color:#55524C;\">Reasons present but thin</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#55524C;\">Opinion with no support</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> No evidence</td></tr><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#F4E3E0; font-size:14px; width:22%;\">Clarity and precision<br><span style=\"color:#8E2F2A;\">5.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>5.0 pts</strong> Strong<br><span style=\"color:#55524C;\">Direct, organized, precise</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Developing<br><span style=\"color:#55524C;\">Understandable, some vague points</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#55524C;\">Hard to follow</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> No evidence</td></tr><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#F4E3E0; font-size:14px; width:22%;\">Intellectual honesty<br><span style=\"color:#8E2F2A;\">5.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>5.0 pts</strong> Strong<br><span style=\"color:#55524C;\">Names a limit, an uncertainty, or a point that cuts against the answer</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>3.0 pts</strong> Developing<br><span style=\"color:#55524C;\">Gestures at uncertainty</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>1.0 pts</strong> Beginning<br><span style=\"color:#55524C;\">Claims certainty about what cannot be known</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> No evidence</td></tr></tbody></table></div>",
+   "points": 20.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "group": "ag_tier3",
+   "rubric": "r_m1_ps_exercise",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "kind": "primary-source-exercise",
+   "week": 1
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q_m1_intro",
+   "title": "Module Intro: Before You Begin",
+   "description": "<div style=\"background:#0E1C42; border-bottom:4px solid #8E2F2A; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#55C8E8; margin-bottom:6px;\"><strong>MODULE INTRO</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module Intro: Before You Begin</div><div style=\"font-size:15px; color:#F4E3E0;\">3 questions · survey · one attempt</div></div><div style=\"border-top:3px double #8E2F2A; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2D4D73; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2D4D73; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Welcome to this module. This short survey is not graded for correctness. Your answers help your teacher see where the class is starting.</p></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Why do you think a nation that helped win a great war might refuse to join the peace that followed? Give your best answer now. You will come back to this question at the end of the module.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>This module has these goals. Read them, then choose one answer.</p>\n<ul>\n<li>Explain why the Senate rejected the Treaty of Versailles and the League of Nations, and why that outcome was not fixed in advance.</li>\n<li>Describe Senator Lodge's objection to Article 10 in terms of who holds the power to declare war in a republic.</li>\n<li>Show how the United States still took part in world affairs after 1919.</li>\n<li>Explain how strikes, bombings, and the Russian Revolution produced the Red Scare of 1919 and 1920.</li>\n<li>Judge the Palmer Raids against the ideal of law applied equally to all.</li>\n<li>Compare the arguments for and against the immigration quotas of 1921 and 1924.</li>\n</ul>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I have read the goals and I understand what this module asks of me.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I have read the goals, but I have a question about one of them.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Some assignments in this course allow you to work with classmates. How do you plan to work this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I would like to work with a group when that is an option.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I would rather work on my own.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "I am not sure yet.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-intro-survey",
+   "week": 1
+  },
+  {
+   "id": "q_m1_reading",
+   "title": "Reading Quiz: The League Rejected, 1919 to 1922",
+   "description": "<div style=\"background:#0E1C42; border-bottom:4px solid #8E2F2A; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#55C8E8; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: The League Rejected, 1919 to 1922</div><div style=\"font-size:15px; color:#F4E3E0;\">6 questions · 6 points · one attempt</div></div><div style=\"border-top:3px double #8E2F2A; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2D4D73; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2D4D73; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Answer each question using what you learned in the lesson \"The League Rejected, 1919 to 1922\". You may look back at the lesson, but the answers are not stated word for word. You will need to put facts together.</p></div>",
+   "quiz_type": "assignment",
+   "points": 6.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_tier1",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Wilson tied the League of Nations to the Treaty of Versailles in a single package. Why did this choice make the League harder to pass?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It forced Germany to join the League before the Senate voted.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It required American voters to approve the treaty in a nationwide vote.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A senator who opposed the treaty's terms could not vote for the League without also voting for the treaty.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It gave Britain and France the power to cancel the Senate's vote.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Suppose the League's Council had asked the United States to send troops to defend a member nation that had been invaded. Which constitutional rule made Senator Lodge uneasy about that kind of promise?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Only Congress has the power to declare war.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Treaties must be approved by every state legislature.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Supreme Court must approve any use of troops abroad.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The House of Representatives must approve each treaty by a two-thirds vote.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>On November 19, 1919, the irreconcilables voted no on the treaty with Lodge's reservations and also no on the treaty without them. What does this tell you about them?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They were loyal to Wilson and followed his instructions.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They wanted the treaty to pass with a different set of reservations.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They had not read either version of the treaty.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They opposed the League itself, not just its wording.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The lesson says the outcome \"was not written in advance.\" Which statement best supports that claim?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Most senators had made up their minds before Wilson returned from Paris.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A more flexible Wilson, or a healthier one, might have made a deal that changed the vote.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Constitution gave the Senate no way to approve the treaty.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The American people were fully united against the League.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Warren G. Harding won more than sixty percent of the vote in 1920. Which reading of that result fits the lesson best?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Voters approved of the Treaty of Versailles and wanted it strengthened.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Voters wanted the United States to join the League at once.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Voters cared only about the economy and gave little thought to the war.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Many voters were tired of crusades, and the League had become tied to Wilson's name.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which detail from 1921 and 1922 best supports the claim that rejecting the League did not mean the United States withdrew completely from world affairs?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Secretary of State Hughes proposed limits on battleships, and the Senate approved a naval treaty among the great powers.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Wilson took a speaking tour of the West by train.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Harding promised a \"return to normalcy.\"",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Lodge drew up a list of reservations to the treaty.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "reading-quiz",
+   "week": 1
+  },
+  {
+   "id": "q_m1_outro",
+   "title": "Module Outro: Looking Back",
+   "description": "<div style=\"background:#0E1C42; border-bottom:4px solid #8E2F2A; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#55C8E8; margin-bottom:6px;\"><strong>MODULE OUTRO</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module Outro: Looking Back</div><div style=\"font-size:15px; color:#F4E3E0;\">5 questions · survey · one attempt</div></div><div style=\"border-top:3px double #8E2F2A; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2D4D73; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2D4D73; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">You have finished this module. Please answer honestly. Your answers help your teacher see how the class is doing.</p></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Look back at the question from the start of the module. Why might a nation that helped win a great war refuse to join the peace that followed? Give your answer now, using at least one fact from this module. You may say if your thinking has changed.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident do you feel about the material in this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Very confident. I could explain it to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Fairly confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Somewhat unsure. I understand parts of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Not confident. I need help.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear to you? Name a person, event, or idea. If nothing is unclear, write \"nothing.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these did the people in this module most need, whether they had it or not?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Pick one person from this module (Wilson, Lodge, Palmer, Hughes, or someone else) and explain, in two or three sentences, how that virtue showed up in what they did, or how its absence did.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-outro-survey",
+   "week": 1
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_m1",
+   "title": "Discussion: Who Killed the League: Wilson or the Senate?",
+   "html": "<div style=\"background:#0E1C42; border-bottom:4px solid #8E2F2A; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#55C8E8; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Who Killed the League: Wilson or the Senate?</div><div style=\"font-size:15px; color:#F4E3E0;\">10 points · threaded discussion</div></div><div style=\"border-top:3px double #8E2F2A; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #0E1C42; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#0E1C42; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The question</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Who was more responsible for the failure of the League of Nations in the United States: President Wilson or the Senate? Both played a part. Your job is to decide which mattered more.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #8E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8E2F2A; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Your post</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\"><strong>Your post (about 100 to 150 words):</strong></p><ol style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 6px; padding-left:22px;\"><li style=\"margin-bottom:6px;\">Take a clear position: Wilson, the Senate, or neither one more than the other.</li><li style=\"margin-bottom:6px;\">Give one specific piece of evidence from the lesson \"The League Rejected, 1919 to 1922\" or the Lodge speech that supports you.</li><li style=\"margin-bottom:6px;\">Name one fact that cuts against your position, and explain why you still hold it.</li></ol></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2D4D73; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2D4D73; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Your reply</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\"><strong>Your reply (about 50 to 75 words):</strong> Respond to one classmate. Do you agree with their reasoning? If so, strengthen it with something they did not use. If not, say respectfully where their reasoning falls short.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #0E1C42; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#0E1C42; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you post</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Post first, then reply. You will not see your classmates' posts until you have posted.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #0E1C42; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#0E1C42; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#F4E3E0; font-size:14px; width:22%;\">Post and reply<br><span style=\"color:#8E2F2A;\">10.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>10.0 pts</strong> Substantive<br><span style=\"color:#55524C;\">Clear position, specific evidence from the week, names a counterpoint, and the reply engages a classmate's actual reasoning</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>6.0 pts</strong> Thin<br><span style=\"color:#55524C;\">Position stated but evidence vague, no counterpoint, or the reply only says \"I agree\"</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> Missing<br><span style=\"color:#55524C;\">No post, or no reply</span></td></tr></tbody></table></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_tier2",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": "r_m1_discussion",
+   "kind": "module-discussion",
+   "week": 1
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_1",
+   "title": "The League Rejected and the Red Scare",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "title": "Module Intro: Before You Begin",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m1_intro"
+    },
+    {
+     "title": "Module Map",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_module-1-map"
+    },
+    {
+     "title": "The League Rejected, 1919 to 1922",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_1-dot-2-the-league-rejected-1919-to-1922",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Henry Cabot Lodge, Speech Against the League of Nations",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_1-dot-3-primary-source-henry-cabot-lodge-speech-against-the-league-of-nations",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Red Scare, Strikes, and the Closing Door",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_1-dot-4-red-scare-strikes-and-the-closing-door",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: A. Mitchell Palmer, \"The Case Against the 'Reds'\"",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_1-dot-5-primary-source-a-mitchell-palmer-the-case-against-the-reds",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source Report: Lodge or Palmer",
+     "indent": 0,
+     "published": true,
+     "type": "assignment",
+     "ref": "a_m1_psr"
+    },
+    {
+     "title": "Reading Quiz: The League Rejected, 1919 to 1922",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m1_reading"
+    },
+    {
+     "title": "Critical Questions: Lodge, Speech Against the League of Nations",
+     "indent": 0,
+     "published": true,
+     "type": "assignment",
+     "ref": "a_m1_critical_questions"
+    },
+    {
+     "title": "Primary Source Exercise: Palmer, \"The Case Against the 'Reds'\"",
+     "indent": 0,
+     "published": true,
+     "type": "assignment",
+     "ref": "a_m1_ps_exercise"
+    },
+    {
+     "title": "Discussion: Who Killed the League: Wilson or the Senate?",
+     "indent": 0,
+     "published": true,
+     "type": "discussion",
+     "ref": "d_m1"
+    },
+    {
+     "title": "Wrap-Up",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_1-dot-11-week-19-wrap-up",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Module Outro: Looking Back",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m1_outro"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Plain edition of one module of HS U.S. History: Reconstruction to Present, Spring Semester. Read from Canvas course 291 with _build/pull_canvas.py on 2026-11-21; the \"(Unsparkled)\" twin module. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/10USHistoryRec-Present-Spring-unsparkled/. Build folder: Course Workshops/10USHistoryRec-Present-Spring/03_Build."
+ }
+}
