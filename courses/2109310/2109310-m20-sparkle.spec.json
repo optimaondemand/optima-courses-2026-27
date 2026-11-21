@@ -1,0 +1,685 @@
+{
+ "course": {
+  "title": "09 HS World Hist SP 2109310",
+  "code": "2109310",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_reading_quizzes",
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0
+  },
+  {
+   "id": "ag_discussions",
+   "title": "Tier 2: Discussions",
+   "weight": 10.0
+  },
+  {
+   "id": "ag_deep_feedback",
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0
+  },
+  {
+   "id": "ag_checkins",
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0
+  },
+  {
+   "id": "ag_exams",
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_20_6",
+   "title": "20.6 Discussion: Was the Dutch Republic Free, or Just Rich? rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Claim and evidence",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that cuts against it.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Takes a position but gives only one detail, or stays general, or ignores the opposing detail.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no clear position.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Response to a classmate",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No reply.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_20_05",
+   "title": "Module Map: The Dutch Republic",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m20/w20-map.html\" width=\"100%\" height=\"2000\" style=\"border:0;\" title=\"The Dutch Republic\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_20_1",
+   "title": "Lesson: The Dutch Revolt: Philip II, William the Silent, and the Water",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m20/w20-lesson-1.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"The Dutch Revolt: Philip II, William the Silent, and the Water\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_20_2",
+   "title": "Lesson: Amsterdam: Merchants, the East India Company, and the Bourse",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m20/w20-lesson-2.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"Amsterdam: Merchants, the East India Company, and the Bourse\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_20_3",
+   "title": "Primary Source: Act of Abjuration (1581)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m20/w20-ps-1.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Act of Abjuration (1581)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_20_4",
+   "title": "Primary Source: Hugo Grotius, Mare Liberum (1609, excerpt)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m20/w20-ps-2.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Hugo Grotius, Mare Liberum (1609, excerpt)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_20_0",
+   "title": "Module Intro: The Dutch Republic",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#0E2A33;border-bottom:4px solid #E8872B;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#7FD0C8;margin-bottom:6px\">MODULE INTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Dutch Republic</div><div style=\"font-size:15px;color:#F5C27A;margin-top:6px\">2 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#E8872B;font-size:18px;line-height:1;margin:14px 0 4px\">◆ ◇ ◆</div><div style=\"height:1px;background:#1D6B6B;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #0E2A33;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#0E2A33;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">How did a small republic of merchants survive the strongest power in Europe, and what did its prosperity cost?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1D6B6B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1D6B6B;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>Welcome to The Dutch Republic. This short check-in is not graded. Your answers help your teacher see where each student is starting, so answer honestly.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #E8872B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8A4A0C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">What you will be able to do</span></div><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#134848\">The Dutch Revolt: Philip II, William the Silent, and the Water</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Explain why the provinces of the Low Countries rebelled against Philip II.</li><li>Describe how William of Orange and the Sea Beggars kept the revolt alive.</li><li>Identify the decisions and accidents that allowed a small republic to survive against the strongest power in Europe.</li></ul><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#134848\">Amsterdam: Merchants, the East India Company, and the Bourse</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Explain how the Dutch built a trading empire on ships, finance, and the East India Company.</li><li>Describe how the Dutch Republic was governed and how religious toleration worked in practice.</li><li>Evaluate the habits and the costs behind Dutch prosperity.</li></ul></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-intro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: How did a small republic of merchants survive the strongest power in Europe, and what did its prosperity cost?</p><p>Give your best answer now, using only what you already know. A guess is fine. You will answer this question again at the end of the week, and the two answers will show how much you learned.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Have you read the objectives for both lessons listed at the top of this page?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I have read them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet. I will read them before I start the lessons.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 20
+  },
+  {
+   "id": "q_20_5",
+   "title": "Reading Quiz: The Dutch Republic",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#0E2A33;border-bottom:4px solid #E8872B;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#7FD0C8;margin-bottom:6px\">READING QUIZ</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Dutch Republic</div><div style=\"font-size:15px;color:#F5C27A;margin-top:6px\">10 questions · 9 points · one attempt</div></div><div style=\"text-align:center;color:#E8872B;font-size:18px;line-height:1;margin:14px 0 4px\">◆ ◇ ◆</div><div style=\"height:1px;background:#1D6B6B;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1D6B6B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1D6B6B;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">About this quiz</span></div><p>This quiz covers both lessons in this module: The Dutch Republic. It has 9 questions with one correct answer each. Reread the lessons if you need to.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #0E2A33;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#0E2A33;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons first. Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you start. Then choose the best answer for each question.</p></div></div>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "reading-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Philip II tried to rule his empire by reading and answering reports in Madrid. Why did this habit weaken his hold on the Low Countries?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "His governors in Brussels secretly sided with the rebels and ignored the reports he sent them.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He could not afford couriers, so reports reached him only once a year, if at all.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Answers to urgent questions took weeks to arrive, by which time events had often changed.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He refused to read reports written by Protestant subjects, so he never heard their grievances.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Every important question traveled to Madrid by courier. A governor could watch a crisis grow but could not settle it without the king's word, and orders often arrived after the situation had changed.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The Duke of Alba's rule united groups that had little reason to cooperate before. Which of his actions did the most to bring Catholics and Protestants, nobles and merchants, together against Philip?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He executed loyal Catholic nobles such as Egmont and Hoorn and imposed a heavy sales tax.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He allowed Calvinist crowds to destroy statues and stained glass in churches across the provinces.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He moved the seat of government from Brussels to Madrid, far from the people it ruled.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He arrested William of Orange and held him in Brussels as a warning to the other nobles.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Alba's Council of Blood punished even loyal Catholics, and the new tax hit every town. Within a few years he had made enemies of nearly everyone in the provinces.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In 1574 the people of Leiden were starving, yet the city was saved by flooding the countryside. Why did the flood help the rebels and not the Spanish?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The water destroyed the Spanish fleet before it could reach the coast, ending the siege at sea.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The flood washed away Leiden's walls so that the rebel army could march straight into the city.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Spanish soldiers could not swim and drowned in large numbers as the water rose around them.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Rebel ships with shallow bottoms could sail over the drowned fields as the Spanish pulled back.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "William had ordered the dikes cut. The sea covered the low fields, so shallow rebel ships could sail toward the city while the besiegers withdrew.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "William of Orange was killed by an assassin in 1584, but the revolt did not collapse. Which explanation best fits the lesson?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Philip II ended the war at once, because he feared the growing power of the Dutch navy at sea.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "His son Maurice rebuilt the army, and local councils kept governing in the name of the provinces.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Catholic southern provinces took over the fighting and drove the Spanish out by 1585.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The English queen sent an army across the sea that finished the war within a few years.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The revolt did not depend on William alone. Maurice paid and drilled a better army, and the provincial councils kept the government running.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In 1576 Spanish soldiers sacked Antwerp and killed thousands of its people, though Philip had not ordered it. What does the lesson suggest was the underlying cause?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Antwerp had refused to pay taxes to the Spanish crown for several years, and the soldiers came to collect.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "William of Orange had hidden his army inside the city, and the Spanish moved in to drive it out.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Their pay was months and years behind after Philip's bankruptcy, so the soldiers mutinied.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Alba had ordered an example to be made of the Protestant cities that had joined the revolt.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Philip's government went bankrupt in 1575, and unpaid soldiers turned on Antwerp, the richest place within reach.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Hugo Grotius argued that the sea was open to the ships of every nation. Yet the Dutch East India Company often shut out rivals once its own ships controlled a trade. What does this suggest?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Dutch applied the principle when it helped them and dropped it once they held the trade.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The company had never heard of Grotius's argument and acted entirely on its own interests.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Grotius's pamphlet was really written to defend Portugal and its claim to the Asian trade.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The company had lost interest in trade and wanted only to rule islands as a government.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The lesson says the company liked the argument but did not always apply it to itself.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The Dutch East India Company sent fleets on voyages that lasted years. Why did the chance to resell shares at the bourse help it raise money?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The government promised to repay every investor's losses if a fleet failed to return home safely.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Investors could sell their shares instead of waiting years for a fleet to come home.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Only the richest merchants of Amsterdam were allowed to own shares, which kept the risk low.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Investors were paid in spices instead of coins, so the company never had to find any cash.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "An investor risked only what he or she put in and could sell the share to someone else at any time, so far more people were willing to invest.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>The Sea Beggars were privateers, sailors who attacked enemy ships with a prince's permission, and they had been using English ports as their base. In the spring of 1572 Queen Elizabeth closed those ports to them. Some six hundred men in a fleet of small ships were suddenly without a harbor, and they went looking for one on the Dutch coast. They found Brielle almost undefended and took it on the first of April.</p></blockquote><p>Which choice best states the main idea of the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Sea Beggars were privateers whose attacks on Spanish shipping caused nearly every rebel success.",
+       "correct": false,
+       "feedback": "This is true of what the Sea Beggars were, but the passage is about how one town was taken, not about every rebel success."
+      },
+      {
+       "text": "Queen Elizabeth secretly ordered the Sea Beggars to take Brielle so that Spain would lose a Dutch port.",
+       "correct": false,
+       "feedback": "The passage says Elizabeth closed her ports to the Sea Beggars. It does not say she ordered the attack on Brielle."
+      },
+      {
+       "text": "Brielle had been guarded so poorly that any rebel force could have taken it at any time that year.",
+       "correct": false,
+       "feedback": "The passage says Brielle was almost undefended, but only in the spring of 1572 and only as the men searched for a harbor. It does not say any force could have taken it at any time."
+      },
+      {
+       "text": "The Sea Beggars took Brielle largely by accident, after the loss of their English harbor sent them searching.",
+       "correct": true,
+       "feedback": "Correct. The passage traces the loss of the English harbor, the search for a new one, and the almost undefended town, so the capture followed from circumstance, not from a plan."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Foreign visitors remarked that Dutch merchants dressed plainly, kept honest weights, and paid their debts, and that a handshake in Amsterdam counted for a great deal. Look at what that good name could buy. The Dutch cities could borrow money at lower interest than the king of Spain, who had defaulted again and again.</p></blockquote><p>Which choice most logically completes the text? Taken together, these sentences suggest that the Republic's reputation for honest dealing was ________</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "a habit that mattered little, since the king of Spain could borrow as cheaply as any Dutch city.",
+       "correct": false,
+       "feedback": "The passage says the cities borrowed at lower interest than the king, so he could not borrow as cheaply as they could."
+      },
+      {
+       "text": "a kind of wealth, because lenders accepted lower interest from borrowers they trusted to repay.",
+       "correct": true,
+       "feedback": "Correct. Trust that debts would be repaid is what let the cities borrow at lower cost."
+      },
+      {
+       "text": "a benefit to Amsterdam's merchants alone, because lenders in other towns had never heard of it.",
+       "correct": false,
+       "feedback": "The passage speaks of Dutch cities borrowing cheaply, not of Amsterdam's merchants alone, and says nothing about lenders in other towns being unaware of the reputation."
+      },
+      {
+       "text": "a danger, because honest borrowers were pressed to take on more debt than they could repay.",
+       "correct": false,
+       "feedback": "The passage gives no sign that honest borrowers were pushed into debt. It says the reputation lowered their cost of borrowing."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In a few sentences, describe the test-taking strategy you used on this quiz. What did you do first, and how did you decide between answer choices?</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "group": "ag_reading_quizzes",
+   "points": 9.0,
+   "week": 20
+  },
+  {
+   "id": "q_20_9",
+   "title": "Module Outro: The Dutch Republic",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#0E2A33;border-bottom:4px solid #E8872B;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#7FD0C8;margin-bottom:6px\">MODULE OUTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Dutch Republic</div><div style=\"font-size:15px;color:#F5C27A;margin-top:6px\">5 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#E8872B;font-size:18px;line-height:1;margin:14px 0 4px\">◆ ◇ ◆</div><div style=\"height:1px;background:#1D6B6B;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #0E2A33;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#0E2A33;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">How did a small republic of merchants survive the strongest power in Europe, and what did its prosperity cost?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1D6B6B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1D6B6B;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>You have finished The Dutch Republic. This check-in is not graded. Your answers tell your teacher what is working and what is still unclear, so answer honestly.</p></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-outro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: How did a small republic of merchants survive the strongest power in Europe, and what did its prosperity cost?</p><p>Answer it again now, in your own words. Use at least two specific details from this week's lessons or primary sources.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident are you that you understand this week's material?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "5: Very confident. I could explain this module to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "4: Confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3: Somewhat confident. I understand the main ideas but not the details.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "2: Not very confident. I am unsure about several things.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "1: Not confident. I am lost on much of it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear or confusing to you from this week? Name a specific person, event, or idea. If nothing is unclear, write what you found most interesting.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these virtues did this week ask the most of you, in your reading or in your work?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In two or three sentences, explain your choice. Point to a moment in this week's reading, or in your own work, where that virtue was needed.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 20
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_20_6",
+   "title": "Discussion: Was the Dutch Republic Free, or Just Rich?",
+   "html": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#0E2A33;border-bottom:4px solid #E8872B;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#7FD0C8;margin-bottom:6px\">DISCUSSION</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Was the Dutch Republic Free, or Just Rich?</div><div style=\"font-size:15px;color:#E8DDC6;margin-top:4px\">The Dutch Republic</div><div style=\"font-size:15px;color:#F5C27A;margin-top:6px\">10 points · threaded discussion</div></div><div style=\"text-align:center;color:#E8872B;font-size:18px;line-height:1;margin:14px 0 4px\">◆ ◇ ◆</div><div style=\"height:1px;background:#1D6B6B;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #0E2A33;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#0E2A33;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons first. Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you post. Then post your answer here and reply to one classmate.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1D6B6B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1D6B6B;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">DISCUSSION PROMPT</span></div><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">The Dutch won their independence from Philip II and then became the richest country in Europe. The lessons also show a republic with merchant families in charge, a company that used force to hold its trade, and a toleration that stopped short of equality.</p><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Take a position. Was the Dutch Republic a free country, or was it mainly a rich one? Support your position with at least two specific details from the lessons. Include one detail that cuts against your view, and explain why it does not change your mind.</p><p style=\"margin:0; font-size:16px; line-height:1.7;\">Aim for about 150 to 200 words.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #E8872B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8A4A0C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">RESPOND TO A CLASSMATE</span></div><p style=\"margin:0; font-size:16px; line-height:1.7;\">Reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a detail from the lessons that they did not use. If not, explain respectfully where it falls short, and point to a detail from the lessons that supports your view.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #E8872B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8A4A0C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">GRADING RUBRIC (10 pts)</span></div><table style=\"width: 100%; border-collapse: collapse;\">\n<thead><tr style=\"background: #0E1C42;\">\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #0E2A33;\">Criteria</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #0E2A33;\">Substantive (full credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #0E2A33;\">Thin (partial credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #0E2A33;\">Missing (no credit)</th>\n</tr></thead>\n<tbody><tr style=\"background:#FFFCF6;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Claim and evidence<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that cuts against it.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a position but gives only one detail, or stays general, or ignores the opposing detail.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No post, or no clear position.</td>\n</tr><tr style=\"background:#E8F1F0;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Response to a classmate<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No reply.</td>\n</tr></tbody>\n</table><div style=\"text-align:right; margin-top:6px; font-size: 13px; color:#5B5148;\">10 pts total</div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_discussions",
+   "rubric": "r_20_6",
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": true,
+   "kind": "module-discussion",
+   "week": 20
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_20",
+   "title": "The Dutch Republic",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "quiz",
+     "ref": "q_20_0",
+     "title": "Module Intro: The Dutch Republic",
+     "published": true,
+     "week": 20
+    },
+    {
+     "type": "page",
+     "ref": "p_20_05",
+     "title": "Module Map: The Dutch Republic",
+     "published": true,
+     "week": 20
+    },
+    {
+     "type": "page",
+     "ref": "p_20_1",
+     "title": "Lesson: The Dutch Revolt: Philip II, William the Silent, and the Water",
+     "published": true,
+     "week": 20,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_20_2",
+     "title": "Lesson: Amsterdam: Merchants, the East India Company, and the Bourse",
+     "published": true,
+     "week": 20,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_20_3",
+     "title": "Primary Source: Act of Abjuration (1581)",
+     "published": true,
+     "week": 20,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_20_4",
+     "title": "Primary Source: Hugo Grotius, Mare Liberum (1609, excerpt)",
+     "published": true,
+     "week": 20,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_20_5",
+     "title": "Reading Quiz: The Dutch Republic",
+     "published": true,
+     "week": 20
+    },
+    {
+     "type": "discussion",
+     "ref": "d_20_6",
+     "title": "Discussion: Was the Dutch Republic Free, or Just Rich?",
+     "published": true,
+     "week": 20
+    },
+    {
+     "type": "quiz",
+     "ref": "q_20_9",
+     "title": "Module Outro: The Dutch Republic",
+     "published": true,
+     "week": 20
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of HS World History, Spring Semester. Read from Canvas course 290 (naming authority; titles, order, quiz questions) with _build/pull_canvas.py on 2026-11-20; the sparkled module, not its \"(Unsparkled)\" twin. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/hsworldhistory-lessons-spring/. Build folder: Course Workshops/09WorldHistory-Spring/03_Build."
+ }
+}

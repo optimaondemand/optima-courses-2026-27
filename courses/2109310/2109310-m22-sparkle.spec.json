@@ -1,0 +1,685 @@
+{
+ "course": {
+  "title": "09 HS World Hist SP 2109310",
+  "code": "2109310",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_reading_quizzes",
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0
+  },
+  {
+   "id": "ag_discussions",
+   "title": "Tier 2: Discussions",
+   "weight": 10.0
+  },
+  {
+   "id": "ag_deep_feedback",
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0
+  },
+  {
+   "id": "ag_checkins",
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0
+  },
+  {
+   "id": "ag_exams",
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_22_6",
+   "title": "22.6 Discussion: Was the Glorious Revolution Glorious? rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Claim and evidence",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Takes a position but gives only one detail, or stays general, or ignores the opposing detail.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no clear position.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Response to a classmate",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No reply.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_22_05",
+   "title": "Module Map: England: Crown and Parliament",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m22/w22-map.html\" width=\"100%\" height=\"2000\" style=\"border:0;\" title=\"England: Crown and Parliament\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_22_1",
+   "title": "Lesson: Charles I, Parliament, and the English Civil War",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m22/w22-lesson-1.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"Charles I, Parliament, and the English Civil War\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_22_2",
+   "title": "Lesson: The Glorious Revolution: William of Orange and the Bill of Rights",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m22/w22-lesson-2.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"The Glorious Revolution: William of Orange and the Bill of Rights\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_22_3",
+   "title": "Primary Source: Petition of Right (1628)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m22/w22-ps-1.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Petition of Right (1628)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_22_4",
+   "title": "Primary Source: English Bill of Rights (1689)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m22/w22-ps-2.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"English Bill of Rights (1689)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_22_0",
+   "title": "Module Intro: England: Crown and Parliament",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#2A1218;border-bottom:4px solid #B9C2D0;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#E3B8C0;margin-bottom:6px\">MODULE INTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">England: Crown and Parliament</div><div style=\"font-size:15px;color:#D6DCE6;margin-top:6px\">2 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#B9C2D0;font-size:18px;line-height:1;margin:14px 0 4px\">✦ ✧ ✦</div><div style=\"height:1px;background:#7B2332;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #2A1218;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2A1218;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">Why did England's quarrel between crown and Parliament end in civil war, and what finally settled it?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #7B2332;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7B2332;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>Welcome to England: Crown and Parliament. This short check-in is not graded. Your answers help your teacher see where each student is starting, so answer honestly.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #B9C2D0;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#4F5B70;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">What you will be able to do</span></div><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#561624\">Charles I, Parliament, and the English Civil War</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Explain why Charles I and Parliament came into conflict over taxes, religion, and power.</li><li>Describe how the Civil War was fought and won.</li><li>Evaluate why the English republic did not last.</li></ul><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#561624\">The Glorious Revolution: William of Orange and the Bill of Rights</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Explain why leading Englishmen invited William of Orange to take the throne in 1688.</li><li>Describe the main limits the Bill of Rights placed on the crown.</li><li>Weigh whether the revolution deserves the name Glorious.</li></ul></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-intro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: Why did England's quarrel between crown and Parliament end in civil war, and what finally settled it?</p><p>Give your best answer now, using only what you already know. A guess is fine. You will answer this question again at the end of the week, and the two answers will show how much you learned.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Have you read the objectives for both lessons listed at the top of this page?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I have read them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet. I will read them before I start the lessons.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 22
+  },
+  {
+   "id": "q_22_5",
+   "title": "Reading Quiz: England: Crown and Parliament",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#2A1218;border-bottom:4px solid #B9C2D0;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#E3B8C0;margin-bottom:6px\">READING QUIZ</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">England: Crown and Parliament</div><div style=\"font-size:15px;color:#D6DCE6;margin-top:6px\">10 questions · 9 points · one attempt</div></div><div style=\"text-align:center;color:#B9C2D0;font-size:18px;line-height:1;margin:14px 0 4px\">✦ ✧ ✦</div><div style=\"height:1px;background:#7B2332;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #7B2332;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7B2332;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">About this quiz</span></div><p>This quiz covers both lessons in this module: England: Crown and Parliament. It has 9 questions with one correct answer each. Reread the lessons if you need to.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #2A1218;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2A1218;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons first. Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you start. Then choose the best answer for each question.</p></div></div>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "reading-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Charles I ruled for eleven years without calling Parliament, and he raised money through ship money. John Hampden refused to pay it, and the judges ruled for the king by only a narrow vote. What does the close vote suggest?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Most English people supported the king's right to tax without asking Parliament for approval.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Many subjects doubted that the king could tax without consent, even though he won the case.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The judges were divided over whether Parliament still existed after eleven years of silence.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Ship money had always been charged to the whole kingdom, so very few people objected to it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Seven judges voted for the king and five against. The close vote showed how many people agreed with Hampden that taxes needed consent.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In 1640 Charles called a Parliament after years of ruling without one. What forced him to do so?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Seven bishops had petitioned him to call one, and a jury had cleared them of any wrong.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Parliament had offered him a large loan in return for ending the ship money tax.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Puritans in New England had sent a petition that he could no longer afford to ignore.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He had no money for an army against the Scots, and only Parliament could vote the taxes.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Charles had no money to fight the Scots, and the taxes he needed could be granted only by Parliament. When the Scots invaded, he had to call a second Parliament, the Long Parliament.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In January 1642 Charles marched into the House of Commons with armed men to arrest five members. Why did this make war much more likely?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "No king had ever entered the Commons by force, and what trust remained between the two sides broke down.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It killed several of Parliament's leaders and left the Commons without a voice of its own.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It ended the Long Parliament and made Charles an absolute ruler of England from then on.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It caused the Scots to invade England again that spring, which began the fighting.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The five members had escaped, but the act itself crossed a line no king had crossed. Both sides began to prepare for war.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "At Putney in 1647, soldiers and officers argued over who should vote. What does this debate show about the effect of the civil war?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The army agreed that the king should be restored to full power as soon as possible.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Levellers and Henry Ireton agreed that every man in England should have the vote.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Once the old order cracked, people began asking who should rule and who should vote.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Parliament voted at once to give all men the vote after hearing both sides of the debate.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The argument was left unsettled, but it showed that once the old order cracked, people began to ask who should rule and why.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The republic that followed the execution of Charles I did not last. Which explanation fits the lesson best?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Charles II invaded England with a foreign army and defeated Cromwell's forces in a single battle.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It rested on Cromwell and the army, so it fell apart soon after he died in 1658.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Scots took over the government in 1653 and handed the crown back to the old royal family.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Parliament voted to end the republic because it had become too expensive for England to keep.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Cromwell ruled with the army behind him, and when he died no one could hold the system together. In 1660 the English invited Charles II home.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Many Protestants put up with James II for years. Which development in 1688 did the most to change their minds?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The death of Charles II, which left the throne open to rival claimants from several families.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The passing of the Toleration Act, which gave Catholics the right to hold public office.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The conversion of his daughter Mary to Catholicism, which split the royal family in two.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The birth of a Catholic son, who now stood ahead of his two Protestant daughters.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Protestants had waited for the throne to pass to Mary and Anne. A Catholic son ended that hope, and within weeks seven leading men wrote to William of Orange.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Parliament offered the crown to William and Mary only if they accepted the Bill of Rights. What does this show about the settlement of 1689?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Parliament claimed power to limit the crown and even to decide who would wear it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Parliament had abolished the monarchy and made William a servant of the Commons.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "William had no legal claim to anything and was forced to leave England within a year.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "James II kept the right to return to the throne if he accepted the Bill of Rights.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Parliament declared that James had abandoned the throne and set conditions on his successors. Later it chose the royal line itself in the Act of Settlement.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>In 1647 army officers and common soldiers met in the church at Putney to debate what kind of government England should have. A group called the Levellers wanted most men to have the vote. Colonel Thomas Rainsborough said that \"the poorest he that is in England hath a life to live, as the greatest he.\" Cromwell's son-in-law, Henry Ireton, answered that those with no property had no lasting stake in the kingdom. If they could vote, they might vote to take property away from others.</p></blockquote><p>According to the text, why did Henry Ireton oppose giving the vote to men with no property?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The poorest men were too uneducated to follow Parliament's debates or judge its leaders.",
+       "correct": false,
+       "feedback": "The passage says nothing about education. Ireton's reason concerned property, not learning."
+      },
+      {
+       "text": "The Levellers planned to use the new voters to bring Charles I back to power in England.",
+       "correct": false,
+       "feedback": "The passage does not link the Levellers to the king's return. They wanted a wider vote."
+      },
+      {
+       "text": "Men with no property had no lasting stake in the kingdom and might vote to take others' property.",
+       "correct": true,
+       "feedback": "Correct. The passage states Ireton's reason directly: no lasting stake, and the risk of votes taking property."
+      },
+      {
+       "text": "A poor man's life counted for less than the life of a great landowner in the eyes of the law.",
+       "correct": false,
+       "feedback": "This reverses Rainsborough's point. He said the poorest man had a life to live as the greatest did."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>The Bill of Rights said what a king could not do, but a promise on paper was weak, as Charles I had shown with the Petition of Right. Parliament added a stronger tool. The Mutiny Act of 1689 allowed officers to punish soldiers for desertion and disobedience, and it expired after a year.</p></blockquote><p>Which choice, if true, would most strongly support the claim that the Mutiny Act gave Parliament a firmer hold on the king than the Bill of Rights did?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Charles I accepted the Petition of Right in 1628, and he went on ignoring its limits for years.",
+       "correct": false,
+       "feedback": "This shows that a promise on paper can fail, but it says nothing about whether the Mutiny Act worked any better."
+      },
+      {
+       "text": "Without a new act each year, the army could not be held together, so a king had to call Parliament yearly.",
+       "correct": true,
+       "feedback": "Correct. It shows that the act made the king depend on Parliament every year, which a promise on paper could not do."
+      },
+      {
+       "text": "William spent most summers across the Channel, commanding armies in the long war against Louis XIV.",
+       "correct": false,
+       "feedback": "This is true, but it concerns William's wars and says nothing about Parliament's hold on the king."
+      },
+      {
+       "text": "The Bill of Rights also said that elections had to be free and that members could speak freely in debate.",
+       "correct": false,
+       "feedback": "This adds to what the Bill of Rights contained, but the claim is that the Mutiny Act was firmer than the Bill of Rights."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In a few sentences, describe the test-taking strategy you used on this quiz. What did you do first, and how did you decide between answer choices?</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "group": "ag_reading_quizzes",
+   "points": 9.0,
+   "week": 22
+  },
+  {
+   "id": "q_22_9",
+   "title": "Module Outro: England: Crown and Parliament",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#2A1218;border-bottom:4px solid #B9C2D0;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#E3B8C0;margin-bottom:6px\">MODULE OUTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">England: Crown and Parliament</div><div style=\"font-size:15px;color:#D6DCE6;margin-top:6px\">5 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#B9C2D0;font-size:18px;line-height:1;margin:14px 0 4px\">✦ ✧ ✦</div><div style=\"height:1px;background:#7B2332;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #2A1218;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2A1218;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">Why did England's quarrel between crown and Parliament end in civil war, and what finally settled it?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #7B2332;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7B2332;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>You have finished England: Crown and Parliament. This check-in is not graded. Your answers tell your teacher what is working and what is still unclear, so answer honestly.</p></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-outro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: Why did England's quarrel between crown and Parliament end in civil war, and what finally settled it?</p><p>Answer it again now, in your own words. Use at least two specific details from this week's lessons or primary sources.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident are you that you understand this week's material?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "5: Very confident. I could explain this module to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "4: Confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3: Somewhat confident. I understand the main ideas but not the details.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "2: Not very confident. I am unsure about several things.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "1: Not confident. I am lost on much of it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear or confusing to you from this week? Name a specific person, event, or idea. If nothing is unclear, write what you found most interesting.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these virtues did this week ask the most of you, in your reading or in your work?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In two or three sentences, explain your choice. Point to a moment in this week's reading, or in your own work, where that virtue was needed.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 22
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_22_6",
+   "title": "Discussion: Was the Glorious Revolution Glorious?",
+   "html": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#2A1218;border-bottom:4px solid #B9C2D0;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#E3B8C0;margin-bottom:6px\">DISCUSSION</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Was the Glorious Revolution Glorious?</div><div style=\"font-size:15px;color:#E8DDC6;margin-top:4px\">England: Crown and Parliament</div><div style=\"font-size:15px;color:#D6DCE6;margin-top:6px\">10 points · threaded discussion</div></div><div style=\"text-align:center;color:#B9C2D0;font-size:18px;line-height:1;margin:14px 0 4px\">✦ ✧ ✦</div><div style=\"height:1px;background:#7B2332;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #2A1218;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2A1218;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons first. Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you post. Then post your answer here and reply to one classmate.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #7B2332;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7B2332;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">DISCUSSION PROMPT</span></div><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Its defenders gave the events of 1688 and 1689 a proud name. They said it protected Protestantism, limited the crown, and was nearly bloodless. The lessons also show fighting in Ireland, bitterness in Scotland, and a vote that stayed in few hands.</p><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Take a position. Was the Glorious Revolution glorious? Support your position with at least two specific details from the lessons, and include one detail that points the other way. Explain why you weigh the evidence as you do.</p><p style=\"margin:0; font-size:16px; line-height:1.7;\">Aim for about 150 to 200 words.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #B9C2D0;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#4F5B70;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">RESPOND TO A CLASSMATE</span></div><p style=\"margin:0; font-size:16px; line-height:1.7;\">Reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a detail from the lessons that they did not use. If not, explain respectfully where it falls short, and point to a detail from the lessons that supports your view.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #B9C2D0;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#4F5B70;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">GRADING RUBRIC (10 pts)</span></div><table style=\"width: 100%; border-collapse: collapse;\">\n<thead><tr style=\"background: #0E1C42;\">\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #2A1218;\">Criteria</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #2A1218;\">Substantive (full credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #2A1218;\">Thin (partial credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #2A1218;\">Missing (no credit)</th>\n</tr></thead>\n<tbody><tr style=\"background:#FFFCF6;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Claim and evidence<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a position but gives only one detail, or stays general, or ignores the opposing detail.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No post, or no clear position.</td>\n</tr><tr style=\"background:#F3ECEE;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Response to a classmate<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No reply.</td>\n</tr></tbody>\n</table><div style=\"text-align:right; margin-top:6px; font-size: 13px; color:#5B5148;\">10 pts total</div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_discussions",
+   "rubric": "r_22_6",
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": true,
+   "kind": "module-discussion",
+   "week": 22
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_22",
+   "title": "England: Crown and Parliament",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "quiz",
+     "ref": "q_22_0",
+     "title": "Module Intro: England: Crown and Parliament",
+     "published": true,
+     "week": 22
+    },
+    {
+     "type": "page",
+     "ref": "p_22_05",
+     "title": "Module Map: England: Crown and Parliament",
+     "published": true,
+     "week": 22
+    },
+    {
+     "type": "page",
+     "ref": "p_22_1",
+     "title": "Lesson: Charles I, Parliament, and the English Civil War",
+     "published": true,
+     "week": 22,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_22_2",
+     "title": "Lesson: The Glorious Revolution: William of Orange and the Bill of Rights",
+     "published": true,
+     "week": 22,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_22_3",
+     "title": "Primary Source: Petition of Right (1628)",
+     "published": true,
+     "week": 22,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_22_4",
+     "title": "Primary Source: English Bill of Rights (1689)",
+     "published": true,
+     "week": 22,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_22_5",
+     "title": "Reading Quiz: England: Crown and Parliament",
+     "published": true,
+     "week": 22
+    },
+    {
+     "type": "discussion",
+     "ref": "d_22_6",
+     "title": "Discussion: Was the Glorious Revolution Glorious?",
+     "published": true,
+     "week": 22
+    },
+    {
+     "type": "quiz",
+     "ref": "q_22_9",
+     "title": "Module Outro: England: Crown and Parliament",
+     "published": true,
+     "week": 22
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of HS World History, Spring Semester. Read from Canvas course 290 (naming authority; titles, order, quiz questions) with _build/pull_canvas.py on 2026-11-20; the sparkled module, not its \"(Unsparkled)\" twin. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/hsworldhistory-lessons-spring/. Build folder: Course Workshops/09WorldHistory-Spring/03_Build."
+ }
+}

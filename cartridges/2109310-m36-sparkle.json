@@ -1,0 +1,273 @@
+{
+ "id": "2109310-m36-sparkle",
+ "label": "The Modern World · Sparkle",
+ "code": "2109310",
+ "title": "09 HS World Hist SP 2109310",
+ "file": "cartridges/2109310-m36-sparkle.imscc",
+ "bytes": 172435,
+ "version": "2026.11.20",
+ "built": "2026-11-20T21:32:28",
+ "front_page": "wiki_content/course-home.html",
+ "items": 12,
+ "modules": [
+  {
+   "id": "m_36",
+   "title": "The Modern World",
+   "gid": "g72710493e041bff98fd3fde1de469b68",
+   "published": true,
+   "items": 12,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 6,
+  "assignments": 1,
+  "quizzes": 5,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 12
+ },
+ "weights": [
+  {
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0
+  },
+  {
+   "title": "Tier 2: Discussions",
+   "weight": 10.0
+  },
+  {
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0
+  },
+  {
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0
+  },
+  {
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "groups": [
+  {
+   "id": "gca74d26de16fb10d12732f9dcc833965",
+   "title": "Assignments",
+   "weight": 0.0,
+   "position": 1
+  },
+  {
+   "id": "g0412b8c00bb9828ec80ea00ed6d9cc59",
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0,
+   "position": 2
+  },
+  {
+   "id": "g1daad3edb10362f5d0a996d2b452084d",
+   "title": "Tier 2: Discussions",
+   "weight": 10.0,
+   "position": 3
+  },
+  {
+   "id": "geb51711964c040d4728debb31f746998",
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0,
+   "position": 4
+  },
+  {
+   "id": "g01b02823bd199831fe1c87738e1474b0",
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0.0,
+   "position": 5
+  },
+  {
+   "id": "g10d5d9ed9da199d0cdc85d1cb1ca28c3",
+   "title": "Quarterly Exams",
+   "weight": 30.0,
+   "position": 6
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "a_36_5",
+   "type": "assignment",
+   "title": "VR Activity: Follow the Container",
+   "gid": "g5de8ff02288c6ba6539d7f3e5911e261",
+   "xml": "g5de8ff02288c6ba6539d7f3e5911e261/assignment_settings.xml",
+   "module": "m_36",
+   "week": 36,
+   "kind": "vr-activity",
+   "points": 16.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "geb51711964c040d4728debb31f746998",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_36_0",
+   "type": "quiz",
+   "title": "Module Intro: The Modern World",
+   "gid": "g1780389fa8a19a08a607c0f1613d1d99",
+   "xml": "g1780389fa8a19a08a607c0f1613d1d99/assessment_meta.xml",
+   "module": "m_36",
+   "week": 36,
+   "kind": "module-intro",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_36_7",
+   "type": "quiz",
+   "title": "Quarterly Exam: Quarter 4: Late Modernity",
+   "gid": "g1af7efb24ad255428a45b401bfa4dcde",
+   "xml": "g1af7efb24ad255428a45b401bfa4dcde/assessment_meta.xml",
+   "module": "m_36",
+   "week": 36,
+   "kind": "quarterly-exam",
+   "points": 41.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g10d5d9ed9da199d0cdc85d1cb1ca28c3",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_36_sat",
+   "type": "quiz",
+   "title": "Quarter 4 Exam (SAT)",
+   "gid": "gca3bf302542e7392c3c233f3b53c4249",
+   "xml": "gca3bf302542e7392c3c233f3b53c4249/assessment_meta.xml",
+   "module": "m_36",
+   "week": 36,
+   "kind": "quarterly-exam-sat",
+   "points": 46.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "gca74d26de16fb10d12732f9dcc833965",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_36_8",
+   "type": "quiz",
+   "title": "Semester Final Exam: Weeks 19 to 36",
+   "gid": "g0ca4647ededea33018a614095ec7ce71",
+   "xml": "g0ca4647ededea33018a614095ec7ce71/assessment_meta.xml",
+   "module": "m_36",
+   "week": 36,
+   "kind": "final-exam",
+   "points": 55.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "gca74d26de16fb10d12732f9dcc833965",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_36_9",
+   "type": "quiz",
+   "title": "Module Outro: The Modern World",
+   "gid": "g15eab2f60de6438a7f76e38d661f44fb",
+   "xml": "g15eab2f60de6438a7f76e38d661f44fb/assessment_meta.xml",
+   "module": "m_36",
+   "week": 36,
+   "kind": "module-outro",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_36_6",
+   "type": "discussion",
+   "title": "Discussion: Is Globalization Uniting or Dividing the World?",
+   "gid": "g6f20f73658489d80dfd982eb8aff8252",
+   "xml": "g6ca0a85f2c07ce430ff8a5f674063b95.xml",
+   "module": "m_36",
+   "week": 36,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g1daad3edb10362f5d0a996d2b452084d",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec 2109310-m36-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [
+   "\"facilitator\" appears 1 time(s) in student-facing text"
+  ],
+  "stats": {
+   "resources": 20,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 8,
+    "webcontent": 6,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 5,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 12,
+   "modules": 1,
+   "module_items": 12,
+   "module_item_types": {
+    "Quizzes::Quiz": 5,
+    "WikiPage": 5,
+    "Assignment": 1,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 6,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 6,
+   "group_refs": 8,
+   "quizzes": 5,
+   "assignments": 1,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 310.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "5c861be4f15eadca6d10edce0e61ea4d4217b56c391d2b66d3fbb273714cd035",
+ "art_pack": null
+}

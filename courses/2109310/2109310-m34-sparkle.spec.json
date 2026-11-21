@@ -1,0 +1,715 @@
+{
+ "course": {
+  "title": "09 HS World Hist SP 2109310",
+  "code": "2109310",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_reading_quizzes",
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0
+  },
+  {
+   "id": "ag_discussions",
+   "title": "Tier 2: Discussions",
+   "weight": 10.0
+  },
+  {
+   "id": "ag_deep_feedback",
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0
+  },
+  {
+   "id": "ag_checkins",
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0
+  },
+  {
+   "id": "ag_exams",
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_34_6",
+   "title": "34.6 Discussion: Why Did Communism Collapse? rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Claim and evidence",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Takes a position but gives only one detail, or stays general, or ignores the opposing detail.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no clear position.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Response to a classmate",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No reply.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_34_05",
+   "title": "Module Map: The Cold War and Communism",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m34/w34-map.html\" width=\"100%\" height=\"2000\" style=\"border:0;\" title=\"The Cold War and Communism\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_34_1",
+   "title": "Lesson: The Iron Curtain: Europe Divided",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m34/w34-lesson-1.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"The Iron Curtain: Europe Divided\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_34_2",
+   "title": "Lesson: Communism at Home and Abroad, and Its Fall",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m34/w34-lesson-2.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"Communism at Home and Abroad, and Its Fall\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_34_3",
+   "title": "Primary Source: George Kennan, The Long Telegram (1946)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m34/w34-ps-1.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"George Kennan, The Long Telegram (1946)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_34_4",
+   "title": "Primary Source: Ronald Reagan, Brandenburg Gate speech (1987)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m34/w34-ps-2.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Ronald Reagan, Brandenburg Gate speech (1987)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_34_0",
+   "title": "Module Intro: The Cold War and Communism",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1A0F10;border-bottom:4px solid #7EC8E3;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#E8B4B4;margin-bottom:6px\">MODULE INTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Cold War and Communism</div><div style=\"font-size:15px;color:#A7DAEE;margin-top:6px\">2 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#7EC8E3;font-size:18px;line-height:1;margin:14px 0 4px\">■ □ ■</div><div style=\"height:1px;background:#9A2F2F;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1A0F10;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1A0F10;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">Why did the wartime alliance split into a Cold War, and why did communism in Europe collapse?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #9A2F2F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#9A2F2F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>Welcome to The Cold War and Communism. This short check-in is not graded. Your answers help your teacher see where each student is starting, so answer honestly.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #7EC8E3;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1F5F7A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">What you will be able to do</span></div><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#6B1E1E\">The Iron Curtain: Europe Divided</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Explain why the wartime alliance between the Western powers and the Soviet Union broke down.</li><li>Describe the policies of containment, the Marshall Plan, and NATO as responses to Soviet power.</li><li>Evaluate how individual decisions shaped the crises of Berlin and Cuba.</li></ul><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#6B1E1E\">Communism at Home and Abroad, and Its Fall</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Describe how communist rule worked in the Soviet Union, Eastern Europe, and China.</li><li>Explain why command economies fell behind and how reform movements arose.</li><li>Evaluate how much the collapse of communism in Europe depended on structural weakness and how much on particular choices.</li></ul></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-intro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: Why did the wartime alliance split into a Cold War, and why did communism in Europe collapse?</p><p>Give your best answer now, using only what you already know. A guess is fine. You will answer this question again at the end of the week, and the two answers will show how much you learned.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Have you read the objectives for both lessons listed at the top of this page?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I have read them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet. I will read them before I start the lessons.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 34
+  },
+  {
+   "id": "q_34_5",
+   "title": "Reading Quiz: The Cold War and Communism",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1A0F10;border-bottom:4px solid #7EC8E3;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#E8B4B4;margin-bottom:6px\">READING QUIZ</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Cold War and Communism</div><div style=\"font-size:15px;color:#A7DAEE;margin-top:6px\">11 questions · 10 points · one attempt</div></div><div style=\"text-align:center;color:#7EC8E3;font-size:18px;line-height:1;margin:14px 0 4px\">■ □ ■</div><div style=\"height:1px;background:#9A2F2F;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #9A2F2F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#9A2F2F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">About this quiz</span></div><p>This quiz covers both lessons in this module: The Cold War and Communism. It has 10 questions with one correct answer each. Reread the lessons if you need to.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1A0F10;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1A0F10;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons first. Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you start. Then choose the best answer for each question.</p></div></div>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "reading-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "At Yalta, Stalin agreed to free elections in Eastern Europe, but by 1946 Soviet-backed communists were taking power there. What best explains his actions?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He believed that the Western powers had already broken the agreement by dividing Germany.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He had never seen the text of the agreement and learned of it only after the Red Army left.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He wanted a ring of friendly states around Russia and trusted only governments he controlled.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He wanted the satellite states to accept American money to rebuild their cities after the war.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Russia had been invaded from the west three times in a century. Stalin signed, but he did not intend to allow free choice in lands his army had taken at so high a price.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why did Secretary of State Marshall propose to help rebuild Western Europe?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Hunger and poverty fed the appeal of communist parties, and recovery would weaken it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Britain had asked America to take over its colonies and needed money to defend them.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The satellite states had asked for American loans, and Stalin had agreed to allow them.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The United Nations had ordered the richest nations to pay for Europe's rebuilding.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Western Europe lay in ruins, and communist parties were strong in France and Italy. Stalin refused the aid for his own sphere and forced the satellite states to refuse as well.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "When Stalin blockaded West Berlin, Truman refused to give way but did not want a ground war. What does the Berlin Airlift show?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Western powers had given up on West Berlin and were helping its people to leave.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The blockade had already failed, because Soviet troops let the trucks through at night.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Americans and British had planned to attack East Germany by air if the blockade continued.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It resisted the blockade without risking a war on the ground between the two sides.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Planes landed every few minutes for nearly a year, bringing coal, food, and medicine to two million people. Stalin ended the blockade in May 1949.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The lesson tells of a Soviet submarine near Cuba in 1962 where one officer refused to agree to launch a nuclear torpedo. What does the story suggest?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Soviet navy had ordered its submarines to attack American ships on sight near Cuba.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The danger was greater than leaders knew, and much rested on individual judgment.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The American ships had agreed to leave the area as soon as they spotted the submarine.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The crisis was never close to war, since the officers on the submarine had no real power.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The decision required agreement from three officers, and Vasili Arkhipov refused. Whether or not the story is exactly right, it shows how much rested on individual judgment.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Factories in the Soviet Union met their quotas by making goods nobody needed, and shops had long lines and empty shelves. What does this suggest about a command economy?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Planners had no prices to signal what was scarce, and workers had little reward for good work.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Soviet workers were lazier than workers in other countries and did not wish to produce more.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The government had ordered the factories to make too few goods so that prices would stay high.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The planners had made too many mistakes in arithmetic when they set the production targets.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Planners could not know what millions of people wanted. Without the chance to profit, there was little reward for new ideas, and leaders were often told what they wished to hear.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The Great Leap Forward led to the worst famine in history. Which cause does the lesson give?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Mao ordered the army to take the harvest from the peasants to feed the cities.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Soviet Union cut off all grain to China after the two countries quarreled.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Harvests were neglected, and officials reported false numbers to please their superiors.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A severe drought lasted three years, and the government refused all foreign help.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Peasants were forced into huge communes and made steel in backyard furnaces. Because officials reported false numbers, the leaders did not know how bad things were.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Gorbachev told the leaders of the satellite states that the Soviet Union would no longer send in tanks. The lesson calls this the decisive choice. Why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It allowed the Soviet Union to move its troops home and spend the money on the economy.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Once the fear of Soviet tanks was gone and people could speak freely, the system began to unravel.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It made the leaders of the satellite states resign at once, so that elections could be held.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It meant that Gorbachev had given up on reform and was planning to retire from the party.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Gorbachev expected reformed communism to survive. Instead, once the old fear was gone, communist governments fell in Poland, Hungary, East Germany, Czechoslovakia, Bulgaria, and Romania.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "On November 9, 1989, East German guards gave way when crowds rushed to the Berlin Wall. What does the lesson suggest about why the Wall opened?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The guards had received an order from Moscow to open the gates in the Wall that night.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The government had planned for years to open the Wall and had told the guards to wait.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The crowd was armed, and it forced the guards to leave their posts at the crossing points.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A confused announcement left the guards without orders, in a state with no will to use force.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "An official had announced, confused about the rules, that new travel rules took effect immediately. The guards, without orders, gave way.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>By 1961 about three million East Germans, many of them young and skilled, had left for the West, most of them through Berlin. In August the East German government built a wall of concrete and barbed wire across the city. Its guards were told to shoot those who tried to cross. President John Kennedy protested but did not send troops, judging that war was too high a price.</p></blockquote><p>According to the text, why did President Kennedy protest the building of the Wall but not send troops?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He agreed with the East German government that the Wall would stop the flow of people to the West.",
+       "correct": false,
+       "feedback": "The passage says Kennedy protested. It does not say he agreed with the Wall."
+      },
+      {
+       "text": "He judged that war was too high a price, so he protested but sent no troops.",
+       "correct": true,
+       "feedback": "Correct. The passage states his reason directly: war was too high a price."
+      },
+      {
+       "text": "He feared that American soldiers would be shot by East German guards who had been told to fire.",
+       "correct": false,
+       "feedback": "The passage says guards were told to shoot those who tried to cross the Wall, not American soldiers."
+      },
+      {
+       "text": "He had no power to act, because Congress had ordered him not to use troops in Europe.",
+       "correct": false,
+       "feedback": "The passage gives the reason as Kennedy's own judgment. It says nothing about an order from Congress."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>In 1968 the Czechoslovak leader Alexander Dubcek tried to build \"socialism with a human face\" in the Prague Spring, with more freedom of speech. Soviet leader Leonid Brezhnev sent in troops from the Warsaw Pact. The Brezhnev Doctrine declared that the Soviets would act whenever socialism was threatened in a member state.</p></blockquote><p>Which choice most logically completes the text? After 1968, a communist leader in the bloc who wanted to reform his country could expect that ________</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Soviet troops might be sent in, since the Soviets claimed the right to act whenever socialism was threatened.",
+       "correct": true,
+       "feedback": "Correct. The doctrine declared that the Soviets would act whenever socialism was threatened, so reform carried that risk."
+      },
+      {
+       "text": "the Warsaw Pact would defend his reforms, since its members had promised to protect each other's freedom.",
+       "correct": false,
+       "feedback": "The passage shows the Warsaw Pact troops entering Czechoslovakia, not defending its reforms."
+      },
+      {
+       "text": "the Soviets would leave him alone as long as he kept freedom of speech out of the newspapers and schools.",
+       "correct": false,
+       "feedback": "The passage says nothing about a bargain over newspapers. It names the Soviet right to act as the rule."
+      },
+      {
+       "text": "Western countries would send troops to protect him, as they had in Hungary twelve years earlier.",
+       "correct": false,
+       "feedback": "The passage does not mention the West or any earlier events in Hungary, and it shows no troops coming to Dubcek's defense."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In a few sentences, describe the test-taking strategy you used on this quiz. What did you do first, and how did you decide between answer choices?</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "group": "ag_reading_quizzes",
+   "points": 10.0,
+   "week": 34
+  },
+  {
+   "id": "q_34_9",
+   "title": "Module Outro: The Cold War and Communism",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1A0F10;border-bottom:4px solid #7EC8E3;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#E8B4B4;margin-bottom:6px\">MODULE OUTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Cold War and Communism</div><div style=\"font-size:15px;color:#A7DAEE;margin-top:6px\">5 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#7EC8E3;font-size:18px;line-height:1;margin:14px 0 4px\">■ □ ■</div><div style=\"height:1px;background:#9A2F2F;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1A0F10;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1A0F10;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">Why did the wartime alliance split into a Cold War, and why did communism in Europe collapse?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #9A2F2F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#9A2F2F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>You have finished The Cold War and Communism. This check-in is not graded. Your answers tell your teacher what is working and what is still unclear, so answer honestly.</p></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-outro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: Why did the wartime alliance split into a Cold War, and why did communism in Europe collapse?</p><p>Answer it again now, in your own words. Use at least two specific details from this week's lessons or primary sources.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident are you that you understand this week's material?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "5: Very confident. I could explain this module to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "4: Confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3: Somewhat confident. I understand the main ideas but not the details.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "2: Not very confident. I am unsure about several things.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "1: Not confident. I am lost on much of it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear or confusing to you from this week? Name a specific person, event, or idea. If nothing is unclear, write what you found most interesting.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these virtues did this week ask the most of you, in your reading or in your work?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In two or three sentences, explain your choice. Point to a moment in this week's reading, or in your own work, where that virtue was needed.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 34
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_34_6",
+   "title": "Discussion: Why Did Communism Collapse?",
+   "html": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1A0F10;border-bottom:4px solid #7EC8E3;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#E8B4B4;margin-bottom:6px\">DISCUSSION</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Why Did Communism Collapse?</div><div style=\"font-size:15px;color:#E8DDC6;margin-top:4px\">The Cold War and Communism</div><div style=\"font-size:15px;color:#A7DAEE;margin-top:6px\">10 points · threaded discussion</div></div><div style=\"text-align:center;color:#7EC8E3;font-size:18px;line-height:1;margin:14px 0 4px\">■ □ ■</div><div style=\"height:1px;background:#9A2F2F;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1A0F10;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1A0F10;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons first. Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you post. Then post your answer here and reply to one classmate.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #9A2F2F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#9A2F2F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">DISCUSSION PROMPT</span></div><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">In 1960 many observers thought communism might win. By 1991 the Soviet Union no longer existed. The lessons point to a weak command economy, a loss of belief, pressure from the West, the example of Poland, and choices made by Gorbachev, by the guards at the Wall, and by the plotters of 1991.</p><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Take a position. Why did communism collapse? Support your position with at least two specific details from the lessons, and include one detail that points the other way. Explain why you weigh the evidence as you do.</p><p style=\"margin:0; font-size:16px; line-height:1.7;\">Aim for about 150 to 200 words.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #7EC8E3;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1F5F7A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">RESPOND TO A CLASSMATE</span></div><p style=\"margin:0; font-size:16px; line-height:1.7;\">Reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a detail from the lessons that they did not use. If not, explain respectfully where it falls short, and point to a detail from the lessons that supports your view.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #7EC8E3;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1F5F7A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">GRADING RUBRIC (10 pts)</span></div><table style=\"width: 100%; border-collapse: collapse;\">\n<thead><tr style=\"background: #0E1C42;\">\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1A0F10;\">Criteria</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1A0F10;\">Substantive (full credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1A0F10;\">Thin (partial credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1A0F10;\">Missing (no credit)</th>\n</tr></thead>\n<tbody><tr style=\"background:#FFFCF6;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Claim and evidence<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a position but gives only one detail, or stays general, or ignores the opposing detail.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No post, or no clear position.</td>\n</tr><tr style=\"background:#F4EEEC;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Response to a classmate<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No reply.</td>\n</tr></tbody>\n</table><div style=\"text-align:right; margin-top:6px; font-size: 13px; color:#5B5148;\">10 pts total</div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_discussions",
+   "rubric": "r_34_6",
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": true,
+   "kind": "module-discussion",
+   "week": 34
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_34",
+   "title": "The Cold War and Communism",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "quiz",
+     "ref": "q_34_0",
+     "title": "Module Intro: The Cold War and Communism",
+     "published": true,
+     "week": 34
+    },
+    {
+     "type": "page",
+     "ref": "p_34_05",
+     "title": "Module Map: The Cold War and Communism",
+     "published": true,
+     "week": 34
+    },
+    {
+     "type": "page",
+     "ref": "p_34_1",
+     "title": "Lesson: The Iron Curtain: Europe Divided",
+     "published": true,
+     "week": 34,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_34_2",
+     "title": "Lesson: Communism at Home and Abroad, and Its Fall",
+     "published": true,
+     "week": 34,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_34_3",
+     "title": "Primary Source: George Kennan, The Long Telegram (1946)",
+     "published": true,
+     "week": 34,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_34_4",
+     "title": "Primary Source: Ronald Reagan, Brandenburg Gate speech (1987)",
+     "published": true,
+     "week": 34,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_34_5",
+     "title": "Reading Quiz: The Cold War and Communism",
+     "published": true,
+     "week": 34
+    },
+    {
+     "type": "discussion",
+     "ref": "d_34_6",
+     "title": "Discussion: Why Did Communism Collapse?",
+     "published": true,
+     "week": 34
+    },
+    {
+     "type": "quiz",
+     "ref": "q_34_9",
+     "title": "Module Outro: The Cold War and Communism",
+     "published": true,
+     "week": 34
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of HS World History, Spring Semester. Read from Canvas course 290 (naming authority; titles, order, quiz questions) with _build/pull_canvas.py on 2026-11-20; the sparkled module, not its \"(Unsparkled)\" twin. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/hsworldhistory-lessons-spring/. Build folder: Course Workshops/09WorldHistory-Spring/03_Build."
+ }
+}

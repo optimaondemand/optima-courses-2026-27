@@ -1,0 +1,520 @@
+{
+ "course": {
+  "title": "09 HS World Hist SP 2109310",
+  "code": "2109310",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_reading_quizzes",
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0
+  },
+  {
+   "id": "ag_discussions",
+   "title": "Tier 2: Discussions",
+   "weight": 10.0
+  },
+  {
+   "id": "ag_deep_feedback",
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0
+  },
+  {
+   "id": "ag_checkins",
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0
+  },
+  {
+   "id": "ag_exams",
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_24_5",
+   "title": "24.5 Primary Source Report: Locke and Montesquieu rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Reads both sources accurately and draws on specific details from each, along with what the week's lessons taught.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Reads both sources accurately but uses few specific details, or leans on only one.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Shows partial understanding of one or both sources, with some errors or vague claims.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Misreads the sources or does not refer to them.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Connects each claim to evidence and compares the sources with care. Explains how the two remedies differ and what each one assumes.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Supports most claims with evidence. The comparison is sound but not fully developed.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "States conclusions with little support, or describes the sources without comparing them.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Offers opinions without evidence from the sources.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision of expression",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Writes in clear, well-organized sentences. Quotations are short, accurate, and introduced.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Writing is clear with minor lapses in organization or precision.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Writing is often unclear or disorganized, and quotations are unclear or misplaced.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Writing is too unclear to follow.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Names the limits of what each source can show and says what remains uncertain without overclaiming.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Acknowledges at least one limit of the evidence.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Mentions limits only in passing, or claims more than the sources allow.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Treats each source as complete and beyond question.",
+       "points": 1.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_24_6",
+   "title": "24.6 Discussion: What Protects Liberty: Consent or Checks? rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Claim and evidence",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Takes a position but gives only one detail, or stays general, or ignores the opposing detail.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no clear position.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Response to a classmate",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No reply.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_24_05",
+   "title": "Module Map: The Enlightenment",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m24/w24-map.html\" width=\"100%\" height=\"2000\" style=\"border:0;\" title=\"The Enlightenment\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_24_1",
+   "title": "Lesson: From Newton to the Salons",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m24/w24-lesson-1.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"From Newton to the Salons\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_24_2",
+   "title": "Lesson: Locke, Montesquieu, Voltaire, Rousseau, and Smith",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m24/w24-lesson-2.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"Locke, Montesquieu, Voltaire, Rousseau, and Smith\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_24_3",
+   "title": "Primary Source: John Locke, Second Treatise of Government (1689, excerpt)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m24/w24-ps-1.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"John Locke, Second Treatise of Government (1689, excerpt)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_24_4",
+   "title": "Primary Source: Montesquieu, The Spirit of the Laws (1748, Book 11 on England)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m24/w24-ps-2.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Montesquieu, The Spirit of the Laws (1748, Book 11 on England)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a_24_5",
+   "title": "Primary Source Report: Locke and Montesquieu",
+   "html": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1E1630;border-bottom:4px solid #E07A5F;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#CDB4DB;margin-bottom:6px\">PRIMARY SOURCE REPORT</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Locke and Montesquieu</div><div style=\"font-size:15px;color:#E8DDC6;margin-top:4px\">The Enlightenment</div><div style=\"font-size:15px;color:#F2B8A5;margin-top:6px\">16 points · text entry</div></div><div style=\"text-align:center;color:#E07A5F;font-size:18px;line-height:1;margin:14px 0 4px\">✦ ✧ ✦</div><div style=\"height:1px;background:#6B2D7B;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1E1630;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1E1630;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons and read both sources first. Your notes from each page are kept in My Notebook, the button inside the page, so open it before you write. Then write your answers and submit them in this assignment.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #E07A5F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8A3A1F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">QUESTIONS</span></div><div style=\"margin-bottom:14px;\"><div style=\"font-size:16px; color:#0E1C42;\"><strong>1.</strong> John Locke published his Second Treatise in 1689. Montesquieu published The Spirit of the Laws in 1748. For each writer, say what danger in government he is most worried about and what remedy he offers. Quote a few words from each passage to support your answer.</div></div><div style=\"margin-bottom:14px;\"><div style=\"font-size:16px; color:#0E1C42;\"><strong>2.</strong> Choose one sentence or phrase from Locke's passage. Quote it in a few words, then explain in your own words what it claims about where a government's right to rule comes from, and what the people may do if a ruler breaks that trust.</div></div><div style=\"margin-bottom:14px;\"><div style=\"font-size:16px; color:#0E1C42;\"><strong>3.</strong> Locke and Montesquieu both want to limit government, but they do not rely on the same safeguard. Using evidence from both passages, explain how the two safeguards differ. Then say whether each one needs something the other does not, such as an active people or separate branches of government.</div></div><div style=\"margin-bottom:14px;\"><div style=\"font-size:16px; color:#0E1C42;\"><strong>4.</strong> Montesquieu wrote about England as a visitor who studied its government, and the lesson “Locke, Montesquieu, Voltaire, Rousseau, and Smith” says his picture was a little too neat. Why should a historian be careful before treating his account as a plain report of how England was governed? Name one other kind of evidence that could test it.</div></div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #E07A5F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8A3A1F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">GRADING RUBRIC (16 pts)</span></div><table style=\"width: 100%; border-collapse: collapse;\">\n<thead><tr style=\"background: #0E1C42;\">\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1E1630;\">Criteria</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1E1630;\">Excellent (4)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1E1630;\">Proficient (3)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1E1630;\">Developing (2)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1E1630;\">Beginning (1)</th>\n</tr></thead>\n<tbody><tr style=\"background:#FFFCF6;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 130px; vertical-align: top;\">Understanding of the material<br><span style=\"font-size: 11px; color: #5B5148;\">4 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Reads both sources accurately and draws on specific details from each, along with what the week's lessons taught.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Reads both sources accurately but uses few specific details, or leans on only one.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Shows partial understanding of one or both sources, with some errors or vague claims.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Misreads the sources or does not refer to them.</td>\n</tr><tr style=\"background:#F1EAF4;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 130px; vertical-align: top;\">Quality of reasoning<br><span style=\"font-size: 11px; color: #5B5148;\">4 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Connects each claim to evidence and compares the sources with care. Explains how the two remedies differ and what each one assumes.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Supports most claims with evidence. The comparison is sound but not fully developed.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">States conclusions with little support, or describes the sources without comparing them.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Offers opinions without evidence from the sources.</td>\n</tr><tr style=\"background:#FFFCF6;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 130px; vertical-align: top;\">Clarity and precision of expression<br><span style=\"font-size: 11px; color: #5B5148;\">4 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Writes in clear, well-organized sentences. Quotations are short, accurate, and introduced.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Writing is clear with minor lapses in organization or precision.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Writing is often unclear or disorganized, and quotations are unclear or misplaced.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Writing is too unclear to follow.</td>\n</tr><tr style=\"background:#F1EAF4;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 130px; vertical-align: top;\">Intellectual honesty<br><span style=\"font-size: 11px; color: #5B5148;\">4 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Names the limits of what each source can show and says what remains uncertain without overclaiming.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Acknowledges at least one limit of the evidence.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Mentions limits only in passing, or claims more than the sources allow.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Treats each source as complete and beyond question.</td>\n</tr>\n<tr style=\"background: #0E1C42;\"><td align=\"right\" colspan=\"4\" style=\"padding: 9px 12px; font-size: 14px; color: #fff; border: 1px solid #55C8E8;\">Total:</td></tr>\n</tbody>\n</table><div style=\"text-align:right; margin-top:6px; font-size: 13px; color:#5B5148;\">16 pts total</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #E07A5F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8A3A1F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">SUBMISSION</span></div><p style=\"margin:0; font-size:16px; line-height:1.7;\">Answer all four questions in complete sentences. Submit your answers in the text box on the Canvas assignment page. Aim for one solid paragraph for each question. You do not need an outside source. Your teacher will read your work and return a rubric score with a short comment.</p></div></div>",
+   "points": 16.0,
+   "group": "ag_deep_feedback",
+   "rubric": "r_24_5",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "published": true,
+   "kind": "primary-source-report",
+   "week": 24
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q_24_0",
+   "title": "Module Intro: The Enlightenment",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1E1630;border-bottom:4px solid #E07A5F;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#CDB4DB;margin-bottom:6px\">MODULE INTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Enlightenment</div><div style=\"font-size:15px;color:#F2B8A5;margin-top:6px\">2 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#E07A5F;font-size:18px;line-height:1;margin:14px 0 4px\">✦ ✧ ✦</div><div style=\"height:1px;background:#6B2D7B;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1E1630;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1E1630;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">What did Enlightenment thinkers believe protects liberty, and how did their answers differ?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #6B2D7B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#6B2D7B;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>Welcome to The Enlightenment. This short check-in is not graded. Your answers help your teacher see where each student is starting, so answer honestly.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #E07A5F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8A3A1F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">What you will be able to do</span></div><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#4A1D57\">From Newton to the Salons</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Explain how Newton's work changed the way educated Europeans thought about nature and knowledge.</li><li>Describe how books, coffeehouses, and salons spread new ideas.</li><li>Recognize the limits and dangers the Enlightenment faced.</li></ul><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#4A1D57\">Locke, Montesquieu, Voltaire, Rousseau, and Smith</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Summarize the central argument of each of the five thinkers.</li><li>Compare the claims that government rests on consent and that it must be limited by checks.</li><li>Explain how each thinker's ideas connect to the problems of liberty and order.</li></ul></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-intro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: What did Enlightenment thinkers believe protects liberty, and how did their answers differ?</p><p>Give your best answer now, using only what you already know. A guess is fine. You will answer this question again at the end of the week, and the two answers will show how much you learned.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Have you read the objectives for both lessons listed at the top of this page?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I have read them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet. I will read them before I start the lessons.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 24
+  },
+  {
+   "id": "q_24_9",
+   "title": "Module Outro: The Enlightenment",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1E1630;border-bottom:4px solid #E07A5F;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#CDB4DB;margin-bottom:6px\">MODULE OUTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Enlightenment</div><div style=\"font-size:15px;color:#F2B8A5;margin-top:6px\">5 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#E07A5F;font-size:18px;line-height:1;margin:14px 0 4px\">✦ ✧ ✦</div><div style=\"height:1px;background:#6B2D7B;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1E1630;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1E1630;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">What did Enlightenment thinkers believe protects liberty, and how did their answers differ?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #6B2D7B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#6B2D7B;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>You have finished The Enlightenment. This check-in is not graded. Your answers tell your teacher what is working and what is still unclear, so answer honestly.</p></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-outro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: What did Enlightenment thinkers believe protects liberty, and how did their answers differ?</p><p>Answer it again now, in your own words. Use at least two specific details from this week's lessons or primary sources.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident are you that you understand this week's material?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "5: Very confident. I could explain this module to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "4: Confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3: Somewhat confident. I understand the main ideas but not the details.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "2: Not very confident. I am unsure about several things.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "1: Not confident. I am lost on much of it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear or confusing to you from this week? Name a specific person, event, or idea. If nothing is unclear, write what you found most interesting.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these virtues did this week ask the most of you, in your reading or in your work?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In two or three sentences, explain your choice. Point to a moment in this week's reading, or in your own work, where that virtue was needed.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 24
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_24_6",
+   "title": "Discussion: What Protects Liberty: Consent or Checks?",
+   "html": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1E1630;border-bottom:4px solid #E07A5F;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#CDB4DB;margin-bottom:6px\">DISCUSSION</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">What Protects Liberty: Consent or Checks?</div><div style=\"font-size:15px;color:#E8DDC6;margin-top:4px\">The Enlightenment</div><div style=\"font-size:15px;color:#F2B8A5;margin-top:6px\">10 points · threaded discussion</div></div><div style=\"text-align:center;color:#E07A5F;font-size:18px;line-height:1;margin:14px 0 4px\">✦ ✧ ✦</div><div style=\"height:1px;background:#6B2D7B;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1E1630;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1E1630;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons first. Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you post. Then post your answer here and reply to one classmate.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #6B2D7B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#6B2D7B;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">DISCUSSION PROMPT</span></div><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Locke taught that a government rules by the consent of the governed, and that people may resist a ruler who attacks their rights. Montesquieu feared that anyone who holds power is tempted to abuse it, and he wanted power divided so that one part could check another. Rousseau also rested government on consent, but he placed it in the whole community.</p><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Take a position. Which does more to protect liberty: the consent of the governed or checks on those who govern? Support your position with at least two specific details from the lessons, and include one detail that points the other way. Explain why you weigh the evidence as you do.</p><p style=\"margin:0; font-size:16px; line-height:1.7;\">Aim for about 150 to 200 words.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #E07A5F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8A3A1F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">RESPOND TO A CLASSMATE</span></div><p style=\"margin:0; font-size:16px; line-height:1.7;\">Reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a detail from the lessons that they did not use. If not, explain respectfully where it falls short, and point to a detail from the lessons that supports your view.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #E07A5F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8A3A1F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">GRADING RUBRIC (10 pts)</span></div><table style=\"width: 100%; border-collapse: collapse;\">\n<thead><tr style=\"background: #0E1C42;\">\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1E1630;\">Criteria</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1E1630;\">Substantive (full credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1E1630;\">Thin (partial credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1E1630;\">Missing (no credit)</th>\n</tr></thead>\n<tbody><tr style=\"background:#FFFCF6;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Claim and evidence<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a position but gives only one detail, or stays general, or ignores the opposing detail.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No post, or no clear position.</td>\n</tr><tr style=\"background:#F1EAF4;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Response to a classmate<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No reply.</td>\n</tr></tbody>\n</table><div style=\"text-align:right; margin-top:6px; font-size: 13px; color:#5B5148;\">10 pts total</div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_discussions",
+   "rubric": "r_24_6",
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": true,
+   "kind": "module-discussion",
+   "week": 24
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_24",
+   "title": "The Enlightenment",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "quiz",
+     "ref": "q_24_0",
+     "title": "Module Intro: The Enlightenment",
+     "published": true,
+     "week": 24
+    },
+    {
+     "type": "page",
+     "ref": "p_24_05",
+     "title": "Module Map: The Enlightenment",
+     "published": true,
+     "week": 24
+    },
+    {
+     "type": "page",
+     "ref": "p_24_1",
+     "title": "Lesson: From Newton to the Salons",
+     "published": true,
+     "week": 24,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_24_2",
+     "title": "Lesson: Locke, Montesquieu, Voltaire, Rousseau, and Smith",
+     "published": true,
+     "week": 24,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_24_3",
+     "title": "Primary Source: John Locke, Second Treatise of Government (1689, excerpt)",
+     "published": true,
+     "week": 24,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_24_4",
+     "title": "Primary Source: Montesquieu, The Spirit of the Laws (1748, Book 11 on England)",
+     "published": true,
+     "week": 24,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_24_5",
+     "title": "Primary Source Report: Locke and Montesquieu",
+     "published": true,
+     "week": 24
+    },
+    {
+     "type": "discussion",
+     "ref": "d_24_6",
+     "title": "Discussion: What Protects Liberty: Consent or Checks?",
+     "published": true,
+     "week": 24
+    },
+    {
+     "type": "quiz",
+     "ref": "q_24_9",
+     "title": "Module Outro: The Enlightenment",
+     "published": true,
+     "week": 24
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of HS World History, Spring Semester. Read from Canvas course 290 (naming authority; titles, order, quiz questions) with _build/pull_canvas.py on 2026-11-20; the sparkled module, not its \"(Unsparkled)\" twin. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/hsworldhistory-lessons-spring/. Build folder: Course Workshops/09WorldHistory-Spring/03_Build."
+ }
+}

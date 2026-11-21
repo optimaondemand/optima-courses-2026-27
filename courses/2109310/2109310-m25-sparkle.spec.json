@@ -1,0 +1,715 @@
+{
+ "course": {
+  "title": "09 HS World Hist SP 2109310",
+  "code": "2109310",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_reading_quizzes",
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0
+  },
+  {
+   "id": "ag_discussions",
+   "title": "Tier 2: Discussions",
+   "weight": 10.0
+  },
+  {
+   "id": "ag_deep_feedback",
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0
+  },
+  {
+   "id": "ag_checkins",
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0
+  },
+  {
+   "id": "ag_exams",
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_25_6",
+   "title": "25.6 Discussion: Why Did the Old Regime Fall in France and Not in Britain? rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Claim and evidence",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Takes a position but gives only one detail, or stays general, or ignores the opposing detail.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no clear position.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Response to a classmate",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No reply.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_25_05",
+   "title": "Module Map: The Old Regime in Crisis",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m25/w25-map.html\" width=\"100%\" height=\"2000\" style=\"border:0;\" title=\"The Old Regime in Crisis\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_25_1",
+   "title": "Lesson: Britain and France Fight for the World",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m25/w25-lesson-1.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"Britain and France Fight for the World\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_25_2",
+   "title": "Lesson: France Goes Bankrupt: Louis XVI and the Estates-General",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m25/w25-lesson-2.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"France Goes Bankrupt: Louis XVI and the Estates-General\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_25_3",
+   "title": "Primary Source: Declaration of Independence (1776)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m25/w25-ps-1.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Declaration of Independence (1776)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_25_4",
+   "title": "Primary Source: Arthur Young, Travels in France (1787 to 1789, excerpt)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m25/w25-ps-2.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Arthur Young, Travels in France (1787 to 1789, excerpt)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_25_0",
+   "title": "Module Intro: The Old Regime in Crisis",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1F2410;border-bottom:4px solid #D98A5B;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#C9D48A;margin-bottom:6px\">MODULE INTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Old Regime in Crisis</div><div style=\"font-size:15px;color:#F0B98F;margin-top:6px\">2 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#D98A5B;font-size:18px;line-height:1;margin:14px 0 4px\">❖ ◈ ❖</div><div style=\"height:1px;background:#5E6B2A;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1F2410;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1F2410;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">Why did the old regime in France collapse under pressures that Britain survived?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #5E6B2A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#5E6B2A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>Welcome to The Old Regime in Crisis. This short check-in is not graded. Your answers help your teacher see where each student is starting, so answer honestly.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #D98A5B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8A4520;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">What you will be able to do</span></div><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#414A1B\">Britain and France Fight for the World</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Explain why Britain could borrow money more easily than France.</li><li>Describe how the Seven Years' War was fought across several continents and what Britain gained.</li><li>Trace how the cost of victory led Britain toward a quarrel with its American colonies and led France to join that quarrel.</li></ul><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#414A1B\">France Goes Bankrupt: Louis XVI and the Estates-General</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Describe the three estates and explain why France's tax system could not be reformed easily.</li><li>Explain how debt, failed reforms, and a bad harvest forced Louis XVI to call the Estates-General.</li><li>Identify the dispute over voting that turned the Estates-General into a National Assembly.</li></ul></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-intro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: Why did the old regime in France collapse under pressures that Britain survived?</p><p>Give your best answer now, using only what you already know. A guess is fine. You will answer this question again at the end of the week, and the two answers will show how much you learned.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Have you read the objectives for both lessons listed at the top of this page?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I have read them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet. I will read them before I start the lessons.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 25
+  },
+  {
+   "id": "q_25_5",
+   "title": "Reading Quiz: The Old Regime in Crisis",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1F2410;border-bottom:4px solid #D98A5B;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#C9D48A;margin-bottom:6px\">READING QUIZ</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Old Regime in Crisis</div><div style=\"font-size:15px;color:#F0B98F;margin-top:6px\">11 questions · 10 points · one attempt</div></div><div style=\"text-align:center;color:#D98A5B;font-size:18px;line-height:1;margin:14px 0 4px\">❖ ◈ ❖</div><div style=\"height:1px;background:#5E6B2A;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #5E6B2A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#5E6B2A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">About this quiz</span></div><p>This quiz covers both lessons in this module: The Old Regime in Crisis. It has 10 questions with one correct answer each. Reread the lessons if you need to.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1F2410;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1F2410;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons first. Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you start. Then choose the best answer for each question.</p></div></div>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "reading-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "France had about three times as many people as Britain, yet Britain could borrow more money and at lower cost. What best explains this?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "British taxpayers paid higher rates than the French did, so lenders expected quick repayment from them.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Royal Navy captured enough foreign treasure each year to cover the interest on every loan.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Lenders trusted Parliament, which set aside particular taxes, to repay what the nation borrowed.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The British king had promised to repay each loan from his own private estates and income.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The Bank of England and Parliament's control of taxes gave lenders confidence. French kings had been known to delay payment or cancel debts, so they paid higher interest.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "At Quebec in 1759 a single volley broke the French lines after Montcalm chose to attack at once. What does the lesson suggest about this victory?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It owed much to a few quick choices and lucky chances, and it could have gone the other way.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It was certain from the start, because Britain had far more soldiers in Canada than France.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It ended the war at once, because Britain won in India and the Caribbean that same day.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It showed that the French army was weak everywhere and could not win a battle in Europe.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The lesson notes that a sentry who challenged the boats, or a Montcalm who waited a day, might have changed the campaign. Britain had lost battle after battle before 1759, so the outcome was not fixed in advance.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In the Treaty of Paris, France gave up Canada but kept two small sugar islands. What does this choice suggest about how French ministers judged their colonies?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They believed the sugar islands were easier to defend with the French navy than Canada was.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They wanted to punish the settlers of New France for refusing to pay taxes to the king.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They thought Canada was too close to the British colonies to be kept in peacetime.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They judged that the sugar islands were worth more to France than the snows of Canada.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The lesson connects this to Week 21. Sugar was worth far more in trade than the fur and land of New France, which had only about 70,000 settlers.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why did Britain's victory in 1763 lead to a quarrel with its American colonies?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The colonists wanted to join France after Britain took Canada from the French settlers.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The war debt had nearly doubled, so Parliament taxed colonists who had not given their consent.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Parliament had banned all trade between the colonies and the French sugar islands.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The king refused to send any soldiers to the frontier after the rising led by Pontiac.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The debt rose to about 130 million pounds, and keeping soldiers on the frontier cost more money. The Stamp Act followed in 1765, and colonists answered that they could not be taxed without their consent.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "France helped the Americans win at Yorktown in 1781. What did this victory do for France?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It gave France Canada back and returned its trading towns in India to French control.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It ended the French debt, because the Americans paid back the cost of the French fleet.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It brought revenge but no new land, and it added to a debt that France could not easily pay.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It made Louis XVI popular enough to reform the tax system without asking anyone to approve it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "France spent more than a billion livres and gained no territory. Britain lost thirteen colonies but kept its credit, while the French king had no Parliament to vouch for his promises.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Calonne proposed a land tax on every owner of land. The Assembly of Notables refused it. What does their refusal suggest?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The nobles and officials chosen to approve it were the people who would have lost their exemptions.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Notables thought the king already had enough money from loans and did not need any new taxes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Notables feared that the tax would make bread too expensive for the poor of the cities.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Notables had been told by the king to refuse so that he could blame them for the debt.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The Notables were hand-picked from the privileged classes. A tax on every owner would have ended their exemptions.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "A hailstorm in July 1788 flattened crops across northern France. How did the failed harvest change the situation when the Estates-General met?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It destroyed the palace at Versailles, so the king had to hold the meeting in Paris instead.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It persuaded the nobles to give up their exemptions so that the poor could buy bread.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It made the king dismiss Necker, whose plan for the grain trade had failed that spring.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It filled the streets with hungry, angry people and left the king less room to delay.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Bread prices soared, and by spring many families were hungry. The lesson says that with an ordinary harvest, reform would still have been hard but hungry crowds would not have filled the streets.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The Estates-General met in 1789 with a dispute over voting. Why did the method of voting matter so much?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Voting by head would have let the Third Estate, with its doubled deputies, outvote the others.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Voting by estate would have given the Third Estate two votes, one more than the clergy.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Voting by head would have forced the king to attend every session of the Estates-General in person.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Voting by estate would have ended the privileges of the clergy and the nobles at once.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "If each estate had one vote, the clergy and nobles could always outvote the Third Estate two to one. If every deputy voted as an individual, the Third Estate had as many deputies as the other two combined.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Borrowing felt painless at the time. Necker raised money by selling life annuities and lottery loans at high rates of interest, and none of it required a new tax. But every loan had to be repaid with interest, and interest was paid out of future taxes. A king who borrows to avoid a quarrel with the privileged has not avoided it. He has only put it off, and made it larger.</p></blockquote><p>Which choice best states the main idea of the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Necker showed that France could avoid taxing the privileged by finding lenders who accepted high interest.",
+       "correct": false,
+       "feedback": "This reverses the passage, which says the quarrel was only put off. It was not avoided."
+      },
+      {
+       "text": "Borrowing spared the king a quarrel with the privileged for a time, but it made that quarrel larger later.",
+       "correct": true,
+       "feedback": "Correct. The passage as a whole says borrowing delayed the quarrel and enlarged it."
+      },
+      {
+       "text": "Necker's loans failed because lenders refused to buy life annuities or lottery loans from the crown.",
+       "correct": false,
+       "feedback": "The passage says Necker did raise money this way. It does not say that lenders refused."
+      },
+      {
+       "text": "The privileged classes agreed to pay new taxes in the 1780s so that the king could repay his loans.",
+       "correct": false,
+       "feedback": "The passage says the loans required no new tax. It does not say the privileged agreed to pay one."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>British ministers had an answer to the colonists' complaint. They said that every member of Parliament spoke for all British subjects, whether or not those subjects had voted for him, and that the colonists were represented just as the people of Manchester and Birmingham were, towns that sent no members at all. The colonists thought this a thin argument. A member who had never seen Boston, they said, could tax it without ever feeling the tax himself.</p></blockquote><p>Which choice most logically completes the text? The colonists' objection to being taxed by this Parliament was that ________</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "the people of Manchester and Birmingham had been taxed more heavily than the colonists had.",
+       "correct": false,
+       "feedback": "The passage mentions Manchester and Birmingham only as the ministers' example of towns without members. It does not compare their taxes with the colonists'."
+      },
+      {
+       "text": "members of Parliament were chosen by the king and not by any voters, in Britain or in the colonies.",
+       "correct": false,
+       "feedback": "The passage does not say who chose the members. The colonists' point is about distance and about who feels the tax."
+      },
+      {
+       "text": "the colonists had never been asked to pay a tax of any kind before the war with France began.",
+       "correct": false,
+       "feedback": "This goes beyond the passage, which speaks only of the colonists' complaint about this Parliament's taxing them, not about every earlier tax."
+      },
+      {
+       "text": "a body whose members did not share the burden could vote a tax on people it did not know.",
+       "correct": true,
+       "feedback": "Correct. The colonists said a member who had never seen Boston could tax it without feeling the tax himself."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In a few sentences, describe the test-taking strategy you used on this quiz. What did you do first, and how did you decide between answer choices?</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "group": "ag_reading_quizzes",
+   "points": 10.0,
+   "week": 25
+  },
+  {
+   "id": "q_25_9",
+   "title": "Module Outro: The Old Regime in Crisis",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1F2410;border-bottom:4px solid #D98A5B;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#C9D48A;margin-bottom:6px\">MODULE OUTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Old Regime in Crisis</div><div style=\"font-size:15px;color:#F0B98F;margin-top:6px\">5 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#D98A5B;font-size:18px;line-height:1;margin:14px 0 4px\">❖ ◈ ❖</div><div style=\"height:1px;background:#5E6B2A;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1F2410;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1F2410;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">Why did the old regime in France collapse under pressures that Britain survived?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #5E6B2A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#5E6B2A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>You have finished The Old Regime in Crisis. This check-in is not graded. Your answers tell your teacher what is working and what is still unclear, so answer honestly.</p></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-outro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: Why did the old regime in France collapse under pressures that Britain survived?</p><p>Answer it again now, in your own words. Use at least two specific details from this week's lessons or primary sources.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident are you that you understand this week's material?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "5: Very confident. I could explain this module to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "4: Confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3: Somewhat confident. I understand the main ideas but not the details.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "2: Not very confident. I am unsure about several things.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "1: Not confident. I am lost on much of it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear or confusing to you from this week? Name a specific person, event, or idea. If nothing is unclear, write what you found most interesting.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these virtues did this week ask the most of you, in your reading or in your work?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In two or three sentences, explain your choice. Point to a moment in this week's reading, or in your own work, where that virtue was needed.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 25
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_25_6",
+   "title": "Discussion: Why Did the Old Regime Fall in France and Not in Britain?",
+   "html": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1F2410;border-bottom:4px solid #D98A5B;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#C9D48A;margin-bottom:6px\">DISCUSSION</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Why Did the Old Regime Fall in France and Not in Britain?</div><div style=\"font-size:15px;color:#E8DDC6;margin-top:4px\">The Old Regime in Crisis</div><div style=\"font-size:15px;color:#F0B98F;margin-top:6px\">10 points · threaded discussion</div></div><div style=\"text-align:center;color:#D98A5B;font-size:18px;line-height:1;margin:14px 0 4px\">❖ ◈ ❖</div><div style=\"height:1px;background:#5E6B2A;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1F2410;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1F2410;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons first. Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you post. Then post your answer here and reply to one classmate.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #5E6B2A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#5E6B2A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">DISCUSSION PROMPT</span></div><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Both kingdoms came out of the wars of the 1700s with huge debts. Britain kept its government and its credit. France went bankrupt and called the Estates-General for the first time in 175 years. The lessons point to several differences: how each state borrowed, who paid taxes, whether a body existed that could settle quarrels, a failed harvest, and the character of the king.</p><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Take a position. Why did the Old Regime fall in France and not in Britain? Support your position with at least two specific details from the lessons, and include one detail that points the other way. Explain why you weigh the evidence as you do.</p><p style=\"margin:0; font-size:16px; line-height:1.7;\">Aim for about 150 to 200 words.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #D98A5B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8A4520;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">RESPOND TO A CLASSMATE</span></div><p style=\"margin:0; font-size:16px; line-height:1.7;\">Reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a detail from the lessons that they did not use. If not, explain respectfully where it falls short, and point to a detail from the lessons that supports your view.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #D98A5B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8A4520;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">GRADING RUBRIC (10 pts)</span></div><table style=\"width: 100%; border-collapse: collapse;\">\n<thead><tr style=\"background: #0E1C42;\">\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1F2410;\">Criteria</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1F2410;\">Substantive (full credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1F2410;\">Thin (partial credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1F2410;\">Missing (no credit)</th>\n</tr></thead>\n<tbody><tr style=\"background:#FFFCF6;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Claim and evidence<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a position but gives only one detail, or stays general, or ignores the opposing detail.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No post, or no clear position.</td>\n</tr><tr style=\"background:#F0F1E2;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Response to a classmate<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No reply.</td>\n</tr></tbody>\n</table><div style=\"text-align:right; margin-top:6px; font-size: 13px; color:#5B5148;\">10 pts total</div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_discussions",
+   "rubric": "r_25_6",
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": true,
+   "kind": "module-discussion",
+   "week": 25
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_25",
+   "title": "The Old Regime in Crisis",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "quiz",
+     "ref": "q_25_0",
+     "title": "Module Intro: The Old Regime in Crisis",
+     "published": true,
+     "week": 25
+    },
+    {
+     "type": "page",
+     "ref": "p_25_05",
+     "title": "Module Map: The Old Regime in Crisis",
+     "published": true,
+     "week": 25
+    },
+    {
+     "type": "page",
+     "ref": "p_25_1",
+     "title": "Lesson: Britain and France Fight for the World",
+     "published": true,
+     "week": 25,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_25_2",
+     "title": "Lesson: France Goes Bankrupt: Louis XVI and the Estates-General",
+     "published": true,
+     "week": 25,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_25_3",
+     "title": "Primary Source: Declaration of Independence (1776)",
+     "published": true,
+     "week": 25,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_25_4",
+     "title": "Primary Source: Arthur Young, Travels in France (1787 to 1789, excerpt)",
+     "published": true,
+     "week": 25,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_25_5",
+     "title": "Reading Quiz: The Old Regime in Crisis",
+     "published": true,
+     "week": 25
+    },
+    {
+     "type": "discussion",
+     "ref": "d_25_6",
+     "title": "Discussion: Why Did the Old Regime Fall in France and Not in Britain?",
+     "published": true,
+     "week": 25
+    },
+    {
+     "type": "quiz",
+     "ref": "q_25_9",
+     "title": "Module Outro: The Old Regime in Crisis",
+     "published": true,
+     "week": 25
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of HS World History, Spring Semester. Read from Canvas course 290 (naming authority; titles, order, quiz questions) with _build/pull_canvas.py on 2026-11-20; the sparkled module, not its \"(Unsparkled)\" twin. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/hsworldhistory-lessons-spring/. Build folder: Course Workshops/09WorldHistory-Spring/03_Build."
+ }
+}

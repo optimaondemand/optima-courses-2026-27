@@ -1,0 +1,715 @@
+{
+ "course": {
+  "title": "09 HS World Hist SP 2109310",
+  "code": "2109310",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_reading_quizzes",
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0
+  },
+  {
+   "id": "ag_discussions",
+   "title": "Tier 2: Discussions",
+   "weight": 10.0
+  },
+  {
+   "id": "ag_deep_feedback",
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0
+  },
+  {
+   "id": "ag_checkins",
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0
+  },
+  {
+   "id": "ag_exams",
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_29_6",
+   "title": "29.6 Discussion: Could Germany Have Been United Without Bismarck? rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Claim and evidence",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Takes a position but gives only one detail, or stays general, or ignores the opposing detail.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no clear position.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Response to a classmate",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No reply.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_29_05",
+   "title": "Module Map: The Nation-State",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m29/w29-map.html\" width=\"100%\" height=\"2000\" style=\"border:0;\" title=\"The Nation-State\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_29_1",
+   "title": "Lesson: Vienna to 1848: Order, Reform, and Revolution",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m29/w29-lesson-1.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"Vienna to 1848: Order, Reform, and Revolution\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_29_2",
+   "title": "Lesson: Cavour, Garibaldi, and Bismarck: Making Italy and Germany",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m29/w29-lesson-2.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"Cavour, Garibaldi, and Bismarck: Making Italy and Germany\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_29_3",
+   "title": "Primary Source: Carlsbad Decrees (1819)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m29/w29-ps-1.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Carlsbad Decrees (1819)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_29_4",
+   "title": "Primary Source: Bismarck, \"Blood and Iron\" speech (1862)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m29/w29-ps-2.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Bismarck, &quot;Blood and Iron&quot; speech (1862)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_29_0",
+   "title": "Module Intro: The Nation-State",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1B2824;border-bottom:4px solid #8FBFAE;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#D9C39A;margin-bottom:6px\">MODULE INTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Nation-State</div><div style=\"font-size:15px;color:#A9D3C5;margin-top:6px\">2 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#8FBFAE;font-size:18px;line-height:1;margin:14px 0 4px\">◈ ◇ ◈</div><div style=\"height:1px;background:#7A4B2A;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1B2824;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1B2824;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">How were Italy and Germany made into nation-states, and what part did leaders play compared with larger forces?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #7A4B2A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7A4B2A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>Welcome to The Nation-State. This short check-in is not graded. Your answers help your teacher see where each student is starting, so answer honestly.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #8FBFAE;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2F6150;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">What you will be able to do</span></div><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#4F2F18\">Vienna to 1848: Order, Reform, and Revolution</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Describe what the Congress of Vienna tried to build and why it lasted.</li><li>Explain how liberalism and nationalism challenged the settlement of 1815.</li><li>Evaluate why the revolutions of 1848 spread so quickly and failed so quickly.</li></ul><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#4F2F18\">Cavour, Garibaldi, and Bismarck: Making Italy and Germany</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Describe how Italy was unified under Piedmont, through diplomacy, war, and volunteers.</li><li>Explain how Bismarck used three wars to unite Germany under Prussia.</li><li>Evaluate the roles of leaders, armies, and underlying forces in building the two nation-states.</li></ul></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-intro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: How were Italy and Germany made into nation-states, and what part did leaders play compared with larger forces?</p><p>Give your best answer now, using only what you already know. A guess is fine. You will answer this question again at the end of the week, and the two answers will show how much you learned.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Have you read the objectives for both lessons listed at the top of this page?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I have read them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet. I will read them before I start the lessons.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 29
+  },
+  {
+   "id": "q_29_5",
+   "title": "Reading Quiz: The Nation-State",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1B2824;border-bottom:4px solid #8FBFAE;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#D9C39A;margin-bottom:6px\">READING QUIZ</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Nation-State</div><div style=\"font-size:15px;color:#A9D3C5;margin-top:6px\">11 questions · 10 points · one attempt</div></div><div style=\"text-align:center;color:#8FBFAE;font-size:18px;line-height:1;margin:14px 0 4px\">◈ ◇ ◈</div><div style=\"height:1px;background:#7A4B2A;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #7A4B2A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7A4B2A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">About this quiz</span></div><p>This quiz covers both lessons in this module: The Nation-State. It has 10 questions with one correct answer each. Reread the lessons if you need to.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1B2824;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1B2824;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons first. Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you start. Then choose the best answer for each question.</p></div></div>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "reading-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "The Congress of Vienna dealt with defeated France fairly mildly, and Talleyrand soon sat at the table as an equal. What does this suggest about the aims of the diplomats?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They feared the French army was still strong enough to defeat all the other powers at once.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They wanted a France that was content with the peace, not one that dreamed of revenge.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They had promised Napoleon's family that France would keep every land it held in 1812.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They wanted France to pay for the Hundred Days by giving up its colonies and its navy.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The French kept their borders of 1792 and paid an indemnity. The statesmen believed that a harsher peace might have made France a permanent enemy.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "At Vienna the diplomats joined Belgium to the Netherlands and gave Prussia lands on the Rhine. Why did they do this?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They wanted to punish the Belgians for supporting Napoleon during the Hundred Days of 1815.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They hoped to end the rivalry between Prussia and Austria by giving Prussia new lands in the west.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They believed the Rhine would be easy to defend, so Prussia could hold it without any help.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They meant to strengthen the countries on France's borders so that it could not attack again.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The settlement aimed at a balance of power. Stronger neighbors would make it harder for France, or anyone else, to dominate the continent again.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why was nationalism especially dangerous to the Austrian emperor?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He ruled many peoples, so each people's demand for its own state threatened to break up his empire.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He had fewer soldiers than the German kings, so he could not stop nationalist risings.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He had promised at Vienna to give each people its own state within ten years.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He feared that Napoleon's nephew would use nationalism to seize the Austrian throne for himself.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "If each people demanded its own state, the empire could fall to pieces. That is why Metternich worked to hold the line against nationalism and liberalism.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In 1834 Prussia led most of the German states into the Zollverein, and Austria was left out. What was the likely long-term effect?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The German states became poorer, because the tolls at their borders grew heavier.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Austria became the leader of the German economy, since it did not need the union.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The German states drew closer around Prussia, which opened a path toward a Prussian-led Germany.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The German Confederation was dissolved, and every state went back to its own tariffs.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Goods crossed borders without tolls, merchants prospered, and railways spread. The lesson says that, without anyone intending it, a path was opening toward a Germany shaped around Prussia.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The revolutions of 1848 spread across Europe in a few weeks and were defeated within about a year. Which explanation fits the lesson best?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The revolutionaries had no support among the middle class, so hardly anyone joined them.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The rulers had promised to give each country a constitution and then kept that promise.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Britain sent troops to help put down the revolts in Berlin, Vienna, and Paris.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The rebels disagreed among themselves, and the old armies stayed loyal to their rulers.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Liberals feared the workers, nationalists quarreled with other nationalists, and the Frankfurt assembly had no army of its own. Austria, with Russian help, crushed the Hungarians.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Cavour sent Piedmontese troops to the Crimean War and later made a secret agreement with Napoleon III. What does this suggest about his judgment?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He thought the Italian people would rise up without any help from a foreign power.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He knew that Piedmont alone could not defeat Austria, so he looked for a powerful ally.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He wanted France to take over Italy and make it a French colony after the war.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He hoped to win Garibaldi's support by showing that Piedmont could fight a real war.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Cavour was a practical statesman, not a romantic. The Crimean War won Piedmont a place at the peace table, and in return for Nice and Savoy, France agreed to help drive Austria from northern Italy.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "After the Prussian victory at Königgrätz in 1866, the king and generals wanted to march on Vienna, but Bismarck argued against it. What does this show about Bismarck?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He judged that Austria as a friend in the future was worth more than any Austrian land.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He was afraid that Russia would enter the war if the Prussians marched on Vienna.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He wanted to keep the king and the generals from gaining too much power over the army.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He believed that Austria was still too strong to be defeated in a longer war.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Bismarck took no Austrian territory because he wanted Austria as a friend later. The lesson calls this an example of his judgment and restraint.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "What does the lesson suggest about how Italy and Germany were made?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Great leaders were the only cause, since without Cavour and Bismarck nothing would have changed.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Deeper forces made the outcome certain, so the choices of individual leaders did not matter.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Deeper forces made unity likely, but particular decisions shaped the form the new states took.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The great powers planned both nations at Vienna and carried out the plan in 1861 and 1871.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The lesson says the answer is a mixture. A Germany that included Austria was entirely possible, and so was an Italy of two or three kingdoms.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Music carried the cause as well. Giuseppe Verdi wrote operas about oppressed peoples, and Italian audiences heard the chorus of enslaved Hebrews in his Nabucco, in 1842, as a song about themselves. In 1859 crowds chalked \"Viva Verdi\" on walls as a cheer the police could not easily forbid. The letters also stood for Vittorio Emanuele, Re d'Italia, the king of Piedmont whom they wished to see as king of all Italy.</p></blockquote><p>According to the text, why was \"Viva Verdi\" a useful slogan for Italian crowds in 1859?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It looked like praise for a composer, but the letters also stood for the king of Piedmont.",
+       "correct": true,
+       "feedback": "Correct. The passage says police could not easily forbid it, and that the letters also stood for Vittorio Emanuele, Re d'Italia."
+      },
+      {
+       "text": "It was the name of a society that Mazzini founded to work for a single Italian nation.",
+       "correct": false,
+       "feedback": "The passage does not connect the slogan to Mazzini or to Young Italy."
+      },
+      {
+       "text": "It was a line from Nabucco that Austrian soldiers had banned from every theater in Lombardy.",
+       "correct": false,
+       "feedback": "The passage says nothing about soldiers banning a line from the opera."
+      },
+      {
+       "text": "It praised Verdi for refusing to write operas about the oppressed peoples of Austrian Italy.",
+       "correct": false,
+       "feedback": "This reverses the passage, which says Verdi wrote operas about oppressed peoples."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Britain had its own scare. On April 10, 1848, the Chartists planned a great march to Parliament with another petition. The government swore in tens of thousands of ordinary citizens as special constables, and the Duke of Wellington, now seventy-eight, quietly arranged for troops. Rain fell, the crowd on Kennington Common was smaller than feared, and the leaders agreed to send the petition by cab. A country with a Parliament that had been widening the vote could let off steam in ways that much of the continent could not.</p></blockquote><p>Which choice, if true, would most strongly support the claim that Britain's earlier reforms helped it avoid a revolution in 1848?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Wellington, who was seventy-eight in 1848, had won a famous victory over Napoleon at Waterloo.",
+       "correct": false,
+       "feedback": "This is true, but Wellington's past victory says nothing about whether reforms eased the pressure for revolution."
+      },
+      {
+       "text": "The Reform Act of 1832 had widened the vote, and the Corn Laws were repealed in 1846.",
+       "correct": true,
+       "feedback": "Correct. It names earlier changes by law that gave people a voice and answered a complaint, which is how reform could have eased the pressure."
+      },
+      {
+       "text": "Rain fell on the day of the march, and the crowd at Kennington Common was smaller than feared.",
+       "correct": false,
+       "feedback": "This may explain the small crowd, but weather is chance, not reform, so it does not support the claim."
+      },
+      {
+       "text": "The Chartists planned a great march to Parliament, carrying another petition for the vote.",
+       "correct": false,
+       "feedback": "This only repeats that the Chartists wanted the vote. It does not show that earlier reforms eased anything."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In a few sentences, describe the test-taking strategy you used on this quiz. What did you do first, and how did you decide between answer choices?</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "group": "ag_reading_quizzes",
+   "points": 10.0,
+   "week": 29
+  },
+  {
+   "id": "q_29_9",
+   "title": "Module Outro: The Nation-State",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1B2824;border-bottom:4px solid #8FBFAE;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#D9C39A;margin-bottom:6px\">MODULE OUTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Nation-State</div><div style=\"font-size:15px;color:#A9D3C5;margin-top:6px\">5 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#8FBFAE;font-size:18px;line-height:1;margin:14px 0 4px\">◈ ◇ ◈</div><div style=\"height:1px;background:#7A4B2A;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1B2824;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1B2824;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">How were Italy and Germany made into nation-states, and what part did leaders play compared with larger forces?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #7A4B2A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7A4B2A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>You have finished The Nation-State. This check-in is not graded. Your answers tell your teacher what is working and what is still unclear, so answer honestly.</p></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-outro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: How were Italy and Germany made into nation-states, and what part did leaders play compared with larger forces?</p><p>Answer it again now, in your own words. Use at least two specific details from this week's lessons or primary sources.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident are you that you understand this week's material?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "5: Very confident. I could explain this module to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "4: Confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3: Somewhat confident. I understand the main ideas but not the details.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "2: Not very confident. I am unsure about several things.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "1: Not confident. I am lost on much of it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear or confusing to you from this week? Name a specific person, event, or idea. If nothing is unclear, write what you found most interesting.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these virtues did this week ask the most of you, in your reading or in your work?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In two or three sentences, explain your choice. Point to a moment in this week's reading, or in your own work, where that virtue was needed.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 29
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_29_6",
+   "title": "Discussion: Could Germany Have Been United Without Bismarck?",
+   "html": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1B2824;border-bottom:4px solid #8FBFAE;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#D9C39A;margin-bottom:6px\">DISCUSSION</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Could Germany Have Been United Without Bismarck?</div><div style=\"font-size:15px;color:#E8DDC6;margin-top:4px\">The Nation-State</div><div style=\"font-size:15px;color:#A9D3C5;margin-top:6px\">10 points · threaded discussion</div></div><div style=\"text-align:center;color:#8FBFAE;font-size:18px;line-height:1;margin:14px 0 4px\">◈ ◇ ◈</div><div style=\"height:1px;background:#7A4B2A;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1B2824;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1B2824;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons first. Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you post. Then post your answer here and reply to one classmate.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #7A4B2A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7A4B2A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">DISCUSSION PROMPT</span></div><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Nationalism, the customs union, and the railways pulled the German states together. The Frankfurt assembly tried to unite them in 1848 and failed. In 1862 a king in trouble called on one minister, and within nine years Prussia had fought three wars and the German Empire had been proclaimed.</p><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Take a position. Could Germany have been united without Bismarck? Support your position with at least two specific details from the lessons, and include one detail that points the other way. Explain why you weigh the evidence as you do.</p><p style=\"margin:0; font-size:16px; line-height:1.7;\">Aim for about 150 to 200 words.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #8FBFAE;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2F6150;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">RESPOND TO A CLASSMATE</span></div><p style=\"margin:0; font-size:16px; line-height:1.7;\">Reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a detail from the lessons that they did not use. If not, explain respectfully where it falls short, and point to a detail from the lessons that supports your view.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #8FBFAE;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2F6150;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">GRADING RUBRIC (10 pts)</span></div><table style=\"width: 100%; border-collapse: collapse;\">\n<thead><tr style=\"background: #0E1C42;\">\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1B2824;\">Criteria</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1B2824;\">Substantive (full credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1B2824;\">Thin (partial credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1B2824;\">Missing (no credit)</th>\n</tr></thead>\n<tbody><tr style=\"background:#FFFCF6;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Claim and evidence<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a position but gives only one detail, or stays general, or ignores the opposing detail.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No post, or no clear position.</td>\n</tr><tr style=\"background:#F1EFE8;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Response to a classmate<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No reply.</td>\n</tr></tbody>\n</table><div style=\"text-align:right; margin-top:6px; font-size: 13px; color:#5B5148;\">10 pts total</div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_discussions",
+   "rubric": "r_29_6",
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": true,
+   "kind": "module-discussion",
+   "week": 29
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_29",
+   "title": "The Nation-State",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "quiz",
+     "ref": "q_29_0",
+     "title": "Module Intro: The Nation-State",
+     "published": true,
+     "week": 29
+    },
+    {
+     "type": "page",
+     "ref": "p_29_05",
+     "title": "Module Map: The Nation-State",
+     "published": true,
+     "week": 29
+    },
+    {
+     "type": "page",
+     "ref": "p_29_1",
+     "title": "Lesson: Vienna to 1848: Order, Reform, and Revolution",
+     "published": true,
+     "week": 29,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_29_2",
+     "title": "Lesson: Cavour, Garibaldi, and Bismarck: Making Italy and Germany",
+     "published": true,
+     "week": 29,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_29_3",
+     "title": "Primary Source: Carlsbad Decrees (1819)",
+     "published": true,
+     "week": 29,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_29_4",
+     "title": "Primary Source: Bismarck, \"Blood and Iron\" speech (1862)",
+     "published": true,
+     "week": 29,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_29_5",
+     "title": "Reading Quiz: The Nation-State",
+     "published": true,
+     "week": 29
+    },
+    {
+     "type": "discussion",
+     "ref": "d_29_6",
+     "title": "Discussion: Could Germany Have Been United Without Bismarck?",
+     "published": true,
+     "week": 29
+    },
+    {
+     "type": "quiz",
+     "ref": "q_29_9",
+     "title": "Module Outro: The Nation-State",
+     "published": true,
+     "week": 29
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of HS World History, Spring Semester. Read from Canvas course 290 (naming authority; titles, order, quiz questions) with _build/pull_canvas.py on 2026-11-20; the sparkled module, not its \"(Unsparkled)\" twin. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/hsworldhistory-lessons-spring/. Build folder: Course Workshops/09WorldHistory-Spring/03_Build."
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "id": "2109310-m27-sparkle",
+ "label": "Napoleon and the Napoleonic Wars · Sparkle",
+ "code": "2109310",
+ "title": "09 HS World Hist SP 2109310",
+ "file": "cartridges/2109310-m27-sparkle.imscc",
+ "bytes": 129166,
+ "version": "2026.11.20",
+ "built": "2026-11-20T21:32:25",
+ "front_page": "wiki_content/course-home.html",
+ "items": 11,
+ "modules": [
+  {
+   "id": "m_27",
+   "title": "Napoleon and the Napoleonic Wars",
+   "gid": "g04a1d6a9e5a975ddcaec1f9f4cb4abb4",
+   "published": true,
+   "items": 11,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 6,
+  "assignments": 1,
+  "quizzes": 4,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 11
+ },
+ "weights": [
+  {
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0
+  },
+  {
+   "title": "Tier 2: Discussions",
+   "weight": 10.0
+  },
+  {
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0
+  },
+  {
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0
+  },
+  {
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "groups": [
+  {
+   "id": "gca74d26de16fb10d12732f9dcc833965",
+   "title": "Assignments",
+   "weight": 0.0,
+   "position": 1
+  },
+  {
+   "id": "g0412b8c00bb9828ec80ea00ed6d9cc59",
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0,
+   "position": 2
+  },
+  {
+   "id": "g1daad3edb10362f5d0a996d2b452084d",
+   "title": "Tier 2: Discussions",
+   "weight": 10.0,
+   "position": 3
+  },
+  {
+   "id": "geb51711964c040d4728debb31f746998",
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0,
+   "position": 4
+  },
+  {
+   "id": "g01b02823bd199831fe1c87738e1474b0",
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0.0,
+   "position": 5
+  },
+  {
+   "id": "g10d5d9ed9da199d0cdc85d1cb1ca28c3",
+   "title": "Quarterly Exams",
+   "weight": 30.0,
+   "position": 6
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "a_27_5",
+   "type": "assignment",
+   "title": "VR Activity: The Field at Waterloo",
+   "gid": "g1b30e1f62c886936aa537dbc58c72092",
+   "xml": "g1b30e1f62c886936aa537dbc58c72092/assignment_settings.xml",
+   "module": "m_27",
+   "week": 27,
+   "kind": "vr-activity",
+   "points": 16.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "geb51711964c040d4728debb31f746998",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_27_0",
+   "type": "quiz",
+   "title": "Module Intro: Napoleon and the Napoleonic Wars",
+   "gid": "gec816fbafe5441091970d4265ab38ad7",
+   "xml": "gec816fbafe5441091970d4265ab38ad7/assessment_meta.xml",
+   "module": "m_27",
+   "week": 27,
+   "kind": "module-intro",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_27_7",
+   "type": "quiz",
+   "title": "Quarterly Exam: Quarter 3: Early Modern Europe",
+   "gid": "ga07f82f274682b87ba51d2458ee54b81",
+   "xml": "ga07f82f274682b87ba51d2458ee54b81/assessment_meta.xml",
+   "module": "m_27",
+   "week": 27,
+   "kind": "quarterly-exam",
+   "points": 41.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g10d5d9ed9da199d0cdc85d1cb1ca28c3",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_27_sat",
+   "type": "quiz",
+   "title": "Quarter 3 Exam (SAT)",
+   "gid": "g92f84963074265c8ed7e06817e430a10",
+   "xml": "g92f84963074265c8ed7e06817e430a10/assessment_meta.xml",
+   "module": "m_27",
+   "week": 27,
+   "kind": "quarterly-exam-sat",
+   "points": 46.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "gca74d26de16fb10d12732f9dcc833965",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_27_9",
+   "type": "quiz",
+   "title": "Module Outro: Napoleon and the Napoleonic Wars",
+   "gid": "gb135c0c132d0eda3f38773896784a4f9",
+   "xml": "gb135c0c132d0eda3f38773896784a4f9/assessment_meta.xml",
+   "module": "m_27",
+   "week": 27,
+   "kind": "module-outro",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_27_6",
+   "type": "discussion",
+   "title": "Discussion: Napoleon: Heir of the Revolution or Its Gravedigger?",
+   "gid": "gfc035ce016fbacf2e24a182eadad9e3d",
+   "xml": "g60e19455b1ba9c158730081cfe991ef9.xml",
+   "module": "m_27",
+   "week": 27,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g1daad3edb10362f5d0a996d2b452084d",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec 2109310-m27-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [
+   "\"facilitator\" appears 1 time(s) in student-facing text"
+  ],
+  "stats": {
+   "resources": 18,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 7,
+    "webcontent": 6,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 4,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 11,
+   "modules": 1,
+   "module_items": 11,
+   "module_item_types": {
+    "Quizzes::Quiz": 4,
+    "WikiPage": 5,
+    "Assignment": 1,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 6,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 6,
+   "group_refs": 6,
+   "quizzes": 4,
+   "assignments": 1,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 200.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "41c911fde2bcd1538fb39025b872a5ca496f2a5181ef2ac9183b4ce6615f7850",
+ "art_pack": null
+}
