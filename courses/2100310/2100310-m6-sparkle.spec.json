@@ -1,0 +1,382 @@
+{
+ "course": {
+  "title": "10 HS US Hist Recon-Pres 2100310 Q3-Q4",
+  "code": "2100310",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_tier1",
+   "title": "Tier 1: Student & Material",
+   "weight": 30.0
+  },
+  {
+   "id": "ag_tier2",
+   "title": "Tier 2: Student & Community",
+   "weight": 25.0
+  },
+  {
+   "id": "ag_tier3",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 45.0
+  },
+  {
+   "id": "ag_tier4",
+   "title": "Tier 4: Ungraded Scaffolding",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_m6_discussion",
+   "title": "Rubric: Discussion: Court Packing: Reform or Power Grab?",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Post and reply",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Clear position, specific evidence from the week, names a counterpoint, and the reply engages a classmate's actual reasoning",
+       "points": 10.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Position stated but evidence vague, no counterpoint, or the reply only says \"I agree\"",
+       "points": 6.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no reply",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_6-dot-2-social-security-and-the-wagner-act",
+   "title": "Social Security and the Wagner Act",
+   "slug": "6-dot-2-social-security-and-the-wagner-act",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">6.2 Social Security and the Wagner Act</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-24/lesson-1.html\" width=\"100%\" height=\"2853\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_6-dot-3-primary-source-schechter-poultry-corp-v-united-states",
+   "title": "Primary Source: Schechter Poultry Corp. v. United States",
+   "slug": "6-dot-3-primary-source-schechter-poultry-corp-v-united-states",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">6.3 Primary Source: Schechter Poultry Corp. v. United States</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-24/primary-source-1.html\" width=\"100%\" height=\"2771\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_6-dot-4-the-court-fight-and-the-federal-balance",
+   "title": "The Court Fight and the Federal Balance",
+   "slug": "6-dot-4-the-court-fight-and-the-federal-balance",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">6.4 The Court Fight and the Federal Balance</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-24/lesson-2.html\" width=\"100%\" height=\"2845\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_6-dot-5-primary-source-franklin-d-roosevelt-fireside-chat-on-the-judiciary",
+   "title": "Primary Source: Franklin D. Roosevelt, Fireside Chat on the Judiciary",
+   "slug": "6-dot-5-primary-source-franklin-d-roosevelt-fireside-chat-on-the-judiciary",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">6.5 Primary Source: Franklin D. Roosevelt, Fireside Chat on the Judiciary</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-24/primary-source-2.html\" width=\"100%\" height=\"2745\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_m6_intro",
+   "title": "Module Intro: Before You Begin",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#2A2438; border-bottom:4px solid #5B3E96; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#F3C969; margin-bottom:6px;\"><strong>MODULE INTRO</strong></div><div style=\"font-family:'Libre Baskerville',Baskerville,Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module Intro: Before You Begin</div><div style=\"font-size:15px; color:#ECE6F6;\">3 questions · survey · one attempt</div></div><div style=\"border-top:3px double #5B3E96; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #9B2335; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#9B2335; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Welcome to this module. This short survey is not graded for correctness. Your answers help your teacher see where the class is starting.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>When the elected branches and the courts disagree about what the Constitution allows, who should have the last word, and why? Give your best answer now. You will come back to this question at the end of the module.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>This module has these goals. Read them, then choose one answer.</p>\n<ul>\n<li>Describe the Second New Deal, including the WPA, Social Security, and the Wagner Act.</li>\n<li>Explain how Social Security was designed and who it left out.</li>\n<li>Explain how the Supreme Court responded to the New Deal.</li>\n<li>Describe Roosevelt's plan for the Court and why many people opposed it.</li>\n<li>Explain how the Court's decisions changed after 1937.</li>\n<li>Judge how the contest changed the balance of power in Washington.</li>\n</ul>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I have read the goals and I understand what this module asks of me.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I have read the goals, but I have a question about one of them.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Some assignments in this course allow you to work with classmates. How do you plan to work this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I would like to work with a group when that is an option.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I would rather work on my own.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "I am not sure yet.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-intro-survey",
+   "week": 6
+  },
+  {
+   "id": "q_m6_outro",
+   "title": "Module Outro: Looking Back",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#2A2438; border-bottom:4px solid #5B3E96; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#F3C969; margin-bottom:6px;\"><strong>MODULE OUTRO</strong></div><div style=\"font-family:'Libre Baskerville',Baskerville,Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module Outro: Looking Back</div><div style=\"font-size:15px; color:#ECE6F6;\">5 questions · survey · one attempt</div></div><div style=\"border-top:3px double #5B3E96; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #9B2335; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#9B2335; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">You have finished this module. Please answer honestly. Your answers help your teacher see how the class is doing.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Look back at the question from the start of the module. When the elected branches and the courts disagree about what the Constitution allows, who should have the last word, and why? Give your answer now, using at least one fact from this module. You may say if your thinking has changed.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident do you feel about the material in this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Very confident. I could explain it to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Fairly confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Somewhat unsure. I understand parts of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Not confident. I need help.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear to you? Name a person, event, or idea. If nothing is unclear, write \"nothing.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these did the people in this module most need, whether they had it or not?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Pick one person from this module (Roosevelt, Perkins, Hughes, Roberts, John L. Lewis, or someone else) and explain, in two or three sentences, how that virtue showed up in what they did, or how its absence did.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-outro-survey",
+   "week": 6
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_m6",
+   "title": "Discussion: Court Packing: Reform or Power Grab?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#2A2438; border-bottom:4px solid #5B3E96; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#F3C969; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:'Libre Baskerville',Baskerville,Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Court Packing: Reform or Power Grab?</div><div style=\"font-size:15px; color:#ECE6F6;\">10 points · threaded discussion</div></div><div style=\"border-top:3px double #5B3E96; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #9B2335; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#9B2335; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Open the lessons \"Social Security and the Wagner Act\" and \"The Court Fight and the Federal Balance\". Use My Notebook on those pages to gather your notes and marks, then come back here to post.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2A2438; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2A2438; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The question</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">In 1937, President Roosevelt asked Congress to let him add new justices to the Supreme Court. He said the courts were overworked and the older judges were slow. His critics said he was trying to change the outcome of cases by changing the judges. Was his plan a fair reform, or a grab for power? Your job is to decide which description fits the evidence better.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #5B3E96; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#5B3E96; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Your post</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\"><strong>Your post (about 100 to 150 words):</strong></p><ol style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 6px; padding-left:22px;\"><li style=\"margin-bottom:6px;\">Take a clear position: reform, power grab, or a mix that leans one way.</li><li style=\"margin-bottom:6px;\">Give one specific piece of evidence from the lesson \"Social Security and the Wagner Act\" or the source Schechter Poultry Corp. v. United States that supports you.</li><li style=\"margin-bottom:6px;\">Name one fact that cuts against your position, and explain why you still hold it.</li></ol></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #9B2335; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#9B2335; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Your reply</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\"><strong>Your reply (about 50 to 75 words):</strong> Respond to one classmate. Do you agree with their reasoning? If so, strengthen it with something they did not use. If not, say respectfully where their reasoning falls short.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2A2438; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2A2438; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you post</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Post first, then reply. You will not see your classmates' posts until you have posted.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2A2438; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2A2438; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#ECE6F6; font-size:14px; width:22%;\">Post and reply<br><span style=\"color:#5B3E96;\">10.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>10.0 pts</strong> Substantive<br><span style=\"color:#55524C;\">Clear position, specific evidence from the week, names a counterpoint, and the reply engages a classmate's actual reasoning</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>6.0 pts</strong> Thin<br><span style=\"color:#55524C;\">Position stated but evidence vague, no counterpoint, or the reply only says \"I agree\"</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> Missing<br><span style=\"color:#55524C;\">No post, or no reply</span></td></tr></tbody></table></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_tier2",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": "r_m6_discussion",
+   "kind": "module-discussion",
+   "week": 6
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_6",
+   "title": "The Second New Deal and the Court",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "title": "Module Intro: Before You Begin",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m6_intro"
+    },
+    {
+     "title": "Social Security and the Wagner Act",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_6-dot-2-social-security-and-the-wagner-act",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Schechter Poultry Corp. v. United States",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_6-dot-3-primary-source-schechter-poultry-corp-v-united-states",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "The Court Fight and the Federal Balance",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_6-dot-4-the-court-fight-and-the-federal-balance",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Franklin D. Roosevelt, Fireside Chat on the Judiciary",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_6-dot-5-primary-source-franklin-d-roosevelt-fireside-chat-on-the-judiciary",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Discussion: Court Packing: Reform or Power Grab?",
+     "indent": 0,
+     "published": true,
+     "type": "discussion",
+     "ref": "d_m6"
+    },
+    {
+     "title": "Module Outro: Looking Back",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m6_outro"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of HS U.S. History: Reconstruction to Present, Spring Semester. Read from Canvas course 291 with _build/pull_canvas.py on 2026-11-21; the sparkled module. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/10USHistoryRec-Present-Spring/. Build folder: Course Workshops/10USHistoryRec-Present-Spring/03_Build."
+ }
+}

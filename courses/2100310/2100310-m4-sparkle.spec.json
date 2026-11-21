@@ -1,0 +1,684 @@
+{
+ "course": {
+  "title": "10 HS US Hist Recon-Pres 2100310 Q3-Q4",
+  "code": "2100310",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_tier1",
+   "title": "Tier 1: Student & Material",
+   "weight": 30.0
+  },
+  {
+   "id": "ag_tier2",
+   "title": "Tier 2: Student & Community",
+   "weight": 25.0
+  },
+  {
+   "id": "ag_tier3",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 45.0
+  },
+  {
+   "id": "ag_tier4",
+   "title": "Tier 4: Ungraded Scaffolding",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_m4_discussion",
+   "title": "Rubric: Discussion: Did Hoover Do Too Little, or Was There Little He Could Do?",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Post and reply",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Clear position, specific evidence from the week, names a counterpoint, and the reply engages a classmate's actual reasoning",
+       "points": 10.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Position stated but evidence vague, no counterpoint, or the reply only says \"I agree\"",
+       "points": 6.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no reply",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_module-4-map",
+   "title": "Module Map",
+   "slug": "module-4-map",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">Module 4 Map</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-22/module-map.html\" width=\"100%\" height=\"1446\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_4-dot-2-the-crash-of-1929-and-herbert-hoover",
+   "title": "The Crash of 1929 and Herbert Hoover",
+   "slug": "4-dot-2-the-crash-of-1929-and-herbert-hoover",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">4.2 The Crash of 1929 and Herbert Hoover</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-22/lesson-1.html\" width=\"100%\" height=\"2836\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_4-dot-3-primary-source-herbert-hoover-rugged-individualism-speech",
+   "title": "Primary Source: Herbert Hoover, \"Rugged Individualism\" Speech",
+   "slug": "4-dot-3-primary-source-herbert-hoover-rugged-individualism-speech",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">4.3 Primary Source: Herbert Hoover, \"Rugged Individualism\" Speech</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-22/primary-source-1.html\" width=\"100%\" height=\"2743\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_4-dot-4-the-depression-at-home",
+   "title": "The Depression at Home",
+   "slug": "4-dot-4-the-depression-at-home",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">4.4 The Depression at Home</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-22/lesson-2.html\" width=\"100%\" height=\"2782\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_4-dot-5-primary-source-herbert-hoover-statement-on-the-bonus-army",
+   "title": "Primary Source: Herbert Hoover, Statement on the Bonus Army",
+   "slug": "4-dot-5-primary-source-herbert-hoover-statement-on-the-bonus-army",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">4.5 Primary Source: Herbert Hoover, Statement on the Bonus Army</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-22/primary-source-2.html\" width=\"100%\" height=\"2716\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_4-dot-8-week-22-wrap-up",
+   "title": "Wrap-Up",
+   "slug": "4-dot-8-week-22-wrap-up",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">4.8 Week 22 Wrap-Up</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-22/week-wrap-up.html\" width=\"100%\" height=\"1444\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_m4_intro",
+   "title": "Module Intro: Before You Begin",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#2B2A22; border-bottom:4px solid #596422; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#E6C36A; margin-bottom:6px;\"><strong>MODULE INTRO</strong></div><div style=\"font-family:'Zilla Slab',Rockwell,'Courier New',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module Intro: Before You Begin</div><div style=\"font-size:15px; color:#ECEFD9;\">3 questions · survey · one attempt</div></div><div style=\"border-top:3px double #596422; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #8A5424; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8A5424; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Welcome to this module. This short survey is not graded for correctness. Your answers help your teacher see where the class is starting.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>When a whole country suffers a crisis, how much should its government do to help? Give your best answer now. You will come back to this question at the end of the module.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>This module has these goals. Read them, then choose one answer.</p>\n<ul>\n<li>Explain how speculation and buying on margin helped produce the stock market crash of 1929.</li>\n<li>Describe the chain of events, from bank runs to the tariff, that turned a crash into the Great Depression.</li>\n<li>Evaluate Herbert Hoover's response in light of his beliefs about government, business, and private charity.</li>\n<li>Describe how the Great Depression changed daily life for families in cities and on farms.</li>\n<li>Explain why some groups, including Black Americans and Mexican Americans, suffered more than others.</li>\n<li>Analyze the Bonus Army episode as a test of the relationship between citizens, the president, and the Army.</li>\n</ul>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I have read the goals and I understand what this module asks of me.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I have read the goals, but I have a question about one of them.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Some assignments in this course allow you to work with classmates. How do you plan to work this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I would like to work with a group when that is an option.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I would rather work on my own.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "I am not sure yet.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-intro-survey",
+   "week": 4
+  },
+  {
+   "id": "q_m4_reading",
+   "title": "Reading Quiz: The Crash and the Depression",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#2B2A22; border-bottom:4px solid #596422; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#E6C36A; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:'Zilla Slab',Rockwell,'Courier New',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: The Crash and the Depression</div><div style=\"font-size:15px; color:#ECEFD9;\">8 questions · 8 points · one attempt</div></div><div style=\"border-top:3px double #596422; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #8A5424; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8A5424; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Answer each question using what you learned in this week's two lessons. You may look back at them, but the answers are not stated word for word. You will need to put facts together.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 8.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_tier1",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>When stock prices fell in 1929, many people who had bought on margin were wiped out. Why?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The stock exchange closed and kept their money.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The government taxed their profits at once.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Their companies went out of business the same day.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Their brokers demanded repayment of borrowed money that they did not have.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Most Americans did not own stocks, yet the crash became a national disaster. Which statement best explains this?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Bank failures, lost savings, a shrinking money supply, and collapsing trade spread the shock far beyond stockholders.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The government required every family to sell its savings.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Stockholders owned most of the farms and all of the factories.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Newspapers made people believe prices had fallen when they had not.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Congress passed the Smoot-Hawley Tariff in 1930 to protect American farmers and factories. Which result does the lesson describe?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Foreign goods became cheaper for American buyers.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "American factories hired more workers because of the law.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Other countries answered with tariffs of their own, and the foreign customers American producers needed disappeared.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The gold standard ended in every country.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Britain left the gold standard in 1931 and the United States left it in 1933. Why did leaving help a country recover?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It made imports cheaper for everyone.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It let governments put more money into their economies when trouble came.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It ended all bank runs at once.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It forced other countries to cancel their war debts.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Hoover believed relief for the poor should come mostly from families, churches, local charities, and the states. Which action best fits that belief?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He urged business leaders to keep wages up and avoid layoffs, and he expected local charities to feed the poor.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He asked Congress to send a check to every family.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He ordered the Federal Reserve to take over the banks.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He proposed a federal program of unemployment insurance.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Shantytowns for the homeless were called \"Hoovervilles.\" What does the name suggest?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Hoover had designed the camps himself.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hoover had ordered them built outside the cities.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Hoover had visited many of them.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Many Americans blamed the president for their suffering.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>General MacArthur's troops crossed the Anacostia bridge and burned the main Bonus Army camp, though Hoover had told them to stay on the near side. Which question does this raise?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Whether the veterans should have been paid the bonus in 1924.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Whether the president's orders to the military, and civilian control of the Army, were being obeyed.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Whether the Senate had the right to vote down the bonus bill.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Whether the veterans were Communists.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Dust Bowl was caused by more than a drought. Which detail from the lesson explains why the dust blew so far?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Farmers had stopped planting crops in the 1920s.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Cities had pumped water out of the Plains.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Farmers had plowed up the tough prairie grass, so nothing held the soil in place.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A series of hurricanes had stripped the land.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "reading-quiz",
+   "week": 4
+  },
+  {
+   "id": "q_m4_outro",
+   "title": "Module Outro: Looking Back",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#2B2A22; border-bottom:4px solid #596422; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#E6C36A; margin-bottom:6px;\"><strong>MODULE OUTRO</strong></div><div style=\"font-family:'Zilla Slab',Rockwell,'Courier New',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module Outro: Looking Back</div><div style=\"font-size:15px; color:#ECEFD9;\">5 questions · survey · one attempt</div></div><div style=\"border-top:3px double #596422; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #8A5424; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8A5424; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">You have finished this module. Please answer honestly. Your answers help your teacher see how the class is doing.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Look back at the question from the start of the module. When a whole country suffers a crisis, how much should its government do to help? Give your answer now, using at least one fact from this module. You may say if your thinking has changed.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident do you feel about the material in this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Very confident. I could explain it to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Fairly confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Somewhat unsure. I understand parts of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Not confident. I need help.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear to you? Name a person, event, or idea. If nothing is unclear, write \"nothing.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these did the people in this module most need, whether they had it or not?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Pick one person or group from this module (Hoover, MacArthur, the Bonus Army veterans, or someone else) and explain, in two or three sentences, how that virtue showed up in what they did, or how its absence did.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-outro-survey",
+   "week": 4
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_m4",
+   "title": "Discussion: Did Hoover Do Too Little, or Was There Little He Could Do?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#2B2A22; border-bottom:4px solid #596422; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#E6C36A; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:'Zilla Slab',Rockwell,'Courier New',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Did Hoover Do Too Little, or Was There Little He Could Do?</div><div style=\"font-size:15px; color:#ECEFD9;\">10 points · threaded discussion</div></div><div style=\"border-top:3px double #596422; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #8A5424; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8A5424; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Open the lessons \"The Crash of 1929 and Herbert Hoover\" and \"The Depression at Home\". Use My Notebook on those pages to gather your notes and marks, then come back here to post.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2B2A22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2B2A22; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The question</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Did Herbert Hoover do too little in the face of the Great Depression, or was there little more he could have done? The lessons describe what he believed, what he tried, and what went wrong.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #596422; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#596422; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Your post</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\"><strong>Your post (about 100 to 150 words):</strong></p><ol style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 6px; padding-left:22px;\"><li style=\"margin-bottom:6px;\">Take a clear position: too little, little he could do, or something in between.</li><li style=\"margin-bottom:6px;\">Give one specific piece of evidence from this week's lessons that supports you.</li><li style=\"margin-bottom:6px;\">Name one fact that cuts against your position, and explain why you still hold it.</li></ol></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #8A5424; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#8A5424; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Your reply</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\"><strong>Your reply (about 50 to 75 words):</strong> Respond to one classmate. Do you agree with their reasoning? If so, strengthen it with something they did not use. If not, say respectfully where their reasoning falls short.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2B2A22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2B2A22; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you post</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Post first, then reply.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2B2A22; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#2B2A22; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#ECEFD9; font-size:14px; width:22%;\">Post and reply<br><span style=\"color:#596422;\">10.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>10.0 pts</strong> Substantive<br><span style=\"color:#55524C;\">Clear position, specific evidence from the week, names a counterpoint, and the reply engages a classmate's actual reasoning</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>6.0 pts</strong> Thin<br><span style=\"color:#55524C;\">Position stated but evidence vague, no counterpoint, or the reply only says \"I agree\"</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> Missing<br><span style=\"color:#55524C;\">No post, or no reply</span></td></tr></tbody></table></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_tier2",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": "r_m4_discussion",
+   "kind": "module-discussion",
+   "week": 4
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_4",
+   "title": "The Crash of 1929 and the Depression",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "title": "Module Intro: Before You Begin",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m4_intro"
+    },
+    {
+     "title": "Module Map",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_module-4-map"
+    },
+    {
+     "title": "The Crash of 1929 and Herbert Hoover",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_4-dot-2-the-crash-of-1929-and-herbert-hoover",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Herbert Hoover, \"Rugged Individualism\" Speech",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_4-dot-3-primary-source-herbert-hoover-rugged-individualism-speech",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "The Depression at Home",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_4-dot-4-the-depression-at-home",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Herbert Hoover, Statement on the Bonus Army",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_4-dot-5-primary-source-herbert-hoover-statement-on-the-bonus-army",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: The Crash and the Depression",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m4_reading"
+    },
+    {
+     "title": "Discussion: Did Hoover Do Too Little, or Was There Little He Could Do?",
+     "indent": 0,
+     "published": true,
+     "type": "discussion",
+     "ref": "d_m4"
+    },
+    {
+     "title": "Wrap-Up",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_4-dot-8-week-22-wrap-up",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Module Outro: Looking Back",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m4_outro"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of HS U.S. History: Reconstruction to Present, Spring Semester. Read from Canvas course 291 with _build/pull_canvas.py on 2026-11-21; the sparkled module. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/10USHistoryRec-Present-Spring/. Build folder: Course Workshops/10USHistoryRec-Present-Spring/03_Build."
+ }
+}

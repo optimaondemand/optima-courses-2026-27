@@ -1,0 +1,653 @@
+{
+ "course": {
+  "title": "10 HS US Hist Recon-Pres 2100310 Q3-Q4",
+  "code": "2100310",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_tier1",
+   "title": "Tier 1: Student & Material",
+   "weight": 30.0
+  },
+  {
+   "id": "ag_tier2",
+   "title": "Tier 2: Student & Community",
+   "weight": 25.0
+  },
+  {
+   "id": "ag_tier3",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 45.0
+  },
+  {
+   "id": "ag_tier4",
+   "title": "Tier 4: Ungraded Scaffolding",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_m10_discussion",
+   "title": "Rubric: Discussion: Containment: Prudence or Provocation?",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Post and reply",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Clear position, specific evidence from the week, names a counterpoint, and the reply engages a classmate's actual reasoning",
+       "points": 10.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Position stated but evidence vague, no counterpoint, or the reply only says \"I agree\"",
+       "points": 6.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no reply",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_10-dot-2-building-the-postwar-order",
+   "title": "Building the Postwar Order",
+   "slug": "10-dot-2-building-the-postwar-order",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">10.2 Building the Postwar Order</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-28/lesson-1.html\" width=\"100%\" height=\"2800\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_10-dot-3-primary-source-george-kennan-the-long-telegram",
+   "title": "Primary Source: George Kennan, The Long Telegram",
+   "slug": "10-dot-3-primary-source-george-kennan-the-long-telegram",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">10.3 Primary Source: George Kennan, The Long Telegram</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-28/primary-source-1.html\" width=\"100%\" height=\"2690\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_10-dot-4-containment",
+   "title": "Containment",
+   "slug": "10-dot-4-containment",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">10.4 Containment</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-28/lesson-2.html\" width=\"100%\" height=\"2800\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_10-dot-5-primary-source-harry-s-truman-address-to-congress-the-truman-doctrine",
+   "title": "Primary Source: Harry S. Truman, Address to Congress (The Truman Doctrine)",
+   "slug": "10-dot-5-primary-source-harry-s-truman-address-to-congress-the-truman-doctrine",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">10.5 Primary Source: Harry S. Truman, Address to Congress (The Truman Doctrine)</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-28/primary-source-2.html\" width=\"100%\" height=\"2680\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_m10_intro",
+   "title": "Module Intro: Before You Begin",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#1E232B; border-bottom:4px solid #A8480F; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#F5B97A; margin-bottom:6px;\"><strong>MODULE INTRO</strong></div><div style=\"font-family:'Barlow Condensed',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module Intro: Before You Begin</div><div style=\"font-size:15px; color:#F8E6D8;\">3 questions · survey · one attempt</div></div><div style=\"border-top:3px double #A8480F; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #3C5A78; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#3C5A78; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Welcome to this module. This short survey is not graded for correctness. Your answers help your teacher see where the class is starting.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>After a great war, two strong nations that fought on the same side may become rivals. Why might that happen? Give your best answer now. You will come back to this question at the end of the module.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>This module has these goals. Read them, then choose one answer.</p>\n<ul>\n<li>Describe how the United States tried to build a lasting peace through the United Nations and Bretton Woods.</li>\n<li>Explain how the Soviet Union came to control Eastern Europe.</li>\n<li>Explain why Americans sent their soldiers home so quickly.</li>\n<li>Describe the policy of containment and its first tests.</li>\n<li>Explain the Truman Doctrine, the Marshall Plan, the Berlin Airlift, and NATO.</li>\n<li>Weigh the arguments for and against containment.</li>\n</ul>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I have read the goals and I understand what this module asks of me.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I have read the goals, but I have a question about one of them.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Some assignments in this course allow you to work with classmates. How do you plan to work this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I would like to work with a group when that is an option.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I would rather work on my own.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "I am not sure yet.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-intro-survey",
+   "week": 10
+  },
+  {
+   "id": "q_m10_reading",
+   "title": "Reading Quiz: Building the Postwar Order and Containment",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#1E232B; border-bottom:4px solid #A8480F; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#F5B97A; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:'Barlow Condensed',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Building the Postwar Order and Containment</div><div style=\"font-size:15px; color:#F8E6D8;\">8 questions · 8 points · one attempt</div></div><div style=\"border-top:3px double #A8480F; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #3C5A78; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#3C5A78; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Answer each question using what you learned in this week's two lessons. You may look back at them, but the answers are not stated word for word. You will need to put facts together.</p></div></div>",
+   "quiz_type": "assignment",
+   "points": 8.0,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": "ag_tier1",
+   "published": true,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>The United Nations Security Council gave each of five nations a permanent seat and a veto. Why did this design make it likely that the council would sometimes be unable to act?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The General Assembly could overrule any decision of the council.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Any one of the five could block a decision, so when the great powers disagreed, nothing could be done.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The council had no power to order action to keep the peace.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only members of the General Assembly were allowed to vote.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Senate approved the United Nations Charter by 89 to 2, though it had rejected the League of Nations in 1919. Which fact from the lesson best helps explain the difference?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The United Nations had no power to act.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Senate had changed its mind about Woodrow Wilson.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Soviet Union had refused to join.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Roosevelt planned early and brought leading senators into the planning.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Bretton Woods Conference tied other currencies to the dollar and the dollar to gold. Which problem from the 1930s was this meant to prevent?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Tariff wars and money troubles that choked trade.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "A shortage of American soldiers.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The spread of communism in Asia.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The end of the Marshall Plan.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>At Yalta, Stalin promised \"free and unfettered elections\" in Poland. What does the lesson's account of Eastern Europe after 1945 suggest about that promise?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It was kept in every country the Red Army entered.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It was kept in Poland but broken in Czechoslovakia.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It meant very little, since elections were rigged or put off and local communists took control.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It was canceled by a vote of the United Nations.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Between 1945 and 1947, the armed forces shrank from about twelve million to fewer than two million. What was one result?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The United States had far less force in Europe than the Soviet army, even though its factories were far larger.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The United States left Europe completely, as it had in 1919.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Soviet Union demobilized at the same speed.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Congress ended the draft permanently.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Kennan argued that Soviet leaders were cautious and would back away when they met firm resistance. Which action best fits a policy built on that belief?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Pulling the American troops out of Berlin to avoid a clash.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Sending an armed convoy down the road into West Berlin to force it open.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Flying supplies into Berlin for months and holding the city without a shot.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Invading Eastern Europe to remove the communist governments.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Marshall Plan offered aid to all of Europe, yet Stalin forced the countries he controlled to refuse it. What was the effect?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The plan failed everywhere in Europe.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Western Europe's economies stayed weak.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Communist parties gained ground in the West.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The aid went to Western Europe, where factories restarted and communist parties lost ground.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Senator Robert Taft opposed the North Atlantic Treaty. Which concern did he hold?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That the treaty cost too much money.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That it might drag the country into wars that Congress had not chosen.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "That Britain and France could not be trusted.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That the Soviet Union would join NATO.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "reading-quiz",
+   "week": 10
+  },
+  {
+   "id": "q_m10_outro",
+   "title": "Module Outro: Looking Back",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#1E232B; border-bottom:4px solid #A8480F; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#F5B97A; margin-bottom:6px;\"><strong>MODULE OUTRO</strong></div><div style=\"font-family:'Barlow Condensed',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module Outro: Looking Back</div><div style=\"font-size:15px; color:#F8E6D8;\">5 questions · survey · one attempt</div></div><div style=\"border-top:3px double #A8480F; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #3C5A78; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#3C5A78; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">You have finished this module. Please answer honestly. Your answers help your teacher see how the class is doing.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Look back at the question from the start of the module. After a great war, two strong nations that fought on the same side may become rivals. Why might that happen? Give your answer now, using at least one fact from this module. You may say if your thinking has changed.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident do you feel about the material in this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Very confident. I could explain it to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Fairly confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Somewhat unsure. I understand parts of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Not confident. I need help.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear to you? Name a person, event, or idea. If nothing is unclear, write \"nothing.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these did the people in this module most need, whether they had it or not?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Pick one person from this module (Truman, Kennan, Marshall, Stalin, Vandenberg, or someone else) and explain, in two or three sentences, how that virtue showed up in what they did, or how its absence did.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-outro-survey",
+   "week": 10
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_m10",
+   "title": "Discussion: Containment: Prudence or Provocation?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#1E232B; border-bottom:4px solid #A8480F; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#F5B97A; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:'Barlow Condensed',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Containment: Prudence or Provocation?</div><div style=\"font-size:15px; color:#F8E6D8;\">10 points · threaded discussion</div></div><div style=\"border-top:3px double #A8480F; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #3C5A78; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#3C5A78; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Open the lessons \"Building the Postwar Order\" and \"Containment\". Use My Notebook on those pages to gather your notes and marks, then come back here to post.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #1E232B; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#1E232B; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The question</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">After World War II, the United States chose a policy of containment: hold back the spread of Soviet power without going to war. Defenders call it a wise and careful choice. Critics say it turned a rivalry into a long confrontation. Was containment prudence, or provocation? Your job is to decide which view fits the evidence better.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #A8480F; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#A8480F; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Your post</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\"><strong>Your post (about 100 to 150 words):</strong></p><ol style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 6px; padding-left:22px;\"><li style=\"margin-bottom:6px;\">Take a clear position: prudence, provocation, or a mix that leans one way.</li><li style=\"margin-bottom:6px;\">Give one specific piece of evidence from the lesson \"Building the Postwar Order\" or the source George Kennan, The Long Telegram that supports you.</li><li style=\"margin-bottom:6px;\">Name one fact that cuts against your position, and explain why you still hold it.</li></ol></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #3C5A78; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#3C5A78; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Your reply</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\"><strong>Your reply (about 50 to 75 words):</strong> Respond to one classmate. Do you agree with their reasoning? If so, strengthen it with something they did not use. If not, say respectfully where their reasoning falls short.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #1E232B; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#1E232B; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you post</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Post first, then reply. You will not see your classmates' posts until you have posted.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #1E232B; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#1E232B; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#F8E6D8; font-size:14px; width:22%;\">Post and reply<br><span style=\"color:#A8480F;\">10.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>10.0 pts</strong> Substantive<br><span style=\"color:#55524C;\">Clear position, specific evidence from the week, names a counterpoint, and the reply engages a classmate's actual reasoning</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>6.0 pts</strong> Thin<br><span style=\"color:#55524C;\">Position stated but evidence vague, no counterpoint, or the reply only says \"I agree\"</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> Missing<br><span style=\"color:#55524C;\">No post, or no reply</span></td></tr></tbody></table></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_tier2",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": "r_m10_discussion",
+   "kind": "module-discussion",
+   "week": 10
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_10",
+   "title": "The Postwar Order and Containment",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "title": "Module Intro: Before You Begin",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m10_intro"
+    },
+    {
+     "title": "Building the Postwar Order",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_10-dot-2-building-the-postwar-order",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: George Kennan, The Long Telegram",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_10-dot-3-primary-source-george-kennan-the-long-telegram",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Containment",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_10-dot-4-containment",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Harry S. Truman, Address to Congress (The Truman Doctrine)",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_10-dot-5-primary-source-harry-s-truman-address-to-congress-the-truman-doctrine",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Reading Quiz: Building the Postwar Order and Containment",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m10_reading"
+    },
+    {
+     "title": "Discussion: Containment: Prudence or Provocation?",
+     "indent": 0,
+     "published": true,
+     "type": "discussion",
+     "ref": "d_m10"
+    },
+    {
+     "title": "Module Outro: Looking Back",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m10_outro"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of HS U.S. History: Reconstruction to Present, Spring Semester. Read from Canvas course 291 with _build/pull_canvas.py on 2026-11-21; the sparkled module. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/10USHistoryRec-Present-Spring/. Build folder: Course Workshops/10USHistoryRec-Present-Spring/03_Build."
+ }
+}

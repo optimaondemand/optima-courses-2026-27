@@ -1,0 +1,382 @@
+{
+ "course": {
+  "title": "10 HS US Hist Recon-Pres 2100310 Q3-Q4",
+  "code": "2100310",
+  "default_view": "wiki",
+  "weighted": true
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_tier1",
+   "title": "Tier 1: Student & Material",
+   "weight": 30.0
+  },
+  {
+   "id": "ag_tier2",
+   "title": "Tier 2: Student & Community",
+   "weight": 25.0
+  },
+  {
+   "id": "ag_tier3",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 45.0
+  },
+  {
+   "id": "ag_tier4",
+   "title": "Tier 4: Ungraded Scaffolding",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_m16_discussion",
+   "title": "Rubric: Discussion: Who Won the Cold War?",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Post and reply",
+     "long_description": "",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Clear position, specific evidence from the week, names a counterpoint, and the reply engages a classmate's actual reasoning",
+       "points": 10.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Position stated but evidence vague, no counterpoint, or the reply only says \"I agree\"",
+       "points": 6.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no reply",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_16-dot-2-the-reagan-years-and-the-soviet-squeeze",
+   "title": "The Reagan Years and the Soviet Squeeze",
+   "slug": "16-dot-2-the-reagan-years-and-the-soviet-squeeze",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">16.2 The Reagan Years and the Soviet Squeeze</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-34/lesson-1.html\" width=\"100%\" height=\"2773\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_16-dot-3-primary-source-ronald-reagan-address-to-the-national-association-of-evangelicals-the-evil-empire-speech",
+   "title": "Primary Source: Ronald Reagan, Address to the National Association of Evangelicals (The \"Evil Empire\" Speech)",
+   "slug": "16-dot-3-primary-source-ronald-reagan-address-to-the-national-association-of-evangelicals-the-evil-empire-speech",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">16.3 Primary Source: Ronald Reagan, Address to the National Association of Evangelicals (The \"Evil Empire\" Speech)</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-34/primary-source-1.html\" width=\"100%\" height=\"2736\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_16-dot-4-the-wall-falls",
+   "title": "The Wall Falls",
+   "slug": "16-dot-4-the-wall-falls",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">16.4 The Wall Falls</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-34/lesson-2.html\" width=\"100%\" height=\"2773\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  },
+  {
+   "id": "p_16-dot-5-primary-source-ronald-reagan-remarks-at-the-brandenburg-gate",
+   "title": "Primary Source: Ronald Reagan, Remarks at the Brandenburg Gate",
+   "slug": "16-dot-5-primary-source-ronald-reagan-remarks-at-the-brandenburg-gate",
+   "html": "<div style=\"margin: 20px 0; border: 2px solid #2e86c1; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #1a5276; color: #fff; padding: 10px 18px; font-family: Arial, Helvetica, sans-serif;  font-size: 1.05em;\">16.5 Primary Source: Ronald Reagan, Remarks at the Brandenburg Gate</div>\n  <iframe src=\"https://optimaondemand.github.io/10USHistoryRec-Present-Spring/week-34/primary-source-2.html\" width=\"100%\" height=\"2680\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n</div>",
+   "front_page": false,
+   "published": true
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_m16_intro",
+   "title": "Module Intro: Before You Begin",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#1B1D20; border-bottom:4px solid #4A5058; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#E8C95A; margin-bottom:6px;\"><strong>MODULE INTRO</strong></div><div style=\"font-family:'Alegreya',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module Intro: Before You Begin</div><div style=\"font-size:15px; color:#E9ECEF;\">3 questions · survey · one attempt</div></div><div style=\"border-top:3px double #4A5058; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #7A5A00; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#7A5A00; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Welcome to this module. This short survey is not graded for correctness. Your answers help your teacher see where the class is starting.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>When a great rival power collapses, is it mainly because of pressure from outside or weakness within? Give your best answer now. You will come back to this question at the end of the module.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>This module has these goals. Read them, then choose one answer.</p>\n<ul>\n<li>Explain the ideas behind Reagan's economic program and its results.</li>\n<li>Describe how Reagan's military buildup and foreign policy increased pressure on the Soviet Union.</li>\n<li>Explain why the Soviet system was failing and how Gorbachev tried to reform it.</li>\n<li>Describe the events of 1989 to 1991 that ended the Cold War.</li>\n<li>Weigh competing explanations for why the Cold War ended.</li>\n</ul>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I have read the goals and I understand what this module asks of me.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I have read the goals, but I have a question about one of them.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Some assignments in this course allow you to work with classmates. How do you plan to work this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "I would like to work with a group when that is an option.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "I would rather work on my own.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "I am not sure yet.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-intro-survey",
+   "week": 16
+  },
+  {
+   "id": "q_m16_outro",
+   "title": "Module Outro: Looking Back",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#1B1D20; border-bottom:4px solid #4A5058; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#E8C95A; margin-bottom:6px;\"><strong>MODULE OUTRO</strong></div><div style=\"font-family:'Alegreya',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Module Outro: Looking Back</div><div style=\"font-size:15px; color:#E9ECEF;\">5 questions · survey · one attempt</div></div><div style=\"border-top:3px double #4A5058; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #7A5A00; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#7A5A00; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Instructions</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">You have finished this module. Please answer honestly. Your answers help your teacher see how the class is doing.</p></div></div>",
+   "quiz_type": "survey",
+   "points": null,
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "group": null,
+   "published": true,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Look back at the question from the start of the module. When a great rival power collapses, is it mainly because of pressure from outside or weakness within? Give your answer now, using at least one fact from this module. You may say if your thinking has changed.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident do you feel about the material in this module?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Very confident. I could explain it to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Fairly confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Somewhat unsure. I understand parts of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Not confident. I need help.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear to you? Name a person, event, or idea. If nothing is unclear, write \"nothing.\"</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these did the people in this module most need, whether they had it or not?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>Pick one person from this module (Reagan, Tip O'Neill, Gorbachev, Lech Walesa, or someone else) and explain, in two or three sentences, how that virtue showed up in what they did, or how its absence did.</p>",
+     "points": 0,
+     "answers": [],
+     "distractors": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "kind": "module-outro-survey",
+   "week": 16
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_m16",
+   "title": "Discussion: Who Won the Cold War?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#1B1D20; border-bottom:4px solid #4A5058; border-radius:10px; padding:18px 22px; margin-bottom:20px;\"><div style=\"font-size:12px; color:#E8C95A; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:'Alegreya',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFFFF; line-height:1.25; margin-bottom:6px;\">Discussion: Who Won the Cold War?</div><div style=\"font-size:15px; color:#E9ECEF;\">10 points · threaded discussion</div></div><div style=\"border-top:3px double #4A5058; margin:0 0 20px;\"></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #7A5A00; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#7A5A00; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Open the lessons \"The Reagan Years and the Soviet Squeeze\" and \"The Wall Falls\". Use My Notebook on those pages to gather your notes and marks, then come back here to post.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #1B1D20; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#1B1D20; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>The question</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">The Cold War ended without a nuclear war, and the Soviet Union ceased to exist. Many people and forces helped bring that about: leaders, armies, economies, and ordinary citizens in the streets. Who, or what, deserves the most credit? And does the word \"won\" even fit?</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #4A5058; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#4A5058; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Your post</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\"><strong>Your post (about 100 to 150 words):</strong></p><ol style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 6px; padding-left:22px;\"><li style=\"margin-bottom:6px;\">Take a clear position: name the person, group, or cause that you think deserves the most credit, or argue that no single one does.</li><li style=\"margin-bottom:6px;\">Give one specific piece of evidence from the lesson \"The Reagan Years and the Soviet Squeeze\" or the source Ronald Reagan, Address to the National Association of Evangelicals (The \"Evil Empire\" Speech) that supports you.</li><li style=\"margin-bottom:6px;\">Name one fact that cuts against your position, and explain why you still hold it.</li></ol></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #7A5A00; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#7A5A00; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Your reply</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\"><strong>Your reply (about 50 to 75 words):</strong> Respond to one classmate. Do you agree with their reasoning? If so, strengthen it with something they did not use. If not, say respectfully where their reasoning falls short.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #1B1D20; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#1B1D20; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you post</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Post first, then reply. You will not see your classmates' posts until you have posted.</p></div><div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #1B1D20; border-radius:12px; padding:18px 22px; margin-bottom:18px;\"><div style=\"display:inline-block; background:#1B1D20; color:#FFFFFF; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Rubric</strong></div><table style=\"border-collapse:collapse; width:100%; margin-top:6px;\"><tbody><tr><th style=\"border:1px solid #DCD4C4; padding:8px; text-align:left; vertical-align:top; background:#E9ECEF; font-size:14px; width:22%;\">Post and reply<br><span style=\"color:#4A5058;\">10.0 pts</span></th><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>10.0 pts</strong> Substantive<br><span style=\"color:#55524C;\">Clear position, specific evidence from the week, names a counterpoint, and the reply engages a classmate's actual reasoning</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>6.0 pts</strong> Thin<br><span style=\"color:#55524C;\">Position stated but evidence vague, no counterpoint, or the reply only says \"I agree\"</span></td><td style=\"border:1px solid #DCD4C4; padding:8px; vertical-align:top; font-size:14px;\"><strong>0.0 pts</strong> Missing<br><span style=\"color:#55524C;\">No post, or no reply</span></td></tr></tbody></table></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_tier2",
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "rubric": "r_m16_discussion",
+   "kind": "module-discussion",
+   "week": 16
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_16",
+   "title": "The End of the Cold War",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "title": "Module Intro: Before You Begin",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m16_intro"
+    },
+    {
+     "title": "The Reagan Years and the Soviet Squeeze",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_16-dot-2-the-reagan-years-and-the-soviet-squeeze",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Ronald Reagan, Address to the National Association of Evangelicals (The \"Evil Empire\" Speech)",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_16-dot-3-primary-source-ronald-reagan-address-to-the-national-association-of-evangelicals-the-evil-empire-speech",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "The Wall Falls",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_16-dot-4-the-wall-falls",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Primary Source: Ronald Reagan, Remarks at the Brandenburg Gate",
+     "indent": 0,
+     "published": true,
+     "type": "page",
+     "ref": "p_16-dot-5-primary-source-ronald-reagan-remarks-at-the-brandenburg-gate",
+     "completion": "must_mark_done"
+    },
+    {
+     "title": "Discussion: Who Won the Cold War?",
+     "indent": 0,
+     "published": true,
+     "type": "discussion",
+     "ref": "d_m16"
+    },
+    {
+     "title": "Module Outro: Looking Back",
+     "indent": 0,
+     "published": true,
+     "type": "quiz",
+     "ref": "q_m16_outro"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of HS U.S. History: Reconstruction to Present, Spring Semester. Read from Canvas course 291 with _build/pull_canvas.py on 2026-11-21; the sparkled module. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/10USHistoryRec-Present-Spring/. Build folder: Course Workshops/10USHistoryRec-Present-Spring/03_Build."
+ }
+}

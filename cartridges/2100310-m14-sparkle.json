@@ -1,0 +1,204 @@
+{
+ "id": "2100310-m14-sparkle",
+ "label": "Vietnam and the Movements · Sparkle",
+ "code": "2100310",
+ "title": "10 HS US Hist Recon-Pres 2100310 Q3-Q4",
+ "file": "cartridges/2100310-m14-sparkle.imscc",
+ "bytes": 30831,
+ "version": "2026.11.21",
+ "built": "2026-11-21T03:12:09",
+ "front_page": "wiki_content/course-home.html",
+ "items": 8,
+ "modules": [
+  {
+   "id": "m_14",
+   "title": "Vietnam and the Movements",
+   "gid": "gc27890064a1c5310e0fd33670f3fc941",
+   "published": true,
+   "items": 8,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 5,
+  "assignments": 0,
+  "quizzes": 3,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 8
+ },
+ "weights": [
+  {
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "title": "Tier 1: Student & Material",
+   "weight": 30.0
+  },
+  {
+   "title": "Tier 2: Student & Community",
+   "weight": 25.0
+  },
+  {
+   "title": "Tier 3: Student & Teacher",
+   "weight": 45.0
+  },
+  {
+   "title": "Tier 4: Ungraded Scaffolding",
+   "weight": 0
+  }
+ ],
+ "groups": [
+  {
+   "id": "g106810928602910cc964c2cd835d06e6",
+   "title": "Assignments",
+   "weight": 0.0,
+   "position": 1
+  },
+  {
+   "id": "gad0faab80d13a88b48d13f2d4a2fa6b3",
+   "title": "Tier 1: Student & Material",
+   "weight": 30.0,
+   "position": 2
+  },
+  {
+   "id": "gbfa6d8946702326c31f433dbc5d536b7",
+   "title": "Tier 2: Student & Community",
+   "weight": 25.0,
+   "position": 3
+  },
+  {
+   "id": "gdc1f05459985f4aad9a4e2186919dc43",
+   "title": "Tier 3: Student & Teacher",
+   "weight": 45.0,
+   "position": 4
+  },
+  {
+   "id": "gb1eb2c309ea08acda581b21d9a99a522",
+   "title": "Tier 4: Ungraded Scaffolding",
+   "weight": 0.0,
+   "position": 5
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "q_m14_intro",
+   "type": "quiz",
+   "title": "Module Intro: Before You Begin",
+   "gid": "ga01f46494a39b6c01a830a869099885f",
+   "xml": "ga01f46494a39b6c01a830a869099885f/assessment_meta.xml",
+   "module": "m_14",
+   "week": 14,
+   "kind": "module-intro-survey",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m14_reading",
+   "type": "quiz",
+   "title": "Reading Quiz: Vietnam and the Turbulent Sixties",
+   "gid": "g0f92a04aa4d8a60ffbcb97ae12a44d7f",
+   "xml": "g0f92a04aa4d8a60ffbcb97ae12a44d7f/assessment_meta.xml",
+   "module": "m_14",
+   "week": 14,
+   "kind": "reading-quiz",
+   "points": 8.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "gad0faab80d13a88b48d13f2d4a2fa6b3",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m14_outro",
+   "type": "quiz",
+   "title": "Module Outro: Looking Back",
+   "gid": "g2a39a646aa545dd803c24c63990fbd75",
+   "xml": "g2a39a646aa545dd803c24c63990fbd75/assessment_meta.xml",
+   "module": "m_14",
+   "week": 14,
+   "kind": "module-outro-survey",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_m14",
+   "type": "discussion",
+   "title": "Discussion: Vietnam: Could America Have Won?",
+   "gid": "gdb993716aa1bc2a98bffee963bc7a9ae",
+   "xml": "g453efa22e5b39eebe2d87f5e4bbfb57b.xml",
+   "module": "m_14",
+   "week": 14,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "gbfa6d8946702326c31f433dbc5d536b7",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec 2100310-m14-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [],
+  "stats": {
+   "resources": 14,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 5,
+    "webcontent": 5,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 3,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 8,
+   "modules": 1,
+   "module_items": 8,
+   "module_item_types": {
+    "Quizzes::Quiz": 3,
+    "WikiPage": 4,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 5,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 5,
+   "group_refs": 3,
+   "quizzes": 3,
+   "assignments": 0,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 26.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "affa0d5853fd262bf93b1b22b1348e289dde6ea5bde71af6efaac12162d453e3",
+ "art_pack": null
+}
