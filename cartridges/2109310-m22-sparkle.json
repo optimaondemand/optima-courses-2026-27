@@ -1,0 +1,214 @@
+{
+ "id": "2109310-m22-sparkle",
+ "label": "England: Crown and Parliament · Sparkle",
+ "code": "2109310",
+ "title": "09 HS World Hist SP 2109310",
+ "file": "cartridges/2109310-m22-sparkle.imscc",
+ "bytes": 35389,
+ "version": "2026.11.20",
+ "built": "2026-11-20T21:32:24",
+ "front_page": "wiki_content/course-home.html",
+ "items": 9,
+ "modules": [
+  {
+   "id": "m_22",
+   "title": "England: Crown and Parliament",
+   "gid": "g3e40bf749a3477db2df48b5a33d89383",
+   "published": true,
+   "items": 9,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 6,
+  "assignments": 0,
+  "quizzes": 3,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 9
+ },
+ "weights": [
+  {
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0
+  },
+  {
+   "title": "Tier 2: Discussions",
+   "weight": 10.0
+  },
+  {
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0
+  },
+  {
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0
+  },
+  {
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "groups": [
+  {
+   "id": "gca74d26de16fb10d12732f9dcc833965",
+   "title": "Assignments",
+   "weight": 0.0,
+   "position": 1
+  },
+  {
+   "id": "g0412b8c00bb9828ec80ea00ed6d9cc59",
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0,
+   "position": 2
+  },
+  {
+   "id": "g1daad3edb10362f5d0a996d2b452084d",
+   "title": "Tier 2: Discussions",
+   "weight": 10.0,
+   "position": 3
+  },
+  {
+   "id": "geb51711964c040d4728debb31f746998",
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0,
+   "position": 4
+  },
+  {
+   "id": "g01b02823bd199831fe1c87738e1474b0",
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0.0,
+   "position": 5
+  },
+  {
+   "id": "g10d5d9ed9da199d0cdc85d1cb1ca28c3",
+   "title": "Quarterly Exams",
+   "weight": 30.0,
+   "position": 6
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "q_22_0",
+   "type": "quiz",
+   "title": "Module Intro: England: Crown and Parliament",
+   "gid": "gf7ef4a9fcf1ab6d17cdcd5dd5fa4aeaa",
+   "xml": "gf7ef4a9fcf1ab6d17cdcd5dd5fa4aeaa/assessment_meta.xml",
+   "module": "m_22",
+   "week": 22,
+   "kind": "module-intro",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_22_5",
+   "type": "quiz",
+   "title": "Reading Quiz: England: Crown and Parliament",
+   "gid": "g03d12ea2688068b6c1f1e309acb3259b",
+   "xml": "g03d12ea2688068b6c1f1e309acb3259b/assessment_meta.xml",
+   "module": "m_22",
+   "week": 22,
+   "kind": "reading-quiz",
+   "points": 9.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g0412b8c00bb9828ec80ea00ed6d9cc59",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_22_9",
+   "type": "quiz",
+   "title": "Module Outro: England: Crown and Parliament",
+   "gid": "g07fd44b751ecf71767fa63fc40369050",
+   "xml": "g07fd44b751ecf71767fa63fc40369050/assessment_meta.xml",
+   "module": "m_22",
+   "week": 22,
+   "kind": "module-outro",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_22_6",
+   "type": "discussion",
+   "title": "Discussion: Was the Glorious Revolution Glorious?",
+   "gid": "g372465d01c09cc1311f9969ea4195460",
+   "xml": "gab05654100bb80922db0d0f779ce4c42.xml",
+   "module": "m_22",
+   "week": 22,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g1daad3edb10362f5d0a996d2b452084d",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec 2109310-m22-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [],
+  "stats": {
+   "resources": 15,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 5,
+    "webcontent": 6,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 3,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 9,
+   "modules": 1,
+   "module_items": 9,
+   "module_item_types": {
+    "Quizzes::Quiz": 3,
+    "WikiPage": 5,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 6,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 6,
+   "group_refs": 3,
+   "quizzes": 3,
+   "assignments": 0,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 28.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "e10d657060d660f7d862984c4b6217dec969ca52b81d23c8acf7420a32772301",
+ "art_pack": null
+}

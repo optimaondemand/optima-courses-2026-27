@@ -1,0 +1,520 @@
+{
+ "course": {
+  "title": "09 HS World Hist SP 2109310",
+  "code": "2109310",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_reading_quizzes",
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0
+  },
+  {
+   "id": "ag_discussions",
+   "title": "Tier 2: Discussions",
+   "weight": 10.0
+  },
+  {
+   "id": "ag_deep_feedback",
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0
+  },
+  {
+   "id": "ag_checkins",
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0
+  },
+  {
+   "id": "ag_exams",
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_23_5",
+   "title": "23.5 VR Activity: A Courtier's Walk rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Shows accurate understanding of the lesson and uses specific details from the session as evidence.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Shows accurate understanding but uses few specific details from the session.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Shows partial understanding, with some errors or vague claims.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Does not connect the session to the lesson, or the work is missing.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Builds a clear argument from at least two images and explains how each supports the claim.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Supports the claim with images, though one connection is thin.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "States a claim with little support, or describes the images without arguing from them.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Offers opinions without evidence from the session.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision of expression",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Writes clear, well-organized sentences and names which image supports each point.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Writing is clear with minor lapses in organization or precision.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Writing is often unclear, or the images are not tied to the text.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Writing is too unclear to follow.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Names what a reconstruction cannot tell us and avoids overclaiming from what was seen.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Acknowledges at least one limit of what a reconstruction can show.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Mentions limits only in passing, or claims more than the images allow.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Treats the reconstruction as proof of what really happened.",
+       "points": 1.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_23_6",
+   "title": "23.6 Discussion: Did Louis XIV Make France Strong or Hollow It Out? rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Claim and evidence",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Takes a position but gives only one detail, or stays general, or ignores the opposing detail.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no clear position.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Response to a classmate",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No reply.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_23_05",
+   "title": "Module Map: Louis XIV and Absolute Monarchy",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m23/w23-map.html\" width=\"100%\" height=\"2000\" style=\"border:0;\" title=\"Louis XIV and Absolute Monarchy\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_23_1",
+   "title": "Lesson: The Sun King: Versailles and the Taming of the Nobles",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m23/w23-lesson-1.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"The Sun King: Versailles and the Taming of the Nobles\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_23_2",
+   "title": "Lesson: Louis XIV's Wars and the Revocation of the Edict of Nantes",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m23/w23-lesson-2.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"Louis XIV's Wars and the Revocation of the Edict of Nantes\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_23_3",
+   "title": "Primary Source: Saint-Simon, Memoirs (life at Versailles)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m23/w23-ps-1.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Saint-Simon, Memoirs (life at Versailles)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_23_4",
+   "title": "Primary Source: Edict of Fontainebleau (1685)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m23/w23-ps-2.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Edict of Fontainebleau (1685)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a_23_5",
+   "title": "VR Activity: A Courtier's Walk",
+   "html": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#10261A;border-bottom:4px solid #C9A227;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#9FD3B0;margin-bottom:6px\">VR ACTIVITY</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">A Courtier's Walk</div><div style=\"font-size:15px;color:#E8DDC6;margin-top:4px\">Solo · one in-headset session</div><div style=\"font-size:15px;color:#E8CF7A;margin-top:6px\">16 points · file upload or text entry</div></div><div style=\"text-align:center;color:#C9A227;font-size:18px;line-height:1;margin:14px 0 4px\">⚜ ❦ ⚜</div><div style=\"height:1px;background:#2F5D3A;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #10261A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#10261A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons and read both sources first. Your notes from each page are kept in My Notebook, the button inside the page, so open it before you write. Then write your answers and submit them in this assignment.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #2F5D3A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2F5D3A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">WHAT YOU'RE DOING</span></div><p style=\"font-size:16px; color:#1F1A15; line-height:1.6;\">Louis XIV used a palace as a tool of government. In your VR headset you will walk through a reconstruction of a grand royal palace and watch how the rooms, halls, and distances arrange people around a king. Your task is to find evidence that the space itself helped Louis keep his nobles close and dependent.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #C9A227;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7A5F0C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">WHAT YOU'LL NEED</span></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 8px; border-left: 3px solid #E3D6C0; padding-left: 14px;\"><span style=\"color:#7A5F0C; font-size: 16px; flex-shrink: 0;\">▶</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">Your VR headset, charged and ready</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 8px; border-left: 3px solid #E3D6C0; padding-left: 14px;\"><span style=\"color:#7A5F0C; font-size: 16px; flex-shrink: 0;\">▶</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">Your course page for this week, which lists the session link and the place to enter</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 8px; border-left: 3px solid #E3D6C0; padding-left: 14px;\"><span style=\"color:#7A5F0C; font-size: 16px; flex-shrink: 0;\">▶</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">A notebook or open document for quick notes while you are in the session</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 8px; border-left: 3px solid #E3D6C0; padding-left: 14px;\"><span style=\"color:#7A5F0C; font-size: 16px; flex-shrink: 0;\">▶</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">About 45 minutes in one sitting</div></div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #10261A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#10261A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">HOW TO JOIN</span></div><div style=\"background:#FFFCF6; border:1px solid #E3D6C0; border-radius:6px; padding:14px 18px;\"><div style=\"font-size:15px; color:#1F1A15; margin-bottom:6px;\"><strong>Where to go:</strong> Open your immersive session from the link on your course page, then enter the location named there.</div><div style=\"font-size:15px; color:#1F1A15; margin-bottom:6px;\"><strong>Solo or group:</strong> Solo. You do not need a partner.</div><div style=\"font-size:15px; color:#1F1A15; margin-bottom:6px;\"><strong>If something fails:</strong> Write down what happened and use the help contact on your course page. Do not skip the activity.</div></div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #10261A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#10261A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">WHAT TO DO, IN ORDER</span></div><div style=\"display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;\">\n<div style=\"min-width: 26px; height: 26px; border-radius: 50%; background:#10261A;color:#E8CF7A; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;\">1</div>\n<div style=\"font-size: 17px; color: #1F1A15; line-height: 1.6;\"><strong>Review first.</strong> Reread the sections of the lesson “The Sun King: Versailles and the Taming of the Nobles” called The Palace and The Daily Show. Remember that rank decided who sat on a chair and who on a stool, and that only the king could give pensions and offices.</div>\n</div><div style=\"display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;\">\n<div style=\"min-width: 26px; height: 26px; border-radius: 50%; background:#10261A;color:#E8CF7A; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;\">2</div>\n<div style=\"font-size: 17px; color: #1F1A15; line-height: 1.6;\"><strong>Walk the route.</strong> Move through the space the way a nobleman would, starting at the entrance and working toward the king's own rooms. Take your time, and note how far you have to walk and what you pass along the way.</div>\n</div><div style=\"display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;\">\n<div style=\"min-width: 26px; height: 26px; border-radius: 50%; background:#10261A;color:#E8CF7A; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;\">3</div>\n<div style=\"font-size: 17px; color: #1F1A15; line-height: 1.6;\"><strong>Stop at three places.</strong> Choose three spots where the design of the space seems to serve the king. At each one, capture a picture with your headset and jot a note about what you see.</div>\n</div><div style=\"display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;\">\n<div style=\"min-width: 26px; height: 26px; border-radius: 50%; background:#10261A;color:#E8CF7A; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;\">4</div>\n<div style=\"font-size: 17px; color: #1F1A15; line-height: 1.6;\"><strong>Look for the audience.</strong> Pay attention to who is meant to be watching at each spot. Ask yourself who is supposed to feel small, who is supposed to feel honored, and who is supposed to feel watched.</div>\n</div><div style=\"display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;\">\n<div style=\"min-width: 26px; height: 26px; border-radius: 50%; background:#10261A;color:#E8CF7A; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;\">5</div>\n<div style=\"font-size: 17px; color: #1F1A15; line-height: 1.6;\"><strong>Write your response.</strong> After you leave the session, write one paragraph of about 150 to 200 words that answers this question: How does the design of the space help the king control proud nobles, and what might it cost him?</div>\n</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #C9A227;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7A5F0C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">WHAT TO SUBMIT</span></div><p style=\"font-size:16px; color:#1F1A15; line-height:1.6;\">Submit your three captured images and your paragraph in the Canvas assignment. Use the images as evidence in your writing, and name which picture you are referring to.</p><p style=\"font-size:14px; color:#5B5148;\"><strong>Estimated time:</strong> 45 minutes</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #2F5D3A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2F5D3A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">SUCCESS CRITERIA</span></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;\"><span style=\"color:#7A5F0C; font-size: 18px; flex-shrink: 0; line-height: 1.2;\">☐</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">I walked a full route from the entrance toward the king's rooms.</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;\"><span style=\"color:#7A5F0C; font-size: 18px; flex-shrink: 0; line-height: 1.2;\">☐</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">I captured three images that show different parts of the space.</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;\"><span style=\"color:#7A5F0C; font-size: 18px; flex-shrink: 0; line-height: 1.2;\">☐</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">My paragraph uses at least two of my images as evidence.</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;\"><span style=\"color:#7A5F0C; font-size: 18px; flex-shrink: 0; line-height: 1.2;\">☐</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">My paragraph connects what I saw to what I read about Versailles in the lesson “The Sun King: Versailles and the Taming of the Nobles”.</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;\"><span style=\"color:#7A5F0C; font-size: 18px; flex-shrink: 0; line-height: 1.2;\">☐</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">I wrote in complete sentences and kept to about 150 to 200 words.</div></div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #6B6358;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#6B6358;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">FACILITATOR NOTE</span></div><p style=\"font-size:14px; color:#1F1A15; line-height:1.6; font-style:italic;\">Teacher-facing. Before releasing this activity, add the session link and the specific location to the course page, and confirm that students have a way to capture images in their headsets. The instructions above are platform-neutral on purpose. Grade with the course rubric for VR activities: three images as evidence, a paragraph that cites them, and reasoning tied to the lesson.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #10261A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#10261A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Rubric (16 pts)</span></div><table style=\"width:100%;border-collapse:collapse\"><thead><tr style=\"background:#10261A\"><th style=\"padding:8px 10px;font-size:12px;color:#fff;text-align:left;border:1px solid #10261A;width:22%\">Criteria</th><th style=\"padding:8px 10px;font-size:12px;color:#fff;text-align:left;border:1px solid #10261A\">Level</th><th style=\"padding:8px 10px;font-size:12px;color:#fff;text-align:left;border:1px solid #10261A\">Level</th><th style=\"padding:8px 10px;font-size:12px;color:#fff;text-align:left;border:1px solid #10261A\">Level</th><th style=\"padding:8px 10px;font-size:12px;color:#fff;text-align:left;border:1px solid #10261A\">Level</th></tr></thead><tbody><tr><td style=\"padding:8px 10px;font-size:14px;vertical-align:top;border:1px solid #E3D6C0;background:#F8EFCF;color:#10261A\">Understanding of the material<br><span style=\"font-size:12px;color:#2F5D3A\">4 pts</span></td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>4 Excellent</b><br>Shows accurate understanding of the lesson and uses specific details from the session as evidence.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>3 Proficient</b><br>Shows accurate understanding but uses few specific details from the session.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>2 Developing</b><br>Shows partial understanding, with some errors or vague claims.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>1 Beginning</b><br>Does not connect the session to the lesson, or the work is missing.</td></tr><tr><td style=\"padding:8px 10px;font-size:14px;vertical-align:top;border:1px solid #E3D6C0;background:#F8EFCF;color:#10261A\">Quality of reasoning<br><span style=\"font-size:12px;color:#2F5D3A\">4 pts</span></td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>4 Excellent</b><br>Builds a clear argument from at least two images and explains how each supports the claim.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>3 Proficient</b><br>Supports the claim with images, though one connection is thin.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>2 Developing</b><br>States a claim with little support, or describes the images without arguing from them.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>1 Beginning</b><br>Offers opinions without evidence from the session.</td></tr><tr><td style=\"padding:8px 10px;font-size:14px;vertical-align:top;border:1px solid #E3D6C0;background:#F8EFCF;color:#10261A\">Clarity and precision of expression<br><span style=\"font-size:12px;color:#2F5D3A\">4 pts</span></td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>4 Excellent</b><br>Writes clear, well-organized sentences and names which image supports each point.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>3 Proficient</b><br>Writing is clear with minor lapses in organization or precision.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>2 Developing</b><br>Writing is often unclear, or the images are not tied to the text.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>1 Beginning</b><br>Writing is too unclear to follow.</td></tr><tr><td style=\"padding:8px 10px;font-size:14px;vertical-align:top;border:1px solid #E3D6C0;background:#F8EFCF;color:#10261A\">Intellectual honesty<br><span style=\"font-size:12px;color:#2F5D3A\">4 pts</span></td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>4 Excellent</b><br>Names what a reconstruction cannot tell us and avoids overclaiming from what was seen.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>3 Proficient</b><br>Acknowledges at least one limit of what a reconstruction can show.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>2 Developing</b><br>Mentions limits only in passing, or claims more than the images allow.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>1 Beginning</b><br>Treats the reconstruction as proof of what really happened.</td></tr></tbody></table><div style=\"text-align:right;margin-top:6px;font-size:13px;color:#5B5148\">16 pts total</div></div></div>",
+   "points": 16.0,
+   "group": "ag_deep_feedback",
+   "rubric": "r_23_5",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload,online_text_entry",
+   "published": true,
+   "kind": "vr-activity",
+   "week": 23
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q_23_0",
+   "title": "Module Intro: Louis XIV and Absolute Monarchy",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#10261A;border-bottom:4px solid #C9A227;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#9FD3B0;margin-bottom:6px\">MODULE INTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Louis XIV and Absolute Monarchy</div><div style=\"font-size:15px;color:#E8CF7A;margin-top:6px\">2 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#C9A227;font-size:18px;line-height:1;margin:14px 0 4px\">⚜ ❦ ⚜</div><div style=\"height:1px;background:#2F5D3A;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #10261A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#10261A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">How absolute was Louis XIV's monarchy, and did it leave France stronger or weaker?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #2F5D3A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2F5D3A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>Welcome to Louis XIV and Absolute Monarchy. This short check-in is not graded. Your answers help your teacher see where each student is starting, so answer honestly.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #C9A227;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7A5F0C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">What you will be able to do</span></div><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#1E3D26\">The Sun King: Versailles and the Taming of the Nobles</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Explain how Louis XIV centralized power after the Fronde.</li><li>Describe how life at Versailles bound the nobles to the king.</li><li>Evaluate how absolute Louis's monarchy really was.</li></ul><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#1E3D26\">Louis XIV's Wars and the Revocation of the Edict of Nantes</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Describe the major wars of Louis XIV and how his rivals united against him.</li><li>Explain why Louis revoked the Edict of Nantes and what the results were.</li><li>Evaluate whether Louis left France stronger or weaker.</li></ul></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-intro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: How absolute was Louis XIV's monarchy, and did it leave France stronger or weaker?</p><p>Give your best answer now, using only what you already know. A guess is fine. You will answer this question again at the end of the week, and the two answers will show how much you learned.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Have you read the objectives for both lessons listed at the top of this page?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I have read them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet. I will read them before I start the lessons.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 23
+  },
+  {
+   "id": "q_23_9",
+   "title": "Module Outro: Louis XIV and Absolute Monarchy",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#10261A;border-bottom:4px solid #C9A227;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#9FD3B0;margin-bottom:6px\">MODULE OUTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Louis XIV and Absolute Monarchy</div><div style=\"font-size:15px;color:#E8CF7A;margin-top:6px\">5 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#C9A227;font-size:18px;line-height:1;margin:14px 0 4px\">⚜ ❦ ⚜</div><div style=\"height:1px;background:#2F5D3A;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #10261A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#10261A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">How absolute was Louis XIV's monarchy, and did it leave France stronger or weaker?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #2F5D3A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2F5D3A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>You have finished Louis XIV and Absolute Monarchy. This check-in is not graded. Your answers tell your teacher what is working and what is still unclear, so answer honestly.</p></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-outro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: How absolute was Louis XIV's monarchy, and did it leave France stronger or weaker?</p><p>Answer it again now, in your own words. Use at least two specific details from this week's lessons or primary sources.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident are you that you understand this week's material?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "5: Very confident. I could explain this module to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "4: Confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3: Somewhat confident. I understand the main ideas but not the details.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "2: Not very confident. I am unsure about several things.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "1: Not confident. I am lost on much of it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear or confusing to you from this week? Name a specific person, event, or idea. If nothing is unclear, write what you found most interesting.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these virtues did this week ask the most of you, in your reading or in your work?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In two or three sentences, explain your choice. Point to a moment in this week's reading, or in your own work, where that virtue was needed.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 23
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_23_6",
+   "title": "Discussion: Did Louis XIV Make France Strong or Hollow It Out?",
+   "html": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#10261A;border-bottom:4px solid #C9A227;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#9FD3B0;margin-bottom:6px\">DISCUSSION</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Did Louis XIV Make France Strong or Hollow It Out?</div><div style=\"font-size:15px;color:#E8DDC6;margin-top:4px\">Louis XIV and Absolute Monarchy</div><div style=\"font-size:15px;color:#E8CF7A;margin-top:6px\">10 points · threaded discussion</div></div><div style=\"text-align:center;color:#C9A227;font-size:18px;line-height:1;margin:14px 0 4px\">⚜ ❦ ⚜</div><div style=\"height:1px;background:#2F5D3A;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #10261A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#10261A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons first. Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you post. Then post your answer here and reply to one classmate.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #2F5D3A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2F5D3A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">DISCUSSION PROMPT</span></div><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Louis XIV left France with internal peace, a splendid culture, a large army, and the biggest population in Europe. He also left heavy debts, a tax system that favored the privileged, and a talented minority that had gone abroad.</p><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Take a position. Did Louis make France strong, or did he hollow it out? Support your position with at least two specific details from the lessons, and include one detail that points the other way. Explain why you weigh the evidence as you do.</p><p style=\"margin:0; font-size:16px; line-height:1.7;\">Aim for about 150 to 200 words.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #C9A227;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7A5F0C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">RESPOND TO A CLASSMATE</span></div><p style=\"margin:0; font-size:16px; line-height:1.7;\">Reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a detail from the lessons that they did not use. If not, explain respectfully where it falls short, and point to a detail from the lessons that supports your view.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #C9A227;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7A5F0C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">GRADING RUBRIC (10 pts)</span></div><table style=\"width: 100%; border-collapse: collapse;\">\n<thead><tr style=\"background: #0E1C42;\">\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #10261A;\">Criteria</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #10261A;\">Substantive (full credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #10261A;\">Thin (partial credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #10261A;\">Missing (no credit)</th>\n</tr></thead>\n<tbody><tr style=\"background:#FFFCF6;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Claim and evidence<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a position but gives only one detail, or stays general, or ignores the opposing detail.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No post, or no clear position.</td>\n</tr><tr style=\"background:#EAF1EA;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Response to a classmate<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No reply.</td>\n</tr></tbody>\n</table><div style=\"text-align:right; margin-top:6px; font-size: 13px; color:#5B5148;\">10 pts total</div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_discussions",
+   "rubric": "r_23_6",
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": true,
+   "kind": "module-discussion",
+   "week": 23
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_23",
+   "title": "Louis XIV and Absolute Monarchy",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "quiz",
+     "ref": "q_23_0",
+     "title": "Module Intro: Louis XIV and Absolute Monarchy",
+     "published": true,
+     "week": 23
+    },
+    {
+     "type": "page",
+     "ref": "p_23_05",
+     "title": "Module Map: Louis XIV and Absolute Monarchy",
+     "published": true,
+     "week": 23
+    },
+    {
+     "type": "page",
+     "ref": "p_23_1",
+     "title": "Lesson: The Sun King: Versailles and the Taming of the Nobles",
+     "published": true,
+     "week": 23,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_23_2",
+     "title": "Lesson: Louis XIV's Wars and the Revocation of the Edict of Nantes",
+     "published": true,
+     "week": 23,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_23_3",
+     "title": "Primary Source: Saint-Simon, Memoirs (life at Versailles)",
+     "published": true,
+     "week": 23,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_23_4",
+     "title": "Primary Source: Edict of Fontainebleau (1685)",
+     "published": true,
+     "week": 23,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_23_5",
+     "title": "VR Activity: A Courtier's Walk",
+     "published": true,
+     "week": 23
+    },
+    {
+     "type": "discussion",
+     "ref": "d_23_6",
+     "title": "Discussion: Did Louis XIV Make France Strong or Hollow It Out?",
+     "published": true,
+     "week": 23
+    },
+    {
+     "type": "quiz",
+     "ref": "q_23_9",
+     "title": "Module Outro: Louis XIV and Absolute Monarchy",
+     "published": true,
+     "week": 23
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of HS World History, Spring Semester. Read from Canvas course 290 (naming authority; titles, order, quiz questions) with _build/pull_canvas.py on 2026-11-20; the sparkled module, not its \"(Unsparkled)\" twin. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/hsworldhistory-lessons-spring/. Build folder: Course Workshops/09WorldHistory-Spring/03_Build."
+ }
+}

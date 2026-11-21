@@ -1,0 +1,715 @@
+{
+ "course": {
+  "title": "09 HS World Hist SP 2109310",
+  "code": "2109310",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_reading_quizzes",
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0
+  },
+  {
+   "id": "ag_discussions",
+   "title": "Tier 2: Discussions",
+   "weight": 10.0
+  },
+  {
+   "id": "ag_deep_feedback",
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0
+  },
+  {
+   "id": "ag_checkins",
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0
+  },
+  {
+   "id": "ag_exams",
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_32_6",
+   "title": "32.6 Discussion: Was the Treaty of Versailles Too Harsh or Too Weak? rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Claim and evidence",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Takes a position but gives only one detail, or stays general, or ignores the opposing detail.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no clear position.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Response to a classmate",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No reply.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_32_05",
+   "title": "Module Map: The Settlement and the Dictators",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m32/w32-map.html\" width=\"100%\" height=\"2000\" style=\"border:0;\" title=\"The Settlement and the Dictators\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_32_1",
+   "title": "Lesson: Versailles, the Mandates, and Lenin's Russia",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m32/w32-lesson-1.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"Versailles, the Mandates, and Lenin's Russia\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_32_2",
+   "title": "Lesson: Depression and Dictators: Stalin, Mussolini, Hitler",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m32/w32-lesson-2.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"Depression and Dictators: Stalin, Mussolini, Hitler\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_32_3",
+   "title": "Primary Source: Woodrow Wilson, Fourteen Points (1918)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m32/w32-ps-1.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Woodrow Wilson, Fourteen Points (1918)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_32_4",
+   "title": "Primary Source: Nuremberg Laws (1935)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m32/w32-ps-2.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Nuremberg Laws (1935)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_32_0",
+   "title": "Module Intro: The Settlement and the Dictators",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1B1712;border-bottom:4px solid #9CC3E0;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#E6C48A;margin-bottom:6px\">MODULE INTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Settlement and the Dictators</div><div style=\"font-size:15px;color:#BBD6EA;margin-top:6px\">2 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#9CC3E0;font-size:18px;line-height:1;margin:14px 0 4px\">▬ ◆ ▬</div><div style=\"height:1px;background:#8C5A1A;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1B1712;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1B1712;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">Why did the peace of 1919 fail to keep the peace, and how did dictators rise in its wake?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #8C5A1A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8C5A1A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>Welcome to The Settlement and the Dictators. This short check-in is not graded. Your answers help your teacher see where each student is starting, so answer honestly.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #9CC3E0;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2E5878;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">What you will be able to do</span></div><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#5E3C0F\">Versailles, the Mandates, and Lenin's Russia</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Describe the main terms of the Treaty of Versailles and the new map of Europe and the Middle East.</li><li>Explain why the League of Nations lacked the strength to enforce the peace.</li><li>Explain how Lenin and the Bolsheviks won power and built a one-party state in Russia.</li></ul><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#5E3C0F\">Depression and Dictators: Stalin, Mussolini, Hitler</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Describe how the Great Depression weakened democracies and helped dictators rise.</li><li>Compare how Stalin, Mussolini, and Hitler came to power and how each ruled.</li><li>Evaluate how much each rise depended on the choices of particular people and how much on larger conditions.</li></ul></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-intro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: Why did the peace of 1919 fail to keep the peace, and how did dictators rise in its wake?</p><p>Give your best answer now, using only what you already know. A guess is fine. You will answer this question again at the end of the week, and the two answers will show how much you learned.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Have you read the objectives for both lessons listed at the top of this page?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I have read them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet. I will read them before I start the lessons.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 32
+  },
+  {
+   "id": "q_32_5",
+   "title": "Reading Quiz: The Settlement and the Dictators",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1B1712;border-bottom:4px solid #9CC3E0;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#E6C48A;margin-bottom:6px\">READING QUIZ</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Settlement and the Dictators</div><div style=\"font-size:15px;color:#BBD6EA;margin-top:6px\">11 questions · 10 points · one attempt</div></div><div style=\"text-align:center;color:#9CC3E0;font-size:18px;line-height:1;margin:14px 0 4px\">▬ ◆ ▬</div><div style=\"height:1px;background:#8C5A1A;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #8C5A1A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8C5A1A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">About this quiz</span></div><p>This quiz covers both lessons in this module: The Settlement and the Dictators. It has 10 questions with one correct answer each. Reread the lessons if you need to.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1B1712;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1B1712;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons first. Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you start. Then choose the best answer for each question.</p></div></div>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "reading-quiz",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Germans called the Treaty of Versailles a Diktat, and the French thought it too weak. According to the lesson, why was the settlement dangerous?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It gave Germany back its colonies, which let it rebuild its navy within five years.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It forced Germany to disarm completely, so the Germans had no way to defend themselves.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It divided Germany into four zones, and each zone was run by a different victor.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It humiliated Germany but left it the strongest nation in Europe in people and industry.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Germany had not been invaded and its factories were whole. The treaty angered the Germans without taking from them the strength to try again.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Wilson called the League of Nations the heart of the treaty, yet the League failed to stop aggression. Which explanation fits the lesson best?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The League had its own army, but the member nations refused to allow it to fight.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It had no army of its own, and without America the other members would not act alone.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The League was dissolved in 1920, as soon as the American Senate rejected the treaty.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The League lasted only until Germany joined in 1926, and then it quickly collapsed.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The Senate rejected the treaty, Germany and Russia began outside the League, and the League could not force its decisions. Britain and France had been weakened by the war.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "About three million Germans found themselves in Czechoslovakia, and Hungary lost two-thirds of its land. What does this show about the peace settlement?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Self-determination was applied unevenly, leaving millions of people as minorities in new states.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The victors wanted Germany to lose land so that it could not pay for another war.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The settlement gave every national group its own state and ended all disputes over borders.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The new states had been chosen by plebiscite, so the people had accepted the new borders.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The principle of self-determination did not fit every case, and these grievances would return.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In January 1918 elections gave the Bolsheviks only about a quarter of the seats in the new assembly, and Lenin dissolved it. What does this suggest about Lenin's view of the party?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He believed that the assembly was too large to govern Russia well during the civil war.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He planned to hold a second election as soon as the Whites had been defeated in the war.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He believed a disciplined party should lead the nation, even against the wishes of the voters.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He wanted to give the soviets the right to run all later elections in place of the assembly.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Lenin held that a party of professional revolutionaries had to guide the workers. The Cheka soon hunted opponents.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Weimar Germany seemed stable by 1925, but the Great Depression hit it especially hard. Why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The new government had refused all American loans and had no money to put people to work.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The republic's recovery stood on borrowed money, and American lenders called in their loans.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Depression began in Germany, and from there it spread across the sea to the United States.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "German factories had been destroyed in the war, so Germany had nothing to sell abroad.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Loans under the Dawes Plan had eased the burden. When the stock market crashed in 1929, the loans were called in and trade shrank, and about six million Germans were out of work.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Stalin's Five-Year Plan built steel towns and heavy industry very fast. Who paid the main price?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The factory workers, whose wages were cut to pay for the new machines and the steel towns.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The nobles, whose lands were taken and given to the soldiers who had fought for the Reds.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Communist Party members, who were sent to the new steel towns against their will.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The peasants, whose farms were seized, and millions of whom starved in the famine.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Under collectivization the state seized farms and herds, and the kulaks were labeled enemies. The famine of 1932 and 1933 killed millions.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In the March on Rome in 1922 the army could have stopped the Fascists, but the king did not call it out. What does this suggest about how Mussolini came to power?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Fascists had a larger army than the Italian government, so resistance was hopeless.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Mussolini had already won a majority in parliament, so the king had no choice.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "His rise was not unavoidable, because it turned on the king's choice not to use the army.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The king agreed with Mussolini's plan to invade Ethiopia and wanted him in power.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "King Victor Emmanuel III asked Mussolini to form a government. The lesson says that a different decision by one man might have ended Fascism that week.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Hitler became chancellor in January 1933. Which description fits the lesson?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It was legal but not inevitable, because conservative leaders believed they could control him.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It was a violent coup, in which Nazi troops seized the capital and forced Hindenburg to resign.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It was certain from 1928, when the Nazis won a majority of the votes in a national election.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It was the result of a popular vote in which Hitler won more than half of all voters.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The Nazis won thirty-seven percent in July 1932, never a majority. Papen and others pressed Hindenburg to name Hitler, and a different decision by a few men might have kept him out.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>By late 1923 prices were doubling in days, and the German mark stood at several trillion to the American dollar. Workers were paid twice a day, and wives waited at the factory gate to rush the notes to the shops before they lost their value. Families whose savings, pensions, and insurance had been counted in marks found them worth less than a loaf of bread. Those who owed money could pay off a debt with a handful of notes.</p></blockquote><p>Which choice best states the main idea of the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Hyperinflation made German money almost worthless and wiped out the savings of ordinary families.",
+       "correct": true,
+       "feedback": "Correct. The details of falling prices, rushed shopping, and ruined savings all show one thing: money lost its value."
+      },
+      {
+       "text": "German workers earned far higher wages in 1923 because they were paid twice each day.",
+       "correct": false,
+       "feedback": "Workers were paid twice a day because the notes lost value so fast, not because their wages had risen."
+      },
+      {
+       "text": "The American dollar became the official money of Germany at the end of 1923.",
+       "correct": false,
+       "feedback": "The passage compares the mark with the dollar to show how far the mark had fallen. It does not say that the dollar replaced it."
+      },
+      {
+       "text": "Only families who owed money suffered in 1923, since debts could be paid with a handful of notes.",
+       "correct": false,
+       "feedback": "This is too narrow, and it leaves out the families whose savings were ruined. The passage says debtors benefited, but it does not say they were the only ones affected."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Stalin's rise rested on timing and patience. Lenin, ill in his last months, dictated notes warning that Stalin was too rude and had gathered too much power, and he suggested removing him as General Secretary. The party leaders chose not to publish the notes.</p></blockquote><p>Which choice, if true, would most strongly support the claim that a different choice by the party leaders could have changed the course of Stalin's career?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Magnitogorsk was built beside an iron mountain by workers living in tents and barracks.",
+       "correct": false,
+       "feedback": "This is a fact about one industrial project. It says nothing about how Stalin gained or could have lost power."
+      },
+      {
+       "text": "Trotsky was later exiled and, in 1940, murdered in Mexico on Stalin's order.",
+       "correct": false,
+       "feedback": "This shows what Stalin did to a rival after he had power. It does not show that removing him earlier could have changed his career."
+      },
+      {
+       "text": "Stalin used his post as General Secretary to build a following within the party.",
+       "correct": true,
+       "feedback": "Correct. If his post as General Secretary was what let him build a following, then removing him from it, as Lenin suggested, could have changed his career."
+      },
+      {
+       "text": "The Five-Year Plan set targets from above and raised them when factories fell short.",
+       "correct": false,
+       "feedback": "This describes how the plan worked, not how Stalin rose, so it does not bear on the claim."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In a few sentences, describe the test-taking strategy you used on this quiz. What did you do first, and how did you decide between answer choices?</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "group": "ag_reading_quizzes",
+   "points": 10.0,
+   "week": 32
+  },
+  {
+   "id": "q_32_9",
+   "title": "Module Outro: The Settlement and the Dictators",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1B1712;border-bottom:4px solid #9CC3E0;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#E6C48A;margin-bottom:6px\">MODULE OUTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Settlement and the Dictators</div><div style=\"font-size:15px;color:#BBD6EA;margin-top:6px\">5 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#9CC3E0;font-size:18px;line-height:1;margin:14px 0 4px\">▬ ◆ ▬</div><div style=\"height:1px;background:#8C5A1A;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1B1712;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1B1712;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">Why did the peace of 1919 fail to keep the peace, and how did dictators rise in its wake?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #8C5A1A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8C5A1A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>You have finished The Settlement and the Dictators. This check-in is not graded. Your answers tell your teacher what is working and what is still unclear, so answer honestly.</p></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-outro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: Why did the peace of 1919 fail to keep the peace, and how did dictators rise in its wake?</p><p>Answer it again now, in your own words. Use at least two specific details from this week's lessons or primary sources.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident are you that you understand this week's material?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "5: Very confident. I could explain this module to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "4: Confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3: Somewhat confident. I understand the main ideas but not the details.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "2: Not very confident. I am unsure about several things.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "1: Not confident. I am lost on much of it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear or confusing to you from this week? Name a specific person, event, or idea. If nothing is unclear, write what you found most interesting.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these virtues did this week ask the most of you, in your reading or in your work?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In two or three sentences, explain your choice. Point to a moment in this week's reading, or in your own work, where that virtue was needed.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 32
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_32_6",
+   "title": "Discussion: Was the Treaty of Versailles Too Harsh or Too Weak?",
+   "html": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1B1712;border-bottom:4px solid #9CC3E0;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#E6C48A;margin-bottom:6px\">DISCUSSION</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Was the Treaty of Versailles Too Harsh or Too Weak?</div><div style=\"font-size:15px;color:#E8DDC6;margin-top:4px\">The Settlement and the Dictators</div><div style=\"font-size:15px;color:#BBD6EA;margin-top:6px\">10 points · threaded discussion</div></div><div style=\"text-align:center;color:#9CC3E0;font-size:18px;line-height:1;margin:14px 0 4px\">▬ ◆ ▬</div><div style=\"height:1px;background:#8C5A1A;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1B1712;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1B1712;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons first. Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you post. Then post your answer here and reply to one classmate.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #8C5A1A;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8C5A1A;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">DISCUSSION PROMPT</span></div><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Germans called the treaty a dictated peace, and the war guilt clause, the reparations, and the limits on their army stung. Yet Germany lost no factories to invasion and remained the strongest nation in Europe, and the French thought the treaty too weak. The lessons also show a Great Depression, a hyperinflation, and a handful of decisions by men in Berlin and Rome.</p><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Take a position. Was the Treaty of Versailles too harsh, too weak, or was it not the main cause of what followed? Support your position with at least two specific details from the lessons, and include one detail that points the other way. Explain why you weigh the evidence as you do.</p><p style=\"margin:0; font-size:16px; line-height:1.7;\">Aim for about 150 to 200 words.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #9CC3E0;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2E5878;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">RESPOND TO A CLASSMATE</span></div><p style=\"margin:0; font-size:16px; line-height:1.7;\">Reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a detail from the lessons that they did not use. If not, explain respectfully where it falls short, and point to a detail from the lessons that supports your view.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #9CC3E0;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2E5878;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">GRADING RUBRIC (10 pts)</span></div><table style=\"width: 100%; border-collapse: collapse;\">\n<thead><tr style=\"background: #0E1C42;\">\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1B1712;\">Criteria</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1B1712;\">Substantive (full credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1B1712;\">Thin (partial credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1B1712;\">Missing (no credit)</th>\n</tr></thead>\n<tbody><tr style=\"background:#FFFCF6;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Claim and evidence<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a position but gives only one detail, or stays general, or ignores the opposing detail.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No post, or no clear position.</td>\n</tr><tr style=\"background:#F4EEE4;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Response to a classmate<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No reply.</td>\n</tr></tbody>\n</table><div style=\"text-align:right; margin-top:6px; font-size: 13px; color:#5B5148;\">10 pts total</div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_discussions",
+   "rubric": "r_32_6",
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": true,
+   "kind": "module-discussion",
+   "week": 32
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_32",
+   "title": "The Settlement and the Dictators",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "quiz",
+     "ref": "q_32_0",
+     "title": "Module Intro: The Settlement and the Dictators",
+     "published": true,
+     "week": 32
+    },
+    {
+     "type": "page",
+     "ref": "p_32_05",
+     "title": "Module Map: The Settlement and the Dictators",
+     "published": true,
+     "week": 32
+    },
+    {
+     "type": "page",
+     "ref": "p_32_1",
+     "title": "Lesson: Versailles, the Mandates, and Lenin's Russia",
+     "published": true,
+     "week": 32,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_32_2",
+     "title": "Lesson: Depression and Dictators: Stalin, Mussolini, Hitler",
+     "published": true,
+     "week": 32,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_32_3",
+     "title": "Primary Source: Woodrow Wilson, Fourteen Points (1918)",
+     "published": true,
+     "week": 32,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_32_4",
+     "title": "Primary Source: Nuremberg Laws (1935)",
+     "published": true,
+     "week": 32,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_32_5",
+     "title": "Reading Quiz: The Settlement and the Dictators",
+     "published": true,
+     "week": 32
+    },
+    {
+     "type": "discussion",
+     "ref": "d_32_6",
+     "title": "Discussion: Was the Treaty of Versailles Too Harsh or Too Weak?",
+     "published": true,
+     "week": 32
+    },
+    {
+     "type": "quiz",
+     "ref": "q_32_9",
+     "title": "Module Outro: The Settlement and the Dictators",
+     "published": true,
+     "week": 32
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of HS World History, Spring Semester. Read from Canvas course 290 (naming authority; titles, order, quiz questions) with _build/pull_canvas.py on 2026-11-20; the sparkled module, not its \"(Unsparkled)\" twin. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/hsworldhistory-lessons-spring/. Build folder: Course Workshops/09WorldHistory-Spring/03_Build."
+ }
+}

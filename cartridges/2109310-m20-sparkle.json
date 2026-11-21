@@ -1,0 +1,214 @@
+{
+ "id": "2109310-m20-sparkle",
+ "label": "The Dutch Republic · Sparkle",
+ "code": "2109310",
+ "title": "09 HS World Hist SP 2109310",
+ "file": "cartridges/2109310-m20-sparkle.imscc",
+ "bytes": 36109,
+ "version": "2026.11.20",
+ "built": "2026-11-20T21:32:23",
+ "front_page": "wiki_content/course-home.html",
+ "items": 9,
+ "modules": [
+  {
+   "id": "m_20",
+   "title": "The Dutch Republic",
+   "gid": "gae18d7db9a092d15f8c9d94fb505b35a",
+   "published": true,
+   "items": 9,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 6,
+  "assignments": 0,
+  "quizzes": 3,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 9
+ },
+ "weights": [
+  {
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0
+  },
+  {
+   "title": "Tier 2: Discussions",
+   "weight": 10.0
+  },
+  {
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0
+  },
+  {
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0
+  },
+  {
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "groups": [
+  {
+   "id": "gca74d26de16fb10d12732f9dcc833965",
+   "title": "Assignments",
+   "weight": 0.0,
+   "position": 1
+  },
+  {
+   "id": "g0412b8c00bb9828ec80ea00ed6d9cc59",
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0,
+   "position": 2
+  },
+  {
+   "id": "g1daad3edb10362f5d0a996d2b452084d",
+   "title": "Tier 2: Discussions",
+   "weight": 10.0,
+   "position": 3
+  },
+  {
+   "id": "geb51711964c040d4728debb31f746998",
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0,
+   "position": 4
+  },
+  {
+   "id": "g01b02823bd199831fe1c87738e1474b0",
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0.0,
+   "position": 5
+  },
+  {
+   "id": "g10d5d9ed9da199d0cdc85d1cb1ca28c3",
+   "title": "Quarterly Exams",
+   "weight": 30.0,
+   "position": 6
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "q_20_0",
+   "type": "quiz",
+   "title": "Module Intro: The Dutch Republic",
+   "gid": "g8f4cfbd60e7b47438ad788b950e528c3",
+   "xml": "g8f4cfbd60e7b47438ad788b950e528c3/assessment_meta.xml",
+   "module": "m_20",
+   "week": 20,
+   "kind": "module-intro",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_20_5",
+   "type": "quiz",
+   "title": "Reading Quiz: The Dutch Republic",
+   "gid": "gac717773cbd6db7931a308ca00ac46a1",
+   "xml": "gac717773cbd6db7931a308ca00ac46a1/assessment_meta.xml",
+   "module": "m_20",
+   "week": 20,
+   "kind": "reading-quiz",
+   "points": 9.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "g0412b8c00bb9828ec80ea00ed6d9cc59",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_20_9",
+   "type": "quiz",
+   "title": "Module Outro: The Dutch Republic",
+   "gid": "g85ea374d28b8b96d5fca9d14efea1c61",
+   "xml": "g85ea374d28b8b96d5fca9d14efea1c61/assessment_meta.xml",
+   "module": "m_20",
+   "week": 20,
+   "kind": "module-outro",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_20_6",
+   "type": "discussion",
+   "title": "Discussion: Was the Dutch Republic Free, or Just Rich?",
+   "gid": "gcf43e75401423029d077a547e346164c",
+   "xml": "g4503e2e0006f08afd38423dee39db69c.xml",
+   "module": "m_20",
+   "week": 20,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "g1daad3edb10362f5d0a996d2b452084d",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec 2109310-m20-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [],
+  "stats": {
+   "resources": 15,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 5,
+    "webcontent": 6,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 3,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 9,
+   "modules": 1,
+   "module_items": 9,
+   "module_item_types": {
+    "Quizzes::Quiz": 3,
+    "WikiPage": 5,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 6,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 6,
+   "group_refs": 3,
+   "quizzes": 3,
+   "assignments": 0,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 28.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "75479e78877fe84cef9066e4af6a2670639f81c3812a58235a52e5da11edec84",
+ "art_pack": null
+}

@@ -1,0 +1,520 @@
+{
+ "course": {
+  "title": "09 HS World Hist SP 2109310",
+  "code": "2109310",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_reading_quizzes",
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0
+  },
+  {
+   "id": "ag_discussions",
+   "title": "Tier 2: Discussions",
+   "weight": 10.0
+  },
+  {
+   "id": "ag_deep_feedback",
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0
+  },
+  {
+   "id": "ag_checkins",
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0
+  },
+  {
+   "id": "ag_exams",
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_31_5",
+   "title": "31.5 VR Activity: Along the Line rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Shows accurate understanding of the lesson and uses specific details from the session as evidence.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Shows accurate understanding but uses few specific details from the session.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Shows partial understanding, with some errors or vague claims.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Does not connect the session to the lesson, or the work is missing.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Builds a clear argument from at least two images and explains how each supports the claim.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Supports the claim with images, though one connection is thin.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "States a claim with little support, or describes the images without arguing from them.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Offers opinions without evidence from the session.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision of expression",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Writes clear, well-organized sentences and names which image supports each point.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Writing is clear with minor lapses in organization or precision.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Writing is often unclear, or the images are not tied to the text.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Writing is too unclear to follow.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Names what a reconstruction cannot tell us and avoids overclaiming from what was seen.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Acknowledges at least one limit of what a reconstruction can show.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Mentions limits only in passing, or claims more than the images allow.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Treats the reconstruction as proof of what really happened.",
+       "points": 1.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_31_6",
+   "title": "31.6 Discussion: Could the July Crisis Have Been Stopped? rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Claim and evidence",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Takes a position but gives only one detail, or stays general, or ignores the opposing detail.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no clear position.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Response to a classmate",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No reply.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_31_05",
+   "title": "Module Map: The Great War",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m31/w31-map.html\" width=\"100%\" height=\"2000\" style=\"border:0;\" title=\"The Great War\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_31_1",
+   "title": "Lesson: The Road to 1914: Alliances, Arms, and Sarajevo",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m31/w31-lesson-1.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"The Road to 1914: Alliances, Arms, and Sarajevo\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_31_2",
+   "title": "Lesson: Trenches and a World at War",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m31/w31-lesson-2.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"Trenches and a World at War\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_31_3",
+   "title": "Primary Source: Willy-Nicky Telegrams (1914)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m31/w31-ps-1.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Willy-Nicky Telegrams (1914)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_31_4",
+   "title": "Primary Source: Wilfred Owen, \"Dulce et Decorum Est\" (1920)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m31/w31-ps-2.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Wilfred Owen, &quot;Dulce et Decorum Est&quot; (1920)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a_31_5",
+   "title": "VR Activity: Along the Line",
+   "html": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#17191C;border-bottom:4px solid #E9694F;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#B8C4CE;margin-bottom:6px\">VR ACTIVITY</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Along the Line</div><div style=\"font-size:15px;color:#E8DDC6;margin-top:4px\">Solo · one in-headset session</div><div style=\"font-size:15px;color:#F2A08E;margin-top:6px\">16 points · file upload or text entry</div></div><div style=\"text-align:center;color:#E9694F;font-size:18px;line-height:1;margin:14px 0 4px\">❁ ✦ ❁</div><div style=\"height:1px;background:#4A5A66;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #17191C;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#17191C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons and read both sources first. Your notes from each page are kept in My Notebook, the button inside the page, so open it before you write. Then write your answers and submit them in this assignment.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #4A5A66;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#4A5A66;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">WHAT YOU'RE DOING</span></div><p style=\"font-size:16px; color:#1F1A15; line-height:1.6;\">By the winter of 1914 a line of trenches ran almost four hundred miles across France and Belgium, and neither side could break it. In your VR headset you will walk through a reconstruction of a Western Front trench system and the ground in front of it. Your task is to find evidence in the layout that helps explain why attacks so often failed.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #E9694F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8A2412;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">WHAT YOU'LL NEED</span></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 8px; border-left: 3px solid #E3D6C0; padding-left: 14px;\"><span style=\"color:#8A2412; font-size: 16px; flex-shrink: 0;\">▶</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">Your VR headset, charged and ready</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 8px; border-left: 3px solid #E3D6C0; padding-left: 14px;\"><span style=\"color:#8A2412; font-size: 16px; flex-shrink: 0;\">▶</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">Your course page for this week, which lists the session link and the place to enter</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 8px; border-left: 3px solid #E3D6C0; padding-left: 14px;\"><span style=\"color:#8A2412; font-size: 16px; flex-shrink: 0;\">▶</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">A notebook or open document for quick notes while you are in the session</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 8px; border-left: 3px solid #E3D6C0; padding-left: 14px;\"><span style=\"color:#8A2412; font-size: 16px; flex-shrink: 0;\">▶</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">About 45 minutes in one sitting</div></div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #17191C;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#17191C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">HOW TO JOIN</span></div><div style=\"background:#FFFCF6; border:1px solid #E3D6C0; border-radius:6px; padding:14px 18px;\"><div style=\"font-size:15px; color:#1F1A15; margin-bottom:6px;\"><strong>Where to go:</strong> Open your immersive session from the link on your course page, then enter the location named there.</div><div style=\"font-size:15px; color:#1F1A15; margin-bottom:6px;\"><strong>Solo or group:</strong> Solo. You do not need a partner.</div><div style=\"font-size:15px; color:#1F1A15; margin-bottom:6px;\"><strong>If something fails:</strong> Write down what happened and use the help contact on your course page. Do not skip the activity.</div></div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #17191C;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#17191C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">WHAT TO DO, IN ORDER</span></div><div style=\"display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;\">\n<div style=\"min-width: 26px; height: 26px; border-radius: 50%; background:#17191C;color:#F2A08E; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;\">1</div>\n<div style=\"font-size: 17px; color: #1F1A15; line-height: 1.6;\"><strong>Review first.</strong> Reread the section of the lesson “Trenches and a World at War” called Life and Death in the Trenches. Remember the barbed wire, the machine guns, the artillery, and the open ground of no man's land.</div>\n</div><div style=\"display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;\">\n<div style=\"min-width: 26px; height: 26px; border-radius: 50%; background:#17191C;color:#F2A08E; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;\">2</div>\n<div style=\"font-size: 17px; color: #1F1A15; line-height: 1.6;\"><strong>Walk the line.</strong> Start in the rear trenches and move forward to the front line, the way a soldier would on the way to an attack. Notice how the trenches are laid out and how they connect to each other.</div>\n</div><div style=\"display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;\">\n<div style=\"min-width: 26px; height: 26px; border-radius: 50%; background:#17191C;color:#F2A08E; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;\">3</div>\n<div style=\"font-size: 17px; color: #1F1A15; line-height: 1.6;\"><strong>Look across no man's land.</strong> Stand at the front trench and look at the ground between the two sides. Judge how far an attacker would have to cross in the open and what stands in the way.</div>\n</div><div style=\"display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;\">\n<div style=\"min-width: 26px; height: 26px; border-radius: 50%; background:#17191C;color:#F2A08E; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;\">4</div>\n<div style=\"font-size: 17px; color: #1F1A15; line-height: 1.6;\"><strong>Stop at three places.</strong> Choose three spots where the layout helps explain why a defender had the advantage. At each one, capture a picture with your headset and jot a note about what you see.</div>\n</div><div style=\"display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;\">\n<div style=\"min-width: 26px; height: 26px; border-radius: 50%; background:#17191C;color:#F2A08E; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;\">5</div>\n<div style=\"font-size: 17px; color: #1F1A15; line-height: 1.6;\"><strong>Listen for the soldier.</strong> At each spot, ask what a soldier who stood there would have seen, heard, and feared. Remember that you are visiting a reconstruction, and that real men lived and died in places like this.</div>\n</div><div style=\"display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;\">\n<div style=\"min-width: 26px; height: 26px; border-radius: 50%; background:#17191C;color:#F2A08E; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;\">6</div>\n<div style=\"font-size: 17px; color: #1F1A15; line-height: 1.6;\"><strong>Write your response.</strong> After you leave the session, write one paragraph of about 150 to 200 words that answers this question: How does the layout of the trenches help explain why attacks so often failed, and what can a reconstruction never tell you about what the soldiers went through?</div>\n</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #E9694F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8A2412;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">WHAT TO SUBMIT</span></div><p style=\"font-size:16px; color:#1F1A15; line-height:1.6;\">Submit your three captured images and your paragraph in the Canvas assignment. Use the images as evidence in your writing, and name which picture you are referring to.</p><p style=\"font-size:14px; color:#5B5148;\"><strong>Estimated time:</strong> 45 minutes</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #4A5A66;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#4A5A66;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">SUCCESS CRITERIA</span></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;\"><span style=\"color:#8A2412; font-size: 18px; flex-shrink: 0; line-height: 1.2;\">☐</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">I walked from the rear trenches to the front line and looked out across no man's land.</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;\"><span style=\"color:#8A2412; font-size: 18px; flex-shrink: 0; line-height: 1.2;\">☐</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">I captured three images that show different parts of the trench system.</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;\"><span style=\"color:#8A2412; font-size: 18px; flex-shrink: 0; line-height: 1.2;\">☐</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">My paragraph uses at least two of my images as evidence.</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;\"><span style=\"color:#8A2412; font-size: 18px; flex-shrink: 0; line-height: 1.2;\">☐</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">My paragraph connects what I saw to what I read about the trenches in the lesson “Trenches and a World at War”.</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;\"><span style=\"color:#8A2412; font-size: 18px; flex-shrink: 0; line-height: 1.2;\">☐</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">I wrote in complete sentences and kept to about 150 to 200 words.</div></div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #6B6358;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#6B6358;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">FACILITATOR NOTE</span></div><p style=\"font-size:14px; color:#1F1A15; line-height:1.6; font-style:italic;\">Teacher-facing. Before releasing this activity, add the session link and the specific location to the course page, and confirm that students have a way to capture images in their headsets. The instructions above assume a walkable reconstruction of a Western Front trench system. If none is available, substitute another reconstruction of the period and adjust the steps and review section to match, and note the substitution in the teacher's manual. The instructions are platform-neutral on purpose. Grade with the course rubric for VR activities: three images as evidence, a paragraph that cites them, and reasoning tied to the lesson.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #17191C;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#17191C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Rubric (16 pts)</span></div><table style=\"width:100%;border-collapse:collapse\"><thead><tr style=\"background:#17191C\"><th style=\"padding:8px 10px;font-size:12px;color:#fff;text-align:left;border:1px solid #17191C;width:22%\">Criteria</th><th style=\"padding:8px 10px;font-size:12px;color:#fff;text-align:left;border:1px solid #17191C\">Level</th><th style=\"padding:8px 10px;font-size:12px;color:#fff;text-align:left;border:1px solid #17191C\">Level</th><th style=\"padding:8px 10px;font-size:12px;color:#fff;text-align:left;border:1px solid #17191C\">Level</th><th style=\"padding:8px 10px;font-size:12px;color:#fff;text-align:left;border:1px solid #17191C\">Level</th></tr></thead><tbody><tr><td style=\"padding:8px 10px;font-size:14px;vertical-align:top;border:1px solid #E3D6C0;background:#FBE4DE;color:#17191C\">Understanding of the material<br><span style=\"font-size:12px;color:#4A5A66\">4 pts</span></td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>4 Excellent</b><br>Shows accurate understanding of the lesson and uses specific details from the session as evidence.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>3 Proficient</b><br>Shows accurate understanding but uses few specific details from the session.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>2 Developing</b><br>Shows partial understanding, with some errors or vague claims.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>1 Beginning</b><br>Does not connect the session to the lesson, or the work is missing.</td></tr><tr><td style=\"padding:8px 10px;font-size:14px;vertical-align:top;border:1px solid #E3D6C0;background:#FBE4DE;color:#17191C\">Quality of reasoning<br><span style=\"font-size:12px;color:#4A5A66\">4 pts</span></td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>4 Excellent</b><br>Builds a clear argument from at least two images and explains how each supports the claim.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>3 Proficient</b><br>Supports the claim with images, though one connection is thin.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>2 Developing</b><br>States a claim with little support, or describes the images without arguing from them.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>1 Beginning</b><br>Offers opinions without evidence from the session.</td></tr><tr><td style=\"padding:8px 10px;font-size:14px;vertical-align:top;border:1px solid #E3D6C0;background:#FBE4DE;color:#17191C\">Clarity and precision of expression<br><span style=\"font-size:12px;color:#4A5A66\">4 pts</span></td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>4 Excellent</b><br>Writes clear, well-organized sentences and names which image supports each point.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>3 Proficient</b><br>Writing is clear with minor lapses in organization or precision.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>2 Developing</b><br>Writing is often unclear, or the images are not tied to the text.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>1 Beginning</b><br>Writing is too unclear to follow.</td></tr><tr><td style=\"padding:8px 10px;font-size:14px;vertical-align:top;border:1px solid #E3D6C0;background:#FBE4DE;color:#17191C\">Intellectual honesty<br><span style=\"font-size:12px;color:#4A5A66\">4 pts</span></td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>4 Excellent</b><br>Names what a reconstruction cannot tell us and avoids overclaiming from what was seen.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>3 Proficient</b><br>Acknowledges at least one limit of what a reconstruction can show.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>2 Developing</b><br>Mentions limits only in passing, or claims more than the images allow.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>1 Beginning</b><br>Treats the reconstruction as proof of what really happened.</td></tr></tbody></table><div style=\"text-align:right;margin-top:6px;font-size:13px;color:#5B5148\">16 pts total</div></div></div>",
+   "points": 16.0,
+   "group": "ag_deep_feedback",
+   "rubric": "r_31_5",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload,online_text_entry",
+   "published": true,
+   "kind": "vr-activity",
+   "week": 31
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q_31_0",
+   "title": "Module Intro: The Great War",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#17191C;border-bottom:4px solid #E9694F;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#B8C4CE;margin-bottom:6px\">MODULE INTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Great War</div><div style=\"font-size:15px;color:#F2A08E;margin-top:6px\">2 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#E9694F;font-size:18px;line-height:1;margin:14px 0 4px\">❁ ✦ ❁</div><div style=\"height:1px;background:#4A5A66;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #17191C;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#17191C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">How did a murder in Sarajevo lead to a world war within six weeks, and could the war have been prevented?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #4A5A66;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#4A5A66;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>Welcome to The Great War. This short check-in is not graded. Your answers help your teacher see where each student is starting, so answer honestly.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #E9694F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8A2412;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">What you will be able to do</span></div><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#323E48\">The Road to 1914: Alliances, Arms, and Sarajevo</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Describe how the alliance system and the arms race divided Europe into two camps.</li><li>Explain how the assassination at Sarajevo led to war within six weeks.</li><li>Evaluate which decisions of July 1914 might have been made differently.</li></ul><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#323E48\">Trenches and a World at War</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Describe why the war on the Western Front became a stalemate of trenches.</li><li>Explain how the U-boat campaign and the Russian Revolution changed the war in 1917.</li><li>Evaluate how the war ended and what it destroyed.</li></ul></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-intro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: How did a murder in Sarajevo lead to a world war within six weeks, and could the war have been prevented?</p><p>Give your best answer now, using only what you already know. A guess is fine. You will answer this question again at the end of the week, and the two answers will show how much you learned.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Have you read the objectives for both lessons listed at the top of this page?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I have read them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet. I will read them before I start the lessons.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 31
+  },
+  {
+   "id": "q_31_9",
+   "title": "Module Outro: The Great War",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#17191C;border-bottom:4px solid #E9694F;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#B8C4CE;margin-bottom:6px\">MODULE OUTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Great War</div><div style=\"font-size:15px;color:#F2A08E;margin-top:6px\">5 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#E9694F;font-size:18px;line-height:1;margin:14px 0 4px\">❁ ✦ ❁</div><div style=\"height:1px;background:#4A5A66;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #17191C;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#17191C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">How did a murder in Sarajevo lead to a world war within six weeks, and could the war have been prevented?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #4A5A66;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#4A5A66;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>You have finished The Great War. This check-in is not graded. Your answers tell your teacher what is working and what is still unclear, so answer honestly.</p></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-outro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: How did a murder in Sarajevo lead to a world war within six weeks, and could the war have been prevented?</p><p>Answer it again now, in your own words. Use at least two specific details from this week's lessons or primary sources.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident are you that you understand this week's material?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "5: Very confident. I could explain this module to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "4: Confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3: Somewhat confident. I understand the main ideas but not the details.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "2: Not very confident. I am unsure about several things.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "1: Not confident. I am lost on much of it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear or confusing to you from this week? Name a specific person, event, or idea. If nothing is unclear, write what you found most interesting.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these virtues did this week ask the most of you, in your reading or in your work?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In two or three sentences, explain your choice. Point to a moment in this week's reading, or in your own work, where that virtue was needed.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 31
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_31_6",
+   "title": "Discussion: Could the July Crisis Have Been Stopped?",
+   "html": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#17191C;border-bottom:4px solid #E9694F;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#B8C4CE;margin-bottom:6px\">DISCUSSION</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Could the July Crisis Have Been Stopped?</div><div style=\"font-size:15px;color:#E8DDC6;margin-top:4px\">The Great War</div><div style=\"font-size:15px;color:#F2A08E;margin-top:6px\">10 points · threaded discussion</div></div><div style=\"text-align:center;color:#E9694F;font-size:18px;line-height:1;margin:14px 0 4px\">❁ ✦ ❁</div><div style=\"height:1px;background:#4A5A66;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #17191C;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#17191C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons first. Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you post. Then post your answer here and reply to one classmate.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #4A5A66;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#4A5A66;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">DISCUSSION PROMPT</span></div><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Within six weeks of the shooting at Sarajevo, Europe was at war. The lesson names several points where someone could have chosen differently: Germany by restraining Austria, Austria by accepting Serbia's reply, Russia by waiting, and Britain by speaking more clearly at the start. The alliances, the arms race, and the war plans also pressed on every decision.</p><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Take a position. Could the July Crisis have been stopped? Support your position with at least two specific details from the lessons, and include one detail that points the other way. Explain why you weigh the evidence as you do.</p><p style=\"margin:0; font-size:16px; line-height:1.7;\">Aim for about 150 to 200 words.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #E9694F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8A2412;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">RESPOND TO A CLASSMATE</span></div><p style=\"margin:0; font-size:16px; line-height:1.7;\">Reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a detail from the lessons that they did not use. If not, explain respectfully where it falls short, and point to a detail from the lessons that supports your view.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #E9694F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#8A2412;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">GRADING RUBRIC (10 pts)</span></div><table style=\"width: 100%; border-collapse: collapse;\">\n<thead><tr style=\"background: #0E1C42;\">\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #17191C;\">Criteria</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #17191C;\">Substantive (full credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #17191C;\">Thin (partial credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #17191C;\">Missing (no credit)</th>\n</tr></thead>\n<tbody><tr style=\"background:#FFFCF6;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Claim and evidence<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a position but gives only one detail, or stays general, or ignores the opposing detail.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No post, or no clear position.</td>\n</tr><tr style=\"background:#EDEFF1;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Response to a classmate<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No reply.</td>\n</tr></tbody>\n</table><div style=\"text-align:right; margin-top:6px; font-size: 13px; color:#5B5148;\">10 pts total</div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_discussions",
+   "rubric": "r_31_6",
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": true,
+   "kind": "module-discussion",
+   "week": 31
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_31",
+   "title": "The Great War",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "quiz",
+     "ref": "q_31_0",
+     "title": "Module Intro: The Great War",
+     "published": true,
+     "week": 31
+    },
+    {
+     "type": "page",
+     "ref": "p_31_05",
+     "title": "Module Map: The Great War",
+     "published": true,
+     "week": 31
+    },
+    {
+     "type": "page",
+     "ref": "p_31_1",
+     "title": "Lesson: The Road to 1914: Alliances, Arms, and Sarajevo",
+     "published": true,
+     "week": 31,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_31_2",
+     "title": "Lesson: Trenches and a World at War",
+     "published": true,
+     "week": 31,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_31_3",
+     "title": "Primary Source: Willy-Nicky Telegrams (1914)",
+     "published": true,
+     "week": 31,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_31_4",
+     "title": "Primary Source: Wilfred Owen, \"Dulce et Decorum Est\" (1920)",
+     "published": true,
+     "week": 31,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_31_5",
+     "title": "VR Activity: Along the Line",
+     "published": true,
+     "week": 31
+    },
+    {
+     "type": "discussion",
+     "ref": "d_31_6",
+     "title": "Discussion: Could the July Crisis Have Been Stopped?",
+     "published": true,
+     "week": 31
+    },
+    {
+     "type": "quiz",
+     "ref": "q_31_9",
+     "title": "Module Outro: The Great War",
+     "published": true,
+     "week": 31
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of HS World History, Spring Semester. Read from Canvas course 290 (naming authority; titles, order, quiz questions) with _build/pull_canvas.py on 2026-11-20; the sparkled module, not its \"(Unsparkled)\" twin. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/hsworldhistory-lessons-spring/. Build folder: Course Workshops/09WorldHistory-Spring/03_Build."
+ }
+}

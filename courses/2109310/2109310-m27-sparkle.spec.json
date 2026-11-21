@@ -1,0 +1,3212 @@
+{
+ "course": {
+  "title": "09 HS World Hist SP 2109310",
+  "code": "2109310",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_reading_quizzes",
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0
+  },
+  {
+   "id": "ag_discussions",
+   "title": "Tier 2: Discussions",
+   "weight": 10.0
+  },
+  {
+   "id": "ag_deep_feedback",
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0
+  },
+  {
+   "id": "ag_checkins",
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0
+  },
+  {
+   "id": "ag_exams",
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_27_5",
+   "title": "27.5 VR Activity: The Field at Waterloo rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Shows accurate understanding of the lesson and uses specific details from the session as evidence.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Shows accurate understanding but uses few specific details from the session.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Shows partial understanding, with some errors or vague claims.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Does not connect the session to the lesson, or the work is missing.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Builds a clear argument from at least two images and explains how each supports the claim.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Supports the claim with images, though one connection is thin.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "States a claim with little support, or describes the images without arguing from them.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Offers opinions without evidence from the session.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision of expression",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Writes clear, well-organized sentences and names which image supports each point.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Writing is clear with minor lapses in organization or precision.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Writing is often unclear, or the images are not tied to the text.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Writing is too unclear to follow.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Names what a reconstruction cannot tell us and avoids overclaiming from what was seen.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Acknowledges at least one limit of what a reconstruction can show.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Mentions limits only in passing, or claims more than the images allow.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Treats the reconstruction as proof of what really happened.",
+       "points": 1.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_27_6",
+   "title": "27.6 Discussion: Napoleon: Heir of the Revolution or Its Gravedigger? rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Claim and evidence",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Takes a position but gives only one detail, or stays general, or ignores the opposing detail.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no clear position.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Response to a classmate",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No reply.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_27_05",
+   "title": "Module Map: Napoleon and the Napoleonic Wars",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m27/w27-map.html\" width=\"100%\" height=\"2000\" style=\"border:0;\" title=\"Napoleon and the Napoleonic Wars\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_27_1",
+   "title": "Lesson: Napoleon: From General to Emperor",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m27/w27-lesson-1.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"Napoleon: From General to Emperor\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_27_2",
+   "title": "Lesson: Spain, Russia, Waterloo, and the Colonies Break Free",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m27/w27-lesson-2.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"Spain, Russia, Waterloo, and the Colonies Break Free\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_27_3",
+   "title": "Primary Source: Napoleon, Proclamation to the Army of Italy (1796)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m27/w27-ps-1.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Napoleon, Proclamation to the Army of Italy (1796)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_27_4",
+   "title": "Primary Source: Simón Bolívar, Letter from Jamaica (1815)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m27/w27-ps-2.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Simón Bolívar, Letter from Jamaica (1815)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a_27_5",
+   "title": "VR Activity: The Field at Waterloo",
+   "html": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#16130F;border-bottom:4px solid #D6A92B;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#AFC3E3;margin-bottom:6px\">VR ACTIVITY</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">The Field at Waterloo</div><div style=\"font-size:15px;color:#E8DDC6;margin-top:4px\">Solo · one in-headset session</div><div style=\"font-size:15px;color:#EBCB6E;margin-top:6px\">16 points · file upload or text entry</div></div><div style=\"text-align:center;color:#D6A92B;font-size:18px;line-height:1;margin:14px 0 4px\">✶ ✦ ✶</div><div style=\"height:1px;background:#2A4F8C;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #16130F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#16130F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons and read both sources first. Your notes from each page are kept in My Notebook, the button inside the page, so open it before you write. Then write your answers and submit them in this assignment.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #2A4F8C;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2A4F8C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">WHAT YOU'RE DOING</span></div><p style=\"font-size:16px; color:#1F1A15; line-height:1.6;\">Wellington later called Waterloo the nearest thing he ever saw. In your VR headset you will walk a scaled reconstruction of the battlefield and look at it the way each commander had to, from the ground. Your task is to find evidence in the layout of the land that helps explain why the battle was so close and why it ended as it did.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #D6A92B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7A5A05;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">WHAT YOU'LL NEED</span></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 8px; border-left: 3px solid #E3D6C0; padding-left: 14px;\"><span style=\"color:#7A5A05; font-size: 16px; flex-shrink: 0;\">▶</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">Your VR headset, charged and ready</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 8px; border-left: 3px solid #E3D6C0; padding-left: 14px;\"><span style=\"color:#7A5A05; font-size: 16px; flex-shrink: 0;\">▶</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">Your course page for this week, which lists the session link and the place to enter</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 8px; border-left: 3px solid #E3D6C0; padding-left: 14px;\"><span style=\"color:#7A5A05; font-size: 16px; flex-shrink: 0;\">▶</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">A notebook or open document for quick notes while you are in the session</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 8px; border-left: 3px solid #E3D6C0; padding-left: 14px;\"><span style=\"color:#7A5A05; font-size: 16px; flex-shrink: 0;\">▶</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">About 45 minutes in one sitting</div></div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #16130F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#16130F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">HOW TO JOIN</span></div><div style=\"background:#FFFCF6; border:1px solid #E3D6C0; border-radius:6px; padding:14px 18px;\"><div style=\"font-size:15px; color:#1F1A15; margin-bottom:6px;\"><strong>Where to go:</strong> Open your immersive session from the link on your course page, then enter the location named there.</div><div style=\"font-size:15px; color:#1F1A15; margin-bottom:6px;\"><strong>Solo or group:</strong> Solo. You do not need a partner.</div><div style=\"font-size:15px; color:#1F1A15; margin-bottom:6px;\"><strong>If something fails:</strong> Write down what happened and use the help contact on your course page. Do not skip the activity.</div></div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #16130F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#16130F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">WHAT TO DO, IN ORDER</span></div><div style=\"display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;\">\n<div style=\"min-width: 26px; height: 26px; border-radius: 50%; background:#16130F;color:#EBCB6E; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;\">1</div>\n<div style=\"font-size: 17px; color: #1F1A15; line-height: 1.6;\"><strong>Review first.</strong> Reread the section of the lesson “Spain, Russia, Waterloo, and the Colonies Break Free” called Leipzig and Waterloo. Remember that the battle was close, that Wellington held his ground against the French, and that the Prussian army under Blücher arrived on Napoleon's flank in the evening.</div>\n</div><div style=\"display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;\">\n<div style=\"min-width: 26px; height: 26px; border-radius: 50%; background:#16130F;color:#EBCB6E; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;\">2</div>\n<div style=\"font-size: 17px; color: #1F1A15; line-height: 1.6;\"><strong>Start on the French side.</strong> Stand where Napoleon's army began the day. Look across the field at the ground the Allied army held. Note what you can see and what is hidden from you.</div>\n</div><div style=\"display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;\">\n<div style=\"min-width: 26px; height: 26px; border-radius: 50%; background:#16130F;color:#EBCB6E; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;\">3</div>\n<div style=\"font-size: 17px; color: #1F1A15; line-height: 1.6;\"><strong>Cross to the Allied side.</strong> Walk to Wellington's position and look back. Ask what the slope, the distance, and the open ground meant for an army that had to hold a line against attack.</div>\n</div><div style=\"display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;\">\n<div style=\"min-width: 26px; height: 26px; border-radius: 50%; background:#16130F;color:#EBCB6E; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;\">4</div>\n<div style=\"font-size: 17px; color: #1F1A15; line-height: 1.6;\"><strong>Stop at three places.</strong> Choose three spots where the land seems to help explain the course of the battle. At each one, capture a picture with your headset and jot a note about what you see.</div>\n</div><div style=\"display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;\">\n<div style=\"min-width: 26px; height: 26px; border-radius: 50%; background:#16130F;color:#EBCB6E; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;\">5</div>\n<div style=\"font-size: 17px; color: #1F1A15; line-height: 1.6;\"><strong>Find the flank.</strong> Locate the direction from which the Prussians arrived. Judge how far they had to come, and how a commander on the field would have known they were on the way.</div>\n</div><div style=\"display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;\">\n<div style=\"min-width: 26px; height: 26px; border-radius: 50%; background:#16130F;color:#EBCB6E; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;\">6</div>\n<div style=\"font-size: 17px; color: #1F1A15; line-height: 1.6;\"><strong>Write your response.</strong> After you leave the session, write one paragraph of about 150 to 200 words that answers this question: What does the land at Waterloo help explain about why the battle was so close, and what can a reconstruction never tell you about that day?</div>\n</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #D6A92B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7A5A05;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">WHAT TO SUBMIT</span></div><p style=\"font-size:16px; color:#1F1A15; line-height:1.6;\">Submit your three captured images and your paragraph in the Canvas assignment. Use the images as evidence in your writing, and name which picture you are referring to.</p><p style=\"font-size:14px; color:#5B5148;\"><strong>Estimated time:</strong> 45 minutes</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #2A4F8C;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2A4F8C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">SUCCESS CRITERIA</span></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;\"><span style=\"color:#7A5A05; font-size: 18px; flex-shrink: 0; line-height: 1.2;\">☐</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">I looked at the field from both the French side and the Allied side.</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;\"><span style=\"color:#7A5A05; font-size: 18px; flex-shrink: 0; line-height: 1.2;\">☐</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">I captured three images that show different parts of the battlefield.</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;\"><span style=\"color:#7A5A05; font-size: 18px; flex-shrink: 0; line-height: 1.2;\">☐</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">My paragraph uses at least two of my images as evidence.</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;\"><span style=\"color:#7A5A05; font-size: 18px; flex-shrink: 0; line-height: 1.2;\">☐</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">My paragraph connects what I saw to what I read about Waterloo in the lesson “Spain, Russia, Waterloo, and the Colonies Break Free”.</div></div><div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;\"><span style=\"color:#7A5A05; font-size: 18px; flex-shrink: 0; line-height: 1.2;\">☐</span><div style=\"font-size: 16px; color: #1F1A15; line-height: 1.55;\">I wrote in complete sentences and kept to about 150 to 200 words.</div></div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #6B6358;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#6B6358;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">FACILITATOR NOTE</span></div><p style=\"font-size:14px; color:#1F1A15; line-height:1.6; font-style:italic;\">Teacher-facing. Before releasing this activity, add the session link and the specific location to the course page, and confirm that students have a way to capture images in their headsets. The instructions above assume a scaled reconstruction of the Waterloo battlefield. If none is available, substitute another Napoleonic battlefield reconstruction and adjust the steps and the review section to match, and note the substitution in the teacher's manual. The instructions are platform-neutral on purpose. Grade with the course rubric for VR activities: three images as evidence, a paragraph that cites them, and reasoning tied to the lesson.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #16130F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#16130F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Rubric (16 pts)</span></div><table style=\"width:100%;border-collapse:collapse\"><thead><tr style=\"background:#16130F\"><th style=\"padding:8px 10px;font-size:12px;color:#fff;text-align:left;border:1px solid #16130F;width:22%\">Criteria</th><th style=\"padding:8px 10px;font-size:12px;color:#fff;text-align:left;border:1px solid #16130F\">Level</th><th style=\"padding:8px 10px;font-size:12px;color:#fff;text-align:left;border:1px solid #16130F\">Level</th><th style=\"padding:8px 10px;font-size:12px;color:#fff;text-align:left;border:1px solid #16130F\">Level</th><th style=\"padding:8px 10px;font-size:12px;color:#fff;text-align:left;border:1px solid #16130F\">Level</th></tr></thead><tbody><tr><td style=\"padding:8px 10px;font-size:14px;vertical-align:top;border:1px solid #E3D6C0;background:#FBF0CC;color:#16130F\">Understanding of the material<br><span style=\"font-size:12px;color:#2A4F8C\">4 pts</span></td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>4 Excellent</b><br>Shows accurate understanding of the lesson and uses specific details from the session as evidence.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>3 Proficient</b><br>Shows accurate understanding but uses few specific details from the session.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>2 Developing</b><br>Shows partial understanding, with some errors or vague claims.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>1 Beginning</b><br>Does not connect the session to the lesson, or the work is missing.</td></tr><tr><td style=\"padding:8px 10px;font-size:14px;vertical-align:top;border:1px solid #E3D6C0;background:#FBF0CC;color:#16130F\">Quality of reasoning<br><span style=\"font-size:12px;color:#2A4F8C\">4 pts</span></td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>4 Excellent</b><br>Builds a clear argument from at least two images and explains how each supports the claim.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>3 Proficient</b><br>Supports the claim with images, though one connection is thin.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>2 Developing</b><br>States a claim with little support, or describes the images without arguing from them.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>1 Beginning</b><br>Offers opinions without evidence from the session.</td></tr><tr><td style=\"padding:8px 10px;font-size:14px;vertical-align:top;border:1px solid #E3D6C0;background:#FBF0CC;color:#16130F\">Clarity and precision of expression<br><span style=\"font-size:12px;color:#2A4F8C\">4 pts</span></td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>4 Excellent</b><br>Writes clear, well-organized sentences and names which image supports each point.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>3 Proficient</b><br>Writing is clear with minor lapses in organization or precision.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>2 Developing</b><br>Writing is often unclear, or the images are not tied to the text.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>1 Beginning</b><br>Writing is too unclear to follow.</td></tr><tr><td style=\"padding:8px 10px;font-size:14px;vertical-align:top;border:1px solid #E3D6C0;background:#FBF0CC;color:#16130F\">Intellectual honesty<br><span style=\"font-size:12px;color:#2A4F8C\">4 pts</span></td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>4 Excellent</b><br>Names what a reconstruction cannot tell us and avoids overclaiming from what was seen.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>3 Proficient</b><br>Acknowledges at least one limit of what a reconstruction can show.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>2 Developing</b><br>Mentions limits only in passing, or claims more than the images allow.</td><td style=\"padding:8px 10px;font-size:13px;vertical-align:top;border:1px solid #E3D6C0\"><b>1 Beginning</b><br>Treats the reconstruction as proof of what really happened.</td></tr></tbody></table><div style=\"text-align:right;margin-top:6px;font-size:13px;color:#5B5148\">16 pts total</div></div></div>",
+   "points": 16.0,
+   "group": "ag_deep_feedback",
+   "rubric": "r_27_5",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload,online_text_entry",
+   "published": true,
+   "kind": "vr-activity",
+   "week": 27
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q_27_0",
+   "title": "Module Intro: Napoleon and the Napoleonic Wars",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#16130F;border-bottom:4px solid #D6A92B;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#AFC3E3;margin-bottom:6px\">MODULE INTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Napoleon and the Napoleonic Wars</div><div style=\"font-size:15px;color:#EBCB6E;margin-top:6px\">2 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#D6A92B;font-size:18px;line-height:1;margin:14px 0 4px\">✶ ✦ ✶</div><div style=\"height:1px;background:#2A4F8C;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #16130F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#16130F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">How did Napoleon rise to power, and what did his rule and his fall leave behind?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #2A4F8C;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2A4F8C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>Welcome to Napoleon and the Napoleonic Wars. This short check-in is not graded. Your answers help your teacher see where each student is starting, so answer honestly.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #D6A92B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7A5A05;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">What you will be able to do</span></div><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#1B3866\">Napoleon: From General to Emperor</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Describe how Napoleon rose from an obscure officer to ruler of France.</li><li>Explain what Napoleon built at home and what he took away.</li><li>Evaluate how chance, talent, and the weakness of the Directory each helped him seize power.</li></ul><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#1B3866\">Spain, Russia, Waterloo, and the Colonies Break Free</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Explain how the Continental System led Napoleon into Spain and Russia.</li><li>Describe how Napoleon's defeat came about, from Leipzig to Waterloo.</li><li>Explain how Napoleon's invasion of Spain and Portugal opened the way for independence in Haiti and Latin America.</li></ul></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-intro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: How did Napoleon rise to power, and what did his rule and his fall leave behind?</p><p>Give your best answer now, using only what you already know. A guess is fine. You will answer this question again at the end of the week, and the two answers will show how much you learned.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Have you read the objectives for both lessons listed at the top of this page?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I have read them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet. I will read them before I start the lessons.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 27
+  },
+  {
+   "id": "q_27_7",
+   "title": "Quarterly Exam: Quarter 3: Early Modern Europe",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#16130F;border-bottom:4px solid #D6A92B;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#AFC3E3;margin-bottom:6px\">QUARTERLY EXAM</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Napoleon and the Napoleonic Wars</div><div style=\"font-size:15px;color:#EBCB6E;margin-top:6px\">42 questions · 41 points · one attempt</div></div><div style=\"text-align:center;color:#D6A92B;font-size:18px;line-height:1;margin:14px 0 4px\">✶ ✦ ✶</div><div style=\"height:1px;background:#2A4F8C;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #2A4F8C;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2A4F8C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">About this exam</span></div><p>This exam covers this quarter only, weeks 19 to 27. It has 41 multiple-choice questions with one correct answer each. You may reread your lessons before you begin.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #16130F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#16130F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you start. Then choose the best answer for each question.</p></div></div>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "quarterly-exam",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "Cortés founded the town of Veracruz and had its council elect him captain. Why was this a clever move?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It gave him legal title to the Mexica capital before he had even seen the city.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It made him answer to the town and the king, not to the governor he had defied.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It freed him from paying the king's share of any gold that he might find.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It persuaded the people of the coast that Spain had already conquered them.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Governor Velázquez had tried to cancel the voyage. By making himself the servant of a town and the king, Cortés gave his defiance a legal cover.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Cortés marched inland and met towns such as Cempoala that hated paying tribute to Tenochtitlan. What did this show about the Mexica empire?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Its conquered towns kept their own rulers and gods, so they felt like loyal members of one Mexica people.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Its subjects were held mainly by fear and tribute, so a challenger could turn them against it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Its main weakness was a lack of soldiers, since it had never fought a war of conquest.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Its rulers had already agreed to share power with their old enemies in the city of Tlaxcala.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The lesson says the Mexica bound their subjects only by fear and tribute, so many chose the challenger. Cempoala and the Tlaxcalans joined Cortés, and at the final siege tens of thousands of native warriors fought beside the Spaniards.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why did the capture of Atahualpa at Cajamarca do so much damage to the Inca state?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "News of the capture reached Cusco too slowly for any general to answer it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Inca armies had been destroyed at Cajamarca, so nothing was left to defend the empire.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Atahualpa ordered his generals to surrender as soon as he was seized.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "All authority flowed from one man, so his generals hesitated to risk the emperor's life.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The Spaniards seized the head of the whole system. His generals hesitated because they did not want to risk the emperor's life, and each day of hesitation helped the invaders.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The viceroy Toledo revived the old mita at Potosí. How did the Spaniards change its purpose?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Inca paid it in silver coins. The Spaniards collected it in grain.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Inca required it only in wartime. The Spaniards made it a yearly festival.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Inca used it for roads and farms. The Spaniards used it for the mines.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Inca forced only the rich to serve. The Spaniards made the poor serve.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "About one worker in seven from the highland villages had to go to Potosí for a year. Cave-ins, cold, and mercury poisoning killed many.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In 1581 the northern provinces declared that Philip II had lost the right to rule them. What reason did they give?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He had died without leaving an heir to the throne of the Low Countries.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He had refused to learn Dutch after more than twenty years on the throne.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They said that he had broken his duties as a king toward his subjects.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He had lost the war at sea and could no longer defend their ports.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The northern provinces had formed the Union of Utrecht, and in 1581 they formally declared that Philip had broken the duties of a king.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Spanish soldiers sacked Antwerp in 1576, and for a short time all seventeen provinces stood together. What happened to that unity?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It faded, and by 1579 the mostly Catholic south made peace with Philip.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It lasted until 1648, when Spain finally accepted Dutch independence.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It ended when Philip paid his soldiers and the outrage was forgotten.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It broke when William of Orange was shot and the provinces blamed each other.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The outrage briefly united the provinces. It did not last: the south made peace and the north formed the Union of Utrecht.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why did Amsterdam grow so fast after 1585?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The new stock exchange offered free land to anyone who would build a house there.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Spanish king moved his court to Amsterdam to be closer to the war.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Dutch East India Company hired thousands of sailors from the Baltic.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Spain captured Antwerp and closed its river, so merchants and bankers fled north.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Merchants, bankers, and skilled craftsmen fled north by the thousands. Within a few decades the city had tripled in size.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The lesson calls Dutch toleration practical, and not equality. Which detail shows its limits?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Jews were forbidden to build a synagogue in any Dutch city.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only Calvinists held high office, and Catholics worshiped in secret.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Catholics held most high offices in the towns of the Republic.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only people born in the Republic were allowed to trade in Amsterdam.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Jews and French Protestants were welcome, but tolerance had business sense in it and did not mean equal standing.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The potato took a long time to win acceptance in Europe, yet it changed northern populations. Why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It grew well in cold, wet climates, and a small plot could feed a family.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It was cheaper to ship than wheat, so cities bought it in place of bread.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Church urged the poor to eat it during the many fast days of the year.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It could be stored for years without spoiling, so no one starved in winter.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "In Ireland and northern Germany populations rose. In China maize and sweet potatoes did the same on hillsides where rice would not grow.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why did sugar lead to large plantations rather than small farms?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Crown forbade small farmers to grow sugar, so only nobles could plant it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Cane grew only on islands where no other crop would grow.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Cane needed much land, costly mills, and a great deal of labor.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Planters wanted to keep the price of sugar high by limiting the supply.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Cane had to be cut at the right time and crushed within a day, and the juice boiled day and night. The prize was a crop that ran on labor.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "According to the lesson, how did African states take part in the Atlantic slave trade?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They took no part, since the Europeans seized all captives far inland.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Powerful states such as Asante and Dahomey sold captives from their wars.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They banned the trade at once and fought the Europeans along the coast.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They bought captives from Europeans and put them to work on plantations.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Europeans stayed near the coast, and African rulers did not allow them inland. Guns bought from Europeans made the wars that produced more captives. Not every ruler agreed, as Afonso I of Kongo showed.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In 1781 the captain of the Zong had about 130 sick captives thrown into the sea. How did a court treat the case?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "As a murder trial, and the captain was hanged for the crime.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "As a mutiny, and the sailors who refused the order were punished.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "As a matter for the Admiralty, and it was never brought before a judge.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "As a dispute about money, since the owners claimed insurance.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The court heard it as an insurance case. When the story came out in England, many people were horrified.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "In 1628 Parliament made Charles I accept the Petition of Right. What did he do next?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He refused to sign it and sent Parliament home that same day.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He kept it faithfully for eleven years and called Parliament each spring.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He asked the judges to declare it void, and they agreed unanimously.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He agreed to it, and then he simply ignored it when it suited him.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The Petition said the king could not tax without consent or jail people without cause. In 1629 Charles sent Parliament home and ruled without it for eleven years.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "What was new about the New Model Army that Parliament created in 1645?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It was paid by the king, who had agreed to share command with Parliament.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Officers rose by ability and not by birth, and soldiers were paid regularly.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It was made up of foreign soldiers hired from the Dutch Republic.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It was open only to Puritans who had sworn the Scottish Covenant.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The army, with Cromwell's disciplined cavalry, crushed the king at Naseby in June 1645.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "William of Orange had his own reasons to accept the invitation of 1688. What was one?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He wanted to end the Dutch Republic by joining it to the English crown.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He had been promised a large sum of money from the English Parliament.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He wanted England as an ally against Louis XIV and not as France's friend.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He hoped to convert the English people to the Dutch Calvinist church.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Louis XIV threatened the Dutch Republic. William was also married to Mary, James's Protestant daughter.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "What did the Act of Settlement of 1701 show about the new English government?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Parliament could choose the king, which no one imagined in 1600.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The king could now tax without consent so long as he called Parliament once a year.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Church of England had taken over the power of choosing the king.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The crown would pass only to a Catholic cousin of the late king.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Parliament gave the crown to a Protestant German cousin, George of Hanover, who became George I in 1714.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why did Louis XIV make the nobles compete for places in his daily ceremonies at Versailles?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He wanted them to learn the arts so that France would have a better army.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Only the king could grant pensions, offices, and army commands to them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He had no other way to collect the taxes that they owed to the crown.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He wished to keep them away from the army, which was run by his ministers.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "A noble at Versailles spent money on clothes and parties and not on a private army. The proud lords of the Fronde had become courtiers.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The lesson says Louis XIV's rule was less absolute than it looked. Why?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Offices were bought and inherited, and old privileges of the towns limited him.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Parliament in Paris met every year and approved each tax that he asked for.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The nobles kept private armies, so he could not give orders to the provinces.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "His ministers were chosen by the great families of France, and not by the king.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The crown sold offices to raise money. A man who bought a judge's post could pass it to his son, and the king could do only what these groups would let him do.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why was the revocation of the Edict of Nantes a gift to Louis XIV's rivals?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Huguenots took the French navy with them and sold the ships to the Dutch.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Huguenots led a rebellion in southern France that forced Louis to leave Paris.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Protestant kings refused to trade with France after the edict was issued.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "About two hundred thousand skilled Huguenots fled to his enemies abroad.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The refugees included silk weavers, bankers, watchmakers, and army officers. Many Huguenot officers served William of Orange.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The Nine Years' War is an early example of the balance of power. What does that mean?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A strong ruler can keep peace in Europe by giving every state the same size of army.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Each state trades only with those countries that have an equal navy.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "A state that grows strong enough to dominate its neighbors makes them unite against it.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Smaller states hand over their armies to the strongest state for protection.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "England, the Dutch Republic, Austria, and others joined to stop Louis. The war ended in 1697 with Louis giving up many of his gains.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why did Newton's success give educated people a new confidence?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It proved that the Church had been wrong about the Bible for fifteen centuries.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It gave kings the power to tax all trade between Europe and Asia.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It showed that nature followed laws that mathematics could describe.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It showed that careful observation was useless without a university degree.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The same force that pulled an apple to the ground held the moon in its orbit. Others soon asked whether human society might follow laws that could be found by the same patient method.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Frederick the Great and Catherine the Great liked Enlightenment ideas. What does the lesson say about their reforms?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They shared power with elected parliaments that wrote the new laws.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They ended monarchy in their lands and handed power to the philosophes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They banned the Encyclopédie in their courts and burned the copies.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They reformed from above and did not give up their own power.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Frederick ended torture in his courts, and Catherine read the Encyclopédie. The Enlightenment could serve absolute monarchs as easily as it could challenge them.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "A ruler seizes his subjects' property and jails them without cause. Whose argument says that the people may resist him?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Locke's, since a ruler who attacks their rights loses his claim to obey.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Montesquieu's, since only independent judges may remove a king from office.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Voltaire's, since a king is bound to follow the advice of the philosophes.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Smith's, since no government may take part in the buying and selling of goods.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "For Locke, people set up governments by a social contract so that rulers would protect their rights to life, liberty, and property.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "What does Adam Smith's pin factory illustrate?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The invisible hand: a king should set the price of every pin to be fair.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The division of labor: ten workers doing separate steps make thousands.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The social contract: workers agree to obey the owner who gives them wages.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The separation of powers: one worker cuts the wire and another sells the pins.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Ten workers who each made whole pins might make only a few hundred. Smith saw the division of labor as the secret of wealth.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How did Frederick the Great help Britain in the Seven Years' War?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Paid with British money, he kept French armies busy in Europe.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "He sent the Prussian navy to help the British fleet attack Quebec.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He agreed to take the Ohio Valley and give Canada to Britain.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He lent Pitt a large army that sailed to India under Clive.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Pitt believed France could be beaten at sea and in the colonies, where it was weakest, while Frederick tied down its armies on the Continent.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How did a trading company become a ruler in India?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The Mughal emperor sold Bengal to the company to pay for his armies.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Clive won at Plassey, and the company took control of rich Bengal.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The French company left India and handed all its forts to the British.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Parliament sent a royal army that conquered Bengal in a single summer.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Clive led about 3,000 men against a far larger army. A trading firm was becoming the ruler of millions of people.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Who bore the heaviest burden of taxation in the France of Louis XVI?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The nobles, who paid the taille and the tithe on their own estates.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The clergy, who paid a tenth of their land to the crown each year.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The merchants, who paid the salt tax and no other tax.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Commoners and peasants, while nobles and clergy were mostly exempt.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Peasants paid the taille, the tithe, dues to their landlords, and a hated salt tax. A few of the wealthy held most of the exemptions.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "What did Emmanuel Joseph Sieyès argue in his pamphlet of 1789?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "That the king should give up his throne and a republic should be declared.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That the clergy and nobles should each have two votes in the Estates-General.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "That the Third Estate was the whole nation and now deserved to be something.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "That the Estates-General should meet every year in the city of Paris.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The pamphlet said that the Third Estate had been treated as nothing in politics. Most lists of complaints sent to the king were more respectful.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "What did the Assembly do on the night of August 4, 1789?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It voted to remove the king from his throne and declared a republic.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It sold the lands of the Church and used the money to pay the army.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It gave the vote to every man and woman over the age of twenty-one.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It ended the tithe, many feudal dues, and the rights of nobles.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Noble after noble stood up to give up privileges. Many dues were turned into payments that peasants had to buy out, but all French people were now to stand equal before the law.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The Declaration of the Rights of Man says that men are born free and equal. What tension does the lesson point out?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It guarded the rights of the nobles but not those of the commoners.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It gave the king the power to veto any law that the Assembly passed.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It said \"man\" and meant men, and slavery continued in the colonies.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It required all citizens to belong to the Catholic Church.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Women could not vote, and Olympe de Gouges wrote a Declaration of the Rights of Woman. Protestants and Jews won full rights only after fierce debate.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How did France raise so large an army by 1794?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The king of Prussia lent soldiers to the Convention in return for land on the Rhine.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The levée en masse of 1793 called all French people to serve the war.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Church paid for an army of volunteers to defend the faith.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The Vendée peasants joined the army in order to defend the Republic.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Within a year France had about three-quarters of a million men under arms.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "What does the lesson suggest about trying to create virtue by force?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Virtue grows slowly through families and schools, and force may crush liberty.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Virtue can be taught in a single year if the schools are put under state control.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Force is the only way to teach virtue to a people who have lost the habit of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Virtue is a private matter and should have no place in the life of a republic.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Polybius and Machiavelli taught that republics survive on the habits of their citizens. A government that compels virtue with the guillotine may crush both virtue and liberty.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "Why were many French people glad to see Napoleon take power?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They believed that he would restore the king and the privileges of the nobles.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They were tired of ten years of upheaval and wanted the order that he gave them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "They had voted for him in free elections that the Directory had held.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "They hoped he would end all taxes and set free the prisoners of the Terror.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "He made peace with Britain in 1802, founded the Bank of France, started the lycées, and made a Concordat with the pope.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "The Napoleonic Code kept the great gains of 1789. What else did it do?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "It restored the tithe and the special rights of the clergy.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It gave the Church the power to appoint judges in each department.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "It gave husbands wide power over their wives and children.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "It ended the equality of all men before the law.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "The Code kept equality before the law, an end to feudal privilege, protection of property, and religious freedom. It was also a regime with censorship and a secret police.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How did the Continental System lead Napoleon into Spain and Russia?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "To make the ban on British trade work, he had to control the coast of Europe.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "The Spanish and Russian kings had asked him to join their war against Britain.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "He wanted the silver of Spanish America to pay for the French army.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Britain had invaded both countries and Napoleon went to help them.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "Portugal would not close its ports and was invaded in 1807. In 1812 Tsar Alexander was trading with Britain again, and Napoleon decided to punish him.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "How did Napoleon's seizure of Spain open the way for independence in Latin America?",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Napoleon sent troops to Latin America and set up colonies in each country.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "The pope declared that Spanish rule in the Americas was no longer lawful.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Spain gave up its colonies in a treaty that it signed at Vienna.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "With the king a prisoner, Spanish Americans asked who should rule them.",
+       "correct": true,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "In 1810 councils formed in cities such as Caracas and Buenos Aires. The creoles resented Spanish-born officials, and soon some wanted more than a say.",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>A few days later the petitioners held a banquet in Brussels. Their host filled a wooden bowl, the kind a beggar carried, and drank to the health of the Beggars. The guests took up the toast and the cry. They hung small beggars' bowls and bags from their clothes, and they wore medals that carried the king's likeness and the words, in French, loyal to the king, even to the beggar's bag. Note what they claimed. They did not call themselves rebels. They said they were the king's most faithful servants, asking him to hear his own subjects.</p></blockquote><p>Which choice best states the main idea of the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The petitioners dropped their loyalty to the king and openly declared themselves rebels at the banquet.",
+       "correct": false,
+       "feedback": "The passage says they did not call themselves rebels, so this reverses their claim."
+      },
+      {
+       "text": "The governor's adviser regretted his insult and invited the petitioners to dine with him in Brussels.",
+       "correct": false,
+       "feedback": "The banquet was held by the petitioners. The passage does not mention the adviser regretting anything."
+      },
+      {
+       "text": "The petitioners took up an insult as a badge while claiming to be the king's loyal servants who wished to be heard.",
+       "correct": true,
+       "feedback": "Correct. It joins the badge taken from the insult to the claim of loyalty."
+      },
+      {
+       "text": "The petitioners wanted the poor of Brussels to be fed, so they held a banquet and shared their bowls.",
+       "correct": false,
+       "feedback": "The bowls were a badge taken from an insult. The passage does not mention feeding the poor."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Here is how ship money worked. Each county was told how much to pay for the navy, and the sheriff collected it. The king needed no Parliament to approve the order, and the sums were large and regular, which was the point. A king who could collect large and regular sums in this way</p></blockquote><p>Which choice most logically completes the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "could pay for his government without asking Parliament to vote the money.",
+       "correct": true,
+       "feedback": "Correct. If no approval was needed, the king could raise money without Parliament."
+      },
+      {
+       "text": "would have to call Parliament more often so that it could approve each payment.",
+       "correct": false,
+       "feedback": "The passage says no Parliament had to approve the order, so this reverses it."
+      },
+      {
+       "text": "had to hand the money to the sheriffs, who spent it as each county chose.",
+       "correct": false,
+       "feedback": "The passage says the sheriff collected the money for the navy. It does not say counties spent it."
+      },
+      {
+       "text": "would soon find every judge in England ruling against him in court.",
+       "correct": false,
+       "feedback": "The passage does not say how any judge would rule."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Newton's ideas had to win over doubters, and they did it by measurement. Newton's theory said that the Earth bulges at the equator and is flatter at the poles. Many French scientists, who had followed Descartes, expected the opposite. In the 1730s the Academy of Sciences sent expeditions to Peru and to Lapland, in the far north of Europe, to measure the length of a degree of the Earth's curve. The results favored Newton.</p></blockquote><p>According to the text, how did Newton's ideas win over doubters?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The followers of Descartes in France agreed that his theory was simpler than their own.",
+       "correct": false,
+       "feedback": "The text says many French scientists expected the opposite of what Newton said. It gives no sign that they agreed from simplicity."
+      },
+      {
+       "text": "The king of France ordered the Academy of Sciences to teach his theory in its schools.",
+       "correct": false,
+       "feedback": "The text does not mention any royal order. The doubters were won over by measurement."
+      },
+      {
+       "text": "Newton himself traveled to Peru and Lapland and measured the curve of the Earth.",
+       "correct": false,
+       "feedback": "The Academy of Sciences sent the expeditions. The text does not say that Newton traveled."
+      },
+      {
+       "text": "Expeditions measured the curve of the Earth, and the results favored his theory.",
+       "correct": true,
+       "feedback": "Correct. The text says the doubters were won by measurement, and the results favored Newton."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Hundreds of thousands of French soldiers were tied down in Spain for years. Napoleon later called it \"the Spanish ulcer.\" The French army was strong in open battle, but its best tool, the swift campaign against a single enemy army, was useless against a whole population.</p></blockquote><p>Which choice best supports the claim that a swift campaign was useless against a whole population?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A column that held a town did not hold the road beyond it, and couriers needed escorts.",
+       "correct": true,
+       "feedback": "Correct. Holding a town did not give control of the country around it, which is what defeats a quick campaign."
+      },
+      {
+       "text": "A French army surrendered at Bailén in the summer of 1808, a shock to a Europe that had thought the French could not be beaten.",
+       "correct": false,
+       "feedback": "A defeat of one army shows the French could lose. It does not show that a swift campaign fails against a population."
+      },
+      {
+       "text": "The British, who could be supplied by sea through Portuguese ports, always had somewhere to fall back to.",
+       "correct": false,
+       "feedback": "This explains the British position. It says nothing about why the French method failed in Spain."
+      },
+      {
+       "text": "Napoleon forced Charles IV to give up his throne at Bayonne and put his brother Joseph on it.",
+       "correct": false,
+       "feedback": "This describes how the Spanish crisis began. It does not show why a swift campaign failed."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>The move to Paris had consequences. At Versailles the king and the deputies had been twelve miles from the city. Now they lived in the middle of it, within reach of its crowds, its clubs, and its newspapers. Once the Declaration protected the press, hundreds of new papers appeared in Paris, and writers such as Marat and Desmoulins used them to name enemies and rouse readers. Every vote the Assembly took could be read, argued over, and shouted about in the street by the next morning.</p></blockquote><p>Which choice best states the main idea of the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Moving to Paris put the king and the Assembly within reach of crowds, clubs, and newspapers.",
+       "correct": true,
+       "feedback": "Correct. It covers the move and the pressure that came with it."
+      },
+      {
+       "text": "Once the Declaration protected the press, hundreds of new papers appeared in the streets of Paris.",
+       "correct": false,
+       "feedback": "True, but too narrow. It covers only the new papers, not the whole effect of the move."
+      },
+      {
+       "text": "The king and the deputies moved to Paris because Versailles had grown too crowded for the Assembly.",
+       "correct": false,
+       "feedback": "The passage gives no reason for the move. It describes what followed it."
+      },
+      {
+       "text": "Marat and Desmoulins used their newspapers to seize control of the votes taken in the Assembly.",
+       "correct": false,
+       "feedback": "The passage says the writers named enemies and roused readers. It does not say they controlled any vote."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In a few sentences, describe the test-taking strategy you used on this exam. What did you do first, and how did you decide between answer choices?</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "group": "ag_exams",
+   "points": 41.0,
+   "week": 27
+  },
+  {
+   "id": "q_27_sat",
+   "title": "Quarter 3 Exam (SAT)",
+   "quiz_type": "assignment",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "quarterly-exam-sat",
+   "week": 27,
+   "group": "ag_assignments",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#16130F;border-bottom:4px solid #D6A92B;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#AFC3E3;margin-bottom:6px\">QUARTERLY EXAM, SAT-STYLE</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Napoleon and the Napoleonic Wars</div><div style=\"font-size:15px;color:#EBCB6E;margin-top:6px\">49 questions · 46 points · one attempt</div></div><div style=\"text-align:center;color:#D6A92B;font-size:18px;line-height:1;margin:14px 0 4px\">✶ ✦ ✶</div><div style=\"height:1px;background:#2A4F8C;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #2A4F8C;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2A4F8C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">About this exam</span></div><p>This exam covers this quarter only, weeks 19 to 27. It has 36 multiple-choice questions with one correct answer each. Every question gives you a short passage taken from your lessons, so you can answer from the passage itself. You may reread your lessons before you begin.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #16130F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#16130F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you start. Then choose the best answer for each question.</p></div></div>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Tlaxcala was a league of towns ringed on every side by Mexica territory. By most accounts its people had to do without goods such as salt and fine cotton cloth, because the trade routes ran through enemy hands. When the Spaniards arrived in September 1519, the Tlaxcalan leaders had to decide whether these strangers were a danger or a tool. They tested them in about two weeks of hard fighting. The horses and steel held, but both sides were worn down. The Tlaxcalan leaders then judged that men who could survive that fight would be useful against Tenochtitlan, and the offer cost them little at the start.</p></blockquote><p>According to the text, why did the Tlaxcalan leaders offer the Spaniards an alliance?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The two weeks of fighting had shown them that the Spaniards' horses and steel could not be resisted.",
+       "correct": false,
+       "feedback": "The text says the horses and steel held but that both sides were worn down. It does not say the Spaniards could not be beaten."
+      },
+      {
+       "text": "The Spaniards had promised to bring them salt and fine cotton cloth that the Mexica kept from them.",
+       "correct": false,
+       "feedback": "The text says Tlaxcala lacked these goods because the trade routes ran through enemy hands. It mentions no promise from the Spaniards."
+      },
+      {
+       "text": "They judged that men who survived two weeks of hard fighting would be useful against Tenochtitlan.",
+       "correct": true,
+       "feedback": "Correct. Locate, verify, and match: the text states this directly."
+      },
+      {
+       "text": "The Mexica had conquered them long ago, and they hoped the Spaniards would end the tribute they owed.",
+       "correct": false,
+       "feedback": "The text describes Tlaxcala as ringed by Mexica territory, not as conquered or paying tribute."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Those politics were the key. As Cortés marched inland, he met towns that hated paying tribute to Tenochtitlan. The people of Cempoala joined him. The Tlaxcalans, who had never been conquered by the Mexica, fought the Spaniards hard and lost. Then they changed course and offered an alliance against their old enemy. Cortés saw that he did not have to beat the Mexica alone. He only had to find out who else wanted them beaten.</p></blockquote><p>Which choice best supports the conclusion that the Spaniards did not defeat the Mexica on their own?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Warriors from Tlaxcala and Texcoco did most of the fighting and destroying in the siege of Tenochtitlan.",
+       "correct": true,
+       "feedback": "Correct. Identify the claim, then pick the direct evidence for it. The others are related to the topic but do not support this claim."
+      },
+      {
+       "text": "Cortés had thirteen small warships built in pieces and carried to the lake to help seal off the city.",
+       "correct": false,
+       "feedback": "This describes the Spaniards' own effort. It does not show that others did the fighting."
+      },
+      {
+       "text": "Cortés wrote long letters to King Charles V to justify defying a governor and starting a war without permission.",
+       "correct": false,
+       "feedback": "This concerns how Cortés defended himself to his king, not who won the war."
+      },
+      {
+       "text": "Cortés ran his ships aground on the coast so that none of his men could turn back, and then marched inland.",
+       "correct": false,
+       "feedback": "This shows Cortés's own commitment. It says nothing about help from others."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Here is how the mercury process worked. Water-driven mills crushed the ore to a fine powder. The powder was mixed with water, salt, and mercury and trampled by workers or animals for days. The silver clung to the mercury and formed a paste. When the paste was heated, the mercury boiled away and left the silver behind. The method had been developed in Mexico, and it let miners use ore that was too poor to smelt. It also needed a steady supply of mercury, which came mostly from a mine at Huancavelica in Peru, where the same kind of forced draft sent men underground. Some highland villages emptied as families moved away to escape the draft. The mine that fed Spain was fed in turn by the labor of people who had never agreed to it.</p></blockquote><p>Which choice best states the main idea of the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Silver ore was crushed, mixed with mercury, trampled into a paste, and heated until only silver remained.",
+       "correct": false,
+       "feedback": "This describes the steps of the process, which is only one part of the passage."
+      },
+      {
+       "text": "The Spanish conquest of the Americas rested on the forced labor of people who had never agreed to it.",
+       "correct": false,
+       "feedback": "This is too broad. The passage is about the mining of silver, not the whole conquest."
+      },
+      {
+       "text": "The mercury process was invented at Huancavelica and later taught to miners in Mexico.",
+       "correct": false,
+       "feedback": "This distorts the passage, which says the method was developed in Mexico and that the mercury came from Huancavelica."
+      },
+      {
+       "text": "Silver at Potosí was made by a mercury process that itself depended on forced labor from nearby villages.",
+       "correct": true,
+       "feedback": "Correct. This is the organizing point of the whole passage, not just one detail or an overreach."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Pizarro's victory looks like Cortés's, but there are important differences. Pizarro had no large native army at his side at first. What he had was a plan that took advantage of how the Inca state worked. All authority in the empire flowed from one man. ______</p></blockquote><p>Which choice most logically completes the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A united native army would therefore have been easy for Pizarro to assemble.",
+       "correct": false,
+       "feedback": "Nothing in the passage connects the flow of authority to raising a native army. The passage says Pizarro had none at first."
+      },
+      {
+       "text": "Seizing that one man would therefore leave the entire system without a head.",
+       "correct": true,
+       "feedback": "Correct. The passage sets this up, and this choice follows from it with the fewest added assumptions."
+      },
+      {
+       "text": "Pizarro would therefore have done better to bring a larger force than Cortés had.",
+       "correct": false,
+       "feedback": "The passage presents Pizarro's plan as the thing that worked. It does not suggest he needed a larger force."
+      },
+      {
+       "text": "The system would therefore have run smoothly even after its ruler was captured.",
+       "correct": false,
+       "feedback": "This reverses the logic. If all authority flows from one man, capturing him disrupts the system."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>In 1567 Philip sent the Duke of Alba north with about ten thousand soldiers. Alba set up a court that the people soon called the Council of Blood. It tried thousands of people and put more than a thousand to death. In 1568 Alba beheaded the Counts of Egmont and Hoorn in Brussels. Both were Catholic noblemen who had remained loyal to the king. Alba also imposed a heavy new sales tax. In a few years he had managed to unite Catholics and Protestants, nobles and merchants, against the same ruler.</p></blockquote><p>According to the text, what was true of the Counts of Egmont and Hoorn?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They were Calvinist leaders of the Beggars who had led the revolt against the king.",
+       "correct": false,
+       "feedback": "The text says both were Catholic noblemen who stayed loyal to the king."
+      },
+      {
+       "text": "They were Catholic noblemen who had remained loyal to the king, yet Alba beheaded them.",
+       "correct": true,
+       "feedback": "Correct. Locate, verify, and match: the text states this directly."
+      },
+      {
+       "text": "They fled to Germany before Alba could arrest them, as William of Orange did.",
+       "correct": false,
+       "feedback": "The text says Alba had them beheaded in Brussels. It was William of Orange who escaped."
+      },
+      {
+       "text": "They were captured while leading armies against Alba's soldiers in the field.",
+       "correct": false,
+       "feedback": "The text says Alba arrested them and had them beheaded. It does not say they fought him."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Philip was fighting the Turks in the Mediterranean and the rebels in the north, and even his bullion from Peru and Mexico could not cover the bills. In 1575 his government went bankrupt. His unpaid soldiers mutinied, and in 1576 they sacked Antwerp, killing thousands of its people. The outrage briefly united all seventeen provinces. It did not last. The southern provinces, mostly Catholic, made peace with Philip by 1579. The northern provinces formed their own alliance, the Union of Utrecht. In 1581 they formally declared that Philip had lost the right to rule them because he had broken his duties as a king.</p></blockquote><p>Which choice best states the main idea of the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Unpaid Spanish soldiers mutinied in 1576 and killed thousands of the people of Antwerp, which shocked the provinces.",
+       "correct": false,
+       "feedback": "This is one event in the passage, so it is too narrow to be the main idea."
+      },
+      {
+       "text": "Wars fought over religion always leave a kingdom permanently divided, no matter what its rulers try to do.",
+       "correct": false,
+       "feedback": "This is too broad. The passage describes one case and does not claim a rule about all wars."
+      },
+      {
+       "text": "All seventeen provinces stayed united against Philip until the northern provinces left the alliance in 1581.",
+       "correct": false,
+       "feedback": "This distorts the passage, which says the unity did not last and the south made peace by 1579."
+      },
+      {
+       "text": "Spain's money troubles led to a sack of Antwerp that briefly united the provinces before they divided in two.",
+       "correct": true,
+       "feedback": "Correct. This is the organizing point of the whole passage, not just one detail or an overreach."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>The VOC was a joint-stock company. Anyone with money, from a rich merchant to a widow with some savings, could buy a share. If the voyages failed, an investor lost only what he or she had put in. Shares could be resold, and that was the clever part. A buyer no longer had to wait years for a fleet to return. He could sell his share to someone else in the meantime. ______</p></blockquote><p>Which choice most logically completes the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Investors could put money into risky voyages without tying it up for years at a time.",
+       "correct": true,
+       "feedback": "Correct. The passage sets this up, and this choice follows from it with the fewest added assumptions."
+      },
+      {
+       "text": "The company could avoid risk altogether, because no ship was ever lost on the long voyage.",
+       "correct": false,
+       "feedback": "The passage says investors could lose what they put in. It does not say ships were never lost."
+      },
+      {
+       "text": "Only the richest merchants could afford to take part in the company's voyages.",
+       "correct": false,
+       "feedback": "The passage says anyone with money, even a widow with savings, could buy a share."
+      },
+      {
+       "text": "Share prices would never change once the fleet had sailed for the East Indies.",
+       "correct": false,
+       "feedback": "Nothing in the passage supports this. It says only that shares could be resold."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>The Republic had solved its first-order problems better than any state of its day. It kept order, raised taxes people would pay, and defended itself with a navy. Its habits of thrift, hard work, and trust in contracts helped create wealth that a king could not command. Foreign visitors remarked that Dutch merchants dressed plainly, kept honest weights, and paid their debts, and that a handshake in Amsterdam counted for a great deal.</p></blockquote><p>Which choice best supports the claim that Dutch habits of trust helped create wealth that a king could not command?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "In the 1630s the prices of rare tulip bulbs rose wildly for a few winters and then collapsed in ruin.",
+       "correct": false,
+       "feedback": "This shows a burst of speculation, which does not support the claim that trust created wealth."
+      },
+      {
+       "text": "Rembrandt's Night Watch of 1642 was painted as a commission for a citizen militia of Amsterdam.",
+       "correct": false,
+       "feedback": "This is a fact about art. It says nothing about trust or wealth."
+      },
+      {
+       "text": "Dutch cities could borrow more cheaply than the king of Spain because lenders trusted them to repay.",
+       "correct": true,
+       "feedback": "Correct. Identify the claim, then pick the direct evidence for it. The others are related to the topic but do not support this claim."
+      },
+      {
+       "text": "Amsterdam merchants built tall, narrow houses because the city taxed a house by the width of its front.",
+       "correct": false,
+       "feedback": "This explains a building style, not the link between trust and wealth."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Why were the Americas so exposed? Many of Europe's worst diseases began in herd animals, and people caught them from the cattle, pigs, and fowl they lived beside. Europeans had kept such animals for thousands of years, and adults who had survived an outbreak as children were often protected from the next one. The Americas had few large herd animals, so the same sicknesses had never crossed over to the people who tended them. A European who had lived through smallpox was safe from it. In the Americas no one had, and it fell on the young and the old alike.</p></blockquote><p>According to the text, why were the Americas so exposed to Europe's diseases?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The people of the Americas had given up their herd animals long before Europeans arrived in 1492.",
+       "correct": false,
+       "feedback": "The text says the Americas had few large herd animals. It does not say people gave them up."
+      },
+      {
+       "text": "Herd animals in the Americas carried smallpox, which killed many of the people who tended them each year.",
+       "correct": false,
+       "feedback": "This reverses the text. The sicknesses had not crossed over because the herds were few."
+      },
+      {
+       "text": "Europeans had kept herd animals for thousands of years, so no European ever died of these diseases.",
+       "correct": false,
+       "feedback": "This goes too far. The text says survivors of an outbreak were often protected, not that no one died."
+      },
+      {
+       "text": "The Americas had few large herd animals, so the diseases that began in herds never reached the people.",
+       "correct": true,
+       "feedback": "Correct. Locate, verify, and match: the text states this directly."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Why was the potato so useful? An acre planted in potatoes gives more calories than an acre of wheat, and the crop grows in cold, wet ground where grain does poorly. The same fact carried a risk, because a people that depends on one crop is in trouble when it fails, and Ireland would learn that in the 1840s.</p></blockquote><p>Which choice best states the main idea of the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "An acre planted in potatoes gives more calories than an acre of wheat, and the crop grows in cold, wet ground.",
+       "correct": false,
+       "feedback": "This is one fact the passage gives, so it is too narrow."
+      },
+      {
+       "text": "The potato fed growing populations by giving more calories per acre than wheat, but relying on one crop was risky.",
+       "correct": true,
+       "feedback": "Correct. This is the organizing point of the whole passage, not just one detail or an overreach."
+      },
+      {
+       "text": "Any people that depends on a single food will sooner or later suffer a terrible famine, as the Irish did in the 1840s.",
+       "correct": false,
+       "feedback": "This is too broad. The passage warns of a risk but does not say famine always follows."
+      },
+      {
+       "text": "The potato was useful only in Ireland, where it grew in cold, wet ground that wheat could not tolerate.",
+       "correct": false,
+       "feedback": "This distorts the passage, which says the crop does well in cold, wet ground generally and names Ireland only as a later example of the risk."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Africans were not passive in what followed. Powerful states such as Asante and Dahomey sold captives to European ships, often prisoners from their own wars. The Europeans mostly stayed near the coast, partly because tropical diseases killed them and partly because African rulers did not allow them inland. Merchants paid in cloth, iron, guns, and shells. The guns made the wars that produced more captives.</p></blockquote><p>Which choice best supports the idea that African rulers helped set the terms of the trade?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Portuguese traders built a fort at Elmina, in what is now Ghana, in 1482 to protect the trade.",
+       "correct": false,
+       "feedback": "This shows what the Europeans did. It does not show that African rulers shaped the terms."
+      },
+      {
+       "text": "About twelve and a half million Africans were loaded onto ships between the 1500s and the 1860s.",
+       "correct": false,
+       "feedback": "This gives the scale of the trade, not who set its terms."
+      },
+      {
+       "text": "African rulers often refused goods they did not like, and a captain might wait weeks for a full cargo.",
+       "correct": true,
+       "feedback": "Correct. Identify the claim, then pick the direct evidence for it. The others are related to the topic but do not support this claim."
+      },
+      {
+       "text": "On average about one person in eight died during the Middle Passage, and sailors died at similar rates.",
+       "correct": false,
+       "feedback": "This describes the death rate on the voyage, not the bargaining on the coast."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>In 1772 Lord Mansfield heard the case of James Somerset, an enslaved man whom his owner had brought to England and meant to send to Jamaica. Mansfield ruled that Somerset could not be forced out of the country, and many people read the decision as saying that slavery had no basis in English law, though it went on in the colonies.</p></blockquote><p>According to the text, what did Lord Mansfield rule in the case of James Somerset?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Somerset could not be forced out of the country.",
+       "correct": true,
+       "feedback": "Correct. Locate, verify, and match: the text states this directly."
+      },
+      {
+       "text": "Slavery was ended throughout the British Empire.",
+       "correct": false,
+       "feedback": "The text says slavery went on in the colonies."
+      },
+      {
+       "text": "Somerset's owner could send him to Jamaica.",
+       "correct": false,
+       "feedback": "The text says the owner meant to send him to Jamaica, and Mansfield ruled he could not be forced out of the country."
+      },
+      {
+       "text": "Somerset's owner had to be paid for his loss.",
+       "correct": false,
+       "feedback": "The text does not mention payment in this case."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Charles's father, James I, had written books defending the divine right of kings, and he had also learned to work with Parliament when he had to. Charles had less patience. Parliament's strongest tool was the purse. Custom allowed the king to collect duties on trade, called tonnage and poundage, and Parliament usually granted them to each new king for life. In 1625 it granted them for one year only, so that Charles would have to ask again. He collected them anyway. The quarrel was not about whether the king could rule. It was about whether he could rule without asking.</p></blockquote><p>Which choice best states the main idea of the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The dispute was over whether the king could rule without asking Parliament for the money he wanted.",
+       "correct": true,
+       "feedback": "Correct. This is the organizing point of the whole passage, not just one detail or an overreach."
+      },
+      {
+       "text": "Parliament granted Charles the duties called tonnage and poundage for only one year, not for life.",
+       "correct": false,
+       "feedback": "This is one event in the passage, so it is too narrow."
+      },
+      {
+       "text": "Kings of England in this period ruled without any limits on their power from Parliament.",
+       "correct": false,
+       "feedback": "This is too broad, and it contradicts the passage, where Parliament's power over money was a real check."
+      },
+      {
+       "text": "Charles and Parliament disagreed about whether the king should rule at all or should step aside.",
+       "correct": false,
+       "feedback": "This distorts the passage, which says the quarrel was not about whether the king could rule."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>The war also stirred up ideas that frightened the men who had started it. In 1647 army officers and common soldiers met in the church at Putney to debate what kind of government England should have. A group called the Levellers wanted most men to have the vote. Colonel Thomas Rainsborough said that \"the poorest he that is in England hath a life to live, as the greatest he.\" Cromwell's son-in-law, Henry Ireton, answered that those with no property had no lasting stake in the kingdom. If they could vote, they might vote to take property away from others.</p></blockquote><p>According to the text, why did Henry Ireton oppose giving the vote to men with no property?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He believed that men with no property were too poor to understand the issues on the ballot.",
+       "correct": false,
+       "feedback": "The text gives a different reason, about their stake in the kingdom."
+      },
+      {
+       "text": "He thought most of the poorest men in England supported the king against Parliament.",
+       "correct": false,
+       "feedback": "The text does not say which side they supported."
+      },
+      {
+       "text": "He thought they had no lasting stake in the kingdom and might vote to take property.",
+       "correct": true,
+       "feedback": "Correct. Locate, verify, and match: the text states this directly."
+      },
+      {
+       "text": "He feared the Scots, who were allied with Parliament, would accept only a government chosen by property owners.",
+       "correct": false,
+       "feedback": "The text does not connect Ireton's argument to the Scots."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>England had become a constitutional monarchy. The king was still powerful, but he now ruled under rules he did not control. In the same year the Toleration Act allowed Protestants who disagreed with the Church of England to hold their own services. Catholics were not included.</p></blockquote><p>Which choice best supports the idea that the king now ruled under rules he did not control?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "William died in 1702 after his horse stumbled in a molehill, and Jacobites toasted the mole.",
+       "correct": false,
+       "feedback": "This is a fact about William's death, unrelated to limits on the king."
+      },
+      {
+       "text": "The Mutiny Act of 1689 expired after a year, so a king who wanted an army had to call Parliament.",
+       "correct": true,
+       "feedback": "Correct. Identify the claim, then pick the direct evidence for it. The others are related to the topic but do not support this claim."
+      },
+      {
+       "text": "Mary died of smallpox in 1694, and William ruled alone for the remaining years of his reign.",
+       "correct": false,
+       "feedback": "This tells how William came to rule alone, not what limited him."
+      },
+      {
+       "text": "Charles II chartered the Royal Society in 1662, a group of learned men who tested ideas by experiment.",
+       "correct": false,
+       "feedback": "This happened earlier and has nothing to do with limits on royal power."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>William marched slowly toward London. James had the larger army, but his officers began to desert him. One was John Churchill, the future Duke of Marlborough. Another was James's own daughter Anne. ______</p></blockquote><p>Which choice most logically completes the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Those desertions had little effect, since James still had the larger army.",
+       "correct": false,
+       "feedback": "The passage makes the desertions the reason James lost heart, so they did matter."
+      },
+      {
+       "text": "Those desertions were arranged by William's officers during a battle at Exeter.",
+       "correct": false,
+       "feedback": "The passage mentions no battle and does not say William arranged them."
+      },
+      {
+       "text": "Those desertions forced William to turn back before he reached London in December.",
+       "correct": false,
+       "feedback": "The passage says James fled, not that William turned back."
+      },
+      {
+       "text": "Those desertions left James with a large army that could not be counted on.",
+       "correct": true,
+       "feedback": "Correct. The passage sets this up, and this choice follows from it with the fewest added assumptions."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>The ceremony had a purpose. Only the king could grant pensions, offices, and army commands, so nobles had to compete for his favor. Picture a count whose family has held a castle in the countryside for centuries. If he stays home, he is lord of a district, but he has no pension, no post for his sons, and no chance of an army command. If he goes to Versailles, he gets a tiny room, a pile of bills for clothes and cards, and a chance.</p></blockquote><p>Which choice best states the main idea of the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "A count who stayed on his estate would have no pension, no post for his sons, and no chance of an army command.",
+       "correct": false,
+       "feedback": "This is one part of the passage, the cost of staying away, so it is too narrow."
+      },
+      {
+       "text": "Because only the king granted pensions, offices, and commands, Versailles made nobles compete for his favor.",
+       "correct": true,
+       "feedback": "Correct. This is the organizing point of the whole passage, not just one detail or an overreach."
+      },
+      {
+       "text": "Kings in the 1600s kept their nobles loyal mainly by giving them gifts, titles, and honors at court.",
+       "correct": false,
+       "feedback": "This is too broad. The passage describes Louis and Versailles, not all kings."
+      },
+      {
+       "text": "Nobles who moved to Versailles gained wealth and a measure of independence from the king.",
+       "correct": false,
+       "feedback": "This distorts the passage, which says a noble at Versailles gets a tiny room and a pile of bills."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Provinces, towns, courts, and the Church all had old privileges that he had to respect. Nobles and clergy paid few taxes, and the burden fell on peasants. A famous line says Louis declared, \"I am the state.\" No reliable record shows that he said it, and the real king worked inside limits that the line leaves out.</p></blockquote><p>Which choice best supports the claim that the real Louis worked inside limits?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "To remove an officeholder, the king had to repay the price of his post, which he rarely could.",
+       "correct": true,
+       "feedback": "Correct. Identify the claim, then pick the direct evidence for it. The others are related to the topic but do not support this claim."
+      },
+      {
+       "text": "Louis chose the sun as his emblem, since everything in the kingdom revolved around the king.",
+       "correct": false,
+       "feedback": "This supports the image of an all-powerful king, the opposite of the claim."
+      },
+      {
+       "text": "Louis announced that he would name no chief minister and kept that promise for fifty-four years.",
+       "correct": false,
+       "feedback": "This shows how involved Louis was, not that he faced limits."
+      },
+      {
+       "text": "Thousands of nobles and servants lived at Versailles after the whole court moved there in 1682.",
+       "correct": false,
+       "feedback": "This describes the size of the court, not limits on the king."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Louis believed that a united kingdom needed a single faith, and his bishops agreed. From the 1660s he cut away Huguenot rights. He closed their schools and shut them out of many professions. In 1681 a law allowed children as young as seven to turn Catholic over their parents' wishes. From 1681 his agents used the dragonnade, beginning in the western province of Poitou. They quartered soldiers in Huguenot homes and let them behave as roughly as they liked until the family gave in. Thousands converted to make it stop. Reports reached Versailles that whole districts had turned Catholic, and the numbers looked like a triumph.</p></blockquote><p>According to the text, how did the dragonnade pressure Huguenot families to convert?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Huguenot children were taken to Catholic schools until their parents agreed to convert.",
+       "correct": false,
+       "feedback": "The text says a law let children as young as seven turn Catholic, but that is not the dragonnade."
+      },
+      {
+       "text": "Huguenot pastors were jailed until their congregations agreed to convert to Catholicism.",
+       "correct": false,
+       "feedback": "The text does not say this."
+      },
+      {
+       "text": "Huguenots were forbidden to hold any office or trade until they agreed to convert.",
+       "correct": false,
+       "feedback": "The text says Huguenots were shut out of many professions, which is a separate measure."
+      },
+      {
+       "text": "Soldiers were quartered in Huguenot homes and behaved roughly until the family gave in.",
+       "correct": true,
+       "feedback": "Correct. Locate, verify, and match: the text states this directly."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Britain, with its Parliament, its bank, and its navy, was becoming the leading sea power and the best borrower in Europe. Parliament voted the taxes that paid British debts, and lenders trusted that. A French lender had only ______</p></blockquote><p>Which choice most logically completes the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "the pledge of particular taxes.",
+       "correct": false,
+       "feedback": "This is what a British lender had. The passage sets the French lender against that."
+      },
+      {
+       "text": "a promise from a Parliament.",
+       "correct": false,
+       "feedback": "France had no Parliament that voted taxes in this way. That was Britain's advantage."
+      },
+      {
+       "text": "nothing but the king's word.",
+       "correct": true,
+       "feedback": "Correct. The passage sets this up, and this choice follows from it with the fewest added assumptions."
+      },
+      {
+       "text": "a promise backed by the navy.",
+       "correct": false,
+       "feedback": "The passage ties trust to Parliament and its taxes, not to the navy."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Newton also stood on the work of astronomers. Johannes Kepler had shown early in the 1600s that the planets move in ellipses rather than perfect circles. Galileo Galilei turned a telescope on the sky in 1609 and 1610 and saw mountains on the moon and four moons circling Jupiter, sights that did not fit the old picture of perfect, unchanging heavens.</p></blockquote><p>According to the text, what had Johannes Kepler shown early in the 1600s?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Mountains stand on the moon, as anyone could see through a telescope.",
+       "correct": false,
+       "feedback": "That was Galileo's observation with his telescope, not Kepler's finding."
+      },
+      {
+       "text": "Four moons circle Jupiter, which did not fit the old picture of the heavens.",
+       "correct": false,
+       "feedback": "That was another of Galileo's observations, not Kepler's."
+      },
+      {
+       "text": "The planets move in ellipses rather than in perfect circles.",
+       "correct": true,
+       "feedback": "Correct. Locate, verify, and match: the text states this directly."
+      },
+      {
+       "text": "The heavens are perfect and unchanging, just as the old picture said.",
+       "correct": false,
+       "feedback": "That is the old picture that the work of Kepler and Galileo did not fit."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Some kings and queens liked the new ideas, at least when it helped them. Frederick the Great of Prussia corresponded with Voltaire and ended the use of torture in his courts. He called himself the first servant of the state, and he invited Voltaire to live at his palace, though the friendship ended in quarrels. Catherine the Great of Russia read the Encyclopédie, and she bought Diderot's library to help him with money. Emperor Joseph II of Austria ended serfdom in parts of his lands. But these rulers did not give up their own power. They wanted to reform from above, not to share authority. The Enlightenment could serve absolute monarchs as easily as it could challenge them.</p></blockquote><p>Which choice best states the main idea of the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Frederick the Great corresponded with Voltaire, ended the use of torture, and called himself a servant.",
+       "correct": false,
+       "feedback": "This is one example in the passage, so it is too narrow."
+      },
+      {
+       "text": "Every ruler in Europe accepted Enlightenment ideas whenever those ideas helped him govern.",
+       "correct": false,
+       "feedback": "This is too broad. The passage names three rulers, not all of them."
+      },
+      {
+       "text": "The Enlightenment gave rulers no way to strengthen their power, only ways to limit it.",
+       "correct": false,
+       "feedback": "This reverses the passage, which says it could serve absolute monarchs."
+      },
+      {
+       "text": "Some rulers welcomed Enlightenment ideas but used them to reform from above while keeping power.",
+       "correct": true,
+       "feedback": "Correct. This is the organizing point of the whole passage, not just one detail or an overreach."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>A republic, he said, runs on virtue, a monarchy on honor, and a despotism on fear. His main fear was that anyone who holds power is tempted to abuse it. His remedy was that power should check power.</p></blockquote><p>Which choice best supports the idea that Montesquieu wanted to limit power by dividing it?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "One body makes the laws, another carries them out, a third judges, and each can stop the others.",
+       "correct": true,
+       "feedback": "Correct. Identify the claim, then pick the direct evidence for it. The others are related to the topic but do not support this claim."
+      },
+      {
+       "text": "He compared governments as a scientist compares plants, sorting them by their features.",
+       "correct": false,
+       "feedback": "This describes his method, not a plan for dividing power."
+      },
+      {
+       "text": "He wrote that a republic runs on virtue, a monarchy on honor, and a despotism on fear.",
+       "correct": false,
+       "feedback": "This describes what drives each kind of government, not how power is divided."
+      },
+      {
+       "text": "His Persian Letters mocked Louis XIV's court through the eyes of two imaginary Persian visitors.",
+       "correct": false,
+       "feedback": "This is a fact about a different book, not about dividing power."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Notice how the five answers differ. Locke said that government rests on the consent of the governed and exists to protect rights. Rousseau agreed on consent but placed it in the whole community. Montesquieu doubted that any person or group could be trusted with unchecked power. Voltaire wanted tolerance and justice, and Smith wanted free people working within just laws.</p></blockquote><p>Which choice best states the main idea of the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Locke and Rousseau agreed on every point about how a legitimate government should be formed.",
+       "correct": false,
+       "feedback": "This distorts the passage, which says they agreed on consent but differed about where it lies."
+      },
+      {
+       "text": "The five writers gave different answers about what makes a government legitimate and free.",
+       "correct": true,
+       "feedback": "Correct. This is the organizing point of the whole passage, not just one detail or an overreach."
+      },
+      {
+       "text": "Voltaire and Smith were the only two of the five writers who cared about justice and law.",
+       "correct": false,
+       "feedback": "This is too narrow, and the passage does not say this."
+      },
+      {
+       "text": "Montesquieu alone among the five believed that those who hold power should be limited.",
+       "correct": false,
+       "feedback": "This distorts the passage, which says Locke tied government to rights as well."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>The colonies themselves could not agree on how to meet the danger. In 1754 delegates from several of them met at Albany, New York, to bargain with the Iroquois and to plan a common defense. Benjamin Franklin proposed a union with a grand council for all the colonies, and no colonial assembly would accept it, because each guarded its own powers.</p></blockquote><p>According to the text, why did no colonial assembly accept Franklin's plan for a union?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The assemblies feared that the Iroquois would control the council.",
+       "correct": false,
+       "feedback": "The text gives no such fear."
+      },
+      {
+       "text": "The assemblies wanted France to join the union.",
+       "correct": false,
+       "feedback": "The text does not say this."
+      },
+      {
+       "text": "The colonies had already agreed on a common defense.",
+       "correct": false,
+       "feedback": "The text says the colonies could not agree on how to meet the danger."
+      },
+      {
+       "text": "Each assembly guarded its own powers and would not share them.",
+       "correct": true,
+       "feedback": "Correct. Locate, verify, and match: the text states this directly."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Because lenders trusted Parliament, Britain could borrow cheaply and borrow a great deal. The French king had to pay higher interest, because kings had been known to delay payment or cancel their debts. ______</p></blockquote><p>Which choice most logically completes the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "In a long and costly war, Britain could raise money only by cancelling its debts, as the kings of France had often done.",
+       "correct": false,
+       "feedback": "The passage says kings cancelled debts, and that this is why they paid more. Britain did not do this."
+      },
+      {
+       "text": "In a long and costly war, Britain would have borrowed less than France, since Parliament controlled taxes and distrusted loans.",
+       "correct": false,
+       "feedback": "The passage says Britain could borrow a great deal, not less."
+      },
+      {
+       "text": "In a long and costly war, Britain could raise money far more cheaply and quickly than France could.",
+       "correct": true,
+       "feedback": "Correct. The passage sets this up, and this choice follows from it with the fewest added assumptions."
+      },
+      {
+       "text": "In a long and costly war, Britain would have paid higher interest than the French king did, since lenders feared Parliament.",
+       "correct": false,
+       "feedback": "This reverses the passage, which says the French king paid more."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>A few of the wealthy and powerful held most of the exemptions, and they also held the places in the courts and in the Church that could ______</p></blockquote><p>Which choice most logically completes the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "reduce the taxes that peasants paid.",
+       "correct": false,
+       "feedback": "The passage says peasants carried the burden. Nothing suggests these places helped them."
+      },
+      {
+       "text": "defend the exemptions that they held.",
+       "correct": true,
+       "feedback": "Correct. The passage sets this up, and this choice follows from it with the fewest added assumptions."
+      },
+      {
+       "text": "open the highest offices to rich commoners.",
+       "correct": false,
+       "feedback": "The passage says rich commoners were shut out of the top."
+      },
+      {
+       "text": "end the sale of offices and noble rank.",
+       "correct": false,
+       "feedback": "The passage describes the powerful as protecting their position, not ending it."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Britain's ruling class was taxed, sat in Parliament, and could argue its way to a new settlement. France's ruling class was exempt, and the one body that could call everyone together had been silent for 175 years. The Old Regime was strained by debt, but what finally broke it was the unwillingness of the privileged to share the load, and a king who could neither lead reform nor crush resistance.</p></blockquote><p>Which choice best supports the claim that the privileged were unwilling to share the tax burden?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "When Calonne proposed a land tax on every landowner without exemptions, the Notables refused it.",
+       "correct": true,
+       "feedback": "Correct. Identify the claim, then pick the direct evidence for it. The others are related to the topic but do not support this claim."
+      },
+      {
+       "text": "A hailstorm in July 1788 flattened crops across northern France and drove up the price of bread.",
+       "correct": false,
+       "feedback": "This is a cause of hunger, not evidence about what the privileged would pay."
+      },
+      {
+       "text": "Louis XVI, who became king at nineteen, loved hunting and tinkering with locks as a hobby.",
+       "correct": false,
+       "feedback": "This describes the king's hobbies, not the unwillingness of the privileged."
+      },
+      {
+       "text": "Pamphlets called Marie Antoinette Madame Deficit, blaming her spending for the country's debts.",
+       "correct": false,
+       "feedback": "This shows how the queen was blamed, not what the privileged would pay."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>The Bastille held little of military value, but it mattered as a symbol. That day the king wrote one word in his hunting diary: \"Nothing.\" He meant that he had killed no game. When he heard the news that night, a famous story says, he asked if it was a revolt. The answer, from a nobleman, was \"No, Sire, it is a revolution.\" Whether or not that line is true, soldiers were wavering, Paris belonged to its own militia, and the king had lost control of his capital.</p></blockquote><p>Which choice best supports the claim that the Bastille mattered mainly as a symbol?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "When the crowd broke in, it found only seven prisoners inside the fortress.",
+       "correct": true,
+       "feedback": "Correct. Identify the claim, then pick the direct evidence for it. The others are related to the topic but do not support this claim."
+      },
+      {
+       "text": "About a hundred of the attackers died in the fighting.",
+       "correct": false,
+       "feedback": "This describes the cost of the attack, not the value of what was inside."
+      },
+      {
+       "text": "The crowd had already taken thousands of muskets from the Invalides that morning.",
+       "correct": false,
+       "feedback": "This shows where the crowd got weapons, not what the Bastille meant."
+      },
+      {
+       "text": "De Launay was seized and killed, and his head was carried through the streets on a pike.",
+       "correct": false,
+       "feedback": "This describes the fate of the governor, not the fortress's importance."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Varennes also split the revolutionaries. On July 17, 1791, a crowd gathered on the Champ de Mars to sign a petition calling for the king to be removed. The Assembly had declared martial law, and Lafayette's National Guard fired on the crowd and killed dozens of people. A Revolution that had begun with soldiers refusing to fire on Parisians had now fired on them. After that day moderates and radicals ______</p></blockquote><p>Which choice most logically completes the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "united behind the National Guard.",
+       "correct": false,
+       "feedback": "The passage says the National Guard fired on the crowd, which would divide people, not unite them."
+      },
+      {
+       "text": "trusted each other less than before.",
+       "correct": true,
+       "feedback": "Correct. The passage sets this up, and this choice follows from it with the fewest added assumptions."
+      },
+      {
+       "text": "agreed that the king should be removed.",
+       "correct": false,
+       "feedback": "The petition for removal is what divided them. The passage does not say they agreed."
+      },
+      {
+       "text": "gave up politics for the army.",
+       "correct": false,
+       "feedback": "Nothing in the passage suggests this."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>In August 1793 it ordered the levée en masse. The decree gave every group a duty: young men were to fight, married men were to forge weapons and carry supplies, women were to make tents and nurse in hospitals, and old men were to gather in the squares to rouse courage.</p></blockquote><p>According to the text, what duty did the decree of 1793 give to women?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "To forge weapons and carry supplies.",
+       "correct": false,
+       "feedback": "The text gives this duty to married men."
+      },
+      {
+       "text": "To gather in the squares to rouse courage.",
+       "correct": false,
+       "feedback": "The text gives this duty to old men."
+      },
+      {
+       "text": "To fight with the army.",
+       "correct": false,
+       "feedback": "The text gives this duty to young men."
+      },
+      {
+       "text": "To make tents and nurse in hospitals.",
+       "correct": true,
+       "feedback": "Correct. Locate, verify, and match: the text states this directly."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Robespierre was not a cruel man by temper, and that is what makes his case so troubling. He believed he was defending a pure cause against corrupt enemies. Once a leader decides that disagreement is treason, every critic becomes a traitor, and there is no limit to the list. A free republic needs ways to settle quarrels peacefully, and the Terror had destroyed them.</p></blockquote><p>Which choice best states the main idea of the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Robespierre was not cruel by temper, and that is what makes his case so troubling to historians.",
+       "correct": false,
+       "feedback": "This is one point in the passage, so it is too narrow."
+      },
+      {
+       "text": "Leaders who believe they serve a pure cause always destroy the republics that they claim to defend.",
+       "correct": false,
+       "feedback": "This is too broad. The passage discusses one leader."
+      },
+      {
+       "text": "Robespierre's belief in a pure cause led him to treat any disagreement as treason against it.",
+       "correct": true,
+       "feedback": "Correct. This is the organizing point of the whole passage, not just one detail or an overreach."
+      },
+      {
+       "text": "Robespierre knew his critics were innocent but had them killed anyway to protect his own power.",
+       "correct": false,
+       "feedback": "This distorts the passage, which says he believed he was defending a pure cause against corrupt enemies."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>His most lasting work was the Napoleonic Code of 1804, a single set of laws for the nation. In the old France the law had differed from province to province, and a family dispute could turn on where you happened to live. A commission of lawyers drew on Roman law and the older customs, and Napoleon sat in on many of its sessions himself. The Code kept the great gains of 1789: equality before the law, an end to feudal privilege, protection of property, and religious freedom. But it also ______</p></blockquote><p>Which choice most logically completes the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "ended equality before the law for most men.",
+       "correct": false,
+       "feedback": "The passage says the Code kept equality before the law."
+      },
+      {
+       "text": "restored the feudal privileges of the old nobility.",
+       "correct": false,
+       "feedback": "The passage says the Code kept the end of feudal privilege."
+      },
+      {
+       "text": "gave husbands wide power over wives and children.",
+       "correct": true,
+       "feedback": "Correct. The passage sets this up, and this choice follows from it with the fewest added assumptions."
+      },
+      {
+       "text": "let each province keep its own laws.",
+       "correct": false,
+       "feedback": "The passage says the Code was a single set of laws for the whole nation."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>His men followed him because he won, and because he promised that a soldier could rise as far as his talent would carry him. Many of his marshals had been sergeants or sons of innkeepers. That promise tied the army to him more than it tied it to any government.</p></blockquote><p>Which choice best supports the idea that the army was loyal to Napoleon more than to the government?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "In 1797 Napoleon negotiated the Campo Formio peace himself while the Directory looked on.",
+       "correct": true,
+       "feedback": "Correct. Identify the claim, then pick the direct evidence for it. The others are related to the topic but do not support this claim."
+      },
+      {
+       "text": "Napoleon was especially good at mathematics, a skill that suited the artillery branch.",
+       "correct": false,
+       "feedback": "This describes his schooling, not the loyalty of the army."
+      },
+      {
+       "text": "Murat rode across Paris in the night to bring up cannon before the crowd could seize them.",
+       "correct": false,
+       "feedback": "This describes one night's defense, not the army's loyalty."
+      },
+      {
+       "text": "Napoleon married Josephine de Beauharnais, a widow, two days before leaving for the front.",
+       "correct": false,
+       "feedback": "This is a fact about his marriage, not the army's loyalty."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>But in October 1813, at Leipzig, the \"Battle of the Nations,\" Russia, Prussia, Austria, and Sweden defeated Napoleon. That autumn the allies offered peace that would have left him on the throne of a France that kept the Rhine and the Alps as its frontiers. Napoleon was slow to answer, and by the time he agreed, they had hardened their terms. ______</p></blockquote><p>Which choice most logically completes the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "His slowness persuaded the allies to soften their terms again before the end of the year.",
+       "correct": false,
+       "feedback": "The passage says the allies hardened their terms because he was slow."
+      },
+      {
+       "text": "His slowness cost him a peace that would have let him keep the throne of France.",
+       "correct": true,
+       "feedback": "Correct. The passage sets this up, and this choice follows from it with the fewest added assumptions."
+      },
+      {
+       "text": "His quick agreement allowed him to keep the Rhine and the Alps as his frontiers.",
+       "correct": false,
+       "feedback": "The passage says he was slow, not quick."
+      },
+      {
+       "text": "His slowness gave him time to rebuild the army that had won the great battle at Leipzig.",
+       "correct": false,
+       "feedback": "The passage says he lost at Leipzig."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<blockquote><p>Napoleon carried equality before the law, the end of feudal privilege, and his Code across Europe. In Germany and Italy, people who welcomed those reforms came to resent the foreign army that had brought them. He also silenced the press, ended elections, and fought wars that cost millions of lives. His rise was possible only because of the Revolution, but his rule undid its promise of liberty. Both parts of the story are true. Next week you will see how the winners at Vienna tried to rebuild Europe, and why they could not make the world go back.</p></blockquote><p>Which choice best states the main idea of the text?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Napoleon carried equality before the law, the end of feudal privilege, and his Code across Europe.",
+       "correct": false,
+       "feedback": "This is only half of the passage, so it is too narrow."
+      },
+      {
+       "text": "Revolutions always end by destroying the liberty they promised to protect, as this one did.",
+       "correct": false,
+       "feedback": "This is too broad. The passage discusses one revolution."
+      },
+      {
+       "text": "People in Germany and Italy rejected Napoleon's reforms because they disliked the ideas themselves.",
+       "correct": false,
+       "feedback": "This distorts the passage, which says they welcomed the reforms and resented the foreign army."
+      },
+      {
+       "text": "Napoleon spread the Revolution's reforms across Europe but also ended its liberty at home.",
+       "correct": true,
+       "feedback": "Correct. This is the organizing point of the whole passage, not just one detail or an overreach."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "text_only",
+     "text": "<p>Read the passage below. Then answer the ten questions that follow it.</p><p>1&nbsp;&nbsp;Jean-Jacques Rousseau was born in Geneva, the son of a watchmaker, and his mother died days after his birth. He ran away from his apprenticeship at sixteen. He was an outsider among the philosophes. In 1750 he won a prize from the academy of Dijon with an essay arguing that the arts and sciences had corrupted morals. Voltaire read his next essay, on inequality, and joked in a letter that it made him want to walk on all fours. Where they praised progress, he worried that civilization had made people vain and unequal. In The Social Contract, published in 1762, he opened with a famous line: \"Man is born free, and everywhere he is in chains.\"</p><p>2&nbsp;&nbsp;For Rousseau, a government is legitimate only when it follows the general will, the common good of the whole people, expressed when citizens make their own laws. He separated it from the will of all, which is only the sum of what each person wants for himself. A citizen who refused to obey the general will, he wrote, could be compelled to, and he called this being forced to be free. He admired the citizen virtue of early Rome and of Sparta. Critics ask a hard question: who decides what the general will is? Revolutionaries would later claim to speak for it. Rousseau did not choose how others would use his words. In 1762 French authorities condemned his Social Contract, and he had to flee France. Geneva, the city he was proud to call home, burned it too. He also believed that citizens would only love their country if they shared festivals, schools, and a common education that taught them to put the public good first.</p><p>3&nbsp;&nbsp;Rousseau had little patience with the English government that Montesquieu admired. In The Social Contract he wrote that the English people thought themselves free but were free only on election day. Once they had chosen their representatives, he said, they were slaves again. A people who let others make their laws had given up the very thing that made them free. He thought that real self-government was possible only in small states, such as the Swiss cantons and the old city-republics he admired.</p><p>4&nbsp;&nbsp;Adam Smith was a Scottish professor of moral philosophy and a friend of the philosopher David Hume. In the 1760s he traveled in France as a tutor and met Voltaire and the French economists. In 1759 he argued that people feel sympathy for one another and judge their own conduct by imagining how a fair observer would see it. In 1776 he published The Wealth of Nations. In it he described the division of labor. In a pin factory, he said, ten workers who each do one step can make thousands of pins a day. Smith counted about eighteen separate steps in a pin: one worker draws the wire, another straightens it, a third cuts it, a fourth sharpens the point. Ten workers who each made whole pins might make only a few hundred. By Smith's count, the ten men together could make more than forty thousand pins in a day.</p><p>5&nbsp;&nbsp;Smith had left his professor's chair at Glasgow in 1764 to tutor a young duke on a tour of France, and the lifetime pension he earned for the work gave him time to write. The Wealth of Nations took about ten years. It was published in March 1776, and the first edition sold out in about six months. Smith later took a post as a customs commissioner in Edinburgh, which let him see for himself the trade rules he had criticized.</p><p>6&nbsp;&nbsp;He wrote that a nation's wealth lay in what its people could make and buy, not in a pile of gold and silver. He thought that, under just laws, people who pursue their own interest can serve the public good as if guided by an invisible hand. He used that phrase only once in The Wealth of Nations. In the same book he wrote, \"It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their <u>regard</u> to their own interest.\" He also criticized slavery as unjust and wasteful. But he took justice, law, and good character for granted. A market without them would not work. Smith was also no flatterer of businessmen. He warned that when merchants of the same trade meet, the conversation usually ends in a plot against the public or a scheme to raise prices.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the passage, what did Rousseau say about the English people?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "They were free only because they lived in a small state like the Swiss cantons, which he admired.",
+       "correct": false,
+       "feedback": "Rousseau thought real self-government was possible only in small states, but he did not say the English lived in one."
+      },
+      {
+       "text": "They were free only on election day, then slaves again once they had chosen representatives.",
+       "correct": true,
+       "feedback": "Correct. Locate the part of the passage the question names, then match it to what the passage states."
+      },
+      {
+       "text": "They had given up their freedom by letting the English king make all of their laws for them.",
+       "correct": false,
+       "feedback": "The passage says he criticized letting representatives make the laws, not the king."
+      },
+      {
+       "text": "They were more free than any other people because their elected Parliament made their laws.",
+       "correct": false,
+       "feedback": "This reverses his point. He thought a people who let others make their laws had given up what made them free."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>As it is used in paragraph 6, the word <i>regard</i> most nearly means</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "admiration and respect for.",
+       "correct": false,
+       "feedback": "This is a common meaning of the word, but the sentence says the butcher acts from self-interest, not admiration."
+      },
+      {
+       "text": "a long, careful look at.",
+       "correct": false,
+       "feedback": "This fits the word's literal sense of looking, which does not work with someone's own interest."
+      },
+      {
+       "text": "agreement and approval of.",
+       "correct": false,
+       "feedback": "Self-interest does not mean agreeing with one's own interest, and the sentence does not use the word that way."
+      },
+      {
+       "text": "careful consideration of.",
+       "correct": true,
+       "feedback": "Correct. Put each choice into the sentence in place of the word and keep the one that preserves the sentence's meaning."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which choice best describes Rousseau's attitude toward the English system of representation, as paragraph 3 presents it?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Skeptical, because he doubted that electing representatives made a people free.",
+       "correct": true,
+       "feedback": "Correct. Find the words that carry judgment, then match both the direction and the strength of the attitude."
+      },
+      {
+       "text": "Admiring, because he praised it as the best and freest government of his time.",
+       "correct": false,
+       "feedback": "The passage says he had little patience with it, while Montesquieu was the one who admired it."
+      },
+      {
+       "text": "Furious, because he thought the English people deserved to be punished for their folly.",
+       "correct": false,
+       "feedback": "This is too strong. He criticized the system, and the passage shows no hatred of the people."
+      },
+      {
+       "text": "Indifferent, because he gave the English system very little thought at all.",
+       "correct": false,
+       "feedback": "He commented on it directly and sharply, so he was not indifferent."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In paragraph 2, the sentences \"Critics ask a hard question: who decides what the general will is? Revolutionaries would later claim to speak for it.\" mainly serve to</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "show that Rousseau fully supported the later Revolutionaries.",
+       "correct": false,
+       "feedback": "The passage says Rousseau did not choose how others would use his words."
+      },
+      {
+       "text": "prove that the critics had completely misunderstood the general will.",
+       "correct": false,
+       "feedback": "The sentences present the critics' question as a hard one, not as a mistake."
+      },
+      {
+       "text": "raise a doubt about how Rousseau's idea could be used.",
+       "correct": true,
+       "feedback": "Correct. Ask what job the sentences do for the paragraph, not just what they are about."
+      },
+      {
+       "text": "explain why Rousseau had to flee France after 1762.",
+       "correct": false,
+       "feedback": "The passage gives the reason in a later sentence, the condemnation of his book."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The passage most strongly suggests that Smith believed the \"invisible hand\" works when</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "people pursue their own interest, whatever laws or habits exist.",
+       "correct": false,
+       "feedback": "The passage says he took justice, law, and good character for granted and that a market without them would not work."
+      },
+      {
+       "text": "people pursue their own interest under just laws and good character.",
+       "correct": true,
+       "feedback": "Correct. Find what the passage establishes, then choose the answer that needs the fewest added assumptions."
+      },
+      {
+       "text": "merchants of the same trade meet together and agree on prices.",
+       "correct": false,
+       "feedback": "The passage says Smith warned that such meetings usually end in a plot against the public."
+      },
+      {
+       "text": "the phrase is repeated again and again throughout The Wealth of Nations.",
+       "correct": false,
+       "feedback": "The passage says he used the phrase only once."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which choice best describes the organization of the passage?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "An account of Rousseau's ideas and critics, then an account of Smith's life and ideas.",
+       "correct": true,
+       "feedback": "Correct. Say in a few words what each part does, then match the movement of the passage to the choice."
+      },
+      {
+       "text": "A debate in which Rousseau and Smith answer each other's arguments point by point in turn.",
+       "correct": false,
+       "feedback": "The passage never has either writer answer the other."
+      },
+      {
+       "text": "A history of the whole Enlightenment arranged by date, from the 1750 essay to the 1776 book.",
+       "correct": false,
+       "feedback": "The dates appear, but the passage is organized around two writers, not a timeline."
+      },
+      {
+       "text": "An argument that Smith's ideas were better and more practical than Rousseau's.",
+       "correct": false,
+       "feedback": "The passage describes both and does not rank them."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which choice best states the main idea of the passage?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Smith's example of the pin factory shows how dividing the work among many workers raises output.",
+       "correct": false,
+       "feedback": "This is one example from the passage, so it is too narrow to be the main idea."
+      },
+      {
+       "text": "Enlightenment thinkers all agreed that people are born free and that markets should be left alone.",
+       "correct": false,
+       "feedback": "This is too broad, and it distorts the passage, where Rousseau and Smith disagree and neither wants everything left alone."
+      },
+      {
+       "text": "Rousseau and Smith offered different ideas about freedom and wealth, each with limits or risks.",
+       "correct": true,
+       "feedback": "Correct. Read the whole passage, separate the central point from the examples, and reject choices that are too narrow, too broad, or distorted."
+      },
+      {
+       "text": "Rousseau and Smith argued that governments should leave citizens and merchants entirely alone.",
+       "correct": false,
+       "feedback": "This distorts both writers. Rousseau wanted citizens to be compelled to follow the general will, and Smith assumed just laws."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the passage, which sequence of events led to the writing of The Wealth of Nations?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "The book earned Smith a pension, and he then left his professorship to tutor a young duke on a tour of France.",
+       "correct": false,
+       "feedback": "This reverses the order. The pension came from the tutoring, and the book came after."
+      },
+      {
+       "text": "Smith became a customs commissioner in Edinburgh, and that post gave him time to write the book.",
+       "correct": false,
+       "feedback": "The passage says the customs post came later and let him see the trade rules he had criticized."
+      },
+      {
+       "text": "Smith met Voltaire in France, and Voltaire paid him a pension so that he could write the book.",
+       "correct": false,
+       "feedback": "The passage says the pension came from his work as a tutor, not from Voltaire."
+      },
+      {
+       "text": "Smith left his professorship to tutor a duke, and the pension he earned gave him time to write.",
+       "correct": true,
+       "feedback": "Correct. Name the relationship, find both ends in the passage, and check which event comes first."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Based on the passage, how would Rousseau most likely judge a large nation whose citizens vote only to choose lawmakers and never on the laws themselves?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "He would doubt that its citizens were truly free, since self-government suits only small states.",
+       "correct": true,
+       "feedback": "Correct. Find the principle the passage shows, restate it, and test each choice against the passage's own logic."
+      },
+      {
+       "text": "He would praise it, since electing representatives lets even a large state remain free and self-governing.",
+       "correct": false,
+       "feedback": "This reverses his view that a people who let others make their laws have given up what makes them free."
+      },
+      {
+       "text": "He would approve it, so long as its laws add up to the sum of what each citizen wants for himself.",
+       "correct": false,
+       "feedback": "This confuses the general will with the will of all, which the passage says is only the sum of private wants."
+      },
+      {
+       "text": "He would call it as free as England, which he held up as the model of a free people to follow.",
+       "correct": false,
+       "feedback": "The passage says he had little patience with England's system and called its people free only on election day."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the passage, by Smith's count, how many pins could ten workers who each did one step make in a day?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "Only a few hundred pins.",
+       "correct": false,
+       "feedback": "This is what the passage says ten workers who each made whole pins might make."
+      },
+      {
+       "text": "More than forty thousand pins.",
+       "correct": true,
+       "feedback": "Correct. Locate the part of the passage the question names, then match it to what the passage states."
+      },
+      {
+       "text": "Eighteen pins, one for each step.",
+       "correct": false,
+       "feedback": "Eighteen is the number of separate steps Smith counted, not the number of pins."
+      },
+      {
+       "text": "About a hundred thousand pins.",
+       "correct": false,
+       "feedback": "The passage says more than forty thousand, not a hundred thousand."
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In a few sentences, describe the test-taking strategy you used on this exam. What did you do first, and how did you decide between answer choices?</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "file_upload",
+     "text": "<p><strong>Final question: record your answer.</strong></p><p>Record a single video of about five minutes that answers all three questions below, one after another, in your own words. Speak in your own voice and do not read from a script. You may glance at brief notes, but each answer must explain the connections yourself, using at least two examples from the passages in this exam. You can record on a phone, a tablet, or a computer. Then upload that one video file here. Do not upload more than one file.</p><ol><li>In this quarter, Spain, France, and Britain all fought long, expensive wars. Using at least two of these countries, explain why the way a government raised and repaid its money mattered as much as how much money it had.</li><li>Again and again in this quarter, a ruler lost control when the people he governed found someone offering them a different arrangement. Choose two cases from the exam and explain what they have in common and one important way in which they differ.</li><li>Rousseau, Montesquieu, and Smith each offered a way to keep power from being abused. Choose one of them and use an event from the French Revolution or Napoleon’s rise, as it appears in this exam, to say whether that writer’s idea would have prevented what happened, and why.</li></ol>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "points": 46.0
+  },
+  {
+   "id": "q_27_9",
+   "title": "Module Outro: Napoleon and the Napoleonic Wars",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#16130F;border-bottom:4px solid #D6A92B;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#AFC3E3;margin-bottom:6px\">MODULE OUTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Napoleon and the Napoleonic Wars</div><div style=\"font-size:15px;color:#EBCB6E;margin-top:6px\">5 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#D6A92B;font-size:18px;line-height:1;margin:14px 0 4px\">✶ ✦ ✶</div><div style=\"height:1px;background:#2A4F8C;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #16130F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#16130F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">How did Napoleon rise to power, and what did his rule and his fall leave behind?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #2A4F8C;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2A4F8C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>You have finished Napoleon and the Napoleonic Wars. This check-in is not graded. Your answers tell your teacher what is working and what is still unclear, so answer honestly.</p></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-outro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: How did Napoleon rise to power, and what did his rule and his fall leave behind?</p><p>Answer it again now, in your own words. Use at least two specific details from this week's lessons or primary sources.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident are you that you understand this week's material?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "5: Very confident. I could explain this module to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "4: Confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3: Somewhat confident. I understand the main ideas but not the details.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "2: Not very confident. I am unsure about several things.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "1: Not confident. I am lost on much of it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear or confusing to you from this week? Name a specific person, event, or idea. If nothing is unclear, write what you found most interesting.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these virtues did this week ask the most of you, in your reading or in your work?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In two or three sentences, explain your choice. Point to a moment in this week's reading, or in your own work, where that virtue was needed.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 27
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_27_6",
+   "title": "Discussion: Napoleon: Heir of the Revolution or Its Gravedigger?",
+   "html": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#16130F;border-bottom:4px solid #D6A92B;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#AFC3E3;margin-bottom:6px\">DISCUSSION</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Napoleon: Heir of the Revolution or Its Gravedigger?</div><div style=\"font-size:15px;color:#E8DDC6;margin-top:4px\">Napoleon and the Napoleonic Wars</div><div style=\"font-size:15px;color:#EBCB6E;margin-top:6px\">10 points · threaded discussion</div></div><div style=\"text-align:center;color:#D6A92B;font-size:18px;line-height:1;margin:14px 0 4px\">✶ ✦ ✶</div><div style=\"height:1px;background:#2A4F8C;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #16130F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#16130F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons first. Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you post. Then post your answer here and reply to one classmate.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #2A4F8C;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#2A4F8C;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">DISCUSSION PROMPT</span></div><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Napoleon carried equality before the law, the end of feudal privilege, and his Code across much of Europe. He also censored the press, turned elections into formalities, crowned himself emperor, and fought wars that cost millions of lives.</p><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Take a position. Was Napoleon the heir of the Revolution or its gravedigger? Support your position with at least two specific details from the lessons, and include one detail that points the other way. Explain why you weigh the evidence as you do.</p><p style=\"margin:0; font-size:16px; line-height:1.7;\">Aim for about 150 to 200 words.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #D6A92B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7A5A05;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">RESPOND TO A CLASSMATE</span></div><p style=\"margin:0; font-size:16px; line-height:1.7;\">Reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a detail from the lessons that they did not use. If not, explain respectfully where it falls short, and point to a detail from the lessons that supports your view.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #D6A92B;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7A5A05;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">GRADING RUBRIC (10 pts)</span></div><table style=\"width: 100%; border-collapse: collapse;\">\n<thead><tr style=\"background: #0E1C42;\">\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #16130F;\">Criteria</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #16130F;\">Substantive (full credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #16130F;\">Thin (partial credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #16130F;\">Missing (no credit)</th>\n</tr></thead>\n<tbody><tr style=\"background:#FFFCF6;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Claim and evidence<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a clear position, supports it with at least two specific details from the lessons, and deals fairly with a detail that points the other way.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Takes a position but gives only one detail, or stays general, or ignores the opposing detail.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No post, or no clear position.</td>\n</tr><tr style=\"background:#F5F1E6;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Response to a classmate<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No reply.</td>\n</tr></tbody>\n</table><div style=\"text-align:right; margin-top:6px; font-size: 13px; color:#5B5148;\">10 pts total</div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_discussions",
+   "rubric": "r_27_6",
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": true,
+   "kind": "module-discussion",
+   "week": 27
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_27",
+   "title": "Napoleon and the Napoleonic Wars",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "quiz",
+     "ref": "q_27_0",
+     "title": "Module Intro: Napoleon and the Napoleonic Wars",
+     "published": true,
+     "week": 27
+    },
+    {
+     "type": "page",
+     "ref": "p_27_05",
+     "title": "Module Map: Napoleon and the Napoleonic Wars",
+     "published": true,
+     "week": 27
+    },
+    {
+     "type": "page",
+     "ref": "p_27_1",
+     "title": "Lesson: Napoleon: From General to Emperor",
+     "published": true,
+     "week": 27,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_27_2",
+     "title": "Lesson: Spain, Russia, Waterloo, and the Colonies Break Free",
+     "published": true,
+     "week": 27,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_27_3",
+     "title": "Primary Source: Napoleon, Proclamation to the Army of Italy (1796)",
+     "published": true,
+     "week": 27,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_27_4",
+     "title": "Primary Source: Simón Bolívar, Letter from Jamaica (1815)",
+     "published": true,
+     "week": 27,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_27_5",
+     "title": "VR Activity: The Field at Waterloo",
+     "published": true,
+     "week": 27
+    },
+    {
+     "type": "discussion",
+     "ref": "d_27_6",
+     "title": "Discussion: Napoleon: Heir of the Revolution or Its Gravedigger?",
+     "published": true,
+     "week": 27
+    },
+    {
+     "type": "quiz",
+     "ref": "q_27_7",
+     "title": "Quarterly Exam: Quarter 3: Early Modern Europe",
+     "published": true,
+     "week": 27
+    },
+    {
+     "type": "quiz",
+     "ref": "q_27_sat",
+     "title": "Quarter 3 Exam (SAT)",
+     "published": true,
+     "week": 27
+    },
+    {
+     "type": "quiz",
+     "ref": "q_27_9",
+     "title": "Module Outro: Napoleon and the Napoleonic Wars",
+     "published": true,
+     "week": 27
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of HS World History, Spring Semester. Read from Canvas course 290 (naming authority; titles, order, quiz questions) with _build/pull_canvas.py on 2026-11-20; the sparkled module, not its \"(Unsparkled)\" twin. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/hsworldhistory-lessons-spring/. Build folder: Course Workshops/09WorldHistory-Spring/03_Build."
+ }
+}

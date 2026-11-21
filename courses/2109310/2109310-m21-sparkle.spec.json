@@ -1,0 +1,520 @@
+{
+ "course": {
+  "title": "09 HS World Hist SP 2109310",
+  "code": "2109310",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "ag_reading_quizzes",
+   "title": "Tier 1: Reading Quizzes",
+   "weight": 20.0
+  },
+  {
+   "id": "ag_discussions",
+   "title": "Tier 2: Discussions",
+   "weight": 10.0
+  },
+  {
+   "id": "ag_deep_feedback",
+   "title": "Tier 3: Deep Feedback",
+   "weight": 40.0
+  },
+  {
+   "id": "ag_checkins",
+   "title": "Tier 4: Module Check-Ins",
+   "weight": 0
+  },
+  {
+   "id": "ag_exams",
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_21_5",
+   "title": "21.5 Primary Source Report: Equiano and the Code Noir rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Reads both sources accurately and draws on specific details from each, along with what the week's lessons taught.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Reads both sources accurately but uses few specific details, or leans on only one.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Shows partial understanding of one or both sources, with some errors or vague claims.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Misreads the sources or does not refer to them.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Connects each claim to evidence and compares the sources with care. Explains why a speaker's purpose and position matter.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Supports most claims with evidence. The comparison is sound but not fully developed.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "States conclusions with little support, or describes the sources without comparing them.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Offers opinions without evidence from the sources.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision of expression",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Writes in clear, well-organized sentences. Quotations are short, accurate, and introduced.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Writing is clear with minor lapses in organization or precision.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Writing is often unclear or disorganized, and quotations are unclear or misplaced.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Writing is too unclear to follow.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Names the limits of what each source can show and says what remains uncertain without overclaiming.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Acknowledges at least one limit of the evidence.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Mentions limits only in passing, or claims more than the sources allow.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Treats each source as complete and beyond question.",
+       "points": 1.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_21_6",
+   "title": "21.6 Discussion: Sugar and Slavery: Who Profited? rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Claim and evidence",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Names a group, explains how it gained and who paid, uses at least two specific details from the lessons, and gives a reasoned view of the group's responsibility.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Names a group but gives only one detail, or stays general, or does not address responsibility.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no group named.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Response to a classmate",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.",
+       "points": 5.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No reply.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_21_05",
+   "title": "Module Map: Sugar, Slaves, and the Atlantic World",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m21/w21-map.html\" width=\"100%\" height=\"2000\" style=\"border:0;\" title=\"Sugar, Slaves, and the Atlantic World\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_21_1",
+   "title": "Lesson: The Columbian Exchange and the Sugar Colonies",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m21/w21-lesson-1.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"The Columbian Exchange and the Sugar Colonies\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_21_2",
+   "title": "Lesson: The Triangle Trade and the Middle Passage",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m21/w21-lesson-2.html\" width=\"100%\" height=\"4000\" style=\"border:0;\" title=\"The Triangle Trade and the Middle Passage\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_21_3",
+   "title": "Primary Source: Olaudah Equiano, Interesting Narrative (1789, excerpt)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m21/w21-ps-1.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Olaudah Equiano, Interesting Narrative (1789, excerpt)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  },
+  {
+   "id": "p_21_4",
+   "title": "Primary Source: Code Noir (1685)",
+   "html": "<p><iframe src=\"https://optimaondemand.github.io/hsworldhistory-lessons-spring/modules/m21/w21-ps-2.html\" width=\"100%\" height=\"2600\" style=\"border:0;\" title=\"Code Noir (1685)\" loading=\"lazy\"></iframe></p>",
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "id": "a_21_5",
+   "title": "Primary Source Report: Equiano and the Code Noir",
+   "html": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1B2238;border-bottom:4px solid #D9A441;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#9CC3E6;margin-bottom:6px\">PRIMARY SOURCE REPORT</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Equiano and the Code Noir</div><div style=\"font-size:15px;color:#E8DDC6;margin-top:4px\">Sugar, Slaves, and the Atlantic World</div><div style=\"font-size:15px;color:#F2D58A;margin-top:6px\">16 points · text entry</div></div><div style=\"text-align:center;color:#D9A441;font-size:18px;line-height:1;margin:14px 0 4px\">≈ ≈ ≈</div><div style=\"height:1px;background:#3D4C8F;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1B2238;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1B2238;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons and read both sources first. Your notes from each page are kept in My Notebook, the button inside the page, so open it before you write. Then write your answers and submit them in this assignment.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #D9A441;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7F5A12;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">QUESTIONS</span></div><div style=\"margin-bottom:14px;\"><div style=\"font-size:16px; color:#0E1C42;\"><strong>1.</strong> Olaudah Equiano published his life story in 1789. The French crown issued the Code Noir in 1685. For each document, say who is speaking, who the audience is, and what the speaker wanted to achieve. How might these differences change what each document can teach us?</div></div><div style=\"margin-bottom:14px;\"><div style=\"font-size:16px; color:#0E1C42;\"><strong>2.</strong> Choose one passage from Equiano's account of the voyage. Quote it in a few words, then explain in your own words what it shows about conditions aboard the ship and how he felt about them.</div></div><div style=\"margin-bottom:14px;\"><div style=\"font-size:16px; color:#0E1C42;\"><strong>3.</strong> The Code Noir orders that enslaved people be baptized and limits some punishments, yet it also treats them as property that can be bought, sold, and inherited. Using evidence from both documents, explain how Equiano's account answers the idea that a person can be property.</div></div><div style=\"margin-bottom:14px;\"><div style=\"font-size:16px; color:#0E1C42;\"><strong>4.</strong> A historian wants to learn how the slave system worked from day to day. Which of the two documents would you trust more for that purpose, and why? Name one thing the historian should check before relying on it.</div></div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #D9A441;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7F5A12;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">GRADING RUBRIC (16 pts)</span></div><table style=\"width: 100%; border-collapse: collapse;\">\n<thead><tr style=\"background: #0E1C42;\">\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1B2238;\">Criteria</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1B2238;\">Excellent (4)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1B2238;\">Proficient (3)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1B2238;\">Developing (2)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1B2238;\">Beginning (1)</th>\n</tr></thead>\n<tbody><tr style=\"background:#FFFCF6;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 130px; vertical-align: top;\">Understanding of the material<br><span style=\"font-size: 11px; color: #5B5148;\">4 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Reads both sources accurately and draws on specific details from each, along with what the week's lessons taught.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Reads both sources accurately but uses few specific details, or leans on only one.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Shows partial understanding of one or both sources, with some errors or vague claims.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Misreads the sources or does not refer to them.</td>\n</tr><tr style=\"background:#EFEFF4;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 130px; vertical-align: top;\">Quality of reasoning<br><span style=\"font-size: 11px; color: #5B5148;\">4 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Connects each claim to evidence and compares the sources with care. Explains why a speaker's purpose and position matter.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Supports most claims with evidence. The comparison is sound but not fully developed.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">States conclusions with little support, or describes the sources without comparing them.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Offers opinions without evidence from the sources.</td>\n</tr><tr style=\"background:#FFFCF6;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 130px; vertical-align: top;\">Clarity and precision of expression<br><span style=\"font-size: 11px; color: #5B5148;\">4 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Writes in clear, well-organized sentences. Quotations are short, accurate, and introduced.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Writing is clear with minor lapses in organization or precision.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Writing is often unclear or disorganized, and quotations are unclear or misplaced.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Writing is too unclear to follow.</td>\n</tr><tr style=\"background:#EFEFF4;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 130px; vertical-align: top;\">Intellectual honesty<br><span style=\"font-size: 11px; color: #5B5148;\">4 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Names the limits of what each source can show and says what remains uncertain without overclaiming.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Acknowledges at least one limit of the evidence.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Mentions limits only in passing, or claims more than the sources allow.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Treats each source as complete and beyond question.</td>\n</tr>\n<tr style=\"background: #0E1C42;\"><td align=\"right\" colspan=\"4\" style=\"padding: 9px 12px; font-size: 14px; color: #fff; border: 1px solid #55C8E8;\">Total:</td></tr>\n</tbody>\n</table><div style=\"text-align:right; margin-top:6px; font-size: 13px; color:#5B5148;\">16 pts total</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #D9A441;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7F5A12;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">SUBMISSION</span></div><p style=\"margin:0; font-size:16px; line-height:1.7;\">Answer all four questions in complete sentences. Submit your answers in the text box on the Canvas assignment page. Aim for one solid paragraph for each question. You do not need an outside source. Your teacher will read your work and return a rubric score with a short comment.</p></div></div>",
+   "points": 16.0,
+   "group": "ag_deep_feedback",
+   "rubric": "r_21_5",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "published": true,
+   "kind": "primary-source-report",
+   "week": 21
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q_21_0",
+   "title": "Module Intro: Sugar, Slaves, and the Atlantic World",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1B2238;border-bottom:4px solid #D9A441;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#9CC3E6;margin-bottom:6px\">MODULE INTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Sugar, Slaves, and the Atlantic World</div><div style=\"font-size:15px;color:#F2D58A;margin-top:6px\">2 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#D9A441;font-size:18px;line-height:1;margin:14px 0 4px\">≈ ≈ ≈</div><div style=\"height:1px;background:#3D4C8F;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1B2238;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1B2238;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">How did sugar and the demand for labor bind Europe, Africa, and the Americas into one Atlantic world?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #3D4C8F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#3D4C8F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>Welcome to Sugar, Slaves, and the Atlantic World. This short check-in is not graded. Your answers help your teacher see where each student is starting, so answer honestly.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #D9A441;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7F5A12;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">What you will be able to do</span></div><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#2A3668\">The Columbian Exchange and the Sugar Colonies</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Describe what crossed the Atlantic in the Columbian Exchange and how it changed both sides.</li><li>Explain why sugar required the plantation system.</li><li>Trace the spread of sugar from the Mediterranean to Brazil and the Caribbean.</li></ul><h4 style=\"margin:12px 0 6px;font-family:Georgia,'Times New Roman',serif;color:#2A3668\">The Triangle Trade and the Middle Passage</h4><ul style=\"margin:0 0 8px 20px;padding:0\"><li>Explain how the Atlantic slave trade worked and what role African states and European merchants played in it.</li><li>Describe the Middle Passage and the conditions enslaved people faced.</li><li>Trace the movement that ended the slave trade in the British Empire.</li></ul></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-intro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: How did sugar and the demand for labor bind Europe, Africa, and the Americas into one Atlantic world?</p><p>Give your best answer now, using only what you already know. A guess is fine. You will answer this question again at the end of the week, and the two answers will show how much you learned.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Have you read the objectives for both lessons listed at the top of this page?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Yes, I have read them.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Not yet. I will read them before I start the lessons.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 21
+  },
+  {
+   "id": "q_21_9",
+   "title": "Module Outro: Sugar, Slaves, and the Atlantic World",
+   "description": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1B2238;border-bottom:4px solid #D9A441;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#9CC3E6;margin-bottom:6px\">MODULE OUTRO</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Sugar, Slaves, and the Atlantic World</div><div style=\"font-size:15px;color:#F2D58A;margin-top:6px\">5 questions · survey · one attempt</div></div><div style=\"text-align:center;color:#D9A441;font-size:18px;line-height:1;margin:14px 0 4px\">≈ ≈ ≈</div><div style=\"height:1px;background:#3D4C8F;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1B2238;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1B2238;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Essential question for this week</span></div><div style=\"font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.5\">How did sugar and the demand for labor bind Europe, Africa, and the Americas into one Atlantic world?</div></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #3D4C8F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#3D4C8F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Instructions</span></div><p>You have finished Sugar, Slaves, and the Atlantic World. This check-in is not graded. Your answers tell your teacher what is working and what is still unclear, so answer honestly.</p></div></div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "kind": "module-outro",
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Essential question: How did sugar and the demand for labor bind Europe, Africa, and the Americas into one Atlantic world?</p><p>Answer it again now, in your own words. Use at least two specific details from this week's lessons or primary sources.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident are you that you understand this week's material?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "5: Very confident. I could explain this module to someone else.",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "4: Confident. I understand most of it.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "3: Somewhat confident. I understand the main ideas but not the details.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "2: Not very confident. I am unsure about several things.",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "1: Not confident. I am lost on much of it.",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear or confusing to you from this week? Name a specific person, event, or idea. If nothing is unclear, write what you found most interesting.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these virtues did this week ask the most of you, in your reading or in your work?</p>",
+     "points": 0,
+     "answers": [
+      {
+       "text": "Courage",
+       "correct": true,
+       "feedback": ""
+      },
+      {
+       "text": "Courtesy",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Honesty",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Perseverance",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Self-government",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Service",
+       "correct": false,
+       "feedback": ""
+      },
+      {
+       "text": "Responsibility",
+       "correct": false,
+       "feedback": ""
+      }
+     ],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    },
+    {
+     "type": "essay",
+     "text": "<p>In two or three sentences, explain your choice. Point to a moment in this week's reading, or in your own work, where that virtue was needed.</p>",
+     "points": 0,
+     "answers": [],
+     "feedback_correct": "",
+     "feedback_incorrect": "",
+     "feedback_general": ""
+    }
+   ],
+   "week": 21
+  }
+ ],
+ "discussions": [
+  {
+   "id": "d_21_6",
+   "title": "Discussion: Sugar and Slavery: Who Profited?",
+   "html": "<div id=\"sparkled-assessment\" style=\"max-width:860px;margin:0 auto;color:#1F1A15;line-height:1.55;font-size:17px\"><div style=\"background:#1B2238;border-bottom:4px solid #D9A441;border-radius:10px;padding:18px 22px;margin:0 0 6px\"><div style=\"font-size:12px;color:#9CC3E6;margin-bottom:6px\">DISCUSSION</div><div style=\"font-size:26px;line-height:1.25;color:#fff;font-family:Georgia,'Times New Roman',serif\">Sugar and Slavery: Who Profited?</div><div style=\"font-size:15px;color:#E8DDC6;margin-top:4px\">Sugar, Slaves, and the Atlantic World</div><div style=\"font-size:15px;color:#F2D58A;margin-top:6px\">10 points · threaded discussion</div></div><div style=\"text-align:center;color:#D9A441;font-size:18px;line-height:1;margin:14px 0 4px\">≈ ≈ ≈</div><div style=\"height:1px;background:#3D4C8F;margin:0 0 18px\"></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #1B2238;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#1B2238;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">Before you start</span></div><p style=\"margin:0\">Finish both lessons first. Your notes from each lesson are kept in My Notebook, the button inside the lesson, so open it before you post. Then post your answer here and reply to one classmate.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #3D4C8F;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#3D4C8F;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">DISCUSSION PROMPT</span></div><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">The sugar trade made fortunes, and it rested on the forced labor of millions of people. Many different groups took part in it, and the lessons show that they did not all have the same choices.</p><p style=\"margin:0 0 12px; font-size:16px; line-height:1.7;\">Choose one group that gained from the sugar and slave trades, such as planters, merchants and shipowners, governments, African rulers who sold captives, or buyers of sugar in Europe. Explain how that group gained and who bore the cost. Use at least two specific details from the lessons. Then say whether the people in your group could have understood what their gain cost others, and what that suggests about their responsibility.</p><p style=\"margin:0; font-size:16px; line-height:1.7;\">Aim for about 150 to 200 words. Write about the people of the past with care and accuracy.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #D9A441;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7F5A12;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">RESPOND TO A CLASSMATE</span></div><p style=\"margin:0; font-size:16px; line-height:1.7;\">Reply to one classmate who chose a different group from yours. Do you agree with their reasoning? If so, strengthen it with a detail from the lessons that they did not use. If not, explain respectfully where it falls short, and point to a detail from the lessons that supports your view.</p></div><div style=\"background:#FFFCF6;border:1px solid #E3D6C0;border-top:4px solid #D9A441;border-radius:12px;padding:18px 22px;margin:0 0 18px\"><div style=\"margin:0 0 12px\"><span style=\"display:inline-block;background:#7F5A12;color:#fff;font-size:12px;border-radius:999px;padding:3px 12px\">GRADING RUBRIC (10 pts)</span></div><table style=\"width: 100%; border-collapse: collapse;\">\n<thead><tr style=\"background: #0E1C42;\">\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1B2238;\">Criteria</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1B2238;\">Substantive (full credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1B2238;\">Thin (partial credit)</th>\n<th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border:1px solid #1B2238;\">Missing (no credit)</th>\n</tr></thead>\n<tbody><tr style=\"background:#FFFCF6;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Claim and evidence<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Names a group, explains how it gained and who paid, uses at least two specific details from the lessons, and gives a reasoned view of the group's responsibility.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Names a group but gives only one detail, or stays general, or does not address responsibility.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No post, or no group named.</td>\n</tr><tr style=\"background:#EFEFF4;\">\n<td style=\"padding: 10px 12px; font-size: 14px; color: #0E1C42; border: 1px solid #E3D6C0; width: 150px; vertical-align: top;\">Response to a classmate<br><span style=\"font-size: 11px; color: #5B5148;\">5 pts</span></td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Answers a specific point in a classmate's post and either strengthens it with a new detail or explains politely where it falls short.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">Replies in general terms, such as agreeing or disagreeing without a detail from the lessons.</td>\n<td style=\"padding: 10px 12px; font-size: 13px; color: #1F1A15; border: 1px solid #E3D6C0; vertical-align: top;\">No reply.</td>\n</tr></tbody>\n</table><div style=\"text-align:right; margin-top:6px; font-size: 13px; color:#5B5148;\">10 pts total</div></div></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "ag_discussions",
+   "rubric": "r_21_6",
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": true,
+   "kind": "module-discussion",
+   "week": 21
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_21",
+   "title": "Sugar, Slaves, and the Atlantic World",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "quiz",
+     "ref": "q_21_0",
+     "title": "Module Intro: Sugar, Slaves, and the Atlantic World",
+     "published": true,
+     "week": 21
+    },
+    {
+     "type": "page",
+     "ref": "p_21_05",
+     "title": "Module Map: Sugar, Slaves, and the Atlantic World",
+     "published": true,
+     "week": 21
+    },
+    {
+     "type": "page",
+     "ref": "p_21_1",
+     "title": "Lesson: The Columbian Exchange and the Sugar Colonies",
+     "published": true,
+     "week": 21,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_21_2",
+     "title": "Lesson: The Triangle Trade and the Middle Passage",
+     "published": true,
+     "week": 21,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_21_3",
+     "title": "Primary Source: Olaudah Equiano, Interesting Narrative (1789, excerpt)",
+     "published": true,
+     "week": 21,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_21_4",
+     "title": "Primary Source: Code Noir (1685)",
+     "published": true,
+     "week": 21,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_21_5",
+     "title": "Primary Source Report: Equiano and the Code Noir",
+     "published": true,
+     "week": 21
+    },
+    {
+     "type": "discussion",
+     "ref": "d_21_6",
+     "title": "Discussion: Sugar and Slavery: Who Profited?",
+     "published": true,
+     "week": 21
+    },
+    {
+     "type": "quiz",
+     "ref": "q_21_9",
+     "title": "Module Outro: Sugar, Slaves, and the Atlantic World",
+     "published": true,
+     "week": 21
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of HS World History, Spring Semester. Read from Canvas course 290 (naming authority; titles, order, quiz questions) with _build/pull_canvas.py on 2026-11-20; the sparkled module, not its \"(Unsparkled)\" twin. Module and item numbers removed from student-facing titles. Ids, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/hsworldhistory-lessons-spring/. Build folder: Course Workshops/09WorldHistory-Spring/03_Build."
+ }
+}
