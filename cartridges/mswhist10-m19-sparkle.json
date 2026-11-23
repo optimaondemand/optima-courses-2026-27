@@ -1,0 +1,213 @@
+{
+ "id": "mswhist10-m19-sparkle",
+ "label": "The Road to War: Quarter 3 Capstone · Sparkle",
+ "code": "mswhist10",
+ "title": "World History: Age of Enlightenment to Present (Mississippi), Spring Semester (Weeks 19-36)",
+ "file": "cartridges/mswhist10-m19-sparkle.imscc",
+ "bytes": 44180,
+ "version": "2026.11.23",
+ "built": "2026-11-23T15:22:33",
+ "front_page": "wiki_content/course-home.html",
+ "items": 10,
+ "modules": [
+  {
+   "id": "m_19",
+   "title": "Module 19: The Road to War: Quarter 3 Capstone",
+   "gid": "gd0773fd1a0b8ba1a813b5a4a1ecbb762",
+   "published": true,
+   "items": 10,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 6,
+  "assignments": 1,
+  "quizzes": 3,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 10
+ },
+ "weights": [
+  {
+   "title": "Reading Quizzes",
+   "weight": 40.0
+  },
+  {
+   "title": "Discussions",
+   "weight": 20.0
+  },
+  {
+   "title": "Deep Feedback",
+   "weight": 10.0
+  },
+  {
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "groups": [
+  {
+   "id": "gd5958919af047b9c1c095b3510ea4a62",
+   "title": "Reading Quizzes",
+   "weight": 40.0,
+   "position": 1
+  },
+  {
+   "id": "gcd56004592043ab98ecdad5a728a0ff8",
+   "title": "Discussions",
+   "weight": 20.0,
+   "position": 2
+  },
+  {
+   "id": "ge273aa2f3ca1bfa2c77cc0c88b7b7221",
+   "title": "Deep Feedback",
+   "weight": 10.0,
+   "position": 3
+  },
+  {
+   "id": "gd4747138ed731803ea12496c819ad5c6",
+   "title": "Quarterly Exams",
+   "weight": 30.0,
+   "position": 4
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "a_m19_7",
+   "type": "assignment",
+   "title": "19.7 Quarter 3 Capstone: The Road to War",
+   "gid": "gaa17a9944ab872755df94d1309079b45",
+   "xml": "gaa17a9944ab872755df94d1309079b45/assignment_settings.xml",
+   "module": "m_19",
+   "week": 27,
+   "kind": "capstone",
+   "points": 20.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "ge273aa2f3ca1bfa2c77cc0c88b7b7221",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m19_1",
+   "type": "quiz",
+   "title": "19.1 Module 19 Introduction: The Road to War: Quarter 3 Capstone",
+   "gid": "gab598f1836bb2844a7249666c7a89941",
+   "xml": "gab598f1836bb2844a7249666c7a89941/assessment_meta.xml",
+   "module": "m_19",
+   "week": 27,
+   "kind": "capstone",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m19_9",
+   "type": "quiz",
+   "title": "19.9 Module 19 Review: The Road to War: Quarter 3 Capstone",
+   "gid": "gfb365fde920a65b5fe45917d81b735a7",
+   "xml": "gfb365fde920a65b5fe45917d81b735a7/assessment_meta.xml",
+   "module": "m_19",
+   "week": 27,
+   "kind": "capstone",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m19_10",
+   "type": "quiz",
+   "title": "19.10 Quarter 3 Exam",
+   "gid": "ga0823ec587fa923c22180a648649f01f",
+   "xml": "ga0823ec587fa923c22180a648649f01f/assessment_meta.xml",
+   "module": "m_19",
+   "week": 27,
+   "kind": "quarter-exam",
+   "points": 40.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "gd4747138ed731803ea12496c819ad5c6",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_m19_8",
+   "type": "discussion",
+   "title": "19.8 Discussion: Did Munich buy time or cost it?",
+   "gid": "ga3d58b6327004a2dcc2a6e4505cb5fea",
+   "xml": "g1f317ba9a6c557e9e7d00c3819e602a5.xml",
+   "module": "m_19",
+   "week": 27,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "gcd56004592043ab98ecdad5a728a0ff8",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec mswhist10-m19-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [],
+  "stats": {
+   "resources": 16,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 6,
+    "webcontent": 6,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 3,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 10,
+   "modules": 1,
+   "module_items": 10,
+   "module_item_types": {
+    "Quizzes::Quiz": 3,
+    "WikiPage": 5,
+    "Assignment": 1,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 6,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 4,
+   "group_refs": 4,
+   "quizzes": 3,
+   "assignments": 1,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 110.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "fc3bf0e34ee34fe0a27d17a12f5e43e97d192d33f5c6c6f4a220e394cf84e842",
+ "art_pack": null
+}

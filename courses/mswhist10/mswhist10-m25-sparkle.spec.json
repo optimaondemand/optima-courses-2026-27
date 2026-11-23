@@ -1,0 +1,344 @@
+{
+ "course": {
+  "title": "World History: Age of Enlightenment to Present (Mississippi), Spring Semester (Weeks 19-36)",
+  "code": "mswhist10",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_reading_quizzes",
+   "title": "Reading Quizzes",
+   "weight": 40.0
+  },
+  {
+   "id": "ag_discussions",
+   "title": "Discussions",
+   "weight": 20.0
+  },
+  {
+   "id": "ag_deep_feedback",
+   "title": "Deep Feedback",
+   "weight": 10.0
+  },
+  {
+   "id": "ag_exams",
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_d_m25_8",
+   "title": "25.8 Discussion: Who blinked in Cuba? Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Your claim and your reasons",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Takes a clear side, uses the specific evidence the prompt asks for, and explains why it supports the claim.",
+       "points": 6.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Takes a side but gives general reasons, or leaves out part of what the prompt asks for.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no claim.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Your reply to a classmate",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Answers one classmate's actual reasoning. Strengthens it or says where it falls short, politely and with a reason.",
+       "points": 4.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Replies, but only to agree or disagree with no reason.",
+       "points": 2.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No reply.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_m25_2",
+   "title": "25.2 Module Map: The Cold War Turns Hot",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"margin: 0 0 20px 0; border: 2px solid #B5440A; border-radius: 12px; overflow: hidden; background: #FBF3E8;\">\n  <div style=\"background: #0A1226; border-bottom: 4px solid #FFB347; color: #FFFDF8; padding: 10px 18px; font-size: 16px; font-family: 'Old Standard TT', Georgia, 'Times New Roman', serif;\">Module Map: The Cold War Turns Hot</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m25/week-33-module-map.html\" width=\"100%\" height=\"2300\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #1B1A1A; background: #FBE6D6; border-top: 1px solid #E2D6C6;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m25/week-33-module-map.html\" target=\"_blank\" style=\"color: #6B4A2A;\">open it in a new tab</a>.</div>\n</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m25_3",
+   "title": "25.3 Lesson: Mao's Victory, Korea, and Vietnam",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">Mao's Victory, Korea, and Vietnam</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m25/week-33-lesson-1.html\" width=\"100%\" height=\"2774\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m25/week-33-lesson-1.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m25_4",
+   "title": "25.4 Primary Source: Kennedy, Address on the Cuban Missile Crisis (October 22, 1962)",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">Kennedy, Address on the Cuban Missile Crisis (October 22, 1962)</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m25/week-33-primary-source-1.html\" width=\"100%\" height=\"2745\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m25/week-33-primary-source-1.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m25_5",
+   "title": "25.5 Lesson: Castro and the Cuban Missile Crisis",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">Castro and the Cuban Missile Crisis</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m25/week-33-lesson-2.html\" width=\"100%\" height=\"2801\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m25/week-33-lesson-2.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m25_6",
+   "title": "25.6 Primary Source: Khrushchev to Kennedy (October 26, 1962)",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">Khrushchev to Kennedy (October 26, 1962)</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m25/week-33-primary-source-2.html\" width=\"100%\" height=\"2717\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m25/week-33-primary-source-2.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "title": "25.7 VR Activity: The Cold War Turns Hot",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#0A1226; border-bottom:4px solid #FFB347; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#FFB347; margin-bottom:6px;\"><strong>VR ACTIVITY</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFDF8; line-height:1.25; margin-bottom:6px;\">The Cold War Turns Hot</div><div style=\"font-size:16px; color:#FBE6D6; margin-bottom:6px;\">Solo · one in-headset session</div><div style=\"font-size:15px; color:#FFB347;\">Activity · 10 points · Canvas text entry</div></div>\n<div style=\"text-align:center; color:#FFB347; font-size:16px; margin:0 0 4px;\">◎ ─ ◎ ─ ◎</div>\n<div style=\"border-top:2px solid #B5440A; margin:0 0 16px;\"></div>\n<div style=\"background:#FFFDF8; border:1px solid #E2D6C6; border-top:4px solid #0A1226; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#0A1226; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>WHAT YOU'RE DOING</strong></div><p style=\"font-size:17px; color:#1B1A1A; line-height:1.6; margin:0 0 0;\">Activity design pending. This page holds the place of this week’s solo session in your VR headset. The full instructions will appear here before the module opens.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #E2D6C6; border-left:5px solid #B5440A; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#B5440A; margin-bottom:6px;\"><strong>WHAT YOU'LL NEED</strong></div><ul style=\"font-size:17px; color:#1B1A1A; line-height:1.6; margin:0; padding-left:26px;\"><li style=\"margin-bottom:6px;\">Your VR headset, charged and ready</li><li style=\"margin-bottom:6px;\">Your notebook and a pen</li><li style=\"margin-bottom:0;\">This week’s two lessons and two primary sources, finished</li></ul></div>\n<div style=\"background:#FFFDF8; border:1px solid #E2D6C6; border-top:4px solid #6B4A2A; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#6B4A2A; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>HOW TO JOIN</strong></div><p style=\"font-size:16px; color:#1B1A1A; line-height:1.55; margin:0;\"><strong>Where:</strong> Your immersive session. Directions will be added here when the activity is ready.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #E2D6C6; border-top:4px solid #0A1226; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#0A1226; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>WHAT TO DO, IN ORDER</strong></div><div style=\"display:flex; align-items:flex-start; gap:12px;\"><div style=\"min-width:28px; height:28px; border-radius:50%; background:#B5440A; color:#FFFDF8; font-size:14px; text-align:center; line-height:28px;\"><strong>1</strong></div><div style=\"font-size:17px; color:#1B1A1A; line-height:1.6;\"><strong>Activity design pending</strong> Steps will be added here.</div></div></div>\n<div style=\"background:#FFFDF8; border:1px solid #E2D6C6; border-top:4px solid #B5440A; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#B5440A; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>WHAT TO SUBMIT</strong></div><p style=\"font-size:17px; color:#1B1A1A; line-height:1.6; margin:0 0 12px;\">Submission details are pending. They will be added with the instructions.</p><p style=\"font-size:15px; color:#1B1A1A; line-height:1.6; margin:0;\"><strong>Estimated time:</strong> To be set when the activity is designed</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #E2D6C6; border-left:5px solid #6B4A2A; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#6B4A2A; margin-bottom:6px;\"><strong>SUCCESS CRITERIA</strong></div><div style=\"font-size:17px; color:#1B1A1A; line-height:1.55;\">☐ Activity design pending</div></div>\n<div style=\"background:#FFFDF8; border:1px solid #E2D6C6; border-left:5px solid #E2D6C6; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#E2D6C6; margin-bottom:6px;\"><strong>FACILITATOR NOTE</strong></div><p style=\"font-size:15px; color:#1B1A1A; line-height:1.6; margin:0; font-style:italic;\">Placeholder. The VR Activity for this module has not been designed. Replace every field on this page before release.</p></div>\n</div>",
+   "points": 10.0,
+   "grading_type": "points",
+   "submission_types": "online_text_entry",
+   "rubric_use_for_grading": false,
+   "published": true,
+   "allowed_extensions": "",
+   "omit_from_final_grade": false,
+   "id": "a_m25_7",
+   "group": "ag_deep_feedback",
+   "week": 33,
+   "kind": "vr-activity"
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q_m25_1",
+   "title": "25.1 Module 25 Introduction: The Cold War Turns Hot",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#0A1226; border-bottom:4px solid #FFB347; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#FFB347; margin-bottom:6px;\"><strong>MODULE INTRODUCTION</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFDF8; line-height:1.25; margin-bottom:6px;\">Module Introduction: The Cold War Turns Hot</div><div style=\"font-size:15px; color:#FFB347;\">Survey · 2 questions · not graded</div></div>\n<div style=\"text-align:center; color:#FFB347; font-size:16px; margin:0 0 4px;\">◎ ─ ◎ ─ ◎</div>\n<div style=\"border-top:2px solid #B5440A; margin:0 0 16px;\"></div>\n<div style=\"background:#FFFDF8; border:1px solid #E2D6C6; border-top:4px solid #0A1226; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#0A1226; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1B1A1A; line-height:1.6; margin:0 0 0;\">Welcome to The Cold War Turns Hot. Answer the questions below before you open the first lesson. Your answers help your teacher see where the class is starting. This survey is not graded.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #E2D6C6; border-left:5px solid #B5440A; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#B5440A; margin-bottom:6px;\"><strong>This module's goals:</strong></div><ul style=\"font-size:17px; color:#1B1A1A; line-height:1.6; margin:0; padding-left:26px;\"><li style=\"margin-bottom:6px;\">Explain how the Communists won China and how the Korean and Vietnam wars began and grew.</li><li style=\"margin-bottom:6px;\">Describe how Cuba became a Soviet ally and what happened in the thirteen days of October 1962.</li><li style=\"margin-bottom:0;\">Weigh the part played by judgment, bargaining, and luck in avoiding nuclear war.</li></ul></div>\n</div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 33,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Before you read: Who blinked in Cuba, and why did the world survive? Give your first answer in two or three sentences. You will answer it again at the end of the module, so it is fine if your answer changes.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I have read this module's goals and I know what I am working toward this week.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>Yes, I have read them</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Not yet, I will read them before the first lesson</p>",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "kind": "module-intro"
+  },
+  {
+   "id": "q_m25_9",
+   "title": "25.9 Module 25 Review: The Cold War Turns Hot",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#0A1226; border-bottom:4px solid #FFB347; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#FFB347; margin-bottom:6px;\"><strong>MODULE REVIEW</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFDF8; line-height:1.25; margin-bottom:6px;\">Module Review: The Cold War Turns Hot</div><div style=\"font-size:15px; color:#FFB347;\">Survey · 5 questions · not graded</div></div>\n<div style=\"text-align:center; color:#FFB347; font-size:16px; margin:0 0 4px;\">◎ ─ ◎ ─ ◎</div>\n<div style=\"border-top:2px solid #B5440A; margin:0 0 16px;\"></div>\n<div style=\"background:#FFFDF8; border:1px solid #E2D6C6; border-top:4px solid #0A1226; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#0A1226; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1B1A1A; line-height:1.6; margin:0 0 0;\">You have reached the end of The Cold War Turns Hot. Answer the questions below. Your answers help your teacher see what the class understood and what needs more attention. This survey is not graded.</p></div>\n</div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 33,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Answer this question again, now that you have finished the module: Who blinked in Cuba, and why did the world survive? Use at least one fact or source from this week.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident are you that you understood this module’s main ideas?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>1 - Lost</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>2 - Shaky</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>3 - Somewhat confident</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>4 - Confident</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>5 - Very confident</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear to you? Name a person, event, or idea. If nothing is unclear, write what you would ask a historian.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "essay",
+     "text": "<p>Choose one of these virtues: courage, courtesy, honesty, perseverance, self-government, service, or responsibility. Name a person from this module who needed it, and say what they did or failed to do.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_answers",
+     "text": "<p>Confirm your submissions. Check each item you have finished.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>I read both lessons</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I read both primary sources</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I completed the VR Activity</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I posted my discussion answer and replied to a classmate</p>",
+       "correct": true
+      }
+     ]
+    }
+   ],
+   "kind": "module-review"
+  }
+ ],
+ "discussions": [
+  {
+   "title": "25.8 Discussion: Who blinked in Cuba?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#0A1226; border-bottom:4px solid #FFB347; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#FFB347; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFDF8; line-height:1.25; margin-bottom:6px;\">Who blinked in Cuba?</div><div style=\"font-size:16px; color:#FBE6D6; margin-bottom:6px;\">Kennedy’s patience, Khrushchev’s retreat, a secret bargain, or luck?</div><div style=\"font-size:15px; color:#FFB347;\">Graded discussion · 10 points · one post and one reply</div></div>\n<div style=\"text-align:center; color:#FFB347; font-size:16px; margin:0 0 4px;\">◎ ─ ◎ ─ ◎</div>\n<div style=\"border-top:2px solid #B5440A; margin:0 0 16px;\"></div>\n<div style=\"background:#FFFDF8; border:1px solid #E2D6C6; border-left:5px solid #B5440A; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#B5440A; margin-bottom:6px;\"><strong>HOW TO WORK</strong></div><div style=\"font-size:16px; color:#1B1A1A; line-height:1.55;\">Read the two lessons and the two primary sources first, and look over your notes in My Notebook. Then post your answer to the prompt below, and reply to one classmate.</div></div>\n<div style=\"background:#FFFDF8; border:1px solid #E2D6C6; border-top:4px solid #0A1226; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#0A1226; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>DISCUSSION PROMPT</strong></div><p style=\"font-size:17px; color:#1B1A1A; line-height:1.6; margin:0 0 12px;\">This week’s question: Who blinked in Cuba, and why did the world survive?</p><p style=\"font-size:17px; color:#1B1A1A; line-height:1.6; margin:0 0 12px;\">Choose one answer: Kennedy’s patience, Khrushchev’s retreat, the secret bargain over the missiles in Turkey, or luck. Use your chart. Name two decisions, with their dates and who made them, that support your answer. Then name one different choice that could have been made, such as taking General LeMay’s advice, and say what might have followed.</p><p style=\"font-size:17px; color:#1B1A1A; line-height:1.6; margin:0 0 12px;\">Write 150 to 250 words. State one claim you believe is true. Then explain why, using the specific evidence named above. Keep to what the lessons and the sources show. If you are guessing, say so.</p><p style=\"font-size:17px; color:#1B1A1A; line-height:1.6; margin:0 0 0;\">Then add one sentence on self-government. Two men held the power to begin a nuclear war. What does it take for a leader to rule himself, and the pressure around him, in such an hour? Use one decision from the lessons.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #E2D6C6; border-top:4px solid #6B4A2A; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#6B4A2A; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>RESPOND TO A CLASSMATE</strong></div><p style=\"font-size:17px; color:#1B1A1A; line-height:1.6; margin:0 0 0;\">Reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a fact or decision they did not use. If not, say politely where you think it falls short, and give your reason.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #E2D6C6; border-top:4px solid #B5440A; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#B5440A; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>GRADING RUBRIC (10 pts)</strong></div><table style=\"width:100%; border-collapse:collapse;\"><thead><tr style=\"background:#0A1226;\"><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #E2D6C6;\"></th></tr><tr style=\"background: #0E1C42;\">\n            <th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border: 1px solid #334;\">Criteria</th><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #E2D6C6;\">Substantive (full credit)</th><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #E2D6C6;\">Thin (partial credit)</th><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #E2D6C6;\">Missing (no credit)</th></tr></thead><tbody><tr style=\"background:#FFFDF8;\"><td style=\"padding:10px 12px; font-size:14px; color:#0A1226; border:1px solid #E2D6C6; width:150px; vertical-align:top;\">Your claim and your reasons<br><span style=\"font-size:12px; color:#B5440A;\">6 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1B1A1A; border:1px solid #E2D6C6; vertical-align:top;\">Takes a clear side, uses the specific evidence the prompt asks for, and explains why it supports the claim.</td><td style=\"padding:10px 12px; font-size:14px; color:#1B1A1A; border:1px solid #E2D6C6; vertical-align:top;\">Takes a side but gives general reasons, or leaves out part of what the prompt asks for.</td><td style=\"padding:10px 12px; font-size:14px; color:#1B1A1A; border:1px solid #E2D6C6; vertical-align:top;\">No post, or no claim.</td></tr><tr style=\"background:#FBF3E8;\"><td style=\"padding:10px 12px; font-size:14px; color:#0A1226; border:1px solid #E2D6C6; width:150px; vertical-align:top;\">Your reply to a classmate<br><span style=\"font-size:12px; color:#B5440A;\">4 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1B1A1A; border:1px solid #E2D6C6; vertical-align:top;\">Answers one classmate's actual reasoning. Strengthens it or says where it falls short, politely and with a reason.</td><td style=\"padding:10px 12px; font-size:14px; color:#1B1A1A; border:1px solid #E2D6C6; vertical-align:top;\">Replies, but only to agree or disagree with no reason.</td><td style=\"padding:10px 12px; font-size:14px; color:#1B1A1A; border:1px solid #E2D6C6; vertical-align:top;\">No reply.</td></tr></tbody></table><div style=\"text-align:right; margin-top:6px; font-size:13px; color:#B5440A;\">10 pts total</div></div>\n</div>",
+   "graded": true,
+   "points": 10.0,
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "id": "d_m25_8",
+   "group": "ag_discussions",
+   "rubric": "r_d_m25_8",
+   "week": 33,
+   "kind": "module-discussion"
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_25",
+   "title": "Module 25: The Cold War Turns Hot",
+   "published": true,
+   "items": [
+    {
+     "type": "quiz",
+     "ref": "q_m25_1",
+     "title": "25.1 Module 25 Introduction: The Cold War Turns Hot",
+     "published": true,
+     "week": 33
+    },
+    {
+     "type": "page",
+     "ref": "p_m25_2",
+     "title": "25.2 Module Map: The Cold War Turns Hot",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m25_3",
+     "title": "25.3 Lesson: Mao's Victory, Korea, and Vietnam",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m25_4",
+     "title": "25.4 Primary Source: Kennedy, Address on the Cuban Missile Crisis (October 22, 1962)",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m25_5",
+     "title": "25.5 Lesson: Castro and the Cuban Missile Crisis",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m25_6",
+     "title": "25.6 Primary Source: Khrushchev to Kennedy (October 26, 1962)",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m25_7",
+     "title": "25.7 VR Activity: The Cold War Turns Hot",
+     "published": true,
+     "week": 33
+    },
+    {
+     "type": "discussion",
+     "ref": "d_m25_8",
+     "title": "25.8 Discussion: Who blinked in Cuba?",
+     "published": true,
+     "week": 33
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m25_9",
+     "title": "25.9 Module 25 Review: The Cold War Turns Hot",
+     "published": true,
+     "week": 33
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of World History: Age of Enlightenment to Present (Mississippi), Spring Semester. Read read-only on 2026-11-23 from the sparkled module of Canvas sandbox shell 295 (World History MS SP), the naming authority, not its '(Unsparkled)' twin. Ids, titles, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/."
+ }
+}

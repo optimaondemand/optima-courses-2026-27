@@ -1,0 +1,505 @@
+{
+ "course": {
+  "title": "World History: Age of Enlightenment to Present (Mississippi), Spring Semester (Weeks 19-36)",
+  "code": "mswhist10",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_reading_quizzes",
+   "title": "Reading Quizzes",
+   "weight": 40.0
+  },
+  {
+   "id": "ag_discussions",
+   "title": "Discussions",
+   "weight": 20.0
+  },
+  {
+   "id": "ag_deep_feedback",
+   "title": "Deep Feedback",
+   "weight": 10.0
+  },
+  {
+   "id": "ag_exams",
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_d_m18_8",
+   "title": "18.8 Discussion: Was Japan&rsquo;s road to war chosen or forced? Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Your claim and your reasons",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Takes a clear side, uses the specific evidence the prompt asks for, and explains why it supports the claim.",
+       "points": 6.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Takes a side but gives general reasons, or leaves out part of what the prompt asks for.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no claim.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Your reply to a classmate",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Answers one classmate's actual reasoning. Strengthens it or says where it falls short, politely and with a reason.",
+       "points": 4.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Replies, but only to agree or disagree with no reason.",
+       "points": 2.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No reply.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_m18_2",
+   "title": "18.2 Module Map: Asia in Arms",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"margin: 0 0 20px 0; border: 2px solid #9C2D1A; border-radius: 12px; overflow: hidden; background: #F1F2EE;\">\n  <div style=\"background: #1F3326; border-bottom: 4px solid #E8C468; color: #FFFDF8; padding: 10px 18px; font-size: 16px; font-family: 'Old Standard TT', Georgia, 'Times New Roman', serif;\">Module Map: Asia in Arms</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m18/week-26-module-map.html\" width=\"100%\" height=\"2300\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #1C1B1A; background: #E6EBE7; border-top: 1px solid #D5DAD3;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m18/week-26-module-map.html\" target=\"_blank\" style=\"color: #35605A;\">open it in a new tab</a>.</div>\n</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m18_3",
+   "title": "18.3 Lesson: China: Warlords, the Long March, and Mao",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">China: Warlords, the Long March, and Mao</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m18/week-26-lesson-1.html\" width=\"100%\" height=\"2774\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m18/week-26-lesson-1.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m18_4",
+   "title": "18.4 Primary Source: The Lytton Report (1932)",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">The Lytton Report (1932)</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m18/week-26-primary-source-1.html\" width=\"100%\" height=\"2691\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m18/week-26-primary-source-1.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m18_5",
+   "title": "18.5 Lesson: Japan: Militarism, Manchuria, and Nanjing",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">Japan: Militarism, Manchuria, and Nanjing</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m18/week-26-lesson-2.html\" width=\"100%\" height=\"2774\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m18/week-26-lesson-2.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m18_6",
+   "title": "18.6 Primary Source: Mao: Problems of War and Strategy (1938)",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">Mao: Problems of War and Strategy (1938)</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m18/week-26-primary-source-2.html\" width=\"100%\" height=\"2744\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m18/week-26-primary-source-2.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_m18_1",
+   "title": "18.1 Module 18 Introduction: Asia in Arms",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#1F3326; border-bottom:4px solid #E8C468; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#E8C468; margin-bottom:6px;\"><strong>MODULE INTRODUCTION</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFDF8; line-height:1.25; margin-bottom:6px;\">Module Introduction: Asia in Arms</div><div style=\"font-size:15px; color:#E8C468;\">Survey · 2 questions · not graded</div></div>\n<div style=\"text-align:center; color:#E8C468; font-size:16px; margin:0 0 4px;\">≈ ─ ≈ ─ ≈</div>\n<div style=\"border-top:2px solid #9C2D1A; margin:0 0 16px;\"></div>\n<div style=\"background:#FFFDF8; border:1px solid #D5DAD3; border-top:4px solid #1F3326; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#1F3326; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 0;\">Welcome to Asia in Arms. Answer the questions below before you open the first lesson. Your answers help your teacher see where the class is starting. This survey is not graded.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #D5DAD3; border-left:5px solid #9C2D1A; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#9C2D1A; margin-bottom:6px;\"><strong>This module's goals:</strong></div><ul style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0; padding-left:26px;\"><li style=\"margin-bottom:6px;\">Describe how the Nationalists and the Communists rose, fought, and survived in China.</li><li style=\"margin-bottom:6px;\">Explain how militarism and the Mukden Incident put Japan’s army in command.</li><li style=\"margin-bottom:0;\">Weigh whether Japan’s road to war was chosen or forced.</li></ul></div>\n</div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 26,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Before you read: Was Japan’s road to war chosen or forced? Give your first answer in two or three sentences. You will answer it again at the end of the module, so it is fine if your answer changes.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I have read this module's goals and I know what I am working toward this week.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>Yes, I have read them</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Not yet, I will read them before the first lesson</p>",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "kind": "module-intro"
+  },
+  {
+   "id": "q_m18_7",
+   "title": "18.7 Reading Quiz: Asia in Arms",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#1F3326; border-bottom:4px solid #E8C468; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#E8C468; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFDF8; line-height:1.25; margin-bottom:6px;\">Reading Quiz: Asia in Arms</div><div style=\"font-size:15px; color:#E8C468;\">7 questions · 7 points</div></div>\n<div style=\"text-align:center; color:#E8C468; font-size:16px; margin:0 0 4px;\">≈ ─ ≈ ─ ≈</div>\n<div style=\"border-top:2px solid #9C2D1A; margin:0 0 16px;\"></div>\n<div style=\"background:#FFFDF8; border:1px solid #D5DAD3; border-top:4px solid #1F3326; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#1F3326; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 0;\">This quiz covers both lessons and both primary sources for this module. It has 7 questions. Most ask you to work something out from what you read, not to find a sentence in the text. You may look back at the lessons and sources while you work.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #D5DAD3; border-left:5px solid #9C2D1A; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#9C2D1A; margin-bottom:6px;\"><strong>HOW TO WORK</strong></div><div style=\"font-size:16px; color:#1C1B1A; line-height:1.55;\">Read the two lessons and the two primary sources first, and keep your notes in My Notebook. Then answer the questions below.</div></div>\n</div>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 26,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>After the killings of 1927, why was Mao’s turn to the countryside a sensible choice for the Communists who survived?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>Soviet advisers had ordered it, and Moscow’s orders were always followed</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Nine in ten Chinese lived in the countryside, Chiang held the cities, and the peasants had gained little under his rule</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>The warlords had promised to protect any Communist who reached their villages</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Japan had offered land to every peasant who would join the Red Army</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The fifth encirclement campaign forced the Communists out of Jiangxi. What made it different from the earlier campaigns?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>Chiang finally copied the Communists and fought as guerrillas</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Japan joined Chiang and attacked the Red Army from the north</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Soviet aid to the Communists stopped without warning</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Chiang’s armies built lines of small forts and cut off the Communists’ food, so the Red Army could no longer slip away</p>",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What was the most important result of Zhang Xueliang’s arrest of Chiang at Xi’an in December 1936?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>It ended Chiang’s plan to crush the Communists first and led to a second united front against Japan</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>It gave Mao command of the Nationalist army</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It made Japan pull its troops out of Manchuria</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It kept Chiang a prisoner for the rest of the war</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>By law the army and navy ministers in Japan had to be serving officers. What did this rule allow the military to do?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>Choose which man would be emperor</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Cancel treaties that the Emperor had signed</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Bring down any cabinet it disliked by having its minister resign, so civil leaders could never fully control the army</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Appoint the members of the parliament</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The lesson notes that after the Mukden bomb a train passed over the spot soon afterward. Why does the lesson include this detail?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>It suggests the explosion was too slight to be a real attack, which fits the later finding that Japanese officers set the bomb themselves</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>It shows that Chinese soldiers were poorly trained in sabotage</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It shows that the railway belonged to China and not to Japan</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It proves that Tokyo had ordered the attack in advance</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Lytton Report judged that Japan’s attack was not self-defense. What does what happened next show?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>That the commission had not understood the facts</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>That Japan had proved its case to the League</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>That Lord Lytton had secretly favored Japan</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>That a body can judge an aggressor correctly and still have no means to enforce its verdict</p>",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Mao writes, “the Party commands the gun, and the gun must never be allowed to command the Party.” Why would a student who has just read about Japan notice this sentence?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>It shows Mao wanted the Communist party to have no army</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It names the danger Japan had fallen into, an army that answers to no civil authority, and says his party must prevent it</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>It shows Mao admired the Kwantung Army and wished to copy it</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It shows Mao believed guns have no place in politics</p>",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "group": "ag_reading_quizzes",
+   "points": 7.0,
+   "kind": "reading-quiz"
+  },
+  {
+   "id": "q_m18_9",
+   "title": "18.9 Module 18 Review: Asia in Arms",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#1F3326; border-bottom:4px solid #E8C468; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#E8C468; margin-bottom:6px;\"><strong>MODULE REVIEW</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFDF8; line-height:1.25; margin-bottom:6px;\">Module Review: Asia in Arms</div><div style=\"font-size:15px; color:#E8C468;\">Survey · 5 questions · not graded</div></div>\n<div style=\"text-align:center; color:#E8C468; font-size:16px; margin:0 0 4px;\">≈ ─ ≈ ─ ≈</div>\n<div style=\"border-top:2px solid #9C2D1A; margin:0 0 16px;\"></div>\n<div style=\"background:#FFFDF8; border:1px solid #D5DAD3; border-top:4px solid #1F3326; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#1F3326; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 0;\">You have reached the end of Asia in Arms. Answer the questions below. Your answers help your teacher see what the class understood and what needs more attention. This survey is not graded.</p></div>\n</div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 26,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Answer this question again, now that you have finished the module: Was Japan’s road to war chosen or forced? Use at least one fact or source from this week.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident are you that you understood this module's main ideas?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>1 - Lost</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>2 - Shaky</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>3 - Somewhat confident</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>4 - Confident</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>5 - Very confident</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear to you? Name a person, event, or idea. If nothing is unclear, write what you would ask a historian.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "essay",
+     "text": "<p>Choose one of these virtues: courage, courtesy, honesty, perseverance, self-government, service, or responsibility. Name a person from this module who needed it, and say what they did or failed to do.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_answers",
+     "text": "<p>Confirm your submissions. Check each item you have finished.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>I read both lessons</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I read both primary sources</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I finished the Reading Quiz</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I posted my discussion answer and replied to a classmate</p>",
+       "correct": true
+      }
+     ]
+    }
+   ],
+   "kind": "module-review"
+  }
+ ],
+ "discussions": [
+  {
+   "title": "18.8 Discussion: Was Japan's road to war chosen or forced?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#1F3326; border-bottom:4px solid #E8C468; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#E8C468; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFDF8; line-height:1.25; margin-bottom:6px;\">Was Japan’s road to war chosen or forced?</div><div style=\"font-size:16px; color:#E6EBE7; margin-bottom:6px;\">A poor island nation, or an army that stopped taking orders?</div><div style=\"font-size:15px; color:#E8C468;\">Graded discussion · 10 points · one post and one reply</div></div>\n<div style=\"text-align:center; color:#E8C468; font-size:16px; margin:0 0 4px;\">≈ ─ ≈ ─ ≈</div>\n<div style=\"border-top:2px solid #9C2D1A; margin:0 0 16px;\"></div>\n<div style=\"background:#FFFDF8; border:1px solid #D5DAD3; border-left:5px solid #9C2D1A; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#9C2D1A; margin-bottom:6px;\"><strong>HOW TO WORK</strong></div><div style=\"font-size:16px; color:#1C1B1A; line-height:1.55;\">Read the two lessons and the two primary sources first, and look over your notes in My Notebook. Then post your answer to the prompt below, and reply to one classmate.</div></div>\n<div style=\"background:#FFFDF8; border:1px solid #D5DAD3; border-top:4px solid #1F3326; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#1F3326; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>DISCUSSION PROMPT</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 12px;\">This week’s question: Was Japan’s road to war chosen or forced?</p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 12px;\">Choose a side. Give one reason from “Japan: Militarism, Manchuria, and Nanjing” for each side of the question, then say which reason is stronger. Name the step on the road when Japan could most easily have turned back, and say why.</p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 12px;\">Write 150 to 250 words. State one claim you believe is true. Then explain why, using the specific evidence named above. Keep to what the lessons and the sources show. If you are guessing, say so.</p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 0;\">Then add one sentence on perseverance. Does endurance by itself make a cause admirable? Say what you think and why.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #D5DAD3; border-top:4px solid #35605A; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#35605A; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>RESPOND TO A CLASSMATE</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 0;\">Reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a fact or decision they did not use. If not, say politely where you think it falls short, and give your reason.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #D5DAD3; border-top:4px solid #9C2D1A; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#9C2D1A; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>GRADING RUBRIC (10 pts)</strong></div><table style=\"width:100%; border-collapse:collapse;\"><thead><tr style=\"background:#1F3326;\"><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #D5DAD3;\"></th></tr><tr style=\"background: #0E1C42;\">\n            <th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border: 1px solid #334;\">Criteria</th><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #D5DAD3;\">Substantive (full credit)</th><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #D5DAD3;\">Thin (partial credit)</th><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #D5DAD3;\">Missing (no credit)</th></tr></thead><tbody><tr style=\"background:#FFFDF8;\"><td style=\"padding:10px 12px; font-size:14px; color:#1F3326; border:1px solid #D5DAD3; width:150px; vertical-align:top;\">Your claim and your reasons<br><span style=\"font-size:12px; color:#9C2D1A;\">6 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D5DAD3; vertical-align:top;\">Takes a clear side, uses the specific evidence the prompt asks for, and explains why it supports the claim.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D5DAD3; vertical-align:top;\">Takes a side but gives general reasons, or leaves out part of what the prompt asks for.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D5DAD3; vertical-align:top;\">No post, or no claim.</td></tr><tr style=\"background:#F1F2EE;\"><td style=\"padding:10px 12px; font-size:14px; color:#1F3326; border:1px solid #D5DAD3; width:150px; vertical-align:top;\">Your reply to a classmate<br><span style=\"font-size:12px; color:#9C2D1A;\">4 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D5DAD3; vertical-align:top;\">Answers one classmate's actual reasoning. Strengthens it or says where it falls short, politely and with a reason.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D5DAD3; vertical-align:top;\">Replies, but only to agree or disagree with no reason.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D5DAD3; vertical-align:top;\">No reply.</td></tr></tbody></table><div style=\"text-align:right; margin-top:6px; font-size:13px; color:#9C2D1A;\">10 pts total</div></div>\n</div>",
+   "graded": true,
+   "points": 10.0,
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "id": "d_m18_8",
+   "group": "ag_discussions",
+   "rubric": "r_d_m18_8",
+   "week": 26,
+   "kind": "module-discussion"
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_18",
+   "title": "Module 18: Asia in Arms",
+   "published": true,
+   "items": [
+    {
+     "type": "quiz",
+     "ref": "q_m18_1",
+     "title": "18.1 Module 18 Introduction: Asia in Arms",
+     "published": true,
+     "week": 26
+    },
+    {
+     "type": "page",
+     "ref": "p_m18_2",
+     "title": "18.2 Module Map: Asia in Arms",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m18_3",
+     "title": "18.3 Lesson: China: Warlords, the Long March, and Mao",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m18_4",
+     "title": "18.4 Primary Source: The Lytton Report (1932)",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m18_5",
+     "title": "18.5 Lesson: Japan: Militarism, Manchuria, and Nanjing",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m18_6",
+     "title": "18.6 Primary Source: Mao: Problems of War and Strategy (1938)",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m18_7",
+     "title": "18.7 Reading Quiz: Asia in Arms",
+     "published": true,
+     "week": 26
+    },
+    {
+     "type": "discussion",
+     "ref": "d_m18_8",
+     "title": "18.8 Discussion: Was Japan's road to war chosen or forced?",
+     "published": true,
+     "week": 26
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m18_9",
+     "title": "18.9 Module 18 Review: Asia in Arms",
+     "published": true,
+     "week": 26
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of World History: Age of Enlightenment to Present (Mississippi), Spring Semester. Read read-only on 2026-11-23 from the sparkled module of Canvas sandbox shell 295 (World History MS SP), the naming authority, not its '(Unsparkled)' twin. Ids, titles, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/."
+ }
+}

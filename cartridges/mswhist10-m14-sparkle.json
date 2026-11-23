@@ -1,0 +1,194 @@
+{
+ "id": "mswhist10-m14-sparkle",
+ "label": "The Peace That Failed · Sparkle",
+ "code": "mswhist10",
+ "title": "World History: Age of Enlightenment to Present (Mississippi), Spring Semester (Weeks 19-36)",
+ "file": "cartridges/mswhist10-m14-sparkle.imscc",
+ "bytes": 28836,
+ "version": "2026.11.23",
+ "built": "2026-11-23T15:22:02",
+ "front_page": "wiki_content/course-home.html",
+ "items": 9,
+ "modules": [
+  {
+   "id": "m_14",
+   "title": "Module 14: The Peace That Failed",
+   "gid": "gdd3cdd4b7900c27deee2538a9b0b9805",
+   "published": true,
+   "items": 9,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 6,
+  "assignments": 1,
+  "quizzes": 2,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 9
+ },
+ "weights": [
+  {
+   "title": "Reading Quizzes",
+   "weight": 40.0
+  },
+  {
+   "title": "Discussions",
+   "weight": 20.0
+  },
+  {
+   "title": "Deep Feedback",
+   "weight": 10.0
+  },
+  {
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "groups": [
+  {
+   "id": "gd5958919af047b9c1c095b3510ea4a62",
+   "title": "Reading Quizzes",
+   "weight": 40.0,
+   "position": 1
+  },
+  {
+   "id": "gcd56004592043ab98ecdad5a728a0ff8",
+   "title": "Discussions",
+   "weight": 20.0,
+   "position": 2
+  },
+  {
+   "id": "ge273aa2f3ca1bfa2c77cc0c88b7b7221",
+   "title": "Deep Feedback",
+   "weight": 10.0,
+   "position": 3
+  },
+  {
+   "id": "gd4747138ed731803ea12496c819ad5c6",
+   "title": "Quarterly Exams",
+   "weight": 30.0,
+   "position": 4
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "a_m14_7",
+   "type": "assignment",
+   "title": "14.7 Primary Source Report: Keynes and the Peace of 1919",
+   "gid": "gd93384c8966589161ecd3900ebd49765",
+   "xml": "gd93384c8966589161ecd3900ebd49765/assignment_settings.xml",
+   "module": "m_14",
+   "week": 22,
+   "kind": "primary-source-report",
+   "points": 16.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "ge273aa2f3ca1bfa2c77cc0c88b7b7221",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m14_1",
+   "type": "quiz",
+   "title": "14.1 Module 14 Introduction: The Peace That Failed",
+   "gid": "ga61fe209515c3db18841f393824924a8",
+   "xml": "ga61fe209515c3db18841f393824924a8/assessment_meta.xml",
+   "module": "m_14",
+   "week": 22,
+   "kind": "module-intro",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m14_9",
+   "type": "quiz",
+   "title": "14.9 Module 14 Review: The Peace That Failed",
+   "gid": "g3310d7d1a01ebb04de0d02a2a1819558",
+   "xml": "g3310d7d1a01ebb04de0d02a2a1819558/assessment_meta.xml",
+   "module": "m_14",
+   "week": 22,
+   "kind": "module-review",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_m14_8",
+   "type": "discussion",
+   "title": "14.8 Discussion: Was Versailles too harsh, or too weakly enforced?",
+   "gid": "gfb71a7d3c90c0c1ba1c34ec1e8a035df",
+   "xml": "g7a03e37859b8f23ca8724a5e44f28b25.xml",
+   "module": "m_14",
+   "week": 22,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "gcd56004592043ab98ecdad5a728a0ff8",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec mswhist10-m14-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [],
+  "stats": {
+   "resources": 14,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 5,
+    "webcontent": 6,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 2,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 9,
+   "modules": 1,
+   "module_items": 9,
+   "module_item_types": {
+    "Quizzes::Quiz": 2,
+    "WikiPage": 5,
+    "Assignment": 1,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 6,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 4,
+   "group_refs": 2,
+   "quizzes": 2,
+   "assignments": 1,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 26.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "501705ec9256ec42b7b7646790cca1eb3e03acebbcbe2ed8e417db9efde29ded",
+ "art_pack": null
+}

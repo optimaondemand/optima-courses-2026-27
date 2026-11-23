@@ -1,0 +1,958 @@
+{
+ "course": {
+  "title": "World History: Age of Enlightenment to Present (Mississippi), Spring Semester (Weeks 19-36)",
+  "code": "mswhist10",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_reading_quizzes",
+   "title": "Reading Quizzes",
+   "weight": 40.0
+  },
+  {
+   "id": "ag_discussions",
+   "title": "Discussions",
+   "weight": 20.0
+  },
+  {
+   "id": "ag_deep_feedback",
+   "title": "Deep Feedback",
+   "weight": 10.0
+  },
+  {
+   "id": "ag_exams",
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_m19_7",
+   "title": "19.7 Quarter 3 Capstone: The Road to War Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "States the source's claims and the lesson's facts accurately and precisely, with short quotations used correctly.",
+       "points": 5.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Accurate on the main points. Small gaps or loose wording.",
+       "points": 4.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Partly accurate, or leans on summary instead of the source's own words.",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Major errors, or little connection to the source and lessons.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Builds each claim from evidence, weighs more than one explanation, and gives a counterfactual that is plausible and tied to the facts.",
+       "points": 5.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Claims are supported. The counterfactual is reasonable but thinly argued.",
+       "points": 4.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Claims are asserted more than shown. The counterfactual is a guess with little support.",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Little reasoning, or the counterfactual is missing.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision of expression",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, organized, and exact. Each question is answered in its own labeled part.",
+       "points": 5.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly clear. Occasional vagueness or wandering.",
+       "points": 4.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Hard to follow in places, or parts are missing.",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Unclear or disorganized.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Names what the source cannot show and what the writer cannot know. Does not claim more than the evidence supports.",
+       "points": 5.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Notes some limits. Occasionally claims more than the evidence supports.",
+       "points": 4.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Rarely notes any limit. Treats guesses as facts.",
+       "points": 3.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Overclaims throughout, or presents invented details as fact.",
+       "points": 1.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_d_m19_8",
+   "title": "19.8 Discussion: Did Munich buy time or cost it? Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Your claim and your reasons",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Takes a clear side, uses the specific evidence the prompt asks for, and explains why it supports the claim.",
+       "points": 6.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Takes a side but gives general reasons, or leaves out part of what the prompt asks for.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no claim.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Your reply to a classmate",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Answers one classmate's actual reasoning. Strengthens it or says where it falls short, politely and with a reason.",
+       "points": 4.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Replies, but only to agree or disagree with no reason.",
+       "points": 2.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No reply.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_m19_2",
+   "title": "19.2 Module Map: The Road to War: Quarter 3 Capstone",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"margin: 0 0 20px 0; border: 2px solid #2F5D8A; border-radius: 12px; overflow: hidden; background: #EDEFF2;\">\n  <div style=\"background: #26282D; border-bottom: 4px solid #E5CFA3; color: #FDFCFA; padding: 10px 18px; font-size: 16px; font-family: 'Old Standard TT', Georgia, 'Times New Roman', serif;\">Module Map: The Road to War: Quarter 3 Capstone</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m19/week-27-module-map.html\" width=\"100%\" height=\"2300\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #1D1E22; background: #E9EBEE; border-top: 1px solid #D6DBE2;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m19/week-27-module-map.html\" target=\"_blank\" style=\"color: #4F5763;\">open it in a new tab</a>.</div>\n</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m19_3",
+   "title": "19.3 Lesson: From the Rhineland to Munich",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">From the Rhineland to Munich</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m19/week-27-lesson-1.html\" width=\"100%\" height=\"2774\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m19/week-27-lesson-1.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m19_4",
+   "title": "19.4 Primary Source: The Munich Agreement and the Anglo-German Declaration (1938)",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">The Munich Agreement and the Anglo-German Declaration (1938)</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m19/week-27-primary-source-1.html\" width=\"100%\" height=\"2745\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m19/week-27-primary-source-1.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m19_5",
+   "title": "19.5 Lesson: The Nazi-Soviet Pact and the Invasion of Poland",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">The Nazi-Soviet Pact and the Invasion of Poland</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m19/week-27-lesson-2.html\" width=\"100%\" height=\"2773\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m19/week-27-lesson-2.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m19_6",
+   "title": "19.6 Primary Source: Secret Protocol of the Nazi-Soviet Pact (1939)",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">Secret Protocol of the Nazi-Soviet Pact (1939)</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m19/week-27-primary-source-2.html\" width=\"100%\" height=\"2773\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m19/week-27-primary-source-2.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "title": "19.7 Quarter 3 Capstone: The Road to War",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#26282D; border-bottom:4px solid #E5CFA3; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#E5CFA3; margin-bottom:6px;\"><strong>QUARTER 3 CAPSTONE</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FDFCFA; line-height:1.25; margin-bottom:6px;\">The Road to War</div><div style=\"font-size:16px; color:#E9EBEE; margin-bottom:6px;\">One essay on the years from the Marne to Poland.</div><div style=\"font-size:15px; color:#E5CFA3;\">Capstone · 20 points · Word document upload</div></div>\n<div style=\"text-align:center; color:#E5CFA3; font-size:16px; margin:0 0 4px;\">☂ ─ ☂ ─ ☂</div>\n<div style=\"border-top:2px solid #2F5D8A; margin:0 0 16px;\"></div>\n<div style=\"background:#FDFCFA; border:1px solid #D6DBE2; border-left:5px solid #2F5D8A; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#2F5D8A; margin-bottom:6px;\"><strong>HOW TO WORK</strong></div><div style=\"font-size:16px; color:#1D1E22; line-height:1.55;\">Read your notes in My Notebook and look back over the quarter's lessons and primary sources first. Then write your essay in Word and submit it as the submission box below describes.</div></div>\n<div style=\"background:#FDFCFA; border:1px solid #D6DBE2; border-top:4px solid #26282D; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#26282D; color:#FDFCFA; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>WHAT YOU ARE DOING</strong></div><p style=\"font-size:17px; color:#1D1E22; line-height:1.6; margin:0 0 0;\">The Quarter 3 Capstone is one essay that brings the whole quarter together, from the Marne in 1914 to the invasion of Poland in 1939. You will choose one of three questions, make an argument, and defend it with evidence from the lessons and the primary sources you have read.</p></div>\n<div style=\"background:#FDFCFA; border:1px solid #D6DBE2; border-top:4px solid #2F5D8A; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#2F5D8A; color:#FDFCFA; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>CHOOSE ONE QUESTION</strong></div><ol style=\"font-size:17px; color:#1D1E22; line-height:1.6; margin:0 0 12px 0; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Was the Second World War made at Versailles, or by the decisions of the 1930s?</li><li style=\"margin-bottom:8px;\">Between 1919 and 1939, did free governments fall mainly because of weak institutions, or because of the choices of particular men?</li><li style=\"margin-bottom:0;\">Between 1931 and 1939, was there a moment when war could still have been prevented? If so, when, and who would have had to act?</li></ol></div>\n<div style=\"background:#FDFCFA; border:1px solid #D6DBE2; border-top:4px solid #26282D; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#26282D; color:#FDFCFA; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>WHAT YOUR ESSAY MUST DO</strong></div><p style=\"font-size:17px; color:#1D1E22; line-height:1.6; margin:0 0 12px;\">Write 800 to 1,200 words in Word. Give your essay a title. State your answer in the first paragraph, and keep it clear to the end.</p><ol style=\"font-size:17px; color:#1D1E22; line-height:1.6; margin:0 0 12px 0; padding-left:26px;\"><li style=\"margin-bottom:8px;\">Use specific evidence from at least four different weeks of the quarter, naming people, decisions, and dates.</li><li style=\"margin-bottom:8px;\">Quote from at least two of the primary sources of the quarter. Put each quotation in quotation marks and cite it in a footnote.</li><li style=\"margin-bottom:8px;\">Include one counterfactual. Name a moment, say what might have gone differently, and say what you think would have followed.</li><li style=\"margin-bottom:8px;\">Answer the strongest objection to your view. Say what a thoughtful person on the other side would point to, and why you are still not persuaded.</li><li style=\"margin-bottom:0;\">Say plainly what the evidence cannot show and what you are guessing.</li></ol><p style=\"font-size:17px; color:#1D1E22; line-height:1.6; margin:0 0 0;\">You will be graded on the quality of your argument, not on which question you choose or which side you take.</p></div>\n<div style=\"background:#FDFCFA; border:1px solid #D6DBE2; border-top:4px solid #4F5763; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#4F5763; color:#FDFCFA; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>HOW YOUR CAPSTONE WILL BE SCORED (20 pts)</strong></div><table style=\"width:100%; border-collapse:collapse;\"><thead><tr style=\"background:#26282D;\"><th style=\"padding:9px 12px; font-size:13px; color:#FDFCFA; text-align:left; border:1px solid #D6DBE2;\"></th></tr><tr style=\"background: #0E1C42;\">\n            <th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border: 1px solid #334;\">Criteria</th><th style=\"padding:9px 12px; font-size:13px; color:#FDFCFA; text-align:left; border:1px solid #D6DBE2;\">Excellent (4)</th><th style=\"padding:9px 12px; font-size:13px; color:#FDFCFA; text-align:left; border:1px solid #D6DBE2;\">Proficient (3)</th><th style=\"padding:9px 12px; font-size:13px; color:#FDFCFA; text-align:left; border:1px solid #D6DBE2;\">Developing (2)</th><th style=\"padding:9px 12px; font-size:13px; color:#FDFCFA; text-align:left; border:1px solid #D6DBE2;\">Beginning (1)</th></tr></thead><tbody><tr style=\"background:#FDFCFA;\"><td style=\"padding:10px 12px; font-size:14px; color:#26282D; border:1px solid #D6DBE2; width:130px; vertical-align:top;\">Understanding of the material<br><span style=\"font-size:12px; color:#2F5D8A;\">5 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">States the source's claims and the lesson's facts accurately and precisely, with short quotations used correctly.</td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Accurate on the main points. Small gaps or loose wording.</td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Partly accurate, or leans on summary instead of the source's own words.</td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Major errors, or little connection to the source and lessons.</td></tr><tr style=\"background:#EDEFF2;\"><td style=\"padding:10px 12px; font-size:14px; color:#26282D; border:1px solid #D6DBE2; width:130px; vertical-align:top;\">Quality of reasoning<br><span style=\"font-size:12px; color:#2F5D8A;\">5 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Builds each claim from evidence, weighs more than one explanation, and gives a counterfactual that is plausible and tied to the facts.</td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Claims are supported. The counterfactual is reasonable but thinly argued.</td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Claims are asserted more than shown. The counterfactual is a guess with little support.</td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Little reasoning, or the counterfactual is missing.</td></tr><tr style=\"background:#FDFCFA;\"><td style=\"padding:10px 12px; font-size:14px; color:#26282D; border:1px solid #D6DBE2; width:130px; vertical-align:top;\">Clarity and precision of expression<br><span style=\"font-size:12px; color:#2F5D8A;\">5 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Clear, organized, and exact. Each question is answered in its own labeled part.</td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Mostly clear. Occasional vagueness or wandering.</td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Hard to follow in places, or parts are missing.</td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Unclear or disorganized.</td></tr><tr style=\"background:#EDEFF2;\"><td style=\"padding:10px 12px; font-size:14px; color:#26282D; border:1px solid #D6DBE2; width:130px; vertical-align:top;\">Intellectual honesty<br><span style=\"font-size:12px; color:#2F5D8A;\">5 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Names what the source cannot show and what the writer cannot know. Does not claim more than the evidence supports.</td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Notes some limits. Occasionally claims more than the evidence supports.</td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Rarely notes any limit. Treats guesses as facts.</td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Overclaims throughout, or presents invented details as fact.</td></tr><tr style=\"background:#26282D;\"><td style=\"padding:9px 12px; font-size:14px; color:#FDFCFA; border:1px solid #E5CFA3; text-align:right;\" colspan=\"5\">Total:</td></tr></tbody></table><div style=\"text-align:right; margin-top:6px; font-size:13px; color:#2F5D8A;\">20 pts total</div></div>\n<div style=\"background:#FDFCFA; border:1px solid #D6DBE2; border-top:4px solid #2F5D8A; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#2F5D8A; color:#FDFCFA; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>HOW TO SUBMIT</strong></div><p style=\"font-size:17px; color:#1D1E22; line-height:1.6; margin:0 0 12px;\">Write your essay in Word and save it to your OneDrive folder. Then open this assignment in Canvas, choose the OneDrive tab, select your file, and submit.</p><div style=\"background:#EDEFF2; border:1px dashed #4F5763; border-radius:6px; padding:10px 16px; font-size:15px; color:#1D1E22; line-height:1.55; margin-bottom:12px;\"><strong>M365 reminder:</strong> name your file like this: LastName_FirstName_Q3Capstone_WHSP. Save it in Optima → History → WorldHistory_Spring. Name your sources in footnotes (M365 Skill You’re Practicing: Inserting a Footnote in Word).</div><p style=\"font-size:17px; color:#1D1E22; line-height:1.6; margin:0 0 0;\">If you chose to work with a group in the module introduction, submit one shared essay and list every group member’s name under the title. Otherwise, write alone. Both paths use the same rubric.</p></div>\n</div>",
+   "points": 20.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "allowed_extensions": "docx",
+   "omit_from_final_grade": false,
+   "id": "a_m19_7",
+   "group": "ag_deep_feedback",
+   "rubric": "r_m19_7",
+   "week": 27,
+   "kind": "capstone"
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q_m19_1",
+   "title": "19.1 Module 19 Introduction: The Road to War: Quarter 3 Capstone",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#26282D; border-bottom:4px solid #E5CFA3; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#E5CFA3; margin-bottom:6px;\"><strong>MODULE INTRODUCTION</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FDFCFA; line-height:1.25; margin-bottom:6px;\">Module Introduction: The Road to War: Quarter 3 Capstone</div><div style=\"font-size:15px; color:#E5CFA3;\">Survey · 3 questions · not graded</div></div>\n<div style=\"text-align:center; color:#E5CFA3; font-size:16px; margin:0 0 4px;\">☂ ─ ☂ ─ ☂</div>\n<div style=\"border-top:2px solid #2F5D8A; margin:0 0 16px;\"></div>\n<div style=\"background:#FDFCFA; border:1px solid #D6DBE2; border-top:4px solid #26282D; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#26282D; color:#FDFCFA; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1D1E22; line-height:1.6; margin:0 0 0;\">Welcome to The Road to War: Quarter 3 Capstone. Answer the questions below before you open the first lesson. Your answers help your teacher see where the class is starting. This survey is not graded.</p></div>\n<div style=\"background:#FDFCFA; border:1px solid #D6DBE2; border-left:5px solid #2F5D8A; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#2F5D8A; margin-bottom:6px;\"><strong>This module's goals:</strong></div><ul style=\"font-size:17px; color:#1D1E22; line-height:1.6; margin:0; padding-left:26px;\"><li style=\"margin-bottom:6px;\">Describe Hitler’s steps from the Rhineland to Munich and explain why Britain and France did not stop him.</li><li style=\"margin-bottom:6px;\">Explain how the seizure of Prague, the pledge to Poland, and the Nazi-Soviet Pact led to war.</li><li style=\"margin-bottom:0;\">Weigh whether Munich bought time or cost it, and bring the quarter together in your Capstone.</li></ul></div>\n</div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 27,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Before you read: Did Munich buy time or cost it? Give your first answer in two or three sentences. You will answer it again at the end of the module, so it is fine if your answer changes.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I have read this module's goals and I know what I am working toward this week.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>Yes, I have read them</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Not yet, I will read them before the first lesson</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You may do this week’s main assignment alone or with a group. If you choose a group, you agree to the Group Covenant and to submit one shared piece. Which do you choose?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>I will work alone</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I will work with a group and I agree to the Group Covenant</p>",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "kind": "capstone"
+  },
+  {
+   "id": "q_m19_9",
+   "title": "19.9 Module 19 Review: The Road to War: Quarter 3 Capstone",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#26282D; border-bottom:4px solid #E5CFA3; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#E5CFA3; margin-bottom:6px;\"><strong>MODULE REVIEW</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FDFCFA; line-height:1.25; margin-bottom:6px;\">Module Review: The Road to War: Quarter 3 Capstone</div><div style=\"font-size:15px; color:#E5CFA3;\">Survey · 5 questions · not graded</div></div>\n<div style=\"text-align:center; color:#E5CFA3; font-size:16px; margin:0 0 4px;\">☂ ─ ☂ ─ ☂</div>\n<div style=\"border-top:2px solid #2F5D8A; margin:0 0 16px;\"></div>\n<div style=\"background:#FDFCFA; border:1px solid #D6DBE2; border-top:4px solid #26282D; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#26282D; color:#FDFCFA; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1D1E22; line-height:1.6; margin:0 0 0;\">You have reached the end of The Road to War: Quarter 3 Capstone. Answer the questions below. Your answers help your teacher see what the class understood and what needs more attention. This survey is not graded.</p></div>\n</div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 27,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Answer this question again, now that you have finished the module: Did Munich buy time or cost it? Use at least one fact or source from this week.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident are you that you understood this module's main ideas?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>1 - Lost</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>2 - Shaky</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>3 - Somewhat confident</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>4 - Confident</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>5 - Very confident</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear to you? Name a person, event, or idea. If nothing is unclear, write what you would ask a historian.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "essay",
+     "text": "<p>Choose one of these virtues: courage, courtesy, honesty, perseverance, self-government, service, or responsibility. Name a person from this module who needed it, and say what they did or failed to do.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_answers",
+     "text": "<p>Confirm your submissions. Check each item you have finished.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>I read both lessons</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I read both primary sources</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I submitted my Quarter 3 Capstone</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I posted my discussion answer and replied to a classmate</p>",
+       "correct": true
+      }
+     ]
+    }
+   ],
+   "kind": "capstone"
+  },
+  {
+   "id": "q_m19_10",
+   "title": "19.10 Quarter 3 Exam",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#26282D; border-bottom:4px solid #E5CFA3; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#E5CFA3; margin-bottom:6px;\"><strong>QUARTER EXAM</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FDFCFA; line-height:1.25; margin-bottom:6px;\">Quarter 3 Exam</div><div style=\"font-size:15px; color:#E5CFA3;\">Exam · 20 questions · 40 points</div></div>\n<div style=\"text-align:center; color:#E5CFA3; font-size:16px; margin:0 0 4px;\">☂ ─ ☂ ─ ☂</div>\n<div style=\"border-top:2px solid #2F5D8A; margin:0 0 16px;\"></div>\n<div style=\"background:#FDFCFA; border:1px solid #D6DBE2; border-top:4px solid #26282D; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#26282D; color:#FDFCFA; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1D1E22; line-height:1.6; margin:0 0 0;\">This exam covers Quarter 3 only. It has 20 multiple-choice questions worth 2 points each, 40 points in all. Read each question carefully and choose the best answer.</p></div>\n<div style=\"background:#FDFCFA; border:1px solid #D6DBE2; border-left:5px solid #2F5D8A; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#2F5D8A; margin-bottom:6px;\"><strong>HOW TO WORK</strong></div><div style=\"font-size:16px; color:#1D1E22; line-height:1.55;\">Look back over the quarter's lessons and primary sources first, and look over your notes in My Notebook. Then answer the questions below.</div></div>\n</div>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 27,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did German planners want to beat France quickly and then turn east?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>Russia had agreed to stay neutral if Germany attacked France</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>France had the weakest army of Germany’s enemies and could be beaten in days</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Russia needed weeks to mobilize, so Germany could win in the west first</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Britain had promised to defend France but not to defend Russia</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>On September 2, 1914, General von Kluck turned southeast and passed east of Paris. What did this do?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>It exposed his flank to the French army gathering in Paris</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>It cut the French army off from the sea and trapped it</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It brought the Germans to the gates of Paris within a day</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It forced the British army to leave the continent</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did the Allies attack the Dardanelles and Gallipoli in 1915?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>To capture Constantinople as a base for striking Germany directly</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>To break the German blockade of the North Sea ports</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>To protect the Suez Canal from a German fleet in the Red Sea</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>To knock the Ottoman Empire out of the war and open a sea road to Russia</p>",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does “Mobilizing Whole Peoples: Propaganda and the Home Front” say about the Bryce Report of 1915?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>Every story in the report was later proved false by the historians who studied it</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It was based on real killings, but some of its worst stories had weak evidence</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>It was written by the German government to answer the charges the Allies made</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It was kept secret by the British government until after the war had ended</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did the Zimmermann Telegram turn American opinion against Germany?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>It announced that German submarines would soon begin attacking American ports and ships</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It offered Mexico help to win back Texas and other lands, and Zimmermann admitted it</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>It showed that Britain had broken the American diplomatic code and read its secrets</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It asked the United States to stay out of the war in return for peace</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did the Treaty of Brest-Litovsk cost Russia?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>Only its ports on the Black Sea and the right to use the straits</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Its alliance with France and Britain, but not any land</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Its army, which Germany forced the Bolsheviks to disband</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Poland, the Baltic lands, Ukraine, and a third of its people</p>",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did Article 231 of the Treaty of Versailles say?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>Germany and its allies were responsible for all loss and damage</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Germany must give up its army and destroy all its factories</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Germany could never join the League of Nations</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Germany would pay for the war only if it fought another</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did the United States Senate refuse to approve the Treaty of Versailles?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>The Senate thought the treaty was too easy on Germany and wanted to continue the war</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>The Senate voted for the treaty, but the House of Representatives voted against it</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Senators feared Article 10 could send soldiers to war without a vote of Congress, and Wilson would not bargain</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Most senators opposed the treaty because it had no League of Nations in it</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What was John Maynard Keynes’s main argument in The Economic Consequences of the Peace?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>The treaty should have been harsher so that Germany could never fight again</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Germany should have kept its colonies in order to pay its debts</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>The League of Nations should have been given the job of collecting reparations</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>The reparations were too large to pay and would drag down all of Europe</p>",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why was Mussolini able to take power in October 1922?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>The army joined the Blackshirts and overthrew the King and the government</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>The King would not use the army against the march and asked Mussolini to lead</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Mussolini won a majority in a free national election held that same month</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Parliament voted him emergency powers in order to end the strikes and riots</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Who suffered most from the German hyperinflation of 1923, according to “Inflation, Crash, and Two Answers: Weimar and Roosevelt's America”?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>People who had saved for years, such as retired teachers</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Factory owners who had borrowed heavily from the banks to build new works</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Farmers who had paid off their loans in worthless paper money</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Government officials, who were paid in gold coins</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In his postscript of January 4, 1923, what did Lenin say about Stalin?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>He should become the next leader of the party after Lenin’s death</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>He should be sent to lead the Red Army against the Whites</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>He was too rude and should be replaced as General Secretary by a more patient man</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>He should be tried for his actions in the civil war</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did the poor harvest of 1932 become a famine that killed millions?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>Stalin ordered the peasants to plant only cotton and tobacco for export</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Foreign nations refused to sell any food to the Soviet Union at that time</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>The kulaks hid all of the grain in the cities and towns of the country</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>The state kept its grain quotas and seized seed and food from villages</p>",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How did the vote on the Enabling Act of March 23, 1933, pass?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>Every party except the Nazis in the Reichstag voted for the law</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Communist deputies were jailed or in hiding, SA men stood outside, and the Center Party voted yes</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Hindenburg signed it as a decree without any vote at all</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>The Social Democrats voted for it after Hitler promised free elections</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How did Hitler become Chancellor on January 30, 1933?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>Papen persuaded Hindenburg to appoint him, believing he could be controlled</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>He won a majority of the votes in a free national election held in November 1932</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>He overthrew the government with the SA in a single night of street fighting</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Hindenburg resigned from office and named him both president and Chancellor</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did Mao’s Communists begin the Long March in October 1934?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>Soviet advisers ordered them to move their army into Manchuria</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Japan had attacked their base in Jiangxi and driven them out</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Chiang’s forts cut off their food and the Jiangxi Soviet began to starve</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>They hoped to reach Nanjing before the Nationalists could</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What do we now know about the bomb on the railway near Mukden in September 1931?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>Chinese soldiers set it, just as the Japanese government said</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Japanese officers set it themselves as an excuse to attack</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Soviet agents set it to start a war in Manchuria</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It was an accident that the army then used as an excuse</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Who was NOT invited to the Munich conference of September 1938?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>Britain and France, whose leaders were the hosts of the meeting</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Italy and Germany, whose leaders had called the meeting</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Poland and Romania, whose borders were being redrawn</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Czechoslovakia and the Soviet Union, whose fate was being decided</p>",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did Stalin sign the Nazi-Soviet Pact in August 1939?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>He distrusted the West after Munich and wanted time to build up his army</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>He had agreed to join Hitler in an attack on Britain</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>He wanted to halt the German advance into Ukraine</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>The League of Nations had asked him to make peace with Germany</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Britain’s promise to defend Poland in March 1939 was remarkable. Why?</p>",
+     "points": 2.0,
+     "answers": [
+      {
+       "text": "<p>Britain had no navy that could reach any port on the coast of Poland</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Poland had not asked Britain or France for any help in the crisis</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Britain had never before guaranteed borders in eastern Europe, and had no army to send</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>It was the first treaty that Britain had ever signed with France or Poland</p>",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "group": "ag_exams",
+   "points": 40.0,
+   "kind": "quarter-exam"
+  }
+ ],
+ "discussions": [
+  {
+   "title": "19.8 Discussion: Did Munich buy time or cost it?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#26282D; border-bottom:4px solid #E5CFA3; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#E5CFA3; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FDFCFA; line-height:1.25; margin-bottom:6px;\">Did Munich buy time or cost it?</div><div style=\"font-size:16px; color:#E9EBEE; margin-bottom:6px;\">A year of preparation, or the loss of an ally's army and forts?</div><div style=\"font-size:15px; color:#E5CFA3;\">Graded discussion · 10 points · one post and one reply</div></div>\n<div style=\"text-align:center; color:#E5CFA3; font-size:16px; margin:0 0 4px;\">☂ ─ ☂ ─ ☂</div>\n<div style=\"border-top:2px solid #2F5D8A; margin:0 0 16px;\"></div>\n<div style=\"background:#FDFCFA; border:1px solid #D6DBE2; border-left:5px solid #2F5D8A; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#2F5D8A; margin-bottom:6px;\"><strong>HOW TO WORK</strong></div><div style=\"font-size:16px; color:#1D1E22; line-height:1.55;\">Read the two lessons and the two primary sources first, and look over your notes in My Notebook. Then post your answer to the prompt below, and reply to one classmate.</div></div>\n<div style=\"background:#FDFCFA; border:1px solid #D6DBE2; border-top:4px solid #26282D; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#26282D; color:#FDFCFA; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>DISCUSSION PROMPT</strong></div><p style=\"font-size:17px; color:#1D1E22; line-height:1.6; margin:0 0 12px;\">This week’s question: Did Munich buy time or cost it?</p><p style=\"font-size:17px; color:#1D1E22; line-height:1.6; margin:0 0 12px;\">Choose a side. Name at least one thing Britain and France gained at Munich and at least one thing they lost, and say which weighs more. Use at least one fact from “The Nazi-Soviet Pact and the Invasion of Poland” about what Hitler did with the year.</p><p style=\"font-size:17px; color:#1D1E22; line-height:1.6; margin:0 0 12px;\">Write 150 to 250 words. State one claim you believe is true. Then explain why, using the specific evidence named above. Keep to what the lessons and the sources show. If you are guessing, say so.</p><p style=\"font-size:17px; color:#1D1E22; line-height:1.6; margin:0 0 0;\">Then add one sentence on courage. Some at the time called Munich prudence and some called it fear. Which word fits, and why?</p></div>\n<div style=\"background:#FDFCFA; border:1px solid #D6DBE2; border-top:4px solid #4F5763; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#4F5763; color:#FDFCFA; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>RESPOND TO A CLASSMATE</strong></div><p style=\"font-size:17px; color:#1D1E22; line-height:1.6; margin:0 0 0;\">Reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a fact or decision they did not use. If not, say politely where you think it falls short, and give your reason.</p></div>\n<div style=\"background:#FDFCFA; border:1px solid #D6DBE2; border-top:4px solid #2F5D8A; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#2F5D8A; color:#FDFCFA; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>GRADING RUBRIC (10 pts)</strong></div><table style=\"width:100%; border-collapse:collapse;\"><thead><tr style=\"background:#26282D;\"><th style=\"padding:9px 12px; font-size:13px; color:#FDFCFA; text-align:left; border:1px solid #D6DBE2;\"></th></tr><tr style=\"background: #0E1C42;\">\n            <th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border: 1px solid #334;\">Criteria</th><th style=\"padding:9px 12px; font-size:13px; color:#FDFCFA; text-align:left; border:1px solid #D6DBE2;\">Substantive (full credit)</th><th style=\"padding:9px 12px; font-size:13px; color:#FDFCFA; text-align:left; border:1px solid #D6DBE2;\">Thin (partial credit)</th><th style=\"padding:9px 12px; font-size:13px; color:#FDFCFA; text-align:left; border:1px solid #D6DBE2;\">Missing (no credit)</th></tr></thead><tbody><tr style=\"background:#FDFCFA;\"><td style=\"padding:10px 12px; font-size:14px; color:#26282D; border:1px solid #D6DBE2; width:150px; vertical-align:top;\">Your claim and your reasons<br><span style=\"font-size:12px; color:#2F5D8A;\">6 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Takes a clear side, uses the specific evidence the prompt asks for, and explains why it supports the claim.</td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Takes a side but gives general reasons, or leaves out part of what the prompt asks for.</td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">No post, or no claim.</td></tr><tr style=\"background:#EDEFF2;\"><td style=\"padding:10px 12px; font-size:14px; color:#26282D; border:1px solid #D6DBE2; width:150px; vertical-align:top;\">Your reply to a classmate<br><span style=\"font-size:12px; color:#2F5D8A;\">4 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Answers one classmate's actual reasoning. Strengthens it or says where it falls short, politely and with a reason.</td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">Replies, but only to agree or disagree with no reason.</td><td style=\"padding:10px 12px; font-size:14px; color:#1D1E22; border:1px solid #D6DBE2; vertical-align:top;\">No reply.</td></tr></tbody></table><div style=\"text-align:right; margin-top:6px; font-size:13px; color:#2F5D8A;\">10 pts total</div></div>\n</div>",
+   "graded": true,
+   "points": 10.0,
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "id": "d_m19_8",
+   "group": "ag_discussions",
+   "rubric": "r_d_m19_8",
+   "week": 27,
+   "kind": "module-discussion"
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_19",
+   "title": "Module 19: The Road to War: Quarter 3 Capstone",
+   "published": true,
+   "items": [
+    {
+     "type": "quiz",
+     "ref": "q_m19_1",
+     "title": "19.1 Module 19 Introduction: The Road to War: Quarter 3 Capstone",
+     "published": true,
+     "week": 27
+    },
+    {
+     "type": "page",
+     "ref": "p_m19_2",
+     "title": "19.2 Module Map: The Road to War: Quarter 3 Capstone",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m19_3",
+     "title": "19.3 Lesson: From the Rhineland to Munich",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m19_4",
+     "title": "19.4 Primary Source: The Munich Agreement and the Anglo-German Declaration (1938)",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m19_5",
+     "title": "19.5 Lesson: The Nazi-Soviet Pact and the Invasion of Poland",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m19_6",
+     "title": "19.6 Primary Source: Secret Protocol of the Nazi-Soviet Pact (1939)",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m19_7",
+     "title": "19.7 Quarter 3 Capstone: The Road to War",
+     "published": true,
+     "week": 27
+    },
+    {
+     "type": "discussion",
+     "ref": "d_m19_8",
+     "title": "19.8 Discussion: Did Munich buy time or cost it?",
+     "published": true,
+     "week": 27
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m19_9",
+     "title": "19.9 Module 19 Review: The Road to War: Quarter 3 Capstone",
+     "published": true,
+     "week": 27
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m19_10",
+     "title": "19.10 Quarter 3 Exam",
+     "published": true,
+     "week": 27
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of World History: Age of Enlightenment to Present (Mississippi), Spring Semester. Read read-only on 2026-11-23 from the sparkled module of Canvas sandbox shell 295 (World History MS SP), the naming authority, not its '(Unsparkled)' twin. Ids, titles, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/."
+ }
+}

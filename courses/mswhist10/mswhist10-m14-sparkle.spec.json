@@ -1,0 +1,475 @@
+{
+ "course": {
+  "title": "World History: Age of Enlightenment to Present (Mississippi), Spring Semester (Weeks 19-36)",
+  "code": "mswhist10",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_reading_quizzes",
+   "title": "Reading Quizzes",
+   "weight": 40.0
+  },
+  {
+   "id": "ag_discussions",
+   "title": "Discussions",
+   "weight": 20.0
+  },
+  {
+   "id": "ag_deep_feedback",
+   "title": "Deep Feedback",
+   "weight": 10.0
+  },
+  {
+   "id": "ag_exams",
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_m14_7",
+   "title": "14.7 Primary Source Report: Keynes and the Peace of 1919 Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Understanding of the material",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "States the source's claims and the lesson's facts accurately and precisely, with short quotations used correctly.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Accurate on the main points. Small gaps or loose wording.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Partly accurate, or leans on summary instead of the source's own words.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Major errors, or little connection to the source and lessons.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Quality of reasoning",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Builds each claim from evidence, weighs more than one explanation, and gives a counterfactual that is plausible and tied to the facts.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Claims are supported. The counterfactual is reasonable but thinly argued.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Claims are asserted more than shown. The counterfactual is a guess with little support.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Little reasoning, or the counterfactual is missing.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Clarity and precision of expression",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clear, organized, and exact. Each question is answered in its own labeled part.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Mostly clear. Occasional vagueness or wandering.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Hard to follow in places, or parts are missing.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Unclear or disorganized.",
+       "points": 1.0
+      }
+     ]
+    },
+    {
+     "description": "Intellectual honesty",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Names what the source cannot show and what the writer cannot know. Does not claim more than the evidence supports.",
+       "points": 4.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Notes some limits. Occasionally claims more than the evidence supports.",
+       "points": 3.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Rarely notes any limit. Treats guesses as facts.",
+       "points": 2.0
+      },
+      {
+       "description": "Beginning",
+       "long_description": "Overclaims throughout, or presents invented details as fact.",
+       "points": 1.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r_d_m14_8",
+   "title": "14.8 Discussion: Was Versailles too harsh, or too weakly enforced? Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Your claim and your reasons",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Takes a clear side, uses the specific evidence the prompt asks for, and explains why it supports the claim.",
+       "points": 6.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Takes a side but gives general reasons, or leaves out part of what the prompt asks for.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no claim.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Your reply to a classmate",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Answers one classmate's actual reasoning. Strengthens it or says where it falls short, politely and with a reason.",
+       "points": 4.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Replies, but only to agree or disagree with no reason.",
+       "points": 2.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No reply.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_m14_2",
+   "title": "14.2 Module Map: The Peace That Failed",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"margin: 0 0 20px 0; border: 2px solid #8B2C3E; border-radius: 12px; overflow: hidden; background: #F1EFF4;\">\n  <div style=\"background: #241C2E; border-bottom: 4px solid #D8B66A; color: #FFFDF8; padding: 10px 18px; font-size: 16px; font-family: 'Old Standard TT', Georgia, 'Times New Roman', serif;\">Module Map: The Peace That Failed</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m14/week-22-module-map.html\" width=\"100%\" height=\"2300\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #1C1B1A; background: #ECE8F2; border-top: 1px solid #D8D2E0;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m14/week-22-module-map.html\" target=\"_blank\" style=\"color: #5B4A78;\">open it in a new tab</a>.</div>\n</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m14_3",
+   "title": "14.3 Lesson: Paris 1919: Wilson, Clemenceau, and Lloyd George",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">Paris 1919: Wilson, Clemenceau, and Lloyd George</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m14/week-22-lesson-1.html\" width=\"100%\" height=\"2830\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m14/week-22-lesson-1.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m14_4",
+   "title": "14.4 Primary Source: Wilson’s Fourteen Points (January 8, 1918)",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">Wilson’s Fourteen Points (January 8, 1918)</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m14/week-22-primary-source-1.html\" width=\"100%\" height=\"2750\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m14/week-22-primary-source-1.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m14_5",
+   "title": "14.5 Lesson: The Wreckage: Four Empires Gone and the Senate's No",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">The Wreckage: Four Empires Gone and the Senate's No</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m14/week-22-lesson-2.html\" width=\"100%\" height=\"2830\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m14/week-22-lesson-2.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m14_6",
+   "title": "14.6 Primary Source: Keynes: The Economic Consequences of the Peace (1919)",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">Keynes: The Economic Consequences of the Peace (1919)</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m14/week-22-primary-source-2.html\" width=\"100%\" height=\"2750\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m14/week-22-primary-source-2.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  }
+ ],
+ "assignments": [
+  {
+   "title": "14.7 Primary Source Report: Keynes and the Peace of 1919",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#241C2E; border-bottom:4px solid #D8B66A; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#D8B66A; margin-bottom:6px;\"><strong>PRIMARY SOURCE REPORT</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFDF8; line-height:1.25; margin-bottom:6px;\">Keynes and the Peace of 1919</div><div style=\"font-size:16px; color:#ECE8F2; margin-bottom:6px;\">A book that helped shape how people judged the treaty.</div><div style=\"font-size:15px; color:#D8B66A;\">Report · 16 points · Word document upload</div></div>\n<div style=\"text-align:center; color:#D8B66A; font-size:16px; margin:0 0 4px;\">♦ ─ ♦ ─ ♦</div>\n<div style=\"border-top:2px solid #8B2C3E; margin:0 0 16px;\"></div>\n<div style=\"background:#FFFDF8; border:1px solid #D8D2E0; border-left:5px solid #8B2C3E; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#8B2C3E; margin-bottom:6px;\"><strong>HOW TO WORK</strong></div><div style=\"font-size:16px; color:#1C1B1A; line-height:1.55;\">Read the two lessons and the two primary sources first, and look over your notes in My Notebook. Then write your report in Word and submit it as the submission box below describes.</div></div>\n<div style=\"background:#FFFDF8; border:1px solid #D8D2E0; border-top:4px solid #241C2E; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#241C2E; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>THE TASK</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 12px;\">Write a report of 450 to 650 words in Word. Answer all four questions below, in order, each under its own heading. Use the Keynes excerpt and “The Wreckage: Four Empires Gone and the Senate's No”. Put short quotations in quotation marks and cite each one in a footnote.</p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 0;\">You will be graded on the quality of your argument, not on which side you take.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #D8D2E0; border-top:4px solid #8B2C3E; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#8B2C3E; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>YOUR REPORT</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 12px;\"><strong>1.</strong> Keynes was inside the conference and then resigned. What does he say the peacemakers cared about, and what does he say they ignored? Use two short quotations. Then say what his position lets him see, and what might bias him.</p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 12px;\"><strong>2.</strong> Keynes writes, “The clock cannot be set back.” Explain in your own words what he thinks will happen to Europe if the victors try to set it back. Connect your answer to the reparations described in “The Wreckage: Four Empires Gone and the Senate's No”.</p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 12px;\"><strong>3.</strong> “The Wreckage: Four Empires Gone and the Senate's No” says Keynes’s book may have made the treaty harder to enforce. Explain how a book could have that effect. Why might later historians say that Keynes exaggerated?</p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 0;\"><strong>4.</strong> Suppose Wilson had accepted Lodge’s reservations in November 1919 and the Senate had approved the treaty. How might the argument over whether the treaty was too harsh or too weakly enforced have changed? Say what you think would have been different, and what you cannot know.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #D8D2E0; border-top:4px solid #5B4A78; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#5B4A78; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>GRADING RUBRIC (16 pts)</strong></div><table style=\"width:100%; border-collapse:collapse;\"><thead><tr style=\"background:#241C2E;\"><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #D8D2E0;\"></th></tr><tr style=\"background: #0E1C42;\">\n            <th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border: 1px solid #334;\">Criteria</th><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #D8D2E0;\">Excellent (4)</th><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #D8D2E0;\">Proficient (3)</th><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #D8D2E0;\">Developing (2)</th><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #D8D2E0;\">Beginning (1)</th></tr></thead><tbody><tr style=\"background:#FFFDF8;\"><td style=\"padding:10px 12px; font-size:14px; color:#241C2E; border:1px solid #D8D2E0; width:130px; vertical-align:top;\">Understanding of the material<br><span style=\"font-size:12px; color:#8B2C3E;\">4 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">States the source's claims and the lesson's facts accurately and precisely, with short quotations used correctly.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Accurate on the main points. Small gaps or loose wording.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Partly accurate, or leans on summary instead of the source's own words.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Major errors, or little connection to the source and lessons.</td></tr><tr style=\"background:#F1EFF4;\"><td style=\"padding:10px 12px; font-size:14px; color:#241C2E; border:1px solid #D8D2E0; width:130px; vertical-align:top;\">Quality of reasoning<br><span style=\"font-size:12px; color:#8B2C3E;\">4 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Builds each claim from evidence, weighs more than one explanation, and gives a counterfactual that is plausible and tied to the facts.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Claims are supported. The counterfactual is reasonable but thinly argued.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Claims are asserted more than shown. The counterfactual is a guess with little support.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Little reasoning, or the counterfactual is missing.</td></tr><tr style=\"background:#FFFDF8;\"><td style=\"padding:10px 12px; font-size:14px; color:#241C2E; border:1px solid #D8D2E0; width:130px; vertical-align:top;\">Clarity and precision of expression<br><span style=\"font-size:12px; color:#8B2C3E;\">4 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Clear, organized, and exact. Each question is answered in its own labeled part.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Mostly clear. Occasional vagueness or wandering.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Hard to follow in places, or parts are missing.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Unclear or disorganized.</td></tr><tr style=\"background:#F1EFF4;\"><td style=\"padding:10px 12px; font-size:14px; color:#241C2E; border:1px solid #D8D2E0; width:130px; vertical-align:top;\">Intellectual honesty<br><span style=\"font-size:12px; color:#8B2C3E;\">4 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Names what the source cannot show and what the writer cannot know. Does not claim more than the evidence supports.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Notes some limits. Occasionally claims more than the evidence supports.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Rarely notes any limit. Treats guesses as facts.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Overclaims throughout, or presents invented details as fact.</td></tr><tr style=\"background:#241C2E;\"><td style=\"padding:9px 12px; font-size:14px; color:#FFFDF8; border:1px solid #D8B66A; text-align:right;\" colspan=\"5\">Total:</td></tr></tbody></table><div style=\"text-align:right; margin-top:6px; font-size:13px; color:#8B2C3E;\">16 pts total</div></div>\n<div style=\"background:#FFFDF8; border:1px solid #D8D2E0; border-top:4px solid #8B2C3E; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#8B2C3E; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>SUBMISSION</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 12px;\">Write your report in Word and save it to your OneDrive folder. Then open this assignment in Canvas, choose the OneDrive tab, select your file, and submit.</p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 0;\">Your teacher will read your report and score it with the rubric above.</p></div>\n<div style=\"background:#F1EFF4; border:1px dashed #5B4A78; border-radius:6px; padding:10px 16px; font-size:13px; color:#1C1B1A;\"><strong>M365 Reminder (Band C, Grades 9–10):</strong> Name your file <em>LastName_FirstName_KeynesReport_WHSP</em> and save it to your Optima → History → WorldHistory_Spring folder in OneDrive before submitting via the Canvas OneDrive tab.<br><em>M365 Skill You’re Practicing: Applying Heading Styles (Word).</em></div>\n</div>",
+   "points": 16.0,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "rubric_use_for_grading": true,
+   "published": true,
+   "allowed_extensions": "docx",
+   "omit_from_final_grade": false,
+   "id": "a_m14_7",
+   "group": "ag_deep_feedback",
+   "rubric": "r_m14_7",
+   "week": 22,
+   "kind": "primary-source-report"
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q_m14_1",
+   "title": "14.1 Module 14 Introduction: The Peace That Failed",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#241C2E; border-bottom:4px solid #D8B66A; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#D8B66A; margin-bottom:6px;\"><strong>MODULE INTRODUCTION</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFDF8; line-height:1.25; margin-bottom:6px;\">Module Introduction: The Peace That Failed</div><div style=\"font-size:15px; color:#D8B66A;\">Survey · 3 questions · not graded</div></div>\n<div style=\"text-align:center; color:#D8B66A; font-size:16px; margin:0 0 4px;\">♦ ─ ♦ ─ ♦</div>\n<div style=\"border-top:2px solid #8B2C3E; margin:0 0 16px;\"></div>\n<div style=\"background:#FFFDF8; border:1px solid #D8D2E0; border-top:4px solid #241C2E; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#241C2E; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 0;\">Welcome to The Peace That Failed. Answer the questions below before you open the first lesson. Your answers help your teacher see where the class is starting. This survey is not graded.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #D8D2E0; border-left:5px solid #8B2C3E; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#8B2C3E; margin-bottom:6px;\"><strong>This module's goals:</strong></div><ul style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0; padding-left:26px;\"><li style=\"margin-bottom:6px;\">Explain who made the Treaty of Versailles and what each leader wanted.</li><li style=\"margin-bottom:6px;\">Describe what replaced the four fallen empires and why the new states were fragile.</li><li style=\"margin-bottom:0;\">Trace why the United States did not join the League of Nations.</li></ul></div>\n</div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 22,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Before you read: Was Versailles too harsh, or too weakly enforced? Give your first answer in two or three sentences. You will answer it again at the end of the module, so it is fine if your answer changes.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I have read this module's goals and I know what I am working toward this week.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>Yes, I have read them</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Not yet, I will read them before the first lesson</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>You may do this week’s main assignment alone or with a group. If you choose a group, you agree to the Group Covenant and to submit one shared piece. Which do you choose?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>I will work alone</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I will work with a group and I agree to the Group Covenant</p>",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "kind": "module-intro"
+  },
+  {
+   "id": "q_m14_9",
+   "title": "14.9 Module 14 Review: The Peace That Failed",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#241C2E; border-bottom:4px solid #D8B66A; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#D8B66A; margin-bottom:6px;\"><strong>MODULE REVIEW</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFDF8; line-height:1.25; margin-bottom:6px;\">Module Review: The Peace That Failed</div><div style=\"font-size:15px; color:#D8B66A;\">Survey · 5 questions · not graded</div></div>\n<div style=\"text-align:center; color:#D8B66A; font-size:16px; margin:0 0 4px;\">♦ ─ ♦ ─ ♦</div>\n<div style=\"border-top:2px solid #8B2C3E; margin:0 0 16px;\"></div>\n<div style=\"background:#FFFDF8; border:1px solid #D8D2E0; border-top:4px solid #241C2E; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#241C2E; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 0;\">You have reached the end of The Peace That Failed. Answer the questions below. Your answers help your teacher see what the class understood and what needs more attention. This survey is not graded.</p></div>\n</div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 22,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Answer this question again, now that you have finished the module: Was Versailles too harsh, or too weakly enforced? Use at least one fact or source from this week.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident are you that you understood this module's main ideas?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>1 - Lost</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>2 - Shaky</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>3 - Somewhat confident</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>4 - Confident</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>5 - Very confident</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Choose one of these virtues: courage, courtesy, honesty, perseverance, self-government, service, or responsibility. Name a person from this module who needed it, and say what they did or failed to do.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear to you? Name a person, event, or idea. If nothing is unclear, write what you would ask a historian.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_answers",
+     "text": "<p>Confirm your submissions. Check each item you have finished.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>I read both lessons</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I read both primary sources</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I submitted my Primary Source Report</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I posted my discussion answer and replied to a classmate</p>",
+       "correct": true
+      }
+     ]
+    }
+   ],
+   "kind": "module-review"
+  }
+ ],
+ "discussions": [
+  {
+   "title": "14.8 Discussion: Was Versailles too harsh, or too weakly enforced?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#241C2E; border-bottom:4px solid #D8B66A; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#D8B66A; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFDF8; line-height:1.25; margin-bottom:6px;\">Was Versailles too harsh, or too weakly enforced?</div><div style=\"font-size:16px; color:#ECE8F2; margin-bottom:6px;\">A peace too heavy to forgive, or too weak to enforce?</div><div style=\"font-size:15px; color:#D8B66A;\">Graded discussion · 10 points · one post and one reply</div></div>\n<div style=\"text-align:center; color:#D8B66A; font-size:16px; margin:0 0 4px;\">♦ ─ ♦ ─ ♦</div>\n<div style=\"border-top:2px solid #8B2C3E; margin:0 0 16px;\"></div>\n<div style=\"background:#FFFDF8; border:1px solid #D8D2E0; border-left:5px solid #8B2C3E; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#8B2C3E; margin-bottom:6px;\"><strong>HOW TO WORK</strong></div><div style=\"font-size:16px; color:#1C1B1A; line-height:1.55;\">Read the two lessons and the two primary sources first, and look over your notes in My Notebook. Then post your answer to the prompt below, and reply to one classmate.</div></div>\n<div style=\"background:#FFFDF8; border:1px solid #D8D2E0; border-top:4px solid #241C2E; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#241C2E; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>DISCUSSION PROMPT</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 12px;\">This week’s question: Was Versailles too harsh, or too weakly enforced?</p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 12px;\">Choose a side, or argue for a third view. Name at least two specific decisions from 1918 to 1920 that shaped the outcome, and explain how each might have gone another way.</p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 12px;\">Write 150 to 250 words. State one claim you believe is true. Then explain why, using the specific evidence named above. Keep to what the lessons and the sources show. If you are guessing, say so.</p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 0;\">Then add one sentence on responsibility. Who bore it for what followed: the men who wrote the treaty, the nations that did not enforce it, or the United States for staying out? Name whom you hold responsible and why.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #D8D2E0; border-top:4px solid #5B4A78; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#5B4A78; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>RESPOND TO A CLASSMATE</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 0;\">Reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a fact or decision they did not use. If not, say politely where you think it falls short, and give your reason.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #D8D2E0; border-top:4px solid #8B2C3E; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#8B2C3E; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>GRADING RUBRIC (10 pts)</strong></div><table style=\"width:100%; border-collapse:collapse;\"><thead><tr style=\"background:#241C2E;\"><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #D8D2E0;\"></th></tr><tr style=\"background: #0E1C42;\">\n            <th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border: 1px solid #334;\">Criteria</th><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #D8D2E0;\">Substantive (full credit)</th><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #D8D2E0;\">Thin (partial credit)</th><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #D8D2E0;\">Missing (no credit)</th></tr></thead><tbody><tr style=\"background:#FFFDF8;\"><td style=\"padding:10px 12px; font-size:14px; color:#241C2E; border:1px solid #D8D2E0; width:150px; vertical-align:top;\">Your claim and your reasons<br><span style=\"font-size:12px; color:#8B2C3E;\">6 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Takes a clear side, uses the specific evidence the prompt asks for, and explains why it supports the claim.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Takes a side but gives general reasons, or leaves out part of what the prompt asks for.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">No post, or no claim.</td></tr><tr style=\"background:#F1EFF4;\"><td style=\"padding:10px 12px; font-size:14px; color:#241C2E; border:1px solid #D8D2E0; width:150px; vertical-align:top;\">Your reply to a classmate<br><span style=\"font-size:12px; color:#8B2C3E;\">4 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Answers one classmate's actual reasoning. Strengthens it or says where it falls short, politely and with a reason.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">Replies, but only to agree or disagree with no reason.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #D8D2E0; vertical-align:top;\">No reply.</td></tr></tbody></table><div style=\"text-align:right; margin-top:6px; font-size:13px; color:#8B2C3E;\">10 pts total</div></div>\n</div>",
+   "graded": true,
+   "points": 10.0,
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "id": "d_m14_8",
+   "group": "ag_discussions",
+   "rubric": "r_d_m14_8",
+   "week": 22,
+   "kind": "module-discussion"
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_14",
+   "title": "Module 14: The Peace That Failed",
+   "published": true,
+   "items": [
+    {
+     "type": "quiz",
+     "ref": "q_m14_1",
+     "title": "14.1 Module 14 Introduction: The Peace That Failed",
+     "published": true,
+     "week": 22
+    },
+    {
+     "type": "page",
+     "ref": "p_m14_2",
+     "title": "14.2 Module Map: The Peace That Failed",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m14_3",
+     "title": "14.3 Lesson: Paris 1919: Wilson, Clemenceau, and Lloyd George",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m14_4",
+     "title": "14.4 Primary Source: Wilson’s Fourteen Points (January 8, 1918)",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m14_5",
+     "title": "14.5 Lesson: The Wreckage: Four Empires Gone and the Senate's No",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m14_6",
+     "title": "14.6 Primary Source: Keynes: The Economic Consequences of the Peace (1919)",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_m14_7",
+     "title": "14.7 Primary Source Report: Keynes and the Peace of 1919",
+     "published": true,
+     "week": 22
+    },
+    {
+     "type": "discussion",
+     "ref": "d_m14_8",
+     "title": "14.8 Discussion: Was Versailles too harsh, or too weakly enforced?",
+     "published": true,
+     "week": 22
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m14_9",
+     "title": "14.9 Module 14 Review: The Peace That Failed",
+     "published": true,
+     "week": 22
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of World History: Age of Enlightenment to Present (Mississippi), Spring Semester. Read read-only on 2026-11-23 from the sparkled module of Canvas sandbox shell 295 (World History MS SP), the naming authority, not its '(Unsparkled)' twin. Ids, titles, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/."
+ }
+}
