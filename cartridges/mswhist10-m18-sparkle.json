@@ -1,0 +1,194 @@
+{
+ "id": "mswhist10-m18-sparkle",
+ "label": "Asia in Arms · Sparkle",
+ "code": "mswhist10",
+ "title": "World History: Age of Enlightenment to Present (Mississippi), Spring Semester (Weeks 19-36)",
+ "file": "cartridges/mswhist10-m18-sparkle.imscc",
+ "bytes": 31484,
+ "version": "2026.11.23",
+ "built": "2026-11-23T15:22:27",
+ "front_page": "wiki_content/course-home.html",
+ "items": 9,
+ "modules": [
+  {
+   "id": "m_18",
+   "title": "Module 18: Asia in Arms",
+   "gid": "g4f463e55e2e73ce177bf3bc77d7159d5",
+   "published": true,
+   "items": 9,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 6,
+  "assignments": 0,
+  "quizzes": 3,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 9
+ },
+ "weights": [
+  {
+   "title": "Reading Quizzes",
+   "weight": 40.0
+  },
+  {
+   "title": "Discussions",
+   "weight": 20.0
+  },
+  {
+   "title": "Deep Feedback",
+   "weight": 10.0
+  },
+  {
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "groups": [
+  {
+   "id": "gd5958919af047b9c1c095b3510ea4a62",
+   "title": "Reading Quizzes",
+   "weight": 40.0,
+   "position": 1
+  },
+  {
+   "id": "gcd56004592043ab98ecdad5a728a0ff8",
+   "title": "Discussions",
+   "weight": 20.0,
+   "position": 2
+  },
+  {
+   "id": "ge273aa2f3ca1bfa2c77cc0c88b7b7221",
+   "title": "Deep Feedback",
+   "weight": 10.0,
+   "position": 3
+  },
+  {
+   "id": "gd4747138ed731803ea12496c819ad5c6",
+   "title": "Quarterly Exams",
+   "weight": 30.0,
+   "position": 4
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "q_m18_1",
+   "type": "quiz",
+   "title": "18.1 Module 18 Introduction: Asia in Arms",
+   "gid": "g775b0eccd2221aade158fb4ae435e9bd",
+   "xml": "g775b0eccd2221aade158fb4ae435e9bd/assessment_meta.xml",
+   "module": "m_18",
+   "week": 26,
+   "kind": "module-intro",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m18_7",
+   "type": "quiz",
+   "title": "18.7 Reading Quiz: Asia in Arms",
+   "gid": "gc93d0f6efbf9909c7423290ae83caee1",
+   "xml": "gc93d0f6efbf9909c7423290ae83caee1/assessment_meta.xml",
+   "module": "m_18",
+   "week": 26,
+   "kind": "reading-quiz",
+   "points": 7.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "gd5958919af047b9c1c095b3510ea4a62",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m18_9",
+   "type": "quiz",
+   "title": "18.9 Module 18 Review: Asia in Arms",
+   "gid": "ga08f76289d2eb76fb3f1491ac081e3bd",
+   "xml": "ga08f76289d2eb76fb3f1491ac081e3bd/assessment_meta.xml",
+   "module": "m_18",
+   "week": 26,
+   "kind": "module-review",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_m18_8",
+   "type": "discussion",
+   "title": "18.8 Discussion: Was Japan's road to war chosen or forced?",
+   "gid": "g6bc679818fef52987101077f3437ad0a",
+   "xml": "g3af8cb350b1c9b83178157bf9b17ee98.xml",
+   "module": "m_18",
+   "week": 26,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "gcd56004592043ab98ecdad5a728a0ff8",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec mswhist10-m18-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [],
+  "stats": {
+   "resources": 15,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 5,
+    "webcontent": 6,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 3,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 9,
+   "modules": 1,
+   "module_items": 9,
+   "module_item_types": {
+    "Quizzes::Quiz": 3,
+    "WikiPage": 5,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 6,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 4,
+   "group_refs": 3,
+   "quizzes": 3,
+   "assignments": 0,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 24.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "f8eb19cd0376240bf7da78ce6354e04175a8af287c55d7ff3c6b212841de3702",
+ "art_pack": null
+}

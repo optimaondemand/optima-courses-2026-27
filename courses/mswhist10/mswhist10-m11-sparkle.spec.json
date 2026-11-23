@@ -1,0 +1,505 @@
+{
+ "course": {
+  "title": "World History: Age of Enlightenment to Present (Mississippi), Spring Semester (Weeks 19-36)",
+  "code": "mswhist10",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_reading_quizzes",
+   "title": "Reading Quizzes",
+   "weight": 40.0
+  },
+  {
+   "id": "ag_discussions",
+   "title": "Discussions",
+   "weight": 20.0
+  },
+  {
+   "id": "ag_deep_feedback",
+   "title": "Deep Feedback",
+   "weight": 10.0
+  },
+  {
+   "id": "ag_exams",
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_d_m11_8",
+   "title": "11.8 Discussion: Could Germany have won in 1914? Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Your claim and your reasons",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Takes a clear side, uses the specific evidence the prompt asks for, and explains why it supports the claim.",
+       "points": 6.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Takes a side but gives general reasons, or leaves out part of what the prompt asks for.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no claim.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Your reply to a classmate",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Answers one classmate's actual reasoning. Strengthens it or says where it falls short, politely and with a reason.",
+       "points": 4.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Replies, but only to agree or disagree with no reason.",
+       "points": 2.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No reply.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_m11_2",
+   "title": "11.2 Module Map: The Marne and the Trenches",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"margin: 0 0 20px 0; border: 2px solid #5E5127; border-radius: 12px; overflow: hidden; background: #F4F0E7;\">\n  <div style=\"background: #2E2F2A; border-bottom: 4px solid #C9B26B; color: #FFFDF8; padding: 10px 18px; font-size: 16px; font-family: 'Old Standard TT', Georgia, 'Times New Roman', serif;\">Module Map: The Marne and the Trenches</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m11/week-19-module-map.html\" width=\"100%\" height=\"2300\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #1C1B1A; background: #E8E9E1; border-top: 1px solid #DCD4C4;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m11/week-19-module-map.html\" target=\"_blank\" style=\"color: #4B5043;\">open it in a new tab</a>.</div>\n</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m11_3",
+   "title": "11.3 Lesson: The Schlieffen Plan and the Marne",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">The Schlieffen Plan and the Marne</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m11/week-19-lesson-1.html\" width=\"100%\" height=\"5200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m11/week-19-lesson-1.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m11_4",
+   "title": "11.4 Primary Source: Goschen’s Report: The “Scrap of Paper”",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">Goschen’s Report: The “Scrap of Paper”</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m11/week-19-primary-source-1.html\" width=\"100%\" height=\"2800\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m11/week-19-primary-source-1.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m11_5",
+   "title": "11.5 Lesson: Trench War and Attrition: Ypres, Verdun, the Somme",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">Trench War and Attrition: Ypres, Verdun, the Somme</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m11/week-19-lesson-2.html\" width=\"100%\" height=\"5200\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m11/week-19-lesson-2.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m11_6",
+   "title": "11.6 Primary Source: Owen: “Dulce et Decorum Est”",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">Owen: “Dulce et Decorum Est”</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m11/week-19-primary-source-2.html\" width=\"100%\" height=\"2800\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m11/week-19-primary-source-2.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_m11_1",
+   "title": "11.1 Module 11 Introduction: The Marne and the Trenches",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#2E2F2A; border-bottom:4px solid #C9B26B; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#C9B26B; margin-bottom:6px;\"><strong>MODULE INTRODUCTION</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFDF8; line-height:1.25; margin-bottom:6px;\">Module Introduction: The Marne and the Trenches</div><div style=\"font-size:15px; color:#C9B26B;\">Survey · 2 questions · not graded</div></div>\n<div style=\"text-align:center; color:#C9B26B; font-size:16px; margin:0 0 4px;\">✠ ─ ✠ ─ ✠</div>\n<div style=\"border-top:2px solid #5E5127; margin:0 0 16px;\"></div>\n<div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#2E2F2A; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">Welcome to The Marne and the Trenches. Answer the questions below before you open the first lesson. Your answers help your teacher see where the class is starting. This survey is not graded.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-left:5px solid #5E5127; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#5E5127; margin-bottom:8px;\"><strong>This module's goals:</strong></div><ul style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0; padding-left:26px;\"><li style=\"margin-bottom:6px;\">Explain why Germany’s war plan depended on speed and on crossing Belgium.</li><li style=\"margin-bottom:6px;\">Trace the decisions that turned the German advance into a retreat at the Marne.</li><li style=\"margin-bottom:0;\">Describe how trench warfare and attrition shaped the war after 1914.</li></ul></div>\n</div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 19,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Before you read: Could Germany have won in 1914? Give your first answer in two or three sentences. You will answer it again at the end of the module, so it is fine if your answer changes.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I have read this module's goals and I know what I am working toward this week.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>Yes, I have read them</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Not yet, I will read them before the first lesson</p>",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "kind": "module-intro"
+  },
+  {
+   "id": "q_m11_7",
+   "title": "11.7 Reading Quiz: The Marne and the Trenches",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#2E2F2A; border-bottom:4px solid #C9B26B; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#C9B26B; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFDF8; line-height:1.25; margin-bottom:6px;\">Reading Quiz: The Marne and the Trenches</div><div style=\"font-size:15px; color:#C9B26B;\">7 questions · 7 points</div></div>\n<div style=\"text-align:center; color:#C9B26B; font-size:16px; margin:0 0 4px;\">✠ ─ ✠ ─ ✠</div>\n<div style=\"border-top:2px solid #5E5127; margin:0 0 16px;\"></div>\n<div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#2E2F2A; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">This quiz covers both lessons and both primary sources for this module. It has 7 questions. Most ask you to work something out from what you read, not to find a sentence in the text. You may look back at the lessons and sources while you work.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-left:5px solid #5E5127; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#5E5127; margin-bottom:6px;\"><strong>HOW TO WORK</strong></div><div style=\"font-size:16px; color:#1C1B1A; line-height:1.55;\">Read the two lessons and the two primary sources first, and keep your notes in My Notebook. Then answer the questions below.</div></div>\n</div>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 19,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did Schlieffen’s plan send the main German army through Belgium instead of attacking France’s border head-on?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>Belgium had secretly promised to let German troops cross, so the march would meet no resistance at all</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>The Belgian army was too weak to put up a fight, and Germany wanted Belgian land more than a victory over France</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>France’s border was lined with strong forts, and a sweep through Belgium could trap the French army</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Britain had told Germany it would not defend Belgium, so the German staff saw no risk in marching through it</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>On August 1, 1914, the Kaiser asked whether the army could be sent east alone. Moltke said it could not. What does his answer show about the German war plan?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>Once it was set in motion it could not easily be changed</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>It was designed mainly to defeat Russia first and France second</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It depended on the Kaiser giving orders in the field</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It had been changed that week to include Belgium</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which decision exposed the flank of the German First Army to Paris?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>Moltke’s choice to strengthen the German left wing</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Hentsch’s order to retreat on September 9</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Joffre’s order to fire generals who failed him</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Kluck’s turn southeast to pass east of the city</p>",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In Goschen’s report, how does Jagow’s reason for entering Belgium differ from the reason Goschen gives for Britain’s decision to go to war?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>Jagow speaks of honor and old friendship, and Goschen speaks of the speed of the German advance</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Jagow calls it a matter of military need and speed, and Goschen calls it a matter of keeping a solemn promise</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Both speak only of the danger from Russia, and neither of them mentions Belgium’s neutrality or any promise</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Jagow denies that Belgium’s neutrality was violated, and Goschen says only that Germany had broken its word to Britain</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why should a historian be careful about treating Goschen’s report as proof of what the chancellor really thought?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>It was written years after the war ended, when memories of the meeting had faded</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Goschen was not in the room when the chancellor spoke, and had only heard the words from others afterward</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>A German official translated the chancellor’s words into English before Goschen wrote them down</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Goschen wrote for his own government and for the British public, and he chose what to put down</p>",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did some commanders come to believe in attrition?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>Frontal attacks cost huge numbers of men and gained little, so they hoped to wear the enemy down until he could not fight</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>They had run out of shells and could only wait for new ones to arrive from the factories at home before they tried to break through again</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Their governments had agreed with one another that the war should be fought slowly, to spare the lives of the soldiers</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>They believed the trenches would soon be abandoned on their own once the winter weather made them too wet to hold</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In “Dulce et Decorum Est,” Owen calls the Latin line “the old Lie.” What is he arguing?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>That earlier poets had mistranslated the Latin words, so schoolboys had been taught their meaning wrongly for centuries</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>That the soldiers in his own army were cowards who ought to be punished for not facing the enemy as bravely as the old Roman soldiers had</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>That a man who had seen a death by gas could not honestly tell children that dying for one’s country is sweet and fitting</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>That poison gas was less deadly than most people believed, and that the dying soldier in the poem was in no real danger</p>",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "group": "ag_reading_quizzes",
+   "points": 7.0,
+   "kind": "reading-quiz"
+  },
+  {
+   "id": "q_m11_9",
+   "title": "11.9 Module 11 Review: The Marne and the Trenches",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#2E2F2A; border-bottom:4px solid #C9B26B; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#C9B26B; margin-bottom:6px;\"><strong>MODULE REVIEW</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFDF8; line-height:1.25; margin-bottom:6px;\">Module Review: The Marne and the Trenches</div><div style=\"font-size:15px; color:#C9B26B;\">Survey · 5 questions · not graded</div></div>\n<div style=\"text-align:center; color:#C9B26B; font-size:16px; margin:0 0 4px;\">✠ ─ ✠ ─ ✠</div>\n<div style=\"border-top:2px solid #5E5127; margin:0 0 16px;\"></div>\n<div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#2E2F2A; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 10px;\">You have reached the end of The Marne and the Trenches. Answer the questions below. Your answers help your teacher see what the class understood and what needs more attention. This survey is not graded.</p></div>\n</div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 19,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Answer this question again, now that you have finished the module: Could Germany have won in 1914? Use at least one fact or source from this week.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident are you that you understood this module's main ideas?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>1 - Lost</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>2 - Shaky</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>3 - Somewhat confident</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>4 - Confident</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>5 - Very confident</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>Choose one of these virtues: courage, courtesy, honesty, perseverance, self-government, service, or responsibility. Name a person from this module who needed it, and say what they did or failed to do.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear to you? Name a person, event, or idea. If nothing is unclear, write what you would ask a historian.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_answers",
+     "text": "<p>Confirm your submissions. Check each item you have finished.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>I read both lessons</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I read both primary sources</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I finished the Reading Quiz</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I posted my discussion answer and replied to a classmate</p>",
+       "correct": true
+      }
+     ]
+    }
+   ],
+   "kind": "module-review"
+  }
+ ],
+ "discussions": [
+  {
+   "title": "11.8 Discussion: Could Germany have won in 1914?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#2E2F2A; border-bottom:4px solid #C9B26B; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#C9B26B; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FFFDF8; line-height:1.25; margin-bottom:6px;\">Could Germany have won in 1914?</div><div style=\"font-size:16px; color:#E8E9E1; margin-bottom:6px;\">A war plan, or the men who carried it out?</div><div style=\"font-size:15px; color:#C9B26B;\">Graded discussion · 10 points · one post and one reply</div></div>\n<div style=\"text-align:center; color:#C9B26B; font-size:16px; margin:0 0 4px;\">✠ ─ ✠ ─ ✠</div>\n<div style=\"border-top:2px solid #5E5127; margin:0 0 16px;\"></div>\n<div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-left:5px solid #5E5127; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#5E5127; margin-bottom:6px;\"><strong>HOW TO WORK</strong></div><div style=\"font-size:16px; color:#1C1B1A; line-height:1.55;\">Read the two lessons and the two primary sources first, and look over your notes in My Notebook. Then post your answer to the prompt below, and reply to one classmate.</div></div>\n<div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #2E2F2A; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#2E2F2A; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>DISCUSSION PROMPT</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 12px;\">This week’s question: Could Germany have won in 1914?</p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 12px;\">Choose a side. In your answer, name at least two specific decisions made between 1905 and September 1914, and explain how each one could have gone another way.</p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0 0 12px;\">Write 150 to 250 words. State one claim you believe is true. Then explain why, using the specific evidence named above. Keep to what the lessons and the sources show. If you are guessing, say so.</p><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0;\">Then add one sentence on the moral side of the question. The plan required marching through a neutral country that the great powers had promised to protect. Does that bear on whether it was a good plan? Say what you think and why.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #4B5043; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#4B5043; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>RESPOND TO A CLASSMATE</strong></div><p style=\"font-size:17px; color:#1C1B1A; line-height:1.6; margin:0;\">Reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a fact or decision they did not use. If not, say politely where you think it falls short, and give your reason.</p></div>\n<div style=\"background:#FFFDF8; border:1px solid #DCD4C4; border-top:4px solid #5E5127; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#5E5127; color:#FFFDF8; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>GRADING RUBRIC (10 pts)</strong></div><table style=\"width:100%; border-collapse:collapse;\"><thead><tr style=\"background:#2E2F2A;\"><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #DCD4C4;\">Criteria</th><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #DCD4C4;\">Substantive (full credit)</th><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #DCD4C4;\">Thin (partial credit)</th><th style=\"padding:9px 12px; font-size:13px; color:#FFFDF8; text-align:left; border:1px solid #DCD4C4;\">Missing (no credit)</th></tr></thead><tbody><tr style=\"background:#FFFDF8;\"><td style=\"padding:10px 12px; font-size:14px; color:#2E2F2A; border:1px solid #DCD4C4; width:150px; vertical-align:top;\">Your claim and your reasons<br><span style=\"font-size:12px; color:#5E5127;\">6 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #DCD4C4; vertical-align:top;\">Takes a clear side, uses the specific evidence the prompt asks for, and explains why it supports the claim.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #DCD4C4; vertical-align:top;\">Takes a side but gives general reasons, or leaves out part of what the prompt asks for.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #DCD4C4; vertical-align:top;\">No post, or no claim.</td></tr><tr style=\"background:#F4F0E7;\"><td style=\"padding:10px 12px; font-size:14px; color:#2E2F2A; border:1px solid #DCD4C4; width:150px; vertical-align:top;\">Your reply to a classmate<br><span style=\"font-size:12px; color:#5E5127;\">4 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #DCD4C4; vertical-align:top;\">Answers one classmate's actual reasoning. Strengthens it or says where it falls short, politely and with a reason.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #DCD4C4; vertical-align:top;\">Replies, but only to agree or disagree with no reason.</td><td style=\"padding:10px 12px; font-size:14px; color:#1C1B1A; border:1px solid #DCD4C4; vertical-align:top;\">No reply.</td></tr></tbody></table><div style=\"text-align:right; margin-top:6px; font-size:13px; color:#5E5127;\">10 pts total</div></div>\n</div>",
+   "graded": true,
+   "points": 10.0,
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "id": "d_m11_8",
+   "group": "ag_discussions",
+   "rubric": "r_d_m11_8",
+   "week": 19,
+   "kind": "module-discussion"
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_11",
+   "title": "Module 11: The Marne and the Trenches",
+   "published": true,
+   "items": [
+    {
+     "type": "quiz",
+     "ref": "q_m11_1",
+     "title": "11.1 Module 11 Introduction: The Marne and the Trenches",
+     "published": true,
+     "week": 19
+    },
+    {
+     "type": "page",
+     "ref": "p_m11_2",
+     "title": "11.2 Module Map: The Marne and the Trenches",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m11_3",
+     "title": "11.3 Lesson: The Schlieffen Plan and the Marne",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m11_4",
+     "title": "11.4 Primary Source: Goschen’s Report: The “Scrap of Paper”",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m11_5",
+     "title": "11.5 Lesson: Trench War and Attrition: Ypres, Verdun, the Somme",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m11_6",
+     "title": "11.6 Primary Source: Owen: “Dulce et Decorum Est”",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m11_7",
+     "title": "11.7 Reading Quiz: The Marne and the Trenches",
+     "published": true,
+     "week": 19
+    },
+    {
+     "type": "discussion",
+     "ref": "d_m11_8",
+     "title": "11.8 Discussion: Could Germany have won in 1914?",
+     "published": true,
+     "week": 19
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m11_9",
+     "title": "11.9 Module 11 Review: The Marne and the Trenches",
+     "published": true,
+     "week": 19
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of World History: Age of Enlightenment to Present (Mississippi), Spring Semester. Read read-only on 2026-11-23 from the sparkled module of Canvas sandbox shell 295 (World History MS SP), the naming authority, not its '(Unsparkled)' twin. Ids, titles, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/."
+ }
+}

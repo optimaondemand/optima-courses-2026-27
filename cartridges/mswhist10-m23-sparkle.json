@@ -1,0 +1,194 @@
+{
+ "id": "mswhist10-m23-sparkle",
+ "label": "Victory and Its Judgment · Sparkle",
+ "code": "mswhist10",
+ "title": "World History: Age of Enlightenment to Present (Mississippi), Spring Semester (Weeks 19-36)",
+ "file": "cartridges/mswhist10-m23-sparkle.imscc",
+ "bytes": 28743,
+ "version": "2026.11.23",
+ "built": "2026-11-23T15:23:00",
+ "front_page": "wiki_content/course-home.html",
+ "items": 9,
+ "modules": [
+  {
+   "id": "m_23",
+   "title": "Module 23: Victory and Its Judgment",
+   "gid": "gf158168e4972de1dcaf7d46f975c415c",
+   "published": true,
+   "items": 9,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 6,
+  "assignments": 1,
+  "quizzes": 2,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 9
+ },
+ "weights": [
+  {
+   "title": "Reading Quizzes",
+   "weight": 40.0
+  },
+  {
+   "title": "Discussions",
+   "weight": 20.0
+  },
+  {
+   "title": "Deep Feedback",
+   "weight": 10.0
+  },
+  {
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "groups": [
+  {
+   "id": "gd5958919af047b9c1c095b3510ea4a62",
+   "title": "Reading Quizzes",
+   "weight": 40.0,
+   "position": 1
+  },
+  {
+   "id": "gcd56004592043ab98ecdad5a728a0ff8",
+   "title": "Discussions",
+   "weight": 20.0,
+   "position": 2
+  },
+  {
+   "id": "ge273aa2f3ca1bfa2c77cc0c88b7b7221",
+   "title": "Deep Feedback",
+   "weight": 10.0,
+   "position": 3
+  },
+  {
+   "id": "gd4747138ed731803ea12496c819ad5c6",
+   "title": "Quarterly Exams",
+   "weight": 30.0,
+   "position": 4
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "a_m23_7",
+   "type": "assignment",
+   "title": "23.7 Primary Source Exercise: Two Statements of 1945",
+   "gid": "gd364c28c290f4f28b8a6f19b0807761b",
+   "xml": "gd364c28c290f4f28b8a6f19b0807761b/assignment_settings.xml",
+   "module": "m_23",
+   "week": 31,
+   "kind": "primary-source-exercise",
+   "points": 16.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "ge273aa2f3ca1bfa2c77cc0c88b7b7221",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m23_1",
+   "type": "quiz",
+   "title": "23.1 Module 23 Introduction: Victory and Its Judgment",
+   "gid": "g1f5cf5280bd6f2cb83553276dd20847c",
+   "xml": "g1f5cf5280bd6f2cb83553276dd20847c/assessment_meta.xml",
+   "module": "m_23",
+   "week": 31,
+   "kind": "module-intro",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m23_9",
+   "type": "quiz",
+   "title": "23.9 Module 23 Review: Victory and Its Judgment",
+   "gid": "g97380fa99deab92fa3da3e844a28bfbd",
+   "xml": "g97380fa99deab92fa3da3e844a28bfbd/assessment_meta.xml",
+   "module": "m_23",
+   "week": 31,
+   "kind": "module-review",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_m23_8",
+   "type": "discussion",
+   "title": "23.8 Discussion: Was Truman right to use the atomic bomb?",
+   "gid": "g957eeb944375b9262f25c53abf91a365",
+   "xml": "g02d89191253206bf1c7ae71ba32ff529.xml",
+   "module": "m_23",
+   "week": 31,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "gcd56004592043ab98ecdad5a728a0ff8",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec mswhist10-m23-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [],
+  "stats": {
+   "resources": 14,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 5,
+    "webcontent": 6,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 2,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 9,
+   "modules": 1,
+   "module_items": 9,
+   "module_item_types": {
+    "Quizzes::Quiz": 2,
+    "WikiPage": 5,
+    "Assignment": 1,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 6,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 4,
+   "group_refs": 2,
+   "quizzes": 2,
+   "assignments": 1,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 26.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "fece5bafd3c0fb3c8e7506c95280bd32811ce2c6a4749afd1970a655a60750db",
+ "art_pack": null
+}

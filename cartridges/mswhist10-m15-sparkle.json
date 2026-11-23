@@ -1,0 +1,194 @@
+{
+ "id": "mswhist10-m15-sparkle",
+ "label": "Fascism and the Slump · Sparkle",
+ "code": "mswhist10",
+ "title": "World History: Age of Enlightenment to Present (Mississippi), Spring Semester (Weeks 19-36)",
+ "file": "cartridges/mswhist10-m15-sparkle.imscc",
+ "bytes": 31798,
+ "version": "2026.11.23",
+ "built": "2026-11-23T15:22:08",
+ "front_page": "wiki_content/course-home.html",
+ "items": 9,
+ "modules": [
+  {
+   "id": "m_15",
+   "title": "Module 15: Fascism and the Slump",
+   "gid": "gf43e967addcf301068dcfca995bd502e",
+   "published": true,
+   "items": 9,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 6,
+  "assignments": 0,
+  "quizzes": 3,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 9
+ },
+ "weights": [
+  {
+   "title": "Reading Quizzes",
+   "weight": 40.0
+  },
+  {
+   "title": "Discussions",
+   "weight": 20.0
+  },
+  {
+   "title": "Deep Feedback",
+   "weight": 10.0
+  },
+  {
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "groups": [
+  {
+   "id": "gd5958919af047b9c1c095b3510ea4a62",
+   "title": "Reading Quizzes",
+   "weight": 40.0,
+   "position": 1
+  },
+  {
+   "id": "gcd56004592043ab98ecdad5a728a0ff8",
+   "title": "Discussions",
+   "weight": 20.0,
+   "position": 2
+  },
+  {
+   "id": "ge273aa2f3ca1bfa2c77cc0c88b7b7221",
+   "title": "Deep Feedback",
+   "weight": 10.0,
+   "position": 3
+  },
+  {
+   "id": "gd4747138ed731803ea12496c819ad5c6",
+   "title": "Quarterly Exams",
+   "weight": 30.0,
+   "position": 4
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "q_m15_1",
+   "type": "quiz",
+   "title": "15.1 Module 15 Introduction: Fascism and the Slump",
+   "gid": "ga541298cf70459d75d60320602f39891",
+   "xml": "ga541298cf70459d75d60320602f39891/assessment_meta.xml",
+   "module": "m_15",
+   "week": 23,
+   "kind": "module-intro",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m15_7",
+   "type": "quiz",
+   "title": "15.7 Reading Quiz: Fascism and the Slump",
+   "gid": "g81d377aea0c0231db4a4976e4a7eff80",
+   "xml": "g81d377aea0c0231db4a4976e4a7eff80/assessment_meta.xml",
+   "module": "m_15",
+   "week": 23,
+   "kind": "reading-quiz",
+   "points": 7.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "gd5958919af047b9c1c095b3510ea4a62",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m15_9",
+   "type": "quiz",
+   "title": "15.9 Module 15 Review: Fascism and the Slump",
+   "gid": "g0818b682e97bbd0d281d69e2bc743845",
+   "xml": "g0818b682e97bbd0d281d69e2bc743845/assessment_meta.xml",
+   "module": "m_15",
+   "week": 23,
+   "kind": "module-review",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_m15_8",
+   "type": "discussion",
+   "title": "15.8 Discussion: Why did some democracies bend in the Depression and others break?",
+   "gid": "g7dda2e31aeffc84ba8c8639949e16ca7",
+   "xml": "g37ef243de2101d6729f3b5d9565de0e8.xml",
+   "module": "m_15",
+   "week": 23,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "gcd56004592043ab98ecdad5a728a0ff8",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec mswhist10-m15-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [],
+  "stats": {
+   "resources": 15,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 5,
+    "webcontent": 6,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 3,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 9,
+   "modules": 1,
+   "module_items": 9,
+   "module_item_types": {
+    "Quizzes::Quiz": 3,
+    "WikiPage": 5,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 6,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 4,
+   "group_refs": 3,
+   "quizzes": 3,
+   "assignments": 0,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 24.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "7b9be5b25fcf26eeae053c724af972f6ad4dacd316b8e7b2fc0c2132d8f19a30",
+ "art_pack": null
+}
