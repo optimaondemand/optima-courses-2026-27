@@ -1,0 +1,505 @@
+{
+ "course": {
+  "title": "World History: Age of Enlightenment to Present (Mississippi), Spring Semester (Weeks 19-36)",
+  "code": "mswhist10",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_reading_quizzes",
+   "title": "Reading Quizzes",
+   "weight": 40.0
+  },
+  {
+   "id": "ag_discussions",
+   "title": "Discussions",
+   "weight": 20.0
+  },
+  {
+   "id": "ag_deep_feedback",
+   "title": "Deep Feedback",
+   "weight": 10.0
+  },
+  {
+   "id": "ag_exams",
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "r_d_m27_8",
+   "title": "27.8 Discussion: Did Reagan win, or did the Soviet Union lose? Rubric",
+   "free_form_comments": false,
+   "criteria": [
+    {
+     "description": "Your claim and your reasons",
+     "long_description": "",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Takes a clear side, uses the specific evidence the prompt asks for, and explains why it supports the claim.",
+       "points": 6.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Takes a side but gives general reasons, or leaves out part of what the prompt asks for.",
+       "points": 3.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No post, or no claim.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Your reply to a classmate",
+     "long_description": "",
+     "points": 4.0,
+     "ratings": [
+      {
+       "description": "Substantive",
+       "long_description": "Answers one classmate's actual reasoning. Strengthens it or says where it falls short, politely and with a reason.",
+       "points": 4.0
+      },
+      {
+       "description": "Thin",
+       "long_description": "Replies, but only to agree or disagree with no reason.",
+       "points": 2.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "No reply.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": "p_m27_2",
+   "title": "27.2 Module Map: The Soviet Collapse",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"margin: 0 0 20px 0; border: 2px solid #C0261B; border-radius: 12px; overflow: hidden; background: #EEF2F6;\">\n  <div style=\"background: #0F2236; border-bottom: 4px solid #CDD8E2; color: #FDFDFB; padding: 10px 18px; font-size: 16px; font-family: 'Old Standard TT', Georgia, 'Times New Roman', serif;\">Module Map: The Soviet Collapse</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m27/week-35-module-map.html\" width=\"100%\" height=\"2300\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #121C28; background: #E2EEF5; border-top: 1px solid #D3DCE4;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m27/week-35-module-map.html\" target=\"_blank\" style=\"color: #2F7197;\">open it in a new tab</a>.</div>\n</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m27_3",
+   "title": "27.3 Lesson: Detente, Afghanistan, Reagan, and Solidarity",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">Detente, Afghanistan, Reagan, and Solidarity</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m27/week-35-lesson-1.html\" width=\"100%\" height=\"2855\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m27/week-35-lesson-1.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m27_4",
+   "title": "27.4 Primary Source: Reagan, Address at the Brandenburg Gate (June 12, 1987)",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">Reagan, Address at the Brandenburg Gate (June 12, 1987)</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m27/week-35-primary-source-1.html\" width=\"100%\" height=\"2717\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m27/week-35-primary-source-1.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m27_5",
+   "title": "27.5 Lesson: Gorbachev, 1989, and the End of the Soviet Union",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">Gorbachev, 1989, and the End of the Soviet Union</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m27/week-35-lesson-2.html\" width=\"100%\" height=\"2827\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m27/week-35-lesson-2.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  },
+  {
+   "id": "p_m27_6",
+   "title": "27.6 Primary Source: Gorbachev, Resignation Address (December 25, 1991)",
+   "html": "<div style=\"margin: 0 0 20px 0; border: 2px solid #2196D0; border-radius: 12px; overflow: hidden; background: #f8f9fa;\">\n  <div style=\"background: #0E1C42; color: #fff; padding: 10px 18px; font-size: 16px;\">Gorbachev, Resignation Address (December 25, 1991)</div>\n  <iframe src=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m27/week-35-primary-source-2.html\" width=\"100%\" height=\"2744\" style=\"border: none; display: block;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n  <div style=\"padding: 6px 18px; font-size: 12px; color: #666; background: #EEF1F8;\">If the page doesn't load, <a href=\"https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/modules/m27/week-35-primary-source-2.html\" target=\"_blank\">open it in a new tab</a>.</div>\n</div>",
+   "published": true
+  }
+ ],
+ "assignments": [],
+ "quizzes": [
+  {
+   "id": "q_m27_1",
+   "title": "27.1 Module 27 Introduction: The Soviet Collapse",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#0F2236; border-bottom:4px solid #CDD8E2; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#CDD8E2; margin-bottom:6px;\"><strong>MODULE INTRODUCTION</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FDFDFB; line-height:1.25; margin-bottom:6px;\">Module Introduction: The Soviet Collapse</div><div style=\"font-size:15px; color:#CDD8E2;\">Survey · 2 questions · not graded</div></div>\n<div style=\"text-align:center; color:#CDD8E2; font-size:16px; margin:0 0 4px;\">❅ ─ ❅ ─ ❅</div>\n<div style=\"border-top:2px solid #C0261B; margin:0 0 16px;\"></div>\n<div style=\"background:#FDFDFB; border:1px solid #D3DCE4; border-top:4px solid #0F2236; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#0F2236; color:#FDFDFB; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#121C28; line-height:1.6; margin:0 0 0;\">Welcome to The Soviet Collapse. Answer the questions below before you open the first lesson. Your answers help your teacher see where the class is starting. This survey is not graded.</p></div>\n<div style=\"background:#FDFDFB; border:1px solid #D3DCE4; border-left:5px solid #C0261B; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#C0261B; margin-bottom:6px;\"><strong>This module's goals:</strong></div><ul style=\"font-size:17px; color:#121C28; line-height:1.6; margin:0; padding-left:26px;\"><li style=\"margin-bottom:6px;\">Describe detente, the war in Afghanistan, the rise of Solidarity, and Reagan’s policy toward Moscow.</li><li style=\"margin-bottom:6px;\">Explain the reforms of Gorbachev, the revolutions of 1989, and the end of the Soviet Union.</li><li style=\"margin-bottom:0;\">Weigh which pressures on the Soviet system came from outside and which from within.</li></ul></div>\n</div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 35,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Before you read: Did Reagan win the Cold War, or did the Soviet Union lose it? Give your first answer in two or three sentences. You will answer it again at the end of the module, so it is fine if your answer changes.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>I have read this module's goals and I know what I am working toward this week.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>Yes, I have read them</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Not yet, I will read them before the first lesson</p>",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "kind": "module-intro"
+  },
+  {
+   "id": "q_m27_7",
+   "title": "27.7 Reading Quiz: The Soviet Collapse",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#0F2236; border-bottom:4px solid #CDD8E2; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#CDD8E2; margin-bottom:6px;\"><strong>READING QUIZ</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FDFDFB; line-height:1.25; margin-bottom:6px;\">Reading Quiz: The Soviet Collapse</div><div style=\"font-size:15px; color:#CDD8E2;\">7 questions · 7 points</div></div>\n<div style=\"text-align:center; color:#CDD8E2; font-size:16px; margin:0 0 4px;\">❅ ─ ❅ ─ ❅</div>\n<div style=\"border-top:2px solid #C0261B; margin:0 0 16px;\"></div>\n<div style=\"background:#FDFDFB; border:1px solid #D3DCE4; border-top:4px solid #0F2236; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#0F2236; color:#FDFDFB; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#121C28; line-height:1.6; margin:0 0 0;\">This quiz covers both lessons and both primary sources for this module. It has 7 questions. Most ask you to work something out from what you read, not to find a sentence in the text. You may look back at the lessons and sources while you work.</p></div>\n<div style=\"background:#FDFDFB; border:1px solid #D3DCE4; border-left:5px solid #C0261B; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#C0261B; margin-bottom:6px;\"><strong>HOW TO WORK</strong></div><div style=\"font-size:16px; color:#121C28; line-height:1.55;\">Read the two lessons and the two primary sources first, and keep your notes in My Notebook. Then answer the questions below.</div></div>\n</div>",
+   "quiz_type": "assignment",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 35,
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Soviets wanted the Helsinki Final Act of 1975 because it recognized the borders set after the war. Why did it turn out to work against them?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>It ended the arms race, so the Soviets had no weapons to use against their neighbors</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It gave the West the right to station troops in Eastern Europe</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It made the Soviet Union a member of NATO</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Its pledge to respect human rights gave dissidents in Moscow, Prague, and Warsaw a standard by which to judge their governments</p>",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In December 1980 the Soviet leaders discussed invading Poland and decided against it. Which reason does the lesson give?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>Afghanistan was already costing the Soviet Union too much</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Solidarity had already agreed to dissolve itself</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>The United States had promised to defend Poland with troops</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Poland’s government had asked the Soviets to stay out</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>John Paul II visited Poland in June 1979, and many Poles said afterward that it changed how they saw themselves. According to the lesson, what did they see?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>That the Pope could remove the Polish government</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>That the Church would soon be allowed to run the country</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>How many of them there were, and that they were not alone</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>That the Soviet army would leave Poland that year</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>General Jaruzelski declared martial law in December 1981 and banned Solidarity. What does the lesson say this showed?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>That the Polish people had given up their hopes for a free union</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>That the government could rule by force but not by consent, and that the union survived underground with the help of the Church</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>That the Soviet army had occupied Poland</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>That Solidarity had been defeated for good</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Reagan said, “Mr. Gorbachev, tear down this wall!” The wall stood for two more years. Which reading of the speech does the excerpt best support?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>It was a threat of war, since Reagan promised to destroy the wall by force</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It was a plan agreed in advance with Gorbachev</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It asked Gorbachev for a clear public act and proved that the wall would fall within weeks</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It welcomed some of what Gorbachev had done and asked for one clear public act, so it offered a way forward as well as a demand</p>",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Gorbachev meant glasnost to help the Communist Party. Why does the lesson say it worked against him?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>It let the Party control the newspapers more tightly</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It showed the Party’s crimes and failures, as at Chernobyl, so that many citizens stopped trusting what they were told</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>It led the United States to cut off all trade with the Soviet Union</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>It gave the old Party leaders more power over the republics</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A student argues that the Soviet empire in Eastern Europe fell because its rulers chose not to use force. Which evidence from “Gorbachev, 1989, and the End of the Soviet Union” best supports this?</p>",
+     "points": 1.0,
+     "answers": [
+      {
+       "text": "<p>At Leipzig the police were ready to fire on seventy thousand marchers and did not, and Soviet troops stayed in their barracks, while in Beijing the rulers sent tanks into Tiananmen Square and kept power</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>Germany was reunified on October 3, 1990, and stayed in NATO</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>Boris Yeltsin was elected president of the Russian republic in June 1991</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>The price of oil fell sharply in 1986</p>",
+       "correct": false
+      }
+     ]
+    }
+   ],
+   "group": "ag_reading_quizzes",
+   "points": 7.0,
+   "kind": "reading-quiz"
+  },
+  {
+   "id": "q_m27_9",
+   "title": "27.9 Module 27 Review: The Soviet Collapse",
+   "description": "<div id=\"sparkled-assessment\"><div style=\"background:#0F2236; border-bottom:4px solid #CDD8E2; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#CDD8E2; margin-bottom:6px;\"><strong>MODULE REVIEW</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FDFDFB; line-height:1.25; margin-bottom:6px;\">Module Review: The Soviet Collapse</div><div style=\"font-size:15px; color:#CDD8E2;\">Survey · 5 questions · not graded</div></div>\n<div style=\"text-align:center; color:#CDD8E2; font-size:16px; margin:0 0 4px;\">❅ ─ ❅ ─ ❅</div>\n<div style=\"border-top:2px solid #C0261B; margin:0 0 16px;\"></div>\n<div style=\"background:#FDFDFB; border:1px solid #D3DCE4; border-top:4px solid #0F2236; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#0F2236; color:#FDFDFB; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>Before you start</strong></div><p style=\"font-size:17px; color:#121C28; line-height:1.6; margin:0 0 0;\">You have reached the end of The Soviet Collapse. Answer the questions below. Your answers help your teacher see what the class understood and what needs more attention. This survey is not graded.</p></div>\n</div>",
+   "quiz_type": "survey",
+   "allowed_attempts": 1,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 35,
+   "questions": [
+    {
+     "type": "essay",
+     "text": "<p>Answer this question again, now that you have finished the module: Did Reagan win the Cold War, or did the Soviet Union lose it? Use at least one fact or source from this week.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How confident are you that you understood this module’s main ideas?</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>1 - Lost</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>2 - Shaky</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>3 - Somewhat confident</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>4 - Confident</p>",
+       "correct": false
+      },
+      {
+       "text": "<p>5 - Very confident</p>",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "type": "essay",
+     "text": "<p>What is still unclear to you? Name a person, event, or idea. If nothing is unclear, write what you would ask a historian.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "essay",
+     "text": "<p>Choose one of these virtues: courage, courtesy, honesty, perseverance, self-government, service, or responsibility. Name a person from this module who needed it, and say what they did or failed to do.</p>",
+     "points": 0.0,
+     "answers": []
+    },
+    {
+     "type": "multiple_answers",
+     "text": "<p>Confirm your submissions. Check each item you have finished.</p>",
+     "points": 0.0,
+     "answers": [
+      {
+       "text": "<p>I read both lessons</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I read both primary sources</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I finished the Reading Quiz</p>",
+       "correct": true
+      },
+      {
+       "text": "<p>I posted my discussion answer and replied to a classmate</p>",
+       "correct": true
+      }
+     ]
+    }
+   ],
+   "kind": "module-review"
+  }
+ ],
+ "discussions": [
+  {
+   "title": "27.8 Discussion: Did Reagan win, or did the Soviet Union lose?",
+   "html": "<div id=\"sparkled-assessment\"><div style=\"background:#0F2236; border-bottom:4px solid #CDD8E2; border-radius:10px; padding:18px 22px; margin-bottom:12px;\"><div style=\"font-size:12px; color:#CDD8E2; margin-bottom:6px;\"><strong>DISCUSSION</strong></div><div style=\"font-family:'Old Standard TT',Georgia,'Times New Roman',serif; font-size:26px; color:#FDFDFB; line-height:1.25; margin-bottom:6px;\">Did Reagan win, or did the Soviet Union lose?</div><div style=\"font-size:16px; color:#E2EEF5; margin-bottom:6px;\">Outside pressure or inside collapse?</div><div style=\"font-size:15px; color:#CDD8E2;\">Graded discussion · 10 points · one post and one reply</div></div>\n<div style=\"text-align:center; color:#CDD8E2; font-size:16px; margin:0 0 4px;\">❅ ─ ❅ ─ ❅</div>\n<div style=\"border-top:2px solid #C0261B; margin:0 0 16px;\"></div>\n<div style=\"background:#FDFDFB; border:1px solid #D3DCE4; border-left:5px solid #C0261B; border-radius:12px; padding:14px 18px; margin-bottom:14px;\"><div style=\"font-size:13px; color:#C0261B; margin-bottom:6px;\"><strong>HOW TO WORK</strong></div><div style=\"font-size:16px; color:#121C28; line-height:1.55;\">Read the two lessons and the two primary sources first, and look over your notes in My Notebook. Then post your answer to the prompt below, and reply to one classmate.</div></div>\n<div style=\"background:#FDFDFB; border:1px solid #D3DCE4; border-top:4px solid #0F2236; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#0F2236; color:#FDFDFB; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>DISCUSSION PROMPT</strong></div><p style=\"font-size:17px; color:#121C28; line-height:1.6; margin:0 0 12px;\">This week’s question: Did Reagan win the Cold War, or did the Soviet Union lose it?</p><p style=\"font-size:17px; color:#121C28; line-height:1.6; margin:0 0 12px;\">Choose one answer. Use your list of pressures. Name one pressure from outside and one from within that bear on your answer, with the dates and the people involved. Then take up the choice at Leipzig and Beijing in 1989. Say what might have followed if the men in Moscow had used force, as the men in Beijing did.</p><p style=\"font-size:17px; color:#121C28; line-height:1.6; margin:0 0 12px;\">Write 150 to 250 words. State one claim you believe is true. Then explain why, using the specific evidence named above. Keep to what the lessons and the sources show. If you are guessing, say so.</p><p style=\"font-size:17px; color:#121C28; line-height:1.6; margin:0 0 0;\">Then add one sentence on courage. Name one person or group in these lessons who stood up when it was dangerous, and say what it risked.</p></div>\n<div style=\"background:#FDFDFB; border:1px solid #D3DCE4; border-top:4px solid #2F7197; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#2F7197; color:#FDFDFB; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>RESPOND TO A CLASSMATE</strong></div><p style=\"font-size:17px; color:#121C28; line-height:1.6; margin:0 0 0;\">Reply to one classmate. Do you agree with their reasoning? If so, strengthen it with a fact or decision they did not use. If not, say politely where you think it falls short, and give your reason.</p></div>\n<div style=\"background:#FDFDFB; border:1px solid #D3DCE4; border-top:4px solid #C0261B; border-radius:12px; padding:18px 22px; margin-bottom:14px;\"><div style=\"display:inline-block; background:#C0261B; color:#FDFDFB; font-size:12px; padding:4px 10px; border-radius:999px; margin-bottom:12px;\"><strong>GRADING RUBRIC (10 pts)</strong></div><table style=\"width:100%; border-collapse:collapse;\"><thead><tr style=\"background:#0F2236;\"><th style=\"padding:9px 12px; font-size:13px; color:#FDFDFB; text-align:left; border:1px solid #D3DCE4;\"></th></tr><tr style=\"background: #0E1C42;\">\n            <th style=\"padding: 9px 12px; font-size: 12px; color: #fff; text-align: left; border: 1px solid #334;\">Criteria</th><th style=\"padding:9px 12px; font-size:13px; color:#FDFDFB; text-align:left; border:1px solid #D3DCE4;\">Substantive (full credit)</th><th style=\"padding:9px 12px; font-size:13px; color:#FDFDFB; text-align:left; border:1px solid #D3DCE4;\">Thin (partial credit)</th><th style=\"padding:9px 12px; font-size:13px; color:#FDFDFB; text-align:left; border:1px solid #D3DCE4;\">Missing (no credit)</th></tr></thead><tbody><tr style=\"background:#FDFDFB;\"><td style=\"padding:10px 12px; font-size:14px; color:#0F2236; border:1px solid #D3DCE4; width:150px; vertical-align:top;\">Your claim and your reasons<br><span style=\"font-size:12px; color:#C0261B;\">6 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#121C28; border:1px solid #D3DCE4; vertical-align:top;\">Takes a clear side, uses the specific evidence the prompt asks for, and explains why it supports the claim.</td><td style=\"padding:10px 12px; font-size:14px; color:#121C28; border:1px solid #D3DCE4; vertical-align:top;\">Takes a side but gives general reasons, or leaves out part of what the prompt asks for.</td><td style=\"padding:10px 12px; font-size:14px; color:#121C28; border:1px solid #D3DCE4; vertical-align:top;\">No post, or no claim.</td></tr><tr style=\"background:#EEF2F6;\"><td style=\"padding:10px 12px; font-size:14px; color:#0F2236; border:1px solid #D3DCE4; width:150px; vertical-align:top;\">Your reply to a classmate<br><span style=\"font-size:12px; color:#C0261B;\">4 pts</span></td><td style=\"padding:10px 12px; font-size:14px; color:#121C28; border:1px solid #D3DCE4; vertical-align:top;\">Answers one classmate's actual reasoning. Strengthens it or says where it falls short, politely and with a reason.</td><td style=\"padding:10px 12px; font-size:14px; color:#121C28; border:1px solid #D3DCE4; vertical-align:top;\">Replies, but only to agree or disagree with no reason.</td><td style=\"padding:10px 12px; font-size:14px; color:#121C28; border:1px solid #D3DCE4; vertical-align:top;\">No reply.</td></tr></tbody></table><div style=\"text-align:right; margin-top:6px; font-size:13px; color:#C0261B;\">10 pts total</div></div>\n</div>",
+   "graded": true,
+   "points": 10.0,
+   "published": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "id": "d_m27_8",
+   "group": "ag_discussions",
+   "rubric": "r_d_m27_8",
+   "week": 35,
+   "kind": "module-discussion"
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_27",
+   "title": "Module 27: The Soviet Collapse",
+   "published": true,
+   "items": [
+    {
+     "type": "quiz",
+     "ref": "q_m27_1",
+     "title": "27.1 Module 27 Introduction: The Soviet Collapse",
+     "published": true,
+     "week": 35
+    },
+    {
+     "type": "page",
+     "ref": "p_m27_2",
+     "title": "27.2 Module Map: The Soviet Collapse",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m27_3",
+     "title": "27.3 Lesson: Detente, Afghanistan, Reagan, and Solidarity",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m27_4",
+     "title": "27.4 Primary Source: Reagan, Address at the Brandenburg Gate (June 12, 1987)",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m27_5",
+     "title": "27.5 Lesson: Gorbachev, 1989, and the End of the Soviet Union",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "page",
+     "ref": "p_m27_6",
+     "title": "27.6 Primary Source: Gorbachev, Resignation Address (December 25, 1991)",
+     "published": true,
+     "completion": "must_mark_done"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m27_7",
+     "title": "27.7 Reading Quiz: The Soviet Collapse",
+     "published": true,
+     "week": 35
+    },
+    {
+     "type": "discussion",
+     "ref": "d_m27_8",
+     "title": "27.8 Discussion: Did Reagan win, or did the Soviet Union lose?",
+     "published": true,
+     "week": 35
+    },
+    {
+     "type": "quiz",
+     "ref": "q_m27_9",
+     "title": "27.9 Module 27 Review: The Soviet Collapse",
+     "published": true,
+     "week": 35
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Sparkled edition of one module of World History: Age of Enlightenment to Present (Mississippi), Spring Semester. Read read-only on 2026-11-23 from the sparkled module of Canvas sandbox shell 295 (World History MS SP), the naming authority, not its '(Unsparkled)' twin. Ids, titles, points, groups, rubrics and weeks match the semester kit so importing an edition updates items in place. Lessons, primary sources and maps are iframe pages on https://optimaondemand.github.io/hs-world-history-enlightenment-ms-spring/."
+ }
+}

@@ -1,0 +1,213 @@
+{
+ "id": "mswhist10-m28-sparkle",
+ "label": "A Smaller World: Quarter 4 Capstone · Sparkle",
+ "code": "mswhist10",
+ "title": "World History: Age of Enlightenment to Present (Mississippi), Spring Semester (Weeks 19-36)",
+ "file": "cartridges/mswhist10-m28-sparkle.imscc",
+ "bytes": 44900,
+ "version": "2026.11.23",
+ "built": "2026-11-23T15:23:33",
+ "front_page": "wiki_content/course-home.html",
+ "items": 10,
+ "modules": [
+  {
+   "id": "m_28",
+   "title": "Module 28: A Smaller World: Quarter 4 Capstone",
+   "gid": "g5cfc339f6a09d51cd9a6202e0f4a49c2",
+   "published": true,
+   "items": 10,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 6,
+  "assignments": 1,
+  "quizzes": 3,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 10
+ },
+ "weights": [
+  {
+   "title": "Reading Quizzes",
+   "weight": 40.0
+  },
+  {
+   "title": "Discussions",
+   "weight": 20.0
+  },
+  {
+   "title": "Deep Feedback",
+   "weight": 10.0
+  },
+  {
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "groups": [
+  {
+   "id": "gd5958919af047b9c1c095b3510ea4a62",
+   "title": "Reading Quizzes",
+   "weight": 40.0,
+   "position": 1
+  },
+  {
+   "id": "gcd56004592043ab98ecdad5a728a0ff8",
+   "title": "Discussions",
+   "weight": 20.0,
+   "position": 2
+  },
+  {
+   "id": "ge273aa2f3ca1bfa2c77cc0c88b7b7221",
+   "title": "Deep Feedback",
+   "weight": 10.0,
+   "position": 3
+  },
+  {
+   "id": "gd4747138ed731803ea12496c819ad5c6",
+   "title": "Quarterly Exams",
+   "weight": 30.0,
+   "position": 4
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "a_m28_7",
+   "type": "assignment",
+   "title": "28.7 Quarter 4 Capstone: A Smaller World",
+   "gid": "gc4628baf4ac34760c977572138bd0adf",
+   "xml": "gc4628baf4ac34760c977572138bd0adf/assignment_settings.xml",
+   "module": "m_28",
+   "week": 36,
+   "kind": "capstone",
+   "points": 20.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "ge273aa2f3ca1bfa2c77cc0c88b7b7221",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m28_1",
+   "type": "quiz",
+   "title": "28.1 Module 28 Introduction: A Smaller World: Quarter 4 Capstone",
+   "gid": "g78921f1e7740632635faa686ed228bac",
+   "xml": "g78921f1e7740632635faa686ed228bac/assessment_meta.xml",
+   "module": "m_28",
+   "week": 36,
+   "kind": "capstone",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m28_9",
+   "type": "quiz",
+   "title": "28.9 Module 28 Review: A Smaller World: Quarter 4 Capstone",
+   "gid": "g947a4c8b0fc5e25142261fd75a84a746",
+   "xml": "g947a4c8b0fc5e25142261fd75a84a746/assessment_meta.xml",
+   "module": "m_28",
+   "week": 36,
+   "kind": "capstone",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m28_10",
+   "type": "quiz",
+   "title": "28.10 Quarter 4 Exam",
+   "gid": "g2e2d4e7a13c136e12ee5c02fe7fbee61",
+   "xml": "g2e2d4e7a13c136e12ee5c02fe7fbee61/assessment_meta.xml",
+   "module": "m_28",
+   "week": 36,
+   "kind": "quarter-exam",
+   "points": 40.0,
+   "points_editable": false,
+   "quiz_type": "assignment",
+   "graded": true,
+   "group": "gd4747138ed731803ea12496c819ad5c6",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_m28_8",
+   "type": "discussion",
+   "title": "28.8 Discussion: Safer or more exposed?",
+   "gid": "gb360c1b69113fbc0dee3a89f1dbf1c83",
+   "xml": "g8dc06ca80f5d844afceae28e9253760e.xml",
+   "module": "m_28",
+   "week": 36,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "gcd56004592043ab98ecdad5a728a0ff8",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec mswhist10-m28-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [],
+  "stats": {
+   "resources": 16,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 6,
+    "webcontent": 6,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 3,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 10,
+   "modules": 1,
+   "module_items": 10,
+   "module_item_types": {
+    "Quizzes::Quiz": 3,
+    "WikiPage": 5,
+    "Assignment": 1,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 6,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 4,
+   "group_refs": 4,
+   "quizzes": 3,
+   "assignments": 1,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 110.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "3d0150a29ea5f660938c1026d7491d9da55a17dbbfcc34cd88d91ca2216a66fd",
+ "art_pack": null
+}

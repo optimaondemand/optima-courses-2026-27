@@ -1,0 +1,194 @@
+{
+ "id": "mswhist10-m26-sparkle",
+ "label": "The End of Empires · Sparkle",
+ "code": "mswhist10",
+ "title": "World History: Age of Enlightenment to Present (Mississippi), Spring Semester (Weeks 19-36)",
+ "file": "cartridges/mswhist10-m26-sparkle.imscc",
+ "bytes": 29387,
+ "version": "2026.11.23",
+ "built": "2026-11-23T15:23:20",
+ "front_page": "wiki_content/course-home.html",
+ "items": 9,
+ "modules": [
+  {
+   "id": "m_26",
+   "title": "Module 26: The End of Empires",
+   "gid": "gb440886dcea147bd91d274c03667b8fc",
+   "published": true,
+   "items": 9,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 6,
+  "assignments": 1,
+  "quizzes": 2,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 9
+ },
+ "weights": [
+  {
+   "title": "Reading Quizzes",
+   "weight": 40.0
+  },
+  {
+   "title": "Discussions",
+   "weight": 20.0
+  },
+  {
+   "title": "Deep Feedback",
+   "weight": 10.0
+  },
+  {
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "groups": [
+  {
+   "id": "gd5958919af047b9c1c095b3510ea4a62",
+   "title": "Reading Quizzes",
+   "weight": 40.0,
+   "position": 1
+  },
+  {
+   "id": "gcd56004592043ab98ecdad5a728a0ff8",
+   "title": "Discussions",
+   "weight": 20.0,
+   "position": 2
+  },
+  {
+   "id": "ge273aa2f3ca1bfa2c77cc0c88b7b7221",
+   "title": "Deep Feedback",
+   "weight": 10.0,
+   "position": 3
+  },
+  {
+   "id": "gd4747138ed731803ea12496c819ad5c6",
+   "title": "Quarterly Exams",
+   "weight": 30.0,
+   "position": 4
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "a_m26_7",
+   "type": "assignment",
+   "title": "26.7 Primary Source Report: The Declaration of Israel and the Language of Rights",
+   "gid": "g222146c151876b1c6556a60b479a6ed6",
+   "xml": "g222146c151876b1c6556a60b479a6ed6/assignment_settings.xml",
+   "module": "m_26",
+   "week": 34,
+   "kind": "primary-source-report",
+   "points": 16.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "ge273aa2f3ca1bfa2c77cc0c88b7b7221",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m26_1",
+   "type": "quiz",
+   "title": "26.1 Module 26 Introduction: The End of Empires",
+   "gid": "g4d7854424ff28f24cf5b2458c5ec2e51",
+   "xml": "g4d7854424ff28f24cf5b2458c5ec2e51/assessment_meta.xml",
+   "module": "m_26",
+   "week": 34,
+   "kind": "module-intro",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m26_9",
+   "type": "quiz",
+   "title": "26.9 Module 26 Review: The End of Empires",
+   "gid": "g8960e2524e8e5ff0c5e595386f2fc44f",
+   "xml": "g8960e2524e8e5ff0c5e595386f2fc44f/assessment_meta.xml",
+   "module": "m_26",
+   "week": 34,
+   "kind": "module-review",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_m26_8",
+   "type": "discussion",
+   "title": "26.8 Discussion: Gift or weapon?",
+   "gid": "g3dc7f48a6ea677fd725d32a3a010b0aa",
+   "xml": "g96ca6e5d322f3ee29150dae1526244b0.xml",
+   "module": "m_26",
+   "week": 34,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "gcd56004592043ab98ecdad5a728a0ff8",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec mswhist10-m26-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [],
+  "stats": {
+   "resources": 14,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 5,
+    "webcontent": 6,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 2,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 9,
+   "modules": 1,
+   "module_items": 9,
+   "module_item_types": {
+    "Quizzes::Quiz": 2,
+    "WikiPage": 5,
+    "Assignment": 1,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 6,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 4,
+   "group_refs": 2,
+   "quizzes": 2,
+   "assignments": 1,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 26.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "7c071a965145ae28ce28666aca109932da8d75dcebd4cf0b85fd2d35e698bede",
+ "art_pack": null
+}

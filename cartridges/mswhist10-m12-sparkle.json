@@ -1,0 +1,194 @@
+{
+ "id": "mswhist10-m12-sparkle",
+ "label": "The People's War · Sparkle",
+ "code": "mswhist10",
+ "title": "World History: Age of Enlightenment to Present (Mississippi), Spring Semester (Weeks 19-36)",
+ "file": "cartridges/mswhist10-m12-sparkle.imscc",
+ "bytes": 28952,
+ "version": "2026.11.23",
+ "built": "2026-11-23T15:21:49",
+ "front_page": "wiki_content/course-home.html",
+ "items": 9,
+ "modules": [
+  {
+   "id": "m_12",
+   "title": "Module 12: The People's War",
+   "gid": "g62d99b7468fb57183008fc5b3ab650eb",
+   "published": true,
+   "items": 9,
+   "xml": "course_settings/module_meta.xml"
+  }
+ ],
+ "counts": {
+  "pages": 6,
+  "assignments": 1,
+  "quizzes": 2,
+  "discussions": 1,
+  "files": 0,
+  "modules": 1,
+  "items": 9
+ },
+ "weights": [
+  {
+   "title": "Reading Quizzes",
+   "weight": 40.0
+  },
+  {
+   "title": "Discussions",
+   "weight": 20.0
+  },
+  {
+   "title": "Deep Feedback",
+   "weight": 10.0
+  },
+  {
+   "title": "Quarterly Exams",
+   "weight": 30.0
+  }
+ ],
+ "groups": [
+  {
+   "id": "gd5958919af047b9c1c095b3510ea4a62",
+   "title": "Reading Quizzes",
+   "weight": 40.0,
+   "position": 1
+  },
+  {
+   "id": "gcd56004592043ab98ecdad5a728a0ff8",
+   "title": "Discussions",
+   "weight": 20.0,
+   "position": 2
+  },
+  {
+   "id": "ge273aa2f3ca1bfa2c77cc0c88b7b7221",
+   "title": "Deep Feedback",
+   "weight": 10.0,
+   "position": 3
+  },
+  {
+   "id": "gd4747138ed731803ea12496c819ad5c6",
+   "title": "Quarterly Exams",
+   "weight": 30.0,
+   "position": 4
+  }
+ ],
+ "graded_items": [
+  {
+   "id": "a_m12_7",
+   "type": "assignment",
+   "title": "12.7 Primary Source Report: Schenck v. United States and the Limits of Free Speech",
+   "gid": "g9a0c9bf32791027431267b5433309ae4",
+   "xml": "g9a0c9bf32791027431267b5433309ae4/assignment_settings.xml",
+   "module": "m_12",
+   "week": 20,
+   "kind": "primary-source-report",
+   "points": 16.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "ge273aa2f3ca1bfa2c77cc0c88b7b7221",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m12_1",
+   "type": "quiz",
+   "title": "12.1 Module 12 Introduction: The People's War",
+   "gid": "g016755dccc98a29067811f0f5e36649d",
+   "xml": "g016755dccc98a29067811f0f5e36649d/assessment_meta.xml",
+   "module": "m_12",
+   "week": 20,
+   "kind": "module-intro",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "q_m12_9",
+   "type": "quiz",
+   "title": "12.9 Module 12 Review: The People's War",
+   "gid": "g66636fa6da728e9c61b308d5cfbb426e",
+   "xml": "g66636fa6da728e9c61b308d5cfbb426e/assessment_meta.xml",
+   "module": "m_12",
+   "week": 20,
+   "kind": "module-review",
+   "points": 0.0,
+   "points_editable": false,
+   "quiz_type": "survey",
+   "graded": false,
+   "group": null,
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  },
+  {
+   "id": "d_m12_8",
+   "type": "discussion",
+   "title": "12.8 Discussion: May a free state silence dissent in wartime?",
+   "gid": "g1d60f343d10698f79e72f1599d9d7f15",
+   "xml": "g8fcba6ea8014ebf99713eedc2716a8b5.xml",
+   "module": "m_12",
+   "week": 20,
+   "kind": "module-discussion",
+   "points": 10.0,
+   "points_editable": true,
+   "graded": true,
+   "group": "gcd56004592043ab98ecdad5a728a0ff8",
+   "published": true,
+   "due_at": null,
+   "unlock_at": null,
+   "lock_at": null
+  }
+ ],
+ "settings": {
+  "course_settings": "course_settings/course_settings.xml",
+  "assignment_groups": "course_settings/assignment_groups.xml",
+  "module_meta": "course_settings/module_meta.xml",
+  "date_format": "YYYY-MM-DDTHH:MM:SS in UTC, no zone suffix (as Canvas exports write it)"
+ },
+ "weighted": true,
+ "source": "spec mswhist10-m12-sparkle.spec.json",
+ "verify": {
+  "ok": true,
+  "warnings": [],
+  "stats": {
+   "resources": 14,
+   "resource_types": {
+    "associatedcontent/imscc_xmlv1p1/learning-application-resource": 5,
+    "webcontent": 6,
+    "imsqti_xmlv1p2/imscc_xmlv1p1/assessment": 2,
+    "imsdt_xmlv1p1": 1
+   },
+   "organization_items": 9,
+   "modules": 1,
+   "module_items": 9,
+   "module_item_types": {
+    "Quizzes::Quiz": 2,
+    "WikiPage": 5,
+    "Assignment": 1,
+    "DiscussionTopic": 1
+   },
+   "default_view": "wiki",
+   "pages": 6,
+   "front_page": "wiki_content/course-home.html",
+   "assignment_groups": 4,
+   "group_refs": 2,
+   "quizzes": 2,
+   "assignments": 1,
+   "discussions": 1,
+   "files": 0,
+   "points_listed": 26.0
+  }
+ },
+ "status": "ready",
+ "spec_sha": "e528f1e902b4b328c0e0e5ce21151b6b115b2aa24624e462806c9d7ce824cceb",
+ "art_pack": null
+}
