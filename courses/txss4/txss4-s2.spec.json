@@ -1,0 +1,2603 @@
+{
+ "course": {
+  "title": "Grade 4 Texas Social Studies, Second Semester (Weeks 19-36)",
+  "code": "txss4",
+  "default_view": "wiki",
+  "weighted": true,
+  "announcements_on_home": false
+ },
+ "assignment_groups": [
+  {
+   "id": "ag_lessons",
+   "title": "Lessons",
+   "weight": 60.0
+  },
+  {
+   "id": "ag_unit_quizzes",
+   "title": "Unit Quizzes",
+   "weight": 40.0
+  }
+ ],
+ "rubrics": [],
+ "pages": [],
+ "assignments": [
+  {
+   "id": "a_u06_l01",
+   "title": "6.01 Building the Republic",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 19,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-6.01-building-the-republic.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Building the Republic\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u06_l02",
+   "title": "6.02 Republic at the Crossroads",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 19,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-6.02-republic-at-the-crossroads.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Republic at the Crossroads\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u06_l03",
+   "title": "6.03 Leaders of the Republic",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 20,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-6.03-leaders-of-the-republic.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Leaders of the Republic\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u06_l04",
+   "title": "6.04 Judging a Leader's Decision",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 20,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-6.04-judging-a-leaders-decision.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Judging a Leader&#x27;s Decision\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u06_l05",
+   "title": "6.05 The Road to Annexation",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 21,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-6.05-the-road-to-annexation.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"The Road to Annexation\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u06_l06",
+   "title": "6.06 Annexation and the U.S.-Mexican War",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 21,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-6.06-annexation-and-the-us-mexican-war.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Annexation and the U.S.-Mexican War\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u07_l01",
+   "title": "7.01 Texas Goes to War",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 22,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-7.01-texas-goes-to-war.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Texas Goes to War\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u07_l02",
+   "title": "7.02 One War, Many Texans",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 22,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-7.02-one-war-many-texans.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"One War, Many Texans\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u07_l03",
+   "title": "7.03 Freedom Announced",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 23,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-7.03-freedom-announced.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Freedom Announced\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u07_l04",
+   "title": "7.04 Juneteenth: Freedom Remembered",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 23,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-7.04-juneteenth-freedom-remembered.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Juneteenth: Freedom Remembered\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u08_l01",
+   "title": "8.01 Cattle Trails",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 24,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-8.01-cattle-trails.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Cattle Trails\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u08_l02",
+   "title": "8.02 The Business of Ranching",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 24,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-8.02-the-business-of-ranching.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"The Business of Ranching\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u08_l03",
+   "title": "8.03 Iron Roads Across Texas",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 25,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-8.03-iron-roads-across-texas.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Iron Roads Across Texas\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u08_l04",
+   "title": "8.04 The Railroad Data Story",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 25,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-8.04-the-railroad-data-story.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"The Railroad Data Story\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u08_l05",
+   "title": "8.05 Evidence from the Southern Plains",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 26,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-8.05-evidence-from-the-southern-plains.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Evidence from the Southern Plains\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u08_l06",
+   "title": "8.06 Telling the Whole Story of the Plains",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 26,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-8.06-telling-the-whole-story-of-the-plains.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Telling the Whole Story of the Plains\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u09_l01",
+   "title": "9.01 The Hill That Changed Texas",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 27,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-9.01-the-hill-that-changed-texas.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"The Hill That Changed Texas\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u09_l02",
+   "title": "9.02 Spindletop: Proving a Turning Point",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 27,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-9.02-spindletop-proving-a-turning-point.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Spindletop: Proving a Turning Point\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u09_l03",
+   "title": "9.03 Black Blizzards and Hard Times",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 28,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-9.03-black-blizzards-and-hard-times.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Black Blizzards and Hard Times\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u09_l04",
+   "title": "9.04 Dust and Determination",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 28,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-9.04-dust-and-determination.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Dust and Determination\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u09_l05",
+   "title": "9.05 Texas on the Home Front",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 29,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-9.05-texas-on-the-home-front.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Texas on the Home Front\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u09_l06",
+   "title": "9.06 Storyboard: Texans Who Served",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 29,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-9.06-storyboard-texans-who-served.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Storyboard: Texans Who Served\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u10_l01",
+   "title": "10.01 A Gallery of Texas Cultures",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 30,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-10.01-a-gallery-of-texas-cultures.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"A Gallery of Texas Cultures\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u10_l02",
+   "title": "10.02 Museum Labels for Texas Artists",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 30,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-10.02-museum-labels-for-texas-artists.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Museum Labels for Texas Artists\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u10_l03",
+   "title": "10.03 Mystery Objects: Texas Innovators",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 31,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-10.03-mystery-objects-texas-innovators.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Mystery Objects: Texas Innovators\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u10_l04",
+   "title": "10.04 The Innovation Impact Chain",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 31,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-10.04-the-innovation-impact-chain.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"The Innovation Impact Chain\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u11_l01",
+   "title": "11.01 Founding Words: The Texas Constitution",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 32,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-11.01-founding-words-the-texas-constitution.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Founding Words: The Texas Constitution\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u11_l02",
+   "title": "11.02 Council Chamber: Who Does What?",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 32,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-11.02-council-chamber-who-does-what.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Council Chamber: Who Does What?\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u11_l03",
+   "title": "11.03 Learn, Speak, Serve, Vote",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 33,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-11.03-learn-speak-serve-vote.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Learn, Speak, Serve, Vote\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u11_l04",
+   "title": "11.04 Council Chamber: The Pecan Grove Vote",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 33,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-11.04-council-chamber-the-pecan-grove-vote.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Council Chamber: The Pecan Grove Vote\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u11_l05",
+   "title": "11.05 The Texas Marketplace",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 34,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-11.05-the-texas-marketplace.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"The Texas Marketplace\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u11_l06",
+   "title": "11.06 Trade and Choice",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 34,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-11.06-trade-and-choice.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Trade and Choice\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u12_l01",
+   "title": "12.01 Texas Through Time: Gather the Evidence",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 35,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-12.01-texas-through-time-gather-the-evidence.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Texas Through Time: Gather the Evidence\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u12_l02",
+   "title": "12.02 Curate Your Exhibit",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 35,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-12.02-curate-your-exhibit.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Curate Your Exhibit\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u12_l03",
+   "title": "12.03 Telling the Texas Story",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 36,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-12.03-telling-the-texas-story.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Telling the Texas Story\" loading=\"lazy\"></iframe></p>"
+  },
+  {
+   "id": "a_u12_l04",
+   "title": "12.04 Present and Reflect",
+   "points": 10,
+   "group": "ag_lessons",
+   "submission_types": "online_text_entry,online_upload",
+   "published": true,
+   "week": 36,
+   "kind": "lesson",
+   "html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Work through every tab of the lesson below. When you finish, type your Passport response in the box below, or upload a photo of your work, and click Submit.</p>\n<p><iframe src=\"https://optimaondemand.github.io/optima-4th-social-studies-tx/ss-tx-4-12.04-present-and-reflect.html\" style=\"width: 100%; height: 2200px; border: 0;\" title=\"Present and Reflect\" loading=\"lazy\"></iframe></p>"
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q_u06_unit_quiz",
+   "title": "Unit 6 Assessment — Republic, Annexation, and War",
+   "quiz_type": "assignment",
+   "group": "ag_unit_quizzes",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 21,
+   "kind": "unit-quiz",
+   "description": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">This quiz has 12 multiple-choice questions about Unit 6. Choose the best answer for each question. You have 2 tries, and your higher score counts.</p>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Constitution of the Republic of Texas (1836) divided the government into three branches. What were they?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Army, navy, and Texas Rangers"
+      },
+      {
+       "text": "Legislative, executive, and judicial",
+       "correct": true
+      },
+      {
+       "text": "Counties, towns, and missions"
+      },
+      {
+       "text": "President, governor, and mayor"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which group did the Constitution of 1836 leave out of citizenship?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Settlers who came from the United States"
+      },
+      {
+       "text": "People born in San Antonio"
+      },
+      {
+       "text": "American Indians and people of African descent",
+       "correct": true
+      },
+      {
+       "text": "Members of Congress"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What were &quot;redbacks&quot;?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Uniforms worn by the Texas Rangers"
+      },
+      {
+       "text": "Paper money printed by the Republic that quickly lost value because people did not trust it",
+       "correct": true
+      },
+      {
+       "text": "A nickname for Mexican soldiers"
+      },
+      {
+       "text": "Treaties signed with the Cherokee"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How did President Sam Houston try to deal with American Indian nations?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "He made peace treaties and met with their leaders.",
+       "correct": true
+      },
+      {
+       "text": "He sent the army to force all of them out of Texas."
+      },
+      {
+       "text": "He ignored them."
+      },
+      {
+       "text": "He asked Mexico to handle them."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which president moved the capital to Austin and set aside public land to pay for schools?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Sam Houston"
+      },
+      {
+       "text": "Anson Jones"
+      },
+      {
+       "text": "David G. Burnet"
+      },
+      {
+       "text": "Mirabeau B. Lamar",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Who was the Tejano leader who signed the Texas Declaration of Independence, served in the Republic&#x27;s Congress, and protected Tejano voting rights at the 1845 convention?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Lorenzo de Zavala"
+      },
+      {
+       "text": "José Antonio Navarro",
+       "correct": true
+      },
+      {
+       "text": "Juan Seguín"
+      },
+      {
+       "text": "Martín de León"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Under the Constitution of 1836, what did the president need before a treaty could take effect?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A vote of every Texan"
+      },
+      {
+       "text": "Permission from the Supreme Court"
+      },
+      {
+       "text": "The approval of two-thirds of the Senate",
+       "correct": true
+      },
+      {
+       "text": "Permission from the United States"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What happened to Sam Houston&#x27;s 1836 treaty with the Cherokee?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It was approved and the Cherokee kept their land."
+      },
+      {
+       "text": "The Texas Senate refused to approve it, and the Cherokee were later forced out of Texas.",
+       "correct": true
+      },
+      {
+       "text": "Mexico canceled it."
+      },
+      {
+       "text": "It was never written down."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did President Anson Jones do in 1845 when Texas had two offers: join the United States, or peace and independence with Mexico?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "He chose for Texas without asking anyone."
+      },
+      {
+       "text": "He tore up both offers."
+      },
+      {
+       "text": "He put both choices before the Texas Congress and a convention of delegates.",
+       "correct": true
+      },
+      {
+       "text": "He asked Great Britain to decide."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>On what date did Texas become the 28th state of the United States?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "March 2, 1836"
+      },
+      {
+       "text": "April 21, 1836"
+      },
+      {
+       "text": "December 29, 1845",
+       "correct": true
+      },
+      {
+       "text": "February 2, 1848"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What was the main cause of the U.S.-Mexican War?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The United States and Mexico disagreed about the border: the Rio Grande or the Nueces River.",
+       "correct": true
+      },
+      {
+       "text": "Mexico wanted to take back the Alamo."
+      },
+      {
+       "text": "Texas refused to join the United States."
+      },
+      {
+       "text": "A trade argument over cotton."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does the Pledge to the Texas Flag mean when it calls Texas &quot;one and indivisible&quot;?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Texas has only one city."
+      },
+      {
+       "text": "Texas is united and cannot be split apart.",
+       "correct": true
+      },
+      {
+       "text": "Texas has one river."
+      },
+      {
+       "text": "Texas will always be its own country."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_u07_unit_quiz",
+   "title": "Unit 7 Assessment — Civil War, Reconstruction, and Juneteenth",
+   "quiz_type": "assignment",
+   "group": "ag_unit_quizzes",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 23,
+   "kind": "unit-quiz",
+   "description": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">This quiz has 12 multiple-choice questions about Unit 7. Choose the best answer for each question. You have 2 tries, and your higher score counts.</p>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>According to the Texas secession convention&#x27;s own written reasons in 1861, what was the main cause of Texas leaving the United States?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A border argument with Mexico"
+      },
+      {
+       "text": "Protecting slavery",
+       "correct": true
+      },
+      {
+       "text": "High taxes on cattle"
+      },
+      {
+       "text": "A fight over the capital city"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did Governor Sam Houston do in March 1861?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "He led Texas soldiers into battle in Virginia."
+      },
+      {
+       "text": "He refused to take an oath to the Confederacy and was removed from office.",
+       "correct": true
+      },
+      {
+       "text": "He signed the order of secession."
+      },
+      {
+       "text": "He moved the capital to Galveston."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The 1861 secession vote map shows that...</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "most Texas counties voted to secede, but some, including counties in the Hill Country and North Texas, voted no.",
+       "correct": true
+      },
+      {
+       "text": "every Texan voted the same way."
+      },
+      {
+       "text": "most Texas counties voted to stay in the United States."
+      },
+      {
+       "text": "only cities were allowed to vote."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did goods like coffee, salt, and cloth run short in Texas during the war?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Texans stopped buying them."
+      },
+      {
+       "text": "Union ships blockaded Texas ports.",
+       "correct": true
+      },
+      {
+       "text": "Mexico refused to trade with Texas."
+      },
+      {
+       "text": "The goods were sent to the army in Mexico."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Women running farms and businesses while men were away in the army is an example of what kind of effect?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Political"
+      },
+      {
+       "text": "Economic only"
+      },
+      {
+       "text": "Social",
+       "correct": true
+      },
+      {
+       "text": "Military"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did Colorado County print its own paper money in 1862?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Coins and U.S. money were scarce during the war.",
+       "correct": true
+      },
+      {
+       "text": "The county wanted to leave Texas."
+      },
+      {
+       "text": "The Union army ordered it."
+      },
+      {
+       "text": "Paper money was cheaper than food."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which battle near Brownsville in May 1865 was the last land battle of the Civil War?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Sabine Pass"
+      },
+      {
+       "text": "Galveston"
+      },
+      {
+       "text": "Palmito Ranch",
+       "correct": true
+      },
+      {
+       "text": "San Jacinto"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What did General Orders No. 3 announce in Galveston on June 19, 1865?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "That Texas had won the Civil War"
+      },
+      {
+       "text": "That all enslaved people in Texas were free",
+       "correct": true
+      },
+      {
+       "text": "That Texas was rejoining Mexico"
+      },
+      {
+       "text": "That the capital would move to Austin"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why was freedom announced in Texas about two and a half years after the Emancipation Proclamation?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Texas had already ended slavery."
+      },
+      {
+       "text": "Texas was far from Union armies, so the order could not be enforced until Union troops arrived in 1865.",
+       "correct": true
+      },
+      {
+       "text": "The Emancipation Proclamation did not mention any states."
+      },
+      {
+       "text": "Texans voted to wait."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What were the Black Codes passed by Texas lawmakers in 1866?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Laws that gave Black Texans land"
+      },
+      {
+       "text": "Laws that kept Black Texans from voting, holding office, or serving on juries",
+       "correct": true
+      },
+      {
+       "text": "Rules for Freedmen&#x27;s Bureau schools"
+      },
+      {
+       "text": "The words of General Orders No. 3"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these happened during Reconstruction in Texas?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Texas left the United States."
+      },
+      {
+       "text": "Black Texans such as George T. Ruby and Matthew Gaines were elected to the Texas Senate.",
+       "correct": true
+      },
+      {
+       "text": "Slavery became legal again."
+      },
+      {
+       "text": "Juneteenth became a national holiday."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In what year did Texas become the first state to make Juneteenth an official holiday?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "1866"
+      },
+      {
+       "text": "1872"
+      },
+      {
+       "text": "1980",
+       "correct": true
+      },
+      {
+       "text": "2021"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_u08_unit_quiz",
+   "title": "Unit 8 Assessment — Cattle, Railroads, and the Changing Frontier",
+   "quiz_type": "assignment",
+   "group": "ag_unit_quizzes",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 26,
+   "kind": "unit-quiz",
+   "description": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">This quiz has 12 multiple-choice questions about Unit 8. Choose the best answer for each question. You have 2 tries, and your higher score counts.</p>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did Texans drive cattle north after the Civil War?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Texas had run out of grass."
+      },
+      {
+       "text": "Cattle worth about $4 in Texas could sell for about $40 in the North.",
+       "correct": true
+      },
+      {
+       "text": "The law required all cattle to be sold in Kansas."
+      },
+      {
+       "text": "Cattle could not live in Texas winters."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is a railhead?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The front car of a train"
+      },
+      {
+       "text": "A ranch house near the tracks"
+      },
+      {
+       "text": "The end of a railroad line, where cattle were loaded onto trains",
+       "correct": true
+      },
+      {
+       "text": "A bridge over a river"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which leader opened a trail west to New Mexico with Oliver Loving and is said to have invented the chuck wagon?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Richard King"
+      },
+      {
+       "text": "Charles Goodnight",
+       "correct": true
+      },
+      {
+       "text": "Quanah Parker"
+      },
+      {
+       "text": "B. B. Paddock"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Many of the first Texas cowboys learned their skills from...</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Tejano vaqueros.",
+       "correct": true
+      },
+      {
+       "text": "railroad engineers."
+      },
+      {
+       "text": "soldiers at the forts."
+      },
+      {
+       "text": "steamboat captains."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Kansas Pacific Railway printed a map calling its route &quot;the best and shortest cattle trail from Texas.&quot; Why should a historian check this map against other evidence?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Old maps are always wrong."
+      },
+      {
+       "text": "The railroad wanted cattle business, so the map was trying to persuade.",
+       "correct": true
+      },
+      {
+       "text": "The map was drawn by a cowboy."
+      },
+      {
+       "text": "Maps cannot show trails."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which two changes helped end the long cattle drives by the late 1880s?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Steamboats and canals"
+      },
+      {
+       "text": "Barbed-wire fences and railroads built in Texas",
+       "correct": true
+      },
+      {
+       "text": "Gold mines and new forts"
+      },
+      {
+       "text": "Telephones and cars"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How did the state of Texas encourage companies to build railroads after the Civil War?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It built every railroad itself."
+      },
+      {
+       "text": "It banned wagons on public roads."
+      },
+      {
+       "text": "It gave railroad companies land for every mile of track they built.",
+       "correct": true
+      },
+      {
+       "text": "It paid every passenger to ride."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which town was CREATED by a railroad company?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "San Antonio"
+      },
+      {
+       "text": "Denison",
+       "correct": true
+      },
+      {
+       "text": "Jefferson"
+      },
+      {
+       "text": "Nacogdoches"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Look at this data: Dallas had about 3,000 people in 1870, 10,358 in 1880, and 38,067 in 1890. What does the data show?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Dallas got smaller after the railroads arrived."
+      },
+      {
+       "text": "Dallas grew fastest after the railroads arrived in 1872 and 1873.",
+       "correct": true
+      },
+      {
+       "text": "Dallas never had a railroad."
+      },
+      {
+       "text": "Dallas stayed the same size."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why were bison so important to the Comanche and Kiowa?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "They pulled wagons to market."
+      },
+      {
+       "text": "They gave food, robes, tipi covers, and tools.",
+       "correct": true
+      },
+      {
+       "text": "They were raised on ranches for sale."
+      },
+      {
+       "text": "They were only hunted for sport."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Hornaday&#x27;s 1889 map shows that...</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "bison were spreading into new areas of Texas."
+      },
+      {
+       "text": "cattle trails ran through Palo Duro Canyon."
+      },
+      {
+       "text": "the land where bison lived shrank quickly, and the southern herd was gone by about the late 1870s.",
+       "correct": true
+      },
+      {
+       "text": "railroads were built where bison lived."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence is BALANCED?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The forts made Texas safe."
+      },
+      {
+       "text": "Nothing good came from settling the plains."
+      },
+      {
+       "text": "Ranchers gained grassland, while the Comanche lost the bison they depended on.",
+       "correct": true
+      },
+      {
+       "text": "The plains were empty land waiting for settlers."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_u09_unit_quiz",
+   "title": "Unit 9 Assessment — Oil, Depression, Dust Bowl, and World War II",
+   "quiz_type": "assignment",
+   "group": "ag_unit_quizzes",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 29,
+   "kind": "unit-quiz",
+   "description": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">This quiz has 12 multiple-choice questions about Unit 9. Choose the best answer for each question. You have 2 tries, and your higher score counts.</p>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>What happened at Spindletop, near Beaumont, on January 10, 1901?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The first railroad reached Texas."
+      },
+      {
+       "text": "A huge oil gusher blew in and started the Texas oil boom.",
+       "correct": true
+      },
+      {
+       "text": "A dust storm buried the town."
+      },
+      {
+       "text": "Texas joined the United States."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How did Pattillo Higgins show perseverance?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "He gave up when experts said he was wrong."
+      },
+      {
+       "text": "He kept believing there was oil under Spindletop Hill and searched for a driller after his wells failed.",
+       "correct": true
+      },
+      {
+       "text": "He moved to California to find gold."
+      },
+      {
+       "text": "He built the first refinery in Port Arthur."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Texas produced about 836,000 barrels of oil in 1900 and more than 18 million barrels in 1902. What does this data show?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Oil production went down after Spindletop."
+      },
+      {
+       "text": "Oil production grew more than 20 times bigger in two years.",
+       "correct": true
+      },
+      {
+       "text": "Texas stopped producing oil."
+      },
+      {
+       "text": "Oil production stayed the same."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Spindletop&#x27;s own wells ran low by 1904. Why do historians still call Spindletop a turning point?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Because the gusher photo was famous"
+      },
+      {
+       "text": "Because the oil industry it started kept growing across Texas for decades",
+       "correct": true
+      },
+      {
+       "text": "Because the hill grew taller"
+      },
+      {
+       "text": "Because it ended the Great Depression"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence describes the LARGER oil boom, not just Pattillo Higgins?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "He formed the Gladys City company in 1892."
+      },
+      {
+       "text": "He placed ads looking for someone who could drill."
+      },
+      {
+       "text": "Hundreds of companies, refineries, and pipelines grew in Beaumont, Port Arthur, and Houston.",
+       "correct": true
+      },
+      {
+       "text": "He noticed gas bubbling on Spindletop Hill."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is an ECONOMIC cause of hard times in the 1930s?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Drought"
+      },
+      {
+       "text": "Strong winds"
+      },
+      {
+       "text": "Cotton prices falling to about 5 cents a pound",
+       "correct": true
+      },
+      {
+       "text": "Bare, dry soil"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why did soil blow away in the Texas Panhandle during the Dust Bowl?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Native grass had been plowed up, and drought dried out the bare soil.",
+       "correct": true
+      },
+      {
+       "text": "Too much rain fell on the fields."
+      },
+      {
+       "text": "Oil wells pushed the soil into the air."
+      },
+      {
+       "text": "Cattle ate all the soil."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>How did low crop prices make the Dust Bowl worse?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Farmers stopped farming completely, so grass grew back."
+      },
+      {
+       "text": "Farmers plowed even more land to make up money, leaving more bare soil.",
+       "correct": true
+      },
+      {
+       "text": "Low prices caused more rain."
+      },
+      {
+       "text": "Low prices had no effect on the land."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Dorothea Lange&#x27;s 1937 photo of former Texas tenant farmers added what new cause to the crisis model?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Earthquakes"
+      },
+      {
+       "text": "Floods"
+      },
+      {
+       "text": "Tractors (&quot;power farming&quot;) replaced tenant farm families.",
+       "correct": true
+      },
+      {
+       "text": "Oil spills"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which helped Texans recover from the Dust Bowl?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Plowing up more grassland"
+      },
+      {
+       "text": "Contour plowing, shelterbelts, and Civilian Conservation Corps jobs",
+       "correct": true
+      },
+      {
+       "text": "Leaving fields bare"
+      },
+      {
+       "text": "Burning crops"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What was the &quot;home front&quot; during World War II?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A battle fought in Texas"
+      },
+      {
+       "text": "The people and work at home that supported the war",
+       "correct": true
+      },
+      {
+       "text": "The front porch of the Alamo"
+      },
+      {
+       "text": "A type of airplane"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is ZOOM-OUT evidence about the whole state?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Cleto Rodríguez sold newspapers as a boy."
+      },
+      {
+       "text": "Audie Murphy grew up in a sharecropping family."
+      },
+      {
+       "text": "More than 750,000 Texans served in uniform during World War II.",
+       "correct": true
+      },
+      {
+       "text": "Bessie Coleman learned French."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_u10_unit_quiz",
+   "title": "Unit 10 Assessment — Modern Texas: Culture, Science, and Technology",
+   "quiz_type": "assignment",
+   "group": "ag_unit_quizzes",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 31,
+   "kind": "unit-quiz",
+   "description": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">This quiz has 12 multiple-choice questions about Unit 10. Choose the best answer for each question. You have 2 tries, and your higher score counts.</p>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>What is culture?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Only the food a group eats"
+      },
+      {
+       "text": "The shared way of life of a group, including its music, art, food, language, and celebrations",
+       "correct": true
+      },
+      {
+       "text": "A kind of government"
+      },
+      {
+       "text": "A map of a region"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Lydia Mendoza was known as &quot;La Alondra de la Frontera.&quot; What does that mean?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The Queen of the Boleros"
+      },
+      {
+       "text": "The Lark of the Border",
+       "correct": true
+      },
+      {
+       "text": "The Voice of Waco"
+      },
+      {
+       "text": "The Star of Houston"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which singer from Brownsville was called &quot;the Queen of the Boleros&quot;?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Lydia Mendoza"
+      },
+      {
+       "text": "Chelo Silva",
+       "correct": true
+      },
+      {
+       "text": "Jules Bledsoe"
+      },
+      {
+       "text": "Bessie Coleman"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Jules Bledsoe of Waco is best known for...</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "inventing condensed milk."
+      },
+      {
+       "text": "being the first to sing &quot;Ol&#x27; Man River&quot; in the Broadway musical Show Boat in 1927.",
+       "correct": true
+      },
+      {
+       "text": "flying on the space shuttle."
+      },
+      {
+       "text": "starting Charro Days."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which sentence DESCRIBES a photograph instead of interpreting it?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "She was proud of her music."
+      },
+      {
+       "text": "Her fans loved her."
+      },
+      {
+       "text": "She is holding a large guitar.",
+       "correct": true
+      },
+      {
+       "text": "She was the best singer in Texas."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Conjunto music mixes Mexican songs with an instrument brought to Texas by German, Czech, and Polish immigrants. Which instrument?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The violin"
+      },
+      {
+       "text": "The drum"
+      },
+      {
+       "text": "The accordion",
+       "correct": true
+      },
+      {
+       "text": "The piano"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A strong museum label should include...</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "a joke about the artist."
+      },
+      {
+       "text": "the name and date, a detail, the community, and why it matters.",
+       "correct": true
+      },
+      {
+       "text": "only the artist&#x27;s favorite color."
+      },
+      {
+       "text": "as many exclamation points as possible."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What problem did Gail Borden&#x27;s condensed milk solve?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Fresh milk spoiled quickly, especially on long trips.",
+       "correct": true
+      },
+      {
+       "text": "Cattle wandered onto farms."
+      },
+      {
+       "text": "Astronauts lost bone strength."
+      },
+      {
+       "text": "Surgeons could not keep blood moving."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why was barbed wire important on the Texas Plains?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It kept milk fresh."
+      },
+      {
+       "text": "There was little wood for fences, and barbed wire was cheap and strong.",
+       "correct": true
+      },
+      {
+       "text": "It helped heart surgeons."
+      },
+      {
+       "text": "It carried messages like a telegraph."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Michael DeBakey created his roller pump in 1932. About 20 years later, it became part of the heart-lung machine. What does this show?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Inventions always matter the day they are created."
+      },
+      {
+       "text": "An invention may become historically important when it is adopted and changes lives, not only when it is created.",
+       "correct": true
+      },
+      {
+       "text": "Inventions never change anything."
+      },
+      {
+       "text": "Patents are not real documents."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Millie Hughes-Fulford, born in Mineral Wells, Texas, flew on the space shuttle Columbia in 1991 to study...</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "how to build barbed wire in space"
+      },
+      {
+       "text": "how the human body, including bones, changes in space",
+       "correct": true
+      },
+      {
+       "text": "how to make condensed milk"
+      },
+      {
+       "text": "how music sounds in space"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is a NEW CONSEQUENCE of barbed wire in Texas?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Milk stayed fresh longer."
+      },
+      {
+       "text": "Fences closed the open range and led to fence-cutting fights in 1883.",
+       "correct": true
+      },
+      {
+       "text": "Open-heart surgery became possible."
+      },
+      {
+       "text": "Astronauts could sleep in space."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_u11_unit_quiz",
+   "title": "Unit 11 Assessment — Texas Government, Citizenship, and Economy",
+   "quiz_type": "assignment",
+   "group": "ag_unit_quizzes",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 34,
+   "kind": "unit-quiz",
+   "description": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">This quiz has 12 multiple-choice questions about Unit 11. Choose the best answer for each question. You have 2 tries, and your higher score counts.</p>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>The Texas Constitution says, &quot;All political power is inherent in the people.&quot; What does this mean?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The governor holds all the power."
+      },
+      {
+       "text": "The government&#x27;s power comes from the people of Texas.",
+       "correct": true
+      },
+      {
+       "text": "Only judges have power."
+      },
+      {
+       "text": "Power comes from the federal government only."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>When did Texas voters approve the constitution Texas uses today?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "1836"
+      },
+      {
+       "text": "1845"
+      },
+      {
+       "text": "1876",
+       "correct": true
+      },
+      {
+       "text": "1976"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which branch of Texas government MAKES laws?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Legislative",
+       "correct": true
+      },
+      {
+       "text": "Executive"
+      },
+      {
+       "text": "Judicial"
+      },
+      {
+       "text": "The county fair"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Who leads the executive branch of Texas and can sign or veto bills?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The lieutenant governor"
+      },
+      {
+       "text": "The governor",
+       "correct": true
+      },
+      {
+       "text": "The Speaker of the House"
+      },
+      {
+       "text": "The chief justice"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Someone says a new law breaks the Texas Constitution. Which branch decides?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Legislative"
+      },
+      {
+       "text": "Executive"
+      },
+      {
+       "text": "Judicial",
+       "correct": true
+      },
+      {
+       "text": "No one can decide."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Why does Texas divide government power among three branches?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "So laws can never be passed"
+      },
+      {
+       "text": "So no single leader holds all the power, which protects people&#x27;s rights",
+       "correct": true
+      },
+      {
+       "text": "Because the Capitol has three wings"
+      },
+      {
+       "text": "So the governor can make every decision"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these must a person be to vote in Texas?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "At least 16 years old"
+      },
+      {
+       "text": "A U.S. citizen, at least 18, a Texas resident, and registered",
+       "correct": true
+      },
+      {
+       "text": "A member of the Legislature"
+      },
+      {
+       "text": "A business owner"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which action can a fourth grader take right now to participate in their community?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Vote in a city election"
+      },
+      {
+       "text": "Write a respectful letter to a city council member",
+       "correct": true
+      },
+      {
+       "text": "Sign bills into law"
+      },
+      {
+       "text": "Serve as a judge"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Adina De Zavala is remembered for...</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "inventing barbed wire."
+      },
+      {
+       "text": "working to preserve the Alamo and other Texas historic places.",
+       "correct": true
+      },
+      {
+       "text": "leading the Texas Senate."
+      },
+      {
+       "text": "building the Houston Ship Channel."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which comment at a public meeting shows respectful civil discourse?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "&quot;Anyone who disagrees with me is silly.&quot;"
+      },
+      {
+       "text": "&quot;I disagree because the building is over 100 years old. Here is a photo from 1925.&quot;",
+       "correct": true
+      },
+      {
+       "text": "Talking loudly while someone else is speaking"
+      },
+      {
+       "text": "Leaving before anyone else can speak"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A dry summer means fewer tomatoes grow, but people still want to buy them. What usually happens to the price of tomatoes?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "It goes up.",
+       "correct": true
+      },
+      {
+       "text": "It goes down."
+      },
+      {
+       "text": "It stays exactly the same."
+      },
+      {
+       "text": "Tomatoes become free."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A company chooses to build a factory on the Gulf Coast instead of in the Panhandle. Giving up the Panhandle site, with its cheaper land, is the company&#x27;s...</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "supply"
+      },
+      {
+       "text": "demand"
+      },
+      {
+       "text": "opportunity cost",
+       "correct": true
+      },
+      {
+       "text": "export"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q_u12_unit_quiz",
+   "title": "Unit 12 Assessment — Texas Through Time Capstone",
+   "quiz_type": "assignment",
+   "group": "ag_unit_quizzes",
+   "allowed_attempts": 2,
+   "shuffle_answers": false,
+   "show_correct_answers": true,
+   "published": true,
+   "week": 36,
+   "kind": "unit-quiz",
+   "description": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">This quiz has 12 multiple-choice questions about Unit 12. Choose the best answer for each question. You have 2 tries, and your higher score counts.</p>",
+   "questions": [
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which list puts these events in the correct order, from first to last?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Texas Revolution → Spanish missions → Spindletop"
+      },
+      {
+       "text": "Spanish missions → Texas Revolution → Spindletop",
+       "correct": true
+      },
+      {
+       "text": "Spindletop → Spanish missions → Texas Revolution"
+      },
+      {
+       "text": "Texas Revolution → Spindletop → Spanish missions"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>In what year did Texas become a state of the United States?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "1821"
+      },
+      {
+       "text": "1836"
+      },
+      {
+       "text": "1845",
+       "correct": true
+      },
+      {
+       "text": "1876"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What happened in Galveston on June 19, 1865?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The Lucas Gusher blew in."
+      },
+      {
+       "text": "Freedom was announced to enslaved people in Texas (Juneteenth).",
+       "correct": true
+      },
+      {
+       "text": "Texas declared independence from Mexico."
+      },
+      {
+       "text": "The Texas Capitol was finished."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>&quot;Ranching has been important in Texas from the Spanish missions to today.&quot; This statement describes...</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "change"
+      },
+      {
+       "text": "continuity",
+       "correct": true
+      },
+      {
+       "text": "a bibliography"
+      },
+      {
+       "text": "supply"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>&quot;Texas went from part of Mexico, to an independent republic, to a U.S. state.&quot; This statement describes...</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "change",
+       "correct": true
+      },
+      {
+       "text": "continuity"
+      },
+      {
+       "text": "opportunity cost"
+      },
+      {
+       "text": "a caption"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which is the strongest caption for an exhibit?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "&quot;Oil.&quot;"
+      },
+      {
+       "text": "&quot;A picture I liked.&quot;"
+      },
+      {
+       "text": "&quot;The Lucas Gusher, Spindletop, 1901. It began the Texas oil boom, which changed where Texans worked.&quot;",
+       "correct": true
+      },
+      {
+       "text": "&quot;Something happened near Beaumont.&quot;"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>What does a bibliography tell a visitor?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "The curator&#x27;s favorite unit"
+      },
+      {
+       "text": "Where each source came from",
+       "correct": true
+      },
+      {
+       "text": "The museum&#x27;s opening hours"
+      },
+      {
+       "text": "The answer to every question"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which test asks, &quot;Does this evidence help answer MY question?&quot;</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Relevant",
+       "correct": true
+      },
+      {
+       "text": "Reliable"
+      },
+      {
+       "text": "Specific"
+      },
+      {
+       "text": "Colorful"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which source is a PRIMARY source?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "A website summary written this year"
+      },
+      {
+       "text": "The 1883 railroad map printed by the Galveston News",
+       "correct": true
+      },
+      {
+       "text": "Your textbook chapter about railroads"
+      },
+      {
+       "text": "A classmate&#x27;s exhibit caption"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>A visitor asks a question you cannot fully answer. What is the most honest response?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Make up an answer."
+      },
+      {
+       "text": "Ignore the question."
+      },
+      {
+       "text": "Explain what your evidence shows and what you would still need to find out.",
+       "correct": true
+      },
+      {
+       "text": "Change the subject."
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which shows courteous peer feedback?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "&quot;This is bad.&quot;"
+      },
+      {
+       "text": "&quot;I like how you used three units. One idea to make it stronger is to add a date to your second caption.&quot;",
+       "correct": true
+      },
+      {
+       "text": "Saying nothing and walking away"
+      },
+      {
+       "text": "&quot;Mine is better.&quot;"
+      }
+     ]
+    },
+    {
+     "type": "multiple_choice",
+     "text": "<p>Which of these is one of the seven pillars studied this year?</p>",
+     "points": 1,
+     "answers": [
+      {
+       "text": "Luck"
+      },
+      {
+       "text": "Speed"
+      },
+      {
+       "text": "Self-governance",
+       "correct": true
+      },
+      {
+       "text": "Popularity"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "discussions": [],
+ "files": [],
+ "modules": [
+  {
+   "id": "m_u06",
+   "title": "Unit 6: Republic, Annexation, and War",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "header",
+     "title": "Week 19"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u06_l01",
+     "week": 19,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u06_l02",
+     "week": 19,
+     "completion": "must_submit"
+    },
+    {
+     "type": "header",
+     "title": "Week 20"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u06_l03",
+     "week": 20,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u06_l04",
+     "week": 20,
+     "completion": "must_submit"
+    },
+    {
+     "type": "header",
+     "title": "Week 21"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u06_l05",
+     "week": 21,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u06_l06",
+     "week": 21,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_u06_unit_quiz",
+     "week": 21,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_u07",
+   "title": "Unit 7: Civil War, Reconstruction, and Juneteenth",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "header",
+     "title": "Week 22"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u07_l01",
+     "week": 22,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u07_l02",
+     "week": 22,
+     "completion": "must_submit"
+    },
+    {
+     "type": "header",
+     "title": "Week 23"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u07_l03",
+     "week": 23,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u07_l04",
+     "week": 23,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_u07_unit_quiz",
+     "week": 23,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_u08",
+   "title": "Unit 8: Cattle, Railroads, and the Changing Frontier",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "header",
+     "title": "Week 24"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u08_l01",
+     "week": 24,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u08_l02",
+     "week": 24,
+     "completion": "must_submit"
+    },
+    {
+     "type": "header",
+     "title": "Week 25"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u08_l03",
+     "week": 25,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u08_l04",
+     "week": 25,
+     "completion": "must_submit"
+    },
+    {
+     "type": "header",
+     "title": "Week 26"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u08_l05",
+     "week": 26,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u08_l06",
+     "week": 26,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_u08_unit_quiz",
+     "week": 26,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_u09",
+   "title": "Unit 9: Oil, Depression, Dust Bowl, and World War II",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "header",
+     "title": "Week 27"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u09_l01",
+     "week": 27,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u09_l02",
+     "week": 27,
+     "completion": "must_submit"
+    },
+    {
+     "type": "header",
+     "title": "Week 28"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u09_l03",
+     "week": 28,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u09_l04",
+     "week": 28,
+     "completion": "must_submit"
+    },
+    {
+     "type": "header",
+     "title": "Week 29"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u09_l05",
+     "week": 29,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u09_l06",
+     "week": 29,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_u09_unit_quiz",
+     "week": 29,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_u10",
+   "title": "Unit 10: Modern Texas: Culture, Science, and Technology",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "header",
+     "title": "Week 30"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u10_l01",
+     "week": 30,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u10_l02",
+     "week": 30,
+     "completion": "must_submit"
+    },
+    {
+     "type": "header",
+     "title": "Week 31"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u10_l03",
+     "week": 31,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u10_l04",
+     "week": 31,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_u10_unit_quiz",
+     "week": 31,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_u11",
+   "title": "Unit 11: Texas Government, Citizenship, and Economy",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "header",
+     "title": "Week 32"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u11_l01",
+     "week": 32,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u11_l02",
+     "week": 32,
+     "completion": "must_submit"
+    },
+    {
+     "type": "header",
+     "title": "Week 33"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u11_l03",
+     "week": 33,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u11_l04",
+     "week": 33,
+     "completion": "must_submit"
+    },
+    {
+     "type": "header",
+     "title": "Week 34"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u11_l05",
+     "week": 34,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u11_l06",
+     "week": 34,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_u11_unit_quiz",
+     "week": 34,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "m_u12",
+   "title": "Unit 12: Texas Through Time Capstone",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "header",
+     "title": "Week 35"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u12_l01",
+     "week": 35,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u12_l02",
+     "week": 35,
+     "completion": "must_submit"
+    },
+    {
+     "type": "header",
+     "title": "Week 36"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u12_l03",
+     "week": 36,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "a_u12_l04",
+     "week": 36,
+     "completion": "must_submit"
+    },
+    {
+     "type": "quiz",
+     "ref": "q_u12_unit_quiz",
+     "week": 36,
+     "completion": "must_submit"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "folder": "optima-4th-social-studies-tx (C:\\repos), main branch",
+  "authority": "Grade_4_Texas_SS_copy.xlsx Weekly Sequence (2 lessons per week, units in order)",
+  "note": "Lessons are iframes to optimaondemand.github.io/optima-4th-social-studies-tx, one submission assignment per lesson. Unit quizzes from assessments/unit-N-assessment-*.txt (multiple choice only; short-answer items dropped by the builder). Points and groups set by the builder: lessons 10 pts, quizzes 1 pt per question, Lessons 60% / Unit Quizzes 40%, 2 quiz attempts."
+ }
+}
