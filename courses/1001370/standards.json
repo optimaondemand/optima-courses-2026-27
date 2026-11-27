@@ -67,7 +67,7 @@
    "file": "us-tn/tn-academic-standards/english-language-arts/grades-11-12.json"
   }
  ],
- "tagged": "2026-11-26",
+ "tagged": "2026-11-27",
  "method": "Claude-proposed at build time. Each tag names its framework, quotes verbatim evidence from its own block, and passed the tag validator. status stays proposed until a reviewer confirms it in the Standards Audit.",
  "lessons": {
   "hs-english-3/module-3-jane-eyre-sparkle/w1-lesson1-the-window-seat.html": {
@@ -34853,9 +34853,89 @@
      "tags": []
     },
     {
+     "id": "four-rooms-at-thornfield",
+     "label": "Four Rooms at Thornfield",
+     "hash": "e861ec393d3c",
+     "words": 172,
+     "tags": [
+      {
+       "fw": "fl",
+       "code": "ELA.11.R.1.1",
+       "role": "practice",
+       "evidence": "Name two details from the passage that make the scene Gothic, and say what they make a reader feel.",
+       "source": "claude",
+       "status": "proposed"
+      },
+      {
+       "fw": "tx",
+       "code": "110.38(c)(6)(D)",
+       "role": "practice",
+       "evidence": "Name two details from the passage that make the scene Gothic, and say what they make a reader feel.",
+       "source": "claude",
+       "status": "proposed"
+      },
+      {
+       "fw": "mde",
+       "code": "RL.11.3",
+       "role": "practice",
+       "evidence": "Name two details from the passage that make the scene Gothic, and say what they make a reader feel.",
+       "source": "claude",
+       "status": "proposed"
+      },
+      {
+       "fw": "mde2",
+       "code": "RL.11-12.3",
+       "role": "practice",
+       "evidence": "Name two details from the passage that make the scene Gothic, and say what they make a reader feel.",
+       "source": "claude",
+       "status": "proposed"
+      },
+      {
+       "fw": "dj",
+       "code": "DJ.ELA.11.RL.KID.3",
+       "role": "practice",
+       "evidence": "Name two details from the passage that make the scene Gothic, and say what they make a reader feel.",
+       "source": "claude",
+       "status": "proposed"
+      },
+      {
+       "fw": "ar",
+       "code": "11.RC.5.RL",
+       "role": "practice",
+       "evidence": "Name two details from the passage that make the scene Gothic, and say what they make a reader feel.",
+       "source": "claude",
+       "status": "proposed"
+      },
+      {
+       "fw": "mo",
+       "code": "11-12.RL.2.D",
+       "role": "practice",
+       "evidence": "Name two details from the passage that make the scene Gothic, and say what they make a reader feel.",
+       "source": "claude",
+       "status": "proposed"
+      },
+      {
+       "fw": "al",
+       "code": "4",
+       "role": "practice",
+       "evidence": "Name two details from the passage that make the scene Gothic, and say what they make a reader feel.",
+       "source": "claude",
+       "status": "proposed"
+      },
+      {
+       "fw": "tn",
+       "code": "11-12.RL.KID.3",
+       "role": "practice",
+       "evidence": "Name two details from the passage that make the scene Gothic, and say what they make a reader feel.",
+       "source": "claude",
+       "status": "proposed"
+      }
+     ]
+    },
+    {
      "id": "a-question-a-feature-can-answer",
      "label": "A Question a Feature Can Answer",
-     "hash": "24291a940ded",
+     "hash": "7bf0d9016506",
      "words": 33,
      "tags": [
       {
@@ -37311,6 +37391,78 @@
        "code": "11-12.W.RBPK.8",
        "role": "teach",
        "evidence": "OriginWho made it, and where it came from.",
+       "source": "claude",
+       "status": "proposed"
+      }
+     ]
+    },
+    {
+     "id": "jane-s-pictures",
+     "label": "Jane’s Pictures",
+     "hash": "b2fa747d100d",
+     "words": 155,
+     "tags": [
+      {
+       "fw": "tx",
+       "code": "110.38(c)(11)(H)",
+       "role": "practice",
+       "evidence": "Mr. Rochester asks “was that hand yours?” before he judges the pictures. Why should a caption say who made a picture?",
+       "source": "claude",
+       "status": "proposed"
+      },
+      {
+       "fw": "mde",
+       "code": "W.11.8",
+       "role": "practice",
+       "evidence": "Mr. Rochester asks “was that hand yours?” before he judges the pictures. Why should a caption say who made a picture?",
+       "source": "claude",
+       "status": "proposed"
+      },
+      {
+       "fw": "mde2",
+       "code": "W.11-12.8",
+       "role": "practice",
+       "evidence": "Mr. Rochester asks “was that hand yours?” before he judges the pictures. Why should a caption say who made a picture?",
+       "source": "claude",
+       "status": "proposed"
+      },
+      {
+       "fw": "dj",
+       "code": "DJ.ELA.11.WRIT.RBPK.2",
+       "role": "practice",
+       "evidence": "Mr. Rochester asks “was that hand yours?” before he judges the pictures. Why should a caption say who made a picture?",
+       "source": "claude",
+       "status": "proposed"
+      },
+      {
+       "fw": "ar",
+       "code": "11.W.16.R",
+       "role": "practice",
+       "evidence": "Mr. Rochester asks “was that hand yours?” before he judges the pictures. Why should a caption say who made a picture?",
+       "source": "claude",
+       "status": "proposed"
+      },
+      {
+       "fw": "mo",
+       "code": "11-12.W.1.A.b",
+       "role": "practice",
+       "evidence": "Mr. Rochester asks “was that hand yours?” before he judges the pictures. Why should a caption say who made a picture?",
+       "source": "claude",
+       "status": "proposed"
+      },
+      {
+       "fw": "al",
+       "code": "28",
+       "role": "practice",
+       "evidence": "Mr. Rochester asks “was that hand yours?” before he judges the pictures. Why should a caption say who made a picture?",
+       "source": "claude",
+       "status": "proposed"
+      },
+      {
+       "fw": "tn",
+       "code": "11-12.W.RBPK.8",
+       "role": "practice",
+       "evidence": "Mr. Rochester asks “was that hand yours?” before he judges the pictures. Why should a caption say who made a picture?",
        "source": "claude",
        "status": "proposed"
       }
