@@ -1,0 +1,1240 @@
+{
+ "course": {
+  "title": "English 3 · Jane Eyre (Sparkle)",
+  "code": "1001370",
+  "default_view": "wiki",
+  "weighted": false
+ },
+ "assignment_groups": [
+  {
+   "id": "je_ag_assignments",
+   "title": "Assignments",
+   "weight": 0
+  },
+  {
+   "id": "je_ag_quizzes_projects",
+   "title": "Quizzes and projects",
+   "weight": 0
+  }
+ ],
+ "rubrics": [
+  {
+   "id": "je_r_recorded_reading",
+   "title": "Recorded Reading & Reflection: Module 3 Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Set-up and context",
+     "long_description": "Names where the passage comes from, and says accurately what happens just before it.",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Names where the passage comes from, and says accurately what happens just before it.",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Location named, but the set-up is vague or describes the wrong moment.",
+       "points": 3.0
+      },
+      {
+       "description": "None",
+       "long_description": "No set-up.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Accuracy of reading",
+     "long_description": "Reads the passage as written. Unfamiliar words and names are attempted and clear.",
+     "points": 5.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Reads the passage as written. Unfamiliar words and names are attempted and clear.",
+       "points": 5.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Frequent misreadings, or lines skipped.",
+       "points": 3.0
+      },
+      {
+       "description": "None",
+       "long_description": "Passage not read, or far under length.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Pace, volume, and expression",
+     "long_description": "Steady pace a listener can follow. Audible throughout. Phrasing and emphasis match what the sentence means.",
+     "points": 8.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Steady pace a listener can follow. Audible throughout. Phrasing and emphasis match what the sentence means.",
+       "points": 8.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Rushed, flat, or hard to hear in places.",
+       "points": 4.0
+      },
+      {
+       "description": "None",
+       "long_description": "Inaudible or unintelligible.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "The response",
+     "long_description": "Completes the chosen response and points at something specific in the passage just read, not at the story in general.",
+     "points": 7.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Completes the chosen response and points at something specific in the passage just read, not at the story in general.",
+       "points": 7.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Starts the response but stays general, or answers only part of it.",
+       "points": 4.0
+      },
+      {
+       "description": "None",
+       "long_description": "No response after the reading.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "je_r_forum",
+   "title": "Module 3 Forum: Why Does Jane Refuse to Remain with Rochester? Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Post and reply",
+     "long_description": "Post: Clear position, one cited quotation from chapter 27, names both what is gained and what is lost Reply: Engages a different position with a specific line and a real question",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Post: Clear position, one cited quotation from chapter 27, names both what is gained and what is lost Reply: Engages a different position with a specific line and a real question",
+       "points": 10.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Post: Position vague or no citation; gain or cost missing Reply: Generic agreement or no textual point",
+       "points": 6.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Post: No post Reply: No reply",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "je_r_recitation",
+   "title": "Graded Recitation: Speak the Poem Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Accuracy of text",
+     "long_description": "From memory, eyes covered, faithful to the words and the line order; slips are rare and self-recovered.",
+     "points": 7.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "From memory, eyes covered, faithful to the words and the line order; slips are rare and self-recovered.",
+       "points": 7.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Frequent errors, skipped stanzas, or long stalls; or eyes open / clearly reading.",
+       "points": 4.0
+      }
+     ]
+    },
+    {
+     "description": "Vocal delivery",
+     "long_description": "Clear and controlled; pace, pause, and stress follow the sense, not just the line ends; the meter is felt without being pounded.",
+     "points": 7.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "Clear and controlled; pace, pause, and stress follow the sense, not just the line ends; the meter is felt without being pounded.",
+       "points": 7.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Rushed or flat; a sing-song beat that ignores meaning; pauses only at line breaks; hard to follow.",
+       "points": 4.0
+      }
+     ]
+    },
+    {
+     "description": "Interpretation",
+     "long_description": "Delivery choices show real understanding of the poem's turn and its weight.",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Strong",
+       "long_description": "Delivery choices show real understanding of the poem's turn and its weight.",
+       "points": 6.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Recited correctly but with little sense of what the words mean or where the poem turns.",
+       "points": 3.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "je_r_pitch",
+   "title": "The Thornfield Chronicle: Pitch Your Feature Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Post and replies",
+     "long_description": "Post: Names one angle, a lead sentence, a specific reader, what that reader needs explained, and a source Replies: Two replies, each naming something specific and asking a real question",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Full",
+       "long_description": "Post: Names one angle, a lead sentence, a specific reader, what that reader needs explained, and a source Replies: Two replies, each naming something specific and asking a real question",
+       "points": 10.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Post: Angle vague, reader described as \"everyone,\" or missing the lead sentence or source Replies: Only one reply, or replies are generic (\"sounds good\")",
+       "points": 6.0
+      },
+      {
+       "description": "Missing",
+       "long_description": "Post: No post Replies: No replies",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "je_r_qrc",
+   "title": "Quarterly Reading Check: Module 3 Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Evidence of actual reading",
+     "long_description": "Specific details only a reader would know: a named moment, a line, where it falls in the book.",
+     "points": 7.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Specific details only a reader would know: a named moment, a line, where it falls in the book.",
+       "points": 7.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Accurate but general enough to have come from a summary.",
+       "points": 4.0
+      },
+      {
+       "description": "None",
+       "long_description": "No evidence of having read it.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Insight beyond summary",
+     "long_description": "Explains a character's motive or makes a claim about the book, in the student's own words, and points at something specific.",
+     "points": 7.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Explains a character's motive or makes a claim about the book, in the student's own words, and points at something specific.",
+       "points": 7.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Names a character or a claim but retells plot instead of explaining it.",
+       "points": 4.0
+      },
+      {
+       "description": "None",
+       "long_description": "Plot summary only, or not addressed.",
+       "points": 0.0
+      }
+     ]
+    },
+    {
+     "description": "Oral delivery",
+     "long_description": "Clear, audible, well paced; speaks to the listener; not read off a script.",
+     "points": 6.0,
+     "ratings": [
+      {
+       "description": "Full credit",
+       "long_description": "Clear, audible, well paced; speaks to the listener; not read off a script.",
+       "points": 6.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "Understandable but flat or script-bound.",
+       "points": 3.0
+      },
+      {
+       "description": "None",
+       "long_description": "Cannot be understood.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "je_r_final",
+   "title": "The Thornfield Chronicle: Final Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Explanation & accuracy",
+     "long_description": "The chosen part of Jane's world is explained clearly and completely; every factual and textual claim is accurate; a genuine stranger to the novel could follow it start to finish.",
+     "points": 15.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "The chosen part of Jane's world is explained clearly and completely; every factual and textual claim is accurate; a genuine stranger to the novel could follow it start to finish.",
+       "points": 15.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "The explanation is mostly clear and accurate, with a minor gap or an unexplained term.",
+       "points": 12.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "The explanation assumes prior knowledge of the novel, contains inaccuracies, or does not hold to one clear topic.",
+       "points": 8.0
+      }
+     ]
+    },
+    {
+     "description": "Research & sources",
+     "long_description": "Two or more credible sources, including a JStor source, genuinely advance the explanation; claims are verified; MLA in-text and source-list entries are correct throughout.",
+     "points": 15.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Two or more credible sources, including a JStor source, genuinely advance the explanation; claims are verified; MLA in-text and source-list entries are correct throughout.",
+       "points": 15.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Required sources present and mostly integrated; minor citation errors.",
+       "points": 12.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Sources missing, decorative, uncited, or not credible; the JStor requirement is not met.",
+       "points": 8.0
+      }
+     ]
+    },
+    {
+     "description": "Organization & reader-friendly structure",
+     "long_description": "A lead that earns the next paragraph; parallel headed sections that each hold one idea; a well-chosen pull-quote; a genuinely useful sidebar.",
+     "points": 12.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "A lead that earns the next paragraph; parallel headed sections that each hold one idea; a well-chosen pull-quote; a genuinely useful sidebar.",
+       "points": 12.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "All the required parts are present; one heading or section could be tighter or better ordered.",
+       "points": 10.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "A required part is missing (lead, headings, pull-quote, or sidebar), or sections crowd more than one idea.",
+       "points": 6.0
+      }
+     ]
+    },
+    {
+     "description": "Craft & mechanics",
+     "long_description": "Clearly revised beyond the draft; clean conventions; length requirement met; the five-point checklist is visibly applied.",
+     "points": 8.0,
+     "ratings": [
+      {
+       "description": "Excellent",
+       "long_description": "Clearly revised beyond the draft; clean conventions; length requirement met; the five-point checklist is visibly applied.",
+       "points": 8.0
+      },
+      {
+       "description": "Proficient",
+       "long_description": "Some revision; a few errors; length close to the requirement.",
+       "points": 6.0
+      },
+      {
+       "description": "Developing",
+       "long_description": "Little changed from the draft; distracting errors; length requirement missed.",
+       "points": 4.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "je_r_chronicle_online",
+   "title": "The Chronicle Online Rubric",
+   "free_form_comments": true,
+   "criteria": [
+    {
+     "description": "Completion",
+     "long_description": "Four checks: your text, its parts, it opens, AI Disclosure.",
+     "points": 10.0,
+     "ratings": [
+      {
+       "description": "Complete",
+       "long_description": "All four checks are present.",
+       "points": 10.0
+      },
+      {
+       "description": "Partial",
+       "long_description": "One check is missing, or the feature text has clearly been altered from the Final.",
+       "points": 6.0
+      },
+      {
+       "description": "Not submitted",
+       "long_description": "Not submitted.",
+       "points": 0.0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pages": [],
+ "assignments": [
+  {
+   "id": "je_a_w1_l1",
+   "title": "The Window-Seat",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w1-lesson1-the-window-seat.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 1,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w1_l2",
+   "title": "I Am Not Deceitful",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w1-lesson2-i-am-not-deceitful.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 1,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w1_l3",
+   "title": "The Writer's Desk (Week 1)",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w1-lesson3-writers-desk.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 1,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w1_l4",
+   "title": "Gateshead Hall",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w1-lesson4-gateshead-hall.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 1,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w2_l1",
+   "title": "Lowood and Brocklehurst",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w2-lesson1-lowood-and-brocklehurst.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w2_l2",
+   "title": "Helen Burns and Resurgam",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w2-lesson2-helen-burns-and-resurgam.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w2_l3",
+   "title": "The Writer's Desk (Week 2)",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w2-lesson3-writers-desk.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w2_l4",
+   "title": "Helen and Jane",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w2-lesson4-helen-and-jane.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 2,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w3_l1",
+   "title": "Arrival at Thornfield",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w3-lesson1-arrival-at-thornfield.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w3_l2",
+   "title": "Fireside and Fire",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w3-lesson2-fireside-and-fire.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w3_l3",
+   "title": "The Writer's Desk (Week 3)",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w3-lesson3-writers-desk.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w3_l4",
+   "title": "What the House Withholds",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w3-lesson4-what-the-house-withholds.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 3,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w4_l1",
+   "title": "The House Party",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w4-lesson1-the-house-party.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w4_l2",
+   "title": "The Fortune-Teller",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w4-lesson2-the-fortune-teller.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w4_l3",
+   "title": "The Writer's Desk (Week 4)",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w4-lesson3-writers-desk.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w4_l4",
+   "title": "A Meeting of Equals?",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w4-lesson4-a-meeting-of-equals.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 4,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w5_l1",
+   "title": "The Orchard",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w5-lesson1-the-orchard.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w5_l2",
+   "title": "The Veil and the Vow",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w5-lesson2-the-veil-and-the-vow.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w5_l3",
+   "title": "The Writer's Desk (Week 5)",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w5-lesson3-writers-desk.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w5_l4",
+   "title": "Self-Respect or Fear?",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w5-lesson4-self-respect-or-fear.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 5,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w6_l1",
+   "title": "What Is Left",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w6-lesson1-what-is-left.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w6_l2",
+   "title": "What a Choice Says",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w6-lesson2-what-a-choice-says.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w6_l3",
+   "title": "The Writer's Desk (Week 6)",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w6-lesson3-writers-desk.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w6_l4",
+   "title": "Why Reject Both?",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w6-lesson4-why-reject-both.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 6,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w7_l1",
+   "title": "Ferndean",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w7-lesson1-ferndean.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w7_l2",
+   "title": "Reader, I Married Him",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w7-lesson2-reader-i-married-him.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w7_l3",
+   "title": "The Writer's Desk (Week 7)",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w7-lesson3-writers-desk.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w7_l4",
+   "title": "Triumph or Compromise?",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w7-lesson4-triumph-or-compromise.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 7,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w8_l1",
+   "title": "The Workshop",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w8-lesson1-the-workshop.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 8,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w8_l2",
+   "title": "The Draft",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w8-lesson2-the-draft.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 8,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_w9_l1",
+   "title": "Going to Press",
+   "html": "<iframe src=\"https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/w9-lesson1-going-to-press.html\" style=\"width:100%;height:2400px;height:88vh;min-height:640px;border:none;\" allowfullscreen allow=\"fullscreen\" title=\"Lesson content\" loading=\"lazy\"></iframe>",
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "pdf",
+   "published": true,
+   "week": 9,
+   "kind": "lesson-assignment"
+  },
+  {
+   "id": "je_a_recorded_reading",
+   "title": "Recorded Reading & Reflection: Module 3",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Recorded Reading &amp; Reflection: Module 3</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">English 3 &middot; Module 3 &middot; The Green Room</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">25 points</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Record / Upload Media</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">5 to 7 minutes</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Two attempts</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Due in Week 5</span></div><span data-ob-end=\"optima-brand-v2\"></span>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:22px 28px;margin:4px 0 16px 0;\"><div style=\"font-size:21px;color:#1F2A2C;line-height:1.45;\">The Green Room. An arts-radio segment recorded backstage. The guest reads the passage they have brought, then talks about it before the programme goes to air.</div></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Run sheet</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"margin:0 -1% 6px -1%;\"><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\">:20 to :30</div><div style=\"font-size:15px;line-height:1.3;color:#1F2A2C;margin:0 0 4px 0;\"><strong>Introduction</strong></div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\">Name the novel, the chapter, and what happens immediately before the passage.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\">3:00 to 4:30</div><div style=\"font-size:15px;line-height:1.3;color:#1F2A2C;margin:0 0 4px 0;\"><strong>The reading</strong></div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\">Read the passage aloud, as written.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\">1:00 to 2:00</div><div style=\"font-size:15px;line-height:1.3;color:#1F2A2C;margin:0 0 4px 0;\"><strong>The conversation</strong></div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\">One angle from the three below.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\">:10</div><div style=\"font-size:15px;line-height:1.3;color:#1F2A2C;margin:0 0 4px 0;\"><strong>Sign-off</strong></div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\">Close the segment. One sentence.</div></div></div></div>\n<table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">One recording. All four segments in order, no stopping between them.</td></tr><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">Open with: &ldquo;This is from ______, ______ to ______. Just before this, ______. I chose it because ______.&rdquo;</td></tr></tbody></table>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">The reading</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">Any passage of 450 to 650 words from Jane Eyre, chapters 1 to 27. Read it as written: no summarising, no skipping, no paraphrase.</td></tr><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">Rehearse twice: first for the words that trip you, then for where the sentences breathe.</td></tr><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">Passages that carry aloud: chapter 2 (the red-room), 4 (Jane's answer to Mrs. Reed), 9 (Helen Burns's last night), 12 (the third storey), 23 (the orchard), 27 (Jane's answer to Rochester).</td></tr></tbody></table>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Then complete one angle</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"margin:0 -1% 6px -1%;\"><div style=\"display:inline-block;vertical-align:top;width:31.3%;min-width:280px;margin:0 1% 14px 1%;\"><div style=\"border:1px solid #E2D6BA;border-top:5px solid #C8706A;background:#ffffff;padding:16px 18px 8px 18px;\"><table style=\"border-collapse:collapse;width:100%;margin:0 0 8px 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:40px;line-height:1;vertical-align:top;\">A</td><td style=\"vertical-align:top;\"><div style=\"font-size:19px;color:#1F2A2C;line-height:1.3;\"><strong>Off the cuff</strong></div><div style=\"font-size:12.5px;color:#5C5648;line-height:1.5;\">1 TO 2 MIN</div></td></tr></tbody></table><div style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;margin:0 0 9px 0;\">Answer any two.</div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">1</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">What does this show about the character that you did not know before?</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">2</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Which one word is doing the most work?</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">3</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">What did reading it aloud show you that reading it silently did not?</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">4</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">What question does it leave you with?</td></tr></tbody></table></div></div><div style=\"display:inline-block;vertical-align:top;width:31.3%;min-width:280px;margin:0 1% 14px 1%;\"><div style=\"border:1px solid #E2D6BA;border-top:5px solid #C8706A;background:#ffffff;padding:16px 18px 8px 18px;\"><table style=\"border-collapse:collapse;width:100%;margin:0 0 8px 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:40px;line-height:1;vertical-align:top;\">B</td><td style=\"vertical-align:top;\"><div style=\"font-size:19px;color:#1F2A2C;line-height:1.3;\"><strong>The case</strong></div><div style=\"font-size:12.5px;color:#5C5648;line-height:1.5;\">1 TO 2 MIN</div></td></tr></tbody></table><div style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;margin:0 0 9px 0;\">Argue something debatable about the passage. Take the side most people will not.</div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">1</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Name the arguable thing.</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">2</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">State your position in one sentence. If nobody could disagree, it is not an argument yet.</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">3</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Point at the words. You just read them.</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">4</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Answer the strongest objection.</td></tr></tbody></table></div></div><div style=\"display:inline-block;vertical-align:top;width:31.3%;min-width:280px;margin:0 1% 14px 1%;\"><div style=\"border:1px solid #E2D6BA;border-top:5px solid #C8706A;background:#ffffff;padding:16px 18px 8px 18px;\"><table style=\"border-collapse:collapse;width:100%;margin:0 0 8px 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:40px;line-height:1;vertical-align:top;\">C</td><td style=\"vertical-align:top;\"><div style=\"font-size:19px;color:#1F2A2C;line-height:1.3;\"><strong>One line, rewritten</strong></div><div style=\"font-size:12.5px;color:#5C5648;line-height:1.5;\">1 TO 2 MIN</div></td></tr></tbody></table><div style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;margin:0 0 9px 0;\">Rewind to one moment and change it.</div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">1</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Name the exact sentence you are changing.</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">2</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Say what happens instead.</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">3</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Say what the author's version does that yours does not. Then say whether you still prefer yours.</td></tr></tbody></table></div></div></div>\n<div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:0 0 12px 0;\">Close with one sentence. Name the show, and let the passage have the last word if you like.</div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Record and submit</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\"><strong>Record / Upload Media</strong> records straight into Canvas, or upload a phone recording.</td></tr><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">Audio only is complete. Video is permitted, never required. Nothing else is handed in.</td></tr></tbody></table>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">How this is scored</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"overflow-x:auto;\"><table style=\"border-collapse:collapse;width:100%;min-width:640px;margin:0;\"><thead><tr><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Criterion</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Full credit</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Partial</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">None</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">5</div><strong>Set-up and context</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Names where the passage comes from, and says accurately what happens just before it.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Location named, but the set-up is vague or describes the wrong moment.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">No set-up.</td></tr><tr style=\"background:#F6EEDC;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">5</div><strong>Accuracy of reading</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Reads the passage as written. Unfamiliar words and names are attempted and clear.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Frequent misreadings, or lines skipped.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Passage not read, or far under length.</td></tr><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">8</div><strong>Pace, volume, and expression</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Steady pace a listener can follow. Audible throughout. Phrasing and emphasis match what the sentence means.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Rushed, flat, or hard to hear in places.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Inaudible or unintelligible.</td></tr><tr style=\"background:#F6EEDC;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">7</div><strong>The response</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Completes the chosen response and points at something specific in the passage just read, not at the story in general.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Starts the response but stays general, or answers only part of it.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">No response after the reading.</td></tr></tbody></table></div><div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:12px 0 0 0;\"><strong>Total: 25 points.</strong></div>",
+   "points": 25.0,
+   "group": "je_ag_assignments",
+   "rubric": "je_r_recorded_reading",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "media_recording,online_upload",
+   "published": true,
+   "week": 5,
+   "kind": "recorded-reading"
+  },
+  {
+   "id": "je_a_recitation",
+   "title": "Graded Recitation: Speak the Poem",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Graded Recitation: Speak the Poem</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">English 3 &middot; Module 3</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">20 points</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Recording, or live with your teacher</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Eyes covered</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Due in Week 6</span></div><span data-ob-end=\"optima-brand-v2\"></span>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:22px 28px;margin:4px 0 16px 0;\"><div style=\"font-size:21px;color:#1F2A2C;line-height:1.45;\">Perform a Victorian-era poem from memory, with eyes covered: the whole poem you choose below, or its marked span.</div></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">What to do</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"margin:0 -1% 6px -1%;\"><div style=\"display:inline-block;vertical-align:top;width:31.3%;min-width:210px;margin:0 1% 14px 1%;\"><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:42px;line-height:1;vertical-align:top;padding:0 0 12px 0;\">1</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:top;padding:3px 0 12px 0;\"><strong>Choose one poem.</strong> Read all seven aloud once, then pick the one your voice returns to.</td></tr></tbody></table></div><div style=\"display:inline-block;vertical-align:top;width:31.3%;min-width:210px;margin:0 1% 14px 1%;\"><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:42px;line-height:1;vertical-align:top;padding:0 0 12px 0;\">2</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:top;padding:3px 0 12px 0;\"><strong>Learn it by heart.</strong> Let the line breaks decide where you breathe, and the meter be a pulse, not a hammer. Let your voice mark the turn.</td></tr></tbody></table></div><div style=\"display:inline-block;vertical-align:top;width:31.3%;min-width:210px;margin:0 1% 14px 1%;\"><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:42px;line-height:1;vertical-align:top;padding:0 0 12px 0;\">3</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:top;padding:3px 0 12px 0;\"><strong>Perform it.</strong> Wear a blindfold, close your eyes, or turn away from any page or screen. No reading.</td></tr></tbody></table></div></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Choose one poem (16 to 37 lines)</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:20px 28px 10px 28px;margin:4px 0 18px 0;\"><table style=\"border-collapse:collapse;width:100%;margin:0 0 12px 0;\"><tbody><tr><td style=\"width:52px;min-width:52px;color:#C8706A;font-size:46px;line-height:1;vertical-align:top;\">1</td><td style=\"vertical-align:top;\"><div style=\"font-size:19px;color:#1F2A2C;line-height:1.3;\"><strong>The Poor Orphan Child</strong></div><div style=\"font-size:13px;color:#0F5560;line-height:1.5;\">Charlotte Brontë &middot; the ballad Bessie sings, Jane Eyre, chapter 3 (1847) &middot; Whole poem, 20 lines in five stanzas</div></td></tr></tbody></table><div style=\"font-size:17px;color:#1F2A2C;line-height:1.85;\"><p style=\"margin:0 0 12px 0;\">My feet they are sore, and my limbs they are weary;<br />Long is the way, and the mountains are wild;<br />Soon will the twilight close moonless and dreary<br />Over the path of the poor orphan child.</p><p style=\"margin:0 0 12px 0;\">Why did they send me so far and so lonely,<br />Up where the moors spread and grey rocks are piled?<br />Men are hard-hearted, and kind angels only<br />Watch o&rsquo;er the steps of a poor orphan child.</p><p style=\"margin:0 0 12px 0;\">Yet distant and soft the night breeze is blowing,<br />Clouds there are none, and clear stars beam mild,<br />God, in His mercy, protection is showing,<br />Comfort and hope to the poor orphan child.</p><p style=\"margin:0 0 12px 0;\">Ev&rsquo;n should I fall o&rsquo;er the broken bridge passing,<br />Or stray in the marshes, by false lights beguiled,<br />Still will my Father, with promise and blessing,<br />Take to His bosom the poor orphan child.</p><p style=\"margin:0 0 12px 0;\">There is a thought that for strength should avail me,<br />Though both of shelter and kindred despoiled;<br />Heaven is a home, and a rest will not fail me;<br />God is a friend to the poor orphan child.</p></div><div style=\"font-size:12px;color:#5C5648;line-height:1.5;margin:0 0 10px 0;\">POEM 1 &middot; JANE EYRE, CHAPTER 3 (CHARLOTTE BRONTË, 1847)</div></div>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:20px 28px 10px 28px;margin:4px 0 18px 0;\"><table style=\"border-collapse:collapse;width:100%;margin:0 0 12px 0;\"><tbody><tr><td style=\"width:52px;min-width:52px;color:#C8706A;font-size:46px;line-height:1;vertical-align:top;\">2</td><td style=\"vertical-align:top;\"><div style=\"font-size:19px;color:#1F2A2C;line-height:1.3;\"><strong>A song sung in chapter 24</strong></div><div style=\"font-size:13px;color:#0F5560;line-height:1.5;\">Charlotte Brontë &middot; Jane Eyre, chapter 24 (1847) &middot; The first six stanzas, 24 lines, from &ldquo;The truest love that ever heart&rdquo; to &ldquo;Disasters gather nigh.&rdquo;</div></td></tr></tbody></table><div style=\"font-size:17px;color:#1F2A2C;line-height:1.85;\"><p style=\"margin:0 0 12px 0;\">The truest love that ever heart<br />Felt at its kindled core,<br />Did through each vein, in quickened start,<br />The tide of being pour.</p><p style=\"margin:0 0 12px 0;\">Her coming was my hope each day,<br />Her parting was my pain;<br />The chance that did her steps delay<br />Was ice in every vein.</p><p style=\"margin:0 0 12px 0;\">I dreamed it would be nameless bliss,<br />As I loved, loved to be;<br />And to this object did I press<br />As blind as eagerly.</p><p style=\"margin:0 0 12px 0;\">But wide as pathless was the space<br />That lay our lives between,<br />And dangerous as the foamy race<br />Of ocean-surges green.</p><p style=\"margin:0 0 12px 0;\">And haunted as a robber-path<br />Through wilderness or wood;<br />For Might and Right, and Woe and Wrath,<br />Between our spirits stood.</p><p style=\"margin:0 0 12px 0;\">I dangers dared; I hindrance scorned;<br />I omens did defy:<br />Whatever menaced, harassed, warned,<br />I passed impetuous by.</p></div><div style=\"font-size:12px;color:#5C5648;line-height:1.5;margin:0 0 10px 0;\">POEM 2 &middot; JANE EYRE, CHAPTER 24 (CHARLOTTE BRONTË, 1847)</div></div>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:20px 28px 10px 28px;margin:4px 0 18px 0;\"><table style=\"border-collapse:collapse;width:100%;margin:0 0 12px 0;\"><tbody><tr><td style=\"width:52px;min-width:52px;color:#C8706A;font-size:46px;line-height:1;vertical-align:top;\">3</td><td style=\"vertical-align:top;\"><div style=\"font-size:19px;color:#1F2A2C;line-height:1.3;\"><strong>&ldquo;Life&rdquo;</strong></div><div style=\"font-size:13px;color:#0F5560;line-height:1.5;\">Charlotte Brontë &middot; from Poems by Currer, Ellis, and Acton Bell (1846) &middot; Whole poem, 24 lines</div></td></tr></tbody></table><div style=\"font-size:17px;color:#1F2A2C;line-height:1.85;\"><p style=\"margin:0 0 12px 0;\">Life, believe, is not a dream<br />So dark as sages say;<br />Oft a little morning rain<br />Foretells a pleasant day.<br />Sometimes there are clouds of gloom,<br />But these are transient all;<br />If the shower will make the roses bloom,<br />O why lament its fall?<br />Rapidly, merrily,<br />Life&rsquo;s sunny hours flit by,<br />Gratefully, cheerily<br />Enjoy them as they fly!<br />What though Death at times steps in,<br />And calls our Best away?<br />What though sorrow seems to win,<br />O&rsquo;er hope, a heavy sway?<br />Yet Hope again elastic springs,<br />Unconquered, though she fell;<br />Still buoyant are her golden wings,<br />Still strong to bear us well.<br />Manfully, fearlessly,<br />The day of trial bear,<br />For gloriously, victoriously,<br />Can courage quell despair!</p></div><div style=\"font-size:12px;color:#5C5648;line-height:1.5;margin:0 0 10px 0;\">POEM 3 &middot; POEMS BY CURRER, ELLIS, AND ACTON BELL (1846)</div></div>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:20px 28px 10px 28px;margin:4px 0 18px 0;\"><table style=\"border-collapse:collapse;width:100%;margin:0 0 12px 0;\"><tbody><tr><td style=\"width:52px;min-width:52px;color:#C8706A;font-size:46px;line-height:1;vertical-align:top;\">4</td><td style=\"vertical-align:top;\"><div style=\"font-size:19px;color:#1F2A2C;line-height:1.3;\"><strong>&ldquo;No Coward Soul Is Mine&rdquo;</strong></div><div style=\"font-size:13px;color:#0F5560;line-height:1.5;\">Emily Brontë &middot; written 1846, published 1850 &middot; Whole poem, 28 lines</div></td></tr></tbody></table><div style=\"font-size:17px;color:#1F2A2C;line-height:1.85;\"><p style=\"margin:0 0 12px 0;\">No coward soul is mine,<br />No trembler in the world&rsquo;s storm-troubled sphere:<br />I see Heaven&rsquo;s glories shine,<br />And faith shines equal, arming me from fear.</p><p style=\"margin:0 0 12px 0;\">O God within my breast,<br />Almighty, ever-present Deity!<br />Life&mdash;that in me has rest,<br />As I&mdash;undying Life&mdash;have power in Thee!</p><p style=\"margin:0 0 12px 0;\">Vain are the thousand creeds<br />That move men&rsquo;s hearts: unutterably vain;<br />Worthless as withered weeds,<br />Or idle froth amid the boundless main,</p><p style=\"margin:0 0 12px 0;\">To waken doubt in one<br />Holding so fast by Thine infinity;<br />So surely anchored on<br />The stedfast rock of immortality.</p><p style=\"margin:0 0 12px 0;\">With wide-embracing love<br />Thy spirit animates eternal years,<br />Pervades and broods above,<br />Changes, sustains, dissolves, creates, and rears.</p><p style=\"margin:0 0 12px 0;\">Though earth and man were gone,<br />And suns and universes ceased to be,<br />And Thou were left alone,<br />Every existence would exist in Thee.</p><p style=\"margin:0 0 12px 0;\">There is not room for Death,<br />Nor atom that his might could render void:<br />Thou&mdash;Thou art Being and Breath,<br />And what Thou art may never be destroyed.</p></div><div style=\"font-size:12px;color:#5C5648;line-height:1.5;margin:0 0 10px 0;\">POEM 4 &middot; EMILY BRONTË (WRITTEN 1846, PUBLISHED 1850)</div></div>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:20px 28px 10px 28px;margin:4px 0 18px 0;\"><table style=\"border-collapse:collapse;width:100%;margin:0 0 12px 0;\"><tbody><tr><td style=\"width:52px;min-width:52px;color:#C8706A;font-size:46px;line-height:1;vertical-align:top;\">5</td><td style=\"vertical-align:top;\"><div style=\"font-size:19px;color:#1F2A2C;line-height:1.3;\"><strong>&ldquo;Dover Beach&rdquo;</strong></div><div style=\"font-size:13px;color:#0F5560;line-height:1.5;\">Matthew Arnold &middot; 1867 &middot; Whole poem, 37 lines; or the continuous span from &ldquo;The sea of faith&rdquo; to the end (23 lines)</div></td></tr></tbody></table><div style=\"font-size:17px;color:#1F2A2C;line-height:1.85;\"><p style=\"margin:0 0 12px 0;\">The sea is calm to-night.<br />The tide is full, the moon lies fair<br />Upon the straits; on the French coast, the light<br />Gleams and is gone; the cliffs of England stand,<br />Glimmering and vast, out in the tranquil bay.<br />Come to the window, sweet is the night-air!<br />Only, from the long line of spray<br />Where the sea meets the moon-blanched sand,<br />Listen! you hear the grating roar<br />Of pebbles which the waves draw back, and fling,<br />At their return, up the high strand,<br />Begin and cease, and then again begin,<br />With tremulous cadence slow, and bring<br />The eternal note of sadness in.</p><p style=\"margin:0 0 12px 0;\">Sophocles long ago<br />Heard it on the Ægean, and it brought<br />Into his mind the turbid ebb and flow<br />Of human misery: we<br />Find also in the sound a thought,<br />Hearing it by this distant northern sea.</p><p style=\"margin:0 0 12px 0;\">The sea of faith<br />Was once, too, at the full, and round earth&rsquo;s shore<br />Lay like the folds of a bright girdle furled.<br />But now I only hear<br />Its melancholy, long, withdrawing roar,<br />Retreating, to the breath<br />Of the night-wind, down the vast edges drear<br />And naked shingles of the world.</p><p style=\"margin:0 0 12px 0;\">Ah, love, let us be true<br />To one another! for the world, which seems<br />To lie before us like a land of dreams,<br />So various, so beautiful, so new,<br />Hath really neither joy, nor love, nor light,<br />Nor certitude, nor peace, nor help for pain;<br />And we are here as on a darkling plain<br />Swept with confused alarms of struggle and flight,<br />Where ignorant armies clash by night.</p></div><div style=\"font-size:12px;color:#5C5648;line-height:1.5;margin:0 0 10px 0;\">POEM 5 &middot; MATTHEW ARNOLD (1867)</div></div>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:20px 28px 10px 28px;margin:4px 0 18px 0;\"><table style=\"border-collapse:collapse;width:100%;margin:0 0 12px 0;\"><tbody><tr><td style=\"width:52px;min-width:52px;color:#C8706A;font-size:46px;line-height:1;vertical-align:top;\">6</td><td style=\"vertical-align:top;\"><div style=\"font-size:19px;color:#1F2A2C;line-height:1.3;\"><strong>&ldquo;Invictus&rdquo;</strong></div><div style=\"font-size:13px;color:#0F5560;line-height:1.5;\">William Ernest Henley &middot; written 1875, published 1888 &middot; Whole poem, 16 lines</div></td></tr></tbody></table><div style=\"font-size:17px;color:#1F2A2C;line-height:1.85;\"><p style=\"margin:0 0 12px 0;\">Out of the night that covers me,<br />Black as the Pit from pole to pole,<br />I thank whatever gods may be<br />For my unconquerable soul.</p><p style=\"margin:0 0 12px 0;\">In the fell clutch of circumstance<br />I have not winced nor cried aloud.<br />Under the bludgeonings of chance<br />My head is bloody, but unbowed.</p><p style=\"margin:0 0 12px 0;\">Beyond this place of wrath and tears<br />Looms but the Horror of the shade,<br />And yet the menace of the years<br />Finds, and shall find, me unafraid.</p><p style=\"margin:0 0 12px 0;\">It matters not how strait the gate,<br />How charged with punishments the scroll,<br />I am the master of my fate:<br />I am the captain of my soul.</p></div><div style=\"font-size:12px;color:#5C5648;line-height:1.5;margin:0 0 10px 0;\">POEM 6 &middot; WILLIAM ERNEST HENLEY (WRITTEN 1875, PUBLISHED 1888)</div></div>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:20px 28px 10px 28px;margin:4px 0 18px 0;\"><table style=\"border-collapse:collapse;width:100%;margin:0 0 12px 0;\"><tbody><tr><td style=\"width:52px;min-width:52px;color:#C8706A;font-size:46px;line-height:1;vertical-align:top;\">7</td><td style=\"vertical-align:top;\"><div style=\"font-size:19px;color:#1F2A2C;line-height:1.3;\"><strong>&ldquo;Ulysses,&rdquo; the closing lines</strong></div><div style=\"font-size:13px;color:#0F5560;line-height:1.5;\">Alfred Tennyson &middot; 1842 &middot; The continuous span from &ldquo;There lies the port&rdquo; to the last line, 27 lines. The whole poem is 70 lines.</div></td></tr></tbody></table><div style=\"font-size:17px;color:#1F2A2C;line-height:1.85;\"><p style=\"margin:0 0 12px 0;\">There lies the port: the vessel puffs her sail:<br />There gloom the dark broad seas. My mariners,<br />Souls that have toil&rsquo;d, and wrought, and thought with me&mdash;<br />That ever with a frolic welcome took<br />The thunder and the sunshine, and opposed<br />Free hearts, free foreheads&mdash;you and I are old;<br />Old age hath yet his honour and his toil;<br />Death closes all: but something ere the end,<br />Some work of noble note, may yet be done,<br />Not unbecoming men that strove with Gods.<br />The lights begin to twinkle from the rocks:<br />The long day wanes: the slow moon climbs: the deep<br />Moans round with many voices. Come, my friends,<br />&rsquo;Tis not too late to seek a newer world.<br />Push off, and sitting well in order smite<br />The sounding furrows; for my purpose holds<br />To sail beyond the sunset, and the baths<br />Of all the western stars, until I die.<br />It may be that the gulfs will wash us down:<br />It may be we shall touch the Happy Isles,<br />And see the great Achilles, whom we knew.<br />Tho&rsquo; much is taken, much abides; and tho&rsquo;<br />We are not now that strength which in old days<br />Moved earth and heaven, that which we are, we are;<br />One equal temper of heroic hearts,<br />Made weak by time and fate, but strong in will<br />To strive, to seek, to find, and not to yield.</p></div><div style=\"font-size:12px;color:#5C5648;line-height:1.5;margin:0 0 10px 0;\">POEM 7 &middot; ALFRED TENNYSON (1842)</div></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Record and submit</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"margin:0 -1% 6px -1%;\"><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\">Option A: record</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\">Record yourself, eyes covered, on any device; a phone is fine. Upload the file or paste a link, named <strong>LastName_FirstName_Recitation_M3_ELA11</strong>. Add a caption or short transcript: the exact lines you recited, with the title and, for poems 1 and 2, the chapter.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\">Option B: live</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\">Your teacher may instead schedule a live recitation with you, also with eyes closed. If so, they will tell you, and you do not submit a video.</div></div></div></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">How this is scored</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"overflow-x:auto;\"><table style=\"border-collapse:collapse;width:100%;min-width:640px;margin:0;\"><thead><tr><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Criterion</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Strong</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Developing</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">7</div><strong>Accuracy of text</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">From memory, eyes covered, faithful to the words and the line order; slips are rare and self-recovered.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Frequent errors, skipped stanzas, or long stalls; or eyes open / clearly reading.</td></tr><tr style=\"background:#F6EEDC;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">7</div><strong>Vocal delivery</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Clear and controlled; pace, pause, and stress follow the sense, not just the line ends; the meter is felt without being pounded.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Rushed or flat; a sing-song beat that ignores meaning; pauses only at line breaks; hard to follow.</td></tr><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">6</div><strong>Interpretation</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Delivery choices show real understanding of the poem's turn and its weight.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Recited correctly but with little sense of what the words mean or where the poem turns.</td></tr></tbody></table></div><div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:12px 0 0 0;\"><strong>Total: 20 points.</strong></div>",
+   "points": 20.0,
+   "group": "je_ag_assignments",
+   "rubric": "je_r_recitation",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "media_recording,online_upload,online_text_entry",
+   "published": true,
+   "week": 6,
+   "kind": "recitation"
+  },
+  {
+   "id": "je_a_qrc",
+   "title": "Quarterly Reading Check: Module 3",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Quarterly Reading Check: Module 3</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">English 3 &middot; Module 3 &middot; Independent Reading</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">20 points</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Record / Upload Media</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">About 3 minutes</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Due in Week 8</span></div><span data-ob-end=\"optima-brand-v2\"></span>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">The book</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">One book of choice per quarter, from the Optima Independent Reading library.</td></tr><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">Not a book the class reads this year. No book used twice, in any quarter or year.</td></tr><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">A title not on the list is subject to teacher approval.</td></tr></tbody></table>\n<div style=\"margin:0 0 4px 0;line-height:2.8;\"><a href=\"https://optimaondemand.github.io/optima-assets/optima-independent-reading.html\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-block;background:#0F5560;border-left:6px solid #C8706A;padding:9px 20px;margin:0 10px 0 0;color:#ffffff;font-size:15px;line-height:1.5;text-decoration:none;\">Open the Optima Independent Reading library &#8599;</a></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Record one of four, equal weight</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"margin:0 -1% 6px -1%;\"><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:280px;margin:0 1% 14px 1%;\"><div style=\"border:1px solid #E2D6BA;border-top:5px solid #C8706A;background:#ffffff;padding:16px 18px 8px 18px;\"><table style=\"border-collapse:collapse;width:100%;margin:0 0 8px 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:40px;line-height:1;vertical-align:top;\">1</td><td style=\"vertical-align:top;\"><div style=\"font-size:19px;color:#1F2A2C;line-height:1.3;\"><strong>Oral Book Response</strong></div><div style=\"font-size:12.5px;color:#5C5648;line-height:1.5;\">about 3 minutes</div></td></tr></tbody></table><div style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;margin:0 0 9px 0;\">Answer these five out loud, in order. Notes in front of you are fine; a script read word for word is not.</div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">1</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">What is the book, and how far did you get?</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">2</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Pick one character. What do they want, and what is in the way?</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">3</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Describe a moment where that character makes a choice you would not have made. Why did they make it?</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">4</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Read one sentence or short passage you marked, and say why that one.</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">5</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Who should read this book, and who should skip it?</td></tr></tbody></table></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:280px;margin:0 1% 14px 1%;\"><div style=\"border:1px solid #E2D6BA;border-top:5px solid #C8706A;background:#ffffff;padding:16px 18px 8px 18px;\"><table style=\"border-collapse:collapse;width:100%;margin:0 0 8px 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:40px;line-height:1;vertical-align:top;\">2</td><td style=\"vertical-align:top;\"><div style=\"font-size:19px;color:#1F2A2C;line-height:1.3;\"><strong>Dramatic Reading</strong></div><div style=\"font-size:12.5px;color:#5C5648;line-height:1.5;\">about 3 minutes</div></td></tr></tbody></table><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">1</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Choose a passage of roughly 150 to 300 words where a character is under pressure: deciding, arguing, afraid, or hiding something.</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">2</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Read it aloud as that character. Decide before you record what they want in this moment, then let your pace, volume and pauses show it.</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">3</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Then talk for about a minute: who is this character, what do they want here, and what did you do with your voice to show it? Name one specific choice you made.</td></tr></tbody></table></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:280px;margin:0 1% 14px 1%;\"><div style=\"border:1px solid #E2D6BA;border-top:5px solid #C8706A;background:#ffffff;padding:16px 18px 8px 18px;\"><table style=\"border-collapse:collapse;width:100%;margin:0 0 8px 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:40px;line-height:1;vertical-align:top;\">3</td><td style=\"vertical-align:top;\"><div style=\"font-size:19px;color:#1F2A2C;line-height:1.3;\"><strong>Make the Case</strong></div><div style=\"font-size:12.5px;color:#5C5648;line-height:1.5;\">about 3 minutes</div></td></tr></tbody></table><div style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;margin:0 0 9px 0;\">You are a guest on a books podcast and the host has given you three minutes to make one argument. House rule of the show: you have to take the side most listeners will not.</div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">1</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Name what you are arguing about, and say where it falls in the book. Pick something people genuinely disagree over: a moral dilemma, a turn nobody saw coming, or a decision a character made that readers still argue about.</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">2</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Take the unpopular side and say it in your first sentence. If most readers think the character was right, argue that they were wrong. If nobody could disagree with your claim, it is not an argument yet.</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">3</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Give two pieces of evidence from the text: a line, a scene, something a character says or does. Say roughly where each one falls.</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">4</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Answer the strongest objection, the one the host would come back at you with. State it fairly first, then answer it.</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">5</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Land it. Finish with one sentence a listener would still be turning over after the episode ends.</td></tr></tbody></table></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:280px;margin:0 1% 14px 1%;\"><div style=\"border:1px solid #E2D6BA;border-top:5px solid #C8706A;background:#ffffff;padding:16px 18px 8px 18px;\"><table style=\"border-collapse:collapse;width:100%;margin:0 0 8px 0;\"><tbody><tr><td style=\"width:44px;min-width:44px;color:#C8706A;font-size:40px;line-height:1;vertical-align:top;\">4</td><td style=\"vertical-align:top;\"><div style=\"font-size:19px;color:#1F2A2C;line-height:1.3;\"><strong>A Different Ending</strong></div><div style=\"font-size:12.5px;color:#5C5648;line-height:1.5;\">about 3 minutes</div></td></tr></tbody></table><div style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;margin:0 0 9px 0;\">Only take this one if you finished the book. You are going to replace the ending, and you cannot rewrite an ending you never got to.</div><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">1</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Say how the book actually ends, in two or three sentences. Be accurate. The rest of this only works if your listener knows what you are changing.</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">2</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Name the exact point where your version branches off, then describe your ending in detail. What happens, who it happens to, and how does it finish?</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">3</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Explain why yours is better for this book. Not happier, and not kinder to your favourite character, but truer to what the story has been about. Name the idea or theme you are serving.</td></tr><tr><td style=\"width:24px;min-width:24px;color:#0F5560;font-size:16px;vertical-align:top;padding:0 0 9px 0;line-height:1.5;\">4</td><td style=\"font-size:14.5px;color:#1F2A2C;line-height:1.5;padding:0 0 9px 2px;\">Say what your ending costs. Every ending gives something up. Name what is lost by not keeping the one the author wrote.</td></tr></tbody></table></div></div></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">What your teacher listens for</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"margin:0 -1% 6px -1%;\"><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\">Where you are</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\">Give a page, a chapter, or &ldquo;about two thirds through.&rdquo;</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\">Something exact</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\">Read or quote one short line.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\">Something yours</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\">A judgement, a disagreement, a question.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\">One moment</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\">One scene closely beats the whole story vaguely.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\">How far you got</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\">&ldquo;I stopped at chapter nine because ___&rdquo; earns more than a confident account of an ending you never reached.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\">A clear voice</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\">You can be heard the whole way through.</div></div></div></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">A note on AI tools</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:22px 28px;margin:4px 0 16px 0;\"><div style=\"font-size:21px;color:#1F2A2C;line-height:1.45;\">A summary tool can tell you what happens in a book. It cannot tell you which page you stopped on, which line you read twice, or what you thought was wrong. Those are the things these options ask for.</div></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Delivery</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\"><strong>Record / Upload Media</strong> records into Canvas, or upload an audio or video file. Say the title and author in your first sentence.</td></tr><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">Audio only is complete. Video is permitted, never required.</td></tr><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">Two attempts. The later one is graded.</td></tr></tbody></table>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">How this is scored</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"overflow-x:auto;\"><table style=\"border-collapse:collapse;width:100%;min-width:640px;margin:0;\"><thead><tr><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Criterion</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Full credit</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Partial</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">None</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">7</div><strong>Evidence of actual reading</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Specific details only a reader would know: a named moment, a line, where it falls in the book.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Accurate but general enough to have come from a summary.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">No evidence of having read it.</td></tr><tr style=\"background:#F6EEDC;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">7</div><strong>Insight beyond summary</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Explains a character's motive or makes a claim about the book, in the student's own words, and points at something specific.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Names a character or a claim but retells plot instead of explaining it.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Plot summary only, or not addressed.</td></tr><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">6</div><strong>Oral delivery</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Clear, audible, well paced; speaks to the listener; not read off a script.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Understandable but flat or script-bound.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Cannot be understood.</td></tr></tbody></table></div><div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:12px 0 0 0;\"><strong>Total: 20 points.</strong></div>",
+   "points": 20.0,
+   "group": "je_ag_quizzes_projects",
+   "rubric": "je_r_qrc",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "media_recording,online_upload",
+   "published": true,
+   "week": 8,
+   "kind": "quarterly-reading-check"
+  },
+  {
+   "id": "je_a_final",
+   "title": "The Thornfield Chronicle: Final",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">The Thornfield Chronicle: Final</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">English 3 &middot; Module 3</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">50 points</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Teacher-graded rubric</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Feature, 900 to 1,200 words</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Due in Week 9</span></div><span data-ob-end=\"optima-brand-v2\"></span>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:22px 28px;margin:4px 0 16px 0;\"><div style=\"font-size:21px;color:#1F2A2C;line-height:1.45;\">If a reader has never opened Jane Eyre and never will, what single part of her world would you want them to understand, and can you make them understand it in under 1,200 words?</div></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Choose one angle</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"margin:0 -1% 6px -1%;\"><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:210px;margin:0 1% 14px 1%;\"><div style=\"border:1px solid #E2D6BA;border-top:5px solid #C8706A;background:#ffffff;padding:16px 18px 14px 18px;\"><div style=\"font-size:44px;line-height:1;color:#C8706A;margin:0 0 8px 0;\">A</div><div style=\"font-size:18px;line-height:1.3;color:#1F2A2C;margin:0 0 6px 0;\"><strong>The governess</strong></div><div style=\"font-size:15px;line-height:1.55;color:#1F2A2C;\">The real position of a Victorian governess.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:210px;margin:0 1% 14px 1%;\"><div style=\"border:1px solid #E2D6BA;border-top:5px solid #C8706A;background:#ffffff;padding:16px 18px 14px 18px;\"><div style=\"font-size:44px;line-height:1;color:#C8706A;margin:0 0 8px 0;\">B</div><div style=\"font-size:18px;line-height:1.3;color:#1F2A2C;margin:0 0 6px 0;\"><strong>The Gothic mode</strong></div><div style=\"font-size:15px;line-height:1.55;color:#1F2A2C;\">The Gothic mode and why Brontë uses it.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:210px;margin:0 1% 14px 1%;\"><div style=\"border:1px solid #E2D6BA;border-top:5px solid #C8706A;background:#ffffff;padding:16px 18px 14px 18px;\"><div style=\"font-size:44px;line-height:1;color:#C8706A;margin:0 0 8px 0;\">C</div><div style=\"font-size:18px;line-height:1.3;color:#1F2A2C;margin:0 0 6px 0;\"><strong>Inheritance and money</strong></div><div style=\"font-size:15px;line-height:1.55;color:#1F2A2C;\">Inheritance and marriage law and money in the novel.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:210px;margin:0 1% 14px 1%;\"><div style=\"border:1px solid #E2D6BA;border-top:5px solid #C8706A;background:#ffffff;padding:16px 18px 14px 18px;\"><div style=\"font-size:44px;line-height:1;color:#C8706A;margin:0 0 8px 0;\">D</div><div style=\"font-size:18px;line-height:1.3;color:#1F2A2C;margin:0 0 6px 0;\"><strong>The coming-of-age story</strong></div><div style=\"font-size:15px;line-height:1.55;color:#1F2A2C;\">The shape of a coming-of-age story and how Jane Eyre fits and bends it.</div></div></div></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">The feature must</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"margin:0 -1% 6px -1%;\"><div style=\"display:inline-block;vertical-align:top;width:31.3%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\"><span style=\"color:#0F5560;font-size:19px;line-height:1;vertical-align:middle;margin:0 8px 0 0;\">&#9744;</span>900&ndash;1,200 words</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\"><strong>Length:</strong> 900 to 1,200 words, for the general readers of a literary-cultural periodical.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:31.3%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\"><span style=\"color:#0F5560;font-size:19px;line-height:1;vertical-align:middle;margin:0 8px 0 0;\">&#9744;</span>The parts</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\"><strong>A headline, a standfirst and a byline,</strong> a lead that hooks a stranger, and parallel headed sections.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:31.3%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\"><span style=\"color:#0F5560;font-size:19px;line-height:1;vertical-align:middle;margin:0 8px 0 0;\">&#9744;</span>Pull-quote and sidebar</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\"><strong>At least one pull-quote</strong> from the novel and a short sidebar.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:31.3%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\"><span style=\"color:#0F5560;font-size:19px;line-height:1;vertical-align:middle;margin:0 8px 0 0;\">&#9744;</span>2 sources</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\"><strong>At least two credible sources,</strong> one from JStor, woven in: paraphrase, attribute, cite.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:31.3%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\"><span style=\"color:#0F5560;font-size:19px;line-height:1;vertical-align:middle;margin:0 8px 0 0;\">&#9744;</span>MLA</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\"><strong>MLA in-text citations</strong> and a complete, alphabetized, hanging-indented source list.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:31.3%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\"><span style=\"color:#0F5560;font-size:19px;line-height:1;vertical-align:middle;margin:0 8px 0 0;\">&#9744;</span>Checked</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\"><strong>Every real-world fact has a source</strong> and every claim about the novel is cited by chapter. Visibly revised, proofread, no em dashes.</div></div></div></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Use what you have made</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"margin:0 -1% 6px -1%;\"><div style=\"display:inline-block;vertical-align:top;width:31.3%;min-width:210px;margin:0 1% 14px 1%;\"><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:42px;line-height:1;vertical-align:top;padding:0 0 12px 0;\">1</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:top;padding:3px 0 12px 0;\"><strong>Quotations.</strong> The passages you marked, printed with their chapters in your lesson PDFs.</td></tr></tbody></table></div><div style=\"display:inline-block;vertical-align:top;width:31.3%;min-width:210px;margin:0 1% 14px 1%;\"><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:42px;line-height:1;vertical-align:top;padding:0 0 12px 0;\">2</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:top;padding:3px 0 12px 0;\"><strong>Paragraphs.</strong> Any paragraph you built from a claim, a lead-in, a quotation and what it shows.</td></tr></tbody></table></div><div style=\"display:inline-block;vertical-align:top;width:31.3%;min-width:210px;margin:0 1% 14px 1%;\"><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:42px;line-height:1;vertical-align:top;padding:0 0 12px 0;\">3</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:top;padding:3px 0 12px 0;\"><strong>Sources.</strong> Your notes on the sources you looked at and which to trust.</td></tr></tbody></table></div><div style=\"display:inline-block;vertical-align:top;width:31.3%;min-width:210px;margin:0 1% 14px 1%;\"><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:42px;line-height:1;vertical-align:top;padding:0 0 12px 0;\">4</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:top;padding:3px 0 12px 0;\"><strong>Plan.</strong> Any plan you made, set out by headed sections.</td></tr></tbody></table></div></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Upload</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:22px 28px;margin:4px 0 16px 0;\"><div style=\"font-size:21px;color:#1F2A2C;line-height:1.45;\">Upload two files: your Word document (.docx) and your project PDF.</div></div>\n<div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">LastName_FirstName_ThornfieldChronicle_ELA11_Final</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">LastName_FirstName_JaneEyreW9_L1_ELA11</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Typed</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Cite by chapter</span></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">How this is scored</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"overflow-x:auto;\"><table style=\"border-collapse:collapse;width:100%;min-width:640px;margin:0;\"><thead><tr><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Criterion</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Excellent</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Proficient</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Developing</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">15</div><strong>Explanation &amp; accuracy</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">The chosen part of Jane's world is explained clearly and completely; every factual and textual claim is accurate; a genuine stranger to the novel could follow it start to finish.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">The explanation is mostly clear and accurate, with a minor gap or an unexplained term.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">The explanation assumes prior knowledge of the novel, contains inaccuracies, or does not hold to one clear topic.</td></tr><tr style=\"background:#F6EEDC;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">15</div><strong>Research &amp; sources</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Two or more credible sources, including a JStor source, genuinely advance the explanation; claims are verified; MLA in-text and source-list entries are correct throughout.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Required sources present and mostly integrated; minor citation errors.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Sources missing, decorative, uncited, or not credible; the JStor requirement is not met.</td></tr><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">12</div><strong>Organization &amp; reader-friendly structure</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">A lead that earns the next paragraph; parallel headed sections that each hold one idea; a well-chosen pull-quote; a genuinely useful sidebar.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">All the required parts are present; one heading or section could be tighter or better ordered.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">A required part is missing (lead, headings, pull-quote, or sidebar), or sections crowd more than one idea.</td></tr><tr style=\"background:#F6EEDC;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">8</div><strong>Craft &amp; mechanics</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Clearly revised beyond the draft; clean conventions; length requirement met; the five-point checklist is visibly applied.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Some revision; a few errors; length close to the requirement.</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Little changed from the draft; distracting errors; length requirement missed.</td></tr></tbody></table></div><div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:12px 0 0 0;\"><strong>Total: 50 points.</strong></div>\n<div style=\"margin:38px 0 0 0;\">\n<!-- OPTIMA AI DISCLOSURE (Canvas-native): paste into the project's assignment description. No script. -->\n<div style=\"border: 1px solid #D9D3C7; border-top: 5px solid #1F4E79; border-radius: 12px; padding: 20px 24px; max-width: 860px;\">\n  <p style=\"font-size: 13px; font-weight: bold; letter-spacing: 1px; text-transform: uppercase; color: #1F4E79; margin: 0 0 6px;\">AI Disclosure</p>\n  <h3 style=\"margin: 0 0 8px;\">AI use on this project</h3>\n  <p>Every project includes this record. Using an AI program is optional. Recording it is not. Add it as the last page of your submission.</p>\n  <p><strong>1. Write one of these two sentences.</strong></p>\n  <ul>\n    <li>I did not use an AI program on this project.</li>\n    <li>I used an AI program on this project.</li>\n  </ul>\n  <p><strong>2. If you used one, add an entry for each prompt you sent.</strong></p>\n  <table style=\"border-collapse: collapse; width: 100%;\">\n    <tbody>\n      <tr>\n        <th scope=\"row\" style=\"border: 1px solid #D9D3C7; padding: 8px 10px; text-align: left; width: 30%;\">AI program</th>\n        <td style=\"border: 1px solid #D9D3C7; padding: 8px 10px;\">The name and version shown in the program.</td>\n      </tr>\n      <tr>\n        <th scope=\"row\" style=\"border: 1px solid #D9D3C7; padding: 8px 10px; text-align: left;\">My prompt</th>\n        <td style=\"border: 1px solid #D9D3C7; padding: 8px 10px;\">Paste it exactly as you sent it.</td>\n      </tr>\n      <tr>\n        <th scope=\"row\" style=\"border: 1px solid #D9D3C7; padding: 8px 10px; text-align: left;\">What came back</th>\n        <td style=\"border: 1px solid #D9D3C7; padding: 8px 10px;\">Paste the answer exactly as the program gave it.</td>\n      </tr>\n      <tr>\n        <th scope=\"row\" style=\"border: 1px solid #D9D3C7; padding: 8px 10px; text-align: left;\">What I did with it</th>\n        <td style=\"border: 1px solid #D9D3C7; padding: 8px 10px;\">What you kept, what you changed, what you left out, and how you checked it.</td>\n      </tr>\n    </tbody>\n  </table>\n  <p style=\"margin-top: 12px;\"><strong>3. End with this sentence.</strong> This record is complete and accurate.</p>\n</div>\n</div>",
+   "points": 50.0,
+   "group": "je_ag_quizzes_projects",
+   "rubric": "je_r_final",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "docx,pdf",
+   "published": true,
+   "week": 9,
+   "kind": "module-project"
+  },
+  {
+   "id": "je_a_chronicle_online",
+   "title": "The Chronicle Online",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">The Chronicle Online</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">English 3 &middot; Module 3</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">10 points (completion)</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">One .html file</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Due in Week 9</span></div><span data-ob-end=\"optima-brand-v2\"></span>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:22px 28px;margin:4px 0 16px 0;\"><div style=\"font-size:21px;color:#1F2A2C;line-height:1.45;\">Turn your finished feature into one web page: a presentation task, not a writing task. The words do not change.</div></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">The page</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:42px;line-height:1;vertical-align:top;padding:0 0 12px 0;\">1</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:top;padding:3px 0 12px 0;\"><strong>Build one page.</strong> A headline, your byline, a standfirst, the section headings from your Final, a pull-quote from your strongest line, your full feature text, a visual with its caption and source, and your source list.</td></tr></tbody></table><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:42px;line-height:1;vertical-align:top;padding:0 0 12px 0;\">2</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:top;padding:3px 0 12px 0;\"><strong>Keep your words.</strong> Your feature goes in word for word, as graded. The headline, standfirst and pull-quote come from your own sentences.</td></tr></tbody></table><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:42px;line-height:1;vertical-align:top;padding:0 0 12px 0;\">3</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:top;padding:3px 0 12px 0;\"><strong>Check it.</strong> Open the file in a browser and reread it against your Final.</td></tr></tbody></table>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">The page is complete when</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"margin:0 -1% 6px -1%;\"><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\"><span style=\"color:#0F5560;font-size:19px;line-height:1;vertical-align:middle;margin:0 8px 0 0;\">&#9744;</span>Your text</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\">The page's text is your Final feature, unchanged from the graded submission.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\"><span style=\"color:#0F5560;font-size:19px;line-height:1;vertical-align:middle;margin:0 8px 0 0;\">&#9744;</span>Its parts</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\">The page has multiple distinct elements: a headline, byline, standfirst, section headings, a pull-quote in your own words, at least one supporting visual, and your source list.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\"><span style=\"color:#0F5560;font-size:19px;line-height:1;vertical-align:middle;margin:0 8px 0 0;\">&#9744;</span>It opens</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\">The file opens correctly as one working page,.</div></div></div><div style=\"display:inline-block;vertical-align:top;width:48%;min-width:220px;margin:0 1% 14px 1%;\"><div style=\"border-left:5px solid #0F5560;background:#F6EEDC;padding:14px 16px 13px 16px;\"><div style=\"font-size:26px;line-height:1.15;color:#0F5560;margin:0 0 5px 0;\"><span style=\"color:#0F5560;font-size:19px;line-height:1;vertical-align:middle;margin:0 8px 0 0;\">&#9744;</span>AI Disclosure</div><div style=\"font-size:14.5px;line-height:1.5;color:#1F2A2C;\">Your AI Disclosure is included: whether you used an AI program, and if so which and how.</div></div></div></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Upload</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:22px 28px;margin:4px 0 16px 0;\"><div style=\"font-size:21px;color:#1F2A2C;line-height:1.45;\">Upload one .html file.</div></div>\n<div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">LastName_FirstName_ChronicleOnline_ELA11.html</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">One self-contained file</span></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">How this is scored</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<table style=\"border-collapse:collapse;width:100%;margin:0;\"><thead><tr><th style=\"padding:0 0 8px 0;font-size:12.5px;color:#5C5648;text-align:left;border-bottom:2px solid #0F5560;\">Score</th><th style=\"padding:0 0 8px 0;font-size:12.5px;color:#5C5648;text-align:left;border-bottom:2px solid #0F5560;\">Earned when</th></tr></thead><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:38px;line-height:1;vertical-align:top;padding:10px 0 12px 0;border-bottom:1px solid #E2D6BA;\">10</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:middle;padding:10px 0 12px 0;border-bottom:1px solid #E2D6BA;\">All four checks are present.</td></tr><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:38px;line-height:1;vertical-align:top;padding:10px 0 12px 0;border-bottom:1px solid #E2D6BA;\">6</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:middle;padding:10px 0 12px 0;border-bottom:1px solid #E2D6BA;\">One check is missing, or the feature text has clearly been altered from the Final.</td></tr><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:38px;line-height:1;vertical-align:top;padding:10px 0 12px 0;border-bottom:1px solid #E2D6BA;\">0</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:middle;padding:10px 0 12px 0;border-bottom:1px solid #E2D6BA;\">Not submitted.</td></tr></tbody></table>",
+   "points": 10.0,
+   "group": "je_ag_quizzes_projects",
+   "rubric": "je_r_chronicle_online",
+   "rubric_use_for_grading": true,
+   "grading_type": "points",
+   "submission_types": "online_upload",
+   "allowed_extensions": "html",
+   "published": true,
+   "week": 9,
+   "kind": "module-project"
+  }
+ ],
+ "quizzes": [],
+ "discussions": [
+  {
+   "id": "je_d_forum",
+   "title": "Module 3 Forum: Why Does Jane Refuse to Remain with Rochester?",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">Module 3 Forum: Why Does Jane Refuse to Remain with Rochester?</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">English 3 &middot; Module 3</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">10 points</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Graded discussion</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">One post, one reply</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Due in Week 5</span></div><span data-ob-end=\"optima-brand-v2\"></span>\n<div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:0 0 12px 0;\">In chapter 27, Rochester offers Jane every argument he has: his suffering, his years of loneliness, the unfairness of a law that binds him to a marriage that was never a real union in any way that matters to him. Jane's own feelings argue his case for him, loudly, from inside her own mind. And still she leaves before dawn, on foot, with twenty shillings, saying to herself, \"I care for myself. The more solitary, the more friendless, the more unsustained I am, the more I will respect myself.\"</div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Post and reply</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:42px;line-height:1;vertical-align:top;padding:0 0 12px 0;\">1</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:top;padding:3px 0 12px 0;\"><strong>Post (by mid-week):</strong> Take a position: does Jane make the right choice in refusing to stay with Rochester, or does her principle cost more than it is worth? In four to six sentences, defend or challenge her choice with one quotation from chapter 27, cited by chapter. Name specifically what she gains and what she loses by leaving.</td></tr></tbody></table><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:42px;line-height:1;vertical-align:top;padding:0 0 12px 0;\">2</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:top;padding:3px 0 12px 0;\"><strong>Reply (by end of week):</strong> Respond to a classmate who took a different position from yours. Point to one line in the text that complicates their reading, and ask one honest question about it.</td></tr></tbody></table>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Guidance</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">Argue from what the text actually shows Jane paying and gaining, not from a general opinion about the situation. Chapter 27 gives you both sides of the argument in her own words; use them.</td></tr><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">Defending her choice and questioning whether it was worth the cost are not opposite positions. You can agree she was right and still name what it cost her.</td></tr><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">If you introduce Jane or Rochester by name in your post, define who they are at this exact point in the novel with an appositive, not a summary sentence.</td></tr></tbody></table>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">How this is scored</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"overflow-x:auto;\"><table style=\"border-collapse:collapse;width:100%;min-width:640px;margin:0;\"><thead><tr><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Level</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Post</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Reply</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">10</div><strong>Full</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Clear position, one cited quotation from chapter 27, names both what is gained and what is lost</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Engages a different position with a specific line and a real question</td></tr><tr style=\"background:#F6EEDC;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">6</div><strong>Partial</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Position vague or no citation; gain or cost missing</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Generic agreement or no textual point</td></tr><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">0</div><strong>Missing</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">No post</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">No reply</td></tr></tbody></table></div><div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:12px 0 0 0;\"><strong>Total: 10 points.</strong></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "rubric": "je_r_forum",
+   "rubric_use_for_grading": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": true,
+   "week": 5,
+   "kind": "module-discussion"
+  },
+  {
+   "id": "je_d_pitch",
+   "title": "The Thornfield Chronicle: Pitch Your Feature",
+   "html": "<div data-ob=\"optima-brand-v2\" style=\"background:#0F5560;border-bottom:5px solid #C8706A;padding:24px 26px;\"><img src=\"https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png\" alt=\"Optima Academy\" style=\"width:36px;height:29px;vertical-align:middle;margin-right:13px;\" /><span style=\"color:#ffffff;font-size:27px;line-height:1.2;vertical-align:middle;\">The Thornfield Chronicle: Pitch Your Feature</span><div style=\"color:#CFE3E0;font-size:12px;line-height:1.5;margin:10px 0 0 0;\">English 3 &middot; Module 3</div></div><div style=\"margin:16px 0 4px 0;line-height:2.2;\"><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">10 points</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Graded discussion</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">One post, two replies</span><span style=\"display:inline-block;border:1px solid #E2D6BA;border-radius:20px;padding:5px 15px;margin:0 7px 0 0;font-size:12.5px;color:#5C5648;background:#ffffff;\">Due in Week 8</span></div><span data-ob-end=\"optima-brand-v2\"></span>\n<div style=\"background:#F6EEDC;border-left:9px solid #C8706A;padding:22px 28px;margin:4px 0 16px 0;\"><div style=\"font-size:21px;color:#1F2A2C;line-height:1.45;\">Pitch the angle for your informative feature on one part of Jane's world, written for a general reader.</div></div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Post</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:0 0 12px 0;\"><strong>Post (by the end of Week 8), your pitch, in 4 to 6 sentences:</strong></div>\n<table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:42px;line-height:1;vertical-align:top;padding:0 0 12px 0;\">1</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:top;padding:3px 0 12px 0;\">Which angle are you writing: (a) the real position of a Victorian governess, (b) the Gothic mode and why Brontë uses it, (c) inheritance, marriage law, and money in the novel, or (d) the shape of a coming-of-age story and how Jane Eyre fits and bends it?</td></tr></tbody></table><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:42px;line-height:1;vertical-align:top;padding:0 0 12px 0;\">2</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:top;padding:3px 0 12px 0;\">What is the lead sentence you plan to open with, the one that has to hook a stranger in the first line?</td></tr></tbody></table><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:42px;line-height:1;vertical-align:top;padding:0 0 12px 0;\">3</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:top;padding:3px 0 12px 0;\">Who is your \"general reader,\" specifically? (Not \"everyone.\" A magazine subscriber who has never read the novel, a student researching Victorian England, a modern reader curious about the period: pick one and say so.)</td></tr></tbody></table><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:42px;line-height:1;vertical-align:top;padding:0 0 12px 0;\">4</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:top;padding:3px 0 12px 0;\">What does that reader most need explained before the rest of your feature makes sense?</td></tr></tbody></table><table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:50px;min-width:50px;color:#C8706A;font-size:42px;line-height:1;vertical-align:top;padding:0 0 12px 0;\">5</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;vertical-align:top;padding:3px 0 12px 0;\">Name one source you expect to use (a text, a database, or a specific search you plan to run in JStor).</td></tr></tbody></table>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Reply</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:0 0 12px 0;\"><strong>Reply (by the start of Week 9) to at least TWO classmates.</strong> For each reply, name one specific thing that makes the angle clear to a stranger who has never read the novel, and ask one honest question, a place the lead might confuse a new reader, a fact that seems to need a source, or an angle that might be broader than 900 to 1,200 words can hold.</div>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">Guidance</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<table style=\"border-collapse:collapse;width:100%;margin:0;\"><tbody><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">A strong lead hooks a stranger, not a classmate who already knows the novel.</td></tr><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">Useful feedback is specific: \"Your lead assumes the reader already knows what a governess's salary tells you about her social rank. One sentence naming that rank before you compare it would fix it\" is.</td></tr><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">Every submission stays a solo piece; this discussion only trades feedback.</td></tr><tr><td style=\"width:22px;min-width:22px;color:#C8706A;font-size:19px;vertical-align:top;padding:0 0 11px 0;line-height:1.35;\">&#8250;</td><td style=\"font-size:15px;color:#1F2A2C;line-height:1.55;padding:2px 0 11px 4px;\">This discussion opens in Week 8 and stays open through the start of Week 9.</td></tr></tbody></table>\n<div style=\"margin:38px 0 16px 0;\"><div style=\"font-size:23px;color:#1F2A2C;line-height:1.25;\">How this is scored</div><div style=\"width:52px;border-bottom:4px solid #C8706A;margin:9px 0 0 0;font-size:1px;line-height:1px;\">&nbsp;</div></div>\n<div style=\"overflow-x:auto;\"><table style=\"border-collapse:collapse;width:100%;min-width:640px;margin:0;\"><thead><tr><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Level</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Post</th><th style=\"padding:10px 12px;font-size:13px;color:#ffffff;background:#0F5560;text-align:left;border:1px solid #0B4149;\">Replies</th></tr></thead><tbody><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">10</div><strong>Full</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Names one angle, a lead sentence, a specific reader, what that reader needs explained, and a source</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Two replies, each naming something specific and asking a real question</td></tr><tr style=\"background:#F6EEDC;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">6</div><strong>Partial</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Angle vague, reader described as \"everyone,\" or missing the lead sentence or source</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">Only one reply, or replies are generic (\"sounds good\")</td></tr><tr style=\"background:#ffffff;\"><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\"><div style=\"font-size:30px;line-height:1;color:#C8706A;margin:0 0 4px 0;\">0</div><strong>Missing</strong><br><span style=\"font-size:12px;color:#5C5648;\">points</span></td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">No post</td><td style=\"padding:10px 12px;font-size:14px;color:#1F2A2C;border:1px solid #E2D6BA;vertical-align:top;\">No replies</td></tr></tbody></table></div><div style=\"font-size:16px;color:#1F2A2C;line-height:1.6;margin:12px 0 0 0;\"><strong>Total: 10 points.</strong></div>",
+   "graded": true,
+   "points": 10.0,
+   "group": "je_ag_assignments",
+   "rubric": "je_r_pitch",
+   "rubric_use_for_grading": true,
+   "require_initial_post": true,
+   "discussion_type": "threaded",
+   "published": true,
+   "week": 8,
+   "kind": "module-discussion"
+  }
+ ],
+ "files": [],
+ "modules": [
+  {
+   "id": "je_m_w1",
+   "title": "Jane Eyre: Week 1",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "je_a_w1_l1",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w1_l2",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w1_l3",
+     "week": 1,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w1_l4",
+     "week": 1,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "je_m_w2",
+   "title": "Jane Eyre: Week 2",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "je_a_w2_l1",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w2_l2",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w2_l3",
+     "week": 2,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w2_l4",
+     "week": 2,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "je_m_w3",
+   "title": "Jane Eyre: Week 3",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "je_a_w3_l1",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w3_l2",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w3_l3",
+     "week": 3,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w3_l4",
+     "week": 3,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "je_m_w4",
+   "title": "Jane Eyre: Week 4",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "je_a_w4_l1",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w4_l2",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w4_l3",
+     "week": 4,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w4_l4",
+     "week": 4,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "je_m_w5",
+   "title": "Jane Eyre: Week 5",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "je_a_w5_l1",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w5_l2",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w5_l3",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w5_l4",
+     "week": 5,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_recorded_reading",
+     "week": 5
+    },
+    {
+     "type": "discussion",
+     "ref": "je_d_forum",
+     "week": 5
+    }
+   ]
+  },
+  {
+   "id": "je_m_w6",
+   "title": "Jane Eyre: Week 6",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "je_a_w6_l1",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w6_l2",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w6_l3",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w6_l4",
+     "week": 6,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_recitation",
+     "week": 6
+    }
+   ]
+  },
+  {
+   "id": "je_m_w7",
+   "title": "Jane Eyre: Week 7",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "je_a_w7_l1",
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w7_l2",
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w7_l3",
+     "week": 7,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w7_l4",
+     "week": 7,
+     "completion": "must_submit"
+    }
+   ]
+  },
+  {
+   "id": "je_m_w8",
+   "title": "Jane Eyre: Week 8",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "je_a_w8_l1",
+     "week": 8,
+     "completion": "must_submit"
+    },
+    {
+     "type": "discussion",
+     "ref": "je_d_pitch",
+     "week": 8
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_w8_l2",
+     "week": 8,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_qrc",
+     "week": 8
+    }
+   ]
+  },
+  {
+   "id": "je_m_w9",
+   "title": "Jane Eyre: Week 9",
+   "published": true,
+   "sequential": false,
+   "items": [
+    {
+     "type": "assignment",
+     "ref": "je_a_w9_l1",
+     "week": 9,
+     "completion": "must_submit"
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_final",
+     "week": 9
+    },
+    {
+     "type": "assignment",
+     "ref": "je_a_chronicle_online",
+     "week": 9
+    }
+   ]
+  }
+ ],
+ "source": {
+  "note": "Built 2026-11-25 by _src/kit/make_kit_spec.py from OneDrive 11th Grade ELA / 03_Development / \"Module 3 - Jane Eyre_Sparkle\": logistics.json (31 lessons, order and weeks), _src/w1..w7/week.json and _src/proj/w8/week.json (lesson titles), and _src/canvas/ (setup .md notes: points, group, submission types, rubric tables; rendered .html: the content between main tags, optima-standards block stripped, AI Disclosure already inside the Final). Lessons are served from https://optimaondemand.github.io/hs-english-3/module-3-jane-eyre-sparkle/ (proposed hosting folder, to confirm at deploy). Her rulings: every lesson is its own 10-pt PDF-upload assignment holding only the lesson iframe (2026-11-19); two gradebook groups, Assignments and Quizzes and projects. 31 lessons x 10 + Recorded Reading 25 + Forum 10 + Recitation 20 + Pitch 10 + Quarterly Reading Check 20 + Final 50 + Chronicle Online 10 = 455 points. Middle rubric levels have no point values in the setup notes; the build assumes Partial/Developing = half and Proficient = 80% of the criterion."
+ }
+}
